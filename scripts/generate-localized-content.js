@@ -71,9 +71,115 @@ const protectedTerms = [
 const cache = new Map();
 const sourceStrings = new Set();
 
+const manualTextOverrides = {
+  getVerifyCodeText: {
+    ar: 'إرسال الرمز',
+    bn: 'কোড নিন',
+    de: 'Code holen',
+    en: 'Get code',
+    es: 'Obtener código',
+    fa: 'دریافت کد',
+    fil: 'Kunin code',
+    fr: 'Obtenir code',
+    hi: 'कोड लें',
+    id: 'Ambil kode',
+    it: 'Ottieni codice',
+    ja: 'コード取得',
+    ko: '코드 받기',
+    ms: 'Dapatkan kod',
+    nl: 'Code ophalen',
+    pl: 'Pobierz kod',
+    pt: 'Obter código',
+    ru: 'Получить код',
+    th: 'รับรหัส',
+    tr: 'Kodu al',
+    ur: 'کوڈ لیں',
+    vi: 'Lấy mã',
+    'zh-CN': '获取验证码',
+    'zh-TW': '取得驗證碼',
+  },
+};
+
 const hasChinese = (value) => /[\u3400-\u9fff]/.test(value);
 const makeDocumentId = () => crypto.randomBytes(18).toString('base64url').slice(0, 24).toLowerCase();
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+function cleanupGeneratedText(value) {
+  if (typeof value !== 'string') {
+    return value;
+  }
+
+  let cleaned = value.replace(/\[\[[^\]]+\]\]\s*/g, '').trim();
+
+  protectedTerms.forEach((term, index) => {
+    cleaned = cleaned
+      .split(`ZXTRM${index}ZX`)
+      .join(term)
+      .split(`ZXTERM${index}ZX`)
+      .join(term);
+  });
+
+  return cleaned;
+}
+
+function cleanupGeneratedValue(value) {
+  if (Array.isArray(value)) {
+    return value.map(cleanupGeneratedValue);
+  }
+
+  if (value && typeof value === 'object') {
+    return Object.fromEntries(Object.entries(value).map(([key, item]) => [key, cleanupGeneratedValue(item)]));
+  }
+
+  return cleanupGeneratedText(value);
+}
+
+function cleanupGeneratedDatabaseText() {
+  const tx = db.transaction(() => {
+    for (const table of tables) {
+      const columns = db
+        .prepare(`pragma table_info(${table.name})`)
+        .all()
+        .filter((column) => /varchar|json|text/i.test(column.type));
+      const rows = db.prepare(`select id, ${columns.map((column) => column.name).join(', ')} from ${table.name}`).all();
+
+      for (const row of rows) {
+        const updates = {};
+
+        for (const column of columns) {
+          const value = row[column.name];
+          if (typeof value !== 'string') {
+            continue;
+          }
+
+          if (column.type.toLowerCase() === 'json') {
+            const cleanedJson = JSON.stringify(cleanupGeneratedValue(JSON.parse(value)));
+            if (cleanedJson !== value) {
+              updates[column.name] = cleanedJson;
+            }
+          } else {
+            const cleanedText = cleanupGeneratedText(value);
+            if (cleanedText !== value) {
+              updates[column.name] = cleanedText;
+            }
+          }
+        }
+
+        const keys = Object.keys(updates);
+        if (keys.length > 0) {
+          const sets = keys.map((key) => `${key} = @${key}`).join(', ');
+          db.prepare(`update ${table.name} set ${sets}, updated_at = @updated_at where id = @id`).run({
+            id: row.id,
+            updated_at: Date.now(),
+            ...updates,
+          });
+        }
+      }
+    }
+  });
+
+  tx();
+}
 
 function getSourceContentSnapshot() {
   const snapshot = {};
@@ -320,6 +426,8 @@ function translateJson(value, target) {
     for (const [key, item] of Object.entries(value)) {
       if (key === 'locale') {
         result[key] = target.locale;
+      } else if (manualTextOverrides[key]?.[target.locale]) {
+        result[key] = manualTextOverrides[key][target.locale];
       } else {
         result[key] = translateJson(item, target);
       }
@@ -552,6 +660,7 @@ async function main() {
   });
 
   const result = writeChanges(translatedByTable);
+  cleanupGeneratedDatabaseText();
   setStoredSourceHash(sourceHash);
   console.log(`Created ${result.created} rows, updated ${result.updated} rows.`);
 }
