@@ -2,6 +2,8 @@ const crypto = require('crypto');
 const Database = require('better-sqlite3');
 
 const db = new Database('.tmp/data.db');
+const forceSync = process.argv.includes('--force');
+const sourceHashStoreKey = 'custom_i18n_zh_cn_source_hash';
 
 const tables = [
   { name: 'homes', type: 'api::home.home' },
@@ -22,7 +24,7 @@ const tables = [
 const targets = [
   ['en', 'en'],
   ['ja', 'ja'],
-  ['zh-HK', 'zh-TW'],
+  ['zh-TW', 'zh-TW'],
   ['id', 'id'],
   ['ms', 'ms'],
   ['th', 'th'],
@@ -73,6 +75,75 @@ const hasChinese = (value) => /[\u3400-\u9fff]/.test(value);
 const makeDocumentId = () => crypto.randomBytes(18).toString('base64url').slice(0, 24).toLowerCase();
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+function getSourceContentSnapshot() {
+  const snapshot = {};
+
+  for (const table of tables) {
+    const columns = db
+      .prepare(`pragma table_info(${table.name})`)
+      .all()
+      .map((column) => column.name)
+      .filter((name) => !['id', 'created_at', 'updated_at', 'created_by_id', 'updated_by_id'].includes(name));
+
+    const rows = db
+      .prepare(`select ${columns.join(', ')} from ${table.name} where locale = 'zh-CN' order by document_id, published_at is null, id`)
+      .all();
+
+    const mediaRows = db
+      .prepare(
+        `
+        select m.file_id, m.related_type, m.field, m."order", s.document_id, s.published_at
+        from files_related_mph m
+        join ${table.name} s on s.id = m.related_id
+        where s.locale = 'zh-CN' and m.related_type = ?
+        order by s.document_id, s.published_at is null, m.field, m."order", m.file_id
+      `
+      )
+      .all(table.type);
+
+    snapshot[table.name] = { rows, mediaRows };
+  }
+
+  return JSON.stringify(snapshot);
+}
+
+function getSourceHash() {
+  return crypto.createHash('sha256').update(getSourceContentSnapshot()).digest('hex');
+}
+
+function getStoredSourceHash() {
+  const row = db.prepare('select value from strapi_core_store_settings where key = ?').get(sourceHashStoreKey);
+  if (!row) {
+    return null;
+  }
+
+  try {
+    return JSON.parse(row.value);
+  } catch {
+    return row.value;
+  }
+}
+
+function setStoredSourceHash(hash) {
+  const existing = db.prepare('select id from strapi_core_store_settings where key = ?').get(sourceHashStoreKey);
+
+  if (existing) {
+    db.prepare('update strapi_core_store_settings set value = ? where key = ?').run(
+      JSON.stringify(hash),
+      sourceHashStoreKey
+    );
+    return;
+  }
+
+  db.prepare('insert into strapi_core_store_settings (key, value, type, environment, tag) values (?, ?, ?, ?, ?)').run(
+    sourceHashStoreKey,
+    JSON.stringify(hash),
+    'string',
+    null,
+    null
+  );
+}
+
 function protectTerms(text) {
   let protectedText = text;
   const replacements = [];
@@ -82,7 +153,7 @@ function protectTerms(text) {
       return;
     }
 
-    const token = `ZXTERM${index}ZX`;
+    const token = `ZXTRM${index}ZX`;
     protectedText = protectedText.split(term).join(token);
     replacements.push([token, term]);
   });
@@ -369,6 +440,20 @@ function syncMediaLinks(sourceId, targetId, relatedType) {
 }
 
 async function main() {
+  const sourceHash = getSourceHash();
+  const storedSourceHash = getStoredSourceHash();
+
+  if (!forceSync && storedSourceHash === sourceHash) {
+    console.log('Chinese source content unchanged. Skipping i18n sync.');
+    return;
+  }
+
+  if (forceSync) {
+    console.log('Force sync enabled. Regenerating localized content.');
+  } else {
+    console.log('Chinese source content changed. Regenerating localized content.');
+  }
+
   const translatedByTable = [];
   const tableData = [];
 
@@ -467,6 +552,7 @@ async function main() {
   });
 
   const result = writeChanges(translatedByTable);
+  setStoredSourceHash(sourceHash);
   console.log(`Created ${result.created} rows, updated ${result.updated} rows.`);
 }
 
