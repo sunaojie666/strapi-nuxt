@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "streamers",
+  "info": {
+    "singularName": "streamer",
+    "pluralName": "streamers",
+    "displayName": "主播列表"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "username": {
+      "type": "string"
+    },
+    "followers": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

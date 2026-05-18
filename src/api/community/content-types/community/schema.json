@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "communitys",
+  "info": {
+    "singularName": "community",
+    "pluralName": "communitys",
+    "displayName": "全球社区"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "content": {
+      "type": "json"
+    }
+  }
+}
