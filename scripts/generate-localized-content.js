@@ -3,9 +3,19 @@ const Database = require('better-sqlite3');
 
 const db = new Database('.tmp/data.db');
 const forceSync = process.argv.includes('--force');
+const onlyArg = process.argv.find((arg) => arg.startsWith('--only='));
+const onlyTables = onlyArg
+  ? new Set(
+      onlyArg
+        .slice('--only='.length)
+        .split(',')
+        .map((name) => name.trim())
+        .filter(Boolean)
+    )
+  : null;
 const sourceHashStoreKey = 'custom_i18n_zh_cn_source_hash';
 
-const tables = [
+const allTables = [
   { name: 'homes', type: 'api::home.home' },
   { name: 'navigations', type: 'api::navigation.navigation' },
   { name: 'features', type: 'api::feature.feature' },
@@ -18,8 +28,14 @@ const tables = [
   { name: 'footers', type: 'api::footer.footer' },
   { name: 'forms', type: 'api::form.form' },
   { name: 'logins', type: 'api::login.login' },
+  { name: 'profiles', type: 'api::profile.profile' },
   { name: 'virtuals', type: 'api::virtual.virtual' },
 ];
+const tables = onlyTables ? allTables.filter((table) => onlyTables.has(table.name)) : allTables;
+
+if (onlyTables && tables.length === 0) {
+  throw new Error(`No matching tables for --only=${Array.from(onlyTables).join(',')}`);
+}
 
 const targets = [
   ['en', 'en'],

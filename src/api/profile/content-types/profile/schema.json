@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "logins",
+  "collectionName": "profiles",
   "info": {
-    "singularName": "login",
-    "pluralName": "logins",
-    "displayName": "登录"
+    "singularName": "profile",
+    "pluralName": "profiles",
+    "displayName": "个人中心"
   },
   "options": {
     "draftAndPublish": true
@@ -15,7 +15,7 @@
     }
   },
   "attributes": {
-    "logins": {
+    "data": {
       "type": "json",
       "pluginOptions": {
         "i18n": {
