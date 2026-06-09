@@ -13,10 +13,22 @@ const onlyTables = onlyArg
         .filter(Boolean)
     )
   : null;
+const targetArg = process.argv.find((arg) => arg.startsWith('--target='));
+const onlyLocales = targetArg
+  ? new Set(
+      targetArg
+        .slice('--target='.length)
+        .split(',')
+        .map((name) => name.trim())
+        .filter(Boolean)
+    )
+  : null;
 const sourceHashStoreKey = 'custom_i18n_zh_cn_source_hash';
 
 const allTables = [
   { name: 'homes', type: 'api::home.home' },
+  { name: 'abouts', type: 'api::about.about' },
+  { name: 'downloads', type: 'api::download.download' },
   { name: 'navigations', type: 'api::navigation.navigation' },
   { name: 'features', type: 'api::feature.feature' },
   { name: 'pricings', type: 'api::pricing.pricing' },
@@ -37,7 +49,7 @@ if (onlyTables && tables.length === 0) {
   throw new Error(`No matching tables for --only=${Array.from(onlyTables).join(',')}`);
 }
 
-const targets = [
+const allTargets = [
   ['en', 'en'],
   ['ja', 'ja'],
   ['zh-TW', 'zh-TW'],
@@ -62,6 +74,11 @@ const targets = [
   ['bn', 'bn'],
   ['fa', 'fa'],
 ].map(([locale, translateCode]) => ({ locale, translateCode }));
+const targets = onlyLocales ? allTargets.filter((target) => onlyLocales.has(target.locale)) : allTargets;
+
+if (onlyLocales && targets.length === 0) {
+  throw new Error(`No matching locales for --target=${Array.from(onlyLocales).join(',')}`);
+}
 
 const protectedTerms = [
   'VicastCam',
@@ -83,6 +100,14 @@ const protectedTerms = [
   'AI',
   'iOS',
 ];
+
+const navigationBrandOverride = {
+  source: '维卡斯特',
+  defaultTarget: 'VicastCam',
+  targetByLocale: {
+    'zh-TW': '維卡斯特',
+  },
+};
 
 const cache = new Map();
 const sourceStrings = new Set();
@@ -458,7 +483,15 @@ function translateJson(value, target) {
   return value;
 }
 
-function translateRow(source, target, columns) {
+function translateNavigationBrandText(text, target) {
+  if (text !== navigationBrandOverride.source) {
+    return null;
+  }
+
+  return navigationBrandOverride.targetByLocale[target.locale] || navigationBrandOverride.defaultTarget;
+}
+
+function translateRow(table, source, target, columns) {
   const output = {};
 
   for (const column of columns) {
@@ -480,7 +513,10 @@ function translateRow(source, target, columns) {
       const parsed = JSON.parse(value);
       output[column.name] = JSON.stringify(translateJson(parsed, target));
     } else if (typeof value === 'string') {
-      output[column.name] = translateText(value, target.translateCode);
+      output[column.name] =
+        table.name === 'navigations'
+          ? translateNavigationBrandText(value, target) || translateText(value, target.translateCode)
+          : translateText(value, target.translateCode);
     } else {
       output[column.name] = value;
     }
@@ -617,7 +653,7 @@ async function main() {
           db
             .prepare(`select * from ${table.name} where document_id = ? and locale = 'zh-CN' and published_at is null order by id limit 1`)
             .get(sourcePublished.document_id) || sourcePublished;
-        const translated = translateRow(sourcePublished, target, columns);
+        const translated = translateRow(table, sourcePublished, target, columns);
         translatedByTable.push({
           table,
           target,

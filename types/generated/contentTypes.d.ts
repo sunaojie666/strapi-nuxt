@@ -114,43 +114,6 @@ export interface AdminApiTokenPermission extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface AdminAuditLog extends Struct.CollectionTypeSchema {
-  collectionName: 'strapi_audit_logs';
-  info: {
-    displayName: 'Audit Log';
-    pluralName: 'audit-logs';
-    singularName: 'audit-log';
-  };
-  options: {
-    draftAndPublish: false;
-    timestamps: false;
-  };
-  pluginOptions: {
-    'content-manager': {
-      visible: false;
-    };
-    'content-type-builder': {
-      visible: false;
-    };
-  };
-  attributes: {
-    action: Schema.Attribute.String & Schema.Attribute.Required;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    date: Schema.Attribute.DateTime & Schema.Attribute.Required;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<'oneToMany', 'admin::audit-log'> &
-      Schema.Attribute.Private;
-    payload: Schema.Attribute.JSON;
-    publishedAt: Schema.Attribute.DateTime;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    user: Schema.Attribute.Relation<'oneToOne', 'admin::user'>;
-  };
-}
-
 export interface AdminPermission extends Struct.CollectionTypeSchema {
   collectionName: 'admin_permissions';
   info: {
@@ -477,6 +440,40 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiAboutAbout extends Struct.CollectionTypeSchema {
+  collectionName: 'abouts';
+  info: {
+    displayName: '\u5173\u4E8E\u6211\u4EEC';
+    pluralName: 'abouts';
+    singularName: 'about';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    aboutBox: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::about.about'>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiCardCard extends Struct.CollectionTypeSchema {
   collectionName: 'cards';
   info: {
@@ -551,6 +548,38 @@ export interface ApiCommunityCommunity extends Struct.CollectionTypeSchema {
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::community.community'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiDownloadDownload extends Struct.CollectionTypeSchema {
+  collectionName: 'downloads';
+  info: {
+    displayName: '\u4E0B\u8F7D\u4E2D\u5FC3';
+    pluralName: 'downloads';
+    singularName: 'download';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::download.download'
     >;
     publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
@@ -1610,15 +1639,16 @@ declare module '@strapi/strapi' {
     export interface ContentTypeSchemas {
       'admin::api-token': AdminApiToken;
       'admin::api-token-permission': AdminApiTokenPermission;
-      'admin::audit-log': AdminAuditLog;
       'admin::permission': AdminPermission;
       'admin::role': AdminRole;
       'admin::session': AdminSession;
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
+      'api::about.about': ApiAboutAbout;
       'api::card.card': ApiCardCard;
       'api::community.community': ApiCommunityCommunity;
+      'api::download.download': ApiDownloadDownload;
       'api::faq.faq': ApiFaqFaq;
       'api::feature.feature': ApiFeatureFeature;
       'api::footer.footer': ApiFooterFooter;

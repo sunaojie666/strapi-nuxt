@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "downloads",
+  "info": {
+    "singularName": "download",
+    "pluralName": "downloads",
+    "displayName": "下载中心"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
