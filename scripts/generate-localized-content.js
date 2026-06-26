@@ -24,6 +24,7 @@ const onlyLocales = targetArg
     )
   : null;
 const sourceHashStoreKey = 'custom_i18n_zh_cn_source_hash';
+const translationRequestTimeoutMs = 15000;
 
 const allTables = [
   { name: 'homes', type: 'api::home.home' },
@@ -32,6 +33,8 @@ const allTables = [
   { name: 'navigations', type: 'api::navigation.navigation' },
   { name: 'features', type: 'api::feature.feature' },
   { name: 'pricings', type: 'api::pricing.pricing' },
+  { name: 'checkouts', type: 'api::checkout.checkout' },
+  { name: 'privacys', type: 'api::privacy.privacy' },
   { name: 'faqs', type: 'api::faq.faq' },
   { name: 'tutorials', type: 'api::tutorial.tutorial' },
   { name: 'cards', type: 'api::card.card' },
@@ -82,6 +85,7 @@ if (onlyLocales && targets.length === 0) {
 
 const protectedTerms = [
   'VicastCam',
+  'business@vicastcam.com',
   'App Store',
   'Google Play',
   'YouTube',
@@ -107,6 +111,13 @@ const navigationBrandOverride = {
   targetByLocale: {
     'zh-TW': '維卡斯特',
   },
+};
+
+const streamerFollowersOverride = {
+  '5万粉丝': '50k',
+  '5萬粉絲': '50k',
+  '10万粉丝': '100k',
+  '10萬粉絲': '100k',
 };
 
 const cache = new Map();
@@ -381,8 +392,11 @@ async function fetchTranslation(text, translateCode) {
     encodeURIComponent(protectedText);
 
   for (let attempt = 1; attempt <= 3; attempt += 1) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), translationRequestTimeoutMs);
+
     try {
-      const res = await fetch(url);
+      const res = await fetch(url, { signal: controller.signal });
       if (!res.ok) {
         throw new Error(`HTTP ${res.status}`);
       }
@@ -401,6 +415,8 @@ async function fetchTranslation(text, translateCode) {
         return text;
       }
       await sleep(300 * attempt);
+    } finally {
+      clearTimeout(timeout);
     }
   }
 }
@@ -409,9 +425,23 @@ async function prepareTranslations(target) {
   const strings = [...sourceStrings];
   const missing = strings.filter((text) => !cache.has(`${target.translateCode}\n${text}`));
   const chunkSize = 35;
+  const maxChunkLength = 1400;
 
-  for (let start = 0; start < missing.length; start += chunkSize) {
-    const chunk = missing.slice(start, start + chunkSize);
+  for (let start = 0; start < missing.length; ) {
+    const chunk = [];
+    let chunkLength = 0;
+
+    while (start < missing.length && chunk.length < chunkSize) {
+      const text = missing[start];
+      if (chunk.length > 0 && chunkLength + text.length > maxChunkLength) {
+        break;
+      }
+
+      chunk.push(text);
+      chunkLength += text.length;
+      start += 1;
+    }
+
     const encodedLines = chunk.map((text, index) => {
       const { protectedText } = protectTerms(text);
       return `[[${index}]] ${protectedText}`;
@@ -491,6 +521,10 @@ function translateNavigationBrandText(text, target) {
   return navigationBrandOverride.targetByLocale[target.locale] || navigationBrandOverride.defaultTarget;
 }
 
+function translateStreamerFollowers(text) {
+  return streamerFollowersOverride[text] || null;
+}
+
 function translateRow(table, source, target, columns) {
   const output = {};
 
@@ -512,6 +546,8 @@ function translateRow(table, source, target, columns) {
     if (column.type.toLowerCase() === 'json') {
       const parsed = JSON.parse(value);
       output[column.name] = JSON.stringify(translateJson(parsed, target));
+    } else if (table.name === 'streamers' && column.name === 'followers' && typeof value === 'string') {
+      output[column.name] = translateStreamerFollowers(value) || translateText(value, target.translateCode);
     } else if (typeof value === 'string') {
       output[column.name] =
         table.name === 'navigations'

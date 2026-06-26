@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "privacys",
+  "info": {
+    "singularName": "privacy",
+    "pluralName": "privacys",
+    "displayName": "隐私政策"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

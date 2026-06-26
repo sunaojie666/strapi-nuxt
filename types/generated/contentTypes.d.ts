@@ -524,6 +524,43 @@ export interface ApiCardCard extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiCheckoutCheckout extends Struct.CollectionTypeSchema {
+  collectionName: 'checkouts';
+  info: {
+    displayName: '\u8D2D\u4E70';
+    pluralName: 'checkouts';
+    singularName: 'checkout';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::checkout.checkout'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiCommunityCommunity extends Struct.CollectionTypeSchema {
   collectionName: 'communitys';
   info: {
@@ -972,6 +1009,43 @@ export interface ApiPricingPricing extends Struct.CollectionTypeSchema {
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::pricing.pricing'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiPrivacyPrivacy extends Struct.CollectionTypeSchema {
+  collectionName: 'privacys';
+  info: {
+    displayName: '\u9690\u79C1\u653F\u7B56';
+    pluralName: 'privacys';
+    singularName: 'privacy';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::privacy.privacy'
     >;
     publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
@@ -1647,6 +1721,7 @@ declare module '@strapi/strapi' {
       'admin::user': AdminUser;
       'api::about.about': ApiAboutAbout;
       'api::card.card': ApiCardCard;
+      'api::checkout.checkout': ApiCheckoutCheckout;
       'api::community.community': ApiCommunityCommunity;
       'api::download.download': ApiDownloadDownload;
       'api::faq.faq': ApiFaqFaq;
@@ -1657,6 +1732,7 @@ declare module '@strapi/strapi' {
       'api::login.login': ApiLoginLogin;
       'api::navigation.navigation': ApiNavigationNavigation;
       'api::pricing.pricing': ApiPricingPricing;
+      'api::privacy.privacy': ApiPrivacyPrivacy;
       'api::profile.profile': ApiProfileProfile;
       'api::streamer.streamer': ApiStreamerStreamer;
       'api::tutorial.tutorial': ApiTutorialTutorial;
