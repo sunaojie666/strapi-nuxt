@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "soundcards",
+  "info": {
+    "singularName": "soundcard",
+    "pluralName": "soundcards",
+    "displayName": "虚拟声卡"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
