@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "gdprs",
+  "info": {
+    "singularName": "gdpr",
+    "pluralName": "gdprs",
+    "displayName": "GDPR与数据保护"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

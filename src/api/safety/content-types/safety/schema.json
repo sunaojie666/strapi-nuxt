@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "safetys",
+  "info": {
+    "singularName": "safety",
+    "pluralName": "safetys",
+    "displayName": "安全与承诺隐私"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

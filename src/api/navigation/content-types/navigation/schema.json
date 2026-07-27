@@ -54,6 +54,14 @@
           "localized": true
         }
       }
+    },
+    "navTeam": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }
