@@ -18,21 +18,6 @@
     "title": {
       "type": "string"
     },
-    "coverImg": {
-      "type": "media",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      },
-      "multiple": true,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "tag1": {
       "type": "string",
       "pluginOptions": {
