@@ -1,0 +1,34 @@
+{
+  "purpose": "Create an approved international English master from Simplified Chinese. This master is the only source for every later locale.",
+  "semanticContract": [
+    "Simplified Chinese is the final factual authority.",
+    "Do not add, remove, weaken, broaden, narrow, or substitute features, audiences, guarantees, comparisons, conditions, limitations, prices, or commercial claims.",
+    "When the Chinese source is ambiguous, retain the ambiguity or mark it for human review; never invent a more marketable interpretation.",
+    "Brand names, product names, prices, currencies, dates, quantities, URLs, emails, variables, code, identifiers, and technical limits must remain exact."
+  ],
+  "internationalEnglish": [
+    "Use globally understood contemporary English. Avoid region-specific slang, idioms, spelling, date formats, units, and cultural references unless the source page is market-specific.",
+    "Prefer direct active sentences and concrete verbs. Keep one primary idea per sentence.",
+    "Use sentence case for headings and navigation labels unless an established brand or UI convention requires otherwise.",
+    "Use short, action-oriented CTAs that match the real action: Download, Get started, Learn more, View plans, Contact us, or equivalent.",
+    "Use clear noun phrases or verb phrases for feature cards; never use past-tense release-note phrasing as a feature name.",
+    "Keep terminology consistent across every page and module."
+  ],
+  "grammarAndStyleChecks": [
+    "Check subject-verb agreement, articles, countable nouns, singular/plural form, pronoun reference, prepositions, tense, capitalization, punctuation, and parallel structure.",
+    "Do not translate Chinese four-character slogans, paired phrases, or abstract business nouns literally. Rebuild the sentence around the product capability or user outcome.",
+    "Avoid vague filler and unsupported superlatives, including empower, revolutionary, world-class, industry-leading, global enabler, experience now, more convenient, realize a feature, and setting an industry benchmark.",
+    "Do not use title case by default. Do not add a period to a short button label.",
+    "Use a glossary-approved term for each product concept; do not vary terms for stylistic reasons."
+  ],
+  "referenceUse": [
+    "Comparable English-language product websites may guide information hierarchy, headline density, CTA patterns, and plain-language rhythm.",
+    "They cannot supply facts, claims, terminology, or wording for VicastCam. Never copy their copy."
+  ],
+  "reviewQuestions": [
+    "Does this sound like original international consumer-tech website copy rather than translated Chinese?",
+    "Does every source fact and limitation remain present and unchanged?",
+    "Are all headline, CTA, and feature labels specific, concise, and consistent?",
+    "Could a non-native reader misread a product claim, a condition, a price, or a technical limit?"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "graphics",
+  "info": {
+    "singularName": "graphic",
+    "pluralName": "graphics",
+    "displayName": "图文教程"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "type": "json",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

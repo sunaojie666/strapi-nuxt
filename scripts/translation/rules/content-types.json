@@ -1,0 +1,39 @@
+{
+  "marketing": {
+    "description": "homepage, feature, download, brand, and pricing-page marketing modules",
+    "instructions": [
+      "Rewrite in the style of a native consumer-technology website for the target market. Sentence order, headline length, and calls to action may change, but product facts may not.",
+      "Keep the complete source meaning: do not add, remove, weaken, broaden, narrow, or substitute features, audiences, guarantees, comparisons, conditions, or claims.",
+      "Keep headings short, specific, and easy to scan. Lead with a user capability or outcome instead of an abstract corporate slogan.",
+      "Use a natural, explicit product-site call to action for the target language."
+    ]
+  },
+  "ui": {
+    "description": "navigation, buttons, forms, empty states, notifications, and settings",
+    "instructions": [
+      "Keep copy short, consistent, and actionable. Use one term consistently for the same action.",
+      "Do not trade clarity for literary style or replace familiar UI labels with full sentences."
+    ]
+  },
+  "support": {
+    "description": "FAQ, help-center, illustrated tutorial, and troubleshooting modules",
+    "instructions": [
+      "Use clear, reassuring, and actionable support-documentation language. Preserve the original order of steps.",
+      "Preserve all warnings concerning account deletion, subscriptions, backups, permissions, and device settings exactly."
+    ]
+  },
+  "technical": {
+    "description": "SDK, API, integration, and code-related documentation",
+    "instructions": [
+      "Technical accuracy and terminology consistency take priority over marketing polish. Never translate code, identifiers, file names, paths, commands, parameters, or URLs.",
+      "Localize prose only when its technical meaning is fully preserved."
+    ]
+  },
+  "legal": {
+    "description": "privacy, refund, terms-of-service, settlement, and compliance content",
+    "instructions": [
+      "Communicate the source strictly. Do not creatively rewrite, summarize, or add legal commitments.",
+      "This is draft-only content and requires human/legal review. It must not be published automatically."
+    ]
+  }
+}

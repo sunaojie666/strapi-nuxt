@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0",
+  "pipeline": [
+    "zh-CN source",
+    "en draft",
+    "en machine-reviewed",
+    "en approved",
+    "other locale draft",
+    "other locale machine-reviewed",
+    "other locale approved",
+    "Strapi draft sync",
+    "manual publish"
+  ],
+  "statuses": ["draft", "machine-reviewed", "needs-human-review", "approved", "rejected", "published"],
+  "englishMaster": {
+    "sourceLocale": "zh-CN",
+    "targetLocale": "en",
+    "minimumMachineScore": 90,
+    "requiresHumanReviewFor": ["marketing", "legal"],
+    "mustBeApprovedBeforeDownstreamTranslation": true
+  },
+  "contentTypes": {
+    "marketing": { "requiresHumanReview": true, "canAutoPublish": false },
+    "ui": { "requiresHumanReview": false, "canAutoPublish": false },
+    "support": { "requiresHumanReview": false, "canAutoPublish": false },
+    "technical": { "requiresHumanReview": true, "canAutoPublish": false },
+    "legal": { "requiresHumanReview": true, "canAutoPublish": false }
+  },
+  "highRiskPaths": [
+    "price",
+    "pricing",
+    "payment",
+    "checkout",
+    "subscription",
+    "refund",
+    "delete-account",
+    "privacy",
+    "terms",
+    "agreement"
+  ],
+  "retry": { "maxAttempts": 3, "initialDelayMs": 500 },
+  "inputRequirements": {
+    "minimumUnit": "complete page module, card group, FAQ group, pricing block, or tutorial section",
+    "requiredContext": ["page name", "module purpose", "field purpose", "target user", "CTA destination"],
+    "forbidFragmentTranslation": true
+  },
+  "qualityGates": {
+    "structureAndFacts": true,
+    "glossaryConsistency": true,
+    "independentModelReview": true,
+    "humanSampling": true,
+    "humanReviewForHighRisk": true,
+    "pageRenderReviewBeforePublish": true
+  },
+  "marketResearch": {
+    "requiredForEveryDownstreamLocale": true,
+    "minimumSuccessfulPublicReferencePages": 3,
+    "requiredObservations": ["headline structure", "sentence length", "CTA wording", "navigation labels", "support content tone", "mobile readability"],
+    "referencePolicy": "References teach local writing and user-experience conventions only. They never supply product facts, claims, or reusable copy."
+  },
+  "layout": {
+    "requireDesktopAndMobileRenderReview": true,
+    "check": ["hero title wrapping", "button overflow", "navigation overflow", "card-height changes", "RTL direction and mixed-script punctuation"],
+    "note": "Visual validation runs after the translated content is placed in a staging page. It is not a text-only validator."
+  },
+  "seo": {
+    "requireSeparateReview": true,
+    "fields": ["title", "meta description", "h1", "Open Graph title", "Open Graph description", "canonical", "hreflang", "structured data"],
+    "rules": ["Use target-market search phrasing without keyword stuffing.", "Do not change canonical URLs, hreflang mapping, or structured-data facts without explicit review."]
+  },
+  "apiSafety": {
+    "credentialsFromEnvironmentOnly": true,
+    "redactBeforeRemoteModelCall": ["customer personal data", "private contact data", "secrets", "tokens"],
+    "cacheBySourceHash": true,
+    "perLocaleFailureIsolated": true,
+    "writeToStrapiDraftOnly": true,
+    "publishRequiresExplicitHumanAction": true
+  },
+  "rollback": {
+    "keepSourceAndTranslationSnapshots": true,
+    "keepAuditManifest": true,
+    "rerunByDocumentLocaleAndSourceHash": true
+  },
+  "audit": {
+    "recordModel": true,
+    "recordPromptVersion": true,
+    "recordRulesVersion": true,
+    "recordSourceHash": true,
+    "recordTranslationHash": true,
+    "recordReviewer": true
+  }
+}

@@ -897,6 +897,43 @@ export interface ApiGdprGdpr extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiGraphicGraphic extends Struct.CollectionTypeSchema {
+  collectionName: 'graphics';
+  info: {
+    displayName: '\u56FE\u6587\u6559\u7A0B';
+    pluralName: 'graphics';
+    singularName: 'graphic';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::graphic.graphic'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiHomeHome extends Struct.CollectionTypeSchema {
   collectionName: 'homes';
   info: {
@@ -2112,6 +2149,7 @@ declare module '@strapi/strapi' {
       'api::footer.footer': ApiFooterFooter;
       'api::form.form': ApiFormForm;
       'api::gdpr.gdpr': ApiGdprGdpr;
+      'api::graphic.graphic': ApiGraphicGraphic;
       'api::home.home': ApiHomeHome;
       'api::login.login': ApiLoginLogin;
       'api::member.member': ApiMemberMember;

@@ -1,0 +1,33 @@
+{
+  "sourceLocale": "zh-CN",
+  "intermediateLocale": "en",
+  "translationPipeline": {
+    "en": "zh-CN",
+    "allOtherTargetLocales": "en"
+  },
+  "targetLocales": [
+    { "code": "en", "language": "en", "market": "international English", "name": "English", "dir": "ltr" },
+    { "code": "zh-TW", "language": "zh-TW", "market": "Taiwan", "name": "Traditional Chinese", "dir": "ltr" },
+    { "code": "id", "language": "id-ID", "market": "Indonesia", "name": "Indonesian", "dir": "ltr" },
+    { "code": "ms", "language": "ms-MY", "market": "Malaysia", "name": "Malay", "dir": "ltr" },
+    { "code": "th", "language": "th-TH", "market": "Thailand", "name": "Thai", "dir": "ltr" },
+    { "code": "vi", "language": "vi-VN", "market": "Vietnam", "name": "Vietnamese", "dir": "ltr" },
+    { "code": "fil", "language": "fil-PH", "market": "Philippines", "name": "Filipino", "dir": "ltr" },
+    { "code": "es", "language": "es-ES", "market": "Spain", "name": "Spanish", "dir": "ltr" },
+    { "code": "pt", "language": "pt-PT", "market": "Portugal", "name": "Portuguese", "dir": "ltr" },
+    { "code": "ar", "language": "ar", "market": "Modern Standard Arabic / Arabic-speaking markets", "name": "Arabic", "dir": "rtl" },
+    { "code": "ja", "language": "ja-JP", "market": "Japan", "name": "Japanese", "dir": "ltr" },
+    { "code": "tr", "language": "tr-TR", "market": "Turkey", "name": "Turkish", "dir": "ltr" },
+    { "code": "it", "language": "it-IT", "market": "Italy", "name": "Italian", "dir": "ltr" },
+    { "code": "de", "language": "de-DE", "market": "Germany", "name": "German", "dir": "ltr" },
+    { "code": "fr", "language": "fr-FR", "market": "France", "name": "French", "dir": "ltr" },
+    { "code": "ko", "language": "ko-KR", "market": "South Korea", "name": "Korean", "dir": "ltr" },
+    { "code": "ru", "language": "ru-RU", "market": "Russia", "name": "Russian", "dir": "ltr" },
+    { "code": "pl", "language": "pl-PL", "market": "Poland", "name": "Polish", "dir": "ltr" },
+    { "code": "nl", "language": "nl-NL", "market": "Netherlands", "name": "Dutch", "dir": "ltr" },
+    { "code": "hi", "language": "hi-IN", "market": "India", "name": "Hindi", "dir": "ltr" },
+    { "code": "ur", "language": "ur-PK", "market": "Pakistan", "name": "Urdu", "dir": "rtl" },
+    { "code": "bn", "language": "bn-BD", "market": "Bangladesh", "name": "Bengali", "dir": "ltr" },
+    { "code": "fa", "language": "fa-IR", "market": "Iran / Persian-speaking markets", "name": "Persian", "dir": "rtl" }
+  ]
+}

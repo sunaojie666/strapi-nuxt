@@ -1,0 +1,17 @@
+{
+  "purpose": "Writing-pattern references only. Do not copy copy, facts, product claims, page structure, or visual design.",
+  "categories": [
+    {
+      "name": "Live streaming and creator tools",
+      "lookFor": ["short benefit-led hero headlines", "clear action CTAs", "feature labels that describe a capability", "plain-language creator benefits"]
+    },
+    {
+      "name": "Virtual camera and video tools",
+      "lookFor": ["accurate technical terminology", "clear platform compatibility wording", "concise setup/support instructions"]
+    },
+    {
+      "name": "International SaaS product sites",
+      "lookFor": ["international English that avoids local slang", "consistent CTA hierarchy", "specific claims supported by context"]
+    }
+  ]
+}

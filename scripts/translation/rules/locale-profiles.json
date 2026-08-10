@@ -1,0 +1,140 @@
+{
+  "en": {
+    "voice": "Natural international English consumer-tech copy: direct, benefit-led, concise, and active. Use globally understood wording and avoid US-only, UK-only, or region-specific idioms unless a page explicitly targets that market.",
+    "headline": "Use short outcome-led headlines; never stack abstract nouns or imitate Chinese slogan structure.",
+    "cta": "Use conventional actions such as Download now, Get started, Try it free, Learn more, or View plans when accurate.",
+    "avoid": ["empower users", "realize a feature", "more convenient", "experience now", "industry benchmark", "global enabler"]
+  },
+  "zh-TW": {
+    "voice": "Taiwan consumer-tech copy: clear, friendly, practical, and written in Taiwanese Traditional Chinese vocabulary rather than character-converted Simplified Chinese.",
+    "headline": "Lead with the user benefit or use case; keep titles natural and compact.",
+    "cta": "Use concise Taiwan-style product actions.",
+    "avoid": ["Mainland China marketing language", "literal character conversion", "using projector when the feature means screen casting"]
+  },
+  "id": {
+    "voice": "Indonesian consumer-tech copy: friendly, straightforward, practical, and natural in Bahasa Indonesia.",
+    "headline": "Use a clear benefit or capability; avoid inflated corporate claims.",
+    "cta": "Use common Indonesian product-site action labels.",
+    "avoid": ["literal translations of empower or enabler", "unexplained English marketing jargon"]
+  },
+  "ms": {
+    "voice": "Malaysia product-site copy: warm, clear, efficient, and written in standard Bahasa Malaysia rather than Indonesian forms.",
+    "headline": "Make the promise concrete and easy to scan.",
+    "cta": "Use common Malaysia Malay product actions.",
+    "avoid": ["Indonesian-only vocabulary", "corporate buzzwords"]
+  },
+  "th": {
+    "voice": "Thai consumer-tech copy: polite, approachable, concise, and written with natural Thai sentence flow.",
+    "headline": "State the key benefit without copying Chinese slogan structure.",
+    "cta": "Use short familiar Thai action labels.",
+    "avoid": ["bureaucratic Thai", "long noun chains", "literal CTA translation"]
+  },
+  "vi": {
+    "voice": "Vietnamese consumer-tech copy: modern, clear, user-focused, and natural in Vietnamese sentence order.",
+    "headline": "Keep titles short and benefit-led.",
+    "cta": "Use natural Vietnamese product actions.",
+    "avoid": ["empty promotional superlatives", "literal corporate metaphors"]
+  },
+  "fil": {
+    "voice": "Philippine Filipino product copy: conversational, helpful, and simple. Keep common local English technical terms where users expect them.",
+    "headline": "Favor a clear creator benefit over formal corporate language.",
+    "cta": "Use natural Filipino or established English UI actions consistently.",
+    "avoid": ["overly literal Tagalog", "invented translations for familiar technical terms"]
+  },
+  "es": {
+    "voice": "Spain Spanish consumer-tech copy. Use European Spanish consistently, direct phrasing, and polished sentence case.",
+    "headline": "Use concise sentence case; avoid English title case and state a concrete benefit.",
+    "cta": "Use common Spain Spanish product actions.",
+    "avoid": ["Latin American regionalisms", "global enabler wording", "past-tense feature labels"]
+  },
+  "pt": {
+    "voice": "Portugal Portuguese consumer-tech copy. Use European Portuguese, not Brazilian Portuguese, with a clear and credible tone.",
+    "headline": "Use compact concrete titles and natural Portuguese word order.",
+    "cta": "Use common European Portuguese product actions.",
+    "avoid": ["Brazilian Portuguese forms", "literal corporate slogans"]
+  },
+  "ar": {
+    "voice": "Modern Standard Arabic for a pan-Arab consumer-tech site: professional, clear, respectful, and concise. Keep product names and established technical acronyms in Latin script when appropriate.",
+    "headline": "Use natural Arabic sentence structure, not translated English or Chinese noun chains.",
+    "cta": "Use explicit common Arabic actions.",
+    "avoid": ["dialect-specific copy", "ambiguous pronouns", "unmanaged Latin-number punctuation in RTL text"]
+  },
+  "ja": {
+    "voice": "Japanese consumer-tech copy: natural, trustworthy, restrained, and written with familiar product/UI terminology.",
+    "headline": "Use a short benefit-led Japanese headline in one clear sentence or two complementary phrases.",
+    "cta": "Use familiar Japanese product-site action labels.",
+    "avoid": ["unnecessary katakana", "translated business jargon", "past-tense feature headings", "unnecessary spaces around loanwords"]
+  },
+  "tr": {
+    "voice": "Turkish consumer-tech copy: direct, clear, benefit-led, and written with natural Turkish suffixes and sentence flow.",
+    "headline": "Focus on what the creator can do.",
+    "cta": "Use common Turkish product actions.",
+    "avoid": ["English noun stacks", "abstract corporate claims"]
+  },
+  "it": {
+    "voice": "Italian consumer-tech copy: polished, approachable, concrete, and written in natural Italian sentence case.",
+    "headline": "Prefer a clear user result.",
+    "cta": "Use common Italian product actions.",
+    "avoid": ["English calques", "unsubstantiated superlatives"]
+  },
+  "de": {
+    "voice": "German consumer-tech copy: precise, direct, factual, and written with idiomatic German compounds and grammar.",
+    "headline": "Use concise sentence case headings with a concrete capability or result.",
+    "cta": "Use common German product actions.",
+    "avoid": ["English corporate jargon", "benchmark setting claims", "awkward tool compounds", "past-tense feature headings"]
+  },
+  "fr": {
+    "voice": "France French consumer-tech copy: fluent, concise, trustworthy, and written with natural French syntax and typography.",
+    "headline": "Favor a tangible benefit and sentence case.",
+    "cta": "Use common French product actions.",
+    "avoid": ["English title case", "literal empowerment wording", "unnecessary anglicisms"]
+  },
+  "ko": {
+    "voice": "Korean consumer-tech copy: clean, modern, respectful, and written with common Korean digital-product language.",
+    "headline": "Keep it short, concrete, and benefit-led.",
+    "cta": "Use familiar Korean product actions.",
+    "avoid": ["Chinese-slogan patterns", "unnecessary English noun chains"]
+  },
+  "ru": {
+    "voice": "Russian consumer-tech copy: direct, practical, readable, and consistent in its choice of user address.",
+    "headline": "Describe the outcome, not an abstract industry claim.",
+    "cta": "Use common Russian product actions.",
+    "avoid": ["literal corporate slogans", "English calques"]
+  },
+  "pl": {
+    "voice": "Polish consumer-tech copy: clear, functional, natural, and grammatically idiomatic.",
+    "headline": "Use a concrete feature or benefit rather than a translated company slogan.",
+    "cta": "Use common Polish product actions.",
+    "avoid": ["English noun stacks", "overblown promotional wording"]
+  },
+  "nl": {
+    "voice": "Dutch consumer-tech copy: plain, confident, specific, and low-hype.",
+    "headline": "State the practical benefit in simple Dutch.",
+    "cta": "Use common Dutch product actions.",
+    "avoid": ["corporate buzzwords", "literal Chinese slogans"]
+  },
+  "hi": {
+    "voice": "Hindi consumer-tech copy for India: modern, accessible, and clear. Keep widely understood technical/product terms in English where normal for Indian product sites.",
+    "headline": "Use natural Hindi/Hinglish product language, not stiff or literal phrasing.",
+    "cta": "Use clear familiar Hindi or established English actions consistently.",
+    "avoid": ["overly formal Hindi", "forced technical-term translations"]
+  },
+  "ur": {
+    "voice": "Urdu for Pakistan: clear, respectful, modern, and written with natural Urdu flow. Keep familiar English technical terms where appropriate.",
+    "headline": "Make the user benefit explicit and concise.",
+    "cta": "Use short, unambiguous Urdu actions.",
+    "avoid": ["overly literary Urdu", "unmanaged mixed RTL/LTR strings", "literal corporate slogans"]
+  },
+  "bn": {
+    "voice": "Bengali for Bangladesh: clear, friendly, practical, and natural in Bangla. Keep familiar English technical terms only where expected.",
+    "headline": "State a clear creator outcome.",
+    "cta": "Use short familiar Bangla product actions consistently.",
+    "avoid": ["overly literary Bangla", "forced technical-term translations"]
+  },
+  "fa": {
+    "voice": "Persian for Iran: modern, clear, respectful, and written with natural Persian syntax. Handle mixed RTL/LTR content carefully.",
+    "headline": "Use a compact benefit-led sentence, not an abstract corporate slogan.",
+    "cta": "Use clear familiar Persian product actions.",
+    "avoid": ["literal Chinese corporate language", "unmanaged mixed RTL/LTR strings"]
+  }
+}
