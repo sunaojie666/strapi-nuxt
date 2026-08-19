@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Quais são as dimensões recomendadas para os recursos de transmissão ao vivo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensões recomendadas para os recursos de transmissão ao vivo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Para imagens de fundo ao vivo, recomendamos 1080 x 1920 píxeis; para vídeos, também recomendamos 1080 x 1920 píxeis.",
+            "Importante: As sobreposições de ecrã inteiro devem usar uma proporção de 9:16 para garantir um alinhamento perfeito ao alternar entre os modos de ecrã inteiro e 9:16, proporcionando um ajuste perfeito."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Que modos de saída são suportados para transmissão?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "A transmissão suporta dois modos de saída: transmissão 9:16 e transmissão de ecrã inteiro. Siga estes passos para selecionar o modo no seu dispositivo Apple:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra o VicastCam, vá para a página de transmissão ao vivo e toque no ícone de menu no lado direito."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Entrada de menu no lado direito da página de transmissão ao vivo da Apple",
+          "caption": "Passo 1: Toque no ícone de menu no lado direito da página de transmissão ao vivo."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Em Mais Definições, encontre 'Proporção' e selecione 'Ecrã inteiro' ou '9:16' conforme necessário."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Opções de proporção em Mais Definições na Apple",
+          "caption": "Passo 2: Em 'Proporção', selecione 'Ecrã inteiro' ou '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Sobre os dois modos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transmissão 9:16: A proporção de saída é fixa em 9:16, pelo que a plataforma de transmissão recebe uma imagem 9:16.",
+            "Transmissão de ecrã inteiro: Transmite todo o ecrã do telemóvel como está, preservando o conteúdo nativo sem cortes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Qual é a diferença entre Transmissão do Sistema e Transmissão por Software?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Os dispositivos Apple oferecem dois modos de captura de transmissão, que diferem significativamente nas regras de funcionamento em segundo plano. Siga estes passos para escolher um modo de transmissão:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra o VicastCam, vá para a página de transmissão ao vivo e toque no ícone de menu no lado direito."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Entrada de menu no lado direito da página de transmissão ao vivo da Apple",
+          "caption": "Passo 1: Toque no ícone de menu no lado direito da página de transmissão ao vivo."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Em Mais Definições, encontre 'Modo de Transmissão' e selecione 'Transmissão do Sistema' ou 'Transmissão por Software' conforme necessário."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Opções de modo de transmissão em Mais Definições na Apple",
+          "caption": "Passo 2: Em 'Modo de Transmissão', selecione 'Transmissão do Sistema' ou 'Transmissão por Software'."
+        },
+        {
+          "type": "heading",
+          "text": "Sobre os dois modos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transmissão do Sistema (gravação de ecrã ReplayKit): Utiliza a gravação de ecrã do sistema iOS para capturar o ecrã, permitindo transmissão contínua mesmo quando a aplicação está em segundo plano. Pode mudar para outras aplicações e continuar a capturar qualquer conteúdo do ecrã sem interromper a transmissão.",
+            "Transmissão por Software (captura direta em primeiro plano): A aplicação captura o ecrã diretamente. Devido a limitações do sistema iOS, a aplicação deve permanecer em primeiro plano. Se mudar para outra aplicação ou voltar ao ecrã inicial, a transmissão será interrompida imediatamente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Como posso eliminar a minha conta?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Inicie sessão na aplicação VicastCam e, em seguida, vá para [Conta - ícone no canto superior direito - Gestão de Conta - Eliminar Conta - Submeter Pedido de Eliminação]."
+        },
+        {
+          "type": "heading",
+          "text": "Informações da conta"
+        },
+        {
+          "type": "paragraph",
+          "text": "Após a eliminação da conta, eliminaremos permanentemente o seu e-mail associado, registos de dispositivos e outras informações de identidade, e revogaremos a sua autorização de início de sessão de terceiros através de contas Google e Apple. Após a revogação, deixará de poder utilizar essas contas de terceiros para iniciar sessão rapidamente nesta aplicação. Para voltar a utilizar a aplicação, terá de reautorizar e associar a sua conta."
+        },
+        {
+          "type": "heading",
+          "text": "Conteúdo e recursos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Todos os recursos de transmissão ao vivo, vídeos, imagens e ficheiros de projeto são armazenados apenas no seu dispositivo. A nuvem da plataforma não retém quaisquer recursos criativos. Após a eliminação, a funcionalidade de gestão de recursos deixará de estar disponível. Faça uma cópia de segurança dos seus recursos antecipadamente utilizando 'Exportar Recursos'.",
+            "Se desinstalar e reinstalar a aplicação, mudar de dispositivo ou não exportar uma cópia de segurança antecipadamente, os seus recursos serão perdidos permanentemente."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Benefícios de membro"
+        },
+        {
+          "type": "paragraph",
+          "text": "Após a eliminação da conta, os seus benefícios de membro terminarão imediatamente. Como os serviços de subscrição são geridos pela Apple, a plataforma não pode processar reembolsos diretamente. Para solicitar um reembolso, envie um pedido através dos canais oficiais da Apple (histórico de compras na App Store). Antes de eliminar a sua conta, certifique-se de cancelar manualmente a renovação automática para evitar cobranças futuras."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se tiver alguma dúvida, contacte o apoio ao cliente."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Por que não consigo aceder às fotos e vídeos do meu telemóvel ao adicioná-los?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se a sua biblioteca de fotos aparecer vazia ao adicionar recursos, vá às Definições do seu iPhone, desça até encontrar VicastCam, toque em [Fotos - Todas as Fotos] para ativar o acesso."
+        }
+      ]
+    }
+  ]
+}

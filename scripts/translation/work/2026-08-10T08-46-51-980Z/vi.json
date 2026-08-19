@@ -1,0 +1,242 @@
+{
+  "teams": [
+    {
+      "data": {
+        "locale": "vi",
+        "slug": "team",
+        "pageName": "Hợp tác kinh doanh",
+        "hero": {
+          "eyebrow": "Hợp tác kinh doanh",
+          "title": "Chương trình hợp tác đại lý toàn cầu VicastCam",
+          "highlight": "Tham gia cùng chúng tôi",
+          "description": "Công cụ phát trực tiếp camera ảo chuyên nghiệp, mở cho các đối tác kênh toàn cầu. Thanh toán thống nhất bằng USD, độc quyền khu vực và hỗ trợ tiếp thị toàn diện.",
+          "actions": {
+            "primary": "Đăng ký ngay",
+            "secondary": "Tìm hiểu thêm"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Vì sao hợp tác",
+          "titlePrefix": "Vì sao",
+          "titleHighlight": "hợp tác với chúng tôi",
+          "description": "Dễ bán, rủi ro thấp và biên lợi nhuận cao—VicastCam đáp ứng cả ba yếu tố.",
+          "items": [
+            {
+              "title": "Thị trường sáng tạo rộng lớn",
+              "description": "Bao phủ phát trực tiếp, thương mại điện tử, video ngắn và sáng tạo nội dung, nhu cầu toàn cầu của nhà sáng tạo đang tăng đều, mang lại thị trường lớn và chuyển đổi ổn định.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Không tồn kho, giao hàng trực tuyến",
+              "description": "Bản quyền phần mềm thuần túy với giao mã kích hoạt qua đám mây tức thì. Không cần kho, không hậu cần, chi phí thấp, hỗ trợ giao hàng loạt và kích hoạt nhanh.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Lợi thế cạnh tranh toàn diện",
+              "description": "Tách nền phông xanh, nền ảo, phát trực tiếp đa nền tảng và hiệu ứng AI trong một sản phẩm. Tính năng đầy đủ, dễ demo, dễ bán và dễ gia hạn.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Quy tắc hợp tác",
+          "titlePrefix": "Điều kiện",
+          "titleHighlight": "và thanh toán",
+          "description": "Chính sách đại lý minh bạch, công bằng và dễ dự đoán để mọi đối tác yên tâm.",
+          "agentLevelTitle": "Cấp độ đại lý",
+          "agentLevels": [
+            {
+              "title": "Đại lý tiêu chuẩn",
+              "description": "Đơn hàng đầu tiên 30.000 USD mang lại quyền phân phối dài hạn, chiết khấu theo cấp và hỗ trợ kênh tiêu chuẩn.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Đại lý độc quyền khu vực",
+              "description": "Đạt chỉ tiêu mua hàng theo quý để có quyền phân phối độc quyền cho một khu vực, không có kênh nào khác được ủy quyền trong khu vực đó.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Cung cấp và thanh toán",
+          "settlementRules": [
+            "Thanh toán thống nhất bằng USD, hỗ trợ thanh toán qua tài khoản công ty HSBC Hồng Kông",
+            "Mã kích hoạt hàng loạt được giao ngay qua đám mây để giao hàng nhanh cho khách hàng",
+            "Đối tác lâu dài được hưởng giá theo cấp; khối lượng mua cao hơn giảm chi phí đơn vị"
+          ]
+        },
+        "support": {
+          "eyebrow": "Hỗ trợ kênh",
+          "titlePrefix": "Bốn trụ cột",
+          "titleHighlight": "hỗ trợ",
+          "description": "Từ tài liệu và hỗ trợ kỹ thuật đến ủy quyền thương hiệu và truy cập sớm tính năng mới, chúng tôi cung cấp hỗ trợ toàn diện.",
+          "items": [
+            {
+              "title": "Tài liệu tiếp thị đầy đủ",
+              "description": "Truy cập ngay banner trang web, video ngắn, nội dung quảng cáo Reddit/Facebook và tài liệu đánh giá sản phẩm.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Hỗ trợ kỹ thuật tiếng Anh chuyên trách",
+              "description": "Chuyên gia kỹ thuật nước ngoài hỗ trợ gỡ lỗi SDK, hậu mãi tính năng phát trực tiếp và giải quyết sự cố khách hàng.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Ủy quyền thương hiệu chính thức",
+              "description": "Sử dụng nhãn hiệu và hình ảnh sản phẩm VicastCam cho quảng bá trực tuyến và ngoại tuyến trong khu vực.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Truy cập beta ưu tiên",
+              "description": "Đại lý được truy cập sớm để thử nghiệm và bán tất cả hiệu ứng AI, cập nhật phát trực tiếp và tính năng mới.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Mô hình hợp tác",
+          "titlePrefix": "Mô hình",
+          "titleHighlight": "hợp tác linh hoạt",
+          "description": "Dù bạn là kênh phân phối, nhà cung cấp công nghệ hay nhà cung cấp dịch vụ doanh nghiệp, chúng tôi đều có mô hình phù hợp.",
+          "items": [
+            {
+              "title": "Đại lý kênh (Được khuyến nghị)",
+              "description": "Dành cho cửa hàng phần mềm xuyên biên giới, cửa hàng thiết bị phát trực tiếp, MCN nước ngoài và đội ngũ thương mại điện tử xuyên biên giới để phân phối bản quyền phần mềm với quy mô lớn.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "SDK OEM nhãn trắng",
+              "description": "Loại bỏ toàn bộ thương hiệu VicastCam, tùy chỉnh logo, tên phần mềm và giao diện, bán dưới thương hiệu riêng của bạn.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Tùy chỉnh doanh nghiệp",
+              "description": "Dành cho nhà cung cấp dịch vụ phát trực tiếp, tổ chức giáo dục và dự án họp chính phủ/doanh nghiệp, với tính năng tùy chỉnh và tùy chọn triển khai riêng.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Đăng ký",
+          "titlePrefix": "Điền biểu mẫu",
+          "titleHighlight": "để đăng ký trực tuyến",
+          "description": "Điền thông tin bên dưới và chúng tôi sẽ liên hệ với bạn trong vòng 1-3 ngày làm việc.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Tên người liên hệ",
+              "placeholder": "Nhập tên của bạn"
+            },
+            {
+              "name": "companyName",
+              "label": "Tên công ty",
+              "placeholder": "Nhập tên công ty của bạn"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "placeholder": "Nhập email của bạn"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Điện thoại",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Loại hình kinh doanh",
+              "placeholder": "Chọn loại hình kinh doanh",
+              "options": [
+                "Đại lý kênh",
+                "SDK OEM nhãn trắng",
+                "Tùy chỉnh doanh nghiệp",
+                "Khác"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Khu vực chính",
+              "placeholder": "Ví dụ: Bắc Mỹ/Châu Âu/Đông Nam Á"
+            },
+            {
+              "name": "position",
+              "label": "Chức vụ",
+              "placeholder": "Nhập chức vụ của bạn"
+            },
+            {
+              "name": "budget",
+              "label": "Ngân sách mua hàng ước tính theo quý",
+              "placeholder": "Nhập ngân sách của bạn"
+            },
+            {
+              "name": "country",
+              "label": "Quốc gia",
+              "placeholder": "Chọn quốc gia/khu vực",
+              "options": [
+                "Trung Quốc",
+                "Hoa Kỳ",
+                "Indonesia",
+                "Malaysia",
+                "Thái Lan",
+                "Việt Nam",
+                "Philippines",
+                "Tây Ban Nha",
+                "Bồ Đào Nha",
+                "Ả Rập Saudi",
+                "Nhật Bản",
+                "Thổ Nhĩ Kỳ",
+                "Ý",
+                "Đức",
+                "Pháp",
+                "Hàn Quốc",
+                "Nga",
+                "Ba Lan",
+                "Hà Lan",
+                "Ấn Độ",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Khác"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Trang web công ty",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Ý định hợp tác",
+          "intentPlaceholder": "Mô tả ngắn gọn mô hình kinh doanh, thị trường mục tiêu và phương thức hợp tác mong muốn của bạn...",
+          "note": "*Trường bắt buộc. Thông tin của bạn được giữ bí mật và chỉ dùng cho liên hệ hợp tác.",
+          "submitLabel": "Gửi thông tin hợp tác"
+        },
+        "contact": {
+          "title": "Liên hệ kinh doanh ngay",
+          "items": [
+            {
+              "label": "Email kinh doanh",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Đường dây nóng Hồng Kông",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Giờ làm việc",
+              "value": "GMT+8, Thứ Hai đến Thứ Sáu, 9:00-18:00"
+            }
+          ],
+          "note": "Với nhu cầu kinh doanh khẩn cấp, hãy liên hệ trực tiếp với chúng tôi qua WhatsApp hoặc email.",
+          "qr": {
+            "label": "Quét để liên hệ với chúng tôi trên WhatsApp",
+            "alt": "Mã QR liên hệ kinh doanh VicastCam"
+          }
+        },
+        "seo": {
+          "title": "Hợp tác kinh doanh VicastCam",
+          "description": "Tham gia chương trình đối tác toàn cầu VicastCam để được hỗ trợ đại lý kênh, SDK OEM nhãn trắng và tùy chỉnh doanh nghiệp.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "Chương trình đối tác toàn cầu VicastCam"
+        }
+      }
+    }
+  ]
+}

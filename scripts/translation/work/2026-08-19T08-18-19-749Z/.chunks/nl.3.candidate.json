@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Aankoopgeschiedenis",
+    "title": "Aankoopgeschiedenis",
+    "tabTitle": "Aankopen",
+    "exchangeTabTitle": "Inwisselingen",
+    "tableHeaders": {
+      "title": "Type",
+      "date": "Betaaldatum",
+      "price": "Bedrag",
+      "paymentMethod": "Betaalmethode",
+      "status": "Status",
+      "exchangeDate": "Inwisseldatum",
+      "exchangeCode": "Inwisselcode"
+    },
+    "exchangeTableHeaders": {
+      "date": "Inwisseldatum",
+      "code": "Inwisselcode"
+    },
+    "cardTypes": {
+      "month": "Maandkaart",
+      "year": "Jaarkaart",
+      "life": "Levenslange kaart",
+      "default": "Lidmaatschapskaart"
+    },
+    "orderStatuses": {
+      "pending": "In afwachting van betaling",
+      "paid": "Betaald",
+      "closed": "Gesloten",
+      "refunded": "Terugbetaald",
+      "unknown": "Onbekend"
+    },
+    "secretLabels": {
+      "show": "Wachtwoord tonen",
+      "hide": "Wachtwoord verbergen"
+    },
+    "secretMask": "******",
+    "emptyText": "Nog geen aankoopgegevens",
+    "exchangeEmptyText": "Nog geen inwisselgegevens",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Bankkaart",
+      "creditcard": "Creditcard",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Cryptovaluta",
+      "balance": "Saldo",
+      "free": "Gratis"
+    }
+  },
+  "team": {
+    "ariaLabel": "Mijn team",
+    "title": "Mijn team",
+    "referrerLabel": "Mijn verwijzer",
+    "levelOne": "Niveau 1-leden",
+    "levelTwo": "Niveau 2-leden",
+    "tableHeaders": {
+      "name": "Lidnaam",
+      "status": "Lidmaatschapsstatus",
+      "joinedAt": "Aanmelddatum"
+    },
+    "memberStatus": {
+      "free": "Gratis gebruiker",
+      "vip": "VIP-gebruiker"
+    },
+    "emptyMemberName": "Naamloze gebruiker",
+    "emptyReferrer": "Geen verwijzer",
+    "emptyTeam": "Nog geen teamleden",
+    "errors": {
+      "loadFail": "Teamleden laden mislukt. Probeer het later opnieuw."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Verdienstencentrum",
+    "title": "Verdienstenoverzicht",
+    "commissionTitle": "Commissiedetails",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Totale verdiensten",
+        "desc": "Totaal verdiende commissie tot nu toe"
+      },
+      {
+        "key": "month",
+        "title": "Deze maand",
+        "desc": "Commissie verdiend deze maand"
+      },
+      {
+        "key": "settling",
+        "title": "In afwachting van afwikkeling",
+        "value": "0.00",
+        "desc": "Bedrag in afwachting van afwikkeling"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Opneembaar",
+        "desc": "Bedrag dat momenteel beschikbaar is voor opname",
+        "action": "Opnemen"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Gebruikersnaam",
+      "saleTime": "Verkoopdatum",
+      "goodsInfo": "Product",
+      "commission": "Commissie"
+    },
+    "emptyCommission": "Nog geen commissiegegevens",
+    "errors": {
+      "loadFail": "Commissiedetails laden mislukt. Probeer het later opnieuw."
+    },
+    "withdraw": {
+      "ariaLabel": "Opnameverzoek",
+      "title": "Opnameverzoek",
+      "closeLabel": "Opnamedialoog sluiten",
+      "balanceLabel": "Opneembaar saldo",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Opnamebedrag",
+      "amountPlaceholder": "Voer opnamebedrag in",
+      "allButton": "Alles",
+      "allAmountValue": "0.00",
+      "amountTip": "Controleer of het bedrag correct is. Uw verzoek wordt na indiening handmatig beoordeeld.",
+      "methodLabel": "Opnamemethode",
+      "methods": [
+        "Bankkaart",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Bankkaart",
+      "nameLabel": "Naam begunstigde",
+      "namePlaceholder": "Voer naam begunstigde in",
+      "defaultName": "",
+      "bankCardLabel": "Rekeningnummer",
+      "bankCardPlaceholder": "Voer bankkaartnummer, PayPal-e-mail of walletadres in",
+      "remarkLabel": "Opmerkingen",
+      "remarkPlaceholder": "Voeg eventuele extra notities toe",
+      "note": "Opnameverzoeken worden binnen 1-3 werkdagen verwerkt.",
+      "cancelButton": "Annuleren",
+      "submitButton": "Verzoek indienen"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Inwisseling succesvol",
+    "operationFailed": "Inwisseling mislukt",
+    "invalidCard": "Ongeldige inwisselcode",
+    "cardNotFound": "Inwisselcode niet gevonden",
+    "cardDisabled": "Inwisselcode uitgeschakeld",
+    "cardExpired": "Inwisselcode verlopen"
+  },
+  "successMessage": "Bewerking succesvol"
+}

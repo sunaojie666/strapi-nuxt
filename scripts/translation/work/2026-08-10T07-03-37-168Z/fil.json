@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "fil",
+        "loginTitle1": "Baguhin ang Iyong Virtual Background Kaagad",
+        "loginTitle2": "Mag-Stream nang May Epekto",
+        "loginDes1": "Isang propesyonal na tool sa live streaming na pinapagana ng AI",
+        "loginDes2": "Virtual backgrounds, live enhancements, at multi-platform streaming na pinasimple",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Real-time na pagpapalit ng background",
+        "featureTitle2": "Multi-platform Streaming",
+        "featureSubTitle2": "Mag-live sa isang tapik",
+        "featureTitle3": "Virtual Camera",
+        "featureSubTitle3": "Gawing webcam ang iyong phone",
+        "loginBox": {
+          "loginPageTitle": "Mag-log In / Mag-sign Up",
+          "codeLoginTab": "Code Login",
+          "pwdLoginTab": "Password Login",
+          "qrLoginTab": "QR Code Login",
+          "emailInputPlaceholder": "Ilagay ang iyong email para mag-log in",
+          "pwdInputPlaceholder": "Ilagay ang iyong password",
+          "verifyCodePlaceholder": "Ilagay ang verification code",
+          "getVerifyCodeText": "Kunin ang Code",
+          "loginBtnText": "Mag-log In",
+          "qrLoginTip": "I-scan gamit ang VicastCam app para mag-log in",
+          "qrWaitingTip": "Naghihintay ng kumpirmasyon sa scan",
+          "agreeProtocolText": "Nabasa ko at sumasang-ayon ako sa Privacy Policy at User Agreement",
+          "userProtocolText": "User Agreement",
+          "privacyPolicyText": "Privacy Policy",
+          "agreeProtocolPrefix": "Nabasa ko at sumasang-ayon ako sa"
+        },
+        "toastBox": {
+          "closeToastLabel": "Isara",
+          "requestLoading": "Naglo-load...",
+          "requestSuccess": "Tagumpay ang kahilingan",
+          "requestFail": "Bigo ang kahilingan",
+          "passwordLoginNotReady": "Hindi pa available ang password login",
+          "passwordRequired": "Mangyaring ilagay ang iyong password",
+          "emailRequired": "Mangyaring ilagay ang iyong email para mag-log in",
+          "verifyCodeRequired": "Mangyaring ilagay ang verification code",
+          "agreeProtocolRequired": "Mangyaring basahin at sumang-ayon muna sa Privacy Policy at User Agreement",
+          "qrcodeExpired": "Nag-expire na ang QR code. Mangyaring kumuha ng bago."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "fil",
+        "hero_section": {
+          "tag": "AI-powered live streaming tool",
+          "title_main": "Mobile green screen effects at teknolohiya sa screen casting",
+          "title_highlight": "Nagbibigay-kapangyarihan sa pandaigdigang live streaming ecosystem",
+          "description": "Gumagamit ang VicastCam ng advanced AI matting para makapagpalit ka ng virtual backgrounds nang walang putol habang nag-live stream, na nagdaragdag ng immersive effects na nagpapataas ng iyong propesyonal na presensya.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "I-download"
+            },
+            {
+              "platform": "Google Play",
+              "text": "I-download"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "Ang VicastCam ay nagbibigay sa mga creator ng virtual backgrounds, live streaming enhancements, at cross-platform tools."
+          },
+          "columns": [
+            {
+              "title": "Produkto",
+              "links": [
+                {
+                  "text": "Mga Tampok"
+                },
+                {
+                  "text": "Presyo"
+                },
+                {
+                  "text": "Mga Download"
+                }
+              ]
+            },
+            {
+              "title": "Developers",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API Docs"
+                }
+              ]
+            },
+            {
+              "title": "Kumpanya",
+              "links": [
+                {
+                  "text": "Tungkol sa Amin"
+                },
+                {
+                  "text": "Privacy Policy"
+                },
+                {
+                  "text": "User Agreement"
+                },
+                {
+                  "text": "Kasunduan sa Membership"
+                }
+              ]
+            },
+            {
+              "title": "Suporta",
+              "links": [
+                {
+                  "text": "Mga Video Tutorial"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Makipag-ugnayan sa Amin"
+                }
+              ]
+            },
+            {
+              "title": "Negosyo",
+              "links": [
+                {
+                  "text": "Maging Reseller"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Mga Katanungan sa Partnership"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Mga Tampok",
+      "nav_pricing": "Presyo",
+      "nav_faq": "FAQ",
+      "nav_auth": "Mag-log In / Mag-sign Up",
+      "nav_team": "Negosyo"
+    }
+  ]
+}

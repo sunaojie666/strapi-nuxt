@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "お支払いはまだご利用いただけません",
+          "payment": {
+            "providerName": "オンライン決済はまだ開始されていません",
+            "providerDescription": "決済処理を準備中です。このページでは注文内容の確認のみ行えます。",
+            "unavailableTitle": "お支払いはまだご利用いただけません",
+            "unavailableDescription": "正式な決済および注文確認プロセスを統合中です。サービス開始までは、このページで請求や実際の注文作成は行われません。",
+            "unavailableItems": [
+              "サードパーティの決済コンポーネントは読み込まれません",
+              "支払い情報が送信されることはありません",
+              "実際の決済注文は作成されません"
+            ],
+            "feedback": "メンバーシップの購入またはアクティベーションについては、business@vicastcam.com までお問い合わせください。"
+          },
+          "summary": {
+            "title": "注文概要",
+            "periodLabel": "メンバーシップ期間",
+            "paymentMethodLabel": "支払い方法",
+            "amountLabel": "お支払い金額",
+            "submitLabel": "利用不可",
+            "note": "お支払いはまだご利用いただけません。以下の注文詳細はプラン確認用です。",
+            "unavailablePaymentMethod": "利用不可",
+            "fallbackProductName": "プラン未選択",
+            "fallbackProductDescription": "ホームページに戻ってメンバーシッププランを選択してください。",
+            "periodMonth": "1ヶ月",
+            "periodYear": "1年",
+            "periodLife": "無期限",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "サブスクリプションのチェックアウト",
+            "description": "VicastCam サブスクリプションのチェックアウトページです。"
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "月額プラン",
+              "description": "アクティベーション後、1ヶ月間フルアクセスできます。お試しに最適な低コストプランです。"
+            },
+            {
+              "type": "year",
+              "name": "年額プラン",
+              "description": "アクティベーション後、1年間フルアクセスできます。長期的に安定してご利用いただけるプランです。"
+            },
+            {
+              "type": "life",
+              "name": "無期限プラン",
+              "description": "一度のアクティベーションで無期限にご利用いただけます。メンバーシップ特典を継続的にお楽しみいただけます。"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "ja",
+        "multi_platform_section": {
+          "tag": "マルチプラットフォーム対応",
+          "title_main": "世界の主要ライブ配信プラットフォームへ",
+          "title_highlight": "ワンクリックでグローバルな視聴者へ",
+          "description": "世界中のトラフィックソースに接続し、新たなクロスボーダーライブ配信エコシステムを構築します。"
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "アカウントセンター",
+            "description": "VicastCam アカウントセンターのページ"
+          },
+          "common": {
+            "sidebarAriaLabel": "アカウントセンターナビゲーション",
+            "defaultProfileName": "ユーザー",
+            "emptyContent": "コンテンツがありません",
+            "copyButtonLabel": "コピー",
+            "monthSelectLabel": "月を選択",
+            "yearSuffix": "年",
+            "monthSuffix": "ヶ月",
+            "userMissing": "ユーザー情報が見つかりません。再度ログインしてください。",
+            "paginationLabel": "ページネーション",
+            "previousPageLabel": "前のページ",
+            "nextPageLabel": "次のページ",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "移動",
+              "unit": "ページ",
+              "ariaLabel": "特定のページに移動",
+              "buttonLabel": "移動"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "アカウントセンター",
+            "logout": "ログアウト",
+            "profileAriaSuffix": "アカウントセンターメニュー"
+          },
+          "sidebar": {
+            "ariaLabel": "アカウントセンターナビゲーション",
+            "menus": {
+              "account": "アカウント情報",
+              "membership": "メンバーシップ",
+              "redeem": "コード利用",
+              "purchaseHistory": "購入履歴",
+              "team": "マイチーム",
+              "earnings": "収益"
+            }
+          },
+          "account": {
+            "ariaLabel": "アカウント情報",
+            "profileTitle": "アカウント情報",
+            "usernameLabel": "ユーザー名",
+            "passwordLabel": "パスワード",
+            "passwordMask": "********",
+            "defaultUsername": "ニックネーム未設定",
+            "inviteTitle": "招待リンク",
+            "inviteDescription": "個人の招待リンクをコピーしてください。友達が登録してメンバーシップをアクティベートすると、報酬が得られます。",
+            "emptyInviteLink": "招待リンクはまだありません"
+          },
+          "membership": {
+            "ariaLabel": "メンバーシップ",
+            "title": "マイメンバーシップ",
+            "badgeAlt": "メンバーシップバッジ",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "無料ユーザー",
+            "activeVipName": "VIPメンバー",
+            "expirePrefix": "有効期限",
+            "emptyExpireDate": "未アクティベート",
+            "activeStatus": "有効",
+            "inactiveStatus": "未アクティベート",
+            "compareTitle": "メンバーシップ特典の比較",
+            "compareHeaders": {
+              "feature": "機能",
+              "normal": "無料",
+              "month": "月額",
+              "year": "年額",
+              "life": "無期限"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月額メンバーシップ",
+                "subtitle": "短期利用に最適",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "今すぐ始める",
+                "benefits": [
+                  "主要な仮想カメラ機能",
+                  "仮想背景と美顔機能",
+                  "マルチプラットフォームでのライブ配信対応",
+                  "標準アップデート"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年額メンバーシップ",
+                "subtitle": "長期利用にお得",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/年",
+                "cta": "今すぐ始める",
+                "benefits": [
+                  "月額プランの全特典",
+                  "1年間の全上級機能",
+                  "優先的な機能アップデート",
+                  "専用メンバーサポート"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "無期限メンバーシップ",
+                "subtitle": "一度の支払いで無期限",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/無期限",
+                "cta": "今すぐ始める",
+                "benefits": [
+                  "年額プランの全特典",
+                  "無期限に上級機能を利用",
+                  "長期的なアップデート",
+                  "専用サポート窓口"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "メンバーシップ期間",
+                "normal": "永久無料",
+                "month": "30日",
+                "year": "365日",
+                "life": "無期限"
+              },
+              {
+                "feature": "デスクトップ仮想カメラ",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "カスタム仮想背景",
+                "normal": "1セット",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "ライブ配信プリセット",
+                "normal": "なし",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "公式サイトのアセット",
+                "normal": "制限あり",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "コントローラーによるリモート操作",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "ライブシーン比較モード",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "シーン字幕",
+                "normal": "制限あり",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "シーン音楽",
+                "normal": "制限あり",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "マルチカメラ入力",
+                "normal": "なし",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "高度な美顔フィルター",
+                "normal": "基本",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "AIスマートグリーンスクリーン合成",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "ダイナミックモーショントレイルアニメーション",
+                "normal": "制限あり",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "シーンカメラモーションエフェクト",
+                "normal": "制限あり",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "VIPエフェクトライブラリ",
+                "normal": "制限あり",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "プラットフォーム配信",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "4K UHD出力",
+                "normal": "なし",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "プロモーション手数料率",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "紹介報酬",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "サポートチャネル",
+                "normal": "コミュニティでの自己解決",
+                "month": "標準的な対応",
+                "year": "優先的な対応",
+                "life": "専用サポート"
+              },
+              {
+                "feature": "新機能の早期アクセス",
+                "normal": "なし",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "コード利用",
+            "title": "コード利用",
+            "tip": "メンバーシップの引き換えコードを入力してください。引き換え後、すぐに特典が有効になります。",
+            "placeholder": "引き換えコードを入力",
+            "submitButton": "今すぐ引き換え",
+            "agreementPrefix": "引き換えにより、以下の利用規約に同意したものとみなされます。",
+            "userProtocolText": "利用規約",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "引き換えに失敗しました。コードを確認してもう一度お試しください。"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "購入履歴",
+            "title": "購入履歴",
+            "tabTitle": "購入",
+            "exchangeTabTitle": "引き換え",
+            "tableHeaders": {
+              "title": "種別",
+              "date": "支払い日",
+              "price": "金額",
+              "paymentMethod": "支払い方法",
+              "status": "ステータス",
+              "exchangeDate": "引き換え日",
+              "exchangeCode": "引き換えコード"
+            },
+            "exchangeTableHeaders": {
+              "date": "引き換え日",
+              "code": "引き換えコード"
+            },
+            "cardTypes": {
+              "month": "月額プラン",
+              "year": "年額プラン",
+              "life": "無期限プラン",
+              "default": "メンバーシップ"
+            },
+            "orderStatuses": {
+              "pending": "保留中",
+              "paid": "支払い済み",
+              "closed": "終了",
+              "refunded": "返金済み",
+              "unknown": "不明"
+            },
+            "secretLabels": {
+              "show": "パスワードを表示",
+              "hide": "パスワードを隠す"
+            },
+            "secretMask": "******",
+            "emptyText": "購入履歴はありません",
+            "exchangeEmptyText": "引き換え履歴はありません",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "銀行カード",
+              "creditcard": "クレジットカード",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "暗号通貨",
+              "balance": "残高",
+              "free": "無料"
+            }
+          },
+          "team": {
+            "ariaLabel": "マイチーム",
+            "title": "マイチーム",
+            "referrerLabel": "紹介者",
+            "levelOne": "1次メンバー",
+            "levelTwo": "2次メンバー",
+            "tableHeaders": {
+              "name": "メンバー名",
+              "status": "メンバーシップステータス",
+              "joinedAt": "参加日"
+            },
+            "memberStatus": {
+              "free": "無料ユーザー",
+              "vip": "VIPユーザー"
+            },
+            "emptyMemberName": "名前のないユーザー",
+            "emptyReferrer": "紹介者なし",
+            "emptyTeam": "チームメンバーはまだいません",
+            "errors": {
+              "loadFail": "チームメンバーの読み込みに失敗しました。後でもう一度お試しください。"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "収益",
+            "title": "収益概要",
+            "commissionTitle": "コミッション詳細",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "総収益",
+                "desc": "これまでの累計コミッション"
+              },
+              {
+                "key": "month",
+                "title": "今月",
+                "desc": "今月のコミッション"
+              },
+              {
+                "key": "settling",
+                "title": "決済待ち",
+                "value": "0.00",
+                "desc": "決済待ちの金額"
+              },
+              {
+                "key": "withdrawable",
+                "title": "引き出し可能額",
+                "desc": "現在引き出し可能な金額",
+                "action": "引き出す"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "ユーザー名",
+              "saleTime": "販売日時",
+              "goodsInfo": "商品",
+              "commission": "コミッション"
+            },
+            "emptyCommission": "コミッション記録はありません",
+            "errors": {
+              "loadFail": "コミッション詳細の読み込みに失敗しました。後でもう一度お試しください。"
+            },
+            "withdraw": {
+              "ariaLabel": "引き出しリクエスト",
+              "title": "引き出しリクエスト",
+              "closeLabel": "引き出しダイアログを閉じる",
+              "balanceLabel": "引き出し可能残高",
+              "balanceValue": "$0.00",
+              "amountLabel": "引き出し金額",
+              "amountPlaceholder": "引き出し金額を入力",
+              "allButton": "すべて",
+              "allAmountValue": "0.00",
+              "amountTip": "金額が正しいことを確認してください。送信後、リクエストは手動で審査されます。",
+              "methodLabel": "引き出し方法",
+              "methods": [
+                "銀行カード",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "銀行カード",
+              "nameLabel": "受取人名",
+              "namePlaceholder": "受取人名を入力",
+              "defaultName": "",
+              "bankCardLabel": "口座番号",
+              "bankCardPlaceholder": "銀行カード番号、PayPalメールアドレス、またはウォレットアドレスを入力",
+              "remarkLabel": "備考",
+              "remarkPlaceholder": "追加情報（任意）",
+              "note": "引き出しリクエストは1〜3営業日以内に処理されます。",
+              "cancelButton": "キャンセル",
+              "submitButton": "リクエストを送信"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "引き換え成功",
+            "operationFailed": "引き換え失敗",
+            "invalidCard": "無効な引き換えコード",
+            "cardNotFound": "引き換えコードが見つかりません",
+            "cardDisabled": "引き換えコードは無効化されています",
+            "cardExpired": "引き換えコードの有効期限が切れています"
+          },
+          "successMessage": "操作が成功しました"
+        }
+      }
+    }
+  ]
+}

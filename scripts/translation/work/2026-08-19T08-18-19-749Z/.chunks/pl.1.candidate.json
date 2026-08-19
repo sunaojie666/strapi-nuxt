@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Centrum konta",
+    "description": "Strona Centrum konta VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Nawigacja konta",
+    "defaultProfileName": "Użytkownik",
+    "emptyContent": "Brak treści",
+    "copyButtonLabel": "Kopiuj",
+    "monthSelectLabel": "Wybierz miesiąc",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Nie znaleziono informacji o użytkowniku. Zaloguj się ponownie.",
+    "paginationLabel": "Paginacja",
+    "previousPageLabel": "Poprzednia strona",
+    "nextPageLabel": "Następna strona",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Przejdź do",
+      "unit": "strony",
+      "ariaLabel": "Przejdź do określonej strony",
+      "buttonLabel": "Przejdź"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Centrum konta",
+    "logout": "Wyloguj się",
+    "profileAriaSuffix": "Menu konta"
+  },
+  "sidebar": {
+    "ariaLabel": "Nawigacja konta",
+    "menus": {
+      "account": "Informacje o koncie",
+      "membership": "Członkostwo",
+      "redeem": "Kod realizacji",
+      "purchaseHistory": "Historia zakupów",
+      "team": "Mój zespół",
+      "earnings": "Zarobki"
+    }
+  },
+  "account": {
+    "ariaLabel": "Informacje o koncie",
+    "profileTitle": "Informacje o koncie",
+    "usernameLabel": "Nazwa użytkownika",
+    "passwordLabel": "Hasło",
+    "passwordMask": "********",
+    "defaultUsername": "Brak pseudonimu",
+    "emailLabel": "Powiązany e-mail",
+    "emailPlaceholder": "Wpisz swój e-mail",
+    "codePlaceholder": "Wpisz kod weryfikacyjny",
+    "sendCodeButton": "Wyślij kod",
+    "bindButton": "Powiąż e-mail",
+    "alreadyBound": "Powiązano",
+    "unboundEmail": "Nie powiązano",
+    "emailBindTip": "Po powiązaniu e-mail nie można go zmienić. Upewnij się, że adres e-mail jest poprawny.",
+    "emailRequired": "Podaj poprawny adres e-mail",
+    "codeRequired": "Podaj kod weryfikacyjny",
+    "codeSent": "Kod weryfikacyjny wysłany. Sprawdź swoją skrzynkę e-mail.",
+    "bindSuccess": "E-mail powiązany pomyślnie",
+    "bindFailed": "Nie udało się powiązać e-maila. Sprawdź kod i spróbuj ponownie.",
+    "requestFailed": "Żądanie nie powiodło się. Spróbuj ponownie później.",
+    "inviteTitle": "Link zaproszeniowy",
+    "inviteDescription": "Skopiuj swój osobisty link zaproszeniowy. Gdy znajomi zarejestrują się i wykupią członkostwo, otrzymasz nagrody.",
+    "emptyInviteLink": "Brak dostępnego linku zaproszeniowego"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Abbonamento",
+    "title": "Il mio abbonamento",
+    "badgeAlt": "Distintivo abbonamento",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Utente gratuito",
+    "activeVipName": "Membro VIP",
+    "expirePrefix": "Scade il",
+    "emptyExpireDate": "Non attivato",
+    "activeStatus": "Attivo",
+    "inactiveStatus": "Inattivo",
+    "compareTitle": "Confronta i piani",
+    "compareHeaders": {
+      "feature": "Funzionalità",
+      "normal": "Gratuito",
+      "month": "Mensile",
+      "year": "Annuale",
+      "life": "A vita"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Mensile",
+        "subtitle": "Ideale per un uso a breve termine",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/mese",
+        "cta": "Inizia ora",
+        "benefits": [
+          "Funzionalità base della webcam virtuale",
+          "Sfondi virtuali e abbellimento",
+          "Streaming live su più piattaforme",
+          "Aggiornamenti standard"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Annuale",
+        "subtitle": "Migliore rapporto qualità-prezzo per un uso a lungo termine",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/anno",
+        "cta": "Inizia ora",
+        "benefits": [
+          "Tutto ciò che include il piano Mensile",
+          "Tutte le funzionalità premium per un anno",
+          "Aggiornamenti prioritari delle funzionalità",
+          "Assistenza dedicata ai membri"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "A vita",
+        "subtitle": "Paga una volta, usa per sempre",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/a vita",
+        "cta": "Inizia ora",
+        "benefits": [
+          "Tutto ciò che include il piano Annuale",
+          "Funzionalità premium per sempre",
+          "Aggiornamenti a lungo termine",
+          "Canale di assistenza esclusivo"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Durata dell'abbonamento",
+        "normal": "Gratuito per sempre",
+        "month": "30 giorni",
+        "year": "365 giorni",
+        "life": "A vita"
+      },
+      {
+        "feature": "Webcam virtuale desktop",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Sfondi virtuali personalizzati",
+        "normal": "1 set",
+        "month": "Illimitati",
+        "year": "Illimitati",
+        "life": "Illimitati"
+      },
+      {
+        "feature": "Preset di streaming",
+        "normal": "No",
+        "month": "Illimitati",
+        "year": "Illimitati",
+        "life": "Illimitati"
+      },
+      {
+        "feature": "Risorse ufficiali",
+        "normal": "Limitate",
+        "month": "Illimitate",
+        "year": "Illimitate",
+        "life": "Illimitate"
+      },
+      {
+        "feature": "Controllo remoto tramite controller",
+        "normal": "Sì",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Modalità di confronto scene",
+        "normal": "Sì",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Didascalie delle scene",
+        "normal": "Limitate",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Musica di scena",
+        "normal": "Limitata",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Ingresso multi-telecamera",
+        "normal": "No",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Filtri di bellezza avanzati",
+        "normal": "Base",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Ritaglio AI su sfondo verde",
+        "normal": "Sì",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Animazioni di motion tracking",
+        "normal": "Limitate",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Effetti camera per le scene",
+        "normal": "Limitati",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Libreria effetti VIP",
+        "normal": "Limitata",
+        "month": "Illimitata",
+        "year": "Illimitata",
+        "life": "Illimitata"
+      },
+      {
+        "feature": "Streaming su piattaforme",
+        "normal": "Sì",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Uscita 4K",
+        "normal": "No",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      },
+      {
+        "feature": "Commissione di riferimento",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Sconto per sub-affiliati",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Canale di assistenza",
+        "normal": "Self-service della community",
+        "month": "Coda standard",
+        "year": "Risposta prioritaria",
+        "life": "Assistenza dedicata"
+      },
+      {
+        "feature": "Accesso anticipato alle nuove funzionalità",
+        "normal": "No",
+        "month": "Sì",
+        "year": "Sì",
+        "life": "Sì"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Riscatta codice",
+    "title": "Riscatta codice",
+    "tip": "Inserisci il codice di riscatto del tuo abbonamento. Il tuo abbonamento verrà attivato immediatamente dopo il riscatto.",
+    "placeholder": "Inserisci il codice di riscatto",
+    "submitButton": "Riscatta",
+    "agreementPrefix": "Riscattando, accetti i",
+    "userProtocolText": "Termini di servizio",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Riscatto non riuscito. Controlla il codice e riprova."
+    }
+  }
+}

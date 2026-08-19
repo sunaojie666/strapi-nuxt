@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Elegir método de pago",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Paga con tu saldo de PayPal, tarjeta bancaria o tarjeta de crédito",
+            "secureBadge": "Pago seguro",
+            "methodLabel": "Método de pago",
+            "accountLabel": "Cuenta actual",
+            "signInRequired": "Inicia sesión para continuar con tu compra",
+            "signInAction": "Iniciar sesión",
+            "summaryHint": "Haz clic en el botón de PayPal para completar tu pago",
+            "trustItems": [
+              "Los pagos se procesan de forma segura mediante PayPal",
+              "Admite saldo de PayPal, tarjetas bancarias y tarjetas de crédito",
+              "Los beneficios de la membresía se activan automáticamente tras el pago correcto"
+            ],
+            "buttonPay": "Pagar con PayPal",
+            "buttonPending": "Pedido pendiente",
+            "buttonCreating": "Creando pedido...",
+            "sdkLoading": "Cargando PayPal...",
+            "sdkError": "No se pudo cargar PayPal. Comprueba tu conexión e inténtalo de nuevo.",
+            "sdkIneligible": "El pago con PayPal no es compatible en este entorno",
+            "sdkMissingConfig": "PayPal no está configurado. Contacta con el administrador.",
+            "orderCreating": "Creando pedido de pago...",
+            "orderCreateFailed": "No se pudo crear el pedido. Inténtalo de nuevo.",
+            "orderProcessing": "El resultado del pago aún se está confirmando. Vuelve a comprobarlo más tarde.",
+            "orderSuccess": "Pago correcto. Tus beneficios de membresía se han activado.",
+            "orderFailed": "El pago no se realizó correctamente. Inténtalo de nuevo.",
+            "orderPending": "El pago no está completo. Completa el pago y vuelve a comprobarlo.",
+            "orderExpired": "El pedido de pago ha caducado. Inténtalo de nuevo.",
+            "statusQueryFailed": "No se pudo comprobar el estado del pago. Inténtalo de nuevo más tarde.",
+            "invalidPlan": "El plan seleccionado no es válido. Vuelve atrás y elige de nuevo.",
+            "popupBlocked": "El navegador bloqueó la ventana de pago. Permite las ventanas emergentes para este sitio e inténtalo de nuevo.",
+            "popupOpened": "Se ha abierto la ventana de pago de PayPal. Completa el pago en la ventana.",
+            "popupClosedChecking": "La ventana de pago se ha cerrado. Confirmando el resultado del pago...",
+            "popupClosedFailed": "La ventana de pago se ha cerrado, pero el pedido no está completo. Inténtalo de nuevo."
+          },
+          "summary": {
+            "title": "Resumen del pedido",
+            "periodLabel": "Período de membresía",
+            "paymentMethodLabel": "Método de pago",
+            "amountLabel": "Importe a pagar",
+            "paymentMethod": "Pago en línea con PayPal",
+            "note": "Tras el pago correcto, los beneficios de membresía se otorgarán automáticamente a tu cuenta actual.",
+            "periodMonth": "1 mes",
+            "periodYear": "1 año",
+            "periodLife": "De por vida",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Confirmando el resultado del pago...",
+            "closeLabel": "Cerrar",
+            "iconAlt": "Resultado del pago",
+            "titlePrefix": "Pago",
+            "successTitleHighlight": "¡Correcto!",
+            "failureTitleHighlight": "¡Fallido!",
+            "successDescription": "Gracias por tu compra. Tu membresía se ha activado.",
+            "failureDescription": "No se pudo completar tu pago. Inténtalo de nuevo o usa otro método de pago.",
+            "orderNumber": "Número de pedido",
+            "membershipType": "Tipo de membresía",
+            "expiry": "Fecha de caducidad",
+            "orderStatus": "Estado del pedido",
+            "successStatus": "Pagado",
+            "failureStatus": "No pagado",
+            "successPrimaryAction": "Ver en el Centro de membresía",
+            "failurePrimaryAction": "Cambiar método de pago",
+            "successSecondaryAction": "Aceptar",
+            "failureSecondaryAction": "Volver a la página",
+            "copyOrderNumber": "Copiar número de pedido",
+            "copied": "Copiado",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Confirmar compra | VicastCam",
+            "description": "Confirma tu plan de membresía de VicastCam y completa el pago mediante PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Membresía mensual",
+              "description": "Disfruta de todas las funciones de membresía de VicastCam mensualmente",
+              "period": "1 mes"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Membresía anual",
+              "description": "Disfruta de todas las funciones de membresía de VicastCam durante un año completo",
+              "period": "1 año"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Membresía de por vida",
+              "description": "Pago único, acceso a largo plazo a las funciones de membresía de VicastCam",
+              "period": "De por vida"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

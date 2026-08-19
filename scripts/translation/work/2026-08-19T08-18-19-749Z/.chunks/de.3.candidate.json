@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Kaufverlauf",
+    "title": "Kaufverlauf",
+    "tabTitle": "Käufe",
+    "exchangeTabTitle": "Einlösungen",
+    "tableHeaders": {
+      "title": "Typ",
+      "date": "Zahlungszeitpunkt",
+      "price": "Betrag",
+      "paymentMethod": "Zahlungsmethode",
+      "status": "Status",
+      "exchangeDate": "Einlösungszeitpunkt",
+      "exchangeCode": "Einlösecode"
+    },
+    "exchangeTableHeaders": {
+      "date": "Einlösungszeitpunkt",
+      "code": "Einlösecode"
+    },
+    "cardTypes": {
+      "month": "Monatskarte",
+      "year": "Jahreskarte",
+      "life": "Lebenslange Karte",
+      "default": "Mitgliedskarte"
+    },
+    "orderStatuses": {
+      "pending": "Zahlung ausstehend",
+      "paid": "Bezahlt",
+      "closed": "Geschlossen",
+      "refunded": "Erstattet",
+      "unknown": "Unbekannt"
+    },
+    "secretLabels": {
+      "show": "Passwort anzeigen",
+      "hide": "Passwort verbergen"
+    },
+    "secretMask": "******",
+    "emptyText": "Noch keine Käufe vorhanden",
+    "exchangeEmptyText": "Noch keine Einlösungen vorhanden",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Bankkarte",
+      "creditcard": "Kreditkarte",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Kryptowährung",
+      "balance": "Guthaben",
+      "free": "Kostenlos"
+    }
+  },
+  "team": {
+    "ariaLabel": "Mein Team",
+    "title": "Mein Team",
+    "referrerLabel": "Mein Empfehler",
+    "levelOne": "Mitglieder der Stufe 1",
+    "levelTwo": "Mitglieder der Stufe 2",
+    "tableHeaders": {
+      "name": "Mitgliedsname",
+      "status": "Mitgliedschaftsstatus",
+      "joinedAt": "Beitrittszeit"
+    },
+    "memberStatus": {
+      "free": "Kostenloser Benutzer",
+      "vip": "VIP-Benutzer"
+    },
+    "emptyMemberName": "Unbenannter Benutzer",
+    "emptyReferrer": "Kein Empfehler",
+    "emptyTeam": "Noch keine Teammitglieder",
+    "errors": {
+      "loadFail": "Teammitglieder konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Einnahmenzentrum",
+    "title": "Einnahmenübersicht",
+    "commissionTitle": "Provisionsdetails",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Gesamteinnahmen",
+        "desc": "Gesamte Provision bisher verdient"
+      },
+      {
+        "key": "month",
+        "title": "Dieser Monat",
+        "desc": "Provision in diesem Monat verdient"
+      },
+      {
+        "key": "settling",
+        "title": "Ausstehende Abrechnung",
+        "value": "0.00",
+        "desc": "Betrag, der auf Abrechnung wartet"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Abhebbar",
+        "desc": "Betrag, der derzeit zur Auszahlung verfügbar ist",
+        "action": "Abheben"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Benutzername",
+      "saleTime": "Verkaufszeitpunkt",
+      "goodsInfo": "Produkt",
+      "commission": "Provision"
+    },
+    "emptyCommission": "Noch keine Provisionsaufzeichnungen",
+    "errors": {
+      "loadFail": "Provisionsdetails konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+    },
+    "withdraw": {
+      "ariaLabel": "Auszahlungsanfrage",
+      "title": "Auszahlungsanfrage",
+      "closeLabel": "Auszahlungsdialog schließen",
+      "balanceLabel": "Abhebbares Guthaben",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Auszahlungsbetrag",
+      "amountPlaceholder": "Auszahlungsbetrag eingeben",
+      "allButton": "Alles",
+      "allAmountValue": "0.00",
+      "amountTip": "Bitte bestätigen Sie, dass der Betrag korrekt ist. Ihre Anfrage wird nach dem Absenden manuell geprüft.",
+      "methodLabel": "Auszahlungsmethode",
+      "methods": [
+        "Bankkarte",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Bankkarte",
+      "nameLabel": "Name des Zahlungsempfängers",
+      "namePlaceholder": "Name des Zahlungsempfängers eingeben",
+      "defaultName": "",
+      "bankCardLabel": "Kontonummer",
+      "bankCardPlaceholder": "Bankkartennummer, PayPal-E-Mail oder Wallet-Adresse eingeben",
+      "remarkLabel": "Bemerkungen",
+      "remarkPlaceholder": "Zusätzliche Hinweise hinzufügen",
+      "note": "Auszahlungsanfragen werden innerhalb von 1-3 Werktagen bearbeitet.",
+      "cancelButton": "Abbrechen",
+      "submitButton": "Anfrage absenden"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Einlösung erfolgreich",
+    "operationFailed": "Einlösung fehlgeschlagen",
+    "invalidCard": "Ungültiger Einlösecode",
+    "cardNotFound": "Einlösecode nicht gefunden",
+    "cardDisabled": "Einlösecode deaktiviert",
+    "cardExpired": "Einlösecode abgelaufen"
+  },
+  "successMessage": "Vorgang erfolgreich"
+}

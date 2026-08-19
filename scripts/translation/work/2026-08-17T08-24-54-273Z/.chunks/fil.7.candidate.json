@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Ano ang gagawin ko kung hindi buo ang screen kapag nag-stream mula sa computer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung hindi buo ang screen kapag nag-stream mula sa iyong phone gamit ang live streaming companion app o ibang software, sundin ang mga hakbang na ito para i-adjust:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buksan ang VicastCam, i-tap ang camera icon sa ibaba para pumasok sa live streaming page, pagkatapos ay pumunta sa [Right menu - More Settings - Aspect Ratio - 9:16].",
+            "Pagkatapos i-cast sa live streaming companion, i-scale muna para magkasya, pagkatapos ay i-drag ang screen pataas o pababa para mapuno ang buong screen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Tandaan: Bago simulan ang iyong stream, i-adjust muna ang aspect ratio, pagkatapos ay idagdag ang iyong mga assets."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Ano ang gagawin ko kung may network request failure?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung makaranas ka ng network request failures, subukan ang mga sumusunod:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buksan ang Settings ng iyong phone, pumunta sa [Permission Management - VicastCam - Use Cellular Data and Wi-Fi] at i-enable ang network access.",
+            "I-off ang power-saving mode at anumang background restrictions sa iyong phone.",
+            "Magpalit ng network, i-restart ang phone, i-toggle ang airplane mode, o i-update ang app sa pinakabagong bersyon.",
+            "Kung magpapatuloy ang isyu, kumuha ng screenshot ng error at makipag-ugnayan sa customer support para sa tulong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Bakit nag-flicker o nagiging black screen ang network asset overlays habang nag-live stream?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung nakakaranas ka ng flickering o black screens kapag nagdadagdag ng network assets habang nag-live stream, narito kung paano ito i-handle:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "I-download at i-preview nang maaga ang anumang assets at overlays na balak mong gamitin sa stream. Siguraduhing gumagana ang mga ito bago mag-live.",
+            "Ang ilang assets na kasama sa software ay naka-store sa mga server. I-download ang mga ito bago simulan ang iyong stream para magamit mo nang direkta sa stream nang hindi na kailangang i-reload.",
+            "Ang pag-load ng assets habang nag-stream ay kumukonsumo ng streaming resources, phone memory, at performance, na maaaring magdulot ng lag. Sa mga lower-end phones, maaari pa itong magdulot ng crashes o black screens."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mahalagang paalala"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planuhin at i-rehearse ang iyong stream nang maaga. I-practice ang bawat segment para matiyak na maayos ang lahat bago mag-live. Tratuhin ang bawat stream nang may pag-iingat, at gagantihan ka ng iyong stream."
+        }
+      ]
+    }
+  ]
+}

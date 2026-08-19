@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Computer instellen",
+      "count": "7 lessen",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Aan de slag met VicastCam",
+          "description": "Een overzicht van de interface en de belangrijkste functies.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Bekabelde verbinding – iPhone",
+          "description": "Verbind je iPhone met VicastCam via een bekabelde verbinding.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Draadloze verbinding – iPhone",
+          "description": "Verbind je iPhone met VicastCam via Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Bekabelde verbinding – Android",
+          "description": "Verbind je Android-apparaat met VicastCam via een bekabelde verbinding.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Draadloze verbinding – Android",
+          "description": "Verbind je Android-apparaat met VicastCam via Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Lokale media toevoegen en gebruiken",
+          "description": "Importeer en gebruik lokale mediabestanden in je projecten.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Wat te doen na het verbinden",
+          "description": "Zet je stream op zodra je apparaten zijn verbonden.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

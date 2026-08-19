@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "Tungkol sa VicastCam",
+          "titleMain": "Ang team sa likod ng mobile green screen at screen casting technology",
+          "titleHighlight": "",
+          "description": "Nakatuon kami sa mobile imaging, virtual camera, screen casting collaboration, at multi-platform live streaming connectivity, na tumutulong sa mga creator, educators, at negosyo na gawing propesyonal na live streaming tools ang kanilang mga phone—stable, malinaw, at madaling i-integrate.",
+          "primaryButtonText": "Makipag-ugnayan sa Sales",
+          "secondaryButtonText": "Tingnan ang SDK"
+        },
+        "innovation": {
+          "sectionTag": "Mga Pangunahing Lakas",
+          "titleMain": "Nakatuon sa Innovation",
+          "titleHighlight": "Nagmamaneho sa Kinabukasan ng Live Streaming",
+          "description": "Mula sa mobile tools hanggang sa platform capabilities, lumalawak ang VicastCam sa mas maraming device, platform, at live streaming scenarios.",
+          "featureTag": "Mga Pangunahing Kakayahan",
+          "featureTitle": "Global live streaming, pinagkakatiwalaan ng industriya",
+          "featureDescription": "Patuloy naming pinipino ang product experience sa paligid ng mobile live streaming, virtual imaging, screen casting collaboration, at cross-platform connectivity, na ginagawang stable at integrable workflows ang mga live streaming tools mula sa single-point capabilities.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Mga bansa at rehiyon",
+              "text": "Naglilingkod sa mga creator at team sa buong mundo"
+            },
+            {
+              "value": "2000+",
+              "label": "Mga compatible na platform",
+              "text": "Sinasaklaw ang mga pangunahing live streaming, meeting, at content scenarios"
+            },
+            {
+              "value": "500000+",
+              "label": "Kabuuang paggamit",
+              "text": "Patuloy na nabe-validate para sa stability at kadalian ng paggamit"
+            },
+            {
+              "value": "99.9%",
+              "label": "Uptime",
+              "text": "Tinitiyak ang maaasahang live streaming workflows"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Roadmap",
+          "titleMain": "Patuloy na Umuunlad",
+          "titleHighlight": "Sa Paligid ng Global Live Streaming Ecosystem",
+          "description": "Mula sa live streaming tools hanggang sa platform capabilities, lumalawak ang VicastCam sa mas maraming device, platform, at live streaming scenarios.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Pagpapalalim sa mobile focus at pagpino sa core green screen effects",
+              "text": "Nakatuon sa mga pinagbabatayang kakayahan ng mobile virtual live streaming, patuloy na nag-iterate at nag-optimize ng green screen matting algorithms upang malutas ang mga isyu tulad ng edge distortion, mahinang lighting adaptation, at lag sa maraming overlays. Nakumpleto ang buong suite ng virtual effects kabilang ang stickers, background replacement, at foreground occlusion, na nagtatag ng lightweight mobile virtual live streaming foundation. Sa pamamagitan lamang ng phone, makakamit ng mga creator ang propesyonal na green screen live streaming."
+            },
+            {
+              "year": "2024",
+              "title": "Pagkonekta ng screen casting, pag-develop ng core virtual camera technology",
+              "text": "Pinalawak ang device interconnectivity, na nakatuon sa high-definition phone screen casting at cross-device synchronized transmission. Independently na bumuo ng universal virtual camera driver para sa global software capture at output, na nagbibigay-daan sa compatibility sa mga live streaming software, editing tools, at online meetings. Tinulay ang agwat sa pagitan ng mobile at desktop, na nagpapahintulot ng one-tap casting ng phone content sa PC at multi-output virtual camera positions, na nagpapayaman sa live streaming production."
+            },
+            {
+              "year": "2025",
+              "title": "Paglulunsad ng PC professional 3D live streaming assistant",
+              "text": "Naghatid ng propesyonal na desktop live streaming product line na may kumpletong 3D virtual live streaming assistant. Nilagyan ng 3D virtual scenes, digital human driving, multi-camera switching, at real-time lighting at rendering, na nagsisilbi sa commercial live streaming, virtual presentations sa showrooms, at large-screen e-commerce live streaming. Pinahusay ang multi-layer compositing, real-time captions, at interactive components upang matugunan ang mga pangangailangan ng mga team na naghahatid ng malakihan at de-kalidad na propesyonal na live streams."
+            },
+            {
+              "year": "2026",
+              "title": "Paglalawak sa buong mundo, pagbuo ng kumpletong live streaming ecosystem",
+              "text": "Komprehensibong pinalawak sa overseas live streaming, na umaangkop sa mga pangunahing overseas platform para sa streaming, low-latency transmission sa international networks, at multi-language localization. Isinama ang tatlong core products mula sa mga nakaraang taon: mobile green screen, screen casting virtual camera, at PC 3D live streaming, na nagkokonekta sa tatlong business lines: indibidwal na creator, enterprise commercial use, at developer SDK integration. Pinag-isa ang hardware, software, multi-terminal, at domestic at international services, na kumukumpleto sa full-chain live streaming ecosystem mula sa production, cross-device interoperability, hanggang sa global distribution."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "I-follow Kami",
+          "titleMain": "Makipag-ugnayan sa Amin",
+          "titleHighlight": "at Hubugin ang Kinabukasan ng Live Streaming",
+          "description": "I-follow ang aming product updates, live streaming tips, at iba pang balita",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "Tungkol sa Amin",
+          "description": "Alamin ang tungkol sa VicastCam team, product mission, at mga kakayahan sa virtual camera, AI live streaming enhancement, at cross-platform broadcasting."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Download Center",
+            "title": "I-download ang VicastCam"
+          },
+          "platform": {
+            "title": "Piliin ang iyong platform",
+            "description": "Sinusuportahan ng VicastCam ang Windows, iOS, at Android. Simulan ang propesyonal na live streaming.",
+            "versionLabel": "Bersyon",
+            "updatedAtLabel": "Na-update",
+            "sizeLabel": "Laki ng Package",
+            "downloadAriaSuffix": "I-download",
+            "closeQrAriaPrefix": "Isara",
+            "closeQrAriaSuffix": "Download QR Code",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Sinusuportahan ang Android 8.0 pataas",
+                "actionLabel": "I-download Ngayon",
+                "qrTitle": "I-scan para i-download ang Android version",
+                "qrDescription": "Gamitin ang iyong phone para i-scan at i-download"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Sinusuportahan ang iOS 13.0 pataas",
+                "actionLabel": "App Store",
+                "qrTitle": "I-scan para pumunta sa App Store",
+                "qrDescription": "Gamitin ang iyong phone para i-scan at i-download ang iOS version"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Compatible sa Windows 10 pataas",
+                "actionLabel": "I-download Ngayon",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Bakit piliin ang VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Secure at maaasahan",
+                "text": "Maraming security mechanisms ang nagpoprotekta sa iyong data at account."
+              },
+              {
+                "key": "updates",
+                "title": "Patuloy na updates",
+                "text": "Patuloy naming pinapabuti ang produkto upang magbigay ng mas stable na experience."
+              },
+              {
+                "key": "support",
+                "title": "Propesyonal na suporta",
+                "text": "24/7 technical support na may mabilis na pagtugon sa iyong mga isyu."
+              },
+              {
+                "key": "tutorial",
+                "title": "Video tutorials",
+                "text": "Detalyadong video tutorials at feature guides upang matulungan kang makapagsimula nang mabilis."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Download Center",
+            "description": "I-download ang VicastCam client para sa Windows, iOS, at Android."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "fil",
+        "features_section": {
+          "title_tag": "Mga Tampok",
+          "title_main": "Ang all-in-one live streaming solution",
+          "title_highlight": "para sa propesyonal na mobile broadcasters",
+          "description": "Isama ang core live streaming capabilities upang lumikha ng engaging scenes kahit saan at maghatid ng propesyonal na visual experience."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Screen Casting at Virtual Camera",
+            "desc": "I-cast ang iyong phone sa PC at gamitin ang virtual camera technology para sa propesyonal na live streams."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Multi-Camera Support",
+            "desc": "Magpalipat-lipat sa maraming camera angles sa isang tap habang nagli-live para sa mas mayamang perspectives."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D Effects",
+            "desc": "Magdagdag ng mga nakamamanghang 2D/3D effect layers upang lumikha ng dynamic at engaging live room"
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Multi-Platform Streaming",
+            "desc": "Mag-stream sa YouTube, Twitch, TikTok, Facebook Live, at iba pa."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Virtual Controller",
+            "desc": "Kontrolin ang iyong live stream nang malayuan mula sa anumang device: magpalit ng scenes, i-mute ang audio, at ayusin ang effects sa real time."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Sabay-sabay na Multi-Platform Live",
+            "desc": "Mag-live nang sabay-sabay sa TikTok, YouTube, Twitch, at Instagram mula sa iyong PC."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Mobile Green Screen Effects at Screen Casting",
+      "top_badge": "AI-Powered Live Streaming Tool",
+      "hero_subtitle": "Nagpapagana sa global live streaming ecosystem",
+      "hero_description_1": "Gumagamit ang VicastCam ng advanced AI matting upang makapagpalit ka ng virtual backgrounds nang walang putol habang nagli-live, na naghahatid ng",
+      "hero_description_2": "immersive experience na nagpapataas ng iyong propesyonal na imahe.",
+      "user_count_label": "Mga Global User",
+      "rating_label": "App Store Rating",
+      "download_count_label": "Mga Global Download",
+      "app_store_url": "I-download sa App Store",
+      "google_play_url": "I-download sa Android",
+      "desktop_client_url": "I-download ang Desktop Client",
+      "request_success": "Matagumpay ang request",
+      "request_fail": "Nabigo ang request",
+      "request_loading": "Naglo-load"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Presyo",
+          "titleMain": "Piliin ang plan",
+          "titleHighlight": "na bagay sa iyo",
+          "description": "Subukan nang libre, o pumili ng ibang plan",
+          "priceAltSuffix": "Presyo",
+          "freePlanMessage": "Ang mga free user ay hindi kailangang bumili",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Libre",
+              "description": "Libreng i-download at magrehistro, may mga basic features na walang bayad.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/buwan",
+              "priceNote": "",
+              "cta": "Magsimula",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Gumawa gamit ang isang scene",
+                "Ayusin ang hanggang apat na layers nang malaya",
+                "Ma-access ang iba't ibang live background materials",
+                "Basic quality para sa PC screen casting",
+                "Built-in natural beauty effects"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Buwanan",
+              "description": "I-activate at i-enjoy ang buong buwan ng access, isang murang paraan upang subukan.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/buwan",
+              "priceNote": "30-araw na access",
+              "cta": "Bumili",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Lahat ng mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Eksklusibong live streaming effects"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Taunan",
+              "description": "Pinakamagandang halaga na may taunang savings.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/taon",
+              "priceNote": "365-araw na access",
+              "cta": "Bumili",
+              "badgeText": "Pinakasikat",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Lahat ng mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Eksklusibong live streaming effects"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Panghabambuhay",
+              "description": "Isang beses na pagbili para sa panghabambuhay na access, perpekto para sa mga pangmatagalang creator.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Panghabambuhay na access",
+              "cta": "Bumili",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Lahat ng mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Eksklusibong live streaming effects"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Buwanan",
+                "subtitle": "I-activate at i-enjoy ang buong buwan ng access, isang murang paraan upang subukan.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/buwan",
+                "cta": "Bumili",
+                "benefits": [
+                  "Lahat ng mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Eksklusibong live streaming effects"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Taunan",
+                "subtitle": "Pinakamagandang halaga na may taunang savings.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/taon",
+                "cta": "Bumili",
+                "benefits": [
+                  "Lahat ng mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Eksklusibong live streaming effects"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Panghabambuhay",
+                "subtitle": "Isang beses na pagbili para sa panghabambuhay na access, perpekto para sa mga pangmatagalang creator.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Bumili",
+                "benefits": [
+                  "Lahat ng mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Eksklusibong live streaming effects"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "fil",
+        "slug": "team",
+        "pageName": "Business Partnerships",
+        "hero": {
+          "eyebrow": "Business Partnerships",
+          "title": "VicastCam Global Agency Partnership Program",
+          "highlight": "Sumali sa amin",
+          "description": "Isang propesyonal na virtual camera live streaming tool, bukas sa mga global channel partners. Unified USD settlement, regional exclusivity, at full-funnel marketing support.",
+          "actions": {
+            "primary": "Mag-apply Ngayon",
+            "secondary": "Matuto Pa"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Bakit Maging Partner",
+          "titlePrefix": "Bakit",
+          "titleHighlight": "makipagsosyo sa amin",
+          "description": "Madaling ibenta, mababa ang panganib, at mataas ang kita—tinutupad ng VicastCam ang lahat ng ito.",
+          "items": [
+            {
+              "title": "Malaking Creator Market",
+              "description": "Sinasaklaw ang live streaming, e-commerce, short video, at content creation, ang pandaigdigang demand ng mga creator ay patuloy na lumalaki, na nag-aalok ng malaking market at stable conversions.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Walang Inventory, Online Delivery",
+              "description": "Pure software licensing na may instant cloud delivery ng activation codes. Walang stock, walang logistics, mababa ang gastos, sumusuporta sa batch delivery at mabilis na activation.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Full-Featured Competitive Edge",
+              "description": "Green screen matting, virtual backgrounds, multi-platform streaming, at AI effects sa isang produkto. Kumpletong features na madaling i-demonstrate, ibenta, at i-renew.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Mga Patakaran sa Pakikipagsosyo",
+          "titlePrefix": "Kwalipikasyon",
+          "titleHighlight": "at settlement",
+          "description": "Transparent, patas, at predictable na mga patakaran para sa bawat partner para sa kapayapaan ng isip.",
+          "agentLevelTitle": "Mga Antas ng Agent",
+          "agentLevels": [
+            {
+              "title": "Standard Agent",
+              "description": "Ang unang order na $30,000 USD ay nagbibigay ng pangmatagalang distribution rights, tiered discounts, at standard channel support.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Regional Exclusive Agent",
+              "description": "Matugunan ang quarterly purchase targets upang makakuha ng eksklusibong distribution rights para sa isang rehiyon, na walang ibang channel na awtorisado sa lugar na iyon.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Supply at Settlement",
+          "settlementRules": [
+            "Unified USD settlement, sumusuporta sa mga pagbabayad sa pamamagitan ng HSBC Hong Kong corporate accounts",
+            "Batch activation codes na inihatid agad sa pamamagitan ng cloud para sa mabilis na paghahatid sa customer",
+            "Ang mga pangmatagalang partner ay nag-e-enjoy ng tiered pricing; mas mataas na purchase volumes ay nagpapababa ng unit costs"
+          ]
+        },
+        "support": {
+          "eyebrow": "Channel Support",
+          "titlePrefix": "Apat na Haligi ng",
+          "titleHighlight": "Suporta",
+          "description": "Mula sa materials at technical support hanggang sa brand authorization at early access sa mga bagong features, nagbibigay kami ng full-funnel support.",
+          "items": [
+            {
+              "title": "Kumpletong Marketing Materials",
+              "description": "I-access ang website banners, short videos, Reddit/Facebook ad copy, at product review materials agad.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Dedicated English Technical Support",
+              "description": "Overseas technical specialists para sa SDK debugging, live streaming feature after-sales, at pagresolba ng mga isyu ng customer.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Opisyal na Brand Authorization",
+              "description": "Gamitin ang trademark at product images ng VicastCam para sa regional online at offline promotion.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Priority Beta Access",
+              "description": "Ang mga agent ay may early access upang subukan at ibenta ang lahat ng AI effects, streaming updates, at bagong features.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Mga Modelo ng Pakikipagsosyo",
+          "titlePrefix": "Flexible",
+          "titleHighlight": "mga modelo ng pakikipagsosyo",
+          "description": "Kung ikaw ay isang channel, technology vendor, o enterprise service provider, may modelo kaming bagay sa iyo.",
+          "items": [
+            {
+              "title": "Channel Agency (Inirerekomenda)",
+              "description": "Para sa cross-border software stores, live streaming equipment shops, overseas MCNs, at cross-border e-commerce teams upang ipamahagi ang software licenses sa malaking sukat.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM White-Label SDK",
+              "description": "Alisin ang lahat ng VicastCam branding, i-customize ang logo, software name, at UI, at ibenta sa ilalim ng iyong sariling brand.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Enterprise Customization",
+              "description": "Para sa live streaming service providers, educational institutions, at government/enterprise meeting projects, na may custom features at private deployment options.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Mag-apply",
+          "titlePrefix": "Punan ang form",
+          "titleHighlight": "upang mag-apply online",
+          "description": "Punan ang impormasyon sa ibaba at makikipag-ugnayan kami sa iyo sa loob ng 1-3 business days.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Pangalan ng Contact",
+              "placeholder": "Ilagay ang iyong pangalan"
+            },
+            {
+              "name": "companyName",
+              "label": "Pangalan ng Kumpanya",
+              "placeholder": "Ilagay ang pangalan ng iyong kumpanya"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "placeholder": "Ilagay ang iyong email"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Telepono",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Uri ng Negosyo",
+              "placeholder": "Piliin ang uri ng negosyo",
+              "options": [
+                "Channel Agency",
+                "OEM White-Label SDK",
+                "Enterprise Customization",
+                "Iba pa"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Pangunahing Rehiyon",
+              "placeholder": "hal., North America/Europe/Southeast Asia"
+            },
+            {
+              "name": "position",
+              "label": "Posisyon",
+              "placeholder": "Ilagay ang iyong posisyon"
+            },
+            {
+              "name": "budget",
+              "label": "Tinatayang Quarterly Purchase Budget",
+              "placeholder": "Ilagay ang iyong budget"
+            },
+            {
+              "name": "country",
+              "label": "Bansa",
+              "placeholder": "Piliin ang bansa/rehiyon",
+              "options": [
+                "China",
+                "United States",
+                "Indonesia",
+                "Malaysia",
+                "Thailand",
+                "Vietnam",
+                "Philippines",
+                "Spain",
+                "Portugal",
+                "Saudi Arabia",
+                "Japan",
+                "Turkey",
+                "Italy",
+                "Germany",
+                "France",
+                "South Korea",
+                "Russia",
+                "Poland",
+                "Netherlands",
+                "India",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Iba pa"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Website ng Kumpanya",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Layunin ng Pakikipagsosyo",
+          "intentPlaceholder": "Maikling ilarawan ang iyong business model, target market, at ninanais na partnership approach...",
+          "note": "*Kinakailangang field. Ang iyong impormasyon ay pinananatiling kumpidensyal at ginagamit lamang para sa komunikasyon sa partnership.",
+          "submitLabel": "Isumite ang Impormasyon ng Partnership"
+        },
+        "contact": {
+          "title": "Agad na Business Contact",
+          "items": [
+            {
+              "label": "Business Email",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Hong Kong Hotline",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Oras ng Trabaho",
+              "value": "GMT+8, Lunes hanggang Biyernes, 9:00-18:00"
+            }
+          ],
+          "note": "Para sa mga agarang pangangailangan sa negosyo, makipag-ugnayan nang direkta sa amin sa pamamagitan ng WhatsApp o email.",
+          "qr": {
+            "label": "I-scan upang makipag-ugnayan sa amin sa WhatsApp",
+            "alt": "VicastCam business contact QR code"
+          }
+        },
+        "seo": {
+          "title": "VicastCam Business Partnerships",
+          "description": "Sumali sa VicastCam global partner program para sa channel agency, OEM white-label SDK, at enterprise customization support.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCam Global Partner Program"
+        }
+      }
+    }
+  ]
+}

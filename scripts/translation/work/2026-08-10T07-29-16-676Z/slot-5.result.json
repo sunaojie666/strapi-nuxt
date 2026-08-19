@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "slot": "5",
+  "results": [
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation vi failed after 3 attempts: translation vi returned invalid JSON: Unterminated string in JSON at position 26931 (line 617 column 51)"
+    },
+    {
+      "locale": "de",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "needs-human-review",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T07-29-16-676Z\\de.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation bn failed after 3 attempts: translation bn returned invalid JSON: Unterminated string in JSON at position 25229 (line 567 column 122)"
+    }
+  ]
+}

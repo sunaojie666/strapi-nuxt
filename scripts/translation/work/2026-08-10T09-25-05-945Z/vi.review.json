@@ -1,0 +1,739 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Không có' to match the source's 'cross' meaning (not available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Không có' to match the source's 'cross' meaning (not available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Có' to match the source's 'check' meaning (available)."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Thanh toán chưa khả dụng",
+            "payment": {
+              "providerName": "Thanh toán trực tuyến chưa hoạt động",
+              "providerDescription": "Hệ thống thanh toán đang được thiết lập. Trang này chỉ hiển thị chi tiết đơn hàng.",
+              "unavailableTitle": "Thanh toán chưa khả dụng",
+              "unavailableDescription": "Chúng tôi đang tích hợp quy trình thanh toán và xác nhận đơn hàng chính thức. Cho đến khi ra mắt, trang này sẽ không thu phí bạn hoặc tạo đơn hàng thực.",
+              "unavailableItems": [
+                "Sẽ không tải thành phần thanh toán của bên thứ ba",
+                "Sẽ không gửi thông tin thanh toán",
+                "Sẽ không tạo đơn hàng thanh toán thực"
+              ],
+              "feedback": "Để mua hoặc kích hoạt gói thành viên, vui lòng liên hệ business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Tóm tắt đơn hàng",
+              "periodLabel": "Thời hạn thành viên",
+              "paymentMethodLabel": "Phương thức thanh toán",
+              "amountLabel": "Số tiền phải trả",
+              "submitLabel": "Chưa khả dụng",
+              "note": "Thanh toán chưa khả dụng. Chi tiết đơn hàng bên dưới để bạn xác nhận gói của mình.",
+              "unavailablePaymentMethod": "Chưa khả dụng",
+              "fallbackProductName": "Chưa chọn gói",
+              "fallbackProductDescription": "Vui lòng quay lại trang chủ và chọn gói thành viên.",
+              "periodMonth": "1 tháng",
+              "periodYear": "1 năm",
+              "periodLife": "Trọn đời",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Thanh toán đăng ký",
+              "description": "Trang thanh toán đăng ký VicastCam."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Gói tháng",
+                "description": "Truy cập trọn một tháng sau khi kích hoạt. Cách dùng thử với chi phí thấp."
+              },
+              {
+                "type": "year",
+                "name": "Gói năm",
+                "description": "Truy cập trọn một năm sau khi kích hoạt. Lý tưởng cho nhu cầu sử dụng lâu dài, ổn định."
+              },
+              {
+                "type": "life",
+                "name": "Gói trọn đời",
+                "description": "Kích hoạt một lần và sử dụng lâu dài. Tận hưởng các quyền lợi thành viên liên tục."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "vi",
+          "multi_platform_section": {
+            "tag": "Hỗ trợ đa nền tảng",
+            "title_main": "Tiếp cận các nền tảng phát trực tiếp hàng đầu thế giới",
+            "title_highlight": "Mở khóa khán giả toàn cầu chỉ với một cú nhấp chuột",
+            "description": "Kết nối với các nguồn lưu lượng truy cập toàn cầu và xây dựng hệ sinh thái phát trực tiếp xuyên biên giới mới."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Trung tâm tài khoản",
+              "description": "Trang trung tâm tài khoản VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "Điều hướng trung tâm tài khoản",
+              "defaultProfileName": "Người dùng",
+              "emptyContent": "Không có nội dung",
+              "copyButtonLabel": "Sao chép",
+              "monthSelectLabel": "Chọn tháng",
+              "yearSuffix": "n",
+              "monthSuffix": "th",
+              "userMissing": "Không tìm thấy thông tin người dùng. Vui lòng đăng nhập lại.",
+              "paginationLabel": "Phân trang",
+              "previousPageLabel": "Trang trước",
+              "nextPageLabel": "Trang sau",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Đi tới",
+                "unit": "trang",
+                "ariaLabel": "Đi tới trang cụ thể",
+                "buttonLabel": "Đi"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Trung tâm tài khoản",
+              "logout": "Đăng xuất",
+              "profileAriaSuffix": "Menu trung tâm tài khoản"
+            },
+            "sidebar": {
+              "ariaLabel": "Điều hướng trung tâm tài khoản",
+              "menus": {
+                "account": "Thông tin tài khoản",
+                "membership": "Gói thành viên",
+                "redeem": "Đổi mã",
+                "purchaseHistory": "Lịch sử mua hàng",
+                "team": "Đội của tôi",
+                "earnings": "Thu nhập"
+              }
+            },
+            "account": {
+              "ariaLabel": "Thông tin tài khoản",
+              "profileTitle": "Thông tin tài khoản",
+              "usernameLabel": "Tên người dùng",
+              "passwordLabel": "Mật khẩu",
+              "passwordMask": "********",
+              "defaultUsername": "Chưa đặt biệt danh",
+              "inviteTitle": "Liên kết mời",
+              "inviteDescription": "Sao chép liên kết mời cá nhân của bạn. Khi bạn bè đăng ký và kích hoạt gói thành viên, bạn sẽ nhận được phần thưởng.",
+              "emptyInviteLink": "Chưa có liên kết mời"
+            },
+            "membership": {
+              "ariaLabel": "Gói thành viên",
+              "title": "Gói thành viên của tôi",
+              "badgeAlt": "Huy hiệu thành viên",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Người dùng miễn phí",
+              "activeVipName": "Thành viên VIP",
+              "expirePrefix": "Hết hạn",
+              "emptyExpireDate": "Chưa kích hoạt",
+              "activeStatus": "Đang hoạt động",
+              "inactiveStatus": "Chưa kích hoạt",
+              "compareTitle": "So sánh quyền lợi gói thành viên",
+              "compareHeaders": {
+                "feature": "Tính năng",
+                "normal": "Miễn phí",
+                "month": "Theo tháng",
+                "year": "Theo năm",
+                "life": "Trọn đời"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Gói thành viên tháng",
+                  "subtitle": "Phù hợp cho nhu cầu ngắn hạn",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/tháng",
+                  "cta": "Bắt đầu",
+                  "benefits": [
+                    "Tính năng camera ảo cốt lõi",
+                    "Phông nền ảo và làm đẹp",
+                    "Hỗ trợ phát trực tiếp đa nền tảng",
+                    "Cập nhật tiêu chuẩn"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Gói thành viên năm",
+                  "subtitle": "Giá trị hơn cho nhu cầu dài hạn",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/năm",
+                  "cta": "Bắt đầu",
+                  "benefits": [
+                    "Tất cả quyền lợi gói tháng",
+                    "Tất cả tính năng nâng cao trong một năm",
+                    "Ưu tiên cập nhật tính năng",
+                    "Hỗ trợ thành viên tận tình"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Gói thành viên trọn đời",
+                  "subtitle": "Trả một lần, dùng lâu dài",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/trọn đời",
+                  "cta": "Bắt đầu",
+                  "benefits": [
+                    "Tất cả quyền lợi gói năm",
+                    "Tính năng nâng cao vĩnh viễn",
+                    "Cập nhật lâu dài",
+                    "Kênh hỗ trợ riêng"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Thời hạn thành viên",
+                  "normal": "Miễn phí vĩnh viễn",
+                  "month": "30 ngày",
+                  "year": "365 ngày",
+                  "life": "Trọn đời"
+                },
+                {
+                  "feature": "Camera ảo trên máy tính",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Phông nền ảo tùy chỉnh",
+                  "normal": "Một bộ",
+                  "month": "Không giới hạn",
+                  "year": "Không giới hạn",
+                  "life": "Không giới hạn"
+                },
+                {
+                  "feature": "Cài đặt sẵn phát trực tiếp",
+                  "normal": "Không có",
+                  "month": "Không giới hạn",
+                  "year": "Không giới hạn",
+                  "life": "Không giới hạn"
+                },
+                {
+                  "feature": "Tài nguyên từ trang web chính thức",
+                  "normal": "Hạn chế",
+                  "month": "Không giới hạn",
+                  "year": "Không giới hạn",
+                  "life": "Không giới hạn"
+                },
+                {
+                  "feature": "Điều khiển từ xa qua bộ điều khiển",
+                  "normal": "Có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Chế độ so sánh cảnh trực tiếp",
+                  "normal": "Có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Phụ đề cảnh",
+                  "normal": "Hạn chế",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Nhạc nền cảnh",
+                  "normal": "Hạn chế",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Đầu vào nhiều camera",
+                  "normal": "Không có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Bộ lọc làm đẹp nâng cao",
+                  "normal": "Cơ bản",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "AI tách nền thông minh",
+                  "normal": "Có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Hiệu ứng chuyển động động",
+                  "normal": "Hạn chế",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Hiệu ứng chuyển động camera cảnh",
+                  "normal": "Hạn chế",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Thư viện hiệu ứng VIP",
+                  "normal": "Hạn chế",
+                  "month": "Không giới hạn",
+                  "year": "Không giới hạn",
+                  "life": "Không giới hạn"
+                },
+                {
+                  "feature": "Phát trực tiếp lên nền tảng",
+                  "normal": "Có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Đầu ra 4K UHD",
+                  "normal": "Không có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                },
+                {
+                  "feature": "Tỷ lệ hoa hồng quảng bá",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Phần thưởng giới thiệu",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Kênh hỗ trợ",
+                  "normal": "Tự phục vụ cộng đồng",
+                  "month": "Hàng đợi tiêu chuẩn",
+                  "year": "Ưu tiên phản hồi",
+                  "life": "Hỗ trợ riêng"
+                },
+                {
+                  "feature": "Truy cập sớm tính năng mới",
+                  "normal": "Không có",
+                  "month": "Có",
+                  "year": "Có",
+                  "life": "Có"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Đổi mã",
+              "title": "Đổi mã",
+              "tip": "Nhập mã đổi gói thành viên của bạn. Quyền lợi sẽ được kích hoạt ngay sau khi đổi.",
+              "placeholder": "Nhập mã đổi",
+              "submitButton": "Đổi ngay",
+              "agreementPrefix": "Khi đổi mã, bạn đồng ý với",
+              "userProtocolText": "Thỏa thuận người dùng",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "Đổi mã thất bại. Vui lòng kiểm tra mã và thử lại."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Lịch sử mua hàng",
+              "title": "Lịch sử mua hàng",
+              "tabTitle": "Giao dịch mua",
+              "exchangeTabTitle": "Giao dịch đổi",
+              "tableHeaders": {
+                "title": "Loại",
+                "date": "Ngày thanh toán",
+                "price": "Số tiền",
+                "paymentMethod": "Phương thức thanh toán",
+                "status": "Trạng thái",
+                "exchangeDate": "Ngày đổi",
+                "exchangeCode": "Mã đổi"
+              },
+              "exchangeTableHeaders": {
+                "date": "Ngày đổi",
+                "code": "Mã đổi"
+              },
+              "cardTypes": {
+                "month": "Gói tháng",
+                "year": "Gói năm",
+                "life": "Gói trọn đời",
+                "default": "Gói thành viên"
+              },
+              "orderStatuses": {
+                "pending": "Đang chờ",
+                "paid": "Đã thanh toán",
+                "closed": "Đã đóng",
+                "refunded": "Đã hoàn tiền",
+                "unknown": "Không xác định"
+              },
+              "secretLabels": {
+                "show": "Hiện mật khẩu",
+                "hide": "Ẩn mật khẩu"
+              },
+              "secretMask": "******",
+              "emptyText": "Không có lịch sử mua hàng",
+              "exchangeEmptyText": "Không có lịch sử đổi mã",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Thẻ ngân hàng",
+                "creditcard": "Thẻ tín dụng",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Tiền điện tử",
+                "balance": "Số dư",
+                "free": "Miễn phí"
+              }
+            },
+            "team": {
+              "ariaLabel": "Đội của tôi",
+              "title": "Đội của tôi",
+              "referrerLabel": "Người giới thiệu của tôi",
+              "levelOne": "Thành viên cấp 1",
+              "levelTwo": "Thành viên cấp 2",
+              "tableHeaders": {
+                "name": "Tên thành viên",
+                "status": "Trạng thái thành viên",
+                "joinedAt": "Tham gia"
+              },
+              "memberStatus": {
+                "free": "Người dùng miễn phí",
+                "vip": "Người dùng VIP"
+              },
+              "emptyMemberName": "Người dùng chưa đặt tên",
+              "emptyReferrer": "Không có người giới thiệu",
+              "emptyTeam": "Chưa có thành viên trong đội",
+              "errors": {
+                "loadFail": "Không tải được danh sách thành viên. Vui lòng thử lại sau."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Thu nhập",
+              "title": "Tổng quan thu nhập",
+              "commissionTitle": "Chi tiết hoa hồng",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Tổng thu nhập",
+                  "desc": "Tổng hoa hồng kiếm được đến nay"
+                },
+                {
+                  "key": "month",
+                  "title": "Tháng này",
+                  "desc": "Hoa hồng kiếm được trong tháng này"
+                },
+                {
+                  "key": "settling",
+                  "title": "Đang chờ thanh toán",
+                  "value": "0.00",
+                  "desc": "Số tiền đang chờ thanh toán"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Có thể rút",
+                  "desc": "Số tiền hiện có thể rút",
+                  "action": "Rút tiền"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Tên người dùng",
+                "saleTime": "Thời gian bán",
+                "goodsInfo": "Sản phẩm",
+                "commission": "Hoa hồng"
+              },
+              "emptyCommission": "Không có bản ghi hoa hồng",
+              "errors": {
+                "loadFail": "Không tải được chi tiết hoa hồng. Vui lòng thử lại sau."
+              },
+              "withdraw": {
+                "ariaLabel": "Yêu cầu rút tiền",
+                "title": "Yêu cầu rút tiền",
+                "closeLabel": "Đóng hộp thoại rút tiền",
+                "balanceLabel": "Số dư có thể rút",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "Số tiền rút",
+                "amountPlaceholder": "Nhập số tiền rút",
+                "allButton": "Tất cả",
+                "allAmountValue": "0.00",
+                "amountTip": "Vui lòng xác nhận số tiền chính xác. Yêu cầu của bạn sẽ được xem xét thủ công sau khi gửi.",
+                "methodLabel": "Phương thức rút tiền",
+                "methods": [
+                  "Thẻ ngân hàng",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Thẻ ngân hàng",
+                "nameLabel": "Tên người nhận",
+                "namePlaceholder": "Nhập tên người nhận",
+                "defaultName": "",
+                "bankCardLabel": "Số tài khoản",
+                "bankCardPlaceholder": "Nhập số thẻ ngân hàng, email PayPal hoặc địa chỉ ví",
+                "remarkLabel": "Ghi chú",
+                "remarkPlaceholder": "Thông tin bổ sung tùy chọn",
+                "note": "Yêu cầu rút tiền được xử lý trong vòng 1-3 ngày làm việc.",
+                "cancelButton": "Hủy",
+                "submitButton": "Gửi yêu cầu"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Đổi mã thành công",
+              "operationFailed": "Đổi mã thất bại",
+              "invalidCard": "Mã đổi không hợp lệ",
+              "cardNotFound": "Không tìm thấy mã đổi",
+              "cardDisabled": "Mã đổi đã bị vô hiệu hóa",
+              "cardExpired": "Mã đổi đã hết hạn"
+            },
+            "successMessage": "Thao tác thành công"
+          }
+        }
+      }
+    ]
+  }
+}

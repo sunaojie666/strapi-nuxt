@@ -1,0 +1,368 @@
+{
+  "runId": "2026-08-10T06-55-46-399Z",
+  "startedAt": "2026-08-10T06-55-46-399Z",
+  "completedAt": "2026-08-10T06:58:25.451Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "concurrency": 4,
+  "writeMode": "仅同步 Strapi 草稿，未修改已发布内容",
+  "selectedTables": [
+    "logins",
+    "footers",
+    "navigations"
+  ],
+  "beforeStatus": {
+    "en": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "de": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fil": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ja": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fr": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "es": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ru": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "not-required",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "de",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "fr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "ru",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "$.navigations: array structure changed"
+    },
+    {
+      "locale": "fil",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "$.navigations: array structure changed"
+    },
+    {
+      "locale": "es",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 96,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "review ja failed after 3 attempts: review ja returned invalid JSON: Unterminated string in JSON at position 26465 (line 21 column 25575)"
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "logins": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "footers": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        },
+        "navigations": {
+          "created": 0,
+          "updated": 1,
+          "status": "draft-synced"
+        }
+      }
+    }
+  ]
+}

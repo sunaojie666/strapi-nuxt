@@ -1,0 +1,62 @@
+{
+  "complete": true,
+  "slot": "2",
+  "results": [
+    {
+      "locale": "id",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\id.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fil",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 25,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\fil.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ja",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 1,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\ja.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fr",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "validate-localization.mjs exited with 2: "
+    },
+    {
+      "locale": "nl",
+      "approved": true,
+      "score": 96,
+      "reviewStatus": "approved",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\nl.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "validate-localization.mjs exited with 2: "
+    }
+  ]
+}

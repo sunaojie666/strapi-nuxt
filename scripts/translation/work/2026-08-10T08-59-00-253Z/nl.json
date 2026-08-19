@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Een nieuwe live room maken",
+      "tag_1": "Mobiel",
+      "tag_2": "Beginnershandleiding"
+    },
+    {
+      "title": "De matting-modi van VicastCam begrijpen",
+      "tag_1": "Mobiel",
+      "tag_2": "Functiehandleiding"
+    },
+    {
+      "title": "De laagfunctie van VicastCam gebruiken",
+      "tag_1": "Mobiel",
+      "tag_2": "Kernfunctie"
+    },
+    {
+      "title": "VicastCam op de desktop leren kennen",
+      "tag_1": "Desktop",
+      "tag_2": "Beginnershandleiding"
+    },
+    {
+      "title": "iPhone draadloos verbinden met VicastCam",
+      "tag_1": "iOS",
+      "tag_2": "Verbindingshandleiding"
+    },
+    {
+      "title": "Lokale media toevoegen en gebruiken",
+      "tag_1": "Desktop",
+      "tag_2": "Gebruikshandleiding"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Wereldwijde community",
+        "title_main": "Live streamen dat overal werkt",
+        "title_highlight": "Vertrouwd door streamers in meer dan 150 landen",
+        "desc": "We bedienen meer dan 150 landen en regio's en helpen talloze streamers groeien van beginner tot professionele live contentmaker.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Landen"
+          },
+          {
+            "number": "2000+",
+            "name": "Actieve streamers"
+          },
+          {
+            "number": "5000+",
+            "name": "Populariteitsboost"
+          },
+          {
+            "number": "99,9%",
+            "name": "Stabiliteit"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "nl",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Vragen?",
+          "title_highlight": "Wij hebben de antwoorden.",
+          "description": "Vind hier antwoorden op veelgestelde vragen over VicastCam. Staat je vraag er niet bij? Neem contact op met ons team.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Naar welke platforms kan ik streamen met VicastCam?",
+              "answer": "VicastCam ondersteunt streaming naar grote platforms zoals YouTube, Twitch, TikTok, Facebook Live en Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Heeft VicastCam een groen scherm nodig voor het verwijderen van de achtergrond?",
+              "answer": "Nee. VicastCam gebruikt AI-gestuurde achtergrondverwijdering, zodat je in realtime je achtergrond kunt vervangen zonder groen scherm."
+            },
+            {
+              "id": "q3",
+              "question": "Kan ik VicastCam op mijn telefoon gebruiken?",
+              "answer": "Ja. VicastCam is beschikbaar op iOS en Android, en alle professionele functies zijn ook op mobiel beschikbaar."
+            },
+            {
+              "id": "q4",
+              "question": "Hoe betrouwbaar is VicastCam?",
+              "answer": "VicastCam biedt 99,9% stabiliteit en ondersteunt streamers wereldwijd met ononderbroken streaming, 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "Ondersteunt VicastCam streaming met meerdere camera's?",
+              "answer": "Ja. Je kunt tijdens een live stream naadloos schakelen tussen meerdere camera's voor een professionele productie."
+            }
+          ],
+          "view_more": {
+            "text": "Meer weergeven"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Android- en iOS-help",
+          "description": "Vind antwoorden op veelgestelde vragen over VicastCam voor Android en iOS, waaronder accountinstellingen, mediarechten, netwerkverbindingen en problemen met de live streamweergave.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCam-help",
+          "titleHighlight": "Vind snel antwoorden",
+          "description": "Kies Android- of iOS-handleidingen om veelvoorkomende problemen en oplossingen voor jouw apparaat te zien."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Vraagcategorieën",
+          "answerLabel": "Antwoord",
+          "questionProgressTemplate": "{group} · Vraag {current} van {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android-handleidingen",
+            "count": "8 vragen",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Welke mediaformaten worden aanbevolen voor live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Aanbevolen mediaformaten voor live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Voor live stream-achtergronden raden we afbeeldingen aan van 1080 x 1920 pixels en video's van 1080 x 1920 pixels.",
+                      "Belangrijk: overlays op volledig scherm moeten een beeldverhouding van 9:16 hebben, zodat ze perfect uitgelijnd blijven bij het schakelen tussen volledig scherm en 9:16-modus."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Hoe verwijder ik mijn account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in op de VicastCam-app en ga naar [Account - pictogram rechtsboven - Accountbeheer - Account verwijderen - Verwijderingsverzoek indienen]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Accountgegevens"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Zodra je account is verwijderd, verwijderen we permanent je gekoppelde e-mailadres, apparaatgegevens en andere identiteitsinformatie. We trekken ook de inlogautorisaties van derden via Google en Apple in. Na intrekking kun je niet meer snel inloggen met die accounts van derden; als je ze opnieuw wilt gebruiken, moet je opnieuw autoriseren."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content en media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Alle live stream-media, video's, afbeeldingen en projectbestanden worden alleen op je apparaat opgeslagen. Het platform bewaart geen creatieve content in de cloud. Na verwijdering werken de mediafuncties van de app niet meer. Zorg daarom dat je je content van tevoren back-upt met de functie 'Media exporteren'.",
+                      "Als je de app verwijdert en opnieuw installeert, of van apparaat wisselt zonder eerst een back-up te exporteren, is je media permanent onherstelbaar."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lidmaatschapsvoordelen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Je lidmaatschapsvoordelen eindigen onmiddellijk na het verwijderen van je account. Als je een actief Google Play-abonnement hebt, wordt dit niet automatisch geannuleerd door het verwijderen van je app-account en kunnen er nog steeds kosten in rekening worden gebracht. Ga naar 'Betalingen en abonnementen - Abonnementen' in Google Play om handmatig te annuleren."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Als je vragen hebt, neem dan contact op met ons ondersteuningsteam."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Waarom kan ik geen toegang krijgen tot de media op mijn telefoon bij het toevoegen van afbeeldingen of video's?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je fotobibliotheek leeg lijkt bij het toevoegen van media, kun je fototoegang als volgt inschakelen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: open de Instellingen van je telefoon, scrol omlaag naar VicastCam, tik op [Foto's - Alle foto's] om toegang in te schakelen.",
+                      "Android: open de Instellingen van je telefoon, zoek VicastCam onder 'Rechten' of 'App-beheer', tik vervolgens op [Rechten - Foto's - Alle foto's] om toegang in te schakelen.",
+                      "Als het probleem aanhoudt, probeer dan de app opnieuw te installeren of neem contact op met onze online ondersteuning via de feedbackfunctie."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Wat moet ik doen als het beeld wordt afgesneden bij het streamen vanaf mijn computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als het beeld onvolledig is bij het streamen vanaf je telefoon via een streaming companion of andere software, volg dan deze stappen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tik op het camerapictogram onderaan om naar de livepagina te gaan, ga vervolgens naar [Rechtermenu - Meer instellingen - Beeldverhouding - 9:16].",
+                      "Schaal na het casten naar de streaming companion eerst naar passend formaat en sleep het beeld daarna omhoog of omlaag om het scherm te vullen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let op: pas de beeldverhouding aan voordat je media toevoegt en voordat je je stream start."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Wat moet ik doen als een netwerkverzoek mislukt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je netwerkverzoeken mislukken, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open de Instellingen van je telefoon, ga naar [Rechten - VicastCam - Mobiele data en wifi] en schakel netwerktoegang in.",
+                      "Schakel de energiebesparingsmodus en eventuele achtergrondbeperkingen uit.",
+                      "Wissel van netwerk, herstart je telefoon, schakel de vliegtuigmodus in of uit, of update de app.",
+                      "Als het probleem aanhoudt, maak dan een screenshot van de fout en neem contact op met ons ondersteuningsteam."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Waarom flikkeren overlays van online media of worden ze zwart tijdens een live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als overlays van online media flikkeren of zwart worden tijdens een live stream, kun je het volgende doen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download en bekijk media of overlays die je wilt gebruiken voordat je live gaat, om te controleren of ze goed werken.",
+                      "Sommige ingebouwde media worden op servers opgeslagen. Download ze vóór je stream, zodat ze klaar zijn zonder dat ze tijdens de uitzending geladen hoeven te worden.",
+                      "Het laden van media tijdens een stream verbruikt streamingbronnen, geheugen en prestaties, wat vertraging kan veroorzaken. Op minder krachtige apparaten kan dit zelfs crashes of zwarte schermen veroorzaken."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Belangrijk"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan en oefen je stream van tevoren. Doorloop elk onderdeel om ervoor te zorgen dat alles soepel verloopt voordat je live gaat."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Wat moet ik doen als sommige toetsen van het toetsenbord worden bedekt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als sommige toetsen van het virtuele toetsenbord worden bedekt, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Als je een oudere 16:9-telefoon gebruikt en sommige toetsen worden bedekt, tik dan op de tweede knop linksboven in het toetsenbord om de volledig schermmodus in te schakelen.",
+                      "Als de toetsenbordindeling niet goed is uitgelijnd, ga dan naar de instellingen van je telefoon en stel het lettertype in op normaal.",
+                      "Sommige telefoons hebben een 'seniorenmodus' ingeschakeld; als je die uitschakelt, zou het toetsenbord weer normaal moeten werken."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Weergaveproblemen worden meestal veroorzaakt door te grote lettertypen of een grote themaschaal. Door deze terug te zetten naar standaard zou het probleem verholpen moeten zijn."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Wat moet ik doen als mijn Huawei-telefoon steeds de verbinding verbreekt met meerdere camera's of het virtuele toetsenbord?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je verbindingsproblemen ervaart met meerdere camera's of het virtuele toetsenbord op Huawei-telefoons, volg dan deze stappen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ga naar de Instellingen van je telefoon.",
+                      "Typ in de zoekbalk bovenaan 'App startbeheer'.",
+                      "Ga naar de pagina App startbeheer en scrol omlaag naar VicastCam.",
+                      "Schakel de schakelaar aan de rechterkant uit (pictogram wordt grijs) en schakel in het pop-upvenster alle drie de opties in (ze worden blauw)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Je kunt ook de videozelfstudie 'Zo voorkom je verbindingsproblemen met meerdere camera's en het virtuele toetsenbord op Huawei-telefoons' raadplegen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS-handleidingen",
+            "count": "6 vragen",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Welke mediaformaten worden aanbevolen voor live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Aanbevolen mediaformaten voor live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Voor live stream-achtergronden raden we afbeeldingen aan van 1080 x 1920 pixels en video's van 1080 x 1920 pixels.",
+                      "Belangrijk: overlays op volledig scherm moeten een beeldverhouding van 9:16 hebben, zodat ze perfect uitgelijnd blijven bij het schakelen tussen volledig scherm en 9:16-modus."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Hoe verwijder ik mijn account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in op de VicastCam-app en ga naar [Account - pictogram rechtsboven - Accountbeheer - Account verwijderen - Verwijderingsverzoek indienen]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Accountgegevens"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Zodra je account is verwijderd, verwijderen we permanent je gekoppelde e-mailadres, apparaatgegevens en andere identiteitsinformatie. We trekken ook de inlogautorisaties van derden via Google en Apple in. Na intrekking kun je niet meer snel inloggen met die accounts van derden; als je ze opnieuw wilt gebruiken, moet je opnieuw autoriseren."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content en media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Alle live stream-media, video's, afbeeldingen en projectbestanden worden alleen op je apparaat opgeslagen. Het platform bewaart geen creatieve content in de cloud. Na verwijdering werken de mediafuncties van de app niet meer. Zorg daarom dat je je content van tevoren back-upt met de functie 'Media exporteren'.",
+                      "Als je de app verwijdert en opnieuw installeert, of van apparaat wisselt zonder eerst een back-up te exporteren, is je media permanent onherstelbaar."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lidmaatschapsvoordelen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Je lidmaatschapsvoordelen eindigen onmiddellijk na het verwijderen van je account. Omdat abonnementen door Apple worden beheerd, kan het platform geen restituties rechtstreeks verwerken. Om een restitutie aan te vragen, dien je een verzoek in via de officiële kanalen van Apple (aankoopgeschiedenis in de App Store). Voordat je je account verwijdert, moet je handmatig eventuele automatisch verlengende abonnementen annuleren om toekomstige kosten te voorkomen."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Als je vragen hebt, neem dan contact op met ons ondersteuningsteam."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Waarom kan ik geen toegang krijgen tot de media op mijn telefoon bij het toevoegen van afbeeldingen of video's?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je fotobibliotheek leeg lijkt bij het toevoegen van media, open dan de Instellingen van je iPhone, scrol omlaag naar VicastCam en tik op [Foto's - Alle foto's] om toegang in te schakelen."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Wat moet ik doen als het beeld wordt afgesneden bij het streamen vanaf mijn computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als het beeld onvolledig is bij het streamen vanaf je telefoon via een streaming companion of andere software, volg dan deze stappen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tik op het camerapictogram onderaan om naar de livepagina te gaan, ga vervolgens naar [Rechtermenu - Meer instellingen - Beeldverhouding - 9:16].",
+                      "Schaal na het casten naar de streaming companion eerst naar passend formaat en sleep het beeld daarna omhoog of omlaag om het scherm te vullen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let op: pas de beeldverhouding aan voordat je media toevoegt en voordat je je stream start."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Wat moet ik doen als een netwerkverzoek mislukt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je netwerkverzoeken mislukt, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open de Instellingen van je telefoon, ga naar [Rechten - VicastCam - Mobiele data en wifi] en schakel netwerktoegang in.",
+                      "Schakel de energiebesparingsmodus en eventuele achtergrondbeperkingen uit.",
+                      "Wissel van netwerk, herstart je telefoon, schakel de vliegtuigmodus in of uit, of update de app.",
+                      "Als het probleem aanhoudt, maak dan een screenshot van de fout en neem contact op met ons ondersteuningsteam."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Waarom flikkeren overlays van online media of worden ze zwart tijdens een live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als overlays van online media flikkeren of zwart worden tijdens een live stream, kun je het volgende doen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download en bekijk media of overlays die je wilt gebruiken voordat je live gaat, om te controleren of ze goed werken.",
+                      "Sommige ingebouwde media worden op servers opgeslagen. Download ze vóór je stream, zodat ze klaar zijn zonder dat ze tijdens de uitzending geladen hoeven te worden.",
+                      "Het laden van media tijdens een stream verbruikt streamingbronnen, geheugen en prestaties, wat vertraging kan veroorzaken. Op minder krachtige apparaten kan dit zelfs crashes of zwarte schermen veroorzaken."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Belangrijk"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan en oefen je stream van tevoren. Doorloop elk onderdeel om ervoor te zorgen dat alles soepel verloopt voordat je live gaat. Neem elke stream serieus en je haalt de beste resultaten."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Tutorialcentrum",
+        "titleMain": "Start je VicastCam",
+        "titleHighlight": "leertraject",
+        "description": "Leer de software beheersen en kom snel op snelheid",
+        "buttonText": "Meer weergeven"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Tutorialcentrum",
+          "titleMain": "Start je VicastCam",
+          "titleHighlight": "leertraject",
+          "descriptionMain": "Leer de software beheersen",
+          "descriptionHighlight": "Kom snel op snelheid"
+        },
+        "player": {
+          "sectionAriaLabel": "Tutoriallijst",
+          "catalogAriaLabel": "Tutorialcatalogus",
+          "previousLabel": "Vorige",
+          "nextLabel": "Volgende",
+          "firstLessonText": "Dit is de eerste les",
+          "lastLessonText": "Dit is de laatste les",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Beginnershandleidingen",
+            "count": "9 lessen",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Maak je eerste virtuele live room",
+                "description": "Maak en configureer je eerste virtuele live room vanaf nul.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "De beeld-functie begrijpen",
+                "description": "Leer de basis van de beeld-functie en de gebruiksmogelijkheden.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Lagen gebruiken",
+                "description": "Beheers de basis van het lagenpaneel.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Achtergrondlagen gebruiken",
+                "description": "Leer achtergrondlagen toevoegen en aanpassen.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Portretlagen gebruiken",
+                "description": "Leer portretlagen gebruiken om visuele effecten te creëren.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Beeldlagen gebruiken",
+                "description": "Leer beeldlagen toevoegen en bewerken.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Videolagen gebruiken",
+                "description": "Leer videomedia toevoegen en de weergave configureren.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Effectlagen gebruiken",
+                "description": "Voeg effectlagen toe aan je live stream.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Bijschriftlagen gebruiken",
+                "description": "Maak bijschriften en pas de stijl van bijschriftlagen aan.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Geavanceerde handleidingen",
+            "count": "6 lessen",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Camerabewegingslagen gebruiken",
+                "description": "Gebruik camerabewegingslagen voor dynamischere shots.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "De pad-functie gebruiken",
+                "description": "Bestuur het bewegingspad van elementen met de pad-functie.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Meercameralagen gebruiken",
+                "description": "Configureer meercameralagen om snel te schakelen tussen verschillende weergaven.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "De controller-functie gebruiken",
+                "description": "Gebruik de controller om je live streamweergave te beheren.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "De audio-functie gebruiken",
+                "description": "Configureer audio-ingang, -uitgang en mixeffecten.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "De back-upfunctie gebruiken",
+                "description": "Back-up en herstel live roomconfiguraties en media.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

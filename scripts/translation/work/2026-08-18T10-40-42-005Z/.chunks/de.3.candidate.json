@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Computer-Einrichtung",
+      "count": "7 Lektionen",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Erste Schritte mit VicastCam",
+          "description": "Ein Überblick über die Benutzeroberfläche und die wichtigsten Funktionen.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Kabelverbindung – iPhone",
+          "description": "Verbinden Sie Ihr iPhone per Kabel mit VicastCam.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Drahtlose Verbindung – iPhone",
+          "description": "Verbinden Sie Ihr iPhone über WLAN mit VicastCam.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Kabelverbindung – Android",
+          "description": "Verbinden Sie Ihr Android-Gerät per Kabel mit VicastCam.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Drahtlose Verbindung – Android",
+          "description": "Verbinden Sie Ihr Android-Gerät über WLAN mit VicastCam.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Lokale Medien hinzufügen und verwenden",
+          "description": "Importieren und verwenden Sie lokale Mediendateien in Ihren Projekten.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Was nach der Verbindung zu tun ist",
+          "description": "Starten Sie Ihren Stream, sobald Ihre Geräte verbunden sind.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

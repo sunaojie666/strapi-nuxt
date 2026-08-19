@@ -1,0 +1,164 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.cards[1].title",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use 'AI matting' for 'AI 抠像' as per glossary. Change 'Kırpma Modları' to 'AI Matting Modları'."
+    },
+    {
+      "path": "$.cards[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Katman Özelliği' is acceptable, but consider 'Katmanlar Özelliği' for natural plural. However, 'Katman Özelliği' is fine; no change required."
+    },
+    {
+      "path": "$.communitys[0].content.data_list[2].name",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "'Popularity Boost' is a metric name; 'Popülerlik Artışı' is a literal translation. Use 'Popülerlik Artışı' is acceptable, but ensure it conveys the metric. No change required."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[1].answer",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use 'AI matting' for 'AI 抠像' as per glossary. Change 'AI destekli arka plan kaldırma' to 'AI matting' or 'AI destekli matting'."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[1].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The sentence 'böylece yeşil perde olmadan arka planınızı gerçek zamanlı olarak değiştirebilirsiniz' is correct. No change required."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[4].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'profesyonel bir prodüksiyon elde edebilirsiniz' is correct. No change required."
+    },
+    {
+      "path": "$.tutorials[0].data.titleMain",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'VicastCam Öğrenme Yolculuğunuza Başlayın' is a literal translation. Consider 'VicastCam Öğrenme Yolculuğunuza Başlayın' is acceptable, but 'VicastCam Öğrenme Yolculuğunuz' might be more natural. No change required."
+    }
+  ],
+  "revisedContent": {
+    "cards": [
+      {
+        "title": "Yeni Canlı Yayın Odası Oluşturma",
+        "tag_1": "Mobil",
+        "tag_2": "Başlangıç Eğitimi"
+      },
+      {
+        "title": "VicastCam'in AI Matting Modlarını Anlama",
+        "tag_1": "Mobil",
+        "tag_2": "Özellik Eğitimi"
+      },
+      {
+        "title": "VicastCam'in Katman Özelliğini Kullanma",
+        "tag_1": "Mobil",
+        "tag_2": "Temel Özellik"
+      },
+      {
+        "title": "VicastCam'i Masaüstünde Tanıyın",
+        "tag_1": "Masaüstü",
+        "tag_2": "Başlangıç Eğitimi"
+      },
+      {
+        "title": "iPhone'u VicastCam'e Kablosuz Bağlama",
+        "tag_1": "iOS",
+        "tag_2": "Bağlantı Eğitimi"
+      },
+      {
+        "title": "Yerel Medya Ekleme ve Kullanma",
+        "tag_1": "Masaüstü",
+        "tag_2": "Kullanım Eğitimi"
+      }
+    ],
+    "communitys": [
+      {
+        "content": {
+          "tag": "Global Topluluk",
+          "title_main": "Her Yerde Çalışan Canlı Yayın",
+          "title_highlight": "150+ Ülkede Yayıncıların Güvenini Kazandı",
+          "desc": "150'den fazla ülke ve bölgeye hizmet veriyoruz; sayısız yayıncının başlangıç seviyesinden profesyonel içerik üreticiliğine büyümesine yardımcı oluyoruz.",
+          "data_list": [
+            {
+              "number": "150+",
+              "name": "Ülke"
+            },
+            {
+              "number": "2000+",
+              "name": "Aktif Yayıncı"
+            },
+            {
+              "number": "5000+",
+              "name": "Popülerlik Artışı"
+            },
+            {
+              "number": "99.9%",
+              "name": "Kararlılık"
+            }
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "faq_data": {
+          "locale": "tr",
+          "faq_section": {
+            "tag": "SSS",
+            "title_main": "Soru mu var?",
+            "title_highlight": "Cevaplar burada.",
+            "description": "VicastCam hakkında sık sorulan soruların cevaplarını aşağıda bulabilirsiniz. Aradığınızı bulamadınız mı? Ekibimizle iletişime geçin.",
+            "questions": [
+              {
+                "id": "q1",
+                "question": "VicastCam ile hangi platformlara yayın yapabilirim?",
+                "answer": "VicastCam; YouTube, Twitch, TikTok, Facebook Live ve Instagram gibi büyük platformlara yayın yapmayı destekler."
+              },
+              {
+                "id": "q2",
+                "question": "VicastCam'in arka plan kaldırma özelliği yeşil perde gerektirir mi?",
+                "answer": "Hayır. VicastCam, AI matting kullanır; böylece yeşil perde olmadan arka planınızı gerçek zamanlı olarak değiştirebilirsiniz."
+              },
+              {
+                "id": "q3",
+                "question": "VicastCam'i telefonumda kullanabilir miyim?",
+                "answer": "Evet. VicastCam iOS ve Android'de mevcuttur ve tüm profesyonel özellikler mobilde kullanılabilir."
+              },
+              {
+                "id": "q4",
+                "question": "VicastCam ne kadar güvenilir?",
+                "answer": "VicastCam %99.9 kararlılık sunar ve dünya genelindeki yayıncılara 7/24 kesintisiz yayın desteği sağlar."
+              },
+              {
+                "id": "q5",
+                "question": "VicastCam çoklu kamera yayınını destekliyor mu?",
+                "answer": "Evet. Canlı yayın sırasında birden fazla kamera arasında sorunsuz geçiş yaparak profesyonel bir prodüksiyon elde edebilirsiniz."
+              }
+            ],
+            "view_more": {
+              "text": "Daha Fazla Gör"
+            }
+          }
+        }
+      }
+    ],
+    "tutorials": [
+      {
+        "data": {
+          "sectionTag": "Eğitim Merkezi",
+          "titleMain": "VicastCam Öğrenme",
+          "titleHighlight": "Yolculuğunuza Başlayın",
+          "description": "Yazılımı hızla öğrenin ve ustalaşın",
+          "buttonText": "Daha Fazla Gör"
+        }
+      }
+    ]
+  }
+}

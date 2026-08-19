@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Umowa użytkownika",
+        "updatedAt": "22 lipca 2026",
+        "description": "Niniejsza umowa licencyjna użytkownika („Umowa”) zawarta jest pomiędzy Licencjodawcą a użytkownikiem niniejszego oprogramowania („Ty” lub „użytkownik”) i reguluje wszelkie czynności związane z pobieraniem, instalacją, rejestracją, logowaniem oraz korzystaniem z tego oprogramowania.",
+        "sections": [
+          {
+            "title": "",
+            "paragraphs": [
+              "Licencjodawca: Vicast International Limited",
+              "Oficjalne kanały: oficjalna strona VicastCam oraz autoryzowane sklepy z aplikacjami (Apple App Store / Google Play Store)",
+              "Adres e-mail kontaktowy: service@vicastcam.com",
+              "Ostatnia aktualizacja: 22 lipca 2026 r.",
+              "Witamy w VicastCam („to Oprogramowanie”)!",
+              "Produkty VicastCam są udostępniane wyłącznie użytkownikom spoza Chin kontynentalnych. Nie promujemy aktywnie produktu wśród użytkowników w Chinach kontynentalnych. Jeśli znajdujesz się w Chinach kontynentalnych, pamiętaj, że ten produkt nie posiada odpowiednich kwalifikacji operacyjnych w Chinach kontynentalnych.",
+              "Niniejsza Umowa Licencyjna Użytkownika („Umowa”) jest zawarta pomiędzy Licencjodawcą a użytkownikiem tego oprogramowania („Ty” lub „użytkownik”) i reguluje wszystkie Twoje działania związane z pobieraniem, instalowaniem, rejestracją, logowaniem i korzystaniem z tego oprogramowania.",
+              "Klikając przycisk „Akceptuję” w tym Oprogramowaniu, dobrowolnie akceptujesz wszystkie postanowienia niniejszej Umowy. Jeśli ich nie akceptujesz, Licencjodawca nie udziela Ci prawa do korzystania z Oprogramowania. Natychmiast zaprzestań korzystania z Oprogramowania i odinstaluj je. Dalsze korzystanie z Oprogramowania oznacza zgodę na niniejszą Umowę i jej późniejsze zmiany.",
+              "Potwierdzasz, że masz co najmniej 18 lat lub osiągnąłeś pełnoletność w swojej jurysdykcji („osoba dorosła”). Osoby niepełnoletnie mogą korzystać z tego Oprogramowania wyłącznie za wyraźną zgodą i pod nadzorem swojego opiekuna prawnego, który ponosi odpowiedzialność opiekuńczą zgodnie z prawem."
+            ],
+            "key": "agreement-overview"
+          },
+          {
+            "title": "1 Zakres zastosowania",
+            "paragraphs": [
+              "1.1 Przed skorzystaniem z Oprogramowania należy dokładnie zapoznać się z niniejszą Umową, w szczególności z kluczowymi klauzulami wyróżnionymi pogrubieniem, w tym z wyłączeniami odpowiedzialności, prawem właściwym i rozstrzyganiem sporów. Jeśli nie zgadzasz się z jakimkolwiek postanowieniem, natychmiast zaprzestań korzystania z Oprogramowania.",
+              "1.2 To Oprogramowanie jest przeznaczone głównie dla osób dorosłych. Osoby niepełnoletnie muszą uzyskać zgodę swojego opiekuna prawnego przed skorzystaniem z Oprogramowania i korzystać z niego pod nadzorem opiekuna. Opiekun musi wypełniać obowiązki opiekuńcze zgodnie z prawem.",
+              "1.3 Niniejsza Umowa obejmuje zasady platformy, takie jak ogłoszenia, zasady dotyczące działań promocyjnych i powiadomienia w aplikacji publikowane przez to Oprogramowanie. Wszystkie zasady platformy stanowią integralną część niniejszej Umowy i mają taką samą moc prawną jak niniejsza Umowa.",
+              "1.4 Rejestrując się, logując lub korzystając z Oprogramowania, uznaje się, że w pełni zapoznałeś się z niniejszą Umową, zrozumiałeś ją i zgodziłeś się być nią związany.",
+              "1.5 Wszelkie prawa własności intelektualnej do Oprogramowania oraz wszelkie prawa, które nie zostały wyraźnie przyznane użytkownikom, są zastrzeżone przez Licencjodawcę."
+            ],
+            "key": "agreement-section-1"
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 To oprogramowanie i powiązane usługi",
+            "paragraphs": [
+              "2.1 To oprogramowanie jest narzędziem pomocniczym do scenariuszy transmisji na żywo, oferującym funkcje takie jak transmisja na żywo, konfiguracja wirtualnej sceny, AI matting, efekty twarzy i filtry upiększające. Szczegółowe usługi i funkcje zależą od faktycznego wyglądu produktu.",
+              "2.2 Klienta można uzyskać wyłącznie z oficjalnych źródeł (Apple App Store lub Google Play Store). Wszelkie ryzyko i straty wynikające z korzystania z nieoficjalnych wersji ponosisz sam.",
+              "2.3 Aby korzystać z tego oprogramowania, musisz przygotować własne urządzenie końcowe i połączenie sieciowe oraz ponosić związane z tym opłaty za internet i transmisję danych. Pełna funkcjonalność wymaga połączenia z internetem.",
+              "2.4 Licencjodawca udziela Ci osobistej, niekomercyjnej, niezbywalnej, odwołalnej i niewyłącznej licencji na korzystanie z oprogramowania. Bez uprzedniej pisemnej zgody Licencjodawcy zabronione jest modyfikowanie, kopiowanie, rozpowszechnianie, tworzenie luster, przeszukiwanie, sprzedawanie lub wykorzystywanie oprogramowania do celów komercyjnych.",
+              "2.5 Licencjodawca ma prawo do ulepszania, dostosowywania, zawieszania lub zakończenia części lub całości usług w oparciu o optymalizację produktu, utrzymanie bezpieczeństwa, wymogi zgodności i inne potrzeby. Możesz zdecydować, czy zaktualizować klienta; odmowa aktualizacji może skutkować ograniczeniem funkcjonalności. Masz prawo w dowolnym momencie odinstalować aplikację, aby zakończyć korzystanie z usługi.",
+              "2.6 Zakupy i subskrypcje",
+              "2.6.1 Wszystkie płatne funkcje, zakupy i subskrypcje w tym oprogramowaniu są realizowane za pośrednictwem systemu płatności Apple App Store lub Google Play, a takie transakcje podlegają również warunkom świadczenia usług odpowiedniej platformy.",
+              "2.6.2 Zasady subskrypcji",
+              "(1) Automatyczne odnawianie: Usługi subskrypcyjne będą automatycznie obciążane co najmniej 24 godziny przed końcem bieżącego okresu świadczenia usług, a system platformy wyśle przypomnienia o odnowieniu. Możesz w dowolnym momencie przeglądać, zarządzać i anulować automatyczne odnawianie, przechodząc do strony \"Ustawienia > Konto > Subskrypcje\" na swoim urządzeniu (ścieżka może się różnić w zależności od platformy).",
+              "(2) Zmiany cen: Jeśli dostosujemy ceny subskrypcji, poinformujemy Cię co najmniej 30 dni przed wejściem w życie nowej ceny za pomocą ogłoszeń w aplikacji, oficjalnej strony internetowej lub innych rozsądnych środków. Zmiany cen nie wpłyną na bieżący okres subskrypcji już obowiązujący. Jeśli lokalne prawo wymaga dodatkowej zgody użytkownika, będziemy przestrzegać prawa.",
+              "(3) Bezpłatny okres próbny: Jeśli oferowany jest bezpłatny okres próbny, wyłącz automatyczne odnawianie co najmniej 24 godziny przed końcem okresu próbnego, aby uniknąć obciążenia.",
+              "2.6.3 Regionalne zwroty i ustawowe prawo do odstąpienia od umowy",
+              "(1) Użytkownicy w Unii Europejskiej, Europejskim Obszarze Gospodarczym i Wielkiej Brytanii: Zgodnie z lokalnymi przepisami o ochronie konsumentów przysługuje Ci 14-dniowe ustawowe prawo do odstąpienia od umowy bez podania przyczyny. Szczegóły znajdują się w Polityce zwrotów VicastCam. Żądania odstąpienia i zwrotu należy składać za pośrednictwem oficjalnego kanału (App Store lub Google Play) użytego do zakupu, a zwroty podlegają zasadom platformy i lokalnemu prawu. Jeśli korzystałeś z usługi w okresie 14-dniowego odstąpienia, zwrot zostanie obliczony proporcjonalnie na podstawie faktycznego wykorzystania. Po skutecznym odstąpieniu Twoje płatne prawa do korzystania wygasną natychmiast.",
+              "(2) Płatność jednorazowa i usługi dożywotnie: Jeśli wyraźnie potwierdzisz natychmiastowe aktywowanie usługi i zrzekniesz się 14-dniowego prawa do odstąpienia, prawo do odstąpienia bez podania przyczyny nie będzie już miało zastosowania.",
+              "(3) Wszystkie inne regiony: Zwroty i kwestie posprzedażowe podlegają przede wszystkim oficjalnym zasadom platformy użytej do zakupu.",
+              "2.6.4 Zasady korzystania z płatnych korzyści",
+              "(1) Płatne usługi i korzyści są przeznaczone wyłącznie do użytku osobistego.",
+              "(2) Zabronione jest udostępnianie płatnych korzyści osobom trzecim poprzez podarowanie, pożyczanie, wynajem, odsprzedaż lub masowe udostępnianie.",
+              "2.7 Opłaty, członkostwo i zasady użytkowania komercyjnego",
+              "2.7.1 Licencjodawca ma prawo pobierać opłaty za oprogramowanie i powiązane usługi sieciowe zgodnie z prawem. Ponosisz odpowiedzialność za wszystkie koszty sprzętu, oprogramowania i sieci wymagane do korzystania z usług i musisz terminowo uiszczać odpowiednie opłaty za usługi.",
+              "2.7.2 Zobowiązujesz się do wypełniania obowiązków podatkowych zgodnie z prawem i ponosisz wszelkie podatki wynikające z korzystania z usług. Zabronione jest oszukańcze korzystanie z płatnych usług.",
+              "2.7.3 Możemy dostosować system członkostwa lub zakończyć usługi członkostwa w oparciu o uzasadnione potrzeby operacyjne. Jeśli konto zostanie zablokowane lub zakończone z powodu naruszeń, opłaty nie zostaną zwrócone.",
+              "2.7.4 Jeśli potrzebujesz korzystać z tego oprogramowania do celów komercyjnych, musisz wcześniej złożyć wniosek do Licencjodawcy i uzyskać oficjalną licencję na użytkowanie komercyjne.",
+              "2.7.5 Zabronione jest wykorzystywanie tego oprogramowania do rozpowszechniania treści pornograficznych lub nielegalnych w celu osiągnięcia zysku."
+            ]
+          },
+          {
+            "title": "3 Zarządzanie kontem",
+            "paragraphs": [
+              "3.1 Możesz zarejestrować konto samodzielnie lub zalogować się za pomocą legalnego konta platformy zewnętrznej. Konta zewnętrzne muszą być zweryfikowane danymi osobowymi i zgodne z regulaminem platformy. Jesteś odpowiedzialny za bezpieczeństwo swojego konta i hasła oraz za wszystkie działania wykonywane na koncie.",
+              "3.2 Zgodnie z wymogami nadzoru sieciowego i rejestracji z prawdziwymi danymi na całym świecie, podczas rejestracji musisz podać prawdziwe, dokładne i aktualne dane identyfikacyjne oraz kontaktowe (takie jak e-mail). Jeśli dane są fałszywe lub budzą wątpliwości, Licencjodawca ma prawo zażądać ich poprawienia, ograniczyć lub zakończyć świadczenie usług. Niektóre dane rejestracyjne nie mogą być modyfikowane ze względów bezpieczeństwa i weryfikacji.",
+              "3.3 Z niektórych podstawowych funkcji można korzystać bez logowania. Pełna funkcjonalność i usługi płatne wymagają rejestracji, logowania i weryfikacji tożsamości.",
+              "3.4 Dane konta, takie jak pseudonim, awatar i biogram, nie mogą podszywać się pod nazwiska, znaki towarowe, wizerunki ani inne prawa innych osób oraz nie mogą zawierać treści nielegalnych, wulgarnych ani wprowadzających w błąd. Licencjodawca ma prawo weryfikować dane konta i podejmować działania, takie jak resetowanie, ograniczenie funkcji lub zablokowanie konta w przypadku naruszeń.",
+              "3.5 Konta służą wyłącznie do użytku osobistego i mogą być logowane na urządzeniach, które legalnie kontrolujesz. Podarowanie, pożyczanie, wynajmowanie, przekazywanie lub sprzedawanie kont jest zabronione. Jeśli użytkownik nie jest zgodny z osobą rejestrującą, Licencjodawca ma prawo zawiesić lub zakończyć świadczenie usług.",
+              "3.6 Jesteś odpowiedzialny za bezpieczeństwo i poufność swojego konta oraz ponosisz pełną odpowiedzialność prawną za wszystkie operacje, treści i działania wykonywane na koncie.",
+              "3.7 Jeśli Twoje konto zostanie skradzione lub zapomnisz hasła, możesz je odzyskać za pośrednictwem oficjalnego kanału odwoławczego.",
+              "3.7.1 Jeśli Twoje konto zostanie skradzione, dane wyciekną lub poniesiesz straty majątkowe z powodu niewłaściwego przechowywania, utraty urządzenia lub dobrowolnego ujawnienia danych logowania, ponosisz pełną odpowiedzialność.",
+              "3.7.2 Usługi odzyskiwania konta weryfikują wyłącznie informacje przechowywane w systemie i nie mogą ustalić prawdziwej tożsamości użytkownika. Ponosisz związane z tym ryzyko. Jeśli zauważysz nietypową aktywność na koncie, natychmiast skontaktuj się z oficjalną obsługą klienta.",
+              "3.8 Anulowanie konta i przetwarzanie danych",
+              "3.8.1 Możesz złożyć wniosek o anulowanie konta w sekcji „Ja > Ustawienia > Zarządzanie kontem > Anuluj konto” lub za pośrednictwem oficjalnego adresu e-mail. Przed anulowaniem wymagana jest weryfikacja własności.",
+              "3.8.2 Po anulowaniu konta przewidziany jest 30-dniowy okres buforowy na dane (wyłącznie w celu rozliczeń finansowych, rozstrzygania sporów i weryfikacji posprzedażowej). Po tym okresie dane zostaną trwale fizycznie usunięte, z wyjątkiem transakcji, które muszą być przechowywane zgodnie z prawem.",
+              "3.8.3 Po anulowaniu konta konto i dane nie mogą zostać przywrócone. Zobowiązania i odpowiedzialność powstałe w trakcie korzystania z konta nie wygasają wraz z jego anulowaniem."
+            ],
+            "key": "agreement-section-3"
+          },
+          {
+            "title": "4 Zachowanie użytkownika",
+            "paragraphs": [
+              "4.1 Zobowiązujesz się do przestrzegania globalnych przepisów dotyczących bezpieczeństwa sieciowego, własności intelektualnej, praw do wizerunku i prywatności podczas korzystania z tego Oprogramowania oraz do poszanowania praw innych osób. O ile nie jest to dozwolone przez prawo lub autoryzowane na piśmie przez Licencjodawcę, zabronione są następujące działania:",
+              "4.1.1 Przesyłanie lub rozpowszechnianie nieautoryzowanych danych osobowych, tajemnic handlowych lub treści naruszających prawa.",
+              "4.1.2 Używanie cheatów, wtyczek lub narzędzi zewnętrznych w celu ingerencji lub zakłócania normalnego działania tego Oprogramowania.",
+              "4.1.3 Prowadzenie nielegalnych ataków sieciowych, kradzieży danych, rozpowszechniania wirusów, skanowania podatności, fałszowania pakietów sieciowych lub innych cyberataków.",
+              "4.1.4 Masowa złośliwa rejestracja kont.",
+              "4.1.5 Inżynieria wsteczna, dekompilacja, dezasemblacja lub próby złamania kodu źródłowego tego Oprogramowania.",
+              "4.1.6 Tworzenie lub rozpowszechnianie treści pornograficznych, brutalnych, zniesławiających lub nielegalnych.",
+              "4.1.7 Promowanie tytoniu, alkoholu, hazardu, broni lub przedmiotów zabronionych.",
+              "4.1.8 Potajemne fotografowanie, nagrywanie lub rozpowszechnianie wizerunku, głosu lub prywatnych informacji innych osób bez autoryzacji, naruszając ich prawa do wizerunku lub prywatności.",
+              "4.1.9 Inne działania naruszające lokalne przepisy, niniejszą Umowę lub regulamin platformy.",
+              "4.1.10 W przypadku naruszenia niniejszej Umowy Licencjodawca ma prawo usunąć naruszające treści bez powiadomienia oraz nałożyć kary, takie jak ostrzeżenia, ograniczenia funkcji, blokady urządzeń lub stałe blokady kont, w zależności od wagi naruszenia. Użytkownicy naruszający zasady mogą składać odwołania za pośrednictwem oficjalnego adresu e-mail, a Licencjodawca ma ostateczną władzę weryfikacyjną.",
+              "4.2 Podczas tworzenia treści za pomocą tego Oprogramowania zabronione jest używanie wbudowanych materiałów, efektów lub logo do tworzenia znaków towarowych, logo lub identyfikatorów handlowych stron trzecich (z wyjątkiem treści chronionych prawem autorskim, do których masz prawa).",
+              "4.3 Nie wolno używać tego Oprogramowania do publikowania lub rozpowszechniania treści brutalnych, pornograficznych, zniesławiających, doxxingowych, naruszających prywatność, spamowych lub innych treści naruszających prawo lub porządek publiczny i dobre obyczaje.",
+              "4.4 Licencjodawca ma prawo nadzorować i weryfikować zachowanie użytkowników oraz może wymagać poprawy, usuwać treści, zawieszać lub kończyć świadczenie usług w przypadku wykrycia naruszeń.",
+              "4.5 Specjalne ograniczenia funkcji",
+              "4.5.1 Aparat i transmisja na żywo: Przed użyciem aparatu, transmisji na żywo lub nagrywania ekranu musisz uzyskać wyraźną zgodę wszystkich osób filmowanych lub nagrywanych. Surowo zabronione jest używanie tego Oprogramowania do potajemnego fotografowania, potajemnego nagrywania, nielegalnej transmisji na żywo lub innych nielegalnych działań. Ponosisz całą związaną z tym odpowiedzialność.",
+              "4.5.2 Funkcje AI: Prawa własności intelektualnej do algorytmów AI, modeli, efektów i materiałów wizualnych w tym Oprogramowaniu należą do Licencjodawcy lub współpracujących stron trzecich. Możesz ich używać wyłącznie do osobistej, niekomercyjnej, legalnej twórczości. Zabronione jest tworzenie deepfake'ów, fałszywych nagrań audio/wideo, oszustw lub nielegalnych treści.",
+              "4.5.3 Zgodność regionalna: Musisz ściśle przestrzegać wymogów regulacyjnych swojego kraju/regionu dotyczących transmisji na żywo, gromadzenia danych biometrycznych i treści AI.",
+              "4.6 Jeśli Twoje naruszenie spowoduje straty dla Licencjodawcy, opłaty nie zostaną zwrócone, a Ty musisz w pełni zrekompensować Licencjodawcy wszelkie straty ekonomiczne i reputacyjne."
+            ],
+            "key": "agreement-section-4"
+          },
+          {
+            "title": "5 Ochrona danych osobowych",
+            "paragraphs": [
+              "5.1 Twoje dane osobowe przetwarzamy ściśle zgodnie z RODO (UE), brytyjską ustawą o ochronie danych, hongkońskim rozporządzeniem o ochronie danych osobowych oraz przepisami o ochronie danych obowiązującymi na całym świecie. Zgodnie z art. 27 RODO wyznaczyliśmy lokalnych przedstawicieli ds. zgodności w UE i Wielkiej Brytanii. Szczegółowe dane kontaktowe znajdziesz w dokumencie „RODO i ochrona danych”.",
+              "5.2 Wyrażasz zgodę na to, aby Licencjodawca gromadził, wykorzystywał i przechowywał dane osobowe zgodnie z niniejszą Umową oraz Polityką prywatności. Polityka prywatności ma taką samą moc prawną jak niniejsza Umowa.",
+              "5.3 Stosujemy technologie zabezpieczające, takie jak szyfrowanie i anonimizacja, aby chronić Twoje dane osobowe przed wyciekiem, modyfikacją i nieautoryzowanym dostępem.",
+              "5.4 Bez Twojej wyraźnej zgody nie będziemy udostępniać Twoich danych osobowych podmiotom trzecim, z wyjątkiem następujących przypadków:",
+              "(1) sam ujawnisz je podmiotom trzecim;",
+              "(2) będzie to wymagane ze względów bezpieczeństwa narodowego, bezpieczeństwa publicznego, zdrowia publicznego oraz na mocy obowiązujących przepisów sądowych lub administracyjnych;",
+              "(3) będzie to konieczne do ochrony ważnych praw i interesów niniejszego Oprogramowania, innych użytkowników lub podmiotów trzecich, zgodnie z przepisami prawa;",
+              "(4) informacje pochodzą z legalnych źródeł publicznych;",
+              "(5) inne przypadki przewidziane przepisami prawa.",
+              "5.5 Masz prawo do żądania dostępu do swoich danych osobowych, ich sprostowania, usunięcia oraz cofnięcia zgody na ich przetwarzanie. Szczegółowe zasady dotyczące danych osobowych znajdziesz w Polityce prywatności."
+            ],
+            "key": "agreement-section-5"
+          },
+          {
+            "title": "6 Skargi i zgłoszenia",
+            "paragraphs": [
+              "6.1 Możesz zgłaszać treści naruszające przepisy lub składać skargi dotyczące naruszeń za pośrednictwem klienta lub oficjalnego adresu e-mail.",
+              "6.2 Jeśli Twoje prawa zostały naruszone, możesz złożyć skargę wraz z dowodami potwierdzającymi Twoje prawa. Strona, której dotyczy skarga, może przedstawić dowody własności w celu odwołania się.",
+              "6.3 Zazwyczaj rozpatrujemy zgłoszenia i udzielamy odpowiedzi w ciągu 15 dni roboczych. W skomplikowanych przypadkach poinformujemy Cię o postępie prac."
+            ],
+            "key": "agreement-section-6"
+          },
+          {
+            "title": "7 Postępowanie w przypadku naruszeń",
+            "paragraphs": [
+              "7.1 Jeśli naruszysz niniejszą Umowę, regulamin platformy lub lokalne przepisy prawa, Licencjodawca może podjąć środki, takie jak ostrzeżenia, ograniczenie funkcji, usunięcie treści, zawieszenie świadczenia usług lub trwałe zablokowanie konta. Wszelkie straty wynikające z tych środków ponosisz Ty, a usunięte treści i dane nie zostaną przywrócone.",
+              "7.2 W przypadku wykrycia podejrzenia nielegalnej lub przestępczej działalności Licencjodawca zachowa dowody, powiadomi organy ścigania i będzie współpracować w ramach postępowań.",
+              "7.3 Jeśli Twoje naruszenie spowoduje, że Licencjodawca zostanie pociągnięty do odpowiedzialności przez podmioty trzecie, poniesie kary administracyjne lub poniesie straty wizerunkowe lub ekonomiczne, ponosisz wszelkie straty Licencjodawcy."
+            ],
+            "key": "agreement-section-7"
+          },
+          {
+            "title": "8 Własność intelektualna",
+            "paragraphs": [
+              "8.1 Prawa własności intelektualnej do kodu, interfejsu, tekstów, obrazów, materiałów audio/wideo, efektów, znaków towarowych i logo niniejszego Oprogramowania należą do Licencjodawcy.",
+              "8.2 Licencjodawca jest właścicielem wszelkich praw do danych i informacji generowanych w trakcie działania produktu.",
+              "8.3 Bez wyraźnej pisemnej zgody Licencjodawcy zabronione jest używanie, kopiowanie, naśladowanie lub rejestrowanie marki „VicastCam”, znaków towarowych, nazw domen, logo itp. Jeśli w wyniku nieautoryzowanego użycia wyrządzisz szkody, ponosisz pełną odpowiedzialność prawną.",
+              "8.4 Niniejsze Oprogramowanie zawiera komponenty oprogramowania rozpowszechniane na licencjach open source oraz licencjach podmiotów trzecich. Korzystając z tych komponentów, musisz ściśle przestrzegać odpowiednich warunków licencji."
+            ],
+            "key": "agreement-section-8"
+          },
+          {
+            "title": "9 Warunki dotyczące nieletnich",
+            "paragraphs": [
+              "9.1 Osoby nieletnie przed skorzystaniem z niniejszego Oprogramowania muszą uzyskać wyraźną zgodę swojego opiekuna prawnego i korzystać z niego pod jego nadzorem. Opiekunowie mają prawo żądać ograniczenia lub anulowania konta użytkownika nieletniego.",
+              "9.2 Licencjodawca starannie gromadzi dane osobowe nieletnich użytkowników. Opiekunowie powinni kierować nieletnimi, aby chronili swoją prywatność i bezpieczeństwo w sieci.",
+              "9.3 Opiekunowie powinni wypełniać swoje obowiązki opiekuńcze zgodnie z prawem, kierować nieletnich do zdrowego korzystania z internetu i zapobiegać uzależnieniu od internetu.",
+              "9.4 Osoby nieletnie i ich opiekunowie ponoszą odpowiedzialność prawną za wszystkie działania i konsekwencje korzystania z Oprogramowania przez nieletniego.",
+              "9.5 Osoby nieletnie nie mogą używać kamery do transmisji na żywo ani występować w filmach samodzielnie, ani publikować nielegalnych lub wulgarnych treści.",
+              "9.6 Jeśli Licencjodawca odkryje, że osoba nieletnia korzysta z Oprogramowania bez zgody opiekuna, ma prawo bezpośrednio ograniczyć lub zablokować odpowiednie konto.",
+              "9.7 Opiekunowie powinni odpowiednio zabezpieczyć konta płatnicze i hasła, aby uniknąć nieautoryzowanych opłat dokonywanych przez nieletnich. W razie pytań skontaktuj się z oficjalną obsługą klienta."
+            ],
+            "key": "agreement-section-9"
+          },
+          {
+            "title": "10 Zrzeczenie się odpowiedzialności",
+            "paragraphs": [
+              "10.1 Użytkownik wyraźnie przyjmuje do wiadomości i zgadza się, że korzystanie z niniejszej aplikacji odbywa się na wyłączne ryzyko użytkownika. W najszerszym zakresie dozwolonym przez obowiązujące prawo, niniejsza aplikacja oraz wszelkie usługi świadczone lub udostępniane przez tę aplikację są dostarczane „tak jak są” i „w miarę dostępności”, z wszelkimi wadami i bez jakichkolwiek gwarancji, a Licencjodawca niniejszym zrzeka się wszelkich gwarancji i warunków dotyczących tej aplikacji i wszelkich usług, zarówno wyraźnych, dorozumianych, jak i ustawowych, w tym między innymi dorozumianych gwarancji i/lub warunków przydatności handlowej, zadowalającej jakości, przydatności do określonego celu, dokładności, spokojnego korzystania oraz nienaruszania praw osób trzecich. Żadne ustne ani pisemne informacje lub porady udzielone przez Licencjodawcę lub jego upoważnionych przedstawicieli nie stanowią gwarancji. W przypadku stwierdzenia wad aplikacji lub usług, użytkownik ponosi całość kosztów wszelkich niezbędnych serwisów, napraw lub poprawek. Niektóre jurysdykcje nie dopuszczają wyłączenia gwarancji dorozumianych lub ograniczeń dotyczących ustawowych praw konsumentów, więc powyższe wyłączenia i ograniczenia mogą nie mieć zastosowania do użytkownika.",
+              "10.2 Licencjodawca będzie stosować standardowe technologie bezpieczeństwa w celu zapewnienia stabilnego działania usług. W zakresie dozwolonym przez przepisy prawa, Licencjodawca nie ponosi odpowiedzialności za przerwy w świadczeniu usług lub tymczasowe anomalie danych spowodowane siłą wyższą, klęskami żywiołowymi, wojnami, zakazami rządowymi, awariami sieci, pracami konserwacyjnymi systemu, atakami hakerskimi, wirusami, awariami usług osób trzecich, nieprawidłowościami urządzeń lub innymi czynnikami pozostającymi poza kontrolą Licencjodawcy.",
+              "10.3 W przypadku zawieszenia lub zakończenia świadczenia usług z powodu prac konserwacyjnych systemu, aktualizacji wersji, działań naprawczych związanych z zgodnością lub zmian biznesowych, zapewnimy rozsądne wcześniejsze powiadomienie za pośrednictwem powiadomień w aplikacji oraz oficjalnej strony internetowej.",
+              "10.4 W przypadku uszkodzenia urządzenia lub utraty danych w wyniku błędów operacyjnych użytkownika, awarii urządzenia, nieprawidłowych ustawień sieci lub niewłaściwego korzystania z niniejszego oprogramowania, użytkownik ponosi wszelkie straty.",
+              "10.5 Mamy prawo do dostosowania funkcji usług, modyfikacji treści usług lub czyszczenia danych serwera z uzasadnionych powodów operacyjnych, bezpieczeństwa systemu, działań naprawczych związanych z zgodnością i innych przyczyn. Nie będziemy usuwać danych użytkownika bez powodu.",
+              "10.6 Ograniczenie odpowiedzialności",
+              "W zakresie niezakazanym przez prawo, Licencjodawca nie ponosi odpowiedzialności za obrażenia ciała ani żadne przypadkowe, szczególne, pośrednie lub wtórne szkody, w tym między innymi utratę zysków, utratę danych, przerwy w działalności gospodarczej lub inne szkody lub straty handlowe, wynikające z korzystania z licencjonowanej aplikacji lub niemożności jej używania, niezależnie od podstawy odpowiedzialności (umowa, czyn niedozwolony lub inna), nawet jeśli Licencjodawca został poinformowany o możliwości wystąpienia takich szkód. Niektóre jurysdykcje nie dopuszczają ograniczenia odpowiedzialności za obrażenia ciała lub szkody przypadkowe lub wtórne, więc to ograniczenie może nie mieć zastosowania do użytkownika.",
+              "Z wyjątkiem bezwzględnie obowiązujących przepisów prawa lokalnego dotyczących obrażeń ciała, całkowita odpowiedzialność Licencjodawcy za wszelkie szkody nie przekroczy 1 dolara amerykańskiego (USD 1,00). Powyższe ograniczenia obowiązują nawet wtedy, gdy powyższe środki naprawcze nie spełnią swojego zasadniczego celu.",
+              "W jurysdykcjach takich jak Unia Europejska, Europejski Obszar Gospodarczy i Wielka Brytania niniejsza klauzula ograniczenia odpowiedzialności będzie miała zastosowanie ściśle zgodnie z lokalnymi przepisami dotyczącymi ochrony konsumentów."
+            ],
+            "key": "agreement-section-10"
+          },
+          {
+            "title": "11 Postanowienia różne",
+            "paragraphs": [
+              "11.1 Prawo właściwe",
+              "Niniejsza Umowa i stosunki między użytkownikiem a Licencjodawcą podlegają prawu Specjalnego Regionu Administracyjnego Hongkong Chińskiej Republiki Ludowej, z wyłączeniem przepisów kolizyjnych. Konwencja Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów nie ma zastosowania do niniejszej Umowy.",
+              "11.2 Rozstrzyganie sporów",
+              "Wszelkie spory wynikające z niniejszej Umowy lub związane z nią będą w pierwszej kolejności rozstrzygane w drodze polubownych negocjacji. W przypadku braku porozumienia użytkownik i Licencjodawca zgadzają się poddać spór sądom właściwym w Specjalnym Regionie Administracyjnym Hongkong Chińskiej Republiki Ludowej.",
+              "Jeśli użytkownik jest rezydentem państwa członkowskiego UE, niniejsza klauzula jurysdykcyjna nie narusza jego ustawowych praw wynikających z bezwzględnie obowiązujących przepisów lokalnych dotyczących ochrony konsumentów.",
+              "11.3 Zmiany Umowy",
+              "Licencjodawca ma prawo do zmiany niniejszej Umowy w trakcie testowania produktu i oficjalnego funkcjonowania, a zmiany będą publikowane w rozsądny sposób, taki jak powiadomienia w aplikacji i oficjalna strona internetowa. Po opublikowaniu zmienione warunki stają się skuteczną częścią niniejszej Umowy i mają taką samą moc prawną.",
+              "11.4 Stosunek stron",
+              "Użytkownik i Licencjodawca są niezależnymi podmiotami cywilnoprawnymi. Niniejsza Umowa nie ustanawia żadnego stosunku prawnego, takiego jak agencja, spółka, zatrudnienie, stowarzyszenie lub wspólne przedsięwzięcie. Apple Inc. i Google LLC są wyłącznie kanałami dystrybucji i płatności dla niniejszego Oprogramowania i nie uczestniczą w tworzeniu ani obsłudze niniejszego Oprogramowania, ani nie ponoszą żadnej odpowiedzialności prawnej za to Oprogramowanie lub jego usługi.",
+              "11.5 Skuteczność i rozwiązanie",
+              "Niniejsza Umowa wchodzi w życie z dniem zaakceptowania warunków i zarejestrowania konta przez użytkownika. Umowa wygasa z chwilą zakończenia świadczenia usług przez Licencjodawcę lub utraty przez użytkownika prawa do korzystania z Oprogramowania. Po rozwiązaniu Umowy obowiązki i zobowiązania użytkownika powstałe w okresie korzystania pozostają w mocy.",
+              "11.6 Nagłówki",
+              "Nagłówki sekcji w niniejszej Umowie mają charakter wyłącznie porządkowy i nie wpływają na interpretację ani zastosowanie postanowień.",
+              "11.7 Prawa autorskie i oświadczenie o prawach",
+              "Prawa autorskie do tekstu niniejszej Umowy należą do Licencjodawcy. Licencjodawca ma prawo do zmiany Umowy zgodnie z przepisami prawa, regulacjami i potrzebami biznesowymi oraz ma prawo do jej zgodnej z prawem interpretacji."
+            ],
+            "key": "agreement-section-11"
+          }
+        ]
+      }
+    }
+  ]
+}

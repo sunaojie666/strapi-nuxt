@@ -1,0 +1,201 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginDes1",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Replace 'propulsé par IA' with 'propulsé par l'IA' to correct the missing article."
+    },
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'AI matting' exactly as specified; do not translate or alter it. The current 'AI matting' is correct, but ensure it remains unchanged."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.tag",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Replace 'propulsé par IA' with 'propulsé par l'IA' to correct the missing article."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Replace 'un AI matting avancé' with 'un AI matting avancé' is correct, but ensure the article 'un' is appropriate; however, the main issue is the missing article in 'par IA' elsewhere. Here, 'AI matting' is fine, but check the phrase 'par IA' if present. Actually, the description does not contain 'par IA', so no change needed. However, the phrase 'un AI matting avancé' is acceptable. No issue."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider a more natural French phrasing: 'Donnez plus de puissance à la diffusion en direct dans le monde entier' is acceptable but could be improved to 'Donnez plus de puissance à la diffusion en direct dans le monde entier' – it's fine. No change required."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The title 'Entreprises' is correct for 'Business', but ensure it matches the navigation 'Entreprises' – it does. No issue."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "fr",
+          "loginTitle1": "Changez votre arrière-plan virtuel en un clic",
+          "loginTitle2": "Faites briller vos diffusions en direct",
+          "loginDes1": "Un outil de diffusion professionnel propulsé par l'IA",
+          "loginDes2": "Arrière-plans virtuels, améliorations de diffusion en direct et diffusion multi-plateforme, le tout simplifié",
+          "featureTitle1": "AI matting",
+          "featureSubTitle1": "Remplacement d'arrière-plan en temps réel",
+          "featureTitle2": "Diffusion multi-plateforme",
+          "featureSubTitle2": "Passez en direct en un clic",
+          "featureTitle3": "Caméra virtuelle",
+          "featureSubTitle3": "Transformez votre téléphone en webcam",
+          "loginBox": {
+            "loginPageTitle": "Connexion / Inscription",
+            "codeLoginTab": "Connexion par code",
+            "pwdLoginTab": "Connexion par mot de passe",
+            "qrLoginTab": "Connexion par QR code",
+            "emailInputPlaceholder": "Saisissez votre e-mail pour vous connecter",
+            "pwdInputPlaceholder": "Saisissez votre mot de passe",
+            "verifyCodePlaceholder": "Saisissez le code de vérification",
+            "getVerifyCodeText": "Obtenir le code",
+            "loginBtnText": "Se connecter",
+            "qrLoginTip": "Utilisez l'application VicastCam pour scanner le QR code",
+            "qrWaitingTip": "En attente de confirmation du scan",
+            "agreeProtocolText": "J'ai lu et j'accepte la Politique de confidentialité et les Conditions d'utilisation",
+            "userProtocolText": "Conditions d'utilisation",
+            "privacyPolicyText": "Politique de confidentialité",
+            "agreeProtocolPrefix": "J'ai lu et j'accepte"
+          },
+          "toastBox": {
+            "closeToastLabel": "Fermer",
+            "requestLoading": "Chargement",
+            "requestSuccess": "Succès",
+            "requestFail": "Échec de la requête",
+            "passwordLoginNotReady": "La connexion par mot de passe n'est pas encore disponible",
+            "passwordRequired": "Veuillez saisir votre mot de passe",
+            "emailRequired": "Veuillez saisir votre e-mail pour vous connecter",
+            "verifyCodeRequired": "Veuillez saisir le code de vérification",
+            "agreeProtocolRequired": "Veuillez d'abord lire et accepter la Politique de confidentialité et les Conditions d'utilisation",
+            "qrcodeExpired": "Le QR code a expiré. Veuillez réessayer."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "fr",
+          "hero_section": {
+            "tag": "Outil de diffusion en direct propulsé par l'IA",
+            "title_main": "Effets d'écran vert et diffusion d'écran depuis votre téléphone",
+            "title_highlight": "Donnez plus de puissance à la diffusion en direct dans le monde entier",
+            "description": "VicastCam utilise un AI matting avancé pour vous permettre de changer d'arrière-plan virtuel en toute fluidité pendant vos diffusions en direct, ajoutant des effets immersifs pour créer une présence professionnelle.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Télécharger"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Télécharger"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam offre aux créateurs des arrière-plans virtuels, des améliorations de diffusion en direct et des outils multi-plateforme."
+            },
+            "columns": [
+              {
+                "title": "Produit",
+                "links": [
+                  {
+                    "text": "Fonctionnalités"
+                  },
+                  {
+                    "text": "Tarifs"
+                  },
+                  {
+                    "text": "Centre de téléchargement"
+                  }
+                ]
+              },
+              {
+                "title": "Développeurs",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Documentation API"
+                  }
+                ]
+              },
+              {
+                "title": "Entreprise",
+                "links": [
+                  {
+                    "text": "À propos"
+                  },
+                  {
+                    "text": "Politique de confidentialité"
+                  },
+                  {
+                    "text": "Conditions d'utilisation"
+                  },
+                  {
+                    "text": "Accord d'adhésion"
+                  }
+                ]
+              },
+              {
+                "title": "Assistance",
+                "links": [
+                  {
+                    "text": "Tutoriels vidéo"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Contactez-nous"
+                  }
+                ]
+              },
+              {
+                "title": "Entreprises",
+                "links": [
+                  {
+                    "text": "Devenir revendeur"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Demandes commerciales"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Fonctionnalités",
+        "nav_pricing": "Tarifs",
+        "nav_faq": "FAQ",
+        "nav_auth": "Connexion / Inscription",
+        "nav_team": "Entreprises"
+      }
+    ]
+  }
+}

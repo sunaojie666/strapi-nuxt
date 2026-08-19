@@ -1,0 +1,132 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.checkouts[0].data.checkout.payment.sdkIneligible",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'окружении' with 'среде' for more natural Russian: 'Оплата через PayPal не поддерживается в этой среде.'"
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.summary.periodLife",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Навсегда' consistently for 'Lifetime' across all instances, including plans period fields."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.plans[2].period",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Навсегда' to 'Навсегда' (already correct) but ensure consistency with summary.periodLife."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Выберите способ оплаты",
+            "payment": {
+              "providerName": "PayPal",
+              "providerDescription": "Оплатите с баланса PayPal, банковской карты или кредитной карты",
+              "secureBadge": "Безопасный платеж",
+              "methodLabel": "Способ оплаты",
+              "accountLabel": "Текущий аккаунт",
+              "signInRequired": "Войдите в систему, чтобы продолжить покупку",
+              "signInAction": "Войти",
+              "summaryHint": "Нажмите кнопку PayPal, чтобы завершить оплату",
+              "trustItems": [
+                "Платежи безопасно обрабатываются PayPal",
+                "Поддерживаются баланс PayPal, банковские и кредитные карты",
+                "Преимущества членства активируются автоматически после успешной оплаты"
+              ],
+              "buttonPay": "Оплатить через PayPal",
+              "buttonPending": "Заказ ожидает",
+              "buttonCreating": "Создание заказа...",
+              "sdkLoading": "Загрузка PayPal...",
+              "sdkError": "Не удалось загрузить PayPal. Проверьте подключение к сети и попробуйте снова.",
+              "sdkIneligible": "Оплата через PayPal не поддерживается в этой среде",
+              "sdkMissingConfig": "PayPal не настроен. Обратитесь к администратору.",
+              "orderCreating": "Создание платежного заказа...",
+              "orderCreateFailed": "Не удалось создать заказ. Попробуйте снова.",
+              "orderProcessing": "Результат платежа все еще подтверждается. Проверьте позже.",
+              "orderSuccess": "Оплата прошла успешно. Ваши преимущества членства активированы.",
+              "orderFailed": "Оплата не прошла. Попробуйте снова.",
+              "orderPending": "Платеж не завершен. Завершите оплату и проверьте снова.",
+              "orderExpired": "Срок действия платежного заказа истек. Попробуйте снова.",
+              "statusQueryFailed": "Не удалось проверить статус платежа. Попробуйте позже.",
+              "invalidPlan": "Выбранный тариф недействителен. Вернитесь назад и выберите снова.",
+              "popupBlocked": "Окно оплаты было заблокировано браузером. Разрешите всплывающие окна для этого сайта и попробуйте снова.",
+              "popupOpened": "Открыто окно оплаты PayPal. Завершите оплату в окне.",
+              "popupClosedChecking": "Окно оплаты закрыто. Подтверждение результата платежа...",
+              "popupClosedFailed": "Окно оплаты закрыто, но заказ не завершен. Попробуйте снова."
+            },
+            "summary": {
+              "title": "Сводка заказа",
+              "periodLabel": "Период членства",
+              "paymentMethodLabel": "Способ оплаты",
+              "amountLabel": "Сумма к оплате",
+              "paymentMethod": "Онлайн-оплата через PayPal",
+              "note": "После успешной оплаты преимущества членства будут автоматически предоставлены вашему текущему аккаунту.",
+              "periodMonth": "1 месяц",
+              "periodYear": "1 год",
+              "periodLife": "Навсегда",
+              "emptyValue": "—"
+            },
+            "result": {
+              "checking": "Подтверждение результата платежа...",
+              "closeLabel": "Закрыть",
+              "iconAlt": "Результат платежа",
+              "titlePrefix": "Оплата",
+              "successTitleHighlight": "Успешно!",
+              "failureTitleHighlight": "Не удалось!",
+              "successDescription": "Спасибо за покупку. Ваше членство активировано.",
+              "failureDescription": "Не удалось завершить платеж. Попробуйте снова или используйте другой способ оплаты.",
+              "orderNumber": "Номер заказа",
+              "membershipType": "Тип членства",
+              "expiry": "Дата окончания",
+              "orderStatus": "Статус заказа",
+              "successStatus": "Оплачено",
+              "failureStatus": "Не оплачено",
+              "successPrimaryAction": "Перейти в центр членства",
+              "failurePrimaryAction": "Изменить способ оплаты",
+              "successSecondaryAction": "ОК",
+              "failureSecondaryAction": "Вернуться на страницу",
+              "copyOrderNumber": "Копировать номер заказа",
+              "copied": "Скопировано",
+              "emptyValue": "—"
+            },
+            "seo": {
+              "title": "Подтверждение покупки | VicastCam",
+              "description": "Подтвердите тариф членства VicastCam и оплатите через PayPal."
+            },
+            "plans": [
+              {
+                "id": "inapp_chips_month",
+                "type": "month",
+                "name": "Месячное членство",
+                "description": "Все преимущества членства VicastCam на месяц",
+                "period": "1 месяц"
+              },
+              {
+                "id": "inapp_chips_year",
+                "type": "year",
+                "name": "Годовое членство",
+                "description": "Все преимущества членства VicastCam на целый год",
+                "period": "1 год"
+              },
+              {
+                "id": "inapp_lifetime_vip",
+                "type": "life",
+                "name": "Пожизненное членство",
+                "description": "Разовая покупка, долгосрочный доступ к преимуществам членства VicastCam",
+                "period": "Навсегда"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

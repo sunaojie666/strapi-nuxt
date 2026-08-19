@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Quelles sont les dimensions recommandées pour les éléments de diffusion en direct ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensions recommandées pour les éléments de diffusion en direct :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour les images de fond de diffusion en direct, nous recommandons 1080 x 1920 pixels ; pour les vidéos, nous recommandons également 1080 x 1920 pixels.",
+            "Important : les superpositions plein écran doivent utiliser un rapport hauteur/largeur de 9:16 pour garantir une transition fluide entre les modes plein écran et 9:16 sans décalage, obtenant ainsi un effet parfaitement ajusté."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Quels modes de sortie sont pris en charge pour la diffusion en direct ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "La diffusion en direct prend en charge deux modes de sortie : la diffusion 9:16 et la diffusion plein écran. Suivez ces étapes pour en sélectionner un sur votre appareil Android :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez VicastCam, accédez à la page de diffusion en direct, puis appuyez sur l'icône de menu sur le côté droit."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Entrée de menu sur le côté droit de la page de diffusion en direct Android",
+          "caption": "Étape 1 : Appuyez sur l'icône de menu sur le côté droit de la page de diffusion en direct."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dans Paramètres supplémentaires, recherchez « Rapport hauteur/largeur » et choisissez « Plein écran » ou « 9:16 » selon vos besoins."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Options de rapport hauteur/largeur dans Paramètres supplémentaires sur Android",
+          "caption": "Étape 2 : Dans « Rapport hauteur/largeur », sélectionnez « Plein écran » ou « 9:16 »."
+        },
+        {
+          "type": "heading",
+          "text": "Explication des deux modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Diffusion 9:16 : le rapport hauteur/largeur de sortie est fixé à 9:16, la plateforme de diffusion reçoit donc une image 9:16.",
+            "Diffusion plein écran : diffuse tout l'écran du téléphone tel quel, en préservant le contenu natif sans recadrage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Comment supprimer mon compte ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Veuillez vous connecter à l'application VicastCam, puis accédez à [Compte - icône en haut à droite - Gestion du compte - Supprimer le compte - Soumettre la demande de suppression]."
+        },
+        {
+          "type": "heading",
+          "text": "Informations du compte"
+        },
+        {
+          "type": "paragraph",
+          "text": "Après la suppression du compte, nous supprimerons définitivement votre adresse e-mail liée, les enregistrements de l'appareil et d'autres informations d'identité, et révoquerons votre autorisation de connexion tierce via les comptes Google et Apple. Après la révocation, vous ne pourrez plus utiliser ces comptes tiers pour une connexion rapide ; pour réutiliser l'application, vous devrez réautoriser et relier à nouveau."
+        },
+        {
+          "type": "heading",
+          "text": "Contenu et éléments"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tous les éléments de diffusion en direct, vidéos, images et fichiers de projet sont stockés uniquement sur votre appareil ; le cloud ne conserve aucun élément créatif. Après la suppression, la fonction de gestion des éléments de l'application ne fonctionnera plus, veuillez donc sauvegarder vos éléments à l'avance via « Exportation des éléments ».",
+            "Si vous désinstallez puis réinstallez, changez d'appareil ou n'exportez pas de sauvegarde à l'avance, vos éléments seront définitivement irrécupérables."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Avantages de l'adhésion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Après la suppression du compte, vos avantages d'adhésion prendront fin immédiatement. Si vous avez un abonnement Google Play actif, la suppression de votre compte d'application n'annulera pas automatiquement l'abonnement et vous pourrez continuer à être facturé. Veuillez vous rendre dans « Paiements et abonnements - Abonnements » de Google Play pour annuler manuellement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si vous avez des questions, veuillez contacter notre équipe de support client."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Pourquoi ne puis-je pas accéder aux photos et vidéos de mon téléphone lors de leur ajout ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si votre album photo semble vide lors de l'ajout d'éléments, vous pouvez activer les autorisations d'accès aux photos comme suit :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS : Ouvrez les Réglages de votre téléphone, faites défiler jusqu'à VicastCam, appuyez sur [Photos - Toutes les photos] pour activer l'accès.",
+            "Android : Ouvrez les Paramètres de votre téléphone, recherchez VicastCam sous [Gestion des autorisations] ou [Gestion des applications], puis appuyez sur [Gestion des autorisations - Photos - Toutes les photos] pour activer l'accès.",
+            "Si le problème persiste, essayez de désinstaller puis réinstaller l'application, ou contactez le support en ligne via la fonction de commentaires."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Que faire si l'écran n'est pas entièrement affiché lors de la diffusion depuis un ordinateur ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si l'écran semble incomplet lors de la diffusion depuis votre téléphone via une application compagnon de diffusion en direct ou un autre logiciel, suivez ces étapes pour ajuster :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez VicastCam, appuyez sur l'icône de caméra en bas pour accéder à la page de diffusion en direct, puis allez dans [Menu de droite - Paramètres supplémentaires - Rapport hauteur/largeur - 9:16].",
+            "Après avoir diffusé vers le compagnon de diffusion en direct, ajustez d'abord l'écran au canevas, puis faites glisser verticalement pour remplir l'écran."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Remarque : Avant de commencer votre diffusion, ajustez d'abord le rapport hauteur/largeur, puis ajoutez vos éléments."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Que faire en cas d'échec d'une requête réseau ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si vous rencontrez des échecs de requête réseau, essayez ce qui suit :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez les Paramètres de votre téléphone, allez dans [Gestion des autorisations - VicastCam - Données mobiles et Wi-Fi] et activez l'accès réseau.",
+            "Désactivez le mode d'économie d'énergie et toute restriction en arrière-plan sur votre téléphone.",
+            "Changez de réseau, redémarrez votre téléphone, activez le mode avion ou mettez à jour l'application vers la dernière version.",
+            "Si le problème persiste, prenez une capture d'écran de l'erreur et contactez le support client pour obtenir de l'aide."
+          ]
+        }
+      ]
+    }
+  ]
+}

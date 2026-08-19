@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "مركز الدروس",
+          "titleMain": "ابدأ رحلتك مع",
+          "titleHighlight": "VicastCam",
+          "descriptionMain": "أتقن كل ميزات البرنامج",
+          "descriptionHighlight": "ابدأ العمل بسرعة"
+        },
+        "player": {
+          "sectionAriaLabel": "قائمة الدروس",
+          "catalogAriaLabel": "فهرس الدروس",
+          "previousLabel": "السابق",
+          "nextLabel": "التالي",
+          "firstLessonText": "أنت في الدرس الأول",
+          "lastLessonText": "أنت في الدرس الأخير",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "بدء الاستخدام",
+            "count": "11 درسًا",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "إنشاء أول استوديو افتراضي لك",
+                "description": "قم بإعداد وتهيئة أول استوديو افتراضي لك من الصفر.",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "فهم أدوات الصور",
+                "description": "استكشف أساسيات أدوات الصور وحالات استخدامها الشائعة.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "العمل مع الطبقات",
+                "description": "تعرّف على لوحة الطبقات وكيفية إدارة الطبقات بفعالية.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "استخدام طبقات الخلفية",
+                "description": "تعلّم كيفية إضافة وضبط طبقات الخلفية لمشهدك.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "استخدام طبقات البورتريه",
+                "description": "أضف طبقات بورتريه لتحسين إنتاجك المباشر.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "استخدام طبقات الصور",
+                "description": "أضف وعدّل طبقات الصور داخل إعداد الاستوديو الخاص بك.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "استخدام طبقات الفيديو",
+                "description": "أضف مقاطع الفيديو وتحكم في إعدادات التشغيل.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "استخدام طبقات التأثيرات",
+                "description": "طبّق تأثيرات بصرية على بثك المباشر باستخدام طبقات التأثيرات.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "استخدام طبقات التسميات التوضيحية",
+                "description": "أنشئ تسميات توضيحية وخصص مظهرها.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "استخدام الصور الرمزية الافتراضية",
+                "description": "أضف الحياة إلى بثك من خلال دمج الصور الرمزية الافتراضية.",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "استخدام المشاهد",
+                "description": "بدّل بين تخطيطات المشاهد المختلفة بسلاسة أثناء البث.",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "دروس متقدمة",
+            "count": "6 دروس",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "استخدام طبقات حركة الكاميرا",
+                "description": "أنشئ لقطات ديناميكية باستخدام طبقات حركة الكاميرا.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "استخدام الرسوم المتحركة للمسار",
+                "description": "تحكم في مسارات حركة العناصر باستخدام ميزة المسار.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "استخدام طبقات الكاميرات المتعددة",
+                "description": "قم بإعداد طبقات كاميرات متعددة للتبديل السريع بين الزوايا.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "استخدام وحدة التحكم",
+                "description": "أدر بثك بالكامل من لوحة تحكم واحدة.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "إعداد الصوت ومزجه",
+                "description": "قم بتهيئة مدخلات الصوت ومخرجاته وإعدادات المزج.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "النسخ الاحتياطي والاستعادة",
+                "description": "قم بعمل نسخة احتياطية من إعداد الاستوديو الخاص بك واستعادته عند الحاجة.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "إعداد الكمبيوتر",
+            "count": "7 دروس",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "بدء استخدام VicastCam",
+                "description": "نظرة عامة عالية المستوى على الواجهة والميزات الأساسية.",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "اتصال سلكي – iPhone",
+                "description": "قم بتوصيل iPhone الخاص بك بـ VicastCam باستخدام اتصال سلكي.",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "اتصال لاسلكي – iPhone",
+                "description": "قم بتوصيل iPhone الخاص بك بـ VicastCam عبر Wi-Fi.",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "اتصال سلكي – Android",
+                "description": "قم بتوصيل جهاز Android الخاص بك بـ VicastCam باستخدام اتصال سلكي.",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "اتصال لاسلكي – Android",
+                "description": "قم بتوصيل جهاز Android الخاص بك بـ VicastCam عبر Wi-Fi.",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "إضافة واستخدام الوسائط المحلية",
+                "description": "قم باستيراد واستخدام ملفات الوسائط المحلية في مشاريعك.",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "ماذا تفعل بعد الاتصال",
+                "description": "شغّل البث الخاص بك بمجرد توصيل أجهزتك.",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

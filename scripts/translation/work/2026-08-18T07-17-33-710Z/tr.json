@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Ödeme Yöntemi Seçin",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "PayPal bakiyeniz, banka kartınız veya kredi kartınızla ödeyin",
+            "secureBadge": "Güvenli Ödeme",
+            "methodLabel": "Ödeme Yöntemi",
+            "accountLabel": "Mevcut Hesap",
+            "signInRequired": "Satın alma işleminize devam etmek için lütfen giriş yapın",
+            "signInAction": "Giriş Yap",
+            "summaryHint": "Ödemenizi tamamlamak için PayPal düğmesine tıklayın",
+            "trustItems": [
+              "Ödemeler PayPal tarafından güvenle işlenir",
+              "PayPal bakiyesi, banka kartları ve kredi kartları desteklenir",
+              "Üyelik avantajları, başarılı ödemenin ardından otomatik olarak etkinleştirilir"
+            ],
+            "buttonPay": "PayPal ile Öde",
+            "buttonPending": "Sipariş Beklemede",
+            "buttonCreating": "Sipariş Oluşturuluyor...",
+            "sdkLoading": "PayPal yükleniyor...",
+            "sdkError": "PayPal yüklenemedi. Lütfen ağ bağlantınızı kontrol edip tekrar deneyin.",
+            "sdkIneligible": "PayPal ödemesi bu ortamda desteklenmiyor",
+            "sdkMissingConfig": "PayPal yapılandırılmamış. Lütfen yöneticiyle iletişime geçin.",
+            "orderCreating": "Ödeme siparişi oluşturuluyor...",
+            "orderCreateFailed": "Sipariş oluşturulamadı. Lütfen tekrar deneyin.",
+            "orderProcessing": "Ödeme sonucu hâlâ doğrulanıyor. Lütfen daha sonra tekrar kontrol edin.",
+            "orderSuccess": "Ödeme başarılı. Üyelik avantajlarınız etkinleştirildi.",
+            "orderFailed": "Ödeme başarısız oldu. Lütfen tekrar deneyin.",
+            "orderPending": "Ödeme tamamlanmadı. Lütfen ödemeyi tamamlayıp tekrar kontrol edin.",
+            "orderExpired": "Ödeme siparişinin süresi doldu. Lütfen tekrar deneyin.",
+            "statusQueryFailed": "Ödeme durumu kontrol edilemedi. Lütfen daha sonra tekrar deneyin.",
+            "invalidPlan": "Seçilen plan geçersiz. Lütfen geri dönüp tekrar seçin.",
+            "popupBlocked": "Ödeme penceresi tarayıcınız tarafından engellendi. Lütfen bu site için açılır pencerelere izin verip tekrar deneyin.",
+            "popupOpened": "PayPal ödeme penceresi açıldı. Lütfen ödemeyi pencerede tamamlayın.",
+            "popupClosedChecking": "Ödeme penceresi kapandı. Ödeme sonucu doğrulanıyor...",
+            "popupClosedFailed": "Ödeme penceresi kapandı, ancak sipariş tamamlanmadı. Lütfen tekrar deneyin."
+          },
+          "summary": {
+            "title": "Sipariş Özeti",
+            "periodLabel": "Üyelik Süresi",
+            "paymentMethodLabel": "Ödeme Yöntemi",
+            "amountLabel": "Ödenecek Tutar",
+            "paymentMethod": "PayPal Çevrimiçi Ödeme",
+            "note": "Başarılı ödemenin ardından üyelik avantajları otomatik olarak mevcut hesabınıza tanımlanır.",
+            "periodMonth": "1 Ay",
+            "periodYear": "1 Yıl",
+            "periodLife": "Ömür Boyu",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Ödeme sonucu doğrulanıyor...",
+            "closeLabel": "Kapat",
+            "iconAlt": "Ödeme Sonucu",
+            "titlePrefix": "Ödeme",
+            "successTitleHighlight": "Başarılı!",
+            "failureTitleHighlight": "Başarısız!",
+            "successDescription": "Satın aldığınız için teşekkürler. Üyeliğiniz etkinleştirildi.",
+            "failureDescription": "Ödemeniz tamamlanamadı. Lütfen tekrar deneyin veya farklı bir ödeme yöntemi kullanın.",
+            "orderNumber": "Sipariş Numarası",
+            "membershipType": "Üyelik Türü",
+            "expiry": "Bitiş Tarihi",
+            "orderStatus": "Sipariş Durumu",
+            "successStatus": "Ödendi",
+            "failureStatus": "Ödenmedi",
+            "successPrimaryAction": "Üyelik Merkezinde Görüntüle",
+            "failurePrimaryAction": "Ödeme Yöntemini Değiştir",
+            "successSecondaryAction": "Tamam",
+            "failureSecondaryAction": "Sayfaya Dön",
+            "copyOrderNumber": "Sipariş Numarasını Kopyala",
+            "copied": "Kopyalandı",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Satın Almayı Onayla | VicastCam",
+            "description": "VicastCam üyelik planınızı onaylayın ve PayPal ile ödemeyi tamamlayın."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Aylık Üyelik",
+              "description": "VicastCam üyelik özelliklerinin tümünden aylık olarak yararlanın",
+              "period": "1 Ay"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Yıllık Üyelik",
+              "description": "VicastCam üyelik özelliklerinin tümünden tam bir yıl boyunca yararlanın",
+              "period": "1 Yıl"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Ömür Boyu Üyelik",
+              "description": "Tek seferlik ödeme ile VicastCam üyelik özelliklerine uzun süreli erişim",
+              "period": "Ömür Boyu"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Nutzungsvereinbarung",
+        "updatedAt": "22. Juli 2026",
+        "description": "Diese Nutzungslizenzvereinbarung (\"Vereinbarung\") wird zwischen dem Lizenzgeber und dem Nutzer dieser Software (\"Sie\" oder \"Nutzer\") geschlossen und regelt alle Ihre Handlungen beim Herunterladen, Installieren, Registrieren, Anmelden und Verwenden dieser Software.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Lizenzgeber: Vicast International Limited",
+              "Offizielle Kanäle: VicastCam-Website und autorisierte App-Stores (Apple App Store / Google Play Store)",
+              "Kontakt-E-Mail: service@vicastcam.com",
+              "Zuletzt aktualisiert: 22. Juli 2026",
+              "Willkommen bei VicastCam (\"diese Software\")!",
+              "VicastCam-Produkte werden nur Nutzern außerhalb des chinesischen Festlands angeboten. Wir bewerben das Produkt nicht aktiv bei Nutzern auf dem chinesischen Festland. Wenn Sie sich auf dem chinesischen Festland befinden, beachten Sie bitte, dass dieses Produkt dort nicht über die erforderlichen Betriebsgenehmigungen verfügt.",
+              "Diese Nutzungslizenzvereinbarung (\"Vereinbarung\") wird zwischen dem Lizenzgeber und dem Nutzer dieser Software (\"Sie\" oder \"Nutzer\") geschlossen und regelt alle Ihre Handlungen beim Herunterladen, Installieren, Registrieren, Anmelden und Verwenden dieser Software.",
+              "Durch Klicken auf die Schaltfläche \"Zustimmen\" in dieser Software akzeptieren Sie freiwillig alle Bedingungen dieser Vereinbarung. Wenn Sie sie nicht akzeptieren, gewährt Ihnen der Lizenzgeber kein Recht zur Nutzung der Software. Bitte stellen Sie die Nutzung sofort ein und deinstallieren Sie die Software. Ihre fortgesetzte Nutzung der Software stellt Ihre Zustimmung zu und Annahme dieser Vereinbarung und etwaiger späterer Änderungen dar.",
+              "Sie bestätigen, dass Sie mindestens 18 Jahre alt sind oder das gesetzliche Volljährigkeitsalter in Ihrer Rechtsordnung erreicht haben (\"Erwachsener\"). Minderjährige dürfen diese Software nur mit ausdrücklicher Zustimmung und unter Aufsicht ihres gesetzlichen Vormunds nutzen, der die Aufsichtspflichten gemäß dem Gesetz übernimmt."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Anwendungsbereich",
+            "paragraphs": [
+              "1.1 Lesen Sie diese Vereinbarung vor der Nutzung der Software sorgfältig durch, insbesondere die fettgedruckten Kernklauseln, einschließlich Haftungsausschlüssen, anwendbarem Recht und Streitbeilegung. Wenn Sie mit einer Bedingung nicht einverstanden sind, stellen Sie die Nutzung der Software bitte sofort ein.",
+              "1.2 Diese Software ist in erster Linie für Erwachsene bestimmt. Minderjährige müssen vor der Nutzung dieser Software die Zustimmung ihres gesetzlichen Vormunds einholen und sie unter Aufsicht des Vormunds nutzen. Der Vormund muss die Aufsichtspflichten gemäß dem Gesetz erfüllen.",
+              "1.3 Diese Vereinbarung umfasst Plattformregeln wie Ankündigungen, Aktivitätsregeln und In-App-Benachrichtigungen, die von dieser Software veröffentlicht werden. Alle Plattformregeln sind integraler Bestandteil dieser Vereinbarung und haben dieselbe Rechtswirkung wie diese Vereinbarung.",
+              "1.4 Durch Registrierung, Anmeldung oder Nutzung dieser Software gelten Sie als vollständig über diese Vereinbarung informiert, haben sie verstanden und erklären sich mit ihr verbindlich einverstanden.",
+              "1.5 Alle geistigen Eigentumsrechte an dieser Software und alle Rechte, die Nutzern nicht ausdrücklich gewährt werden, bleiben dem Lizenzgeber vorbehalten."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Diese Software und zugehörige Dienste",
+            "paragraphs": [
+              "2.1 Diese Software ist ein Hilfswerkzeug für Live-Streaming-Szenarien und bietet Funktionen wie Live-Streaming, Einrichtung virtueller Szenen, AI-Matting, Gesichtseffekte und Beauty-Filter. Die konkreten Dienste und Funktionen richten sich nach der tatsächlichen Produktdarstellung.",
+              "2.2 Sie dürfen den Client nur über offizielle Kanäle (Apple App Store oder Google Play Store) beziehen. Risiken und Verluste, die durch die Verwendung inoffizieller Versionen entstehen, tragen Sie selbst.",
+              "2.3 Zur Nutzung dieser Software benötigen Sie ein eigenes Endgerät und eine Internetverbindung und tragen die damit verbundenen Internet- und Datengebühren. Die volle Funktionalität erfordert eine Internetverbindung.",
+              "2.4 Der Lizenzgeber gewährt Ihnen eine persönliche, nicht-kommerzielle, nicht übertragbare, widerrufliche, nicht exklusive Lizenz zur Nutzung der Software. Ohne vorherige schriftliche Genehmigung des Lizenzgebers ist es Ihnen untersagt, die Software zu verändern, zu kopieren, zu verbreiten, zu spiegeln, zu crawlen, zu verkaufen oder für kommerzielle Zwecke zu nutzen.",
+              "2.5 Der Lizenzgeber hat das Recht, die Dienste ganz oder teilweise zu aktualisieren, anzupassen, auszusetzen oder zu beenden, basierend auf Produktoptimierung, Sicherheitswartung, Compliance-Betrieb und anderen Anforderungen. Sie können wählen, ob Sie den Client aktualisieren; die Verweigerung eines Updates kann zu eingeschränkter Funktionalität führen. Sie haben das Recht, die App jederzeit zu deinstallieren, um den Dienst zu beenden.",
+              "2.6 Käufe und Abonnements",
+              "2.6.1 Alle kostenpflichtigen Funktionen, Käufe und Abonnements innerhalb dieser Software werden über das Zahlungssystem des Apple App Store oder Google Play abgewickelt, und solche Transaktionen unterliegen auch den Nutzungsbedingungen der jeweiligen Plattform.",
+              "2.6.2 Abonnementregeln",
+              "(1) Automatische Verlängerung: Abonnementdienste werden mindestens 24 Stunden vor Ablauf des aktuellen Servicezeitraums automatisch belastet, und das Plattformsystem sendet Verlängerungserinnerungen. Sie können die automatische Verlängerung jederzeit über die Seite \"Einstellungen > Konto > Abonnements\" Ihres Geräts einsehen, verwalten und kündigen (der Pfad kann je nach Plattform variieren).",
+              "(2) Preisänderungen: Wenn wir Abonnementpreise anpassen, werden wir mindestens 30 Tage vor Inkrafttreten des neuen Preises über In-App-Ankündigungen, die offizielle Website oder andere angemessene Mittel informieren. Preisänderungen haben keine Auswirkungen auf den bereits laufenden Abonnementzeitraum. Sofern lokales Recht eine zusätzliche Zustimmung des Nutzers verlangt, werden wir dem nachkommen.",
+              "(3) Kostenlose Testphase: Wenn eine kostenlose Testphase angeboten wird, deaktivieren Sie die automatische Verlängerung bitte mindestens 24 Stunden vor Ablauf des Testzeitraums, um eine Belastung zu vermeiden.",
+              "2.6.3 Regionale Rückerstattungen und gesetzliche Widerrufsrechte",
+              "(1) Nutzer in der Europäischen Union, im Europäischen Wirtschaftsraum und im Vereinigten Königreich: Gemäß den lokalen Verbraucherschutzgesetzen haben Sie ein gesetzliches 14-tägiges Widerrufsrecht ohne Angabe von Gründen. Einzelheiten finden Sie in der VicastCam-Rückerstattungsrichtlinie. Widerrufs- und Rückerstattungsanträge müssen über den offiziellen Kanal (App Store oder Google Play) eingereicht werden, über den Ihr Kauf erfolgt ist, und Rückerstattungen unterliegen den Plattformregeln und dem lokalen Recht. Wenn Sie den Dienst während der 14-tägigen Widerrufsfrist genutzt haben, wird die Rückerstattung anteilig auf der Grundlage der tatsächlichen Nutzung berechnet. Sobald der Widerruf wirksam wird, enden Ihre kostenpflichtigen Nutzungsrechte sofort.",
+              "(2) Einmalzahlung und lebenslange Dienste: Wenn Sie die sofortige Aktivierung des Dienstes ausdrücklich bestätigen und auf das 14-tägige Widerrufsrecht verzichten, gilt das Widerrufsrecht ohne Angabe von Gründen nicht mehr.",
+              "(3) Alle anderen Regionen: Rückerstattungen und After-Sales-Angelegenheiten unterliegen in erster Linie den offiziellen Regeln der Plattform, über die Ihr Kauf erfolgt ist.",
+              "2.6.4 Nutzungsregeln für kostenpflichtige Vorteile",
+              "(1) Kostenpflichtige Dienste und Vorteile sind nur für den persönlichen Gebrauch bestimmt.",
+              "(2) Es ist Ihnen untersagt, kostenpflichtige Vorteile Dritten durch Schenkung, Verleih, Vermietung, Weiterverkauf oder Massenweitergabe zur Verfügung zu stellen.",
+              "2.7 Gebühren, Mitgliedschaft und Regeln für die kommerzielle Nutzung",
+              "2.7.1 Der Lizenzgeber hat das Recht, gemäß dem Gesetz Gebühren für die Software und zugehörige Netzdienste zu erheben. Sie sind für alle Kosten für Hardware, Software und Netzwerk verantwortlich, die für die Nutzung erforderlich sind, und müssen die entsprechenden Servicegebühren rechtzeitig zahlen.",
+              "2.7.2 Sie müssen Ihre Steuerpflichten gemäß dem Gesetz erfüllen und alle Steuern tragen, die sich aus der Nutzung der Dienste ergeben. Es ist Ihnen untersagt, kostenpflichtige Dienste betrügerisch zu nutzen.",
+              "2.7.3 Wir können das Mitgliedschaftssystem basierend auf legitimen betrieblichen Anforderungen anpassen oder Mitgliedschaftsdienste beenden. Wenn ein Konto aufgrund von Verstößen gesperrt oder beendet wird, werden bezahlte Gebühren nicht erstattet.",
+              "2.7.4 Wenn Sie diese Software für kommerzielle Zwecke nutzen müssen, müssen Sie vorab beim Lizenzgeber eine offizielle kommerzielle Nutzungslizenz beantragen.",
+              "2.7.5 Es ist Ihnen untersagt, diese Software zur Verbreitung pornografischer oder illegaler Inhalte zu verwenden, um Gewinne zu erzielen."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Kontoverwaltung",
+            "paragraphs": [
+              "3.1 Sie können selbst ein Konto registrieren oder ein legitimes Konto eines Drittanbieters zur Anmeldung verwenden. Konten von Drittanbietern müssen mit echten Namen verifiziert sein und den Plattformregeln entsprechen. Sie sind für die Sicherheit Ihres Kontos und Passworts sowie für alle Handlungen verantwortlich, die unter Ihrem Konto ausgeführt werden.",
+              "3.2 Gemäß den weltweiten Anforderungen an Netzwerküberwachung und Echtnamen-Registrierung müssen Sie bei der Registrierung wahre, genaue und gültige Identitätsinformationen und Kontaktdaten (z. B. E-Mail) angeben. Wenn die Informationen falsch oder fragwürdig sind, hat der Lizenzgeber das Recht, eine Korrektur zu verlangen, Dienste einzuschränken oder zu beenden. Einige Registrierungsinformationen können aus Sicherheits- und Verifizierungsgründen nicht geändert werden.",
+              "3.3 Einige grundlegende Funktionen können ohne Anmeldung genutzt werden. Die volle Funktionalität und kostenpflichtige Dienste erfordern Registrierung, Anmeldung und Identitätsprüfung.",
+              "3.4 Kontoinformationen wie Spitzname, Avatar und Biografie dürfen nicht die Namen, Marken, Porträts oder andere gesetzliche Rechte anderer nachahmen und keine illegalen, vulgären oder irreführenden Inhalte enthalten. Der Lizenzgeber hat das Recht, Kontoinformationen zu überprüfen und bei Verstößen Maßnahmen wie Zurücksetzen, Funktionseinschränkung oder Kontosperrung zu ergreifen.",
+              "3.5 Konten sind nur für den persönlichen Gebrauch bestimmt und dürfen auf Geräten angemeldet werden, die Sie rechtmäßig kontrollieren. Das Verschenken, Verleihen, Vermieten, Übertragen oder Verkaufen von Konten ist untersagt. Wenn festgestellt wird, dass der Nutzer nicht mit dem Registranten übereinstimmt, hat der Lizenzgeber das Recht, Dienste auszusetzen oder zu beenden.",
+              "3.6 Sie sind für die Sicherheit und Vertraulichkeit Ihres Kontos verantwortlich und tragen die volle rechtliche Verantwortung für alle Vorgänge, Inhalte und Handlungen unter Ihrem Konto.",
+              "3.7 Wenn Ihr Konto gestohlen wird oder Sie Ihr Passwort vergessen, können Sie es über den offiziellen Beschwerdekanal wiederherstellen.",
+              "3.7.1 Wenn Ihr Konto gestohlen wird, Informationen durch unsachgemäße Aufbewahrung, Geräteverlust oder freiwillige Offenlegung von Kontodaten durchsickern oder Eigentum verloren geht, tragen Sie die volle Verantwortung.",
+              "3.7.2 Kontowiederherstellungsdienste überprüfen nur im System gespeicherte Informationen und können die wahre Identität des Nutzers nicht feststellen. Sie tragen die damit verbundenen Risiken. Wenn Sie ungewöhnliche Kontoaktivitäten bemerken, kontaktieren Sie bitte sofort den offiziellen Kundendienst.",
+              "3.8 Kontolöschung und Datenverarbeitung",
+              "3.8.1 Sie können die Löschung Ihres Kontos über \"Ich > Einstellungen > Kontoverwaltung > Konto löschen\" in der Software oder per offizieller E-Mail beantragen. Vor der Löschung ist eine Eigentumsprüfung erforderlich.",
+              "3.8.2 Nach der Kontolöschung wird eine 30-tägige Datenpufferfrist eingeräumt (nur für Finanzabstimmung, Streitbeilegung und After-Sales-Verifizierung). Nach Ablauf dieser Frist wird eine dauerhafte physische Löschung durchgeführt, mit Ausnahme von Transaktionsaufzeichnungen, die gesetzlich aufbewahrt werden müssen.",
+              "3.8.3 Nach der Kontolöschung können Konto und Daten nicht wiederhergestellt werden. Verpflichtungen und Verbindlichkeiten, die während Ihrer Nutzung entstanden sind, werden durch die Löschung nicht aufgehoben."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Nutzerverhalten",
+            "paragraphs": [
+              "4.1 Sie verpflichten sich, bei der Nutzung dieser Software die weltweiten Gesetze zu Netzwerksicherheit, geistigem Eigentum, Persönlichkeitsrechten und Datenschutz einzuhalten und die gesetzlichen Rechte anderer zu respektieren. Sofern nicht gesetzlich zulässig oder vom Lizenzgeber schriftlich autorisiert, sind folgende Handlungen untersagt:",
+              "4.1.1 Hochladen oder Verbreiten unbefugter persönlicher Informationen, Geschäftsgeheimnisse oder rechtsverletzender Inhalte.",
+              "4.1.2 Verwendung von Cheats, Plugins oder Drittanbieter-Tools, um den normalen Betrieb dieser Software zu stören oder zu beeinträchtigen.",
+              "4.1.3 Durchführung illegaler Netzwerkeingriffe, Datendiebstahl, Virenverbreitung, Schwachstellenscans, Fälschung von Netzwerkdatenpaketen oder anderer Cyberangriffe.",
+              "4.1.4 Massenhafte böswillige Registrierung von Konten.",
+              "4.1.5 Reverse Engineering, Dekompilierung, Disassemblierung oder Versuch, den Quellcode dieser Software zu knacken.",
+              "4.1.6 Erstellung oder Verbreitung pornografischer, gewalttätiger, verleumderischer oder illegaler Inhalte.",
+              "4.1.7 Werbung für Tabak, Alkohol, Glücksspiel, Waffen oder verbotene Gegenstände.",
+              "4.1.8 Heimliches Fotografieren, Aufnehmen oder Verbreiten von Bildern, Stimmen oder privaten Informationen anderer ohne Genehmigung, wodurch deren Persönlichkeits- oder Datenschutzrechte verletzt werden.",
+              "4.1.9 Andere Handlungen, die gegen lokale Gesetze, diese Vereinbarung oder Plattformregeln verstoßen.",
+              "4.1.10 Wenn Sie gegen diese Vereinbarung verstoßen, hat der Lizenzgeber das Recht, verstoßende Inhalte ohne Vorankündigung zu löschen und je nach Schweregrad Sanktionen wie Verwarnungen, Funktionssperren, Gerätesperren oder dauerhafte Kontosperren zu verhängen. Verstoßende Nutzer können über die offizielle E-Mail Einspruch einlegen, und der Lizenzgeber hat die endgültige Überprüfungsbefugnis.",
+              "4.2 Bei der Erstellung von Inhalten mit dieser Software ist es Ihnen untersagt, integrierte Materialien, Effekte oder Logos für Marken, Logos oder kommerzielle Kennzeichen Dritter zu verwenden (außer für Ihre eigenen urheberrechtlich geschützten Inhalte).",
+              "4.3 Sie dürfen diese Software nicht verwenden, um gewalttätige, pornografische, verleumderische, doxxing-, datenschutzverletzende, Spam- oder andere Inhalte zu veröffentlichen oder zu verbreiten, die gegen Gesetze oder die öffentliche Ordnung und die guten Sitten verstoßen.",
+              "4.4 Der Lizenzgeber hat das Recht, das Nutzerverhalten zu überwachen und zu überprüfen und kann bei Feststellung von Verstößen Korrekturmaßnahmen verlangen, Inhalte löschen, Dienste aussetzen oder beenden.",
+              "4.5 Besondere Funktionseinschränkungen",
+              "4.5.1 Kamera und Live-Streaming: Bevor Sie die Kamera-, Live-Streaming- oder Bildschirmaufnahmefunktionen verwenden, müssen Sie die ausdrückliche Zustimmung aller gefilmten oder aufgezeichneten Personen einholen. Es ist strengstens untersagt, diese Software für heimliches Fotografieren, heimliche Aufnahmen, illegales Live-Streaming oder andere illegale Handlungen zu verwenden. Sie tragen alle damit verbundenen Verantwortlichkeiten.",
+              "4.5.2 AI-Funktionen: Die geistigen Eigentumsrechte an den AI-Algorithmen, Modellen, Effekten und visuellen Materialien in dieser Software gehören dem Lizenzgeber oder kooperierenden Dritten. Sie dürfen sie nur für persönliche, nicht-kommerzielle, legale Kreationen verwenden. Es ist Ihnen untersagt, Deepfakes, gefälschte Audio-/Videoinhalte, Betrug oder illegale Inhalte zu erstellen.",
+              "4.5.3 Regionale Compliance: Sie müssen die regulatorischen Anforderungen Ihres Landes/Ihrer Region in Bezug auf Live-Streaming, Erfassung biometrischer Daten und AI-Inhalte strikt einhalten.",
+              "4.6 Wenn Ihr Verstoß dem Lizenzgeber Verluste verursacht, werden bezahlte Gebühren nicht erstattet, und Sie müssen den Lizenzgeber für alle wirtschaftlichen und reputationsbezogenen Verluste vollständig entschädigen."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Schutz personenbezogener Daten",
+            "paragraphs": [
+              "5.1 Wir verarbeiten Ihre personenbezogenen Daten streng nach der EU-DSGVO, dem britischen Datenschutzgesetz, der Hongkonger Verordnung zum Schutz personenbezogener Daten und den weltweit geltenden Datenschutzbestimmungen. Gemäß Artikel 27 der DSGVO haben wir lokale Compliance-Vertreter in der EU und im Vereinigten Königreich benannt. Konkrete Kontaktdaten finden Sie im Dokument \"DSGVO und Datenschutz\".",
+              "5.2 Sie stimmen zu, dass der Lizenzgeber personenbezogene Daten gemäß dieser Vereinbarung und der Datenschutzrichtlinie erheben, verwenden und speichern darf. Die Datenschutzrichtlinie hat dieselbe Rechtswirkung wie diese Vereinbarung.",
+              "5.3 Wir verwenden Sicherheitstechnologien wie Verschlüsselung und Anonymisierung, um Ihre personenbezogenen Daten vor Verlust, Manipulation und unbefugtem Zugriff zu schützen.",
+              "5.4 Ohne Ihre ausdrückliche Zustimmung geben wir Ihre personenbezogenen Daten nicht an Dritte weiter, außer in den folgenden Fällen:",
+              "(1) Sie selbst geben sie an Dritte weiter;",
+              "(2) Erforderlich für nationale Sicherheit, öffentliche Sicherheit, öffentliche Gesundheit und gesetzliche gerichtliche oder verwaltungsrechtliche Anforderungen;",
+              "(3) Zum Schutz der wesentlichen gesetzlichen Rechte und Interessen dieser Software, anderer Nutzer oder Dritter und in Übereinstimmung mit gesetzlichen Bestimmungen;",
+              "(4) Informationen, die aus legitimen öffentlichen Quellen stammen;",
+              "(5) Andere gesetzlich vorgeschriebene Umstände.",
+              "5.5 Sie haben das gesetzliche Recht, Auskunft, Berichtigung, Löschung und Widerruf der Einwilligung bezüglich Ihrer personenbezogenen Daten zu verlangen. Detaillierte Regeln zu personenbezogenen Daten finden Sie in der Datenschutzrichtlinie."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Beschwerden und Meldungen",
+            "paragraphs": [
+              "6.1 Sie können verstoßende Inhalte über den Client oder die offizielle Kontakt-E-Mail melden oder sich über rechtsverletzende Handlungen beschweren.",
+              "6.2 Wenn Ihre Rechte verletzt werden, können Sie einen Nachweis der Rechte einreichen, um eine Beschwerde einzureichen. Die beschwerte Partei kann einen Eigentumsnachweis einreichen, um Einspruch zu erheben.",
+              "6.3 Wir schließen die Überprüfung in der Regel innerhalb von 15 Arbeitstagen ab und geben Feedback. Bei komplexen Fällen informieren wir Sie über den Fortschritt."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Behandlung von Verstößen",
+            "paragraphs": [
+              "7.1 Wenn Sie gegen diese Vereinbarung, Plattformregeln oder lokale Gesetze und Vorschriften verstoßen, kann der Lizenzgeber Maßnahmen wie Verwarnungen, Funktionseinschränkungen, Inhaltslöschung, Dienstunterbrechung oder dauerhafte Kontosperrung ergreifen. Alle aus solchen Maßnahmen entstehenden Verluste tragen Sie, und gelöschte Inhalte und Daten werden nicht wiederhergestellt.",
+              "7.2 Wenn der Verdacht auf illegale oder kriminelle Aktivitäten besteht, wird der Lizenzgeber Beweise sichern und die Strafverfolgungsbehörden informieren und mit Ermittlungen kooperieren.",
+              "7.3 Wenn Ihr Verstoß dazu führt, dass der Lizenzgeber von Dritten in Anspruch genommen wird, Verwaltungsstrafen erleidet oder Reputations- oder wirtschaftliche Verluste erleidet, tragen Sie alle Verluste des Lizenzgebers."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Geistiges Eigentum",
+            "paragraphs": [
+              "8.1 Die geistigen Eigentumsrechte am Code, an der Benutzeroberfläche, an Texten, Bildern, Audio-/Videoinhalten, Effekten, Marken und Logos dieser Software gehören dem Lizenzgeber.",
+              "8.2 Der Lizenzgeber besitzt alle Rechte an den legitimen Daten und Informationen, die während des Betriebs des Produkts generiert werden.",
+              "8.3 Ohne ausdrückliche schriftliche Genehmigung des Lizenzgebers ist es Ihnen untersagt, die Marke \"VicastCam\", Marken, Domains, Logos usw. zu verwenden, zu kopieren, nachzuahmen oder zu registrieren. Wenn Sie durch unbefugte Nutzung Verluste verursachen, tragen Sie die volle rechtliche Verantwortung.",
+              "8.4 Diese Software enthält Softwarekomponenten, die unter Open-Source-Lizenzen und Lizenzen Dritter vertrieben werden. Sie müssen bei der Verwendung solcher Komponenten die entsprechenden Lizenzbedingungen strikt einhalten."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Bedingungen für Minderjährige",
+            "paragraphs": [
+              "9.1 Minderjährige müssen vor der Nutzung dieser Software die ausdrückliche Zustimmung ihres gesetzlichen Vormunds einholen und sie unter Aufsicht des Vormunds nutzen. Vormünder haben das Recht, die Einschränkung oder Löschung des Kontos eines minderjährigen Nutzers zu verlangen.",
+              "9.2 Der Lizenzgeber erhebt personenbezogene Daten minderjähriger Nutzer sorgfältig. Vormünder sollten Minderjährige anleiten, ihre persönliche Privatsphäre und Netzwerksicherheit zu schützen.",
+              "9.3 Vormünder sollten ihre Aufsichtspflichten gemäß dem Gesetz erfüllen, Minderjährige zu einer gesunden Internetnutzung anleiten und Internetsucht verhindern.",
+              "9.4 Minderjährige und ihre Vormünder sind rechtlich für alle Handlungen und Konsequenzen der Nutzung durch den Minderjährigen verantwortlich.",
+              "9.5 Minderjährige dürfen die Kamera nicht für Live-Streaming verwenden oder allein in Videos erscheinen und keine illegalen oder vulgären Inhalte veröffentlichen.",
+              "9.6 Wenn der Lizenzgeber feststellt, dass ein Minderjähriger die Software ohne Zustimmung des Vormunds nutzt, hat er das Recht, das entsprechende Konto direkt einzuschränken oder zu sperren.",
+              "9.7 Vormünder sollten Zahlungskonten und Passwörter sicher aufbewahren, um unbefugte Belastungen durch Minderjährige zu vermeiden. Bei Fragen kontaktieren Sie bitte den offiziellen Kundendienst."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Haftungsausschluss",
+            "paragraphs": [
+              "10.1 Sie erkennen ausdrücklich an und stimmen zu, dass Ihre Nutzung dieser Anwendung auf eigenes Risiko erfolgt. Soweit gesetzlich zulässig, wird diese Anwendung und alle von ihr ausgeführten oder bereitgestellten Dienste \"wie besehen\" und \"wie verfügbar\" mit allen Fehlern und ohne jegliche Gewährleistung bereitgestellt, und der Lizenzgeber lehnt hiermit alle Gewährleistungen und Bedingungen in Bezug auf diese Anwendung und alle Dienste ab, sei es ausdrücklich, stillschweigend oder gesetzlich, einschließlich, aber nicht beschränkt auf die stillschweigenden Gewährleistungen und/oder Bedingungen der Marktgängigkeit, zufriedenstellenden Qualität, Eignung für einen bestimmten Zweck, Genauigkeit, ungestörten Nutzung und Nichtverletzung von Rechten Dritter. Keine mündlichen oder schriftlichen Informationen oder Ratschläge des Lizenzgebers oder seiner autorisierten Vertreter schaffen eine Gewährleistung. Wenn diese Anwendung oder Dienste fehlerhaft sind, übernehmen Sie die gesamten Kosten für alle notwendigen Wartungs-, Reparatur- oder Korrekturarbeiten. Einige Rechtsordnungen erlauben den Ausschluss stillschweigender Gewährleistungen oder Einschränkungen gesetzlicher Verbraucherrechte nicht, daher gelten die obigen Ausschlüsse und Einschränkungen möglicherweise nicht für Sie.",
+              "10.2 Der Lizenzgeber wird branchenübliche Sicherheitstechnologien einsetzen, um einen stabilen Betrieb der Dienste zu gewährleisten. Soweit gesetzlich zulässig, haftet der Lizenzgeber nicht für Schäden durch Dienstunterbrechungen oder vorübergehende Datenanomalien, die durch höhere Gewalt, Naturkatastrophen, Kriege, staatliche Verbote, Netzwerkausfälle, Systemwartung, Hackerangriffe, Viren, Ausfälle von Diensten Dritter, Geräteanomalien oder andere Faktoren außerhalb der Kontrolle des Lizenzgebers verursacht werden.",
+              "10.3 Wenn Dienste aufgrund von Systemwartung, Versionsupgrades, Compliance-Korrekturen oder Geschäftsanpassungen ausgesetzt oder beendet werden, werden wir angemessene Vorankündigungen über In-App-Ankündigungen und die offizielle Website machen.",
+              "10.4 Wenn Ihr Gerät beschädigt wird oder Daten durch eigene Bedienungsfehler, Gerätefehler, falsche Netzwerkeinstellungen oder unsachgemäße Verwendung dieser Software verloren gehen, tragen Sie alle Verluste.",
+              "10.5 Wir haben das Recht, Servicefunktionen anzupassen, Serviceinhalte zu ändern oder Serverdaten basierend auf legitimen Betriebs-, Systemsicherheits-, Compliance-Korrekturen und anderen Gründen zu bereinigen. Wir werden Nutzerdaten nicht ohne Grund löschen.",
+              "10.6 Haftungsbeschränkung",
+              "Soweit gesetzlich nicht verboten, haftet der Lizenzgeber in keinem Fall für Personenschäden oder zufällige, besondere, indirekte oder Folgeschäden, einschließlich, aber nicht beschränkt auf Gewinnverluste, Datenverluste, Geschäftsunterbrechungen oder andere kommerzielle Schäden oder Verluste, die sich aus oder im Zusammenhang mit Ihrer Nutzung oder Unfähigkeit zur Nutzung der lizenzierten Anwendung ergeben, unabhängig von der Haftungstheorie (Vertrag, unerlaubte Handlung oder sonst), selbst wenn der Lizenzgeber auf die Möglichkeit solcher Schäden hingewiesen wurde. Einige Rechtsordnungen erlauben die Beschränkung der Haftung für Personenschäden oder zufällige oder Folgeschäden nicht, daher gilt diese Beschränkung möglicherweise nicht für Sie.",
+              "Sofern nicht zwingende Bestimmungen des lokalen Rechts zu Personenschäden etwas anderes vorsehen, übersteigt die Gesamthaftung des Lizenzgebers für alle Schäden nicht 1 US-Dollar (USD 1,00). Die obigen Beschränkungen gelten auch dann, wenn der oben genannte Rechtsbehelf seinen wesentlichen Zweck verfehlt.",
+              "Für Rechtsordnungen wie die Europäische Union, den Europäischen Wirtschaftsraum und das Vereinigte Königreich gilt diese Haftungsbeschränkungsklausel streng nach den lokalen Verbraucherschutzgesetzen."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Sonstiges",
+            "paragraphs": [
+              "11.1 Anwendbares Recht",
+              "Diese Vereinbarung und die Beziehung zwischen Ihnen und dem Lizenzgeber unterliegen den Gesetzen der Sonderverwaltungsregion Hongkong der Volksrepublik China, unter Ausschluss der Kollisionsnormen. Das Übereinkommen der Vereinten Nationen über Verträge über den internationalen Warenkauf findet auf diese Vereinbarung keine Anwendung.",
+              "11.2 Streitbeilegung",
+              "Jede Streitigkeit, die sich aus oder im Zusammenhang mit dieser Vereinbarung ergibt, wird zunächst durch freundschaftliche Verhandlungen beigelegt. Wenn die Verhandlungen scheitern, vereinbaren Sie und der Lizenzgeber, die Streitigkeit den Gerichten mit Zuständigkeit in der Sonderverwaltungsregion Hongkong der Volksrepublik China zu unterbreiten.",
+              "Wenn Sie Einwohner eines EU-Mitgliedstaats sind, berührt diese Gerichtsstandsklausel nicht Ihre gesetzlichen Rechte nach zwingenden lokalen Verbraucherschutzgesetzen.",
+              "11.3 Änderungen der Vereinbarung",
+              "Der Lizenzgeber hat das Recht, diese Vereinbarung während des Produkttests und des regulären Betriebs zu ändern und wird Änderungen über angemessene Mittel wie In-App-Ankündigungen und die offizielle Website veröffentlichen. Nach der Veröffentlichung werden geänderte Bedingungen ein wirksamer Teil dieser Vereinbarung und haben dieselbe Rechtswirkung.",
+              "11.4 Verhältnis der Parteien",
+              "Sie und der Lizenzgeber sind unabhängige Rechtssubjekte. Diese Vereinbarung begründet kein Rechtsverhältnis wie Vertretung, Partnerschaft, Arbeitsverhältnis, Vereinigung oder Joint Venture. Apple Inc. und Google LLC sind nur Vertriebs- und Zahlungskanäle für diese Software und beteiligen sich nicht an der Entwicklung oder dem Betrieb dieser Software und übernehmen keine rechtliche Verantwortung für diese Software oder ihre Dienste.",
+              "11.5 Wirksamkeit und Beendigung",
+              "Diese Vereinbarung tritt an dem Tag in Kraft, an dem Sie den Bedingungen zustimmen und ein Konto registrieren. Sie endet, wenn der Lizenzgeber die Dienste beendet oder Sie das Recht zur Nutzung der Software verlieren. Nach der Beendigung bleiben Ihre Verpflichtungen und Verbindlichkeiten während der Nutzungsdauer bestehen.",
+              "11.6 Überschriften",
+              "Die Überschriften der Abschnitte in dieser Vereinbarung dienen nur der Bequemlichkeit und beeinflussen nicht die Auslegung oder Anwendung der Bedingungen.",
+              "11.7 Urheberrechts- und Rechtehinweis",
+              "Das Urheberrecht am Text dieser Vereinbarung gehört dem Lizenzgeber. Der Lizenzgeber hat das Recht, die Vereinbarung gemäß Gesetzen, Vorschriften und Geschäftsanforderungen zu ändern und sie rechtmäßig auszulegen."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

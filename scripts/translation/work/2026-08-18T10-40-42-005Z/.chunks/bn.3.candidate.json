@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "কম্পিউটার সেটআপ",
+      "count": "৭টি পাঠ",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "VicastCam দিয়ে শুরু করুন",
+          "description": "ইন্টারফেস এবং মূল ফিচারগুলোর একটি উচ্চ-স্তরের ওভারভিউ।",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "ওয়্যার্ড সংযোগ – iPhone",
+          "description": "ওয়্যার্ড সংযোগ ব্যবহার করে আপনার iPhone-কে VicastCam-এর সাথে যুক্ত করুন।",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "ওয়্যারলেস সংযোগ – iPhone",
+          "description": "Wi-Fi-এর মাধ্যমে আপনার iPhone-কে VicastCam-এর সাথে যুক্ত করুন।",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "ওয়্যার্ড সংযোগ – Android",
+          "description": "ওয়্যার্ড সংযোগ ব্যবহার করে আপনার Android ডিভাইসকে VicastCam-এর সাথে যুক্ত করুন।",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "ওয়্যারলেস সংযোগ – Android",
+          "description": "Wi-Fi-এর মাধ্যমে আপনার Android ডিভাইসকে VicastCam-এর সাথে যুক্ত করুন।",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "লোকাল মিডিয়া যোগ করা এবং ব্যবহার করা",
+          "description": "আপনার প্রজেক্টে লোকাল মিডিয়া ফাইল ইমপোর্ট এবং ব্যবহার করুন।",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "সংযোগের পরে কী করবেন",
+          "description": "ডিভাইস সংযুক্ত হয়ে গেলে আপনার স্ট্রিম চালু করুন।",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Historique des achats",
+    "title": "Historique des achats",
+    "tabTitle": "Achats",
+    "exchangeTabTitle": "Échanges",
+    "tableHeaders": {
+      "title": "Type",
+      "date": "Date de paiement",
+      "price": "Montant",
+      "paymentMethod": "Moyen de paiement",
+      "status": "Statut",
+      "exchangeDate": "Date d'échange",
+      "exchangeCode": "Code d'échange"
+    },
+    "exchangeTableHeaders": {
+      "date": "Date d'échange",
+      "code": "Code d'échange"
+    },
+    "cardTypes": {
+      "month": "Carte mensuelle",
+      "year": "Carte annuelle",
+      "life": "Carte à vie",
+      "default": "Carte de membre"
+    },
+    "orderStatuses": {
+      "pending": "En attente de paiement",
+      "paid": "Payé",
+      "closed": "Clôturé",
+      "refunded": "Remboursé",
+      "unknown": "Inconnu"
+    },
+    "secretLabels": {
+      "show": "Afficher le mot de passe",
+      "hide": "Masquer le mot de passe"
+    },
+    "secretMask": "******",
+    "emptyText": "Aucun achat pour le moment",
+    "exchangeEmptyText": "Aucun échange pour le moment",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Carte bancaire",
+      "creditcard": "Carte de crédit",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Cryptomonnaie",
+      "balance": "Solde",
+      "free": "Gratuit"
+    }
+  },
+  "team": {
+    "ariaLabel": "Mon équipe",
+    "title": "Mon équipe",
+    "referrerLabel": "Mon parrain",
+    "levelOne": "Membres de niveau 1",
+    "levelTwo": "Membres de niveau 2",
+    "tableHeaders": {
+      "name": "Nom du membre",
+      "status": "Statut d'adhésion",
+      "joinedAt": "Date d'inscription"
+    },
+    "memberStatus": {
+      "free": "Utilisateur gratuit",
+      "vip": "Utilisateur VIP"
+    },
+    "emptyMemberName": "Utilisateur sans nom",
+    "emptyReferrer": "Aucun parrain",
+    "emptyTeam": "Aucun membre dans l'équipe pour le moment",
+    "errors": {
+      "loadFail": "Échec du chargement des membres de l'équipe. Veuillez réessayer plus tard."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Centre de revenus",
+    "title": "Aperçu des revenus",
+    "commissionTitle": "Détails des commissions",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Revenus totaux",
+        "desc": "Total des commissions gagnées à ce jour"
+      },
+      {
+        "key": "month",
+        "title": "Ce mois-ci",
+        "desc": "Commissions gagnées ce mois-ci"
+      },
+      {
+        "key": "settling",
+        "title": "En attente de règlement",
+        "value": "0.00",
+        "desc": "Montant en attente de règlement"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Retirable",
+        "desc": "Montant actuellement disponible pour retrait",
+        "action": "Retirer"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nom d'utilisateur",
+      "saleTime": "Date de vente",
+      "goodsInfo": "Produit",
+      "commission": "Commission"
+    },
+    "emptyCommission": "Aucune commission pour le moment",
+    "errors": {
+      "loadFail": "Échec du chargement des détails des commissions. Veuillez réessayer plus tard."
+    },
+    "withdraw": {
+      "ariaLabel": "Demande de retrait",
+      "title": "Demande de retrait",
+      "closeLabel": "Fermer la boîte de dialogue de retrait",
+      "balanceLabel": "Solde retirable",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Montant du retrait",
+      "amountPlaceholder": "Saisissez le montant du retrait",
+      "allButton": "Tout",
+      "allAmountValue": "0.00",
+      "amountTip": "Veuillez vérifier que le montant est correct. Votre demande sera examinée manuellement après soumission.",
+      "methodLabel": "Méthode de retrait",
+      "methods": [
+        "Carte bancaire",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Carte bancaire",
+      "nameLabel": "Nom du bénéficiaire",
+      "namePlaceholder": "Saisissez le nom du bénéficiaire",
+      "defaultName": "",
+      "bankCardLabel": "Numéro de compte",
+      "bankCardPlaceholder": "Saisissez le numéro de carte bancaire, l'e-mail PayPal ou l'adresse du portefeuille",
+      "remarkLabel": "Remarques",
+      "remarkPlaceholder": "Ajoutez des notes supplémentaires",
+      "note": "Les demandes de retrait sont traitées sous 1 à 3 jours ouvrés.",
+      "cancelButton": "Annuler",
+      "submitButton": "Soumettre la demande"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Échange réussi",
+    "operationFailed": "Échec de l'échange",
+    "invalidCard": "Code d'échange invalide",
+    "cardNotFound": "Code d'échange introuvable",
+    "cardDisabled": "Code d'échange désactivé",
+    "cardExpired": "Code d'échange expiré"
+  },
+  "successMessage": "Opération réussie"
+}

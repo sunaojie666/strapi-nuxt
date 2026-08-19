@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Trung tâm hướng dẫn",
+          "titleMain": "Bắt đầu hành trình",
+          "titleHighlight": "học VicastCam",
+          "descriptionMain": "Làm chủ mọi tính năng của phần mềm",
+          "descriptionHighlight": "Nhanh chóng bắt đầu sử dụng"
+        },
+        "player": {
+          "sectionAriaLabel": "Danh sách hướng dẫn",
+          "catalogAriaLabel": "Danh mục hướng dẫn",
+          "previousLabel": "Trước",
+          "nextLabel": "Tiếp theo",
+          "firstLessonText": "Bạn đang ở bài học đầu tiên",
+          "lastLessonText": "Bạn đang ở bài học cuối cùng",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Bắt đầu",
+            "count": "11 bài học",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Tạo phòng thu ảo đầu tiên của bạn",
+                "description": "Thiết lập và cấu hình phòng thu ảo đầu tiên của bạn từ đầu.",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Hiểu về công cụ hình ảnh",
+                "description": "Khám phá những điều cơ bản về công cụ hình ảnh và các trường hợp sử dụng phổ biến của chúng.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Làm việc với các lớp",
+                "description": "Làm quen với bảng Layers và cách quản lý các lớp hiệu quả.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Sử dụng lớp nền",
+                "description": "Tìm hiểu cách thêm và điều chỉnh lớp nền cho cảnh của bạn.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Sử dụng lớp chân dung",
+                "description": "Thêm lớp chân dung để nâng cao sản xuất trực tiếp của bạn.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Sử dụng lớp hình ảnh",
+                "description": "Thêm và chỉnh sửa lớp hình ảnh trong thiết lập phòng thu của bạn.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Sử dụng lớp video",
+                "description": "Thêm video clip và kiểm soát cài đặt phát lại.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Sử dụng lớp hiệu ứng",
+                "description": "Áp dụng hiệu ứng hình ảnh cho luồng trực tiếp của bạn bằng lớp hiệu ứng.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Sử dụng lớp phụ đề",
+                "description": "Tạo phụ đề và tùy chỉnh giao diện của chúng.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "Sử dụng hình đại diện ảo",
+                "description": "Thổi hồn vào luồng trực tiếp của bạn với tích hợp hình đại diện ảo.",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "Sử dụng cảnh",
+                "description": "Chuyển đổi giữa các bố cục cảnh khác nhau một cách liền mạch trong luồng trực tiếp của bạn.",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Hướng dẫn nâng cao",
+            "count": "6 bài học",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Sử dụng lớp chuyển động camera",
+                "description": "Tạo các cảnh quay động với lớp chuyển động camera.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Sử dụng hoạt ảnh đường dẫn",
+                "description": "Kiểm soát đường chuyển động của phần tử bằng tính năng quỹ đạo.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Sử dụng lớp đa camera",
+                "description": "Thiết lập lớp đa camera để chuyển đổi góc quay nhanh chóng.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Sử dụng bộ điều khiển",
+                "description": "Quản lý toàn bộ chương trình phát sóng của bạn từ một bảng điều khiển duy nhất.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Thiết lập và trộn âm thanh",
+                "description": "Cấu hình đầu vào, đầu ra và cài đặt trộn âm thanh.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Sao lưu và khôi phục",
+                "description": "Sao lưu cấu hình phòng thu của bạn và khôi phục khi cần.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "Cài đặt trên máy tính",
+            "count": "7 bài học",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "Bắt đầu với VicastCam",
+                "description": "Tổng quan về giao diện và các tính năng chính.",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "Kết nối có dây – iPhone",
+                "description": "Kết nối iPhone với VicastCam bằng cáp.",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "Kết nối không dây – iPhone",
+                "description": "Kết nối iPhone với VicastCam qua Wi-Fi.",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "Kết nối có dây – Android",
+                "description": "Kết nối thiết bị Android với VicastCam bằng cáp.",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "Kết nối không dây – Android",
+                "description": "Kết nối thiết bị Android với VicastCam qua Wi-Fi.",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "Thêm và sử dụng phương tiện cục bộ",
+                "description": "Nhập và sử dụng các tệp phương tiện cục bộ trong dự án của bạn.",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "Việc cần làm sau khi kết nối",
+                "description": "Bắt đầu phát trực tiếp ngay sau khi kết nối thiết bị.",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

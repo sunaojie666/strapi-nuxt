@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "계정 센터",
+            "description": "VicastCam 계정 센터 페이지"
+          },
+          "common": {
+            "sidebarAriaLabel": "계정 내비게이션",
+            "defaultProfileName": "사용자",
+            "emptyContent": "콘텐츠 없음",
+            "copyButtonLabel": "복사",
+            "monthSelectLabel": "월 선택",
+            "yearSuffix": "년",
+            "monthSuffix": "월",
+            "userMissing": "사용자 정보를 찾을 수 없습니다. 다시 로그인해 주세요.",
+            "paginationLabel": "페이지네이션",
+            "previousPageLabel": "이전 페이지",
+            "nextPageLabel": "다음 페이지",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "이동",
+              "unit": "페이지",
+              "ariaLabel": "특정 페이지로 이동",
+              "buttonLabel": "이동"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "계정 센터",
+            "logout": "로그아웃",
+            "profileAriaSuffix": "계정 메뉴"
+          },
+          "sidebar": {
+            "ariaLabel": "계정 내비게이션",
+            "menus": {
+              "account": "계정 정보",
+              "membership": "멤버십",
+              "redeem": "코드 사용",
+              "purchaseHistory": "구매 내역",
+              "team": "내 팀",
+              "earnings": "수익"
+            }
+          },
+          "account": {
+            "ariaLabel": "계정 정보",
+            "profileTitle": "계정 정보",
+            "usernameLabel": "사용자 이름",
+            "passwordLabel": "비밀번호",
+            "passwordMask": "********",
+            "defaultUsername": "닉네임 없음",
+            "emailLabel": "연동 이메일",
+            "emailPlaceholder": "이메일 입력",
+            "codePlaceholder": "인증 코드 입력",
+            "sendCodeButton": "인증 코드 받기",
+            "bindButton": "이메일 연동",
+            "alreadyBound": "연동됨",
+            "unboundEmail": "연동 안 됨",
+            "emailBindTip": "연동 후에는 이메일을 변경할 수 없습니다. 이메일 주소가 올바른지 확인하세요.",
+            "emailRequired": "유효한 이메일을 입력하세요",
+            "codeRequired": "인증 코드를 입력하세요",
+            "codeSent": "인증 코드가 전송되었습니다. 이메일을 확인하세요.",
+            "bindSuccess": "이메일 연동 성공",
+            "bindFailed": "이메일 연동 실패. 코드를 확인하고 다시 시도하세요.",
+            "requestFailed": "요청 실패. 나중에 다시 시도하세요.",
+            "inviteTitle": "초대 링크",
+            "inviteDescription": "개인 초대 링크를 복사하세요. 친구가 가입하고 멤버십을 구매하면 보상을 받을 수 있습니다.",
+            "emptyInviteLink": "사용 가능한 초대 링크 없음"
+          },
+          "membership": {
+            "ariaLabel": "멤버십",
+            "title": "내 멤버십",
+            "badgeAlt": "멤버십 배지",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "무료 사용자",
+            "activeVipName": "VIP 멤버",
+            "expirePrefix": "만료일",
+            "emptyExpireDate": "미활성화",
+            "activeStatus": "활성",
+            "inactiveStatus": "비활성",
+            "compareTitle": "요금제 비교",
+            "compareHeaders": {
+              "feature": "기능",
+              "normal": "무료",
+              "month": "월간",
+              "year": "연간",
+              "life": "평생"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "월간",
+                "subtitle": "단기 사용에 적합",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/월",
+                "cta": "시작하기",
+                "benefits": [
+                  "핵심 가상 카메라 기능",
+                  "가상 배경 및 뷰티 기능",
+                  "멀티 플랫폼 라이브 스트리밍",
+                  "표준 업데이트"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "연간",
+                "subtitle": "장기 사용에 더 나은 가치",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/년",
+                "cta": "시작하기",
+                "benefits": [
+                  "월간 플랜의 모든 기능",
+                  "1년간 모든 프리미엄 기능",
+                  "우선 기능 업데이트",
+                  "전담 멤버 지원"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "평생",
+                "subtitle": "한 번 결제로 평생 사용",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/평생",
+                "cta": "시작하기",
+                "benefits": [
+                  "연간 플랜의 모든 기능",
+                  "평생 프리미엄 기능",
+                  "장기 업데이트",
+                  "전용 지원 채널"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "멤버십 기간",
+                "normal": "무료 평생",
+                "month": "30일",
+                "year": "365일",
+                "life": "평생"
+              },
+              {
+                "feature": "데스크톱 가상 카메라",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "커스텀 가상 배경",
+                "normal": "1세트",
+                "month": "무제한",
+                "year": "무제한",
+                "life": "무제한"
+              },
+              {
+                "feature": "스트리밍 프리셋",
+                "normal": "없음",
+                "month": "무제한",
+                "year": "무제한",
+                "life": "무제한"
+              },
+              {
+                "feature": "공식 에셋",
+                "normal": "제한",
+                "month": "무제한",
+                "year": "무제한",
+                "life": "무제한"
+              },
+              {
+                "feature": "컨트롤러 원격 제어",
+                "normal": "지원",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "장면 비교 모드",
+                "normal": "지원",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "장면 자막",
+                "normal": "제한",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "장면 음악",
+                "normal": "제한",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "멀티 카메라 입력",
+                "normal": "없음",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "고급 뷰티 필터",
+                "normal": "기본",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "AI 그린 스크린 매팅",
+                "normal": "지원",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "모션 트래킹 애니메이션",
+                "normal": "제한",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "장면 카메라 효과",
+                "normal": "제한",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "VIP 효과 라이브러리",
+                "normal": "제한",
+                "month": "무제한",
+                "year": "무제한",
+                "life": "무제한"
+              },
+              {
+                "feature": "플랫폼 스트리밍",
+                "normal": "지원",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "4K 출력",
+                "normal": "없음",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              },
+              {
+                "feature": "추천인 커미션 비율",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "하위 제휴 리베이트",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "지원 채널",
+                "normal": "커뮤니티 자가 지원",
+                "month": "일반 대기열",
+                "year": "우선 응답",
+                "life": "전담 지원"
+              },
+              {
+                "feature": "신규 기능 조기 액세스",
+                "normal": "없음",
+                "month": "지원",
+                "year": "지원",
+                "life": "지원"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "코드 사용",
+            "title": "코드 사용",
+            "tip": "멤버십 사용 코드를 입력하세요. 사용 즉시 멤버십이 활성화됩니다.",
+            "placeholder": "사용 코드 입력",
+            "submitButton": "사용",
+            "agreementPrefix": "사용 시",
+            "userProtocolText": "이용약관",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "사용에 실패했습니다. 코드를 확인하고 다시 시도하세요."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "구매 내역",
+            "title": "구매 내역",
+            "tabTitle": "구매",
+            "exchangeTabTitle": "교환",
+            "tableHeaders": {
+              "title": "유형",
+              "date": "결제 시간",
+              "price": "금액",
+              "paymentMethod": "결제 수단",
+              "status": "상태",
+              "exchangeDate": "교환 시간",
+              "exchangeCode": "교환 코드"
+            },
+            "exchangeTableHeaders": {
+              "date": "교환 시간",
+              "code": "교환 코드"
+            },
+            "cardTypes": {
+              "month": "월간 카드",
+              "year": "연간 카드",
+              "life": "평생 카드",
+              "default": "멤버십 카드"
+            },
+            "orderStatuses": {
+              "pending": "결제 대기",
+              "paid": "결제 완료",
+              "closed": "마감",
+              "refunded": "환불됨",
+              "unknown": "알 수 없음"
+            },
+            "secretLabels": {
+              "show": "비밀번호 표시",
+              "hide": "비밀번호 숨기기"
+            },
+            "secretMask": "******",
+            "emptyText": "아직 구매 기록이 없습니다",
+            "exchangeEmptyText": "아직 교환 기록이 없습니다",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "은행 카드",
+              "creditcard": "신용 카드",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "암호화폐",
+              "balance": "잔액",
+              "free": "무료"
+            }
+          },
+          "team": {
+            "ariaLabel": "내 팀",
+            "title": "내 팀",
+            "referrerLabel": "내 추천인",
+            "levelOne": "1레벨 멤버",
+            "levelTwo": "2레벨 멤버",
+            "tableHeaders": {
+              "name": "멤버 이름",
+              "status": "멤버십 상태",
+              "joinedAt": "가입 시간"
+            },
+            "memberStatus": {
+              "free": "무료 사용자",
+              "vip": "VIP 사용자"
+            },
+            "emptyMemberName": "이름 없는 사용자",
+            "emptyReferrer": "추천인 없음",
+            "emptyTeam": "아직 팀 멤버가 없습니다",
+            "errors": {
+              "loadFail": "팀 멤버를 불러오지 못했습니다. 나중에 다시 시도해 주세요."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "수익 센터",
+            "title": "수익 개요",
+            "commissionTitle": "커미션 상세",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "총 수익",
+                "desc": "현재까지 적립된 총 커미션"
+              },
+              {
+                "key": "month",
+                "title": "이번 달",
+                "desc": "이번 달 적립된 커미션"
+              },
+              {
+                "key": "settling",
+                "title": "정산 대기",
+                "value": "0.00",
+                "desc": "정산 대기 중인 금액"
+              },
+              {
+                "key": "withdrawable",
+                "title": "출금 가능",
+                "desc": "현재 출금 가능한 금액",
+                "action": "출금"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "사용자 이름",
+              "saleTime": "판매 시간",
+              "goodsInfo": "상품",
+              "commission": "커미션"
+            },
+            "emptyCommission": "아직 커미션 기록이 없습니다",
+            "errors": {
+              "loadFail": "커미션 상세를 불러오지 못했습니다. 나중에 다시 시도해 주세요."
+            },
+            "withdraw": {
+              "ariaLabel": "출금 요청",
+              "title": "출금 요청",
+              "closeLabel": "출금 대화상자 닫기",
+              "balanceLabel": "출금 가능 잔액",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "출금 금액",
+              "amountPlaceholder": "출금 금액 입력",
+              "allButton": "전체",
+              "allAmountValue": "0.00",
+              "amountTip": "금액이 올바른지 확인해 주세요. 제출 후 요청은 수동으로 검토됩니다.",
+              "methodLabel": "출금 방법",
+              "methods": [
+                "은행 카드",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "은행 카드",
+              "nameLabel": "수취인 이름",
+              "namePlaceholder": "수취인 이름 입력",
+              "defaultName": "",
+              "bankCardLabel": "계좌 번호",
+              "bankCardPlaceholder": "은행 카드 번호, PayPal 이메일 또는 지갑 주소 입력",
+              "remarkLabel": "비고",
+              "remarkPlaceholder": "추가 메모 입력",
+              "note": "출금 요청은 1-3 영업일 내에 처리됩니다.",
+              "cancelButton": "취소",
+              "submitButton": "요청 제출"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "교환 성공",
+            "operationFailed": "교환 실패",
+            "invalidCard": "잘못된 교환 코드",
+            "cardNotFound": "교환 코드를 찾을 수 없음",
+            "cardDisabled": "교환 코드가 비활성화됨",
+            "cardExpired": "교환 코드가 만료됨"
+          },
+          "successMessage": "작업 성공"
+        }
+      }
+    }
+  ]
+}

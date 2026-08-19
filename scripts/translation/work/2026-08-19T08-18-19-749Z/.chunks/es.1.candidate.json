@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Centro de cuenta",
+    "description": "Página del Centro de cuenta de VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Navegación de cuenta",
+    "defaultProfileName": "Usuario",
+    "emptyContent": "Sin contenido",
+    "copyButtonLabel": "Copiar",
+    "monthSelectLabel": "Seleccionar mes",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "No se encontró la información del usuario. Inicia sesión de nuevo.",
+    "paginationLabel": "Paginación",
+    "previousPageLabel": "Página anterior",
+    "nextPageLabel": "Página siguiente",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Ir a",
+      "unit": "página",
+      "ariaLabel": "Ir a una página específica",
+      "buttonLabel": "Ir"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Centro de cuenta",
+    "logout": "Cerrar sesión",
+    "profileAriaSuffix": "Menú de cuenta"
+  },
+  "sidebar": {
+    "ariaLabel": "Navegación de cuenta",
+    "menus": {
+      "account": "Información de cuenta",
+      "membership": "Membresía",
+      "redeem": "Canjear código",
+      "purchaseHistory": "Historial de compras",
+      "team": "Mi equipo",
+      "earnings": "Ganancias"
+    }
+  },
+  "account": {
+    "ariaLabel": "Información de cuenta",
+    "profileTitle": "Información de cuenta",
+    "usernameLabel": "Nombre de usuario",
+    "passwordLabel": "Contraseña",
+    "passwordMask": "********",
+    "defaultUsername": "Sin apodo",
+    "emailLabel": "Correo vinculado",
+    "emailPlaceholder": "Introduce tu correo",
+    "codePlaceholder": "Introduce el código de verificación",
+    "sendCodeButton": "Obtener código",
+    "bindButton": "Vincular correo",
+    "alreadyBound": "Vinculado",
+    "unboundEmail": "No vinculado",
+    "emailBindTip": "Una vez vinculado, el correo no se puede cambiar. Verifica que la dirección sea correcta.",
+    "emailRequired": "Introduce un correo válido",
+    "codeRequired": "Introduce el código de verificación",
+    "codeSent": "Código de verificación enviado. Revisa tu correo.",
+    "bindSuccess": "Correo vinculado correctamente",
+    "bindFailed": "No se pudo vincular el correo. Revisa el código e inténtalo de nuevo.",
+    "requestFailed": "Error en la solicitud. Inténtalo de nuevo más tarde.",
+    "inviteTitle": "Enlace de invitación",
+    "inviteDescription": "Copia tu enlace de invitación personal. Cuando tus amigos se registren y compren una membresía, obtendrás recompensas.",
+    "emptyInviteLink": "No hay enlace de invitación disponible"
+  }
+}

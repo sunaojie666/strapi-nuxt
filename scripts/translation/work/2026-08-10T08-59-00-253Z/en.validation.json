@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "locale": "en",
+  "contentType": "support",
+  "sourceHash": "ec73ee25b97ca19ff090401c7d163042e20e9c004881b8cfc4a833a3b0be6e71",
+  "translationHash": "98e4a85400073fb8d25842584fbeb8f7d2c3ad872d8464434a172c3b78d82b20",
+  "status": "machine-reviewed",
+  "requiresHumanReview": false,
+  "issues": [
+    {
+      "path": "$",
+      "code": "glossary-term-missing",
+      "severity": "warning",
+      "message": "Expected approved English term: screen casting"
+    }
+  ],
+  "checkedAt": "2026-08-10T08:59:59.926Z"
+}

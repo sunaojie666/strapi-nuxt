@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "خریداری کی تاریخ",
+    "title": "خریداری کی تاریخ",
+    "tabTitle": "خریداریاں",
+    "exchangeTabTitle": "ریڈمپشنز",
+    "tableHeaders": {
+      "title": "قسم",
+      "date": "ادائیگی کا وقت",
+      "price": "رقم",
+      "paymentMethod": "ادائیگی کا طریقہ",
+      "status": "حالت",
+      "exchangeDate": "ریڈمپشن کا وقت",
+      "exchangeCode": "ریڈمپشن کوڈ"
+    },
+    "exchangeTableHeaders": {
+      "date": "ریڈمپشن کا وقت",
+      "code": "ریڈمپشن کوڈ"
+    },
+    "cardTypes": {
+      "month": "ماہانہ کارڈ",
+      "year": "سالانہ کارڈ",
+      "life": "لائف ٹائم کارڈ",
+      "default": "ممبرشپ کارڈ"
+    },
+    "orderStatuses": {
+      "pending": "ادائیگی زیر التوا",
+      "paid": "ادا شدہ",
+      "closed": "بند",
+      "refunded": "رقم واپس",
+      "unknown": "نامعلوم"
+    },
+    "secretLabels": {
+      "show": "پاس ورڈ دکھائیں",
+      "hide": "پاس ورڈ چھپائیں"
+    },
+    "secretMask": "******",
+    "emptyText": "ابھی تک کوئی خریداری ریکارڈ نہیں",
+    "exchangeEmptyText": "ابھی تک کوئی ریڈمپشن ریکارڈ نہیں",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "بینک کارڈ",
+      "creditcard": "کریڈٹ کارڈ",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "کرپٹو کرنسی",
+      "balance": "بیلنس",
+      "free": "مفت"
+    }
+  },
+  "team": {
+    "ariaLabel": "میری ٹیم",
+    "title": "میری ٹیم",
+    "referrerLabel": "میرا ریفرر",
+    "levelOne": "لیول 1 ممبران",
+    "levelTwo": "لیول 2 ممبران",
+    "tableHeaders": {
+      "name": "ممبر کا نام",
+      "status": "ممبرشپ کی حالت",
+      "joinedAt": "شامل ہونے کا وقت"
+    },
+    "memberStatus": {
+      "free": "مفت صارف",
+      "vip": "VIP صارف"
+    },
+    "emptyMemberName": "بغیر نام کا صارف",
+    "emptyReferrer": "کوئی ریفرر نہیں",
+    "emptyTeam": "ابھی تک کوئی ٹیم ممبر نہیں",
+    "errors": {
+      "loadFail": "ٹیم ممبران لوڈ کرنے میں ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "آمدنی کا مرکز",
+    "title": "آمدنی کا جائزہ",
+    "commissionTitle": "کمیشن کی تفصیلات",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "کل آمدنی",
+        "desc": "آج تک حاصل کردہ کل کمیشن"
+      },
+      {
+        "key": "month",
+        "title": "اس ماہ",
+        "desc": "اس ماہ حاصل کردہ کمیشن"
+      },
+      {
+        "key": "settling",
+        "title": "زیر التوا تصفیہ",
+        "value": "0.00",
+        "desc": "زیر التوا تصفیہ کی رقم"
+      },
+      {
+        "key": "withdrawable",
+        "title": "نکلوانے کے قابل",
+        "desc": "فی الحال نکلوانے کے لیے دستیاب رقم",
+        "action": "نکلوائیں"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "صارف نام",
+      "saleTime": "فروخت کا وقت",
+      "goodsInfo": "پروڈکٹ",
+      "commission": "کمیشن"
+    },
+    "emptyCommission": "ابھی تک کوئی کمیشن ریکارڈ نہیں",
+    "errors": {
+      "loadFail": "کمیشن کی تفصیلات لوڈ کرنے میں ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
+    },
+    "withdraw": {
+      "ariaLabel": "نکلوانے کی درخواست",
+      "title": "نکلوانے کی درخواست",
+      "closeLabel": "نکلوانے کا ڈائیلاگ بند کریں",
+      "balanceLabel": "نکلوانے کے قابل بیلنس",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "نکلوانے کی رقم",
+      "amountPlaceholder": "نکلوانے کی رقم درج کریں",
+      "allButton": "تمام",
+      "allAmountValue": "0.00",
+      "amountTip": "براہ کرم تصدیق کریں کہ رقم درست ہے۔ جمع کروانے کے بعد آپ کی درخواست کا دستی جائزہ لیا جائے گا۔",
+      "methodLabel": "نکلوانے کا طریقہ",
+      "methods": [
+        "بینک کارڈ",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "بینک کارڈ",
+      "nameLabel": "وصول کنندہ کا نام",
+      "namePlaceholder": "وصول کنندہ کا نام درج کریں",
+      "defaultName": "",
+      "bankCardLabel": "اکاؤنٹ نمبر",
+      "bankCardPlaceholder": "بینک کارڈ نمبر، PayPal ای میل، یا والیٹ ایڈریس درج کریں",
+      "remarkLabel": "ریمارکس",
+      "remarkPlaceholder": "کوئی اضافی نوٹ شامل کریں",
+      "note": "نکلوانے کی درخواستیں 1-3 کاروباری دنوں میں پروسیس ہوتی ہیں۔",
+      "cancelButton": "منسوخ کریں",
+      "submitButton": "درخواست جمع کروائیں"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "ریڈمپشن کامیاب",
+    "operationFailed": "ریڈمپشن ناکام",
+    "invalidCard": "غلط ریڈمپشن کوڈ",
+    "cardNotFound": "ریڈمپشن کوڈ نہیں ملا",
+    "cardDisabled": "ریڈمپشن کوڈ غیر فعال",
+    "cardExpired": "ریڈمپشن کوڈ میعاد ختم"
+  },
+  "successMessage": "آپریشن کامیاب"
+}

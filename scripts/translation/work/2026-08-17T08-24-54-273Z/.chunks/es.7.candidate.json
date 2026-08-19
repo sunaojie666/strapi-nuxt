@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "¿Qué hago si la pantalla no se muestra completa al hacer streaming desde el ordenador?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si la pantalla no se muestra completa al hacer streaming desde el teléfono mediante una aplicación complementaria de streaming u otro software, sigue estos pasos para ajustarlo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abre VicastCam, toca el icono de la cámara en la parte inferior para entrar en la página de streaming y ve a [Menú derecho - Más ajustes - Relación de aspecto - 9:16].",
+            "Después de proyectar en la aplicación complementaria de streaming, primero ajusta la escala para que encaje y luego arrastra la pantalla hacia arriba o hacia abajo para llenar toda la pantalla."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: Antes de empezar el streaming, ajusta primero la relación de aspecto y luego añade tus recursos."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "¿Qué hago si falla una solicitud de red?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si encuentras fallos en las solicitudes de red, prueba lo siguiente:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abre los Ajustes del teléfono, ve a [Gestión de permisos - VicastCam - Usar datos móviles y Wi-Fi] y activa el acceso a la red.",
+            "Desactiva el modo de ahorro de energía y cualquier restricción en segundo plano del teléfono.",
+            "Cambia de red, reinicia el teléfono, activa y desactiva el modo avión o actualiza la aplicación a la última versión.",
+            "Si el problema continúa, haz una captura de pantalla del error y contacta con el servicio de atención al cliente para obtener ayuda."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "¿Por qué los recursos de red parpadean o se ponen en negro durante un streaming en directo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si experimentas parpadeos o pantallas negras al añadir recursos de red durante un streaming en directo, así puedes solucionarlo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Descarga y previsualiza con antelación los recursos y superposiciones que planees usar durante el streaming. Asegúrate de que funcionan correctamente antes de empezar.",
+            "Algunos recursos incluidos con el software se almacenan en servidores. Descárgalos antes de comenzar el streaming para poder usarlos directamente durante la transmisión sin tener que cargarlos de nuevo.",
+            "Cargar recursos a mitad del streaming consume recursos de transmisión, memoria del teléfono y rendimiento, lo que puede causar retrasos. En teléfonos de gama baja, incluso puede provocar bloqueos o pantallas negras."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planifica y ensaya tu streaming con antelación. Practica cada segmento para asegurarte de que todo funcione sin problemas antes de empezar. Cuida cada transmisión y tu streaming te recompensará."
+        }
+      ]
+    }
+  ]
+}

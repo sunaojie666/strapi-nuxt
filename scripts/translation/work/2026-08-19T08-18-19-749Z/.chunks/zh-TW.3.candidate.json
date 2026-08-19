@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "購買紀錄",
+    "title": "購買紀錄",
+    "tabTitle": "購買",
+    "exchangeTabTitle": "兌換",
+    "tableHeaders": {
+      "title": "類型",
+      "date": "付款時間",
+      "price": "金額",
+      "paymentMethod": "付款方式",
+      "status": "狀態",
+      "exchangeDate": "兌換時間",
+      "exchangeCode": "兌換碼"
+    },
+    "exchangeTableHeaders": {
+      "date": "兌換時間",
+      "code": "兌換碼"
+    },
+    "cardTypes": {
+      "month": "月卡",
+      "year": "年卡",
+      "life": "終身卡",
+      "default": "會員卡"
+    },
+    "orderStatuses": {
+      "pending": "待付款",
+      "paid": "已付款",
+      "closed": "已關閉",
+      "refunded": "已退款",
+      "unknown": "未知"
+    },
+    "secretLabels": {
+      "show": "顯示密碼",
+      "hide": "隱藏密碼"
+    },
+    "secretMask": "******",
+    "emptyText": "尚無購買紀錄",
+    "exchangeEmptyText": "尚無兌換紀錄",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "銀行卡",
+      "creditcard": "信用卡",
+      "alipay": "支付寶",
+      "wechat": "微信支付",
+      "wechatpay": "微信支付",
+      "usdt": "USDT",
+      "crypto": "加密貨幣",
+      "balance": "餘額",
+      "free": "免費"
+    }
+  },
+  "team": {
+    "ariaLabel": "我的團隊",
+    "title": "我的團隊",
+    "referrerLabel": "我的推薦人",
+    "levelOne": "一級成員",
+    "levelTwo": "二級成員",
+    "tableHeaders": {
+      "name": "成員名稱",
+      "status": "會員狀態",
+      "joinedAt": "加入時間"
+    },
+    "memberStatus": {
+      "free": "免費使用者",
+      "vip": "VIP 使用者"
+    },
+    "emptyMemberName": "未命名使用者",
+    "emptyReferrer": "無推薦人",
+    "emptyTeam": "尚無團隊成員",
+    "errors": {
+      "loadFail": "載入團隊成員失敗，請稍後再試。"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "收益中心",
+    "title": "收益總覽",
+    "commissionTitle": "佣金明細",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "累計收益",
+        "desc": "至今累計獲得的佣金"
+      },
+      {
+        "key": "month",
+        "title": "本月",
+        "desc": "本月獲得的佣金"
+      },
+      {
+        "key": "settling",
+        "title": "待結算",
+        "value": "0.00",
+        "desc": "待結算金額"
+      },
+      {
+        "key": "withdrawable",
+        "title": "可提現",
+        "desc": "目前可提領的金額",
+        "action": "提現"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "使用者名稱",
+      "saleTime": "銷售時間",
+      "goodsInfo": "商品",
+      "commission": "佣金"
+    },
+    "emptyCommission": "尚無佣金紀錄",
+    "errors": {
+      "loadFail": "載入佣金明細失敗，請稍後再試。"
+    },
+    "withdraw": {
+      "ariaLabel": "提現申請",
+      "title": "提現申請",
+      "closeLabel": "關閉提現對話框",
+      "balanceLabel": "可提現餘額",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "提現金額",
+      "amountPlaceholder": "請輸入提現金額",
+      "allButton": "全部",
+      "allAmountValue": "0.00",
+      "amountTip": "請確認金額正確，送出後將由人工審核。",
+      "methodLabel": "提現方式",
+      "methods": [
+        "銀行卡",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "銀行卡",
+      "nameLabel": "收款人姓名",
+      "namePlaceholder": "請輸入收款人姓名",
+      "defaultName": "",
+      "bankCardLabel": "帳號",
+      "bankCardPlaceholder": "請輸入銀行卡號、PayPal 電子郵件或錢包地址",
+      "remarkLabel": "備註",
+      "remarkPlaceholder": "新增其他備註",
+      "note": "提現申請將於 1-3 個工作天內處理。",
+      "cancelButton": "取消",
+      "submitButton": "送出申請"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "兌換成功",
+    "operationFailed": "兌換失敗",
+    "invalidCard": "無效的兌換碼",
+    "cardNotFound": "找不到兌換碼",
+    "cardDisabled": "兌換碼已停用",
+    "cardExpired": "兌換碼已過期"
+  },
+  "successMessage": "操作成功"
+}

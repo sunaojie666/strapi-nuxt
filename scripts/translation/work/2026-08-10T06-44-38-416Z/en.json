@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "en",
+        "loginTitle1": "Change your virtual background in one click",
+        "loginTitle2": "Make your live streams shine",
+        "loginDes1": "A professional live streaming tool powered by AI",
+        "loginDes2": "Virtual backgrounds, live stream enhancements, and multi-platform broadcasting made simple",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Real-time background replacement",
+        "featureTitle2": "Multi-platform Streaming",
+        "featureSubTitle2": "Go live with one click",
+        "featureTitle3": "Virtual Camera",
+        "featureSubTitle3": "Turn your phone into a webcam",
+        "loginBox": {
+          "loginPageTitle": "Log in / Sign up",
+          "codeLoginTab": "Code login",
+          "pwdLoginTab": "Password login",
+          "qrLoginTab": "QR code login",
+          "emailInputPlaceholder": "Enter your email to log in",
+          "pwdInputPlaceholder": "Enter your password",
+          "verifyCodePlaceholder": "Enter the verification code",
+          "getVerifyCodeText": "Get code",
+          "loginBtnText": "Log in",
+          "qrLoginTip": "Use the VicastCam app to scan the QR code",
+          "qrWaitingTip": "Waiting for scan confirmation",
+          "agreeProtocolText": "I have read and agree to the Privacy Policy and User Agreement",
+          "userProtocolText": "User Agreement",
+          "privacyPolicyText": "Privacy Policy",
+          "agreeProtocolPrefix": "I have read and agree to"
+        },
+        "toastBox": {
+          "closeToastLabel": "Dismiss",
+          "requestLoading": "Loading",
+          "requestSuccess": "Success",
+          "requestFail": "Request failed",
+          "passwordLoginNotReady": "Password login is not available yet",
+          "passwordRequired": "Please enter your password",
+          "emailRequired": "Please enter your email to log in",
+          "verifyCodeRequired": "Please enter the verification code",
+          "agreeProtocolRequired": "Please read and agree to the Privacy Policy and User Agreement first",
+          "qrcodeExpired": "The QR code has expired. Please try again."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "en",
+        "hero_section": {
+          "tag": "AI-powered live streaming tool",
+          "title_main": "Green screen effects and screen casting from your phone",
+          "title_highlight": "Empowering live streaming worldwide",
+          "description": "VicastCam uses advanced AI matting to let you switch virtual backgrounds seamlessly during your live streams, adding immersive effects to create a professional presence.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Download"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Download"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam provides creators with virtual backgrounds, live stream enhancements, and cross-platform tools."
+          },
+          "columns": [
+            {
+              "title": "Product",
+              "links": [
+                {
+                  "text": "Features"
+                },
+                {
+                  "text": "Pricing"
+                },
+                {
+                  "text": "Download Center"
+                }
+              ]
+            },
+            {
+              "title": "Developers",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API Docs"
+                }
+              ]
+            },
+            {
+              "title": "Company",
+              "links": [
+                {
+                  "text": "About Us"
+                },
+                {
+                  "text": "Privacy Policy"
+                },
+                {
+                  "text": "User Agreement"
+                },
+                {
+                  "text": "Membership Agreement"
+                }
+              ]
+            },
+            {
+              "title": "Support",
+              "links": [
+                {
+                  "text": "Video Tutorials"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Contact Us"
+                }
+              ]
+            },
+            {
+              "title": "Business",
+              "links": [
+                {
+                  "text": "Become a Reseller"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Business Inquiries"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Features",
+      "nav_pricing": "Pricing",
+      "nav_faq": "FAQ",
+      "nav_auth": "Log in / Sign up",
+      "nav_team": "Business"
+    }
+  ]
+}

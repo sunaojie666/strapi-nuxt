@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "會員中心",
+    "title": "我的會員",
+    "badgeAlt": "會員徽章",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "免費會員",
+    "activeVipName": "VIP 會員",
+    "expirePrefix": "到期日",
+    "emptyExpireDate": "尚未啟用",
+    "activeStatus": "啟用中",
+    "inactiveStatus": "未啟用",
+    "compareTitle": "方案比較",
+    "compareHeaders": {
+      "feature": "功能",
+      "normal": "免費版",
+      "month": "月繳",
+      "year": "年繳",
+      "life": "終身"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "月繳方案",
+        "subtitle": "適合短期使用",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/月",
+        "cta": "立即訂閱",
+        "benefits": [
+          "核心虛擬攝影機功能",
+          "虛擬背景與美顏",
+          "多平台直播",
+          "標準更新"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "年繳方案",
+        "subtitle": "長期使用更划算",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/年",
+        "cta": "立即訂閱",
+        "benefits": [
+          "包含月繳方案所有功能",
+          "全年使用所有進階功能",
+          "優先功能更新",
+          "專屬會員支援"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "終身方案",
+        "subtitle": "一次付費，永久使用",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/終身",
+        "cta": "立即購買",
+        "benefits": [
+          "包含年繳方案所有功能",
+          "永久使用進階功能",
+          "長期更新",
+          "專屬支援管道"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "會員期限",
+        "normal": "永久免費",
+        "month": "30 天",
+        "year": "365 天",
+        "life": "終身"
+      },
+      {
+        "feature": "桌面虛擬攝影機",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "自訂虛擬背景",
+        "normal": "1 組",
+        "month": "無限",
+        "year": "無限",
+        "life": "無限"
+      },
+      {
+        "feature": "直播預設",
+        "normal": "無",
+        "month": "無限",
+        "year": "無限",
+        "life": "無限"
+      },
+      {
+        "feature": "官方素材",
+        "normal": "有限",
+        "month": "無限",
+        "year": "無限",
+        "life": "無限"
+      },
+      {
+        "feature": "遙控器遠端控制",
+        "normal": "有",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "場景比較模式",
+        "normal": "有",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "場景字幕",
+        "normal": "有限",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "場景音樂",
+        "normal": "有限",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "多攝影機輸入",
+        "normal": "無",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "進階美顏濾鏡",
+        "normal": "基本",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "AI 綠幕摳像",
+        "normal": "有",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "動態追蹤動畫",
+        "normal": "有限",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "場景攝影機特效",
+        "normal": "有限",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "VIP 特效庫",
+        "normal": "有限",
+        "month": "無限",
+        "year": "無限",
+        "life": "無限"
+      },
+      {
+        "feature": "平台直播",
+        "normal": "有",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "4K 輸出",
+        "normal": "無",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      },
+      {
+        "feature": "推薦佣金比例",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "下線回饋",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "支援管道",
+        "normal": "社群自助",
+        "month": "標準排程",
+        "year": "優先回覆",
+        "life": "專屬支援"
+      },
+      {
+        "feature": "新功能搶先體驗",
+        "normal": "無",
+        "month": "有",
+        "year": "有",
+        "life": "有"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "兌換代碼",
+    "title": "兌換代碼",
+    "tip": "請輸入會員兌換代碼，兌換後會員資格將立即啟用。",
+    "placeholder": "請輸入兌換代碼",
+    "submitButton": "兌換",
+    "agreementPrefix": "兌換即表示您同意",
+    "userProtocolText": "使用者協議",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "兌換失敗，請檢查代碼後再試一次。"
+    }
+  }
+}

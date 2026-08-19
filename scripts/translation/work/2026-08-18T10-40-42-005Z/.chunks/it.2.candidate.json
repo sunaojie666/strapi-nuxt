@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Per Iniziare",
+      "count": "11 lezioni",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Crea il tuo primo studio virtuale",
+          "description": "Configura e personalizza il tuo primo studio virtuale da zero.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Comprendere gli strumenti immagine",
+          "description": "Esplora le basi degli strumenti immagine e i loro casi d'uso comuni.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Lavorare con i livelli",
+          "description": "Scopri il pannello Livelli e come gestire i livelli in modo efficace.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Utilizzare i livelli di sfondo",
+          "description": "Impara come aggiungere e regolare i livelli di sfondo per la tua scena.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Utilizzare i livelli di ritratto",
+          "description": "Aggiungi livelli di ritratto per migliorare la tua produzione live.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Utilizzare i livelli immagine",
+          "description": "Aggiungi e modifica i livelli immagine nella configurazione del tuo studio.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Utilizzare i livelli video",
+          "description": "Aggiungi clip video e controlla le impostazioni di riproduzione.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Utilizzare i livelli di effetti",
+          "description": "Applica effetti visivi al tuo live streaming con i livelli di effetti.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Utilizzare i livelli di sottotitoli",
+          "description": "Crea sottotitoli e personalizza il loro aspetto.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Utilizzare gli avatar virtuali",
+          "description": "Dai vita al tuo streaming con l'integrazione degli avatar virtuali.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Utilizzare le scene",
+          "description": "Passa senza problemi tra diverse disposizioni di scena durante lo streaming.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Tutorial Avanzati",
+      "count": "6 lezioni",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Utilizzare i livelli di movimento della fotocamera",
+          "description": "Crea inquadrature dinamiche con i livelli di movimento della fotocamera.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Utilizzare l'animazione del percorso",
+          "description": "Controlla i percorsi di movimento degli elementi con la funzione traiettoria.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Utilizzare i livelli multi-camera",
+          "description": "Configura livelli multi-camera per un cambio rapido di angolazione.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Utilizzare il controller",
+          "description": "Gestisci l'intera trasmissione da un unico pannello di controllo.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Configurazione e mixaggio audio",
+          "description": "Configura ingressi, uscite e impostazioni di mixaggio audio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Backup e ripristino",
+          "description": "Esegui il backup della configurazione del tuo studio e ripristinala quando necessario.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

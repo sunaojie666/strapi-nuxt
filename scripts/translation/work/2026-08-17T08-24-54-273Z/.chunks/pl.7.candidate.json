@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Co zrobić, gdy ekran nie jest w pełni wyświetlany podczas streamowania z komputera?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli podczas streamowania z telefonu przez aplikację towarzyszącą do transmisji na żywo lub inne oprogramowanie ekran nie jest w pełni wyświetlany, wykonaj następujące czynności, aby to dostosować:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Otwórz VicastCam, dotknij ikony aparatu na dole, aby przejść do strony transmisji na żywo, a następnie przejdź do [Menu po prawej - Więcej ustawień - Proporcje obrazu - 9:16].",
+            "Po przesłaniu do aplikacji towarzyszącej transmisji na żywo najpierw dopasuj skalę, a następnie przeciągnij ekran w górę lub w dół, aby wypełnić cały ekran."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Uwaga: Przed rozpoczęciem transmisji najpierw dostosuj proporcje obrazu, a następnie dodaj swoje zasoby."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Co zrobić, gdy żądanie sieciowe nie powiedzie się?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli napotkasz błędy żądań sieciowych, spróbuj wykonać następujące czynności:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Otwórz Ustawienia telefonu, przejdź do [Zarządzanie uprawnieniami - VicastCam - Użyj danych komórkowych i Wi-Fi] i włącz dostęp do sieci.",
+            "Wyłącz tryb oszczędzania energii i wszelkie ograniczenia w tle na telefonie.",
+            "Zmień sieć, uruchom ponownie telefon, przełącz tryb samolotowy lub zaktualizuj aplikację do najnowszej wersji.",
+            "Jeśli problem będzie się powtarzał, zrób zrzut ekranu błędu i skontaktuj się z obsługą klienta w celu uzyskania pomocy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Dlaczego nakładki zasobów sieciowych migoczą lub stają się czarne podczas transmisji na żywo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli podczas dodawania zasobów sieciowych w trakcie transmisji na żywo występuje migotanie lub czarny ekran, oto jak sobie z tym poradzić:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pobierz i podglądaj wszystkie zasoby i nakładki, które planujesz użyć podczas transmisji, z wyprzedzeniem. Upewnij się, że działają poprawnie przed rozpoczęciem transmisji.",
+            "Niektóre zasoby dołączone do oprogramowania są przechowywane na serwerach. Pobierz je przed rozpoczęciem transmisji, aby móc z nich korzystać bezpośrednio podczas transmisji, bez ponownego ładowania.",
+            "Ładowanie zasobów w trakcie transmisji zużywa zasoby strumieniowania, pamięć telefonu i wydajność, co może powodować opóźnienia. Na słabszych telefonach może nawet prowadzić do awarii lub czarnego ekranu."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ważna uwaga"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zaplanuj i przećwicz swoją transmisję z wyprzedzeniem. Przećwicz każdy segment, aby upewnić się, że wszystko działa płynnie przed rozpoczęciem transmisji. Traktuj każdą transmisję z troską, a Twoja transmisja odwdzięczy Ci się tym samym."
+        }
+      ]
+    }
+  ]
+}

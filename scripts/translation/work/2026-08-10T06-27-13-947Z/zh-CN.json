@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "zh",
+        "loginTitle1": "一键更换虚拟背景",
+        "loginTitle2": "直播更精彩",
+        "loginDes1": "AI赋能的专业直播工具",
+        "loginDes2": "让虚拟背景、直播增强和跨平台开播更简单",
+        "featureTitle1": "AI抠图",
+        "featureSubTitle1": "实时背景替换",
+        "featureTitle2": "多平台直播",
+        "featureSubTitle2": "一键推流开播",
+        "featureTitle3": "虚拟相机",
+        "featureSubTitle3": "手机变电脑摄像头",
+        "loginBox": {
+          "loginPageTitle": "登录/注册",
+          "codeLoginTab": "验证码登录",
+          "pwdLoginTab": "密码登录",
+          "qrLoginTab": "扫码登录",
+          "emailInputPlaceholder": "请输入您的邮箱登录",
+          "pwdInputPlaceholder": "请输入密码",
+          "verifyCodePlaceholder": "请输入验证码",
+          "getVerifyCodeText": "获取验证码",
+          "loginBtnText": "登录",
+          "qrLoginTip": "请使用 VicastCam APP 扫码登录",
+          "qrWaitingTip": "等待扫码确认",
+          "agreeProtocolText": "我已阅读并同意《隐私政策》和《用户协议》",
+          "userProtocolText": "用户协议",
+          "privacyPolicyText": "隐私政策",
+          "agreeProtocolPrefix": "我已阅读并同意"
+        },
+        "toastBox": {
+          "closeToastLabel": "关闭提示",
+          "requestLoading": "加载中",
+          "requestSuccess": "请求成功",
+          "requestFail": "请求失败",
+          "passwordLoginNotReady": "密码登录暂不可用",
+          "passwordRequired": "请输入密码",
+          "emailRequired": "请输入您的邮箱登录",
+          "verifyCodeRequired": "请输入验证码",
+          "agreeProtocolRequired": "请先阅读并同意《隐私政策》和《用户协议》",
+          "qrcodeExpired": "二维码已过期，请重新获取"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "zh",
+        "hero_section": {
+          "tag": "AI赋能的直播工具",
+          "title_main": "手机绿幕特效与投屏技术",
+          "title_highlight": "赋能全球直播生态",
+          "description": "VicastCam 依托前沿 AI 智能抠图技术，直播全域随心切换虚拟背景，以沉浸式特效赋能全球直播，塑造极具格局的专业直播形象。",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "下载"
+            },
+            {
+              "platform": "Google Play",
+              "text": "下载"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam 为创作者提供虚拟背景、直播增强和跨平台工具。"
+          },
+          "columns": [
+            {
+              "title": "产品",
+              "links": [
+                {
+                  "text": "功能特色"
+                },
+                {
+                  "text": "价格"
+                },
+                {
+                  "text": "下载中心"
+                }
+              ]
+            },
+            {
+              "title": "开发者",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API 文档"
+                }
+              ]
+            },
+            {
+              "title": "公司",
+              "links": [
+                {
+                  "text": "关于我们"
+                },
+                {
+                  "text": "隐私政策"
+                },
+                {
+                  "text": "用户协议"
+                },
+                {
+                  "text": "会员协议"
+                }
+              ]
+            },
+            {
+              "title": "支持",
+              "links": [
+                {
+                  "text": "视频教程"
+                },
+                {
+                  "text": "常见问题"
+                },
+                {
+                  "text": "联系我们"
+                }
+              ]
+            },
+            {
+              "title": "商务合作",
+              "links": [
+                {
+                  "text": "代理招募"
+                },
+                {
+                  "text": "OEM贴牌"
+                },
+                {
+                  "text": "商务洽谈"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "维卡斯特",
+      "nav_features": "功能特色",
+      "nav_pricing": "价格",
+      "nav_faq": "常见问题",
+      "nav_auth": "登录 / 注册",
+      "nav_team": "商务合作"
+    }
+  ]
+}

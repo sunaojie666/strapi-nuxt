@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam 常見問題 | Android 與 iOS 協助",
+          "description": "尋找 VicastCam 在 Android 與 iOS 上的常見問題解答，包括帳號設定、媒體權限、網路連線與直播問題。",
+          "imageAlt": "VicastCam 常見問題"
+        },
+        "hero": {
+          "eyebrow": "常見問題",
+          "titleMain": "VicastCam 協助",
+          "titleHighlight": "快速找到解答",
+          "description": "選擇您的平台（Android 或 iOS）以查看適用於您裝置的常見問題與解決方案。"
+        },
+        "content": {
+          "sectionAriaLabel": "常見問題",
+          "catalogAriaLabel": "問題分類",
+          "answerLabel": "解答",
+          "questionProgressTemplate": "{group} · 第 {current} 題，共 {total} 題"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android 教學",
+            "count": "9 個問題",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "直播素材建議使用什麼尺寸？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播素材建議尺寸如下："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "直播背景圖片建議使用 1080 x 1920 像素；影片同樣建議使用 1080 x 1920 像素。",
+                      "重要：全螢幕覆蓋層必須使用 9:16 比例，以確保在全螢幕與 9:16 模式之間切換時不會錯位，達到完美貼合的效果。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "直播支援哪些輸出模式？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播支援兩種輸出模式：9:16 直播與全螢幕直播。請依照以下步驟在 Android 裝置上選擇："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，進入直播頁面，點擊右側的選單圖示。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Android 直播頁面右側的選單入口",
+                    "caption": "步驟 1：點擊直播頁面右側的選單圖示。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "在「更多設定」中找到「畫面比例」，依需求選擇「全螢幕」或「9:16」。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Android 上「更多設定」中的畫面比例選項",
+                    "caption": "步驟 2：在「畫面比例」中選擇「全螢幕」或「9:16」。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "兩種模式的說明"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 直播：輸出畫面比例固定為 9:16，因此直播平台會收到 9:16 的影像。",
+                      "全螢幕直播：以原始比例輸出整個手機螢幕，保留原始內容，不進行裁切。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "如何刪除我的帳號？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "請登入 VicastCam App，然後依序前往 [帳號 - 右上角圖示 - 帳號管理 - 刪除帳號 - 提交刪除申請]。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "帳號資訊"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "帳號刪除後，我們將永久刪除您綁定的電子郵件、裝置紀錄及其他身分資訊，並撤銷您透過 Google 與 Apple 帳號進行的第三方登入授權。撤銷後，您將無法再使用這些第三方帳號快速登入；若要再次使用 App，您需要重新授權並重新綁定。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "內容與素材"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "所有直播素材、影片、圖片與專案檔僅儲存在您的裝置上；雲端不會保留任何創作素材。刪除後，App 內的素材管理功能將無法使用，請務必提前透過「素材匯出」備份您的素材。",
+                      "如果您解除安裝後重新安裝、更換裝置，或未提前匯出備份，您的素材將永久無法復原。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "會員權益"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "帳號刪除後，您的會員權益將立即終止。若您有有效的 Google Play 訂閱，刪除 App 帳號不會自動取消訂閱，您可能仍會被持續扣款。請前往 Google Play 的「付款與訂閱 - 訂閱」手動取消。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "如有任何疑問，請聯絡我們的客戶支援團隊。"
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "為什麼新增素材時無法存取手機中的照片和影片？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果新增素材時相簿顯示為空白，您可以依照以下方式開啟照片存取權限："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS：開啟手機的「設定」，向下捲動找到 VicastCam，點選 [照片 - 所有照片] 以啟用存取權限。",
+                      "Android：開啟手機的「設定」，在 [權限管理] 或 [應用程式管理] 中找到 VicastCam，然後點選 [權限管理 - 照片 - 所有照片] 以啟用存取權限。",
+                      "如果問題仍然存在，請嘗試解除安裝並重新安裝 App，或透過意見回饋功能聯絡線上支援。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "從電腦直播時，畫面沒有完整顯示該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果透過直播助手或其他軟體從手機直播時，畫面顯示不完整，請依照以下步驟調整："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，點擊底部的相機圖示進入直播頁面，然後前往 [右側選單 - 更多設定 - 畫面比例 - 9:16]。",
+                      "投射到直播助手後，先將畫面調整至符合畫布大小，再垂直拖曳以填滿畫面。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注意：開始直播前，請先調整畫面比例，再新增素材。"
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "網路請求失敗時該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果遇到網路請求失敗，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟手機的「設定」，前往 [權限管理 - VicastCam - 行動數據與 Wi-Fi] 並啟用網路存取。",
+                      "關閉手機的省電模式與任何背景限制。",
+                      "切換網路、重新啟動手機、切換飛航模式，或將 App 更新至最新版本。",
+                      "如果問題仍然存在，請擷取錯誤畫面並聯絡客戶支援以取得協助。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "直播時網路素材或疊加層閃爍或變黑，該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果在直播時新增網路素材出現閃爍或黑畫面，可以這樣處理："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "事先下載並預覽直播中要使用的素材或疊加層，確認一切正常再開播。",
+                      "軟體內建的某些素材存放在伺服器上，若在開播前先下載，直播時就能直接使用，不需重新載入。",
+                      "直播中載入素材會消耗串流資源、手機記憶體與效能，可能導致延遲；在低階手機上甚至可能造成當機或黑畫面。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要提醒"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "開播前請充分規劃並彩排，確保每個元素都能完美運作再開始。"
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "虛擬鍵盤部分按鍵被遮住怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果虛擬鍵盤部分按鍵被遮住，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "若使用較舊的 16:9 手機當遙控器，且部分按鍵被遮住，請點擊鍵盤左上角第二個按鈕，開啟全螢幕操作模式。",
+                      "若鍵盤排列錯位，請前往手機的「設定」，將字體大小調整為標準。",
+                      "部分手機可能開啟了「長者模式」，關閉後鍵盤即可恢復正常顯示。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "顯示問題通常是字體過大或手機主題介面過大所導致，將這些設定恢復為標準模式即可解決。"
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Huawei 手機與多機位或虛擬鍵盤一直斷線，該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果 Huawei 手機在多機位或虛擬鍵盤使用時發生斷線，請依照以下步驟操作："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "前往手機的「設定」。",
+                      "在頂端搜尋列輸入「應用程式啟動管理」。",
+                      "進入「應用程式啟動管理」頁面，向下捲動找到 VicastCam。",
+                      "關閉右側的開關，讓圖示變成灰色；同時，在彈出視窗中開啟全部三個選項，讓它們變成藍色。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "您也可以參考影片教學「如何防止 Huawei 手機在多機位與虛擬鍵盤時斷線」。"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS 教學",
+            "count": "8 個問題",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "直播素材的建議尺寸為何？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播素材的建議尺寸如下："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "直播背景圖片建議使用 1080 x 1920 像素；影片同樣建議使用 1080 x 1920 像素。",
+                      "重要：全螢幕覆蓋層必須使用 9:16 比例，以確保在切換全螢幕與 9:16 模式時能完美對齊，呈現無縫貼合。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "直播支援哪些輸出模式？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播支援兩種輸出模式：9:16 直播與全螢幕直播。請依照以下步驟在 Apple 裝置上選擇模式："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，進入直播頁面，點選右側的選單圖示。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Apple 直播頁面右側的選單入口",
+                    "caption": "步驟 1：點選直播頁面右側的選單圖示。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "在「更多設定」中找到「畫面比例」，依需求選擇「全螢幕」或「9:16」。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Apple 上「更多設定」中的畫面比例選項",
+                    "caption": "步驟 2：在「畫面比例」中選擇「全螢幕」或「9:16」。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "關於兩種模式"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 直播：輸出比例固定為 9:16，直播平台收到的畫面即為 9:16。",
+                      "全螢幕直播：直接輸出整個手機螢幕，保留原始內容，不進行裁切。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "「系統直播」與「軟體直播」有何不同？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Apple 裝置提供兩種直播擷取模式，兩者在背景運作的規則上有顯著差異。請依照以下步驟選擇直播模式："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，進入直播頁面，點選右側的選單圖示。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Apple 直播頁面右側的選單入口",
+                    "caption": "步驟 1：點選直播頁面右側的選單圖示。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "在「更多設定」中找到「直播模式」，依需求選擇「系統直播」或「軟體直播」。"
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Apple 上「更多設定」中的直播模式選項",
+                    "caption": "步驟 2：在「直播模式」中選擇「系統直播」或「軟體直播」。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "關於兩種模式"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "系統直播（ReplayKit 螢幕錄製）：使用 iOS 系統螢幕錄製來擷取畫面，即使 App 在背景執行也能持續直播。你可以切換到其他 App，仍可擷取任何螢幕內容，不會中斷直播。",
+                      "軟體直播（前景直接擷取）：App 直接擷取畫面。由於 iOS 系統限制，App 必須維持在前景。若切換到其他 App 或返回主畫面，直播會立即停止。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "如何刪除帳號？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "請登入 VicastCam App，然後前往 [帳號 - 右上角圖示 - 帳號管理 - 刪除帳號 - 提交刪除申請]。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "帳號資訊"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "刪除帳號後，我們將永久刪除您綁定的電子郵件、裝置紀錄及其他身分資訊，並撤銷您透過 Google 與 Apple 帳號的第三方登入授權。撤銷後，您將無法再使用這些第三方帳號快速登入本 App。若要再次使用，您需要重新授權並綁定帳號。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "內容與素材"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "所有直播素材、影片、圖片與專案檔僅儲存在您的裝置上，平台雲端不會保留任何創作素材。刪除帳號後，素材管理功能將無法使用。請事先使用「素材匯出」備份您的素材。",
+                      "若您解除安裝並重新安裝 App、更換裝置，或未事先匯出備份，您的素材將永久遺失。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "會員權益"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "刪除帳號後，您的會員權益將立即終止。由於訂閱服務由 Apple 管理，平台無法直接處理退款。如需退款，請透過 Apple 官方管道（App Store 購買紀錄）提出申請。刪除帳號前，請務必手動取消自動續訂，以避免未來產生費用。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "如有任何疑問，請聯絡客戶支援。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "新增素材時為何無法存取手機中的照片與影片？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "若新增素材時照片圖庫顯示為空白，請前往 iPhone 的「設定」，向下捲動找到 VicastCam，點選 [照片 - 所有照片] 以啟用存取權限。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "電腦直播時畫面沒有完整顯示，該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果透過手機搭配直播助手 App 或其他軟體直播時，畫面沒有完整顯示，請依照以下步驟調整："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，點擊底部的相機圖示進入直播頁面，然後前往 [右側選單 - 更多設定 - 畫面比例 - 9:16]。",
+                      "投射到直播助手後，先縮放至符合畫面，再上下拖曳畫面，讓它填滿整個螢幕。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注意：開始直播前，請先調整畫面比例，再新增素材。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "網路請求失敗時該怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果遇到網路請求失敗，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟手機的「設定」，前往 [權限管理 - VicastCam - 使用行動數據和 Wi-Fi]，並啟用網路存取。",
+                      "關閉手機的省電模式及任何背景限制。",
+                      "切換網路、重新啟動手機、切換飛航模式，或將 App 更新至最新版本。",
+                      "如果問題仍然存在，請擷取錯誤畫面，並聯絡客服尋求協助。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "直播時網路素材疊加層為何會閃爍或變黑？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果在直播中加入網路素材時遇到閃爍或黑畫面，可以這樣處理："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "事先下載並預覽你計畫在直播中使用的所有素材和疊加層，確保它們在開播前能正常運作。",
+                      "軟體隨附的部分素材存放在伺服器上，請在開始直播前先下載，這樣直播時就能直接使用，無需重新載入。",
+                      "在直播中途載入素材會消耗串流資源、手機記憶體和效能，可能導致延遲。在較低階的手機上，甚至可能造成當機或黑畫面。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要提醒"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "請事先規劃並排練你的直播。在開播前練習每個環節，確保一切順利。用心對待每一次直播，直播也會回報你。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

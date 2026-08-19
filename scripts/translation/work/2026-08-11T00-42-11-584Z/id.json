@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Perjanjian Pengguna",
+        "updatedAt": "22 Juli 2026",
+        "description": "Perjanjian Lisensi Pengguna ini (\"Perjanjian\") dibuat antara Pemberi Lisensi dan pengguna perangkat lunak ini (\"Anda\" atau \"pengguna\") dan mengatur semua tindakan Anda dalam mengunduh, menginstal, mendaftar, masuk, dan menggunakan perangkat lunak ini.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Pemberi Lisensi: Vicast International Limited",
+              "Saluran resmi: situs web resmi VicastCam dan toko aplikasi resmi (Apple App Store / Google Play Store)",
+              "Email kontak: service@vicastcam.com",
+              "Terakhir diperbarui: 22 Juli 2026",
+              "Selamat datang di VicastCam (\"Perangkat Lunak ini\")!",
+              "Produk VicastCam hanya disediakan untuk pengguna di luar Tiongkok daratan. Kami tidak secara aktif mempromosikan produk ini kepada pengguna di Tiongkok daratan. Jika Anda berada di Tiongkok daratan, harap diperhatikan bahwa produk ini tidak memiliki kualifikasi operasional yang relevan di Tiongkok daratan.",
+              "Perjanjian Lisensi Pengguna ini (\"Perjanjian\") dibuat antara Pemberi Lisensi dan pengguna perangkat lunak ini (\"Anda\" atau \"pengguna\") dan mengatur semua tindakan Anda dalam mengunduh, menginstal, mendaftar, masuk, dan menggunakan perangkat lunak ini.",
+              "Dengan mengeklik tombol \"Setuju\" di Perangkat Lunak ini, Anda secara sukarela menerima semua ketentuan Perjanjian ini. Jika Anda tidak menerimanya, Pemberi Lisensi tidak memberikan hak kepada Anda untuk menggunakan Perangkat Lunak ini. Harap segera berhenti menggunakan dan menghapus instalasi Perangkat Lunak ini. Penggunaan Perangkat Lunak ini secara berkelanjutan merupakan persetujuan dan penerimaan Anda terhadap Perjanjian ini serta revisi selanjutnya.",
+              "Anda menyatakan bahwa Anda berusia minimal 18 tahun atau telah mencapai usia dewasa menurut hukum di yurisdiksi Anda (\"dewasa\"). Anak di bawah umur harus menggunakan Perangkat Lunak ini dengan persetujuan tegas dan di bawah pengawasan wali hukum mereka, yang bertanggung jawab atas pengasuhan sesuai dengan hukum."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Ruang Lingkup Penerapan",
+            "paragraphs": [
+              "1.1 Sebelum menggunakan Perangkat Lunak ini, harap baca Perjanjian ini dengan saksama, terutama klausul inti yang dicetak tebal, termasuk penafian, hukum yang berlaku, dan penyelesaian sengketa. Jika Anda tidak setuju dengan ketentuan apa pun, harap segera berhenti menggunakan Perangkat Lunak ini.",
+              "1.2 Perangkat Lunak ini terutama ditujukan untuk orang dewasa. Anak di bawah umur harus mendapatkan persetujuan dari wali hukum mereka sebelum menggunakan Perangkat Lunak ini dan harus menggunakannya di bawah pengawasan wali. Wali harus memenuhi kewajiban pengasuhan sesuai dengan hukum.",
+              "1.3 Perjanjian ini mencakup aturan platform seperti pengumuman, aturan aktivitas, dan notifikasi dalam aplikasi yang diterbitkan oleh Perangkat Lunak ini. Semua aturan platform merupakan bagian tidak terpisahkan dari Perjanjian ini dan memiliki efek hukum yang sama dengan Perjanjian ini.",
+              "1.4 Dengan mendaftar, masuk, atau menggunakan Perangkat Lunak ini, Anda dianggap telah membaca, memahami, dan menyetujui untuk terikat oleh Perjanjian ini secara penuh.",
+              "1.5 Semua hak kekayaan intelektual dalam Perangkat Lunak ini dan hak apa pun yang tidak secara tegas diberikan kepada pengguna adalah hak milik Pemberi Lisensi."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Perangkat Lunak Ini dan Layanan Terkait",
+            "paragraphs": [
+              "2.1 Perangkat Lunak ini adalah alat bantu untuk skenario live streaming, menyediakan fitur seperti live streaming, pengaturan latar virtual, AI matting, efek wajah, dan filter kecantikan. Layanan dan fitur spesifik tunduk pada tampilan produk yang sebenarnya.",
+              "2.2 Anda hanya dapat memperoleh klien melalui saluran resmi (Apple App Store atau Google Play Store). Segala risiko dan kerugian yang timbul dari penggunaan versi tidak resmi akan ditanggung oleh Anda.",
+              "2.3 Untuk menggunakan Perangkat Lunak ini, Anda perlu menyiapkan perangkat terminal dan koneksi jaringan sendiri serta menanggung biaya internet dan data terkait. Fungsionalitas penuh memerlukan koneksi internet.",
+              "2.4 Pemberi Lisensi memberi Anda lisensi pribadi, non-komersial, tidak dapat dialihkan, dapat dibatalkan, dan tidak eksklusif untuk menggunakan Perangkat Lunak ini. Tanpa otorisasi tertulis sebelumnya dari Pemberi Lisensi, Anda dilarang memodifikasi, menyalin, mendistribusikan, mencerminkan, merayapi, menjual, atau menggunakan Perangkat Lunak ini untuk tujuan komersial.",
+              "2.5 Pemberi Lisensi berhak untuk meningkatkan, menyesuaikan, menangguhkan, atau menghentikan sebagian atau seluruh layanan berdasarkan kebutuhan optimasi produk, pemeliharaan keamanan, operasi kepatuhan, dan kebutuhan lainnya. Anda dapat memilih apakah akan memperbarui klien; menolak pembaruan dapat mengakibatkan keterbatasan fungsionalitas. Anda berhak untuk menghapus aplikasi kapan saja untuk menghentikan layanan.",
+              "2.6 Pembelian dan Langganan",
+              "2.6.1 Semua fitur berbayar, pembelian, dan langganan dalam Perangkat Lunak ini diselesaikan melalui sistem pembayaran Apple App Store atau Google Play, dan transaksi tersebut juga tunduk pada ketentuan layanan platform masing-masing.",
+              "2.6.2 Aturan Langganan",
+              "(1) Perpanjangan otomatis: Layanan langganan akan ditagih otomatis setidaknya 24 jam sebelum akhir periode layanan saat ini, dan sistem platform akan mengirim pengingat perpanjangan. Anda dapat melihat, mengelola, dan membatalkan perpanjangan otomatis kapan saja dengan membuka halaman \"Pengaturan > Akun > Langganan\" di perangkat Anda (jalur dapat bervariasi tergantung platform).",
+              "(2) Perubahan harga: Jika kami menyesuaikan harga langganan, kami akan memberikan pemberitahuan setidaknya 30 hari sebelum harga baru berlaku melalui pengumuman dalam aplikasi, situs web resmi, atau cara lain yang wajar. Perubahan harga tidak akan memengaruhi periode langganan saat ini yang sudah berlaku. Jika hukum setempat memerlukan persetujuan tambahan dari pengguna, kami akan mematuhi hukum tersebut.",
+              "(3) Uji coba gratis: Jika uji coba gratis ditawarkan, harap matikan perpanjangan otomatis setidaknya 24 jam sebelum periode uji coba berakhir untuk menghindari biaya.",
+              "2.6.3 Pengembalian Dana Regional dan Hak Pembatalan Menurut Undang-Undang",
+              "(1) Pengguna di Uni Eropa, Wilayah Ekonomi Eropa, dan Inggris: Sesuai dengan hukum perlindungan konsumen setempat, Anda memiliki hak pembatalan menurut undang-undang selama 14 hari tanpa alasan. Lihat Kebijakan Pengembalian Dana VicastCam untuk detail. Permintaan pembatalan dan pengembalian dana harus diajukan melalui saluran resmi (App Store atau Google Play) yang digunakan untuk pembelian Anda, dan pengembalian dana tunduk pada aturan platform dan hukum setempat. Jika Anda telah menggunakan layanan selama periode pembatalan 14 hari, pengembalian dana akan dihitung secara proporsional berdasarkan penggunaan aktual. Setelah pembatalan berlaku, hak penggunaan berbayar Anda akan berakhir segera.",
+              "(2) Pembayaran satu kali dan layanan seumur hidup: Jika Anda secara eksplisit mengonfirmasi aktivasi layanan segera dan melepaskan hak pembatalan 14 hari, hak pembatalan tanpa alasan tidak akan berlaku lagi.",
+              "(3) Semua wilayah lain: Pengembalian dana dan masalah purna jual terutama diatur oleh aturan resmi platform yang digunakan untuk pembelian Anda.",
+              "2.6.4 Aturan Penggunaan Manfaat Berbayar",
+              "(1) Layanan dan manfaat berbayar hanya untuk penggunaan pribadi.",
+              "(2) Anda dilarang memberikan manfaat berbayar kepada pihak ketiga melalui hadiah, pinjaman, sewa, penjualan kembali, atau berbagi massal.",
+              "2.7 Biaya, Keanggotaan, dan Aturan Penggunaan Komersial",
+              "2.7.1 Pemberi Lisensi berhak untuk mengenakan biaya untuk Perangkat Lunak dan layanan jaringan terkait sesuai dengan hukum. Anda bertanggung jawab atas semua biaya perangkat keras, perangkat lunak, dan jaringan yang diperlukan untuk penggunaan, dan Anda harus membayar biaya layanan yang sesuai tepat waktu.",
+              "2.7.2 Anda harus memenuhi kewajiban pajak Anda sesuai dengan hukum dan menanggung semua pajak yang timbul dari penggunaan layanan. Anda dilarang menggunakan layanan berbayar secara curang.",
+              "2.7.3 Kami dapat menyesuaikan sistem keanggotaan atau menghentikan layanan keanggotaan berdasarkan kebutuhan operasional yang sah. Jika akun diblokir atau dihentikan karena pelanggaran, biaya berbayar tidak akan dikembalikan.",
+              "2.7.4 Jika Anda perlu menggunakan Perangkat Lunak ini untuk tujuan komersial, Anda harus mengajukan permohonan kepada Pemberi Lisensi terlebih dahulu dan mendapatkan lisensi penggunaan komersial resmi.",
+              "2.7.5 Anda dilarang menggunakan Perangkat Lunak ini untuk menyebarkan konten pornografi atau ilegal untuk keuntungan."
+            ]
+          },
+          {
+            "title": "3 Manajemen Akun",
+            "paragraphs": [
+              "3.1 Anda dapat mendaftar akun sendiri atau menggunakan akun platform pihak ketiga yang sah untuk masuk. Akun pihak ketiga harus diverifikasi dengan informasi nama asli dan mematuhi aturan platform. Anda bertanggung jawab untuk menjaga keamanan akun dan kata sandi Anda serta semua tindakan yang dilakukan dengan akun Anda.",
+              "3.2 Sesuai dengan persyaratan pengawasan jaringan dan registrasi nama asli di seluruh dunia, Anda harus memberikan informasi identitas dan detail kontak (seperti email) yang benar, akurat, dan valid saat mendaftar. Jika informasi tersebut palsu atau diragukan, Pemberi Lisensi berhak meminta perbaikan, membatasi atau menghentikan layanan. Beberapa informasi pendaftaran tidak dapat diubah untuk tujuan verifikasi keamanan.",
+              "3.3 Beberapa fitur dasar dapat digunakan tanpa masuk. Fungsionalitas penuh dan layanan berbayar memerlukan registrasi, masuk, dan verifikasi identitas.",
+              "3.4 Informasi akun seperti nama panggilan, avatar, dan bio tidak boleh meniru nama, merek dagang, potret, atau hak hukum lainnya milik orang lain, dan tidak boleh mengandung konten ilegal, vulgar, atau menyesatkan. Pemberi Lisensi berhak meninjau informasi akun dan mengambil tindakan seperti mengatur ulang, membatasi fungsi, atau memblokir akun untuk pelanggaran.",
+              "3.5 Akun hanya untuk penggunaan pribadi dan dapat masuk di perangkat yang Anda kendalikan secara sah. Memberikan, meminjamkan, menyewakan, mentransfer, atau menjual akun dilarang. Jika pengguna ditemukan tidak konsisten dengan pemilik terdaftar, Pemberi Lisensi berhak menangguhkan atau menghentikan layanan.",
+              "3.6 Anda bertanggung jawab atas keamanan dan kerahasiaan akun Anda dan menanggung tanggung jawab hukum penuh atas semua operasi, konten, dan tindakan yang dilakukan dengan akun Anda.",
+              "3.7 Jika akun Anda dicuri atau Anda lupa kata sandi, Anda dapat memulihkannya melalui saluran banding resmi.",
+              "3.7.1 Jika akun Anda dicuri, informasi bocor, atau properti hilang karena penyimpanan yang tidak tepat, kehilangan perangkat, atau pengungkapan kredensial akun secara sukarela, Anda harus menanggung tanggung jawab penuh.",
+              "3.7.2 Layanan pemulihan akun hanya memverifikasi informasi yang tersimpan di sistem dan tidak dapat menentukan identitas asli pengguna. Anda menanggung risiko terkait. Jika Anda melihat aktivitas akun yang tidak normal, segera hubungi layanan pelanggan resmi.",
+              "3.8 Pembatalan Akun dan Pemrosesan Data",
+              "3.8.1 Anda dapat mengajukan pembatalan akun melalui \"Saya > Pengaturan > Manajemen Akun > Batalkan Akun\" di Perangkat Lunak atau melalui email resmi. Verifikasi kepemilikan diperlukan sebelum pembatalan.",
+              "3.8.2 Setelah pembatalan akun, periode penyangga data 30 hari disediakan (hanya untuk rekonsiliasi keuangan, penyelesaian sengketa, dan verifikasi purna jual). Setelah periode ini, penghapusan fisik permanen akan dilakukan, kecuali catatan transaksi yang harus disimpan sesuai dengan hukum yang berlaku.",
+              "3.8.3 Setelah pembatalan akun, akun dan data tidak dapat dipulihkan. Kewajiban dan tanggung jawab yang timbul selama penggunaan Anda tidak dikecualikan oleh pembatalan."
+            ],
+            "key": "agreement-section-3"
+          },
+          {
+            "title": "4 Perilaku Pengguna",
+            "paragraphs": [
+              "4.1 Anda berjanji untuk mematuhi hukum global tentang keamanan jaringan, kekayaan intelektual, hak potret, dan privasi saat menggunakan Perangkat Lunak ini, dan untuk menghormati hak hukum orang lain. Kecuali diizinkan oleh hukum atau diizinkan secara tertulis oleh Pemberi Lisensi, tindakan berikut dilarang:",
+              "4.1.1 Mengunggah atau menyebarkan informasi pribadi yang tidak sah, rahasia dagang, atau konten yang melanggar hak.",
+              "4.1.2 Menggunakan cheat, plugin, atau alat pihak ketiga untuk mengganggu atau mengganggu operasi normal Perangkat Lunak ini.",
+              "4.1.3 Terlibat dalam intrusi jaringan ilegal, pencurian data, penyebaran virus, pemindaian kerentanan, pemalsuan paket data jaringan, atau serangan siber lainnya.",
+              "4.1.4 Pendaftaran massal akun secara jahat.",
+              "4.1.5 Rekayasa balik, mendekompilasi, membongkar, atau mencoba memecahkan kode sumber Perangkat Lunak ini.",
+              "4.1.6 Membuat atau menyebarkan konten pornografi, kekerasan, fitnah, atau ilegal.",
+              "4.1.7 Mempromosikan tembakau, alkohol, perjudian, senjata, atau barang terlarang.",
+              "4.1.8 Secara diam-diam memotret, merekam, atau menyebarkan gambar, suara, atau informasi pribadi orang lain tanpa izin, melanggar hak potret atau privasi mereka.",
+              "4.1.9 Tindakan lain yang melanggar hukum setempat, Perjanjian ini, atau aturan platform.",
+              "4.1.10 Jika Anda melanggar Perjanjian ini, Pemberi Lisensi berhak menghapus konten yang melanggar tanpa pemberitahuan dan menjatuhkan hukuman seperti peringatan, larangan fitur, larangan perangkat, atau larangan akun permanen, tergantung pada tingkat keparahan. Pengguna yang melanggar dapat mengajukan banding melalui email resmi, dan Pemberi Lisensi memiliki otoritas peninjauan akhir.",
+              "4.2 Saat membuat konten dengan Perangkat Lunak ini, Anda dilarang menggunakan materi bawaan, efek, atau logo untuk merek dagang, logo, atau pengenal komersial pihak ketiga (kecuali untuk konten berhak cipta Anda sendiri).",
+              "4.3 Anda tidak boleh menggunakan Perangkat Lunak ini untuk menerbitkan atau menyebarkan konten kekerasan, pornografi, fitnah, doxxing, pelanggaran privasi, spam, atau konten lain yang melanggar hukum atau ketertiban umum dan kesusilaan.",
+              "4.4 Pemberi Lisensi berhak mengawasi dan meninjau perilaku pengguna dan dapat meminta perbaikan, menghapus konten, menangguhkan atau menghentikan layanan jika menemukan pelanggaran.",
+              "4.5 Pembatasan Fitur Khusus",
+              "4.5.1 Kamera dan Streaming Langsung: Sebelum menggunakan fitur kamera, streaming langsung, atau perekaman layar, Anda harus mendapatkan persetujuan eksplisit dari semua orang yang difilmkan atau direkam. Dilarang keras menggunakan Perangkat Lunak ini untuk fotografi rahasia, perekaman rahasia, streaming langsung ilegal, atau tindakan ilegal lainnya. Anda menanggung semua tanggung jawab terkait.",
+              "4.5.2 Fitur AI: Hak kekayaan intelektual atas algoritma AI, model, efek, dan materi visual dalam Perangkat Lunak ini milik Pemberi Lisensi atau pihak ketiga yang bekerja sama. Anda hanya dapat menggunakannya untuk kreasi pribadi, non-komersial, dan legal. Anda dilarang membuat deepfake, audio/video palsu, penipuan, atau konten ilegal.",
+              "4.5.3 Kepatuhan Regional: Anda harus mematuhi secara ketat persyaratan peraturan negara/wilayah Anda mengenai streaming langsung, pengumpulan data biometrik, dan konten AI.",
+              "4.6 Jika pelanggaran Anda menyebabkan kerugian bagi Pemberi Lisensi, biaya berbayar tidak akan dikembalikan, dan Anda harus memberikan kompensasi penuh kepada Pemberi Lisensi atas semua kerugian ekonomi dan reputasi."
+            ],
+            "key": "agreement-section-4"
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Perlindungan Informasi Pribadi",
+            "paragraphs": [
+              "5.1 Kami memproses informasi pribadi Anda secara ketat sesuai dengan GDPR Uni Eropa, Undang-Undang Perlindungan Data Inggris, Ordinan Privasi Data Pribadi Hong Kong, dan peraturan perlindungan data di seluruh dunia. Sesuai dengan Pasal 27 GDPR, kami telah menunjuk perwakilan kepatuhan lokal di Uni Eropa dan Inggris. Untuk detail kontak spesifik, silakan merujuk pada dokumen \"GDPR dan Perlindungan Data\".",
+              "5.2 Anda menyetujui bahwa Pemberi Lisensi dapat mengumpulkan, menggunakan, dan menyimpan informasi pribadi sesuai dengan Perjanjian ini dan Kebijakan Privasi. Kebijakan Privasi memiliki efek hukum yang sama dengan Perjanjian ini.",
+              "5.3 Kami menggunakan teknologi keamanan seperti enkripsi dan anonimisasi untuk melindungi informasi pribadi Anda dari kebocoran, manipulasi, dan akses tidak sah.",
+              "5.4 Tanpa persetujuan eksplisit Anda, kami tidak akan membagikan informasi pribadi Anda kepada pihak ketiga, kecuali dalam keadaan berikut:",
+              "(1) Anda sendiri yang mengungkapkannya kepada pihak ketiga;",
+              "(2) Diwajibkan oleh keamanan nasional, keselamatan publik, kesehatan masyarakat, dan persyaratan peradilan atau administratif yang ditetapkan undang-undang;",
+              "(3) Untuk melindungi hak dan kepentingan hukum utama Perangkat Lunak ini, pengguna lain, atau pihak ketiga, dan sesuai dengan ketentuan hukum;",
+              "(4) Informasi yang diperoleh dari sumber publik yang sah;",
+              "(5) Keadaan lain yang diatur oleh undang-undang dan peraturan.",
+              "5.5 Anda memiliki hak hukum untuk menanyakan, mengoreksi, menghapus, dan menarik otorisasi terkait informasi pribadi Anda. Untuk aturan rinci tentang informasi pribadi, silakan merujuk pada Kebijakan Privasi."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Pengaduan dan Pelaporan",
+            "paragraphs": [
+              "6.1 Anda dapat melaporkan konten yang melanggar atau mengeluhkan tindakan yang melanggar melalui klien atau email kontak resmi.",
+              "6.2 Jika hak Anda dilanggar, Anda dapat mengirimkan bukti hak untuk mengajukan pengaduan. Pihak yang dikeluhkan dapat mengirimkan bukti kepemilikan untuk mengajukan banding.",
+              "6.3 Kami umumnya menyelesaikan peninjauan dan memberikan tanggapan dalam 15 hari kerja. Untuk kasus yang kompleks, kami akan memberi tahu Anda tentang perkembangannya."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Penanganan Pelanggaran",
+            "paragraphs": [
+              "7.1 Jika Anda melanggar Perjanjian ini, aturan platform, atau undang-undang dan peraturan setempat, Pemberi Lisensi dapat mengambil tindakan seperti peringatan, pembatasan fitur, penghapusan konten, penangguhan layanan, atau larangan permanen akun. Kerugian apa pun yang timbul dari tindakan tersebut ditanggung oleh Anda, dan konten serta data yang dihapus tidak akan dipulihkan.",
+              "7.2 Jika ditemukan aktivitas ilegal atau kriminal yang diduga, Pemberi Lisensi akan menyimpan bukti dan melaporkannya kepada otoritas penegak hukum serta bekerja sama dalam penyelidikan.",
+              "7.3 Jika pelanggaran Anda menyebabkan Pemberi Lisensi dituntut oleh pihak ketiga, dikenai sanksi administratif, atau mengalami kerugian reputasi atau ekonomi, Anda harus menanggung semua kerugian Pemberi Lisensi."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Kekayaan Intelektual",
+            "paragraphs": [
+              "8.1 Hak kekayaan intelektual atas kode, antarmuka, teks, gambar, audio/video, efek, merek dagang, dan logo Perangkat Lunak ini milik Pemberi Lisensi.",
+              "8.2 Pemberi Lisensi memiliki semua hak atas data dan informasi sah yang dihasilkan selama pengoperasian produk.",
+              "8.3 Tanpa otorisasi tertulis eksplisit dari Pemberi Lisensi, Anda dilarang menggunakan, menyalin, meniru, atau mendaftarkan merek \"VicastCam\", merek dagang, nama domain, logo, dll. Jika Anda menyebabkan kerugian melalui penggunaan tanpa izin, Anda harus menanggung tanggung jawab hukum penuh.",
+              "8.4 Perangkat Lunak ini mencakup komponen perangkat lunak yang didistribusikan di bawah lisensi sumber terbuka dan lisensi pihak ketiga. Anda harus mematuhi ketentuan lisensi yang sesuai saat menggunakan komponen tersebut."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Ketentuan untuk Anak di Bawah Umur",
+            "paragraphs": [
+              "9.1 Anak di bawah umur harus mendapatkan persetujuan eksplisit dari wali hukum mereka sebelum menggunakan Perangkat Lunak ini dan harus menggunakannya di bawah pengawasan wali. Wali memiliki hak untuk meminta pembatasan atau pembatalan akun pengguna di bawah umur.",
+              "9.2 Pemberi Lisensi dengan hati-hati mengumpulkan informasi pribadi pengguna di bawah umur. Wali harus membimbing anak di bawah umur untuk melindungi privasi pribadi dan keamanan jaringan mereka.",
+              "9.3 Wali harus memenuhi tugas perwalian mereka sesuai dengan hukum, membimbing anak di bawah umur untuk menggunakan internet secara sehat, dan mencegah kecanduan internet.",
+              "9.4 Anak di bawah umur dan wali mereka bertanggung jawab secara hukum atas semua tindakan dan konsekuensi penggunaan oleh anak di bawah umur.",
+              "9.5 Anak di bawah umur tidak boleh menggunakan kamera untuk streaming langsung atau tampil dalam video sendirian, dan tidak boleh memublikasikan konten ilegal atau vulgar.",
+              "9.6 Jika Pemberi Lisensi menemukan bahwa anak di bawah umur menggunakan Perangkat Lunak tanpa persetujuan wali, Pemberi Lisensi berhak untuk langsung membatasi atau melarang akun yang bersangkutan.",
+              "9.7 Wali harus menyimpan akun pembayaran dan kata sandi dengan baik untuk menghindari biaya tidak sah oleh anak di bawah umur. Jika Anda memiliki pertanyaan, silakan hubungi layanan pelanggan resmi."
+            ]
+          },
+          {
+            "title": "10 Penyangkalan",
+            "paragraphs": [
+              "10.1 Anda dengan tegas mengakui dan menyetujui bahwa penggunaan aplikasi ini sepenuhnya merupakan risiko Anda sendiri. Sejauh yang diizinkan oleh hukum yang berlaku, aplikasi ini dan layanan apa pun yang dilakukan atau disediakan oleh aplikasi ini disediakan \"sebagaimana adanya\" dan \"sesuai ketersediaan\" dengan segala kekurangan dan tanpa jaminan apa pun, dan Pemberi Lisensi dengan ini menolak semua jaminan dan ketentuan sehubungan dengan aplikasi ini dan layanan apa pun, baik yang tersurat, tersirat, maupun menurut undang-undang, termasuk namun tidak terbatas pada jaminan tersirat dan/atau ketentuan tentang kelayakan untuk diperdagangkan, kualitas yang memuaskan, kesesuaian untuk tujuan tertentu, keakuratan, kenikmatan yang tenang, dan tidak melanggar hak pihak ketiga. Informasi atau saran lisan atau tertulis yang diberikan oleh Pemberi Lisensi atau perwakilannya yang sah tidak akan menciptakan jaminan. Jika aplikasi atau layanan ini ditemukan cacat, Anda menanggung seluruh biaya perbaikan, perbaikan, atau koreksi yang diperlukan. Beberapa yurisdiksi tidak mengizinkan pengecualian jaminan tersirat atau pembatasan hak hukum konsumen yang berlaku, sehingga pengecualian dan pembatasan di atas mungkin tidak berlaku bagi Anda.",
+              "10.2 Pemberi Lisensi akan menggunakan teknologi keamanan standar industri untuk memastikan kelancaran operasional layanan. Sejauh yang diizinkan oleh peraturan perundang-undangan, Pemberi Lisensi tidak bertanggung jawab atas kompensasi atas gangguan layanan atau anomali data sementara yang disebabkan oleh force majeure, bencana alam, perang, larangan pemerintah, kegagalan jaringan, pemeliharaan sistem, serangan peretas, virus, kegagalan layanan pihak ketiga, kelainan perangkat, atau faktor lain di luar kendali Pemberi Lisensi.",
+              "10.3 Jika layanan dihentikan sementara atau diakhiri karena pemeliharaan sistem, peningkatan versi, perbaikan kepatuhan, atau penyesuaian bisnis, kami akan memberikan pemberitahuan terlebih dahulu yang wajar melalui pengumuman dalam aplikasi dan situs web resmi.",
+              "10.4 Jika perangkat Anda rusak atau data hilang karena kesalahan operasional Anda sendiri, kegagalan perangkat, pengaturan jaringan yang salah, atau penggunaan Perangkat Lunak ini yang tidak tepat, Anda menanggung semua kerugian.",
+              "10.5 Kami berhak untuk menyesuaikan fitur layanan, mengubah konten layanan, atau membersihkan data server berdasarkan operasi yang sah, keamanan sistem, perbaikan kepatuhan, dan alasan lainnya. Kami tidak akan menghapus data pengguna tanpa alasan.",
+              "10.6 Batasan Tanggung Jawab",
+              "Sejauh tidak dilarang oleh hukum, Pemberi Lisensi tidak akan bertanggung jawab atas cedera pribadi atau kerusakan insidental, khusus, tidak langsung, atau konsekuensial, termasuk namun tidak terbatas pada kehilangan keuntungan, kehilangan data, gangguan bisnis, atau kerusakan atau kerugian komersial lainnya, yang timbul dari atau terkait dengan penggunaan atau ketidakmampuan Anda untuk menggunakan aplikasi berlisensi, apa pun teori tanggung jawabnya (kontrak, gugatan, atau lainnya), bahkan jika Pemberi Lisensi telah diberitahu tentang kemungkinan kerusakan tersebut. Beberapa yurisdiksi tidak mengizinkan pembatasan tanggung jawab atas cedera pribadi atau kerusakan insidental atau konsekuensial, sehingga batasan ini mungkin tidak berlaku bagi Anda.",
+              "Kecuali untuk ketentuan wajib hukum setempat mengenai cedera pribadi, total tanggung jawab Pemberi Lisensi untuk semua kerusakan tidak akan melebihi 1 dolar AS (USD 1,00). Batasan di atas akan tetap berlaku bahkan jika upaya perbaikan di atas gagal mencapai tujuan utamanya.",
+              "Untuk yurisdiksi seperti Uni Eropa, Wilayah Ekonomi Eropa, dan Inggris, klausul batasan tanggung jawab ini akan berlaku secara ketat sesuai dengan hukum perlindungan konsumen setempat."
+            ],
+            "key": "agreement-section-10"
+          },
+          {
+            "title": "11 Ketentuan Lain",
+            "paragraphs": [
+              "11.1 Hukum yang Mengatur",
+              "Perjanjian ini dan hubungan antara Anda dan Pemberi Lisensi akan diatur oleh hukum Wilayah Administratif Khusus Hong Kong Republik Rakyat Tiongkok, tidak termasuk ketentuan konflik hukum. Konvensi Perserikatan Bangsa-Bangsa tentang Kontrak Penjualan Barang Internasional tidak berlaku untuk Perjanjian ini.",
+              "11.2 Penyelesaian Sengketa",
+              "Setiap sengketa yang timbul dari atau sehubungan dengan Perjanjian ini pertama-tama akan diselesaikan melalui negosiasi yang bersahabat. Jika negosiasi gagal, Anda dan Pemberi Lisensi setuju untuk menyerahkan sengketa tersebut ke pengadilan yang berwenang di Wilayah Administratif Khusus Hong Kong Republik Rakyat Tiongkok.",
+              "Jika Anda adalah penduduk negara anggota UE, klausul yurisdiksi ini tidak memengaruhi hak hukum Anda berdasarkan hukum perlindungan konsumen setempat yang bersifat memaksa.",
+              "11.3 Amandemen Perjanjian",
+              "Pemberi Lisensi berhak untuk mengubah Perjanjian ini selama pengujian produk dan operasi resmi, dan akan memublikasikan amandemen melalui cara yang wajar seperti pengumuman dalam aplikasi dan situs web resmi. Setelah dipublikasikan, ketentuan yang diubah menjadi bagian yang efektif dari Perjanjian ini dan memiliki efek hukum yang sama.",
+              "11.4 Hubungan Para Pihak",
+              "Anda dan Pemberi Lisensi adalah subjek perdata yang independen. Perjanjian ini tidak membentuk hubungan hukum apa pun seperti keagenan, kemitraan, pekerjaan, asosiasi, atau usaha patungan. Apple Inc. dan Google LLC hanyalah saluran distribusi dan pembayaran untuk Perangkat Lunak ini dan tidak berpartisipasi dalam pengembangan atau pengoperasian Perangkat Lunak ini, juga tidak memikul tanggung jawab hukum apa pun atas Perangkat Lunak ini atau layanannya.",
+              "11.5 Keberlakuan dan Pengakhiran",
+              "Perjanjian ini berlaku pada tanggal Anda menyetujui ketentuan dan mendaftarkan akun. Perjanjian ini berakhir ketika Pemberi Lisensi menghentikan layanan atau Anda kehilangan hak untuk menggunakan Perangkat Lunak. Setelah pengakhiran, kewajiban dan tanggung jawab Anda selama masa penggunaan tetap berlaku.",
+              "11.6 Judul",
+              "Judul bagian dalam Perjanjian ini hanya untuk kenyamanan dan tidak memengaruhi interpretasi atau penerapan ketentuan.",
+              "11.7 Pernyataan Hak Cipta dan Hak",
+              "Hak cipta teks Perjanjian ini milik Pemberi Lisensi. Pemberi Lisensi berhak untuk mengubah Perjanjian sesuai dengan hukum, peraturan, dan kebutuhan bisnis, dan berhak untuk menafsirkannya secara sah."
+            ],
+            "key": "agreement-section-11"
+          }
+        ]
+      }
+    }
+  ]
+}

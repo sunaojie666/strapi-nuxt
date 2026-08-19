@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Porque é que os recursos de rede ou sobreposições tremem ou ficam pretos durante uma transmissão em direto?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se tiver problemas de tremulação ou ecrã preto ao adicionar recursos de rede durante uma transmissão em direto, veja como resolver:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transfira e pré-visualize todos os recursos ou sobreposições que planeia utilizar durante a transmissão com antecedência e confirme que funcionam corretamente antes de iniciar.",
+            "Alguns recursos incluídos no software estão armazenados em servidores. Se os transferir antes de iniciar a transmissão, pode utilizá-los diretamente durante a mesma sem os carregar novamente.",
+            "Carregar recursos a meio da transmissão consome recursos de streaming, memória do telemóvel e desempenho, o que pode causar atrasos; em telemóveis mais básicos, pode até levar a falhas ou ecrã preto."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Antes de iniciar a transmissão, planeie e ensaie a sua transmissão minuciosamente para garantir que todos os elementos funcionam perfeitamente antes de começar."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "O que devo fazer se algumas teclas do teclado estiverem cobertas?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se algumas teclas do teclado virtual estiverem cobertas, tente o seguinte:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Se estiver a utilizar um telemóvel mais antigo com ecrã 16:9 como controlo remoto e algumas teclas estiverem cobertas, toque no segundo botão no canto superior esquerdo do teclado para ativar o modo de operação em ecrã inteiro.",
+            "Se o layout do teclado estiver desalinhado, vá às Definições do telemóvel e defina o tamanho da fonte para normal.",
+            "Alguns telemóveis têm o modo idoso ativado; desativá-lo deve restaurar a visualização normal do teclado."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Os problemas de visualização são geralmente causados por fontes demasiado grandes ou por um tema de interface demasiado grande. Repor estes para o modo padrão deve resolver o problema."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "O que devo fazer se o meu telemóvel Huawei continuar a desligar da multi-câmara ou do teclado virtual?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se o seu telemóvel Huawei tiver problemas de desconexão com a multi-câmara ou o teclado virtual, siga estes passos:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vá às Definições do telemóvel.",
+            "Na barra de pesquisa no topo, escreva 'Gestão de arranque de aplicações'.",
+            "Vá à página de Gestão de arranque de aplicações, desça até encontrar VicastCam.",
+            "Desative o interruptor à direita para que o ícone fique cinzento; ao mesmo tempo, ative todas as três opções na janela pop-up para que fiquem azuis."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Também pode consultar o tutorial em vídeo 'Como evitar desconexões com multi-câmara e teclado virtual em telemóveis Huawei'."
+        }
+      ]
+    }
+  ]
+}

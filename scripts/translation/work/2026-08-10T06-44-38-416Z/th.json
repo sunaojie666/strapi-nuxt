@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "th",
+        "loginTitle1": "เปลี่ยนพื้นหลังเสมือนได้เพียงคลิกเดียว",
+        "loginTitle2": "ทำให้ไลฟ์สดของคุณโดดเด่น",
+        "loginDes1": "เครื่องมือไลฟ์สตรีมมืออาชีพที่ขับเคลื่อนด้วย AI",
+        "loginDes2": "พื้นหลังเสมือน การเสริมไลฟ์สตรีม และการออกอากาศหลายแพลตฟอร์ม ง่ายในที่เดียว",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "เปลี่ยนพื้นหลังแบบเรียลไทม์",
+        "featureTitle2": "สตรีมหลายแพลตฟอร์ม",
+        "featureSubTitle2": "เริ่มไลฟ์ได้ในคลิกเดียว",
+        "featureTitle3": "กล้องเสมือน",
+        "featureSubTitle3": "เปลี่ยนมือถือของคุณให้เป็นเว็บแคม",
+        "loginBox": {
+          "loginPageTitle": "เข้าสู่ระบบ / สมัครสมาชิก",
+          "codeLoginTab": "เข้าสู่ระบบด้วยรหัส",
+          "pwdLoginTab": "เข้าสู่ระบบด้วยรหัสผ่าน",
+          "qrLoginTab": "เข้าสู่ระบบด้วย QR Code",
+          "emailInputPlaceholder": "กรอกอีเมลเพื่อเข้าสู่ระบบ",
+          "pwdInputPlaceholder": "กรอกรหัสผ่าน",
+          "verifyCodePlaceholder": "กรอกรหัสยืนยัน",
+          "getVerifyCodeText": "รับรหัส",
+          "loginBtnText": "เข้าสู่ระบบ",
+          "qrLoginTip": "ใช้แอป VicastCam สแกน QR Code",
+          "qrWaitingTip": "กำลังรอการยืนยันการสแกน",
+          "agreeProtocolText": "ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้แล้ว",
+          "userProtocolText": "ข้อตกลงผู้ใช้",
+          "privacyPolicyText": "นโยบายความเป็นส่วนตัว",
+          "agreeProtocolPrefix": "ฉันได้อ่านและยอมรับ"
+        },
+        "toastBox": {
+          "closeToastLabel": "ปิด",
+          "requestLoading": "กำลังโหลด",
+          "requestSuccess": "สำเร็จ",
+          "requestFail": "การดำเนินการไม่สำเร็จ",
+          "passwordLoginNotReady": "ยังไม่สามารถเข้าสู่ระบบด้วยรหัสผ่านได้",
+          "passwordRequired": "กรุณากรอกรหัสผ่าน",
+          "emailRequired": "กรุณากรอกอีเมลเพื่อเข้าสู่ระบบ",
+          "verifyCodeRequired": "กรุณากรอกรหัสยืนยัน",
+          "agreeProtocolRequired": "กรุณาอ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้ก่อน",
+          "qrcodeExpired": "QR Code หมดอายุแล้ว กรุณาลองอีกครั้ง"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "th",
+        "hero_section": {
+          "tag": "เครื่องมือไลฟ์สตรีมที่ขับเคลื่อนด้วย AI",
+          "title_main": "เอฟเฟกต์กรีนสกรีนและการแคสต์หน้าจอจากมือถือของคุณ",
+          "title_highlight": "เสริมพลังการไลฟ์สตรีมทั่วโลก",
+          "description": "VicastCam ใช้ AI Matting ขั้นสูง ให้คุณเปลี่ยนพื้นหลังเสมือนได้อย่างราบรื่นระหว่างการไลฟ์สตรีม เพิ่มเอฟเฟกต์ที่ดื่มด่ำเพื่อสร้างภาพลักษณ์มืออาชีพ",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "ดาวน์โหลด"
+            },
+            {
+              "platform": "Google Play",
+              "text": "ดาวน์โหลด"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam มอบพื้นหลังเสมือน การเสริมไลฟ์สตรีม และเครื่องมือข้ามแพลตฟอร์มให้กับครีเอเตอร์"
+          },
+          "columns": [
+            {
+              "title": "ผลิตภัณฑ์",
+              "links": [
+                {
+                  "text": "ฟีเจอร์"
+                },
+                {
+                  "text": "ราคา"
+                },
+                {
+                  "text": "ศูนย์ดาวน์โหลด"
+                }
+              ]
+            },
+            {
+              "title": "นักพัฒนา",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "เอกสาร API"
+                }
+              ]
+            },
+            {
+              "title": "บริษัท",
+              "links": [
+                {
+                  "text": "เกี่ยวกับเรา"
+                },
+                {
+                  "text": "นโยบายความเป็นส่วนตัว"
+                },
+                {
+                  "text": "ข้อตกลงผู้ใช้"
+                },
+                {
+                  "text": "ข้อตกลงสมาชิก"
+                }
+              ]
+            },
+            {
+              "title": "การสนับสนุน",
+              "links": [
+                {
+                  "text": "วิดีโอสอน"
+                },
+                {
+                  "text": "คำถามที่พบบ่อย"
+                },
+                {
+                  "text": "ติดต่อเรา"
+                }
+              ]
+            },
+            {
+              "title": "ธุรกิจ",
+              "links": [
+                {
+                  "text": "ร่วมเป็นตัวแทนจำหน่าย"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "สอบถามธุรกิจ"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "ฟีเจอร์",
+      "nav_pricing": "ราคา",
+      "nav_faq": "คำถามที่พบบ่อย",
+      "nav_auth": "เข้าสู่ระบบ / สมัครสมาชิก",
+      "nav_team": "ธุรกิจ"
+    }
+  ]
+}

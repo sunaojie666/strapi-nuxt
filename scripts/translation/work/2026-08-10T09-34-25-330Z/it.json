@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Contratto con l'utente",
+        "updatedAt": "22 luglio 2026",
+        "description": "Il presente Contratto di licenza con l'utente (\"Contratto\") è stipulato tra il Licenziante e l'utente del presente software (\"tu\" o \"utente\") e disciplina tutte le tue azioni di download, installazione, registrazione, accesso e utilizzo del software.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Licenziante: Vicast International Limited",
+              "Canali ufficiali: sito web ufficiale di VicastCam e app store autorizzati (Apple App Store / Google Play Store)",
+              "Email di contatto: service@vicastcam.com",
+              "Ultimo aggiornamento: 22 luglio 2026",
+              "Benvenuto su VicastCam (\"questo Software\")!",
+              "I prodotti VicastCam sono forniti esclusivamente a utenti al di fuori della Cina continentale. Non promuoviamo attivamente il prodotto a utenti nella Cina continentale. Se ti trovi nella Cina continentale, tieni presente che questo prodotto non possiede le qualifiche operative pertinenti nella Cina continentale.",
+              "Il presente Contratto di licenza con l'utente (\"Contratto\") è stipulato tra il Licenziante e l'utente del presente software (\"tu\" o \"utente\") e disciplina tutte le tue azioni di download, installazione, registrazione, accesso e utilizzo del software.",
+              "Facendo clic sul pulsante \"Accetto\" in questo Software, accetti volontariamente tutti i termini del presente Contratto. Se non li accetti, il Licenziante non ti concede il diritto di utilizzare il Software. Ti preghiamo di interrompere immediatamente l'uso e disinstallare il Software. L'uso continuato del Software costituisce il tuo consenso e l'accettazione del presente Contratto e di eventuali successive revisioni.",
+              "Confermi di avere almeno 18 anni o di aver raggiunto la maggiore età legale nella tua giurisdizione (\"adulto\"). I minori devono utilizzare questo Software con il consenso esplicito e sotto la supervisione del loro tutore legale, che assumerà le responsabilità di tutela in conformità con la legge."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Ambito di applicazione",
+            "paragraphs": [
+              "1.1 Prima di utilizzare il Software, ti preghiamo di leggere attentamente il presente Contratto, in particolare le clausole fondamentali in grassetto, incluse le esclusioni di responsabilità, la legge applicabile e la risoluzione delle controversie. Se non accetti qualsiasi termine, interrompi immediatamente l'uso del Software.",
+              "1.2 Questo Software è destinato principalmente a persone adulte. I minori devono ottenere il consenso del loro tutore legale prima di utilizzare questo Software e devono usarlo sotto la supervisione del tutore. Il tutore deve adempiere ai propri doveri di tutela in conformità con la legge.",
+              "1.3 Il presente Contratto include le regole della piattaforma come annunci, regole delle attività e notifiche in-app pubblicate da questo Software. Tutte le regole della piattaforma sono parte integrante del presente Contratto e hanno lo stesso effetto legale del presente Contratto.",
+              "1.4 Registrandoti, accedendo o utilizzando questo Software, sei considerato aver letto, compreso e accettato integralmente il presente Contratto.",
+              "1.5 Tutti i diritti di proprietà intellettuale su questo Software e qualsiasi diritto non espressamente concesso agli utenti sono riservati al Licenziante."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Questo Software e servizi correlati",
+            "paragraphs": [
+              "2.1 Questo Software è uno strumento ausiliario per scenari di live streaming, fornendo funzionalità come live streaming, configurazione di scene virtuali, AI matting, effetti viso e filtri di bellezza. I servizi e le funzionalità specifici sono soggetti alla visualizzazione effettiva del prodotto.",
+              "2.2 Puoi ottenere il client solo tramite canali ufficiali (Apple App Store o Google Play Store). Qualsiasi rischio e perdita derivante dall'uso di versioni non ufficiali sarà a tuo carico.",
+              "2.3 Per utilizzare questo Software, devi predisporre il tuo dispositivo terminale e la connessione di rete e sostenere i relativi costi di internet e dati. La piena funzionalità richiede una connessione internet.",
+              "2.4 Il Licenziante ti concede una licenza personale, non commerciale, non trasferibile, revocabile e non esclusiva per l'uso del Software. Senza previa autorizzazione scritta del Licenziante, ti è vietato modificare, copiare, distribuire, rispecchiare, fare scraping, vendere o utilizzare il Software per scopi commerciali.",
+              "2.5 Il Licenziante ha il diritto di aggiornare, adattare, sospendere o terminare parte o tutti i servizi in base a ottimizzazione del prodotto, manutenzione della sicurezza, operazioni di conformità e altre esigenze. Puoi scegliere se aggiornare il client; il rifiuto di aggiornare può comportare funzionalità limitate. Hai il diritto di disinstallare l'app in qualsiasi momento per terminare il servizio.",
+              "2.6 Acquisti e abbonamenti",
+              "2.6.1 Tutte le funzionalità a pagamento, gli acquisti e gli abbonamenti all'interno di questo Software vengono completati tramite il sistema di pagamento di Apple App Store o Google Play, e tali transazioni sono soggette anche ai termini di servizio della rispettiva piattaforma.",
+              "2.6.2 Regole di abbonamento",
+              "(1) Rinnovo automatico: i servizi in abbonamento verranno addebitati automaticamente almeno 24 ore prima della fine del periodo di servizio corrente e il sistema della piattaforma invierà promemoria di rinnovo. Puoi visualizzare, gestire e annullare il rinnovo automatico in qualsiasi momento andando alla pagina \"Impostazioni > Account > Abbonamenti\" del tuo dispositivo (il percorso può variare a seconda della piattaforma).",
+              "(2) Modifiche dei prezzi: se modifichiamo i prezzi degli abbonamenti, forniremo un preavviso di almeno 30 giorni prima che il nuovo prezzo entri in vigore tramite annunci in-app, sito web ufficiale o altri mezzi ragionevoli. Le modifiche dei prezzi non influiranno sul periodo di abbonamento corrente già in vigore. Laddove la legge locale richieda un ulteriore consenso dell'utente, ci conformeremo alla legge.",
+              "(3) Prova gratuita: se viene offerta una prova gratuita, disattiva il rinnovo automatico almeno 24 ore prima della fine del periodo di prova per evitare di essere addebitato.",
+              "2.6.3 Rimborsi regionali e diritti di recesso legali",
+              "(1) Utenti nell'Unione Europea, nello Spazio Economico Europeo e nel Regno Unito: in conformità con le leggi locali sulla protezione dei consumatori, hai un diritto di recesso legale di 14 giorni senza motivo. Vedi la Politica di rimborso di VicastCam per i dettagli. Le richieste di recesso e rimborso devono essere presentate tramite il canale ufficiale (App Store o Google Play) utilizzato per il tuo acquisto, e i rimborsi sono soggetti alle regole della piattaforma e alla legge locale. Se hai utilizzato il servizio durante il periodo di riflessione di 14 giorni, il rimborso sarà calcolato proporzionalmente in base all'uso effettivo. Una volta che il recesso ha effetto, i tuoi diritti di utilizzo a pagamento termineranno immediatamente.",
+              "(2) Pagamento una tantum e servizi a vita: se confermi esplicitamente l'attivazione immediata del servizio e rinunci al diritto di recesso di 14 giorni, il diritto di recesso senza motivo non si applicherà più.",
+              "(3) Tutte le altre regioni: rimborsi e problemi post-vendita sono principalmente disciplinati dalle regole ufficiali della piattaforma utilizzata per il tuo acquisto.",
+              "2.6.4 Regole di utilizzo dei vantaggi a pagamento",
+              "(1) I servizi e i vantaggi a pagamento sono solo per uso personale.",
+              "(2) Ti è vietato fornire vantaggi a pagamento a terzi tramite donazione, prestito, noleggio, rivendita o condivisione di massa.",
+              "2.7 Commissioni, abbonamento e regole di uso commerciale",
+              "2.7.1 Il Licenziante ha il diritto di addebitare commissioni per il Software e i servizi di rete correlati in conformità con la legge. Sei responsabile di tutti i costi di hardware, software e rete necessari per l'uso e devi pagare le corrispondenti commissioni di servizio in tempo.",
+              "2.7.2 Dovrai adempiere ai tuoi obblighi fiscali in conformità con la legge e sostenere tutte le tasse derivanti dall'uso dei servizi. Ti è vietato utilizzare i servizi a pagamento in modo fraudolento.",
+              "2.7.3 Potremmo modificare il sistema di abbonamento o terminare i servizi di abbonamento in base a legittime esigenze operative. Se un account viene bannato o terminato a causa di violazioni, le commissioni pagate non verranno rimborsate.",
+              "2.7.4 Se hai bisogno di utilizzare questo Software per scopi commerciali, devi fare domanda al Licenziante in anticipo e ottenere una licenza commerciale ufficiale.",
+              "2.7.5 Ti è vietato utilizzare questo Software per diffondere contenuti pornografici o illegali a scopo di lucro."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Gestione dell'account",
+            "paragraphs": [
+              "3.1 Puoi registrare un account da solo o utilizzare un account di piattaforma terza legittimo per accedere. Gli account di terze parti devono essere verificati con informazioni di identità reali e conformarsi alle regole della piattaforma. Sei responsabile della salvaguardia del tuo account e della tua password e di tutte le azioni intraprese con il tuo account.",
+              "3.2 In conformità con i requisiti di supervisione di rete e registrazione con nome reale in tutto il mondo, devi fornire informazioni di identità e contatti (come email) veritiere, accurate e valide al momento della registrazione. Se le informazioni sono false o dubbie, il Licenziante ha il diritto di richiedere una correzione, limitare o terminare i servizi. Alcune informazioni di registrazione non possono essere modificate per motivi di verifica di sicurezza.",
+              "3.3 Alcune funzionalità di base possono essere utilizzate senza effettuare l'accesso. La piena funzionalità e i servizi a pagamento richiedono registrazione, accesso e verifica dell'identità.",
+              "3.4 Le informazioni dell'account come nickname, avatar e biografia non devono impersonare nomi, marchi, ritratti o altri diritti legali di altri, e non devono contenere contenuti illegali, volgari o fuorvianti. Il Licenziante ha il diritto di rivedere le informazioni dell'account e adottare misure come reimpostazione, limitazione delle funzioni o ban dell'account per violazioni.",
+              "3.5 Gli account sono solo per uso personale e possono essere utilizzati su dispositivi che controlli legalmente. È vietato regalare, prestare, noleggiare, trasferire o vendere account. Se l'utente risulta non corrispondere al titolare registrato, il Licenziante ha il diritto di sospendere o terminare i servizi.",
+              "3.6 Sei responsabile della sicurezza e della riservatezza del tuo account e ti assumi la piena responsabilità legale per tutte le operazioni, i contenuti e le azioni effettuate con il tuo account.",
+              "3.7 Se il tuo account viene rubato o dimentichi la password, puoi recuperarlo tramite il canale di ricorso ufficiale.",
+              "3.7.1 Se il tuo account viene rubato, le informazioni vengono divulgate o si verificano perdite patrimoniali a causa di custodia impropria, perdita del dispositivo o divulgazione volontaria delle credenziali dell'account, ti assumi la piena responsabilità.",
+              "3.7.2 I servizi di recupero account verificano solo le informazioni memorizzate nel sistema e non possono determinare la vera identità dell'utente. Ti assumi i rischi correlati. Se noti attività anomale sull'account, contatta immediatamente il servizio clienti ufficiale.",
+              "3.8 Cancellazione dell'account e trattamento dei dati",
+              "3.8.1 Puoi richiedere la cancellazione dell'account tramite \"Io > Impostazioni > Gestione account > Cancella account\" del Software o tramite l'email ufficiale. Prima della cancellazione è richiesta la verifica della proprietà.",
+              "3.8.2 Dopo la cancellazione dell'account, è previsto un periodo di conservazione dei dati di 30 giorni (solo per riconciliazione finanziaria, risoluzione delle controversie e verifica post-vendita). Trascorso questo periodo, verrà eseguita la cancellazione fisica permanente, ad eccezione dei registri delle transazioni che devono essere conservati come richiesto dalla legge.",
+              "3.8.3 Dopo la cancellazione dell'account, l'account e i dati non possono essere recuperati. Gli obblighi e le responsabilità sostenuti durante l'uso non sono esentati dalla cancellazione."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Condotta dell'utente",
+            "paragraphs": [
+              "4.1 Ti impegni a rispettare le leggi globali su sicurezza di rete, proprietà intellettuale, diritti di ritratto e privacy durante l'uso di questo Software e a rispettare i diritti legali degli altri. Salvo quanto consentito dalla legge o autorizzato per iscritto dal Licenziante, sono vietati i seguenti atti:",
+              "4.1.1 Caricare o diffondere informazioni personali non autorizzate, segreti commerciali o contenuti che violano i diritti altrui.",
+              "4.1.2 Utilizzare cheat, plugin o strumenti di terze parti per interferire o interrompere il normale funzionamento di questo Software.",
+              "4.1.3 Impegnarsi in intrusioni di rete illegali, furto di dati, diffusione di virus, scansione di vulnerabilità, falsificazione di pacchetti di dati di rete o altri attacchi informatici.",
+              "4.1.4 Registrazione massiccia e dannosa di account.",
+              "4.1.5 Reverse engineering, decompilazione, disassemblaggio o tentativo di decifrare il codice sorgente di questo Software.",
+              "4.1.6 Creare o diffondere contenuti pornografici, violenti, diffamatori o illegali.",
+              "4.1.7 Promuovere tabacco, alcol, gioco d'azzardo, armi o articoli proibiti.",
+              "4.1.8 Fotografare, registrare o diffondere di nascosto immagini, voci o informazioni private di altri senza autorizzazione, violando i loro diritti di ritratto o privacy.",
+              "4.1.9 Altri atti che violano le leggi locali, il presente Contratto o le regole della piattaforma.",
+              "4.1.10 Se violi il presente Contratto, il Licenziante ha il diritto di eliminare i contenuti violanti senza preavviso e di imporre sanzioni come avvisi, divieti di funzionalità, divieti del dispositivo o ban permanenti dell'account, a seconda della gravità. Gli utenti che violano possono presentare ricorso tramite l'email ufficiale e il Licenziante ha l'autorità di revisione finale.",
+              "4.2 Quando crei contenuti con questo Software, ti è vietato utilizzare materiali, effetti o loghi integrati per marchi, loghi o identificatori commerciali di terze parti (ad eccezione dei contenuti di cui detieni il copyright).",
+              "4.3 Non devi utilizzare questo Software per pubblicare o diffondere contenuti violenti, pornografici, diffamatori, doxxing, che violano la privacy, spam o altri contenuti che violano leggi o ordine pubblico e buon costume.",
+              "4.4 Il Licenziante ha il diritto di supervisionare e rivedere il comportamento degli utenti e può richiedere la rettifica, eliminare contenuti, sospendere o terminare i servizi al momento della scoperta di violazioni.",
+              "4.5 Restrizioni speciali delle funzionalità",
+              "4.5.1 Fotocamera e live streaming: prima di utilizzare le funzionalità di fotocamera, live streaming o registrazione dello schermo, devi ottenere il consenso esplicito di tutte le persone filmate o registrate. È severamente vietato utilizzare questo Software per fotografie segrete, registrazioni segrete, live streaming illegale o altri atti illegali. Ti assumi tutte le responsabilità correlate.",
+              "4.5.2 Funzionalità AI: i diritti di proprietà intellettuale degli algoritmi AI, modelli, effetti e materiali visivi in questo Software appartengono al Licenziante o a terzi collaboratori. Puoi utilizzarli solo per creazione personale, non commerciale e legale. Ti è vietato creare deepfake, audio/video falsi, frodi o contenuti illegali.",
+              "4.5.3 Conformità regionale: devi rispettare rigorosamente i requisiti normativi del tuo paese/regione riguardo a live streaming, raccolta di dati biometrici e contenuti AI.",
+              "4.6 Se la tua violazione causa perdite al Licenziante, le commissioni pagate non verranno rimborsate e dovrai risarcire integralmente il Licenziante per tutte le perdite economiche e di reputazione."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Protezione dei dati personali",
+            "paragraphs": [
+              "5.1 Trattiamo rigorosamente i tuoi dati personali in conformità con il GDPR dell'UE, il Data Protection Act del Regno Unito, l'Ordinanza sulla privacy dei dati personali di Hong Kong e le normative sulla protezione dei dati in tutto il mondo. In conformità con l'Articolo 27 del GDPR, abbiamo nominato rappresentanti locali per la conformità nell'UE e nel Regno Unito. Per i dettagli di contatto specifici, fai riferimento al documento \"GDPR e protezione dei dati\".",
+              "5.2 Accetti che il Licenziante possa raccogliere, utilizzare e memorizzare dati personali in conformità con il presente Contratto e la Politica sulla privacy. La Politica sulla privacy ha lo stesso effetto legale del presente Contratto.",
+              "5.3 Utilizziamo tecnologie di sicurezza come crittografia e anonimizzazione per proteggere i tuoi dati personali da perdite, manomissioni e accessi non autorizzati.",
+              "5.4 Senza il tuo consenso esplicito, non condivideremo i tuoi dati personali con terze parti, salvo nelle seguenti circostanze:",
+              "(1) Li divulghi tu stesso a terze parti;",
+              "(2) Richiesto da sicurezza nazionale, pubblica sicurezza, salute pubblica e requisiti giudiziari o amministrativi legali;",
+              "(3) Per proteggere i principali diritti e interessi legali di questo Software, di altri utenti o di terze parti, e in conformità con le disposizioni di legge;",
+              "(4) Informazioni ottenute da fonti pubbliche legittime;",
+              "(5) Altre circostanze previste da leggi e regolamenti.",
+              "5.5 Hai il diritto legale di richiedere, correggere, eliminare e revocare l'autorizzazione riguardo ai tuoi dati personali. Per le regole dettagliate sui dati personali, fai riferimento alla Politica sulla privacy."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Reclami e segnalazioni",
+            "paragraphs": [
+              "6.1 Puoi segnalare contenuti violanti o lamentare atti lesivi tramite il client o l'email di contatto ufficiale.",
+              "6.2 Se i tuoi diritti vengono lesi, puoi presentare una prova dei diritti per sporgere reclamo. La parte contro cui viene presentato il reclamo può presentare una prova di proprietà per appellarsi.",
+              "6.3 Generalmente completiamo la revisione e forniamo un feedback entro 15 giorni lavorativi. Per i casi complessi, ti aggiorneremo sullo stato di avanzamento."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Gestione delle violazioni",
+            "paragraphs": [
+              "7.1 Se violi il presente Contratto, le regole della piattaforma o le leggi e i regolamenti locali, il Licenziante può adottare misure come avvisi, restrizioni delle funzionalità, eliminazione dei contenuti, sospensione del servizio o ban permanente dell'account. Eventuali perdite derivanti da tali misure saranno a tuo carico e i contenuti e i dati eliminati non verranno ripristinati.",
+              "7.2 Se vengono scoperte attività sospette illegali o criminali, il Licenziante conserverà le prove e le segnalerà alle autorità di polizia e collaborerà con le indagini.",
+              "7.3 Se la tua violazione causa al Licenziante rivendicazioni da parte di terzi, sanzioni amministrative o perdite reputazionali o economiche, dovrai sostenere tutte le perdite del Licenziante."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Proprietà intellettuale",
+            "paragraphs": [
+              "8.1 I diritti di proprietà intellettuale del codice, dell'interfaccia, del testo, delle immagini, dell'audio/video, degli effetti, dei marchi e dei loghi di questo Software appartengono al Licenziante.",
+              "8.2 Il Licenziante possiede tutti i diritti sui dati e le informazioni legittimi generati durante il funzionamento del prodotto.",
+              "8.3 Senza esplicita autorizzazione scritta del Licenziante, ti è vietato utilizzare, copiare, imitare o registrare il marchio \"VicastCam\", i marchi, i nomi di dominio, i loghi, ecc. Se causi perdite tramite uso non autorizzato, ti assumi la piena responsabilità legale.",
+              "8.4 Questo Software include componenti software distribuiti con licenze open source e licenze di terze parti. Devi rispettare rigorosamente i termini di licenza corrispondenti quando utilizzi tali componenti."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Termini per i minori",
+            "paragraphs": [
+              "9.1 I minori devono ottenere il consenso esplicito del loro tutore legale prima di utilizzare questo Software e devono usarlo sotto la supervisione del tutore. I tutori hanno il diritto di richiedere restrizioni o la cancellazione dell'account di un utente minorenne.",
+              "9.2 Il Licenziante raccoglie attentamente i dati personali degli utenti minorenni. I tutori dovrebbero guidare i minori a proteggere la loro privacy personale e la sicurezza di rete.",
+              "9.3 I tutori dovrebbero adempiere ai loro doveri di tutela in conformità con la legge, guidare i minori a un uso sano di internet e prevenire la dipendenza da internet.",
+              "9.4 I minori e i loro tutori sono legalmente responsabili di tutte le azioni e conseguenze dell'uso da parte del minore.",
+              "9.5 I minori non possono utilizzare la fotocamera per live streaming o apparire da soli nei video, e non possono pubblicare contenuti illegali o volgari.",
+              "9.6 Se il Licenziante scopre che un minore sta utilizzando il Software senza il consenso del tutore, ha il diritto di limitare o bannare direttamente l'account corrispondente.",
+              "9.7 I tutori dovrebbero custodire correttamente gli account di pagamento e le password per evitare addebiti non autorizzati da parte dei minori. Se hai domande, contatta il servizio clienti ufficiale."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Esclusione di responsabilità",
+            "paragraphs": [
+              "10.1 Riconosci e accetti espressamente che l'uso di questa applicazione è a tuo esclusivo rischio. Nella misura massima consentita dalla legge applicabile, questa applicazione e qualsiasi servizio eseguito o fornito da questa applicazione sono forniti \"così come sono\" e \"come disponibili\" con tutti i difetti e senza garanzie di alcun tipo, e il Licenziante declina ogni garanzia e condizione rispetto a questa applicazione e a qualsiasi servizio, sia espressa, implicita o legale, incluse ma non limitate alle garanzie e/o condizioni implicite di commerciabilità, qualità soddisfacente, idoneità per uno scopo particolare, accuratezza, godimento pacifico e non violazione di diritti di terzi. Nessuna informazione o consiglio orale o scritto fornito dal Licenziante o dai suoi rappresentanti autorizzati creerà una garanzia. Se questa applicazione o i servizi risultano difettosi, ti assumi l'intero costo di tutta la manutenzione, riparazione o correzione necessaria. Alcune giurisdizioni non consentono l'esclusione delle garanzie implicite o le limitazioni sui diritti legali applicabili dei consumatori, quindi le esclusioni e le limitazioni di cui sopra potrebbero non applicarsi a te.",
+              "10.2 Il Licenziante utilizzerà tecnologie di sicurezza standard del settore per garantire il funzionamento stabile dei servizi. Nella misura consentita da leggi e regolamenti, il Licenziante non sarà responsabile per il risarcimento di interruzioni del servizio o anomalie temporanee dei dati causate da forza maggiore, disastri naturali, guerre, divieti governativi, guasti di rete, manutenzione del sistema, attacchi hacker, virus, guasti di servizi di terze parti, anomalie del dispositivo o altri fattori al di fuori del controllo del Licenziante.",
+              "10.3 Se i servizi vengono sospesi o terminati a causa di manutenzione del sistema, aggiornamenti di versione, rettifiche di conformità o adeguamenti aziendali, forniremo un ragionevole preavviso tramite annunci in-app e sito web ufficiale.",
+              "10.4 Se il tuo dispositivo viene danneggiato o i dati vengono persi a causa di errori operativi tuoi, guasti del dispositivo, impostazioni di rete errate o uso improprio di questo Software, ti assumi tutte le perdite.",
+              "10.5 Abbiamo il diritto di adattare le funzionalità del servizio, modificare il contenuto del servizio o pulire i dati del server in base a operazioni legittime, sicurezza del sistema, rettifiche di conformità e altri motivi. Non elimineremo i dati degli utenti senza motivo.",
+              "10.6 Limitazione di responsabilità",
+              "Nella misura non vietata dalla legge, in nessun caso il Licenziante sarà responsabile per lesioni personali o danni incidentali, speciali, indiretti o consequenziali, inclusi ma non limitati a perdita di profitti, perdita di dati, interruzione dell'attività o qualsiasi altro danno o perdita commerciale, derivanti da o correlati all'uso o all'incapacità di utilizzare l'applicazione concessa in licenza, indipendentemente dalla teoria della responsabilità (contrattuale, extracontrattuale o altro), anche se il Licenziante è stato avvisato della possibilità di tali danni. Alcune giurisdizioni non consentono la limitazione della responsabilità per lesioni personali o danni incidentali o consequenziali, quindi questa limitazione potrebbe non applicarsi a te.",
+              "Salvo disposizioni imperative della legge locale in materia di lesioni personali, la responsabilità totale del Licenziante per tutti i danni non supererà 1 dollaro USA (USD 1,00). Le limitazioni di cui sopra si applicheranno anche se il rimedio di cui sopra non raggiunge il suo scopo essenziale.",
+              "Per giurisdizioni come l'Unione Europea, lo Spazio Economico Europeo e il Regno Unito, questa clausola di limitazione di responsabilità si applicherà rigorosamente in conformità con le leggi locali sulla protezione dei consumatori."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Varie",
+            "paragraphs": [
+              "11.1 Legge applicabile",
+              "Il presente Contratto e il rapporto tra te e il Licenziante saranno disciplinati dalle leggi della Regione Amministrativa Speciale di Hong Kong della Repubblica Popolare Cinese, escluse le disposizioni sui conflitti di legge. La Convenzione delle Nazioni Unite sui contratti di vendita internazionale di beni non si applica al presente Contratto.",
+              "11.2 Risoluzione delle controversie",
+              "Qualsiasi controversia derivante da o in relazione al presente Contratto sarà prima risolta tramite negoziazione amichevole. Se la negoziazione fallisce, tu e il Licenziante accettate di sottoporre la controversia ai tribunali con giurisdizione nella Regione Amministrativa Speciale di Hong Kong della Repubblica Popolare Cinese.",
+              "Se sei residente in uno Stato membro dell'UE, questa clausola di giurisdizione non pregiudica i tuoi diritti legali ai sensi delle leggi locali imperative sulla protezione dei consumatori.",
+              "11.3 Modifiche al Contratto",
+              "Il Licenziante ha il diritto di modificare il presente Contratto durante il test del prodotto e il funzionamento formale e pubblicherà le modifiche tramite mezzi ragionevoli come annunci in-app e sito web ufficiale. Una volta pubblicate, le clausole modificate diventano parte effettiva del presente Contratto e hanno lo stesso effetto legale.",
+              "11.4 Rapporto tra le parti",
+              "Tu e il Licenziante siete soggetti civili indipendenti. Il presente Contratto non costituisce alcun rapporto legale come agenzia, società, rapporto di lavoro, associazione o joint venture. Apple Inc. e Google LLC sono solo canali di distribuzione e pagamento per questo Software e non partecipano allo sviluppo o al funzionamento di questo Software, né si assumono alcuna responsabilità legale per questo Software o i suoi servizi.",
+              "11.5 Efficacia e risoluzione",
+              "Il presente Contratto entra in vigore alla data in cui accetti i termini e registri un account. Termina quando il Licenziante termina i servizi o perdi il diritto di utilizzare il Software. Dopo la risoluzione, i tuoi obblighi e le tue responsabilità durante il periodo di utilizzo rimangono in vigore.",
+              "11.6 Titoli",
+              "I titoli delle sezioni del presente Contratto sono solo per comodità e non influenzano l'interpretazione o l'applicazione dei termini.",
+              "11.7 Dichiarazione di copyright e diritti",
+              "Il copyright del testo del presente Contratto appartiene al Licenziante. Il Licenziante ha il diritto di modificare il Contratto in conformità con leggi, regolamenti ed esigenze aziendali e ha il diritto di interpretarlo legalmente."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

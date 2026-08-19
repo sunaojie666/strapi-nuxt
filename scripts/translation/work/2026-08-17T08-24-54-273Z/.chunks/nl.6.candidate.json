@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Welke afmetingen worden aanbevolen voor live streaming materialen?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Aanbevolen afmetingen voor live streaming materialen:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Voor live achtergrondafbeeldingen raden we 1080 x 1920 pixels aan; voor video's raden we ook 1080 x 1920 pixels aan.",
+            "Belangrijk: overlays op volledig scherm moeten een 9:16 beeldverhouding gebruiken om ervoor te zorgen dat ze perfect uitgelijnd zijn bij het wisselen tussen volledig scherm en 9:16 modus, voor een naadloze pasvorm."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Welke uitvoermodi worden ondersteund voor streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Streaming ondersteunt twee uitvoermodi: 9:16 streaming en streaming op volledig scherm. Volg deze stappen om de modus op je Apple-apparaat te selecteren:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, ga naar de live streamingpagina en tik op het menu-icoon aan de rechterkant."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Menu-ingang aan de rechterkant van de Apple live streamingpagina",
+          "caption": "Stap 1: Tik op het menu-icoon aan de rechterkant van de live streamingpagina."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Zoek in 'Meer instellingen' naar 'Beeldverhouding' en selecteer 'Volledig scherm' of '9:16' indien nodig."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Opties voor beeldverhouding in 'Meer instellingen' op Apple",
+          "caption": "Stap 2: Selecteer bij 'Beeldverhouding' 'Volledig scherm' of '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Over de twee modi"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 streaming: De uitvoerbeeldverhouding is vastgesteld op 9:16, dus het live platform ontvangt een 9:16 beeld.",
+            "Streaming op volledig scherm: Streamt het volledige telefoonscherm zoals het is, met behoud van de oorspronkelijke inhoud zonder bijsnijden."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Wat is het verschil tussen systeemstreaming en softwarestreaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Apple-apparaten bieden twee streamingopnamemodi, die aanzienlijk verschillen in achtergrondwerkingsregels. Volg deze stappen om een streamingmodus te kiezen:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, ga naar de live streamingpagina en tik op het menu-icoon aan de rechterkant."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Menu-ingang aan de rechterkant van de Apple live streamingpagina",
+          "caption": "Stap 1: Tik op het menu-icoon aan de rechterkant van de live streamingpagina."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Zoek in 'Meer instellingen' naar 'Streamingmodus' en selecteer 'Systeemstreaming' of 'Softwarestreaming' indien nodig."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Opties voor streamingmodus in 'Meer instellingen' op Apple",
+          "caption": "Stap 2: Selecteer bij 'Streamingmodus' 'Systeemstreaming' of 'Softwarestreaming'."
+        },
+        {
+          "type": "heading",
+          "text": "Over de twee modi"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Systeemstreaming (ReplayKit-schermopname): Gebruikt iOS-systeemschermopname om het scherm vast te leggen, waardoor continu gestreamd kan worden, zelfs wanneer de app op de achtergrond draait. Je kunt naar andere apps overschakelen en nog steeds elke scherminhoud vastleggen zonder de stream te onderbreken.",
+            "Softwarestreaming (directe opname op de voorgrond): De app legt het scherm direct vast. Vanwege iOS-systeembeperkingen moet de app op de voorgrond blijven. Als je naar een andere app overschakelt of terugkeert naar het startscherm, stopt de streaming onmiddellijk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Hoe verwijder ik mijn account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Log in op de VicastCam-app en ga vervolgens naar [Account - pictogram rechtsboven - Accountbeheer - Account verwijderen - Verwijderingsverzoek indienen]."
+        },
+        {
+          "type": "heading",
+          "text": "Accountgegevens"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na het verwijderen van je account verwijderen we permanent je gekoppelde e-mailadres, apparaatrecords en andere identiteitsgegevens, en trekken we je inlogautorisatie via Google- en Apple-accounts in. Na intrekking kun je die accounts niet meer gebruiken om snel in te loggen op deze app. Om de app opnieuw te gebruiken, moet je opnieuw autoriseren en je account koppelen."
+        },
+        {
+          "type": "heading",
+          "text": "Inhoud en materialen"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Al je live streamingmaterialen, video's, afbeeldingen en projectbestanden worden alleen op je apparaat opgeslagen. De platformcloud bewaart geen creatieve materialen. Na verwijdering is de functie voor materiaalbeheer niet meer beschikbaar. Zorg dat je je materialen van tevoren back-upt met 'Materiaal exporteren'.",
+            "Als je de app verwijdert en opnieuw installeert, van apparaat wisselt of geen back-up exporteert, gaan je materialen permanent verloren."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lidmaatschapsvoordelen"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na het verwijderen van je account eindigen je lidmaatschapsvoordelen onmiddellijk. Omdat abonnementsdiensten door Apple worden beheerd, kan het platform geen restituties rechtstreeks verwerken. Om een restitutie aan te vragen, dien je een verzoek in via de officiële kanalen van Apple (aankoopgeschiedenis in de App Store). Zorg dat je vóór het verwijderen van je account handmatig automatische verlenging annuleert om toekomstige kosten te voorkomen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Als je vragen hebt, neem dan contact op met de klantenservice."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Waarom kan ik geen toegang krijgen tot mijn foto's en video's bij het toevoegen?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als je fotobibliotheek leeg lijkt bij het toevoegen van materialen, ga dan naar Instellingen op je iPhone, scrol omlaag naar VicastCam en tik op [Foto's - Alle foto's] om toegang in te schakelen."
+        }
+      ]
+    }
+  ]
+}

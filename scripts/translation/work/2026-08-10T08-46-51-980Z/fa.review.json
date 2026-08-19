@@ -1,0 +1,326 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.teams[0].data.hero.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider rephrasing for more natural Persian: 'برنامه مشارکت جهانی نمایندگی VicastCam' is acceptable but could be 'برنامه مشارکت جهانی با نمایندگان VicastCam' for clarity."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'تبدیل‌های پایدار' is a literal translation of 'stable conversions'. In Persian marketing, 'نرخ تبدیل پایدار' is more natural."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'حقوق توزیع بلندمدت' is acceptable but 'حق توزیع بلندمدت' is more idiomatic."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'تسویه حساب یکپارچه به دلار آمریکا' is fine, but 'تسویه حساب یکپارچه به دلار' is more concise and common."
+    },
+    {
+      "path": "$.teams[0].data.support.items[1].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'متخصصان فنی خارج از کشور' is a literal translation of 'Overseas technical specialists'. In Persian, 'متخصصان فنی بین‌المللی' or 'متخصصان فنی مستقر در خارج' might be more natural."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[0].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'MCNهای خارجی' is acceptable but could be 'شبکه‌های چندکاناله خارجی' for clarity, though 'MCN' is widely understood."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[0].label",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The label 'نام و نام خانوادگی' is correct but could be shortened to 'نام' if the placeholder clarifies. However, it's fine."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[3].placeholder",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The placeholder '+852 XXXXXXXX' is fine, but consider adding 'مثال:' for clarity."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[7].label",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The label 'بودجه خرید سه‌ماهه تخمینی' is correct but could be 'بودجه تخمینی خرید سه‌ماهه' for more natural word order."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The option 'چین' is correct, but in some contexts 'جمهوری خلق چین' is used. However, 'چین' is acceptable."
+    },
+    {
+      "path": "$.teams[0].data.application.intentPlaceholder",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The placeholder is fine, but consider adding 'لطفاً' for politeness: 'لطفاً مدل کسب‌وکار...'"
+    },
+    {
+      "path": "$.teams[0].data.contact.items[2].value",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The value 'GMT+8، دوشنبه تا جمعه، ۹:۰۰ تا ۱۸:۰۰' is correct, but consider using Persian numerals consistently: '۹:۰۰ تا ۱۸:۰۰' is fine."
+    },
+    {
+      "path": "$.teams[0].data.seo.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The description is a bit long. Consider shortening for SEO: 'به برنامه مشارکت جهانی VicastCam بپیوندید: نمایندگی کانال، SDK سفارشی OEM و سفارشی‌سازی سازمانی.'"
+    }
+  ],
+  "revisedContent": {
+    "teams": [
+      {
+        "data": {
+          "locale": "fa",
+          "slug": "team",
+          "pageName": "همکاری‌های تجاری",
+          "hero": {
+            "eyebrow": "همکاری‌های تجاری",
+            "title": "برنامه مشارکت جهانی نمایندگی VicastCam",
+            "highlight": "به ما بپیوندید",
+            "description": "ابزار حرفه‌ای استریم با دوربین مجازی، آماده همکاری با شرکای کانال در سراسر جهان. تسویه حساب یکپارچه به دلار، انحصار منطقه‌ای و پشتیبانی کامل بازاریابی.",
+            "actions": {
+              "primary": "درخواست دهید",
+              "secondary": "بیشتر بدانید"
+            }
+          },
+          "advantages": {
+            "eyebrow": "چرا مشارکت",
+            "titlePrefix": "چرا",
+            "titleHighlight": "با ما همکاری کنید",
+            "description": "فروش آسان، ریسک کم و حاشیه سود بالا—VicastCam هر سه را فراهم می‌کند.",
+            "items": [
+              {
+                "title": "بازار بزرگ تولیدکنندگان محتوا",
+                "description": "با پوشش استریم زنده، تجارت الکترونیک، ویدیوهای کوتاه و تولید محتوا، تقاضای جهانی تولیدکنندگان به طور پیوسته در حال رشد است و بازار بزرگی با نرخ تبدیل پایدار ارائه می‌دهد.",
+                "image": "/images/team/advantage-creators-bg.png"
+              },
+              {
+                "title": "بدون موجودی، تحویل آنلاین",
+                "description": "صدور مجوز نرم‌افزاری خالص با تحویل آنی کدهای فعال‌سازی از طریق ابر. بدون انبار، بدون لجستیک، هزینه کم، با پشتیبانی از تحویل گروهی و فعال‌سازی سریع.",
+                "image": "/images/team/advantage-inventory-bg.png"
+              },
+              {
+                "title": "مزیت رقابتی با امکانات کامل",
+                "description": "حذف پس‌زمینه سبز، پس‌زمینه مجازی، استریم چندپلتفرمه و افکت‌های هوش مصنوعی همه در یک ابزار. امکانات کامل که نمایش، فروش و تمدید آن‌ها آسان است.",
+                "image": "/images/team/advantage-competition-bg.png"
+              }
+            ]
+          },
+          "rules": {
+            "eyebrow": "قوانین مشارکت",
+            "titlePrefix": "شرایط",
+            "titleHighlight": "و تسویه حساب",
+            "description": "سیاست‌های نمایندگی شفاف، منصفانه و قابل پیش‌بینی برای آرامش خاطر هر شریک.",
+            "agentLevelTitle": "سطوح نمایندگی",
+            "agentLevels": [
+              {
+                "title": "نماینده استاندارد",
+                "description": "سفارش اولیه ۳۰,۰۰۰ دلار آمریکا، حق توزیع بلندمدت، تخفیف پلکانی و پشتیبانی استاندارد کانال را فراهم می‌کند.",
+                "icon": "/images/team/rule-standard-agent-icon.png"
+              },
+              {
+                "title": "نماینده انحصاری منطقه‌ای",
+                "description": "با تحقق اهداف خرید سه‌ماهه، حقوق توزیع انحصاری برای یک منطقه خاص را کسب کنید و هیچ کانال دیگری در آن منطقه مجاز نخواهد بود.",
+                "icon": "/images/team/rule-exclusive-agent-icon.png"
+              }
+            ],
+            "settlementTitle": "تأمین و تسویه حساب",
+            "settlementRules": [
+              "تسویه حساب یکپارچه به دلار، با پشتیبانی از پرداخت از طریق حساب‌های شرکتی HSBC هنگ کنگ",
+              "کدهای فعال‌سازی گروهی به صورت آنی از طریق ابر تحویل داده می‌شوند تا تحویل سریع به مشتریان انجام شود",
+              "شرکای بلندمدت از قیمت‌گذاری پلکانی بهره‌مند می‌شوند؛ حجم خرید بالاتر هزینه واحد را کاهش می‌دهد"
+            ]
+          },
+          "support": {
+            "eyebrow": "پشتیبانی کانال",
+            "titlePrefix": "چهار رکن",
+            "titleHighlight": "پشتیبانی",
+            "description": "از مواد بازاریابی و پشتیبانی فنی تا مجوز برند و دسترسی زودهنگام به امکانات جدید، ما پشتیبانی کامل ارائه می‌دهیم.",
+            "items": [
+              {
+                "title": "مواد بازاریابی کامل",
+                "description": "دسترسی فوری به بنرهای وب‌سایت، ویدیوهای کوتاه، متن تبلیغاتی Reddit/Facebook و مواد بررسی محصول.",
+                "image": "/images/team/support-marketing-materials-bg.png"
+              },
+              {
+                "title": "پشتیبانی فنی اختصاصی انگلیسی",
+                "description": "متخصصان فنی بین‌المللی برای اشکال‌زدایی SDK، خدمات پس از فروش امکانات استریم و حل مشکلات مشتریان.",
+                "image": "/images/team/support-technical-service-bg.png"
+              },
+              {
+                "title": "مجوز رسمی برند",
+                "description": "استفاده از علامت تجاری و تصاویر محصول VicastCam برای تبلیغات منطقه‌ای آنلاین و آفلاین.",
+                "image": "/images/team/support-brand-authorization-bg.png"
+              },
+              {
+                "title": "دسترسی اولویت‌دار به نسخه بتا",
+                "description": "نمایندگان دسترسی زودهنگام برای آزمایش و فروش تمام افکت‌های هوش مصنوعی، به‌روزرسانی‌های استریم و امکانات جدید دارند.",
+                "image": "/images/team/support-priority-beta-bg.png"
+              }
+            ]
+          },
+          "plans": {
+            "eyebrow": "مدل‌های مشارکت",
+            "titlePrefix": "مدل‌های",
+            "titleHighlight": "مشارکت انعطاف‌پذیر",
+            "description": "چه کانال باشید، چه فروشنده فناوری یا ارائه‌دهنده خدمات سازمانی، ما مدلی متناسب با شما داریم.",
+            "items": [
+              {
+                "title": "نمایندگی کانال (پیشنهادی)",
+                "description": "برای فروشگاه‌های نرم‌افزار برون‌مرزی، فروشگاه‌های تجهیزات استریم، MCNهای خارجی و تیم‌های تجارت الکترونیک برون‌مرزی جهت توزیع مجوزهای نرم‌افزار در مقیاس بزرگ.",
+                "image": "/images/team/plan-channel-agent-bg.png"
+              },
+              {
+                "title": "SDK سفارشی OEM",
+                "description": "حذف تمام برند VicastCam، سفارشی‌سازی لوگو، نام نرم‌افزار و رابط کاربری و فروش تحت برند خودتان.",
+                "image": "/images/team/plan-oem-sdk-bg.png"
+              },
+              {
+                "title": "سفارشی‌سازی سازمانی",
+                "description": "برای ارائه‌دهندگان خدمات استریم، مؤسسات آموزشی و پروژه‌های جلسات دولتی/سازمانی، با امکانات سفارشی و گزینه‌های استقرار خصوصی.",
+                "image": "/images/team/plan-enterprise-custom-bg.png"
+              }
+            ]
+          },
+          "application": {
+            "eyebrow": "درخواست",
+            "titlePrefix": "فرم را پر کنید",
+            "titleHighlight": "و آنلاین درخواست دهید",
+            "description": "اطلاعات زیر را پر کنید؛ ما ظرف ۱ تا ۳ روز کاری با شما تماس خواهیم گرفت.",
+            "fields": [
+              {
+                "name": "contactName",
+                "label": "نام و نام خانوادگی",
+                "placeholder": "نام خود را وارد کنید"
+              },
+              {
+                "name": "companyName",
+                "label": "نام شرکت",
+                "placeholder": "نام شرکت خود را وارد کنید"
+              },
+              {
+                "name": "email",
+                "label": "ایمیل",
+                "placeholder": "ایمیل خود را وارد کنید"
+              },
+              {
+                "name": "phone",
+                "label": "واتس‌اپ/تلفن",
+                "placeholder": "مثال: +852 XXXXXXXX"
+              },
+              {
+                "name": "businessType",
+                "label": "نوع کسب‌وکار",
+                "placeholder": "نوع کسب‌وکار را انتخاب کنید",
+                "options": [
+                  "نمایندگی کانال",
+                  "SDK سفارشی OEM",
+                  "سفارشی‌سازی سازمانی",
+                  "سایر"
+                ]
+              },
+              {
+                "name": "region",
+                "label": "منطقه اصلی",
+                "placeholder": "مثلاً آمریکای شمالی/اروپا/جنوب شرق آسیا"
+              },
+              {
+                "name": "position",
+                "label": "سمت",
+                "placeholder": "سمت خود را وارد کنید"
+              },
+              {
+                "name": "budget",
+                "label": "بودجه تخمینی خرید سه‌ماهه",
+                "placeholder": "بودجه خود را وارد کنید"
+              },
+              {
+                "name": "country",
+                "label": "کشور",
+                "placeholder": "کشور/منطقه را انتخاب کنید",
+                "options": [
+                  "چین",
+                  "ایالات متحده",
+                  "اندونزی",
+                  "مالزی",
+                  "تایلند",
+                  "ویتنام",
+                  "فیلیپین",
+                  "اسپانیا",
+                  "پرتغال",
+                  "عربستان سعودی",
+                  "ژاپن",
+                  "ترکیه",
+                  "ایتالیا",
+                  "آلمان",
+                  "فرانسه",
+                  "کره جنوبی",
+                  "روسیه",
+                  "لهستان",
+                  "هلند",
+                  "هند",
+                  "پاکستان",
+                  "بنگلادش",
+                  "ایران",
+                  "سایر"
+                ]
+              },
+              {
+                "name": "website",
+                "label": "وب‌سایت شرکت",
+                "placeholder": "https://xxxxxxxx.com"
+              }
+            ],
+            "intentLabel": "هدف از مشارکت",
+            "intentPlaceholder": "لطفاً مدل کسب‌وکار، بازار هدف و رویکرد مشارکت مورد نظر خود را به طور خلاصه شرح دهید...",
+            "note": "*فیلدهای الزامی. اطلاعات شما محرمانه نگه داشته می‌شود و فقط برای ارتباط در مورد مشارکت استفاده می‌شود.",
+            "submitLabel": "ارسال اطلاعات مشارکت"
+          },
+          "contact": {
+            "title": "تماس فوری تجاری",
+            "items": [
+              {
+                "label": "ایمیل تجاری",
+                "value": "business@vicastcam.com"
+              },
+              {
+                "label": "خط تلفن هنگ کنگ",
+                "value": "+852 46405342"
+              },
+              {
+                "label": "ساعات کاری",
+                "value": "GMT+8، دوشنبه تا جمعه، ۹:۰۰ تا ۱۸:۰۰"
+              }
+            ],
+            "note": "برای نیازهای فوری تجاری، مستقیماً از طریق واتس‌اپ یا ایمیل با ما تماس بگیرید.",
+            "qr": {
+              "label": "برای تماس با ما در واتس‌اپ اسکن کنید",
+              "alt": "کد QR تماس تجاری VicastCam"
+            }
+          },
+          "seo": {
+            "title": "همکاری‌های تجاری VicastCam",
+            "description": "به برنامه مشارکت جهانی VicastCam بپیوندید: نمایندگی کانال، SDK سفارشی OEM و سفارشی‌سازی سازمانی.",
+            "image": "/images/team/partner-plan-hero-bg.png",
+            "imageAlt": "برنامه مشارکت جهانی VicastCam"
+          }
+        }
+      }
+    ]
+  }
+}

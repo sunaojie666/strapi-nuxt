@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Android اور iOS کے لیے مدد",
+    "description": "Android اور iOS کے لیے VicastCam کے بارے میں عام سوالات کے جوابات تلاش کریں، بشمول اکاؤنٹ سیٹ اپ، میڈیا کی اجازتیں، نیٹ ورک کنکشن، اور لائیو سٹریمنگ کے مسائل۔",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "عمومی سوالات",
+    "titleMain": "VicastCam مدد",
+    "titleHighlight": "جلد جوابات تلاش کریں",
+    "description": "اپنا پلیٹ فارم (Android یا iOS) منتخب کریں تاکہ آپ کے آلے کے لیے عام سوالات اور حل دیکھ سکیں۔"
+  },
+  "content": {
+    "sectionAriaLabel": "اکثر پوچھے گئے سوالات",
+    "catalogAriaLabel": "سوالات کے زمرے",
+    "answerLabel": "جواب",
+    "questionProgressTemplate": "{group} · سوال {current} از {total}"
+  }
+}

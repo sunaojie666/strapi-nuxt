@@ -1,0 +1,320 @@
+{
+  "runId": "2026-08-10T09-09-43-747Z",
+  "startedAt": "2026-08-10T09-09-43-747Z",
+  "completedAt": "2026-08-10T09:10:10.481Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "support",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "cards",
+    "communitys",
+    "faqs",
+    "tutorials"
+  ],
+  "beforeStatus": {
+    "en": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "cards": {
+        "drafts": 6,
+        "published": 6
+      },
+      "communitys": {
+        "drafts": 1,
+        "published": 1
+      },
+      "faqs": {
+        "drafts": 1,
+        "published": 1
+      },
+      "tutorials": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 100,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "cards": {
+          "created": 0,
+          "updated": 12,
+          "status": "published"
+        },
+        "communitys": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "faqs": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "tutorials": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

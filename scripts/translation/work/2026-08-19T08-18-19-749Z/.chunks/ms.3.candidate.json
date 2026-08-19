@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Sejarah pembelian",
+    "title": "Sejarah pembelian",
+    "tabTitle": "Pembelian",
+    "exchangeTabTitle": "Penebusan",
+    "tableHeaders": {
+      "title": "Jenis",
+      "date": "Masa pembayaran",
+      "price": "Jumlah",
+      "paymentMethod": "Kaedah pembayaran",
+      "status": "Status",
+      "exchangeDate": "Masa penebusan",
+      "exchangeCode": "Kod penebusan"
+    },
+    "exchangeTableHeaders": {
+      "date": "Masa penebusan",
+      "code": "Kod penebusan"
+    },
+    "cardTypes": {
+      "month": "Kad bulanan",
+      "year": "Kad tahunan",
+      "life": "Kad seumur hidup",
+      "default": "Kad keahlian"
+    },
+    "orderStatuses": {
+      "pending": "Menunggu pembayaran",
+      "paid": "Dibayar",
+      "closed": "Ditutup",
+      "refunded": "Dikembalikan",
+      "unknown": "Tidak diketahui"
+    },
+    "secretLabels": {
+      "show": "Tunjukkan kata laluan",
+      "hide": "Sembunyikan kata laluan"
+    },
+    "secretMask": "******",
+    "emptyText": "Tiada rekod pembelian lagi",
+    "exchangeEmptyText": "Tiada rekod penebusan lagi",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Kad bank",
+      "creditcard": "Kad kredit",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Mata wang kripto",
+      "balance": "Baki",
+      "free": "Percuma"
+    }
+  },
+  "team": {
+    "ariaLabel": "Pasukan saya",
+    "title": "Pasukan saya",
+    "referrerLabel": "Perujuk saya",
+    "levelOne": "Ahli tahap 1",
+    "levelTwo": "Ahli tahap 2",
+    "tableHeaders": {
+      "name": "Nama ahli",
+      "status": "Status keahlian",
+      "joinedAt": "Masa menyertai"
+    },
+    "memberStatus": {
+      "free": "Pengguna percuma",
+      "vip": "Pengguna VIP"
+    },
+    "emptyMemberName": "Pengguna tanpa nama",
+    "emptyReferrer": "Tiada perujuk",
+    "emptyTeam": "Tiada ahli pasukan lagi",
+    "errors": {
+      "loadFail": "Gagal memuatkan ahli pasukan. Sila cuba lagi kemudian."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Pusat pendapatan",
+    "title": "Ringkasan pendapatan",
+    "commissionTitle": "Butiran komisen",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Jumlah pendapatan",
+        "desc": "Jumlah komisen yang diperoleh sehingga kini"
+      },
+      {
+        "key": "month",
+        "title": "Bulan ini",
+        "desc": "Komisen yang diperoleh bulan ini"
+      },
+      {
+        "key": "settling",
+        "title": "Menunggu penyelesaian",
+        "value": "0.00",
+        "desc": "Jumlah yang menunggu penyelesaian"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Boleh dikeluarkan",
+        "desc": "Jumlah yang tersedia untuk pengeluaran",
+        "action": "Keluarkan"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nama pengguna",
+      "saleTime": "Masa jualan",
+      "goodsInfo": "Produk",
+      "commission": "Komisen"
+    },
+    "emptyCommission": "Tiada rekod komisen lagi",
+    "errors": {
+      "loadFail": "Gagal memuatkan butiran komisen. Sila cuba lagi kemudian."
+    },
+    "withdraw": {
+      "ariaLabel": "Permintaan pengeluaran",
+      "title": "Permintaan pengeluaran",
+      "closeLabel": "Tutup dialog pengeluaran",
+      "balanceLabel": "Baki boleh dikeluarkan",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Jumlah pengeluaran",
+      "amountPlaceholder": "Masukkan jumlah pengeluaran",
+      "allButton": "Semua",
+      "allAmountValue": "0.00",
+      "amountTip": "Sila sahkan jumlah adalah betul. Permintaan anda akan disemak secara manual selepas penghantaran.",
+      "methodLabel": "Kaedah pengeluaran",
+      "methods": [
+        "Kad bank",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Kad bank",
+      "nameLabel": "Nama penerima",
+      "namePlaceholder": "Masukkan nama penerima",
+      "defaultName": "",
+      "bankCardLabel": "Nombor akaun",
+      "bankCardPlaceholder": "Masukkan nombor kad bank, e-mel PayPal, atau alamat dompet",
+      "remarkLabel": "Catatan",
+      "remarkPlaceholder": "Tambahkan sebarang nota tambahan",
+      "note": "Permintaan pengeluaran diproses dalam 1-3 hari perniagaan.",
+      "cancelButton": "Batal",
+      "submitButton": "Hantar permintaan"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Penebusan berjaya",
+    "operationFailed": "Penebusan gagal",
+    "invalidCard": "Kod penebusan tidak sah",
+    "cardNotFound": "Kod penebusan tidak ditemui",
+    "cardDisabled": "Kod penebusan dilumpuhkan",
+    "cardExpired": "Kod penebusan telah tamat tempoh"
+  },
+  "successMessage": "Operasi berjaya"
+}

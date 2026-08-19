@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Perjanjian Pengguna",
+        "updatedAt": "22 Julai 2026",
+        "description": "Perjanjian Lesen Pengguna ini (\"Perjanjian\") dimeterai antara Pemberi Lesen dan pengguna perisian ini (\"anda\" atau \"pengguna\") dan mengawal semua tindakan anda dalam memuat turun, memasang, mendaftar, log masuk, dan menggunakan perisian ini.",
+        "sections": [
+          {
+            "title": "",
+            "paragraphs": [
+              "Pemberi lesen: Vicast International Limited",
+              "Saluran rasmi: laman web rasmi VicastCam dan gedung aplikasi yang dibenarkan (Apple App Store / Google Play Store)",
+              "E-mel hubungan: service@vicastcam.com",
+              "Kemas kini terakhir: 22 Julai 2026",
+              "Selamat datang ke VicastCam (\"Perisian ini\")!",
+              "Produk VicastCam hanya disediakan kepada pengguna di luar tanah besar China. Kami tidak mempromosikan produk ini secara aktif kepada pengguna di tanah besar China. Jika anda berada di tanah besar China, sila ambil perhatian bahawa produk ini tidak mempunyai kelayakan operasi yang berkaitan di tanah besar China.",
+              "Perjanjian Lesen Pengguna ini (\"Perjanjian\") dimeterai antara Pemberi Lesen dan pengguna perisian ini (\"anda\" atau \"pengguna\") dan mengawal semua tindakan anda dalam memuat turun, memasang, mendaftar, log masuk, dan menggunakan perisian ini.",
+              "Dengan mengklik butang \"Setuju\" dalam Perisian ini, anda secara sukarela menerima semua terma Perjanjian ini. Jika anda tidak menerimanya, Pemberi Lesen tidak memberikan anda hak untuk menggunakan Perisian ini. Sila hentikan penggunaan dan nyahpasang Perisian ini dengan segera. Penggunaan berterusan anda terhadap Perisian ini membentuk persetujuan dan penerimaan anda terhadap Perjanjian ini dan sebarang semakan berikutnya.",
+              "Anda mengesahkan bahawa anda berumur sekurang-kurangnya 18 tahun atau telah mencapai umur dewasa mengikut undang-undang di bidang kuasa anda (\"dewasa\"). Golongan bawah umur mesti menggunakan Perisian ini dengan kebenaran jelas dan di bawah pengawasan penjaga sah mereka, yang akan memikul tanggungjawab penjagaan mengikut undang-undang."
+            ],
+            "key": "agreement-overview"
+          },
+          {
+            "title": "1 Skop Permohonan",
+            "paragraphs": [
+              "1.1 Sebelum menggunakan Perisian ini, sila baca Perjanjian ini dengan teliti, terutamanya klausa teras yang dicetak tebal, termasuk penafian, undang-undang yang mengawal, dan penyelesaian pertikaian. Jika anda tidak bersetuju dengan mana-mana terma, sila hentikan penggunaan Perisian ini dengan segera.",
+              "1.2 Perisian ini terutamanya bertujuan untuk orang dewasa. Golongan bawah umur mesti mendapatkan kebenaran penjaga sah mereka sebelum menggunakan Perisian ini dan mesti menggunakannya di bawah pengawasan penjaga. Penjaga mesti memenuhi tanggungjawab penjagaan mengikut undang-undang.",
+              "1.3 Perjanjian ini merangkumi peraturan platform seperti pengumuman, peraturan aktiviti, dan pemberitahuan dalam aplikasi yang diterbitkan oleh Perisian ini. Semua peraturan platform adalah sebahagian daripada Perjanjian ini dan mempunyai kesan undang-undang yang sama seperti Perjanjian ini.",
+              "1.4 Dengan mendaftar, log masuk, atau menggunakan Perisian ini, anda dianggap telah membaca, memahami, dan bersetuju untuk terikat dengan Perjanjian ini sepenuhnya.",
+              "1.5 Semua hak harta intelek dalam Perisian ini dan sebarang hak yang tidak diberikan secara jelas kepada pengguna adalah terpelihara oleh Pemberi Lesen."
+            ],
+            "key": "agreement-section-1"
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Perisian Ini dan Perkhidmatan Berkaitan",
+            "paragraphs": [
+              "2.1 Perisian ini ialah alat bantu untuk senario penstriman langsung, menyediakan ciri seperti penstriman langsung, persediaan adegan maya, AI matting, kesan wajah, dan penapis kecantikan. Perkhidmatan dan ciri khusus tertakluk pada paparan produk sebenar.",
+              "2.2 Anda hanya boleh mendapatkan klien melalui saluran rasmi (Apple App Store atau Google Play Store). Sebarang risiko dan kerugian yang timbul daripada penggunaan versi tidak rasmi hendaklah ditanggung oleh anda.",
+              "2.3 Untuk menggunakan Perisian ini, anda perlu menyediakan peranti terminal dan sambungan rangkaian sendiri serta menanggung caj internet dan data yang berkaitan. Fungsi penuh memerlukan sambungan internet.",
+              "2.4 Pemberi Lesen memberikan anda lesen peribadi, bukan komersial, tidak boleh dipindah milik, boleh dibatalkan, dan tidak eksklusif untuk menggunakan Perisian ini. Tanpa kebenaran bertulis terlebih dahulu daripada Pemberi Lesen, anda dilarang mengubah suai, menyalin, mengedar, mencerminkan, merangkak, menjual, atau menggunakan Perisian ini untuk tujuan komersial.",
+              "2.5 Pemberi Lesen berhak untuk menaik taraf, melaraskan, menggantung, atau menamatkan sebahagian atau keseluruhan perkhidmatan berdasarkan pengoptimuman produk, penyelenggaraan keselamatan, operasi pematuhan, dan keperluan lain. Anda boleh memilih sama ada untuk mengemas kini klien; enggan mengemas kini mungkin mengakibatkan fungsi terhad. Anda berhak untuk menyahpasang aplikasi pada bila-bila masa untuk menamatkan perkhidmatan.",
+              "2.6 Pembelian dan Langganan",
+              "2.6.1 Semua ciri berbayar, pembelian, dan langganan dalam Perisian ini diselesaikan melalui sistem pembayaran Apple App Store atau Google Play, dan transaksi tersebut juga tertakluk pada terma perkhidmatan platform masing-masing.",
+              "2.6.2 Peraturan Langganan",
+              "(1) Pembaharuan automatik: Perkhidmatan langganan akan dicaj secara automatik sekurang-kurangnya 24 jam sebelum tamat tempoh perkhidmatan semasa, dan sistem platform akan menghantar peringatan pembaharuan. Anda boleh melihat, mengurus, dan membatalkan pembaharuan automatik pada bila-bila masa dengan pergi ke halaman \"Tetapan > Akaun > Langganan\" peranti anda (laluan mungkin berbeza mengikut platform).",
+              "(2) Perubahan harga: Jika kami melaraskan harga langganan, kami akan memberikan notis sekurang-kurangnya 30 hari sebelum harga baharu berkuat kuasa melalui pengumuman dalam apl, laman web rasmi, atau cara munasabah yang lain. Perubahan harga tidak akan menjejaskan tempoh langganan semasa yang telah berkuat kuasa. Jika undang-undang tempatan memerlukan persetujuan tambahan pengguna, kami akan mematuhi undang-undang tersebut.",
+              "(3) Percubaan percuma: Jika percubaan percuma ditawarkan, sila matikan pembaharuan automatik sekurang-kurangnya 24 jam sebelum tempoh percubaan tamat untuk mengelakkan caj.",
+              "2.6.3 Bayaran Balik Serantau dan Hak Pembatalan Berkanun",
+              "(1) Pengguna di Kesatuan Eropah, Kawasan Ekonomi Eropah, dan United Kingdom: Selaras dengan undang-undang perlindungan pengguna tempatan, anda mempunyai hak pembatalan berkanun selama 14 hari tanpa sebab. Lihat Dasar Bayaran Balik VicastCam untuk butiran. Permintaan pembatalan dan bayaran balik mesti dikemukakan melalui saluran rasmi (App Store atau Google Play) yang digunakan untuk pembelian anda, dan bayaran balik tertakluk pada peraturan platform dan undang-undang tempatan. Jika anda telah menggunakan perkhidmatan dalam tempoh penyejukan 14 hari, bayaran balik akan dikira secara berkadar berdasarkan penggunaan sebenar. Sebaik sahaja pembatalan berkuat kuasa, hak penggunaan berbayar anda akan ditamatkan serta-merta.",
+              "(2) Pembayaran sekali dan perkhidmatan seumur hidup: Jika anda mengesahkan secara eksplisit pengaktifan segera perkhidmatan dan melepaskan hak pembatalan 14 hari, hak pembatalan tanpa sebab tidak lagi terpakai.",
+              "(3) Semua wilayah lain: Bayaran balik dan isu selepas jualan terutamanya ditadbir oleh peraturan rasmi platform yang digunakan untuk pembelian anda.",
+              "2.6.4 Peraturan Penggunaan Faedah Berbayar",
+              "(1) Perkhidmatan dan faedah berbayar adalah untuk kegunaan peribadi sahaja.",
+              "(2) Anda dilarang memberikan faedah berbayar kepada pihak ketiga melalui pemberian, peminjaman, penyewaan, penjualan semula, atau perkongsian pukal.",
+              "2.7 Yuran, Keahlian, dan Peraturan Penggunaan Komersial",
+              "2.7.1 Pemberi Lesen berhak untuk mengenakan yuran untuk Perisian dan perkhidmatan rangkaian berkaitan mengikut undang-undang. Anda bertanggungjawab untuk semua kos perkakasan, perisian, dan rangkaian yang diperlukan untuk penggunaan, dan anda mesti membayar yuran perkhidmatan yang sepadan tepat pada masanya.",
+              "2.7.2 Anda hendaklah memenuhi kewajipan cukai anda mengikut undang-undang dan menanggung semua cukai yang timbul daripada penggunaan perkhidmatan. Anda dilarang menggunakan perkhidmatan berbayar secara fraud.",
+              "2.7.3 Kami mungkin melaraskan sistem keahlian atau menamatkan perkhidmatan keahlian berdasarkan keperluan operasi yang sah. Jika akaun digantung atau ditamatkan kerana pelanggaran, yuran berbayar tidak akan dibayar balik.",
+              "2.7.4 Jika anda perlu menggunakan Perisian ini untuk tujuan komersial, anda mesti memohon kepada Pemberi Lesen terlebih dahulu dan mendapatkan lesen penggunaan komersial rasmi.",
+              "2.7.5 Anda dilarang menggunakan Perisian ini untuk menyebarkan kandungan lucah atau haram untuk keuntungan."
+            ]
+          },
+          {
+            "title": "3 Pengurusan Akaun",
+            "paragraphs": [
+              "3.1 Anda boleh mendaftar akaun sendiri atau menggunakan akaun platform pihak ketiga yang sah untuk log masuk. Akaun pihak ketiga mesti disahkan dengan maklumat nama sebenar dan mematuhi peraturan platform. Anda bertanggungjawab untuk menjaga keselamatan akaun dan kata laluan anda serta semua tindakan yang diambil di bawah akaun anda.",
+              "3.2 Selaras dengan keperluan penyeliaan rangkaian dan pendaftaran nama sebenar di seluruh dunia, anda mesti memberikan maklumat identiti dan butiran hubungan (seperti e-mel) yang benar, tepat, dan sah semasa mendaftar. Jika maklumat tersebut palsu atau diragui, Pemberi Lesen berhak untuk meminta pembetulan, menyekat atau menamatkan perkhidmatan. Sesetengah maklumat pendaftaran tidak boleh diubah suai untuk tujuan pengesahan keselamatan.",
+              "3.3 Sesetengah ciri asas boleh digunakan tanpa log masuk. Fungsi penuh dan perkhidmatan berbayar memerlukan pendaftaran, log masuk, dan pengesahan identiti.",
+              "3.4 Maklumat akaun seperti nama panggilan, avatar, dan bio tidak boleh menyamar nama, tanda dagangan, potret, atau hak undang-undang orang lain, dan tidak boleh mengandungi kandungan yang menyalahi undang-undang, lucah, atau mengelirukan. Pemberi Lesen berhak untuk menyemak maklumat akaun dan mengambil langkah seperti menetapkan semula, menyekat fungsi, atau mengharamkan akaun kerana pelanggaran.",
+              "3.5 Akaun hanya untuk kegunaan peribadi dan boleh log masuk pada peranti yang anda kawal secara sah. Memberi, meminjamkan, menyewa, memindahkan, atau menjual akaun adalah dilarang. Jika pengguna didapati tidak konsisten dengan pendaftar, Pemberi Lesen berhak untuk menggantung atau menamatkan perkhidmatan.",
+              "3.6 Anda bertanggungjawab untuk keselamatan dan kerahsiaan akaun anda dan menanggung tanggungjawab undang-undang penuh untuk semua operasi, kandungan, dan tindakan di bawah akaun anda.",
+              "3.7 Jika akaun anda dicuri atau anda terlupa kata laluan, anda boleh memulihkannya melalui saluran rayuan rasmi.",
+              "3.7.1 Jika akaun anda dicuri, maklumat bocor, atau harta hilang akibat penjagaan yang tidak betul, kehilangan peranti, atau pendedahan sukarela kelayakan akaun, anda bertanggungjawab sepenuhnya.",
+              "3.7.2 Perkhidmatan pemulihan akaun hanya mengesahkan maklumat yang disimpan dalam sistem dan tidak dapat menentukan identiti sebenar pengguna. Anda menanggung risiko yang berkaitan. Jika anda melihat sebarang aktiviti akaun yang tidak normal, sila hubungi perkhidmatan pelanggan rasmi dengan segera.",
+              "3.8 Pembatalan Akaun dan Pemprosesan Data",
+              "3.8.1 Anda boleh memohon pembatalan akaun melalui 'Saya > Tetapan > Pengurusan Akaun > Batalkan Akaun' dalam Perisian atau melalui e-mel rasmi. Pengesahan pemilikan diperlukan sebelum pembatalan.",
+              "3.8.2 Selepas pembatalan akaun, tempoh penampan data 30 hari akan disediakan (hanya untuk penyelarasan kewangan, penyelesaian pertikaian, dan pengesahan selepas jualan). Selepas tempoh ini, pemadaman fizikal kekal akan dilaksanakan, kecuali rekod transaksi yang mesti disimpan mengikut keperluan undang-undang.",
+              "3.8.3 Selepas pembatalan akaun, akaun dan data tidak dapat dipulihkan. Kewajipan dan liabiliti yang ditanggung semasa penggunaan anda tidak dikecualikan oleh pembatalan."
+            ],
+            "key": "agreement-section-3"
+          },
+          {
+            "title": "4 Kelakuan Pengguna",
+            "paragraphs": [
+              "4.1 Anda berjanji untuk mematuhi undang-undang global mengenai keselamatan rangkaian, harta intelek, hak potret, dan privasi semasa menggunakan Perisian ini, dan untuk menghormati hak undang-undang orang lain. Kecuali dibenarkan oleh undang-undang atau diberi kuasa secara bertulis oleh Pemberi Lesen, tindakan berikut adalah dilarang:",
+              "4.1.1 Memuat naik atau menyebarkan maklumat peribadi yang tidak dibenarkan, rahsia perdagangan, atau kandungan yang melanggar hak.",
+              "4.1.2 Menggunakan cheat, plugin, atau alat pihak ketiga untuk mengganggu atau mengganggu operasi normal Perisian ini.",
+              "4.1.3 Melibatkan diri dalam pencerobohan rangkaian haram, kecurian data, penyebaran virus, pengimbasan kelemahan, pemalsuan paket data rangkaian, atau serangan siber lain.",
+              "4.1.4 Pendaftaran akaun secara besar-besaran dengan niat jahat.",
+              "4.1.5 Kejuruteraan songsang, menyahkompilasi, menyahsusun, atau cuba memecahkan kod sumber Perisian ini.",
+              "4.1.6 Mencipta atau menyebarkan kandungan lucah, ganas, memfitnah, atau menyalahi undang-undang.",
+              "4.1.7 Mempromosikan tembakau, alkohol, perjudian, senjata, atau barang terlarang.",
+              "4.1.8 Merakam secara rahsia, merakam, atau menyebarkan imej, suara, atau maklumat peribadi orang lain tanpa kebenaran, melanggar hak potret atau privasi mereka.",
+              "4.1.9 Tindakan lain yang melanggar undang-undang tempatan, Perjanjian ini, atau peraturan platform.",
+              "4.1.10 Jika anda melanggar Perjanjian ini, Pemberi Lesen berhak untuk memadam kandungan yang melanggar tanpa notis dan mengenakan penalti seperti amaran, larangan ciri, larangan peranti, atau larangan akaun kekal, bergantung pada keterukan. Pengguna yang melanggar boleh mengemukakan rayuan melalui e-mel rasmi, dan Pemberi Lesen mempunyai kuasa semakan akhir.",
+              "4.2 Apabila mencipta kandungan dengan Perisian ini, anda dilarang menggunakan bahan terbina dalam, kesan, atau logo untuk tanda dagangan, logo, atau pengecam komersial pihak ketiga (kecuali untuk kandungan berhak cipta anda sendiri).",
+              "4.3 Anda tidak boleh menggunakan Perisian ini untuk menerbitkan atau menyebarkan kandungan ganas, lucah, memfitnah, doxxing, melanggar privasi, spam, atau kandungan lain yang melanggar undang-undang atau ketenteraman awam dan kesusilaan.",
+              "4.4 Pemberi Lesen berhak untuk menyelia dan menyemak tingkah laku pengguna dan boleh meminta pembetulan, memadam kandungan, menggantung atau menamatkan perkhidmatan apabila mendapati pelanggaran.",
+              "4.5 Sekatan Ciri Khas",
+              "4.5.1 Kamera dan Penstriman Langsung: Sebelum menggunakan ciri kamera, penstriman langsung, atau rakaman skrin, anda mesti mendapatkan persetujuan jelas daripada semua orang yang dirakam atau dirakam. Dilarang sama sekali menggunakan Perisian ini untuk fotografi rahsia, rakaman rahsia, penstriman langsung haram, atau tindakan haram lain. Anda menanggung semua tanggungjawab yang berkaitan.",
+              "4.5.2 Ciri AI: Hak harta intelek algoritma AI, model, kesan, dan bahan visual dalam Perisian ini adalah milik Pemberi Lesen atau pihak ketiga yang bekerjasama. Anda hanya boleh menggunakannya untuk penciptaan peribadi, bukan komersial, dan sah. Anda dilarang mencipta deepfake, audio/video palsu, penipuan, atau kandungan haram.",
+              "4.5.3 Pematuhan Serantau: Anda mesti mematuhi sepenuhnya keperluan kawal selia negara/rantau anda mengenai penstriman langsung, pengumpulan data biometrik, dan kandungan AI.",
+              "4.6 Jika pelanggaran anda menyebabkan kerugian kepada Pemberi Lesen, yuran berbayar tidak akan dikembalikan, dan anda mesti membayar pampasan penuh kepada Pemberi Lesen untuk semua kerugian ekonomi dan reputasi."
+            ],
+            "key": "agreement-section-4"
+          },
+          {
+            "title": "5 Perlindungan Maklumat Peribadi",
+            "paragraphs": [
+              "5.1 Kami memproses maklumat peribadi anda dengan ketat mengikut GDPR EU, Akta Perlindungan Data UK, Ordinan Data Peribadi (Privasi) Hong Kong, dan peraturan perlindungan data di seluruh dunia. Selaras dengan Perkara 27 GDPR, kami telah melantik wakil pematuhan tempatan di EU dan UK. Untuk butiran hubungan khusus, sila rujuk dokumen \"GDPR dan Perlindungan Data\".",
+              "5.2 Anda bersetuju bahawa Pemberi Lesen boleh mengumpul, menggunakan, dan menyimpan maklumat peribadi mengikut Perjanjian ini dan Dasar Privasi. Dasar Privasi mempunyai kesan undang-undang yang sama seperti Perjanjian ini.",
+              "5.3 Kami menggunakan teknologi keselamatan seperti penyulitan dan penyahidentifikasian untuk melindungi maklumat peribadi anda daripada kebocoran, pengubahan, dan akses tanpa kebenaran.",
+              "5.4 Tanpa persetujuan jelas anda, kami tidak akan berkongsi maklumat peribadi anda dengan pihak ketiga, kecuali dalam keadaan berikut:",
+              "(1) Anda sendiri mendedahkannya kepada pihak ketiga;",
+              "(2) Dikehendaki oleh keselamatan negara, keselamatan awam, kesihatan awam, dan keperluan kehakiman atau pentadbiran yang ditetapkan oleh undang-undang;",
+              "(3) Untuk melindungi kepentingan undang-undang utama Perisian ini, pengguna lain, atau pihak ketiga, dan mematuhi peruntukan undang-undang;",
+              "(4) Maklumat yang diperoleh daripada sumber awam yang sah;",
+              "(5) Keadaan lain yang ditetapkan oleh undang-undang dan peraturan.",
+              "5.5 Anda mempunyai hak undang-undang untuk bertanya, membetulkan, memadam, dan menarik balik kebenaran mengenai maklumat peribadi anda. Untuk peraturan terperinci tentang maklumat peribadi, sila rujuk Dasar Privasi."
+            ],
+            "key": "agreement-section-5"
+          },
+          {
+            "title": "6 Aduan dan Laporan",
+            "paragraphs": [
+              "6.1 Anda boleh melaporkan kandungan yang melanggar atau membuat aduan tentang tindakan yang melanggar melalui klien atau e-mel hubungan rasmi.",
+              "6.2 Jika hak anda dicabuli, anda boleh mengemukakan bukti hak untuk membuat aduan. Pihak yang diadu boleh mengemukakan bukti pemilikan untuk merayu.",
+              "6.3 Kami biasanya melengkapkan semakan dan memberikan maklum balas dalam tempoh 15 hari bekerja. Untuk kes yang kompleks, kami akan memaklumkan anda tentang perkembangan."
+            ],
+            "key": "agreement-section-6"
+          },
+          {
+            "title": "7 Pengendalian Pelanggaran",
+            "paragraphs": [
+              "7.1 Jika anda melanggar Perjanjian ini, peraturan platform, atau undang-undang dan peraturan tempatan, Pemberi Lesen boleh mengambil langkah seperti amaran, sekatan ciri, pemadaman kandungan, penggantungan perkhidmatan, atau larangan akaun kekal. Sebarang kerugian yang timbul daripada langkah tersebut akan ditanggung oleh anda, dan kandungan serta data yang dipadam tidak akan dipulihkan.",
+              "7.2 Jika aktiviti haram atau jenayah yang disyaki ditemui, Pemberi Lesen akan menyimpan bukti dan melaporkan kepada pihak berkuasa penguatkuasaan undang-undang serta bekerjasama dalam siasatan.",
+              "7.3 Jika pelanggaran anda menyebabkan Pemberi Lesen dituntut oleh pihak ketiga, dikenakan penalti pentadbiran, atau mengalami kerugian reputasi atau ekonomi, anda akan menanggung semua kerugian Pemberi Lesen."
+            ],
+            "key": "agreement-section-7"
+          },
+          {
+            "title": "8 Harta Intelek",
+            "paragraphs": [
+              "8.1 Hak harta intelek kod, antara muka, teks, imej, audio/video, kesan, tanda dagangan, dan logo Perisian ini adalah milik Pemberi Lesen.",
+              "8.2 Pemberi Lesen memiliki semua hak ke atas data dan maklumat sah yang dijana semasa operasi produk.",
+              "8.3 Tanpa kebenaran bertulis yang jelas daripada Pemberi Lesen, anda dilarang menggunakan, menyalin, meniru, atau mendaftarkan jenama \"VicastCam\", tanda dagangan, nama domain, logo, dsb. Jika anda menyebabkan kerugian melalui penggunaan tanpa kebenaran, anda akan menanggung tanggungjawab undang-undang sepenuhnya.",
+              "8.4 Perisian ini termasuk komponen perisian yang diedarkan di bawah lesen sumber terbuka dan lesen pihak ketiga. Anda mesti mematuhi terma lesen yang sepadan dengan ketat apabila menggunakan komponen tersebut."
+            ],
+            "key": "agreement-section-8"
+          },
+          {
+            "title": "9 Terma untuk Bawah Umur",
+            "paragraphs": [
+              "9.1 Bawah umur mesti mendapatkan persetujuan jelas daripada penjaga sah mereka sebelum menggunakan Perisian ini dan mesti menggunakannya di bawah pengawasan penjaga. Penjaga mempunyai hak untuk meminta sekatan atau pembatalan akaun pengguna bawah umur.",
+              "9.2 Pemberi Lesen mengumpul maklumat peribadi pengguna bawah umur dengan teliti. Penjaga harus membimbing bawah umur untuk melindungi privasi peribadi dan keselamatan rangkaian mereka.",
+              "9.3 Penjaga harus melaksanakan tanggungjawab penjagaan mereka mengikut undang-undang, membimbing bawah umur untuk menggunakan internet secara sihat, dan mencegah ketagihan internet.",
+              "9.4 Bawah umur dan penjaga mereka bertanggungjawab secara undang-undang untuk semua tindakan dan akibat penggunaan oleh bawah umur.",
+              "9.5 Bawah umur tidak boleh menggunakan kamera untuk penstriman langsung atau muncul dalam video bersendirian, dan tidak boleh menerbitkan kandungan haram atau lucah.",
+              "9.6 Jika Pemberi Lesen mendapati bahawa bawah umur menggunakan Perisian tanpa persetujuan penjaga, ia berhak untuk menyekat atau melarang akaun yang berkaitan secara langsung.",
+              "9.7 Penjaga harus menyimpan akaun pembayaran dan kata laluan dengan selamat untuk mengelakkan caj tanpa kebenaran oleh bawah umur. Jika anda mempunyai sebarang soalan, sila hubungi perkhidmatan pelanggan rasmi."
+            ],
+            "key": "agreement-section-9"
+          },
+          {
+            "title": "10 Penafian",
+            "paragraphs": [
+              "10.1 Anda dengan ini mengakui dan bersetuju bahawa penggunaan aplikasi ini adalah atas risiko anda sendiri. Setakat yang dibenarkan oleh undang-undang yang terpakai, aplikasi ini dan sebarang perkhidmatan yang dilakukan atau disediakan oleh aplikasi ini disediakan \"seperti adanya\" dan \"seperti yang tersedia\" dengan semua kecacatan dan tanpa sebarang jaminan dalam apa jua bentuk, dan Pemberi Lesen dengan ini menafikan semua jaminan dan syarat berkenaan dengan aplikasi ini dan sebarang perkhidmatan, sama ada tersurat, tersirat, atau berkanun, termasuk tetapi tidak terhad kepada jaminan dan/atau syarat tersirat kebolehniagaan, kualiti yang memuaskan, kesesuaian untuk tujuan tertentu, ketepatan, ketenangan penggunaan, dan tidak melanggar hak pihak ketiga. Tiada maklumat atau nasihat lisan atau bertulis yang diberikan oleh Pemberi Lesen atau wakilnya yang diberi kuasa akan mewujudkan sebarang jaminan. Jika aplikasi atau perkhidmatan didapati rosak, anda menanggung sepenuhnya kos semua servis, pembaikan, atau pembetulan yang perlu. Sesetengah bidang kuasa tidak membenarkan pengecualian jaminan tersirat atau had ke atas hak berkanun pengguna yang terpakai, jadi pengecualian dan had di atas mungkin tidak terpakai kepada anda.",
+              "10.2 Pemberi Lesen akan menggunakan teknologi keselamatan bertaraf industri untuk memastikan operasi perkhidmatan yang stabil. Setakat yang dibenarkan oleh undang-undang dan peraturan, Pemberi Lesen tidak akan bertanggungjawab untuk pampasan bagi gangguan perkhidmatan atau anomali data sementara yang disebabkan oleh force majeure, bencana alam, peperangan, larangan kerajaan, kegagalan rangkaian, penyelenggaraan sistem, serangan penggodam, virus, kegagalan perkhidmatan pihak ketiga, keabnormalan peranti, atau faktor lain di luar kawalan Pemberi Lesen.",
+              "10.3 Jika perkhidmatan digantung atau ditamatkan disebabkan oleh penyelenggaraan sistem, peningkatan versi, pembetulan pematuhan, atau pelarasan perniagaan, kami akan memberikan notis awal yang munasabah melalui pengumuman dalam aplikasi dan laman web rasmi.",
+              "10.4 Jika peranti anda rosak atau data hilang disebabkan oleh kesilapan operasi anda sendiri, kegagalan peranti, tetapan rangkaian yang salah, atau penggunaan Perisian ini yang tidak betul, anda akan menanggung semua kerugian.",
+              "10.5 Kami berhak untuk melaraskan ciri perkhidmatan, mengubah suai kandungan perkhidmatan, atau membersihkan data pelayan berdasarkan operasi yang sah, keselamatan sistem, pembetulan pematuhan, dan sebab-sebab lain. Kami tidak akan memadam data pengguna tanpa sebab.",
+              "10.6 Had Liabiliti",
+              "Setakat yang tidak dilarang oleh undang-undang, dalam apa jua keadaan Pemberi Lesen tidak akan bertanggungjawab untuk kecederaan peribadi atau sebarang kerosakan sampingan, khas, tidak langsung, atau berbangkit, termasuk tetapi tidak terhad kepada kehilangan keuntungan, kehilangan data, gangguan perniagaan, atau sebarang kerosakan atau kerugian komersial lain, yang timbul daripada atau berkaitan dengan penggunaan atau ketidakupayaan anda untuk menggunakan aplikasi berlesen, tanpa mengira teori liabiliti (kontrak, tort, atau sebaliknya), walaupun Pemberi Lesen telah dimaklumkan tentang kemungkinan kerosakan tersebut. Sesetengah bidang kuasa tidak membenarkan had liabiliti untuk kecederaan peribadi atau kerosakan sampingan atau berbangkit, jadi had ini mungkin tidak terpakai kepada anda.",
+              "Kecuali untuk peruntukan mandatori undang-undang tempatan mengenai kecederaan peribadi, jumlah liabiliti Pemberi Lesen untuk semua kerosakan tidak akan melebihi 1 dolar Amerika Syarikat (USD 1.00). Had di atas akan terpakai walaupun remedi di atas gagal mencapai tujuan asasnya.",
+              "Untuk bidang kuasa seperti Kesatuan Eropah, Kawasan Ekonomi Eropah, dan United Kingdom, klausa had liabiliti ini akan terpakai secara ketat mengikut undang-undang perlindungan pengguna tempatan."
+            ],
+            "key": "agreement-section-10"
+          },
+          {
+            "title": "11 Pelbagai",
+            "paragraphs": [
+              "11.1 Undang-undang yang Mentadbir",
+              "Perjanjian ini dan hubungan antara anda dan Pemberi Lesen akan ditadbir oleh undang-undang Kawasan Pentadbiran Khas Hong Kong Republik Rakyat China, tidak termasuk peruntukan konflik undang-undang. Konvensyen Pertubuhan Bangsa-Bangsa Bersatu mengenai Kontrak Jualan Barangan Antarabangsa tidak akan terpakai kepada Perjanjian ini.",
+              "11.2 Penyelesaian Pertikaian",
+              "Sebarang pertikaian yang timbul daripada atau berkaitan dengan Perjanjian ini hendaklah terlebih dahulu diselesaikan melalui rundingan secara baik. Jika rundingan gagal, anda dan Pemberi Lesen bersetuju untuk mengemukakan pertikaian tersebut ke mahkamah yang mempunyai bidang kuasa di Kawasan Pentadbiran Khas Hong Kong Republik Rakyat China.",
+              "Jika anda adalah pemastautin negara anggota EU, klausa bidang kuasa ini tidak menjejaskan hak berkanun anda di bawah undang-undang perlindungan pengguna tempatan yang mandatori.",
+              "11.3 Pindaan kepada Perjanjian",
+              "Pemberi Lesen berhak untuk meminda Perjanjian ini semasa ujian produk dan operasi rasmi, dan akan menerbitkan pindaan melalui cara yang munasabah seperti pengumuman dalam aplikasi dan laman web rasmi. Setelah diterbitkan, terma yang dipinda menjadi bahagian yang berkuat kuasa dalam Perjanjian ini dan mempunyai kesan undang-undang yang sama.",
+              "11.4 Hubungan Pihak-Pihak",
+              "Anda dan Pemberi Lesen adalah subjek sivil yang bebas. Perjanjian ini tidak membentuk sebarang hubungan undang-undang seperti agensi, perkongsian, pekerjaan, persatuan, atau usaha sama. Apple Inc. dan Google LLC hanyalah saluran pengedaran dan pembayaran untuk Perisian ini dan tidak mengambil bahagian dalam pembangunan atau operasi Perisian ini, dan tidak menanggung sebarang tanggungjawab undang-undang untuk Perisian ini atau perkhidmatannya.",
+              "11.5 Keberkesanan dan Penamatan",
+              "Perjanjian ini berkuat kuasa pada tarikh anda bersetuju dengan terma dan mendaftar akaun. Ia ditamatkan apabila Pemberi Lesen menamatkan perkhidmatan atau anda kehilangan hak untuk menggunakan Perisian. Selepas penamatan, kewajipan dan liabiliti anda semasa tempoh penggunaan kekal berkuat kuasa.",
+              "11.6 Tajuk",
+              "Tajuk seksyen dalam Perjanjian ini adalah untuk kemudahan sahaja dan tidak menjejaskan tafsiran atau aplikasi terma.",
+              "11.7 Hak Cipta dan Pernyataan Hak",
+              "Hak cipta teks Perjanjian ini adalah milik Pemberi Lesen. Pemberi Lesen berhak untuk meminda Perjanjian mengikut undang-undang, peraturan, dan keperluan perniagaan, dan berhak untuk mentafsirkannya secara sah."
+            ],
+            "key": "agreement-section-11"
+          }
+        ]
+      }
+    }
+  ]
+}

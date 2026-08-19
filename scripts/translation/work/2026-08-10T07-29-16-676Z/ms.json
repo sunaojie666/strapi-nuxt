@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "Tentang VicastCam",
+          "titleMain": "Pasukan di sebalik teknologi skrin hijau mudah alih dan pemancaran skrin",
+          "titleHighlight": "",
+          "description": "Kami memberi tumpuan kepada pengimejan mudah alih, kamera maya, kerjasama pemancaran skrin, dan sambungan penstriman berbilang platform, membantu pencipta, pendidik, dan perniagaan menjadikan telefon mereka sebagai alat penstriman profesional yang stabil, jelas, dan mudah diintegrasikan.",
+          "primaryButtonText": "Hubungi Jualan",
+          "secondaryButtonText": "Lihat SDK"
+        },
+        "innovation": {
+          "sectionTag": "Kekuatan Teras",
+          "titleMain": "Fokus pada Inovasi",
+          "titleHighlight": "Memacu Masa Depan Penstriman Langsung",
+          "description": "Dari alat mudah alih hingga keupayaan platform, VicastCam berkembang merentas lebih banyak peranti, platform, dan senario penstriman langsung.",
+          "featureTag": "Keupayaan Teras",
+          "featureTitle": "Penstriman langsung global, dipercayai oleh industri",
+          "featureDescription": "Kami terus memperhalusi pengalaman produk di sekitar penstriman langsung mudah alih, pengimejan maya, kerjasama pemancaran skrin, dan sambungan silang platform, mengubah alat penstriman langsung daripada keupayaan satu titik kepada aliran kerja yang stabil dan boleh diintegrasikan.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Negara dan wilayah",
+              "text": "Menyediakan perkhidmatan kepada pencipta dan pasukan di seluruh dunia"
+            },
+            {
+              "value": "2000+",
+              "label": "Platform serasi",
+              "text": "Meliputi senario penstriman langsung, mesyuarat, dan kandungan utama"
+            },
+            {
+              "value": "500000+",
+              "label": "Jumlah penggunaan",
+              "text": "Sentiasa disahkan untuk kestabilan dan kemudahan penggunaan"
+            },
+            {
+              "value": "99.9%",
+              "label": "Masa aktif",
+              "text": "Memastikan aliran kerja penstriman langsung yang boleh dipercayai"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Hala Tuju",
+          "titleMain": "Sentiasa Berkembang",
+          "titleHighlight": "Di Sekitar Ekosistem Penstriman Langsung Global",
+          "description": "Dari alat penstriman langsung hingga keupayaan platform, VicastCam berkembang merentas lebih banyak peranti, platform, dan senario penstriman langsung.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Memperdalam fokus mudah alih dan memperhalusi kesan skrin hijau teras",
+              "text": "Memberi tumpuan kepada keupayaan asas penstriman maya mudah alih, terus mengulangi dan mengoptimumkan algoritma pemotongan skrin hijau untuk menyelesaikan isu seperti herotan tepi, penyesuaian cahaya yang lemah, dan ketinggalan dengan berbilang lapisan. Menyelesaikan suite penuh kesan maya termasuk pelekat, penggantian latar belakang, dan okklusi latar depan, mewujudkan asas penstriman maya mudah alih yang ringan. Dengan hanya telefon, pencipta boleh mencapai penstriman langsung skrin hijau profesional."
+            },
+            {
+              "year": "2024",
+              "title": "Menyambungkan pemancaran skrin, membangunkan teknologi kamera maya teras",
+              "text": "Memperluas sambungan antara peranti, memberi tumpuan kepada pemancaran skrin telefon definisi tinggi dan penghantaran segerak silang peranti. Membangunkan pemacu kamera maya universal secara bebas untuk tangkapan dan output perisian global, membolehkan keserasian merentas perisian penstriman langsung, alat penyuntingan, dan mesyuarat dalam talian. Merapatkan jurang antara mudah alih dan desktop, membolehkan pemancaran satu ketik kandungan telefon ke PC dan kedudukan kamera maya berbilang output, memperkaya pengeluaran penstriman langsung."
+            },
+            {
+              "year": "2025",
+              "title": "Melancarkan pembantu penstriman langsung 3D profesional untuk PC",
+              "text": "Menyampaikan barisan produk penstriman langsung desktop profesional dengan pembantu penstriman maya 3D yang lengkap. Dilengkapi dengan pemandangan maya 3D, pemanduan manusia digital, pensuisan kamera berbilang, dan pencahayaan serta rendering masa nyata, ia melayani penstriman langsung komersial, pembentangan maya di ruang pameran, dan penstriman langsung e-dagang skrin besar. Meningkatkan penggubahan berbilang lapisan, kapsyen masa nyata, dan komponen interaktif untuk memenuhi keperluan pasukan yang menyampaikan penstriman langsung profesional berskala besar dan berkualiti tinggi."
+            },
+            {
+              "year": "2026",
+              "title": "Memperluas secara global, membina ekosistem penstriman langsung yang lengkap",
+              "text": "Memperluas secara menyeluruh ke dalam penstriman langsung luar negara, menyesuaikan diri dengan platform luar negara utama untuk penstriman, penghantaran latensi rendah melalui rangkaian antarabangsa, dan penyetempatan pelbagai bahasa. Mengintegrasikan tiga produk teras dari tahun-tahun sebelumnya: skrin hijau mudah alih, kamera maya pemancaran skrin, dan penstriman langsung 3D PC, menghubungkan tiga barisan perniagaan: pencipta individu, penggunaan komersial perusahaan, dan integrasi SDK pembangun. Menyatukan perkakasan, perisian, pelbagai terminal, dan perkhidmatan domestik dan antarabangsa, melengkapkan ekosistem penstriman langsung rantaian penuh daripada pengeluaran, interoperabiliti silang peranti, hingga pengedaran global."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Ikuti Kami",
+          "titleMain": "Hubungi Kami",
+          "titleHighlight": "dan Bentuk Masa Depan Penstriman Langsung",
+          "description": "Ikuti kemas kini produk kami, petua penstriman langsung, dan berita lain",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "Akaun YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "Akaun YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "Akaun YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "Akaun YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "Akaun YouTube",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "Tentang Kami",
+          "description": "Ketahui tentang pasukan VicastCam, misi produk, dan keupayaan dalam kamera maya, peningkatan penstriman langsung AI, dan penyiaran silang platform."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Pusat Muat Turun",
+            "title": "Muat Turun VicastCam"
+          },
+          "platform": {
+            "title": "Pilih platform anda",
+            "description": "VicastCam menyokong Windows, iOS, dan Android. Mulakan penstriman langsung profesional.",
+            "versionLabel": "Versi",
+            "updatedAtLabel": "Dikemas kini",
+            "sizeLabel": "Saiz Pakej",
+            "downloadAriaSuffix": "Muat Turun",
+            "closeQrAriaPrefix": "Tutup",
+            "closeQrAriaSuffix": "Kod QR Muat Turun",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Menyokong Android 8.0 dan ke atas",
+                "actionLabel": "Muat Turun Sekarang",
+                "qrTitle": "Imbas untuk memuat turun versi Android",
+                "qrDescription": "Gunakan telefon anda untuk mengimbas dan memuat turun"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Menyokong iOS 13.0 dan ke atas",
+                "actionLabel": "App Store",
+                "qrTitle": "Imbas untuk pergi ke App Store",
+                "qrDescription": "Gunakan telefon anda untuk mengimbas dan memuat turun versi iOS"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Serasi dengan Windows 10 dan ke atas",
+                "actionLabel": "Muat Turun Sekarang",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Mengapa memilih VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Selamat dan boleh dipercayai",
+                "text": "Pelbagai mekanisme keselamatan melindungi data dan akaun anda."
+              },
+              {
+                "key": "updates",
+                "title": "Kemas kini berterusan",
+                "text": "Kami sentiasa menambah baik produk untuk memberikan pengalaman yang lebih stabil."
+              },
+              {
+                "key": "support",
+                "title": "Sokongan profesional",
+                "text": "Sokongan teknikal 24/7 dengan respons pantas terhadap isu anda."
+              },
+              {
+                "key": "tutorial",
+                "title": "Tutorial video",
+                "text": "Tutorial video terperinci dan panduan ciri untuk membantu anda bermula dengan cepat."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Pusat Muat Turun",
+            "description": "Muat turun klien VicastCam untuk Windows, iOS, dan Android."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "ms",
+        "features_section": {
+          "title_tag": "Ciri-ciri",
+          "title_main": "Penyelesaian penstriman langsung serba lengkap",
+          "title_highlight": "untuk penyiar mudah alih profesional",
+          "description": "Integrasikan keupayaan penstriman langsung teras untuk mencipta pemandangan menarik di mana-mana sahaja dan menyampaikan pengalaman visual profesional."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Pemancaran Skrin & Kamera Maya",
+            "desc": "Pancarkan telefon anda ke PC dan gunakan teknologi kamera maya untuk mencipta penstriman langsung profesional."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Sokongan Berbilang Kamera",
+            "desc": "Tukar antara pelbagai sudut kamera dengan satu ketik semasa penstriman langsung untuk perspektif yang lebih kaya."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "Kesan 2D/3D",
+            "desc": "Tambah lapisan kesan 2D/3D yang menakjubkan untuk mencipta bilik langsung yang dinamik dan menarik"
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Penstriman Berbilang Platform",
+            "desc": "Strime ke YouTube, Twitch, TikTok, Facebook Live, dan banyak lagi."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Pengawal Maya",
+            "desc": "Kawal penstriman langsung anda dari jauh dari mana-mana peranti: tukar pemandangan, senyapkan audio, dan laraskan kesan dalam masa nyata."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Langsung Serentak Berbilang Platform",
+            "desc": "Siarkan langsung di TikTok, YouTube, Twitch, dan Instagram secara serentak dari PC anda."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Kesan Skrin Hijau Mudah Alih & Pemancaran Skrin",
+      "top_badge": "Alat Penstriman Langsung Dikuasakan AI",
+      "hero_subtitle": "Memacu ekosistem penstriman langsung global",
+      "hero_description_1": "VicastCam menggunakan pemotongan AI termaju untuk membolehkan anda menukar latar belakang maya dengan lancar semasa penstriman langsung, memberikan",
+      "hero_description_2": "pengalaman mendalam yang meningkatkan imej profesional anda.",
+      "user_count_label": "Pengguna Global",
+      "rating_label": "Penilaian App Store",
+      "download_count_label": "Muat Turun Global",
+      "app_store_url": "Muat Turun di App Store",
+      "google_play_url": "Muat Turun di Android",
+      "desktop_client_url": "Muat Turun Klien Desktop",
+      "request_success": "Permintaan berjaya",
+      "request_fail": "Permintaan gagal",
+      "request_loading": "Memuatkan"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Harga",
+          "titleMain": "Pilih pelan",
+          "titleHighlight": "yang sesuai dengan anda",
+          "description": "Cuba secara percuma, atau pilih pelan lain",
+          "priceAltSuffix": "Harga",
+          "freePlanMessage": "Pengguna percuma tidak perlu membeli",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Percuma",
+              "description": "Percuma untuk memuat turun dan mendaftar, dengan ciri asas tersedia tanpa kos.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/bulan",
+              "priceNote": "",
+              "cta": "Mula",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Buat dengan satu pemandangan",
+                "Susun sehingga empat lapisan secara bebas",
+                "Akses pelbagai bahan latar belakang langsung",
+                "Kualiti asas untuk pemancaran skrin PC",
+                "Kesan kecantikan semula jadi terbina dalam"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Bulanan",
+              "description": "Aktifkan dan nikmati akses penuh selama sebulan, cara kos rendah untuk mencuba.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/bulan",
+              "priceNote": "Akses 30 hari",
+              "cta": "Beli",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Semua ciri mudah alih",
+                "Penstriman langsung pemancaran skrin PC",
+                "Kualiti penstriman langsung HD",
+                "Kesan kecantikan lanjutan",
+                "Kesan penstriman langsung eksklusif"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Tahunan",
+              "description": "Nilai terbaik dengan penjimatan tahunan.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/tahun",
+              "priceNote": "Akses 365 hari",
+              "cta": "Beli",
+              "badgeText": "Paling Popular",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Semua ciri mudah alih",
+                "Penstriman langsung pemancaran skrin PC",
+                "Kualiti penstriman langsung HD",
+                "Kesan kecantikan lanjutan",
+                "Kesan penstriman langsung eksklusif"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Seumur Hidup",
+              "description": "Pembelian sekali untuk akses seumur hidup, sesuai untuk pencipta jangka panjang.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Akses seumur hidup",
+              "cta": "Beli",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Semua ciri mudah alih",
+                "Penstriman langsung pemancaran skrin PC",
+                "Kualiti penstriman langsung HD",
+                "Kesan kecantikan lanjutan",
+                "Kesan penstriman langsung eksklusif"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Bulanan",
+                "subtitle": "Aktifkan dan nikmati akses penuh selama sebulan, cara kos rendah untuk mencuba.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/bulan",
+                "cta": "Beli",
+                "benefits": [
+                  "Semua ciri mudah alih",
+                  "Penstriman langsung pemancaran skrin PC",
+                  "Kualiti penstriman langsung HD",
+                  "Kesan kecantikan lanjutan",
+                  "Kesan penstriman langsung eksklusif"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Tahunan",
+                "subtitle": "Nilai terbaik dengan penjimatan tahunan.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/tahun",
+                "cta": "Beli",
+                "benefits": [
+                  "Semua ciri mudah alih",
+                  "Penstriman langsung pemancaran skrin PC",
+                  "Kualiti penstriman langsung HD",
+                  "Kesan kecantikan lanjutan",
+                  "Kesan penstriman langsung eksklusif"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Seumur Hidup",
+                "subtitle": "Pembelian sekali untuk akses seumur hidup, sesuai untuk pencipta jangka panjang.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Beli",
+                "benefits": [
+                  "Semua ciri mudah alih",
+                  "Penstriman langsung pemancaran skrin PC",
+                  "Kualiti penstriman langsung HD",
+                  "Kesan kecantikan lanjutan",
+                  "Kesan penstriman langsung eksklusif"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "ms",
+        "slug": "team",
+        "pageName": "Perkongsian Perniagaan",
+        "hero": {
+          "eyebrow": "Perkongsian Perniagaan",
+          "title": "Program Perkongsian Agensi Global VicastCam",
+          "highlight": "Sertai kami",
+          "description": "Alat penstriman langsung kamera maya profesional, terbuka kepada rakan kongsi saluran global. Penyelesaian USD bersatu, eksklusiviti wilayah, dan sokongan pemasaran saluran penuh.",
+          "actions": {
+            "primary": "Mohon Sekarang",
+            "secondary": "Ketahui Lebih Lanjut"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Mengapa Menjadi Rakan Kongsi",
+          "titlePrefix": "Mengapa",
+          "titleHighlight": "menjadi rakan kongsi kami",
+          "description": "Mudah dijual, risiko rendah, dan margin tinggi—VicastCam menyampaikan ketiga-tiganya.",
+          "items": [
+            {
+              "title": "Pasaran Pencipta Besar",
+              "description": "Meliputi penstriman langsung, e-dagang, video pendek, dan penciptaan kandungan, permintaan pencipta global semakin meningkat, menawarkan pasaran besar dan penukaran yang stabil.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Tiada Inventori, Penghantaran Dalam Talian",
+              "description": "Pelesenan perisian tulen dengan penghantaran awan segera kod pengaktifan. Tiada stok, tiada logistik, kos rendah, menyokong penghantaran pukal dan pengaktifan pantas.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Kelebihan Daya Saing Ciri Penuh",
+              "description": "Pemotongan skrin hijau, latar belakang maya, penstriman berbilang platform, dan kesan AI semuanya dalam satu. Ciri lengkap yang mudah untuk ditunjukkan, dijual, dan diperbaharui.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Peraturan Perkongsian",
+          "titlePrefix": "Kelayakan",
+          "titleHighlight": "dan penyelesaian",
+          "description": "Dasar agensi yang telus, adil, dan boleh diramal untuk ketenangan fikiran setiap rakan kongsi.",
+          "agentLevelTitle": "Tahap Ejen",
+          "agentLevels": [
+            {
+              "title": "Ejen Standard",
+              "description": "Pesanan awal $30,000 USD memberikan hak pengedaran jangka panjang, diskaun berperingkat, dan sokongan saluran standard.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Ejen Eksklusif Wilayah",
+              "description": "Memenuhi sasaran pembelian suku tahunan untuk mendapatkan hak pengedaran eksklusif untuk satu wilayah, tanpa saluran lain dibenarkan di kawasan itu.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Bekalan dan Penyelesaian",
+          "settlementRules": [
+            "Penyelesaian USD bersatu, menyokong pembayaran melalui akaun korporat HSBC Hong Kong",
+            "Kod pengaktifan pukal dihantar serta-merta melalui awan untuk penghantaran pantas kepada pelanggan",
+            "Rakan kongsi jangka panjang menikmati harga berperingkat; volum pembelian lebih tinggi mengurangkan kos unit"
+          ]
+        },
+        "support": {
+          "eyebrow": "Sokongan Saluran",
+          "titlePrefix": "Empat Tonggak",
+          "titleHighlight": "Sokongan",
+          "description": "Dari bahan dan sokongan teknikal hingga kebenaran jenama dan akses awal kepada ciri baharu, kami menyediakan sokongan saluran penuh.",
+          "items": [
+            {
+              "title": "Bahan Pemasaran Lengkap",
+              "description": "Akses sepanduk laman web, video pendek, salinan iklan Reddit/Facebook, dan bahan ulasan produk serta-merta.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Sokongan Teknikal Bahasa Inggeris Khusus",
+              "description": "Pakar teknikal luar negara untuk penyahpepijatan SDK, selepas jualan ciri penstriman langsung, dan penyelesaian isu pelanggan.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Kebenaran Jenama Rasmi",
+              "description": "Gunakan tanda dagangan dan imej produk VicastCam untuk promosi dalam talian dan luar talian wilayah.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Akses Beta Keutamaan",
+              "description": "Ejen mendapat akses awal untuk menguji dan menjual semua kesan AI, kemas kini penstriman, dan ciri baharu.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Model Perkongsian",
+          "titlePrefix": "Model perkongsian",
+          "titleHighlight": "fleksibel",
+          "description": "Sama ada anda saluran, vendor teknologi, atau penyedia perkhidmatan perusahaan, kami mempunyai model yang sesuai.",
+          "items": [
+            {
+              "title": "Agensi Saluran (Disyorkan)",
+              "description": "Untuk kedai perisian rentas sempadan, kedai peralatan penstriman langsung, MCN luar negara, dan pasukan e-dagang rentas sempadan untuk mengedarkan lesen perisian secara besar-besaran.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "SDK Label Putih OEM",
+              "description": "Keluarkan semua penjenamaan VicastCam, sesuaikan logo, nama perisian, dan UI, dan jual di bawah jenama anda sendiri.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Pemperibadian Perusahaan",
+              "description": "Untuk penyedia perkhidmatan penstriman langsung, institusi pendidikan, dan projek mesyuarat kerajaan/perusahaan, dengan ciri tersuai dan pilihan penggunaan persendirian.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Mohon",
+          "titlePrefix": "Isi borang",
+          "titleHighlight": "untuk memohon dalam talian",
+          "description": "Isi maklumat di bawah dan kami akan menghubungi anda dalam 1-3 hari perniagaan.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Nama Hubungan",
+              "placeholder": "Masukkan nama anda"
+            },
+            {
+              "name": "companyName",
+              "label": "Nama Syarikat",
+              "placeholder": "Masukkan nama syarikat anda"
+            },
+            {
+              "name": "email",
+              "label": "E-mel",
+              "placeholder": "Masukkan e-mel anda"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Telefon",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Jenis Perniagaan",
+              "placeholder": "Pilih jenis perniagaan",
+              "options": [
+                "Agensi Saluran",
+                "SDK Label Putih OEM",
+                "Pemperibadian Perusahaan",
+                "Lain-lain"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Wilayah Utama",
+              "placeholder": "cth., Amerika Utara/Eropah/Asia Tenggara"
+            },
+            {
+              "name": "position",
+              "label": "Jawatan",
+              "placeholder": "Masukkan jawatan anda"
+            },
+            {
+              "name": "budget",
+              "label": "Anggaran Bajet Pembelian Suku Tahunan",
+              "placeholder": "Masukkan bajet anda"
+            },
+            {
+              "name": "country",
+              "label": "Negara",
+              "placeholder": "Pilih negara/wilayah",
+              "options": [
+                "China",
+                "Amerika Syarikat",
+                "Indonesia",
+                "Malaysia",
+                "Thailand",
+                "Vietnam",
+                "Filipina",
+                "Sepanyol",
+                "Portugal",
+                "Arab Saudi",
+                "Jepun",
+                "Turki",
+                "Itali",
+                "Jerman",
+                "Perancis",
+                "Korea Selatan",
+                "Rusia",
+                "Poland",
+                "Belanda",
+                "India",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Lain-lain"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Laman Web Syarikat",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Niat Perkongsian",
+          "intentPlaceholder": "Terangkan secara ringkas model perniagaan anda, pasaran sasaran, dan pendekatan perkongsian yang diingini...",
+          "note": "*Medan wajib. Maklumat anda dirahsiakan dan digunakan hanya untuk komunikasi perkongsian.",
+          "submitLabel": "Hantar Maklumat Perkongsian"
+        },
+        "contact": {
+          "title": "Hubungan Perniagaan Segera",
+          "items": [
+            {
+              "label": "E-mel Perniagaan",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Talian Hotline Hong Kong",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Waktu Bekerja",
+              "value": "GMT+8, Isnin hingga Jumaat, 9:00-18:00"
+            }
+          ],
+          "note": "Untuk keperluan perniagaan segera, hubungi kami secara langsung melalui WhatsApp atau e-mel.",
+          "qr": {
+            "label": "Imbas untuk menghubungi kami di WhatsApp",
+            "alt": "Kod QR hubungan perniagaan VicastCam"
+          }
+        },
+        "seo": {
+          "title": "Perkongsian Perniagaan VicastCam",
+          "description": "Sertai program rakan kongsi global VicastCam untuk sokongan agensi saluran, SDK label putih OEM, dan pemperibadian perusahaan.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "Program Rakan Kongsi Global VicastCam"
+        }
+      }
+    }
+  ]
+}

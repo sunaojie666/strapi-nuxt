@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "مرکز آموزش",
+    "titleMain": "سفر یادگیری VicastCam",
+    "titleHighlight": "خود را آغاز کنید",
+    "descriptionMain": "بر تمامی امکانات نرمافزار مسلط شوید",
+    "descriptionHighlight": "سریع راه بیفتید"
+  },
+  "player": {
+    "sectionAriaLabel": "فهرست آموزشها",
+    "catalogAriaLabel": "فهرست آموزشها",
+    "previousLabel": "قبلی",
+    "nextLabel": "بعدی",
+    "firstLessonText": "در اولین درس هستید",
+    "lastLessonText": "در آخرین درس هستید",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

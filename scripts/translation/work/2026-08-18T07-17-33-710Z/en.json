@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Choose Payment Method",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Pay with your PayPal balance, bank card, or credit card",
+            "secureBadge": "Secure Payment",
+            "methodLabel": "Payment Method",
+            "accountLabel": "Current Account",
+            "signInRequired": "Please sign in to continue with your purchase",
+            "signInAction": "Sign In",
+            "summaryHint": "Click the PayPal button to complete your payment",
+            "trustItems": [
+              "Payments are securely processed by PayPal",
+              "Supports PayPal balance, bank cards, and credit cards",
+              "Membership benefits are activated automatically after successful payment"
+            ],
+            "buttonPay": "Pay with PayPal",
+            "buttonPending": "Order Pending",
+            "buttonCreating": "Creating Order...",
+            "sdkLoading": "Loading PayPal...",
+            "sdkError": "Failed to load PayPal. Please check your network and try again.",
+            "sdkIneligible": "PayPal payment is not supported in this environment",
+            "sdkMissingConfig": "PayPal is not configured. Please contact the administrator.",
+            "orderCreating": "Creating payment order...",
+            "orderCreateFailed": "Failed to create order. Please try again.",
+            "orderProcessing": "Payment result is still being confirmed. Please check again later.",
+            "orderSuccess": "Payment successful. Your membership benefits have been activated.",
+            "orderFailed": "Payment was not successful. Please try again.",
+            "orderPending": "Payment is not complete. Please complete the payment and check again.",
+            "orderExpired": "Payment order has expired. Please try again.",
+            "statusQueryFailed": "Failed to check payment status. Please try again later.",
+            "invalidPlan": "The selected plan is invalid. Please go back and choose again.",
+            "popupBlocked": "The payment window was blocked by your browser. Please allow pop-ups for this site and try again.",
+            "popupOpened": "The PayPal payment window has opened. Please complete the payment in the window.",
+            "popupClosedChecking": "The payment window has closed. Confirming payment result...",
+            "popupClosedFailed": "The payment window has closed, but the order is not complete. Please try again."
+          },
+          "summary": {
+            "title": "Order Summary",
+            "periodLabel": "Membership Period",
+            "paymentMethodLabel": "Payment Method",
+            "amountLabel": "Amount Due",
+            "paymentMethod": "PayPal Online Payment",
+            "note": "After successful payment, membership benefits will be automatically granted to your current account.",
+            "periodMonth": "1 Month",
+            "periodYear": "1 Year",
+            "periodLife": "Lifetime",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Confirming payment result...",
+            "closeLabel": "Close",
+            "iconAlt": "Payment Result",
+            "titlePrefix": "Payment",
+            "successTitleHighlight": "Successful!",
+            "failureTitleHighlight": "Failed!",
+            "successDescription": "Thank you for your purchase. Your membership has been activated.",
+            "failureDescription": "Your payment could not be completed. Please try again or use a different payment method.",
+            "orderNumber": "Order Number",
+            "membershipType": "Membership Type",
+            "expiry": "Expiry Date",
+            "orderStatus": "Order Status",
+            "successStatus": "Paid",
+            "failureStatus": "Unpaid",
+            "successPrimaryAction": "View in Membership Center",
+            "failurePrimaryAction": "Change Payment Method",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Back to Page",
+            "copyOrderNumber": "Copy Order Number",
+            "copied": "Copied",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Confirm Purchase | VicastCam",
+            "description": "Confirm your VicastCam membership plan and complete payment via PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Monthly Membership",
+              "description": "Enjoy all VicastCam membership features on a monthly basis",
+              "period": "1 Month"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Annual Membership",
+              "description": "Enjoy all VicastCam membership features for a full year",
+              "period": "1 Year"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Lifetime Membership",
+              "description": "One-time purchase, long-term access to VicastCam membership features",
+              "period": "Lifetime"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Gebruikersovereenkomst",
+        "updatedAt": "22 juli 2026",
+        "description": "Deze gebruikerslicentieovereenkomst (\"Overeenkomst\") wordt gesloten tussen de licentiegever en de gebruiker van deze software (\"u\" of \"gebruiker\") en is van toepassing op al uw handelingen met betrekking tot het downloaden, installeren, registreren, inloggen en gebruiken van deze software.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Licentiegever: Vicast International Limited",
+              "Officiële kanalen: de officiële website van VicastCam en geautoriseerde appstores (Apple App Store / Google Play Store)",
+              "Contact e-mailadres: service@vicastcam.com",
+              "Laatst bijgewerkt: 22 juli 2026",
+              "Welkom bij VicastCam (\"deze Software\")!",
+              "VicastCam-producten worden uitsluitend aangeboden aan gebruikers buiten het vasteland van China. Wij promoten het product niet actief onder gebruikers op het vasteland van China. Als u zich op het vasteland van China bevindt, houd er dan rekening mee dat dit product niet over de relevante operationele kwalificaties beschikt op het vasteland van China.",
+              "Deze Gebruikerslicentieovereenkomst (\"Overeenkomst\") wordt gesloten tussen de Licentiegever en de gebruiker van deze software (\"u\" of \"gebruiker\") en regelt al uw handelingen met betrekking tot het downloaden, installeren, registreren, inloggen en gebruiken van deze software.",
+              "Door op de knop \"Akkoord\" in deze Software te klikken, aanvaardt u vrijwillig alle voorwaarden van deze Overeenkomst. Als u deze niet aanvaardt, verleent de Licentiegever u geen recht om de Software te gebruiken. Stop dan onmiddellijk met het gebruik en verwijder de Software. Door de Software te blijven gebruiken, stemt u in met en aanvaardt u deze Overeenkomst en eventuele latere wijzigingen.",
+              "U bevestigt dat u ten minste 18 jaar oud bent of de wettelijke meerderjarigheidsleeftijd in uw rechtsgebied heeft bereikt (\"meerderjarige\"). Minderjarigen mogen deze Software alleen gebruiken met de uitdrukkelijke toestemming en onder toezicht van hun wettelijke voogd, die de voogdijverantwoordelijkheden overeenkomstig de wet draagt."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Toepassingsgebied",
+            "paragraphs": [
+              "1.1 Lees voordat u de Software gebruikt deze Overeenkomst zorgvuldig door, met name de kernbepalingen in vetgedrukte tekst, waaronder vrijwaringsclausules, toepasselijk recht en geschillenbeslechting. Als u niet akkoord gaat met enige bepaling, stop dan onmiddellijk met het gebruik van de Software.",
+              "1.2 Deze Software is voornamelijk bedoeld voor volwassenen. Minderjarigen moeten toestemming van hun wettelijke voogd verkrijgen voordat zij deze Software gebruiken en moeten deze gebruiken onder toezicht van de voogd. De voogd moet de voogdijtaken overeenkomstig de wet vervullen.",
+              "1.3 Deze Overeenkomst omvat platformregels zoals aankondigingen, activiteitenregels en in-app meldingen die door deze Software worden gepubliceerd. Alle platformregels vormen een integraal onderdeel van deze Overeenkomst en hebben dezelfde rechtskracht als deze Overeenkomst.",
+              "1.4 Door u te registreren, in te loggen of deze Software te gebruiken, wordt u geacht deze Overeenkomst volledig te hebben gelezen, begrepen en ermee akkoord te gaan.",
+              "1.5 Alle intellectuele eigendomsrechten op deze Software en alle rechten die niet uitdrukkelijk aan gebruikers zijn verleend, blijven voorbehouden aan de Licentiegever."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Deze software en gerelateerde diensten",
+            "paragraphs": [
+              "2.1 Deze software is een hulpmiddel voor live streaming-scenario's en biedt functies zoals live streaming, het instellen van virtuele scènes, AI-matting, gezichtseffecten en schoonheidsfilters. De specifieke diensten en functies zijn afhankelijk van de daadwerkelijke productweergave.",
+              "2.2 U mag de client alleen verkrijgen via officiële kanalen (Apple App Store of Google Play Store). Eventuele risico's en verliezen die voortvloeien uit het gebruik van niet-officiële versies komen voor uw rekening.",
+              "2.3 Om deze software te gebruiken, moet u zelf zorgen voor een terminalapparaat en een internetverbinding en draagt u de bijbehorende internet- en datakosten. Voor volledige functionaliteit is een internetverbinding vereist.",
+              "2.4 De licentiegever verleent u een persoonlijke, niet-commerciële, niet-overdraagbare, herroepbare, niet-exclusieve licentie om de software te gebruiken. Zonder voorafgaande schriftelijke toestemming van de licentiegever is het u verboden de software te wijzigen, kopiëren, verspreiden, spiegelen, crawlen, verkopen of voor commerciële doeleinden te gebruiken.",
+              "2.5 De licentiegever heeft het recht om een deel of alle diensten te upgraden, aan te passen, op te schorten of te beëindigen op basis van productoptimalisatie, beveiligingsonderhoud, nalevingsactiviteiten en andere behoeften. U kunt ervoor kiezen om de client al dan niet bij te werken; het weigeren van updates kan leiden tot beperkte functionaliteit. U heeft het recht om de app op elk moment te verwijderen om de service te beëindigen.",
+              "2.6 Aankopen en abonnementen",
+              "2.6.1 Alle betaalde functies, aankopen en abonnementen binnen deze software worden voltooid via het betalingssysteem van de Apple App Store of Google Play, en dergelijke transacties zijn ook onderworpen aan de servicevoorwaarden van het betreffende platform.",
+              "2.6.2 Abonnementsregels",
+              "(1) Automatische verlenging: Abonnementsdiensten worden automatisch gefactureerd ten minste 24 uur vóór het einde van de huidige serviceperiode, en het platformsysteem stuurt verlengingsherinneringen. U kunt de automatische verlenging op elk moment bekijken, beheren en annuleren via 'Instellingen > Account > Abonnementen' op uw apparaat (het pad kan per platform verschillen).",
+              "(2) Prijswijzigingen: Als we abonnementsprijzen aanpassen, zullen we ten minste 30 dagen voordat de nieuwe prijs ingaat, kennisgeving doen via in-app aankondigingen, de officiële website of andere redelijke middelen. Prijswijzigingen hebben geen invloed op de huidige abonnementsperiode die al van kracht is. Waar lokale wetgeving aanvullende gebruikersinstemming vereist, zullen we ons aan de wet houden.",
+              "(3) Gratis proefperiode: Als er een gratis proefperiode wordt aangeboden, schakel dan automatische verlenging ten minste 24 uur vóór het einde van de proefperiode uit om te voorkomen dat er kosten in rekening worden gebracht.",
+              "2.6.3 Regionale restituties en wettelijke herroepingsrechten",
+              "(1) Gebruikers in de Europese Unie, de Europese Economische Ruimte en het Verenigd Koninkrijk: In overeenstemming met lokale consumentenbeschermingswetten heeft u een wettelijk herroepingsrecht van 14 dagen zonder opgave van reden. Zie het VicastCam-restituatiebeleid voor details. Herroepings- en restitutieverzoeken moeten worden ingediend via het officiële kanaal (App Store of Google Play) dat voor uw aankoop is gebruikt, en restituties zijn onderworpen aan platformregels en lokale wetgeving. Als u de service tijdens de 14-daagse bedenktijd heeft gebruikt, wordt de restitutie naar rato berekend op basis van het daadwerkelijke gebruik. Zodra de herroeping van kracht wordt, eindigen uw betaalde gebruiksrechten onmiddellijk.",
+              "(2) Eenmalige betaling en levenslange diensten: Als u expliciet bevestigt dat u de service onmiddellijk activeert en afziet van het 14-daagse herroepingsrecht, is het herroepingsrecht zonder opgave van reden niet langer van toepassing.",
+              "(3) Alle andere regio's: Restituties en after-sales kwesties worden voornamelijk beheerst door de officiële regels van het platform dat voor uw aankoop is gebruikt.",
+              "2.6.4 Gebruiksregels voor betaalde voordelen",
+              "(1) Betaalde diensten en voordelen zijn uitsluitend voor persoonlijk gebruik.",
+              "(2) Het is u verboden betaalde voordelen aan derden te verstrekken via schenking, uitlening, verhuur, doorverkoop of bulk delen.",
+              "2.7 Kosten, lidmaatschap en regels voor commercieel gebruik",
+              "2.7.1 De licentiegever heeft het recht om kosten in rekening te brengen voor de software en gerelateerde netwerkdiensten in overeenstemming met de wet. U bent verantwoordelijk voor alle kosten van hardware, software en netwerk die nodig zijn voor gebruik, en u moet de bijbehorende servicekosten op tijd betalen.",
+              "2.7.2 U moet uw belastingverplichtingen nakomen in overeenstemming met de wet en alle belastingen dragen die voortvloeien uit het gebruik van de diensten. Het is u verboden betaalde diensten frauduleus te gebruiken.",
+              "2.7.3 We kunnen het lidmaatschapssysteem aanpassen of lidmaatschapsdiensten beëindigen op basis van legitieme operationele behoeften. Als een account wordt geblokkeerd of beëindigd vanwege overtredingen, worden betaalde kosten niet gerestitueerd.",
+              "2.7.4 Als u deze software voor commerciële doeleinden wilt gebruiken, moet u vooraf een aanvraag indienen bij de licentiegever en een officiële commerciële gebruikslicentie verkrijgen.",
+              "2.7.5 Het is u verboden deze software te gebruiken om pornografische of illegale inhoud te verspreiden met winstoogmerk."
+            ]
+          },
+          {
+            "title": "3 Accountbeheer",
+            "paragraphs": [
+              "3.1 U kunt zelf een account registreren of inloggen met een legitiem account van een derde partij. Accounts van derden moeten worden geverifieerd met echte naamgegevens en moeten voldoen aan de platformregels. U bent verantwoordelijk voor het beveiligen van uw account en wachtwoord en voor alle acties die onder uw account worden uitgevoerd.",
+              "3.2 In overeenstemming met wereldwijde vereisten voor netwerkttoezicht en registratie met echte naam, moet u bij registratie ware, nauwkeurige en geldige identiteitsgegevens en contactgegevens (zoals e-mail) verstrekken. Als de informatie onwaar of twijfelachtig is, heeft de Licentiegever het recht om correctie te eisen, diensten te beperken of te beëindigen. Sommige registratiegegevens kunnen om veiligheidsredenen niet worden gewijzigd.",
+              "3.3 Sommige basisfuncties kunnen worden gebruikt zonder in te loggen. Volledige functionaliteit en betaalde diensten vereisen registratie, login en identiteitsverificatie.",
+              "3.4 Accountinformatie zoals bijnaam, avatar en bio mag geen namen, handelsmerken, portretten of andere wettelijke rechten van anderen nabootsen en mag geen illegale, vulgaire of misleidende inhoud bevatten. De Licentiegever heeft het recht om accountinformatie te controleren en maatregelen te nemen zoals resetten, functies beperken of accounts verbannen bij overtredingen.",
+              "3.5 Accounts zijn uitsluitend voor persoonlijk gebruik en mogen worden gebruikt op apparaten die u rechtmatig beheert. Het weggeven, uitlenen, verhuren, overdragen of verkopen van accounts is verboden. Als blijkt dat de gebruiker niet overeenkomt met de geregistreerde, heeft de Licentiegever het recht om diensten op te schorten of te beëindigen.",
+              "3.6 U bent verantwoordelijk voor de beveiliging en vertrouwelijkheid van uw account en draagt de volledige wettelijke verantwoordelijkheid voor alle handelingen, inhoud en acties onder uw account.",
+              "3.7 Als uw account is gestolen of u uw wachtwoord bent vergeten, kunt u dit herstellen via het officiële beroepskanaal.",
+              "3.7.1 Als uw account is gestolen, informatie is gelekt of eigendom verloren is gegaan door onjuist beheer, verlies van apparaat of vrijwillige bekendmaking van accountgegevens, draagt u de volledige verantwoordelijkheid.",
+              "3.7.2 Accounthersteldiensten verifiëren alleen informatie die in het systeem is opgeslagen en kunnen de ware identiteit van de gebruiker niet vaststellen. U draagt de bijbehorende risico's. Als u abnormale accountactiviteit opmerkt, neem dan onmiddellijk contact op met de officiële klantenservice.",
+              "3.8 Accountannulering en gegevensverwerking",
+              "3.8.1 U kunt een aanvraag tot annulering van uw account indienen via \"Ik > Instellingen > Accountbeheer > Account annuleren\" in de Software of via de officiële e-mail. Eigendomsverificatie is vereist vóór annulering.",
+              "3.8.2 Na annulering van het account wordt een bufferperiode van 30 dagen voor gegevens gereserveerd (uitsluitend voor financiële afstemming, geschillenbeslechting en after-salesverificatie). Na deze periode wordt permanente fysieke verwijdering uitgevoerd, behalve voor transactiegegevens die wettelijk moeten worden bewaard.",
+              "3.8.3 Na annulering van het account kunnen het account en de gegevens niet worden hersteld. Verplichtingen en aansprakelijkheden die tijdens uw gebruik zijn ontstaan, worden niet kwijtgescholden door annulering."
+            ],
+            "key": "agreement-section-3"
+          },
+          {
+            "title": "4 Gebruikersgedrag",
+            "paragraphs": [
+              "4.1 U verbindt zich ertoe om bij het gebruik van deze Software te voldoen aan wereldwijde wetten op het gebied van netwerkbeveiliging, intellectueel eigendom, portretrecht en privacy, en de wettelijke rechten van anderen te respecteren. Tenzij toegestaan door de wet of schriftelijk geautoriseerd door de Licentiegever, zijn de volgende handelingen verboden:",
+              "4.1.1 Het uploaden of verspreiden van ongeautoriseerde persoonlijke informatie, bedrijfsgeheimen of inbreukmakende inhoud.",
+              "4.1.2 Het gebruik van cheats, plug-ins of tools van derden om de normale werking van deze Software te verstoren of te belemmeren.",
+              "4.1.3 Het plegen van illegale netwerkinbraak, diefstal van gegevens, verspreiding van virussen, kwetsbaarheidsscans, vervalsing van netwerkdatapakketten of andere cyberaanvallen.",
+              "4.1.4 Massaal kwaadwillig registreren van accounts.",
+              "4.1.5 Reverse engineering, decompileren, disassembleren of proberen de broncode van deze Software te kraken.",
+              "4.1.6 Het creëren of verspreiden van pornografische, gewelddadige, belasterende of illegale inhoud.",
+              "4.1.7 Het promoten van tabak, alcohol, gokken, wapens of verboden artikelen.",
+              "4.1.8 Het zonder toestemming heimelijk fotograferen, opnemen of verspreiden van beelden, stemmen of privé-informatie van anderen, waardoor hun portret- of privacyrechten worden geschonden.",
+              "4.1.9 Andere handelingen die in strijd zijn met lokale wetten, deze Overeenkomst of platformregels.",
+              "4.1.10 Als u deze Overeenkomst overtreedt, heeft de Licentiegever het recht om overtredende inhoud zonder kennisgeving te verwijderen en straffen op te leggen zoals waarschuwingen, functieverboden, apparaatverboden of permanente accountverboden, afhankelijk van de ernst. Overtredende gebruikers kunnen beroep aantekenen via de officiële e-mail, en de Licentiegever heeft de definitieve beoordelingsbevoegdheid.",
+              "4.2 Bij het maken van inhoud met deze Software is het u verboden om ingebouwde materialen, effecten of logo's te gebruiken voor handelsmerken, logo's of commerciële identificatiemiddelen van derden (behalve voor uw eigen auteursrechtelijk beschermde inhoud).",
+              "4.3 U mag deze Software niet gebruiken om gewelddadige, pornografische, belasterende, doxxing, privacy-schendende, spam of andere inhoud te publiceren of te verspreiden die in strijd is met wetten of de openbare orde en goede zeden.",
+              "4.4 De Licentiegever heeft het recht om gebruikersgedrag te controleren en te beoordelen en kan bij overtredingen correctie eisen, inhoud verwijderen, diensten opschorten of beëindigen.",
+              "4.5 Speciale functiebeperkingen",
+              "4.5.1 Camera en livestreaming: Voordat u de camera-, livestream- of schermopnamefuncties gebruikt, moet u uitdrukkelijke toestemming verkrijgen van alle personen die worden gefilmd of opgenomen. Het is ten strengste verboden om deze Software te gebruiken voor heimelijk fotograferen, heimelijk opnemen, illegale livestreaming of andere illegale handelingen. U draagt alle gerelateerde verantwoordelijkheden.",
+              "4.5.2 AI-functies: De intellectuele eigendomsrechten van de AI-algoritmen, modellen, effecten en visuele materialen in deze Software behoren toe aan de Licentiegever of samenwerkende derden. U mag ze alleen gebruiken voor persoonlijke, niet-commerciële, legale creatie. Het is u verboden om deepfakes, nep-audio/video, fraude of illegale inhoud te creëren.",
+              "4.5.3 Regionale naleving: U moet strikt voldoen aan de wettelijke vereisten van uw land/regio met betrekking tot livestreaming, verzameling van biometrische gegevens en AI-inhoud.",
+              "4.6 Als uw overtreding verliezen voor de Licentiegever veroorzaakt, worden betaalde vergoedingen niet terugbetaald en moet u de Licentiegever volledig compenseren voor alle economische en reputatieverliezen."
+            ],
+            "key": "agreement-section-4"
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Bescherming van persoonsgegevens",
+            "paragraphs": [
+              "5.1 Wij verwerken uw persoonsgegevens strikt in overeenstemming met de AVG van de EU, de Britse Data Protection Act, de Hongkongse Personal Data (Privacy) Ordinance en wereldwijde regelgeving inzake gegevensbescherming. Overeenkomstig artikel 27 van de AVG hebben wij lokale vertegenwoordigers voor naleving aangesteld in de EU en het VK. Voor specifieke contactgegevens verwijzen wij u naar het document 'AVG en gegevensbescherming'.",
+              "5.2 U stemt ermee in dat de Licentiegever persoonsgegevens mag verzamelen, gebruiken en opslaan in overeenstemming met deze Overeenkomst en het Privacybeleid. Het Privacybeleid heeft dezelfde rechtskracht als deze Overeenkomst.",
+              "5.3 Wij gebruiken beveiligingstechnologieën zoals versleuteling en anonimisering om uw persoonsgegevens te beschermen tegen lekken, manipulatie en ongeoorloofde toegang.",
+              "5.4 Zonder uw uitdrukkelijke toestemming delen wij uw persoonsgegevens niet met derden, behalve in de volgende omstandigheden:",
+              "(1) U verstrekt ze zelf aan derden;",
+              "(2) Vereist door nationale veiligheid, openbare veiligheid, volksgezondheid en wettelijke gerechtelijke of administratieve vereisten;",
+              "(3) Ter bescherming van de belangrijke wettelijke rechten en belangen van deze Software, andere gebruikers of derden, en in overeenstemming met wettelijke bepalingen;",
+              "(4) Informatie verkregen uit legitieme openbare bronnen;",
+              "(5) Andere omstandigheden die bij wet- en regelgeving zijn vastgesteld.",
+              "5.5 U heeft het wettelijke recht om uw persoonsgegevens op te vragen, te corrigeren, te verwijderen en toestemming in te trekken. Voor gedetailleerde regels over persoonsgegevens verwijzen wij u naar het Privacybeleid."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Klachten en meldingen",
+            "paragraphs": [
+              "6.1 U kunt schendende inhoud melden of een klacht indienen over inbreukmakende handelingen via de client of het officiële contact-e-mailadres.",
+              "6.2 Als uw rechten worden geschonden, kunt u bewijs van rechten overleggen om een klacht in te dienen. De aangeklaagde partij kan bewijs van eigendom overleggen om in beroep te gaan.",
+              "6.3 Wij voltooien de beoordeling en geven doorgaans binnen 15 werkdagen feedback. Bij complexe zaken informeren wij u over de voortgang."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Afhandeling van overtredingen",
+            "paragraphs": [
+              "7.1 Als u deze Overeenkomst, platformregels of lokale wet- en regelgeving overtreedt, kan de Licentiegever maatregelen nemen zoals waarschuwingen, functiebeperkingen, verwijdering van inhoud, opschorting van de dienst of permanente accountblokkering. Eventuele verliezen die uit dergelijke maatregelen voortvloeien, komen voor uw rekening, en verwijderde inhoud en gegevens worden niet hersteld.",
+              "7.2 Als er vermoedens zijn van illegale of strafbare activiteiten, bewaart de Licentiegever bewijs en meldt dit aan de wetshandhavingsautoriteiten en werkt mee aan onderzoeken.",
+              "7.3 Als uw overtreding ertoe leidt dat de Licentiegever door derden wordt aangesproken, administratieve sancties krijgt of reputatie- of economische schade lijdt, draagt u alle verliezen van de Licentiegever."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Intellectueel eigendom",
+            "paragraphs": [
+              "8.1 De intellectuele eigendomsrechten van de code, interface, tekst, afbeeldingen, audio/video, effecten, handelsmerken en logo's van deze Software behoren toe aan de Licentiegever.",
+              "8.2 De Licentiegever bezit alle rechten op de legitieme gegevens en informatie die tijdens de werking van het product worden gegenereerd.",
+              "8.3 Zonder uitdrukkelijke schriftelijke toestemming van de Licentiegever is het u verboden om het merk 'VicastCam', handelsmerken, domeinnamen, logo's, enz. te gebruiken, te kopiëren, na te bootsen of te registreren. Als u verliezen veroorzaakt door ongeoorloofd gebruik, draagt u de volledige wettelijke verantwoordelijkheid.",
+              "8.4 Deze Software bevat softwarecomponenten die worden gedistribueerd onder open-sourcelicenties en licenties van derden. U moet zich strikt houden aan de betreffende licentievoorwaarden bij het gebruik van dergelijke componenten."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Voorwaarden voor minderjarigen",
+            "paragraphs": [
+              "9.1 Minderjarigen moeten uitdrukkelijke toestemming van hun wettelijke voogd verkrijgen voordat zij deze Software gebruiken en moeten deze gebruiken onder toezicht van de voogd. Voogden hebben het recht om beperkingen op of annulering van het account van een minderjarige gebruiker te verzoeken.",
+              "9.2 De Licentiegever verzamelt zorgvuldig persoonsgegevens van minderjarige gebruikers. Voogden moeten minderjarigen begeleiden bij het beschermen van hun persoonlijke privacy en netwerkbeveiliging.",
+              "9.3 Voogden moeten hun voogdijtaken volgens de wet vervullen, minderjarigen begeleiden bij gezond internetgebruik en internetverslaving voorkomen.",
+              "9.4 Minderjarigen en hun voogden zijn wettelijk verantwoordelijk voor alle handelingen en gevolgen van het gebruik door de minderjarige.",
+              "9.5 Minderjarigen mogen de camera niet gebruiken voor livestreaming of alleen in video's verschijnen, en mogen geen illegale of vulgaire inhoud publiceren.",
+              "9.6 Als de Licentiegever ontdekt dat een minderjarige de Software gebruikt zonder toestemming van de voogd, heeft deze het recht om het betreffende account rechtstreeks te beperken of te blokkeren.",
+              "9.7 Voogden moeten betaalaccounts en wachtwoorden goed bewaren om ongeoorloofde kosten door minderjarigen te voorkomen. Als u vragen heeft, neem dan contact op met de officiële klantenservice."
+            ]
+          },
+          {
+            "title": "10 Vrijwaring",
+            "paragraphs": [
+              "10.1 U erkent en gaat er uitdrukkelijk mee akkoord dat u deze applicatie op eigen risico gebruikt. Voor zover de toepasselijke wetgeving dit toestaat, wordt deze applicatie en alle door deze applicatie uitgevoerde of verleende diensten aangeboden \"zoals deze is\" en \"zoals beschikbaar\", met alle gebreken en zonder enige garantie. De Licentiegever wijst hierbij alle garanties en voorwaarden met betrekking tot deze applicatie en eventuele diensten af, hetzij expliciet, impliciet of wettelijk, met inbegrip van, maar niet beperkt tot, de impliciete garanties en/of voorwaarden van verkoopbaarheid, bevredigende kwaliteit, geschiktheid voor een bepaald doel, nauwkeurigheid, ongestoord gebruik en niet-inbreuk op rechten van derden. Geen mondelinge of schriftelijke informatie of advies van de Licentiegever of zijn gemachtigde vertegenwoordigers schept een garantie. Als deze applicatie of diensten defect blijken te zijn, draagt u het volledige risico en de kosten van alle noodzakelijke service, reparatie of correctie. Sommige rechtsgebieden staan de uitsluiting van impliciete garanties of beperkingen op wettelijke rechten van consumenten niet toe, dus bovenstaande uitsluitingen en beperkingen zijn mogelijk niet op u van toepassing.",
+              "10.2 De Licentiegever zal gebruikmaken van beveiligingstechnologieën die in de branche gebruikelijk zijn om een stabiele werking van de diensten te waarborgen. Voor zover wet- en regelgeving dit toestaat, is de Licentiegever niet aansprakelijk voor schadevergoeding voor onderbrekingen van de dienst of tijdelijke gegevensafwijkingen die worden veroorzaakt door overmacht, natuurrampen, oorlogen, overheidsverboden, netwerkstoringen, systeemonderhoud, hacker-aanvallen, virussen, storingen van diensten van derden, apparaatstoringen of andere factoren buiten de controle van de Licentiegever.",
+              "10.3 Als diensten worden opgeschort of beëindigd vanwege systeemonderhoud, versie-upgrades, nalevingscorrecties of bedrijfsaanpassingen, zullen wij u via meldingen in de app en op de officiële website tijdig op de hoogte stellen.",
+              "10.4 Als uw apparaat beschadigd raakt of gegevens verloren gaan door uw eigen bedieningsfouten, apparaatstoringen, onjuiste netwerkinstellingen of onjuist gebruik van deze Software, draagt u zelf alle verliezen.",
+              "10.5 Wij hebben het recht om servicefuncties aan te passen, service-inhoud te wijzigen of servergegevens op te schonen op basis van legitieme bedrijfsvoering, systeembeveiliging, nalevingscorrecties en andere redenen. Wij zullen gebruikersgegevens niet zonder reden verwijderen.",
+              "10.6 Beperking van aansprakelijkheid",
+              "Voor zover de wet dit niet verbiedt, is de Licentiegever in geen geval aansprakelijk voor persoonlijk letsel of enige incidentele, speciale, indirecte of gevolgschade, met inbegrip van, maar niet beperkt tot, winstderving, verlies van gegevens, bedrijfsonderbreking of enige andere commerciële schade of verliezen, die voortvloeien uit of verband houden met uw gebruik of het onvermogen om de gelicentieerde applicatie te gebruiken, ongeacht de aansprakelijkheidstheorie (contract, onrechtmatige daad of anderszins), zelfs als de Licentiegever op de hoogte is gesteld van de mogelijkheid van dergelijke schade. Sommige rechtsgebieden staan de beperking van aansprakelijkheid voor persoonlijk letsel of incidentele of gevolgschade niet toe, dus deze beperking is mogelijk niet op u van toepassing.",
+              "Behoudens dwingende bepalingen van lokale wetgeving met betrekking tot persoonlijk letsel, is de totale aansprakelijkheid van de Licentiegever voor alle schade niet hoger dan 1 Amerikaanse dollar (USD 1,00). Bovenstaande beperkingen zijn ook van toepassing als het bovengenoemde rechtsmiddel zijn essentieel doel niet bereikt.",
+              "Voor rechtsgebieden zoals de Europese Unie, de Europese Economische Ruimte en het Verenigd Koninkrijk geldt deze beperking van aansprakelijkheid strikt in overeenstemming met de lokale wetgeving inzake consumentenbescherming."
+            ],
+            "key": "agreement-section-10"
+          },
+          {
+            "title": "11 Overige bepalingen",
+            "paragraphs": [
+              "11.1 Toepasselijk recht",
+              "Op deze Overeenkomst en de relatie tussen u en de Licentiegever is het recht van de Speciale Administratieve Regio Hongkong van de Volksrepubliek China van toepassing, met uitsluiting van de regels van internationaal privaatrecht. Het Weens Koopverdrag (CISG) is niet van toepassing op deze Overeenkomst.",
+              "11.2 Geschillenbeslechting",
+              "Geschillen die voortvloeien uit of verband houden met deze Overeenkomst worden eerst in der minne opgelost. Indien onderhandelingen niet slagen, komen u en de Licentiegever overeen het geschil voor te leggen aan de bevoegde rechtbanken van de Speciale Administratieve Regio Hongkong van de Volksrepubliek China.",
+              "Als u ingezetene bent van een EU-lidstaat, heeft deze rechtskeuzeclausule geen invloed op uw wettelijke rechten op grond van dwingende lokale wetgeving inzake consumentenbescherming.",
+              "11.3 Wijzigingen van de Overeenkomst",
+              "De Licentiegever heeft het recht deze Overeenkomst te wijzigen tijdens producttests en formele exploitatie, en zal wijzigingen publiceren via redelijke middelen zoals meldingen in de app en op de officiële website. Eenmaal gepubliceerd, worden de gewijzigde voorwaarden een effectief onderdeel van deze Overeenkomst en hebben zij dezelfde rechtskracht.",
+              "11.4 Relatie tussen partijen",
+              "U en de Licentiegever zijn onafhankelijke rechtssubjecten. Deze Overeenkomst vormt geen enkele rechtsverhouding zoals agentschap, partnerschap, dienstverband, vereniging of joint venture. Apple Inc. en Google LLC zijn slechts distributie- en betalingskanalen voor deze Software en nemen niet deel aan de ontwikkeling of exploitatie van deze Software, noch dragen zij enige juridische verantwoordelijkheid voor deze Software of haar diensten.",
+              "11.5 Inwerkingtreding en beëindiging",
+              "Deze Overeenkomst treedt in werking op de datum waarop u akkoord gaat met de voorwaarden en een account registreert. Zij eindigt wanneer de Licentiegever de diensten beëindigt of u het recht verliest om de Software te gebruiken. Na beëindiging blijven uw verplichtingen en aansprakelijkheden tijdens de gebruiksperiode van kracht.",
+              "11.6 Paragrafen",
+              "De koppen van paragrafen in deze Overeenkomst dienen slechts ter vergemakkelijking en hebben geen invloed op de interpretatie of toepassing van de voorwaarden.",
+              "11.7 Auteursrecht en rechtenverklaring",
+              "Het auteursrecht op de tekst van deze Overeenkomst berust bij de Licentiegever. De Licentiegever heeft het recht de Overeenkomst te wijzigen in overeenstemming met wet- en regelgeving en bedrijfsbehoeften, en heeft het recht deze rechtmatig te interpreteren."
+            ],
+            "key": "agreement-section-11"
+          }
+        ]
+      }
+    }
+  ]
+}

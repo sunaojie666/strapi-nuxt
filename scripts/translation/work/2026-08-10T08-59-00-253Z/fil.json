@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Paano Gumawa ng Bagong Live Room",
+      "tag_1": "Mobile",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "Pag-unawa sa Matting Modes ng VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Feature Tutorial"
+    },
+    {
+      "title": "Paano Gamitin ang Layer Feature ng VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Core Feature"
+    },
+    {
+      "title": "Pagkilala sa VicastCam sa Desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "Paano Ikonekta ang iPhone sa VicastCam nang Wireless",
+      "tag_1": "iOS",
+      "tag_2": "Connection Tutorial"
+    },
+    {
+      "title": "Paano Magdagdag at Gumamit ng Local Media",
+      "tag_1": "Desktop",
+      "tag_2": "Usage Tutorial"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Global Community",
+        "title_main": "Live Streaming na Gumagana Kahit Saan",
+        "title_highlight": "Pinagkakatiwalaan ng mga Streamer sa 150+ Bansa",
+        "desc": "Naglilingkod sa mahigit 150 bansa at rehiyon, tinutulungan namin ang hindi mabilang na streamer na lumago mula sa mga baguhan hanggang sa mga propesyonal na live content creator.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Mga Bansa"
+          },
+          {
+            "number": "2000+",
+            "name": "Aktibong Streamer"
+          },
+          {
+            "number": "5000+",
+            "name": "Popularity Boost"
+          },
+          {
+            "number": "99.9%",
+            "name": "Katatagan"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "fil",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Mga Tanong?",
+          "title_highlight": "May mga sagot kami.",
+          "description": "Hanapin ang mga sagot sa mga karaniwang tanong tungkol sa VicastCam sa ibaba. Hindi mahanap ang hinahanap mo? Makipag-ugnayan sa aming team.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Saang mga platform ako maaaring mag-stream gamit ang VicastCam?",
+              "answer": "Sinusuportahan ng VicastCam ang pag-stream sa mga pangunahing platform tulad ng YouTube, Twitch, TikTok, Facebook Live, at Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Kailangan ba ng green screen para sa background removal ng VicastCam?",
+              "answer": "Hindi. Gumagamit ang VicastCam ng AI-powered background removal, kaya maaari mong palitan ang iyong background sa real time nang walang green screen."
+            },
+            {
+              "id": "q3",
+              "question": "Maaari ko bang gamitin ang VicastCam sa aking telepono?",
+              "answer": "Oo. Available ang VicastCam sa iOS at Android, at lahat ng propesyonal na feature ay available sa mobile."
+            },
+            {
+              "id": "q4",
+              "question": "Gaano ka-reliable ang VicastCam?",
+              "answer": "Nag-aalok ang VicastCam ng 99.9% stability, sumusuporta sa mga streamer sa buong mundo na may 24/7 na walang patid na streaming."
+            },
+            {
+              "id": "q5",
+              "question": "Sinusuportahan ba ng VicastCam ang multi-camera streaming?",
+              "answer": "Oo. Maaari kang mag-switch nang walang putol sa pagitan ng maraming camera sa panahon ng live stream upang makamit ang propesyonal na produksyon."
+            }
+          ],
+          "view_more": {
+            "text": "Tingnan Pa"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Android & iOS Help",
+          "description": "Maghanap ng mga sagot sa mga karaniwang tanong tungkol sa VicastCam para sa Android at iOS, kabilang ang pag-setup ng account, mga pahintulot sa media, mga koneksyon sa network, at mga isyu sa pagpapakita ng live stream.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Tulong sa VicastCam",
+          "titleHighlight": "Mabilis na Makahanap ng Sagot",
+          "description": "Pumili ng Android o iOS tutorial upang makita ang mga karaniwang isyu at solusyon para sa iyong device."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Mga kategorya ng tanong",
+          "answerLabel": "Sagot",
+          "questionProgressTemplate": "{group} · Tanong {current} ng {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android Tutorials",
+            "count": "8 tanong",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Ano ang mga inirerekomendang laki ng media para sa live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mga inirerekomendang laki ng media para sa live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para sa mga live stream background, inirerekomenda namin ang mga imahe sa 1080 x 1920 pixels at mga video sa 1080 x 1920 pixels.",
+                      "Mahalaga: Ang mga full-screen overlay ay dapat gumamit ng 9:16 aspect ratio upang matiyak na perpektong nakahanay ang mga ito kapag lumilipat sa pagitan ng full-screen at 9:16 mode."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Paano ko tatanggalin ang aking account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mag-log in sa VicastCam app, pagkatapos ay pumunta sa [Account - Icon sa kanang itaas - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Impormasyon ng Account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kapag natanggal na ang iyong account, permanenteng aalisin namin ang iyong naka-link na email, mga tala ng device, at iba pang impormasyon ng pagkakakilanlan. Ire-revoke din namin ang mga third-party login authorization sa pamamagitan ng Google at Apple. Pagkatapos ng revocation, hindi ka na makakapag-log in nang mabilis gamit ang mga third-party account na iyon; kung nais mong gamitin muli ang mga ito, kakailanganin mong mag-re-authorize."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nilalaman at Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ang lahat ng live stream media, video, imahe, at project file ay nakaimbak lamang sa iyong device. Hindi pinapanatili ng platform ang anumang creative content sa cloud. Pagkatapos ng pagtanggal, hindi na gagana ang mga media management feature ng app, kaya mangyaring i-back up ang iyong content nang maaga gamit ang 'Export Media' feature.",
+                      "Kung i-uninstall at i-install mong muli ang app, o lumipat ng device nang hindi muna nag-export ng backup, ang iyong media ay permanenteng hindi na mababawi."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mga Benepisyo ng Membership"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Ang iyong mga benepisyo sa membership ay agad na matatapos kapag tinanggal ang account. Kung mayroon kang aktibong Google Play subscription, hindi awtomatikong kakanselahin ito ng pagtanggal ng iyong app account, at maaari ka pa ring singilin. Mangyaring pumunta sa 'Payments & subscriptions - Subscriptions' ng Google Play upang manu-manong kanselahin."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mayroon kang mga tanong, mangyaring makipag-ugnayan sa aming support team."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Bakit hindi ko ma-access ang media ng aking telepono kapag nagdadagdag ng mga imahe o video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mukhang walang laman ang iyong photo library kapag nagdadagdag ng media, maaari mong paganahin ang photo access sa ganitong paraan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Buksan ang Settings ng iyong telepono, mag-scroll pababa upang mahanap ang VicastCam, i-tap ang [Photos - All Photos] upang paganahin ang access.",
+                      "Android: Buksan ang Settings ng iyong telepono, hanapin ang VicastCam sa ilalim ng 'Permissions' o 'App Management', pagkatapos ay i-tap ang [Permissions - Photos - All Photos] upang paganahin ang access.",
+                      "Kung magpapatuloy ang isyu, subukang i-install muli ang app o makipag-ugnayan sa aming online support sa pamamagitan ng feedback feature."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Ano ang gagawin ko kung napuputol ang display kapag nag-stream mula sa aking computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung hindi kumpleto ang display kapag nag-stream mula sa iyong telepono sa pamamagitan ng streaming companion o iba pang software, sundin ang mga hakbang na ito:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, i-tap ang camera icon sa ibaba upang pumasok sa live page, pagkatapos ay pumunta sa [Right menu - More Settings - Aspect Ratio - 9:16].",
+                      "Pagkatapos mag-cast sa streaming companion, i-scale muna upang magkasya, pagkatapos ay i-drag ang imahe pataas o pababa upang punan ang screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Tandaan: Ayusin ang aspect ratio bago magdagdag ng media at bago simulan ang iyong stream."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Ano ang gagawin ko kung nabigo ang isang network request?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung makaranas ka ng mga network request failure, subukan ang sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang Settings ng iyong telepono, pumunta sa [Permissions - VicastCam - Mobile Data & Wi-Fi] at i-on ang network access.",
+                      "I-off ang power-saving mode at anumang background restrictions.",
+                      "Magpalit ng network, i-restart ang iyong telepono, i-toggle ang airplane mode, o i-update ang app.",
+                      "Kung magpapatuloy ang isyu, kumuha ng screenshot ng error at makipag-ugnayan sa aming support team."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Bakit kumukutitap o nagiging itim ang mga overlay mula sa online media sa panahon ng live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung kumukutitap o nagiging itim ang mga overlay mula sa online media sa panahon ng live stream, narito ang maaari mong gawin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "I-download at i-preview ang anumang media o overlay na plano mong gamitin bago mag-live upang matiyak na gumagana ang mga ito nang maayos.",
+                      "Ang ilang built-in na media ay naka-imbak sa mga server. I-download ito bago ang iyong stream upang handa itong gamitin nang hindi naglo-load sa panahon ng broadcast.",
+                      "Ang pag-load ng media sa kalagitnaan ng stream ay kumukonsumo ng streaming resources, memory, at performance, na maaaring magdulot ng lag. Sa mga lower-end device, maaari pa itong magdulot ng crashes o black screens."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mahalaga"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planuhin at i-rehearse ang iyong stream nang maaga. Sanayin ang bawat segment upang matiyak na maayos ang lahat bago mag-live."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Ano ang gagawin ko kung natatakpan ang ilang keyboard keys?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung natatakpan ang ilang virtual keyboard keys, subukan ang sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Kung gumagamit ka ng mas lumang 16:9 phone at natatakpan ang ilang keys, i-tap ang pangalawang button sa kaliwang itaas na sulok ng keyboard upang paganahin ang full-screen mode.",
+                      "Kung hindi nakahanay ang keyboard layout, pumunta sa settings ng iyong telepono at itakda ang font size sa normal.",
+                      "Ang ilang telepono ay may naka-enable na 'senior mode'; ang pag-off nito ay dapat na maibalik ang keyboard sa normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Ang mga isyu sa display ay karaniwang sanhi ng sobrang laking font o malaking theme scale. Ang pag-reset ng mga ito sa standard ay dapat na ayusin ang problema."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Ano ang gagawin ko kung ang aking Huawei phone ay paulit-ulit na nadidiskonekta sa multi-camera o virtual keyboard?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung makaranas ka ng mga disconnection sa multi-camera o virtual keyboard sa mga Huawei phone, sundin ang mga hakbang na ito:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pumunta sa Settings ng iyong telepono.",
+                      "Sa search bar sa itaas, i-type ang 'App launch management'.",
+                      "Pumunta sa App launch management page at mag-scroll pababa upang mahanap ang VicastCam.",
+                      "I-off ang toggle sa kanan (nagiging gray ang icon), at sa popup, paganahin ang lahat ng tatlong opsyon (nagiging asul ang mga ito)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Maaari mo ring panoorin ang video tutorial na 'How to prevent disconnections with multi-camera and virtual keyboard on Huawei phones'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS Tutorials",
+            "count": "6 tanong",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Ano ang mga inirerekomendang laki ng media para sa live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mga inirerekomendang laki ng media para sa live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para sa mga live stream background, inirerekomenda namin ang mga imahe sa 1080 x 1920 pixels at mga video sa 1080 x 1920 pixels.",
+                      "Mahalaga: Ang mga full-screen overlay ay dapat gumamit ng 9:16 aspect ratio upang matiyak na perpektong nakahanay ang mga ito kapag lumilipat sa pagitan ng full-screen at 9:16 mode."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Paano ko tatanggalin ang aking account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mag-log in sa VicastCam app, pagkatapos ay pumunta sa [Account - Icon sa kanang itaas - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Impormasyon ng Account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kapag natanggal na ang iyong account, permanenteng aalisin namin ang iyong naka-link na email, mga tala ng device, at iba pang impormasyon ng pagkakakilanlan. Ire-revoke din namin ang mga third-party login authorization sa pamamagitan ng Google at Apple. Pagkatapos ng revocation, hindi ka na makakapag-log in nang mabilis gamit ang mga third-party account na iyon; kung nais mong gamitin muli ang mga ito, kakailanganin mong mag-re-authorize."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nilalaman at Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ang lahat ng live stream media, video, imahe, at project file ay nakaimbak lamang sa iyong device. Hindi pinapanatili ng platform ang anumang creative content sa cloud. Pagkatapos ng pagtanggal, hindi na gagana ang mga media management feature ng app, kaya mangyaring i-back up ang iyong content nang maaga gamit ang 'Export Media' feature.",
+                      "Kung i-uninstall at i-install mong muli ang app, o lumipat ng device nang hindi muna nag-export ng backup, ang iyong media ay permanenteng hindi na mababawi."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mga Benepisyo ng Membership"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Ang iyong mga benepisyo sa membership ay agad na matatapos kapag tinanggal ang account. Dahil ang mga subscription ay pinamamahalaan ng Apple, hindi maaaring direktang magproseso ng refund ang platform. Upang humiling ng refund, mangyaring magsumite ng kahilingan sa pamamagitan ng mga opisyal na channel ng Apple (App Store purchase history). Bago tanggalin ang iyong account, siguraduhing manu-manong kanselahin ang anumang auto-renewing subscription upang maiwasan ang mga singil sa hinaharap."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mayroon kang mga tanong, mangyaring makipag-ugnayan sa aming support team."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Bakit hindi ko ma-access ang media ng aking telepono kapag nagdadagdag ng mga imahe o video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mukhang walang laman ang iyong photo library kapag nagdadagdag ng media, buksan ang Settings ng iyong iPhone, mag-scroll pababa upang mahanap ang VicastCam, at i-tap ang [Photos - All Photos] upang paganahin ang access."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Ano ang gagawin ko kung napuputol ang display kapag nag-stream mula sa aking computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung hindi kumpleto ang display kapag nag-stream mula sa iyong telepono sa pamamagitan ng streaming companion o iba pang software, sundin ang mga hakbang na ito:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, i-tap ang camera icon sa ibaba upang pumasok sa live page, pagkatapos ay pumunta sa [Right menu - More Settings - Aspect Ratio - 9:16].",
+                      "Pagkatapos mag-cast sa streaming companion, i-scale muna upang magkasya, pagkatapos ay i-drag ang imahe pataas o pababa upang punan ang screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Tandaan: Ayusin ang aspect ratio bago magdagdag ng media at bago simulan ang iyong stream."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Ano ang gagawin ko kung nabigo ang isang network request?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung makaranas ka ng mga network request failure, subukan ang sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang Settings ng iyong telepono, pumunta sa [Permissions - VicastCam - Mobile Data & Wi-Fi] at i-on ang network access.",
+                      "I-off ang power-saving mode at anumang background restrictions.",
+                      "Magpalit ng network, i-restart ang iyong telepono, i-toggle ang airplane mode, o i-update ang app.",
+                      "Kung magpapatuloy ang isyu, kumuha ng screenshot ng error at makipag-ugnayan sa aming support team."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Bakit kumukutitap o nagiging itim ang mga overlay mula sa online media sa panahon ng live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung kumukutitap o nagiging itim ang mga overlay mula sa online media sa panahon ng live stream, narito ang maaari mong gawin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "I-download at i-preview ang anumang media o overlay na plano mong gamitin bago mag-live upang matiyak na gumagana ang mga ito nang maayos.",
+                      "Ang ilang built-in na media ay naka-imbak sa mga server. I-download ito bago ang iyong stream upang handa itong gamitin nang hindi naglo-load sa panahon ng broadcast.",
+                      "Ang pag-load ng media sa kalagitnaan ng stream ay kumukonsumo ng streaming resources, memory, at performance, na maaaring magdulot ng lag. Sa mga lower-end device, maaari pa itong magdulot ng crashes o black screens."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mahalaga"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planuhin at i-rehearse ang iyong stream nang maaga. Sanayin ang bawat segment upang matiyak na maayos ang lahat bago mag-live. Seryosohin ang bawat stream, at makakakuha ka ng pinakamahusay na mga resulta."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Tutorial Center",
+        "titleMain": "Simulan ang Iyong VicastCam",
+        "titleHighlight": "Learning Journey",
+        "description": "Masterin ang software at makasabay nang mabilis",
+        "buttonText": "Tingnan Pa"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Tutorial Center",
+          "titleMain": "Simulan ang Iyong VicastCam",
+          "titleHighlight": "Learning Journey",
+          "descriptionMain": "Masterin ang software",
+          "descriptionHighlight": "Makasabay nang mabilis"
+        },
+        "player": {
+          "sectionAriaLabel": "Listahan ng tutorial",
+          "catalogAriaLabel": "Katalogo ng tutorial",
+          "previousLabel": "Nakaraan",
+          "nextLabel": "Susunod",
+          "firstLessonText": "Ito ang unang aralin",
+          "lastLessonText": "Ito ang huling aralin",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Beginner Tutorials",
+            "count": "9 na aralin",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Gumawa ng Iyong Unang Virtual Live Room",
+                "description": "Gumawa at i-configure ang iyong unang virtual live room mula sa simula.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Pag-unawa sa Image Feature",
+                "description": "Alamin ang mga batayan ng image feature at mga gamit nito.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Paano Gamitin ang Layers",
+                "description": "Masterin ang mga batayan ng layers panel.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Paano Gamitin ang Background Layers",
+                "description": "Matutong magdagdag at mag-adjust ng background layers.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Paano Gamitin ang Portrait Layers",
+                "description": "Matutong gumamit ng portrait layers upang lumikha ng visual effects.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Paano Gamitin ang Image Layers",
+                "description": "Matutong magdagdag at mag-edit ng image layers.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Paano Gamitin ang Video Layers",
+                "description": "Matutong magdagdag ng video media at i-configure ang playback.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Paano Gamitin ang Effect Layers",
+                "description": "Magdagdag ng effect layers sa iyong live stream.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Paano Gamitin ang Caption Layers",
+                "description": "Gumawa ng mga caption at i-adjust ang mga estilo ng caption layer.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Advanced Tutorials",
+            "count": "6 na aralin",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Paano Gamitin ang Camera Movement Layers",
+                "description": "Gamitin ang camera movement layers upang lumikha ng mas dynamic na shots.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Paano Gamitin ang Path Feature",
+                "description": "Kontrolin ang movement path ng mga elemento gamit ang path feature.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Paano Gamitin ang Multi-Camera Layers",
+                "description": "I-configure ang multi-camera layers upang mabilis na lumipat sa pagitan ng iba't ibang views.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Paano Gamitin ang Controller Feature",
+                "description": "Gamitin ang controller upang pamahalaan ang iyong live stream view.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Paano Gamitin ang Audio Feature",
+                "description": "I-configure ang audio input, output, at mixing effects.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Paano Gamitin ang Backup Feature",
+                "description": "I-back up at i-restore ang mga live room configuration at media.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

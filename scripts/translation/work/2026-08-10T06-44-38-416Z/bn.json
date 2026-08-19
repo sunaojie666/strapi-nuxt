@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "bn",
+        "loginTitle1": "এক ক্লিকে বদলে নিন আপনার ভার্চুয়াল ব্যাকগ্রাউন্ড",
+        "loginTitle2": "আপনার লাইভ স্ট্রিমকে উজ্জ্বল করুন",
+        "loginDes1": "AI-চালিত একটি পেশাদার লাইভ স্ট্রিমিং টুল",
+        "loginDes2": "ভার্চুয়াল ব্যাকগ্রাউন্ড, লাইভ স্ট্রিম উন্নতকরণ এবং মাল্টি-প্ল্যাটফর্ম ব্রডকাস্টিং এখন সহজ",
+        "featureTitle1": "AI ম্যাটিং",
+        "featureSubTitle1": "রিয়েল-টাইম ব্যাকগ্রাউন্ড রিপ্লেসমেন্ট",
+        "featureTitle2": "মাল্টি-প্ল্যাটফর্ম স্ট্রিমিং",
+        "featureSubTitle2": "এক ক্লিকে লাইভে যান",
+        "featureTitle3": "ভার্চুয়াল ক্যামেরা",
+        "featureSubTitle3": "আপনার ফোনকে ওয়েবক্যামে পরিণত করুন",
+        "loginBox": {
+          "loginPageTitle": "লগ ইন / সাইন আপ",
+          "codeLoginTab": "কোড লগইন",
+          "pwdLoginTab": "পাসওয়ার্ড লগইন",
+          "qrLoginTab": "QR কোড লগইন",
+          "emailInputPlaceholder": "লগ ইন করতে আপনার ইমেইল লিখুন",
+          "pwdInputPlaceholder": "আপনার পাসওয়ার্ড লিখুন",
+          "verifyCodePlaceholder": "ভেরিফিকেশন কোড লিখুন",
+          "getVerifyCodeText": "কোড পান",
+          "loginBtnText": "লগ ইন",
+          "qrLoginTip": "QR কোড স্ক্যান করতে VicastCam অ্যাপ ব্যবহার করুন",
+          "qrWaitingTip": "স্ক্যান নিশ্চিত হওয়ার অপেক্ষায়",
+          "agreeProtocolText": "আমি প্রাইভেসি পলিসি এবং ইউজার এগ্রিমেন্ট পড়েছি এবং সম্মত হয়েছি",
+          "userProtocolText": "ইউজার এগ্রিমেন্ট",
+          "privacyPolicyText": "প্রাইভেসি পলিসি",
+          "agreeProtocolPrefix": "আমি পড়েছি এবং সম্মত"
+        },
+        "toastBox": {
+          "closeToastLabel": "বন্ধ করুন",
+          "requestLoading": "লোড হচ্ছে",
+          "requestSuccess": "সফল",
+          "requestFail": "অনুরোধ ব্যর্থ হয়েছে",
+          "passwordLoginNotReady": "পাসওয়ার্ড লগইন এখনও উপলব্ধ নয়",
+          "passwordRequired": "আপনার পাসওয়ার্ড লিখুন",
+          "emailRequired": "লগ ইন করতে আপনার ইমেইল লিখুন",
+          "verifyCodeRequired": "ভেরিফিকেশন কোড লিখুন",
+          "agreeProtocolRequired": "অনুগ্রহ করে আগে প্রাইভেসি পলিসি এবং ইউজার এগ্রিমেন্ট পড়ে সম্মত হন",
+          "qrcodeExpired": "QR কোডের মেয়াদ শেষ হয়েছে। আবার চেষ্টা করুন।"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "bn",
+        "hero_section": {
+          "tag": "AI-চালিত লাইভ স্ট্রিমিং টুল",
+          "title_main": "আপনার ফোন থেকে গ্রিন স্ক্রিন ইফেক্ট এবং স্ক্রিন কাস্টিং",
+          "title_highlight": "বিশ্বজুড়ে লাইভ স্ট্রিমিংকে ক্ষমতায়ন করছে",
+          "description": "VicastCam উন্নত AI ম্যাটিং ব্যবহার করে আপনার লাইভ স্ট্রিমের সময় সহজে ভার্চুয়াল ব্যাকগ্রাউন্ড পরিবর্তন করতে দেয়, পেশাদার উপস্থিতি তৈরি করতে নিমগ্ন ইফেক্ট যোগ করে।",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "ডাউনলোড"
+            },
+            {
+              "platform": "Google Play",
+              "text": "ডাউনলোড"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam ক্রিয়েটরদের ভার্চুয়াল ব্যাকগ্রাউন্ড, লাইভ স্ট্রিম উন্নতকরণ এবং ক্রস-প্ল্যাটফর্ম টুল প্রদান করে।"
+          },
+          "columns": [
+            {
+              "title": "পণ্য",
+              "links": [
+                {
+                  "text": "বৈশিষ্ট্য"
+                },
+                {
+                  "text": "মূল্য"
+                },
+                {
+                  "text": "ডাউনলোড সেন্টার"
+                }
+              ]
+            },
+            {
+              "title": "বিকাশকারী",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API ডকুমেন্টেশন"
+                }
+              ]
+            },
+            {
+              "title": "প্রতিষ্ঠান",
+              "links": [
+                {
+                  "text": "আমাদের সম্পর্কে"
+                },
+                {
+                  "text": "প্রাইভেসি পলিসি"
+                },
+                {
+                  "text": "ইউজার এগ্রিমেন্ট"
+                },
+                {
+                  "text": "সদস্যপদ চুক্তি"
+                }
+              ]
+            },
+            {
+              "title": "সহায়তা",
+              "links": [
+                {
+                  "text": "ভিডিও টিউটোরিয়াল"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "যোগাযোগ করুন"
+                }
+              ]
+            },
+            {
+              "title": "ব্যবসায়িক",
+              "links": [
+                {
+                  "text": "রিসেলার হোন"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "ব্যবসায়িক যোগাযোগ"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "বৈশিষ্ট্য",
+      "nav_pricing": "মূল্য",
+      "nav_faq": "FAQ",
+      "nav_auth": "লগ ইন / সাইন আপ",
+      "nav_team": "ব্যবসায়িক"
+    }
+  ]
+}

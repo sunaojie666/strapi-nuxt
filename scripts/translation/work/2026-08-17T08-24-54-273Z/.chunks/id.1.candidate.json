@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "FAQ VicastCam | Bantuan untuk Android dan iOS",
+    "description": "Temukan jawaban atas pertanyaan umum tentang VicastCam untuk Android dan iOS, termasuk pengaturan akun, izin media, koneksi jaringan, dan masalah live streaming.",
+    "imageAlt": "FAQ VicastCam"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "Bantuan VicastCam",
+    "titleHighlight": "Temukan Jawaban dengan Cepat",
+    "description": "Pilih platform Anda (Android atau iOS) untuk melihat pertanyaan umum dan solusi untuk perangkat Anda."
+  },
+  "content": {
+    "sectionAriaLabel": "Pertanyaan yang sering diajukan",
+    "catalogAriaLabel": "Kategori pertanyaan",
+    "answerLabel": "Jawaban",
+    "questionProgressTemplate": "{group} · Pertanyaan {current} dari {total}"
+  }
+}

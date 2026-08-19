@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Persediaan Komputer",
+      "count": "7 pelajaran",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Mula Menggunakan VicastCam",
+          "description": "Gambaran keseluruhan antara muka dan ciri teras.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Sambungan Berwayar – iPhone",
+          "description": "Sambungkan iPhone anda ke VicastCam menggunakan sambungan berwayar.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Sambungan Tanpa Wayar – iPhone",
+          "description": "Sambungkan iPhone anda ke VicastCam melalui Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Sambungan Berwayar – Android",
+          "description": "Sambungkan peranti Android anda ke VicastCam menggunakan sambungan berwayar.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Sambungan Tanpa Wayar – Android",
+          "description": "Sambungkan peranti Android anda ke VicastCam melalui Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Menambah dan Menggunakan Media Tempatan",
+          "description": "Import dan gunakan fail media tempatan dalam projek anda.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Apa yang Perlu Dilakukan Selepas Menyambung",
+          "description": "Mulakan strim anda sebaik sahaja peranti disambungkan.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

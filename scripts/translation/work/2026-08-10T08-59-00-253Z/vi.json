@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Cách tạo phòng live mới",
+      "tag_1": "Di động",
+      "tag_2": "Hướng dẫn cơ bản"
+    },
+    {
+      "title": "Hiểu về các chế độ tách nền của VicastCam",
+      "tag_1": "Di động",
+      "tag_2": "Hướng dẫn tính năng"
+    },
+    {
+      "title": "Cách sử dụng tính năng Layer của VicastCam",
+      "tag_1": "Di động",
+      "tag_2": "Tính năng cốt lõi"
+    },
+    {
+      "title": "Làm quen với VicastCam trên máy tính",
+      "tag_1": "Máy tính",
+      "tag_2": "Hướng dẫn cơ bản"
+    },
+    {
+      "title": "Cách kết nối iPhone với VicastCam không dây",
+      "tag_1": "iOS",
+      "tag_2": "Hướng dẫn kết nối"
+    },
+    {
+      "title": "Cách thêm và sử dụng phương tiện cục bộ",
+      "tag_1": "Máy tính",
+      "tag_2": "Hướng dẫn sử dụng"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Cộng đồng toàn cầu",
+        "title_main": "Phát trực tiếp hoạt động ở mọi nơi",
+        "title_highlight": "Được tin dùng bởi streamer tại hơn 150 quốc gia",
+        "desc": "Phục vụ hơn 150 quốc gia và vùng lãnh thổ, chúng tôi giúp vô số streamer phát triển từ người mới bắt đầu thành những nhà sáng tạo nội dung trực tiếp chuyên nghiệp.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Quốc gia"
+          },
+          {
+            "number": "2000+",
+            "name": "Streamer hoạt động"
+          },
+          {
+            "number": "5000+",
+            "name": "Tăng mức độ phổ biến"
+          },
+          {
+            "number": "99.9%",
+            "name": "Độ ổn định"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "vi",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Có thắc mắc?",
+          "title_highlight": "Chúng tôi có câu trả lời.",
+          "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam bên dưới. Không tìm thấy điều bạn cần? Hãy liên hệ với đội ngũ của chúng tôi.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Tôi có thể phát trực tiếp đến những nền tảng nào với VicastCam?",
+              "answer": "VicastCam hỗ trợ phát trực tiếp đến các nền tảng lớn như YouTube, Twitch, TikTok, Facebook Live và Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Tính năng xóa phông của VicastCam có cần phông xanh không?",
+              "answer": "Không. VicastCam sử dụng công nghệ xóa phông bằng AI, vì vậy bạn có thể thay đổi phông nền theo thời gian thực mà không cần phông xanh."
+            },
+            {
+              "id": "q3",
+              "question": "Tôi có thể sử dụng VicastCam trên điện thoại không?",
+              "answer": "Có. VicastCam có sẵn trên iOS và Android, và tất cả các tính năng chuyên nghiệp đều có trên di động."
+            },
+            {
+              "id": "q4",
+              "question": "VicastCam có độ tin cậy như thế nào?",
+              "answer": "VicastCam cung cấp độ ổn định 99.9%, hỗ trợ streamer trên toàn thế giới với khả năng phát trực tiếp không gián đoạn 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam có hỗ trợ phát trực tiếp nhiều camera không?",
+              "answer": "Có. Bạn có thể chuyển đổi linh hoạt giữa nhiều camera trong buổi phát trực tiếp để tạo ra một sản phẩm chuyên nghiệp."
+            }
+          ],
+          "view_more": {
+            "text": "Xem thêm"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Trợ giúp Android & iOS",
+          "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam trên Android và iOS, bao gồm thiết lập tài khoản, quyền truy cập phương tiện, kết nối mạng và các vấn đề hiển thị khi phát trực tiếp.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Trợ giúp VicastCam",
+          "titleHighlight": "Tìm câu trả lời nhanh chóng",
+          "description": "Chọn hướng dẫn Android hoặc iOS để xem các sự cố thường gặp và giải pháp cho thiết bị của bạn."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Danh mục câu hỏi",
+          "answerLabel": "Câu trả lời",
+          "questionProgressTemplate": "{group} · Câu hỏi {current} trên {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Hướng dẫn Android",
+            "count": "8 câu hỏi",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp là gì?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Đối với hình nền phát trực tiếp, chúng tôi khuyên dùng hình ảnh 1080 x 1920 pixel và video 1080 x 1920 pixel.",
+                      "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo căn chỉnh hoàn hảo khi chuyển đổi giữa chế độ toàn màn hình và 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Làm cách nào để xóa tài khoản của tôi?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - Biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Thông tin tài khoản"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Khi tài khoản của bạn bị xóa, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và các thông tin nhận dạng khác của bạn. Chúng tôi cũng sẽ thu hồi ủy quyền đăng nhập bên thứ ba qua Google và Apple. Sau khi thu hồi, bạn sẽ không thể đăng nhập nhanh bằng các tài khoản bên thứ ba đó; nếu muốn sử dụng lại, bạn cần cấp quyền lại."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nội dung và phương tiện"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tất cả phương tiện phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn. Nền tảng không lưu giữ bất kỳ nội dung sáng tạo nào trên đám mây. Sau khi xóa, các tính năng quản lý phương tiện của ứng dụng sẽ không còn hoạt động, vì vậy vui lòng sao lưu nội dung của bạn trước bằng tính năng 'Xuất phương tiện'.",
+                      "Nếu bạn gỡ cài đặt và cài đặt lại ứng dụng hoặc chuyển sang thiết bị khác mà không xuất bản sao lưu trước, phương tiện của bạn sẽ không thể khôi phục vĩnh viễn."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quyền lợi thành viên"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Quyền lợi thành viên của bạn sẽ chấm dứt ngay khi xóa tài khoản. Nếu bạn có đăng ký Google Play đang hoạt động, việc xóa tài khoản ứng dụng sẽ không tự động hủy đăng ký đó và bạn vẫn có thể bị tính phí. Vui lòng truy cập 'Thanh toán & đăng ký - Đăng ký' trong Google Play để hủy thủ công."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với nhóm hỗ trợ của chúng tôi."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Tại sao tôi không thể truy cập phương tiện trên điện thoại khi thêm hình ảnh hoặc video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu thư viện ảnh của bạn trống khi thêm phương tiện, bạn có thể bật quyền truy cập ảnh như sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Mở Cài đặt trên điện thoại, cuộn xuống tìm VicastCam, chạm vào [Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+                      "Android: Mở Cài đặt trên điện thoại, tìm VicastCam trong 'Quyền' hoặc 'Quản lý ứng dụng', sau đó chạm vào [Quyền - Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy thử cài đặt lại ứng dụng hoặc liên hệ với bộ phận hỗ trợ trực tuyến của chúng tôi qua tính năng phản hồi."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Tôi nên làm gì nếu màn hình bị cắt khi phát trực tiếp từ máy tính?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu màn hình không đầy đủ khi phát trực tiếp từ điện thoại qua ứng dụng đồng hành phát trực tiếp hoặc phần mềm khác, hãy làm theo các bước sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, chạm vào biểu tượng camera ở phía dưới để vào trang phát trực tiếp, sau đó đi tới [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+                      "Sau khi truyền tới ứng dụng đồng hành, trước tiên hãy thu nhỏ để vừa màn hình, sau đó kéo hình ảnh lên hoặc xuống để lấp đầy màn hình."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lưu ý: Điều chỉnh tỷ lệ khung hình trước khi thêm phương tiện và trước khi bắt đầu phát trực tiếp."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Tôi nên làm gì nếu yêu cầu mạng không thành công?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở Cài đặt trên điện thoại, đi tới [Quyền - VicastCam - Dữ liệu di động & Wi-Fi] và bật quyền truy cập mạng.",
+                      "Tắt chế độ tiết kiệm pin và mọi hạn chế nền.",
+                      "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ với nhóm hỗ trợ của chúng tôi."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Tại sao lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen khi phát trực tiếp, bạn có thể làm như sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tải xuống và xem trước mọi phương tiện hoặc lớp phủ bạn định sử dụng trước khi phát trực tiếp để đảm bảo chúng hoạt động bình thường.",
+                      "Một số phương tiện tích hợp được lưu trữ trên máy chủ. Hãy tải xuống trước khi phát trực tiếp để sẵn sàng sử dụng mà không cần tải trong khi phát sóng.",
+                      "Tải phương tiện trong khi phát trực tiếp tiêu tốn tài nguyên phát trực tiếp, bộ nhớ và hiệu suất, có thể gây lag. Trên các thiết bị cấu hình thấp, điều này thậm chí có thể gây sự cố hoặc màn hình đen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quan trọng"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lên kế hoạch và diễn tập buổi phát trực tiếp của bạn trước. Thực hành từng phân đoạn để đảm bảo mọi thứ diễn ra suôn sẻ trước khi phát trực tiếp."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Tôi nên làm gì nếu một số phím bàn phím bị che?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu một số phím bàn phím ảo bị che, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Nếu bạn đang sử dụng điện thoại 16:9 cũ và một số phím bị che, hãy chạm vào nút thứ hai ở góc trên bên trái của bàn phím để bật chế độ toàn màn hình.",
+                      "Nếu bố cục bàn phím bị lệch, hãy vào cài đặt điện thoại và đặt cỡ chữ về bình thường.",
+                      "Một số điện thoại có bật 'chế độ người cao tuổi'; tắt nó sẽ khôi phục bàn phím bình thường."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Các vấn đề hiển thị thường do cỡ chữ quá lớn hoặc tỷ lệ chủ đề lớn. Đặt lại các tùy chọn này về tiêu chuẩn sẽ khắc phục sự cố."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Phải làm gì nếu điện thoại Huawei của tôi liên tục mất kết nối với đa camera hoặc bàn phím ảo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp sự cố mất kết nối với đa camera hoặc bàn phím ảo trên điện thoại Huawei, hãy làm theo các bước sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Vào Cài đặt trên điện thoại của bạn.",
+                      "Trong thanh tìm kiếm ở phía trên, nhập 'Quản lý khởi động ứng dụng'.",
+                      "Vào trang Quản lý khởi động ứng dụng và cuộn xuống để tìm VicastCam.",
+                      "Tắt công tắc ở bên phải (biểu tượng chuyển sang màu xám), và trong cửa sổ bật lên, bật cả ba tùy chọn (chúng chuyển sang màu xanh)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Bạn cũng có thể tham khảo video hướng dẫn 'Cách ngăn mất kết nối với đa camera và bàn phím ảo trên điện thoại Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Hướng dẫn iOS",
+            "count": "6 câu hỏi",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp là gì?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Đối với hình nền phát trực tiếp, chúng tôi khuyên dùng hình ảnh 1080 x 1920 pixel và video 1080 x 1920 pixel.",
+                      "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo chúng khớp hoàn hảo khi chuyển đổi giữa chế độ toàn màn hình và 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Làm cách nào để xóa tài khoản của tôi?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - Biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Thông tin tài khoản"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Khi tài khoản của bạn bị xóa, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và các thông tin nhận dạng khác của bạn. Chúng tôi cũng sẽ thu hồi ủy quyền đăng nhập của bên thứ ba qua Google và Apple. Sau khi thu hồi, bạn sẽ không thể đăng nhập nhanh bằng các tài khoản bên thứ ba đó; nếu muốn sử dụng lại, bạn cần cấp quyền lại."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nội dung và phương tiện"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tất cả phương tiện phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn. Nền tảng không lưu giữ bất kỳ nội dung sáng tạo nào trên đám mây. Sau khi xóa, các tính năng quản lý phương tiện của ứng dụng sẽ không còn hoạt động, vì vậy vui lòng sao lưu nội dung của bạn trước bằng tính năng 'Xuất phương tiện'.",
+                      "Nếu bạn gỡ cài đặt và cài đặt lại ứng dụng hoặc chuyển thiết bị mà không xuất bản sao lưu trước, phương tiện của bạn sẽ không thể khôi phục vĩnh viễn."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quyền lợi thành viên"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Quyền lợi thành viên của bạn sẽ kết thúc ngay khi xóa tài khoản. Vì đăng ký do Apple quản lý, nền tảng không thể xử lý hoàn tiền trực tiếp. Để yêu cầu hoàn tiền, vui lòng gửi yêu cầu qua các kênh chính thức của Apple (lịch sử mua hàng trên App Store). Trước khi xóa tài khoản, hãy đảm bảo hủy thủ công mọi đăng ký tự gia hạn để tránh bị tính phí trong tương lai."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn có thắc mắc, vui lòng liên hệ với nhóm hỗ trợ của chúng tôi."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Tại sao tôi không thể truy cập phương tiện trên điện thoại khi thêm hình ảnh hoặc video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu thư viện ảnh của bạn trống khi thêm phương tiện, hãy mở Cài đặt trên iPhone, cuộn xuống để tìm VicastCam và chạm vào [Ảnh - Tất cả ảnh] để bật quyền truy cập."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Tôi nên làm gì nếu màn hình bị cắt khi phát trực tiếp từ máy tính?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu màn hình không đầy đủ khi phát trực tiếp từ điện thoại qua ứng dụng phụ trợ phát trực tiếp hoặc phần mềm khác, hãy làm theo các bước sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, chạm vào biểu tượng camera ở cuối màn hình để vào trang phát trực tiếp, sau đó đi tới [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+                      "Sau khi truyền tới ứng dụng phụ trợ, trước tiên hãy thu nhỏ để vừa khung hình, sau đó kéo hình ảnh lên hoặc xuống để lấp đầy màn hình."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lưu ý: Điều chỉnh tỷ lệ khung hình trước khi thêm phương tiện và trước khi bắt đầu phát trực tiếp."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Tôi nên làm gì nếu yêu cầu mạng thất bại?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở Cài đặt trên điện thoại, đi tới [Quyền - VicastCam - Dữ liệu di động & Wi-Fi] và bật quyền truy cập mạng.",
+                      "Tắt chế độ tiết kiệm pin và mọi hạn chế nền.",
+                      "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ với nhóm hỗ trợ của chúng tôi."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Tại sao lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen trong khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen trong khi phát trực tiếp, đây là những gì bạn có thể làm:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tải xuống và xem trước mọi phương tiện hoặc lớp phủ bạn định sử dụng trước khi phát trực tiếp để đảm bảo chúng hoạt động bình thường.",
+                      "Một số phương tiện tích hợp được lưu trữ trên máy chủ. Hãy tải xuống trước khi phát trực tiếp để sẵn sàng sử dụng mà không cần tải trong khi phát sóng.",
+                      "Tải phương tiện trong khi phát trực tiếp tiêu tốn tài nguyên phát trực tiếp, bộ nhớ và hiệu suất, có thể gây lag. Trên các thiết bị cấu hình thấp, nó thậm chí có thể gây sự cố hoặc màn hình đen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quan trọng"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lên kế hoạch và diễn tập trước buổi phát trực tiếp của bạn. Thực hành từng phân đoạn để đảm bảo mọi thứ diễn ra suôn sẻ trước khi phát sóng. Hãy coi trọng mọi buổi phát trực tiếp và bạn sẽ đạt được kết quả tốt nhất."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Trung tâm hướng dẫn",
+        "titleMain": "Bắt đầu hành trình",
+        "titleHighlight": "học VicastCam",
+        "description": "Làm chủ phần mềm và nhanh chóng bắt kịp tốc độ",
+        "buttonText": "Xem thêm"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Trung tâm hướng dẫn",
+          "titleMain": "Bắt đầu hành trình",
+          "titleHighlight": "học VicastCam",
+          "descriptionMain": "Làm chủ phần mềm",
+          "descriptionHighlight": "Nhanh chóng nắm bắt"
+        },
+        "player": {
+          "sectionAriaLabel": "Danh sách bài hướng dẫn",
+          "catalogAriaLabel": "Danh mục bài hướng dẫn",
+          "previousLabel": "Trước",
+          "nextLabel": "Tiếp theo",
+          "firstLessonText": "Đây là bài học đầu tiên",
+          "lastLessonText": "Đây là bài học cuối cùng",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Hướng dẫn cơ bản",
+            "count": "9 bài học",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Tạo phòng livestream ảo đầu tiên của bạn",
+                "description": "Tạo và cấu hình phòng livestream ảo đầu tiên từ đầu.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Hiểu về tính năng Hình ảnh",
+                "description": "Tìm hiểu những điều cơ bản về tính năng hình ảnh và các trường hợp sử dụng.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Cách sử dụng Layer",
+                "description": "Nắm vững những điều cơ bản về bảng layer.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Cách sử dụng Layer nền",
+                "description": "Học cách thêm và điều chỉnh layer nền.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Cách sử dụng Layer chân dung",
+                "description": "Học cách sử dụng layer chân dung để tạo hiệu ứng hình ảnh.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Cách sử dụng Layer hình ảnh",
+                "description": "Học cách thêm và chỉnh sửa layer hình ảnh.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Cách sử dụng Layer video",
+                "description": "Học cách thêm video và cấu hình phát lại.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Cách sử dụng Layer hiệu ứng",
+                "description": "Thêm layer hiệu ứng vào luồng phát trực tiếp của bạn.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Cách sử dụng Layer phụ đề",
+                "description": "Tạo phụ đề và điều chỉnh kiểu dáng của layer phụ đề.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Hướng dẫn nâng cao",
+            "count": "6 bài học",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Cách sử dụng Layer chuyển động camera",
+                "description": "Sử dụng layer chuyển động camera để tạo các góc quay sống động hơn.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Cách sử dụng tính năng Đường dẫn",
+                "description": "Điều khiển đường di chuyển của các thành phần bằng tính năng đường dẫn.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Cách sử dụng Layer đa camera",
+                "description": "Cấu hình layer đa camera để chuyển đổi giữa các góc nhìn khác nhau một cách nhanh chóng.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Cách sử dụng tính năng Bộ điều khiển",
+                "description": "Sử dụng bộ điều khiển để quản lý chế độ xem livestream của bạn.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Cách sử dụng tính năng Âm thanh",
+                "description": "Cấu hình đầu vào, đầu ra và hiệu ứng trộn âm thanh.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Cách sử dụng tính năng Sao lưu",
+                "description": "Sao lưu và khôi phục cấu hình phòng livestream và phương tiện.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

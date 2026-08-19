@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "slot": "6",
+  "results": [
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "create-localization-prompt.mjs exited with 1: Error: Every non-English translation requires --english-manifest=path/to/approved.en.manifest.json.\nUsage: node scripts/translation/create-localization-prompt.mjs --locale=en --source-locale=zh-CN --content-type=marketing --input=input/module.json [--output=prompt.txt]"
+    }
+  ]
+}

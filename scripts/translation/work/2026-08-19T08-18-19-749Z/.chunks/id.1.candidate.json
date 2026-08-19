@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Pusat Akun",
+    "description": "Halaman Pusat Akun VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Navigasi akun",
+    "defaultProfileName": "Pengguna",
+    "emptyContent": "Tidak ada konten",
+    "copyButtonLabel": "Salin",
+    "monthSelectLabel": "Pilih bulan",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Informasi pengguna tidak ditemukan. Silakan masuk kembali.",
+    "paginationLabel": "Paginasi",
+    "previousPageLabel": "Halaman sebelumnya",
+    "nextPageLabel": "Halaman berikutnya",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Lompat ke",
+      "unit": "halaman",
+      "ariaLabel": "Lompat ke halaman tertentu",
+      "buttonLabel": "Lanjut"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Pusat Akun",
+    "logout": "Keluar",
+    "profileAriaSuffix": "Menu akun"
+  },
+  "sidebar": {
+    "ariaLabel": "Navigasi akun",
+    "menus": {
+      "account": "Info Akun",
+      "membership": "Keanggotaan",
+      "redeem": "Tukar Kode",
+      "purchaseHistory": "Riwayat Pembelian",
+      "team": "Tim Saya",
+      "earnings": "Penghasilan"
+    }
+  },
+  "account": {
+    "ariaLabel": "Info Akun",
+    "profileTitle": "Info Akun",
+    "usernameLabel": "Nama Pengguna",
+    "passwordLabel": "Kata Sandi",
+    "passwordMask": "********",
+    "defaultUsername": "Belum ada nama panggilan",
+    "emailLabel": "Email Tertaut",
+    "emailPlaceholder": "Masukkan email Anda",
+    "codePlaceholder": "Masukkan kode verifikasi",
+    "sendCodeButton": "Dapatkan Kode",
+    "bindButton": "Tautkan Email",
+    "alreadyBound": "Tertaut",
+    "unboundEmail": "Belum tertaut",
+    "emailBindTip": "Setelah ditautkan, email tidak dapat diubah. Pastikan alamat email sudah benar.",
+    "emailRequired": "Masukkan email yang valid",
+    "codeRequired": "Masukkan kode verifikasi",
+    "codeSent": "Kode verifikasi terkirim. Periksa email Anda.",
+    "bindSuccess": "Email berhasil ditautkan",
+    "bindFailed": "Gagal menautkan email. Periksa kode dan coba lagi.",
+    "requestFailed": "Permintaan gagal. Silakan coba lagi nanti.",
+    "inviteTitle": "Tautan Undangan",
+    "inviteDescription": "Salin tautan undangan pribadi Anda. Saat teman mendaftar dan membeli keanggotaan, Anda mendapatkan hadiah.",
+    "emptyInviteLink": "Tidak ada tautan undangan"
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[3]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'podczas przesyłania ekranu PC' to 'podczas przesyłania ekranu z PC' or 'podczas castowania ekranu PC' to accurately convey 'PC screen casting' as casting from a PC, not casting a PC screen."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].benefits[1]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Transmisja na żywo z ekranu PC' to 'Przesyłanie ekranu PC na żywo' or 'Castowanie ekranu PC na żywo' to match the glossary term 'screen casting' and avoid ambiguity."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].benefits[2]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Jakość HD podczas transmisji' to 'Jakość HD podczas przesyłania na żywo' or 'Jakość HD w streamingu na żywo' to clarify that HD quality applies to live streaming, not just any transmission."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].benefits[4]",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Change 'Ekskluzywne efekty transmisji' to 'Ekskluzywne efekty do transmisji na żywo' or 'Ekskluzywne efekty streamowania' to specify that these are effects for live streaming, not general transmission."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "Cennik",
+            "titleMain": "Wybierz plan",
+            "titleHighlight": "dopasowany do Ciebie",
+            "description": "Wypróbuj za darmo lub wybierz inny plan",
+            "priceAltSuffix": "Cena",
+            "freePlanMessage": "Użytkownicy darmowi nie muszą nic kupować",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "Darmowy",
+                "description": "Darmowe pobranie i rejestracja, z podstawowymi funkcjami dostępnymi bez kosztów.",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/miesiąc",
+                "priceNote": "",
+                "cta": "Zacznij",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "Twórz z pojedynczą sceną",
+                  "Dowolnie układaj do czterech warstw",
+                  "Dostęp do różnorodnych materiałów tła na żywo",
+                  "Podstawowa jakość podczas przesyłania ekranu z PC",
+                  "Wbudowane naturalne efekty upiększające"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Miesięczny",
+                "description": "Aktywuj i ciesz się pełnym miesiącem dostępu – tani sposób na wypróbowanie.",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/miesiąc",
+                "priceNote": "Dostęp na 30 dni",
+                "cta": "Kup",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Roczny",
+                "description": "Najlepsza wartość z rocznymi oszczędnościami.",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/rok",
+                "priceNote": "Dostęp na 365 dni",
+                "cta": "Kup",
+                "badgeText": "Najpopularniejszy",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Dożywotni",
+                "description": "Jednorazowy zakup z dożywotnim dostępem, idealny dla długoterminowych twórców.",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "Dostęp dożywotni",
+                "cta": "Kup",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Miesięczny",
+                  "subtitle": "Aktywuj i ciesz się pełnym miesiącem dostępu – tani sposób na wypróbowanie.",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/miesiąc",
+                  "cta": "Kup",
+                  "benefits": [
+                    "Wszystkie funkcje mobilne",
+                    "Przesyłanie ekranu PC na żywo",
+                    "Jakość HD podczas przesyłania na żywo",
+                    "Zaawansowane efekty upiększające",
+                    "Ekskluzywne efekty do transmisji na żywo"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Roczny",
+                  "subtitle": "Najlepsza wartość z rocznymi oszczędnościami.",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/rok",
+                  "cta": "Kup",
+                  "benefits": [
+                    "Wszystkie funkcje mobilne",
+                    "Przesyłanie ekranu PC na żywo",
+                    "Jakość HD podczas przesyłania na żywo",
+                    "Zaawansowane efekty upiększające",
+                    "Ekskluzywne efekty do transmisji na żywo"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Dożywotni",
+                  "subtitle": "Jednorazowy zakup z dożywotnim dostępem, idealny dla długoterminowych twórców.",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "Kup",
+                  "benefits": [
+                    "Wszystkie funkcje mobilne",
+                    "Przesyłanie ekranu PC na żywo",
+                    "Jakość HD podczas przesyłania na żywo",
+                    "Zaawansowane efekty upiększające",
+                    "Ekskluzywne efekty do transmisji na żywo"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "Marcus Johnson",
+        "username": "@Musk",
+        "followers": "100 tys.",
+        "location": "Dubaj, ZEA"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50 tys.",
+        "location": "Dubaj, ZEA"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50 tys.",
+        "location": "Dubaj, ZEA"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100 tys.",
+        "location": "Dubaj, ZEA"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100 tys.",
+        "location": "Dubaj, ZEA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "en",
+        "features_section": {
+          "title_tag": "Features",
+          "title_main": "The all-in-one live streaming solution",
+          "title_highlight": "for professional mobile broadcasters",
+          "description": "Integrate core live streaming capabilities to create engaging scenes anywhere and deliver a professional visual experience."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Screen Casting & Virtual Camera",
+            "desc": "Cast your phone to your PC and use virtual camera technology to create professional live streams."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Multi-Camera Support",
+            "desc": "Switch between multiple camera angles with one tap during live streams for richer perspectives."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D Effects",
+            "desc": "Add stunning 2D/3D effect layers to create a dynamic and engaging live room"
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Multi-Platform Streaming",
+            "desc": "Stream to YouTube, Twitch, TikTok, Facebook Live, and more."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Virtual Controller",
+            "desc": "Control your live stream remotely from any device: switch scenes, mute audio, and adjust effects in real time."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Simultaneous Multi-Platform Live",
+            "desc": "Go live on TikTok, YouTube, Twitch, and Instagram simultaneously from your PC."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Mobile Green Screen Effects & Screen Casting",
+      "top_badge": "AI-Powered Live Streaming Tool",
+      "hero_subtitle": "Powering the global live streaming ecosystem",
+      "hero_description_1": "VicastCam uses advanced AI matting to let you switch virtual backgrounds seamlessly during live streams, delivering an",
+      "hero_description_2": "immersive experience that elevates your professional image.",
+      "user_count_label": "Global Users",
+      "rating_label": "App Store Rating",
+      "download_count_label": "Global Downloads",
+      "app_store_url": "Download on the App Store",
+      "google_play_url": "Download on Android",
+      "desktop_client_url": "Download Desktop Client",
+      "request_success": "Request successful",
+      "request_fail": "Request failed",
+      "request_loading": "Loading"
+    }
+  ]
+}

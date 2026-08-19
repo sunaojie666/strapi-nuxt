@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "ja",
+        "loginTitle1": "ワンクリックでバーチャル背景を変更",
+        "loginTitle2": "ライブ配信を輝かせよう",
+        "loginDes1": "AI搭載のプロ向けライブ配信ツール",
+        "loginDes2": "バーチャル背景、ライブ配信の拡張、マルチプラットフォーム配信をシンプルに",
+        "featureTitle1": "AI マット処理",
+        "featureSubTitle1": "リアルタイム背景置換",
+        "featureTitle2": "マルチプラットフォーム配信",
+        "featureSubTitle2": "ワンクリックでライブ配信",
+        "featureTitle3": "バーチャルカメラ",
+        "featureSubTitle3": "スマホをウェブカメラに",
+        "loginBox": {
+          "loginPageTitle": "ログイン / 新規登録",
+          "codeLoginTab": "コードでログイン",
+          "pwdLoginTab": "パスワードでログイン",
+          "qrLoginTab": "QRコードでログイン",
+          "emailInputPlaceholder": "メールアドレスを入力してログイン",
+          "pwdInputPlaceholder": "パスワードを入力",
+          "verifyCodePlaceholder": "認証コードを入力",
+          "getVerifyCodeText": "コードを取得",
+          "loginBtnText": "ログイン",
+          "qrLoginTip": "VicastCamアプリでQRコードをスキャンしてください",
+          "qrWaitingTip": "スキャン確認待ち",
+          "agreeProtocolText": "プライバシーポリシーと利用規約に同意します",
+          "userProtocolText": "利用規約",
+          "privacyPolicyText": "プライバシーポリシー",
+          "agreeProtocolPrefix": "同意します。"
+        },
+        "toastBox": {
+          "closeToastLabel": "閉じる",
+          "requestLoading": "読み込み中",
+          "requestSuccess": "成功",
+          "requestFail": "リクエストに失敗しました",
+          "passwordLoginNotReady": "パスワードログインはまだ利用できません",
+          "passwordRequired": "パスワードを入力してください",
+          "emailRequired": "メールアドレスを入力してログインしてください",
+          "verifyCodeRequired": "認証コードを入力してください",
+          "agreeProtocolRequired": "先にプライバシーポリシーと利用規約を読んで同意してください",
+          "qrcodeExpired": "QRコードの有効期限が切れました。もう一度お試しください。"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "ja",
+        "hero_section": {
+          "tag": "AI搭載ライブ配信ツール",
+          "title_main": "スマホでグリーンバック効果とスクリーンキャストを実現",
+          "title_highlight": "世界中のライブ配信を力強くサポートします",
+          "description": "VicastCamは高度なAIマット処理により、ライブ配信中にシームレスにバーチャル背景を切り替え、没入感のあるエフェクトでプロフェッショナルな存在感を演出します。",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "ダウンロード"
+            },
+            {
+              "platform": "Google Play",
+              "text": "ダウンロード"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCamは、クリエイターにバーチャル背景、ライブ配信の拡張、クロスプラットフォームツールを提供します。"
+          },
+          "columns": [
+            {
+              "title": "製品情報",
+              "links": [
+                {
+                  "text": "機能"
+                },
+                {
+                  "text": "料金"
+                },
+                {
+                  "text": "ダウンロードセンター"
+                }
+              ]
+            },
+            {
+              "title": "開発者",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "APIドキュメント"
+                }
+              ]
+            },
+            {
+              "title": "会社",
+              "links": [
+                {
+                  "text": "会社概要"
+                },
+                {
+                  "text": "プライバシーポリシー"
+                },
+                {
+                  "text": "利用規約"
+                },
+                {
+                  "text": "メンバーシップ契約"
+                }
+              ]
+            },
+            {
+              "title": "サポート",
+              "links": [
+                {
+                  "text": "動画チュートリアル"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "お問い合わせ"
+                }
+              ]
+            },
+            {
+              "title": "ビジネス",
+              "links": [
+                {
+                  "text": "リセラーになる"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "ビジネスに関するお問い合わせ"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "機能",
+      "nav_pricing": "料金",
+      "nav_faq": "FAQ",
+      "nav_auth": "ログイン / 新規登録",
+      "nav_team": "ビジネス"
+    }
+  ]
+}

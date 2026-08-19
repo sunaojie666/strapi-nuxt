@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Aan de slag",
+      "count": "11 lessen",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Je eerste virtuele studio maken",
+          "description": "Stel je eerste virtuele studio vanaf nul in en configureer deze.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Beeldtools begrijpen",
+          "description": "Ontdek de basis van beeldtools en hun veelvoorkomende toepassingen.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Werken met lagen",
+          "description": "Maak kennis met het deelvenster Lagen en beheer lagen effectief.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Achtergrondlagen gebruiken",
+          "description": "Leer achtergrondlagen toevoegen en aanpassen voor je scène.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Portretlagen gebruiken",
+          "description": "Voeg portretlagen toe om je liveproductie te verbeteren.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Afbeeldingslagen gebruiken",
+          "description": "Voeg afbeeldingslagen toe en bewerk ze in je studio-opstelling.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Videolagen gebruiken",
+          "description": "Voeg videoclips toe en beheer de afspeelinstellingen.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Effectlagen gebruiken",
+          "description": "Pas visuele effecten toe op je livestream met effectlagen.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Bijschriftlagen gebruiken",
+          "description": "Maak bijschriften en pas hun weergave aan.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Virtuele avatars gebruiken",
+          "description": "Breng je stream tot leven met integratie van virtuele avatars.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Scènes gebruiken",
+          "description": "Schakel naadloos tussen verschillende scène-indelingen tijdens je stream.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Geavanceerde tutorials",
+      "count": "6 lessen",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Camerabewegingslagen gebruiken",
+          "description": "Maak dynamische shots met camerabewegingslagen.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Padanimatie gebruiken",
+          "description": "Bestuur de bewegingspaden van elementen met de trajectfunctie.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Meerdere cameralagen gebruiken",
+          "description": "Stel meerdere cameralagen in voor snelle camerawisselingen.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "De controller gebruiken",
+          "description": "Beheer je hele uitzending vanuit één bedieningspaneel.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Audio-instellingen en mixen",
+          "description": "Configureer audio-ingangen, -uitgangen en mixinstellingen.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Back-up en herstel",
+          "description": "Maak een back-up van je studioconfiguratie en herstel deze wanneer nodig.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

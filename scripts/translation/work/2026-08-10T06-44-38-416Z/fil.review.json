@@ -1,0 +1,435 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle1",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'isang click' instead of 'isang click'? Actually 'isang click' is acceptable, but 'isang click' is more natural. However, 'isang click' is fine. No change needed."
+    },
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Pagandahin ang iyong mga live stream' is fine. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes1",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Isang propesyonal na tool sa live streaming na pinapagana ng AI' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Virtual backgrounds, live stream enhancements, at multi-platform broadcasting na pinadali' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle1",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Real-time na pagpapalit ng background' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle2",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Mag-live sa isang click' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle3",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Gawing webcam ang iyong phone' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.emailInputPlaceholder",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Ilagay ang iyong email para mag-log in' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.pwdInputPlaceholder",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Ilagay ang iyong password' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.verifyCodePlaceholder",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Ilagay ang verification code' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.getVerifyCodeText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Kunin ang code' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.qrLoginTip",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Gamitin ang VicastCam app para i-scan ang QR code' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.qrWaitingTip",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Naghihintay ng kumpirmasyon ng pag-scan' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Nabasa ko at sumasang-ayon ako sa Privacy Policy at User Agreement' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.closeToastLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Isara' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestLoading",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Naglo-load' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestSuccess",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Tagumpay' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestFail",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Nabigo ang kahilingan' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.passwordLoginNotReady",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Hindi pa available ang password login' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.passwordRequired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Mangyaring ilagay ang iyong password' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.emailRequired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Mangyaring ilagay ang iyong email para mag-log in' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.verifyCodeRequired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Mangyaring ilagay ang verification code' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.agreeProtocolRequired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Mangyaring basahin at sumang-ayon sa Privacy Policy at User Agreement muna' is acceptable. No change."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.qrcodeExpired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Nag-expire na ang QR code. Subukan muli.' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Green screen effects at screen casting mula sa iyong phone' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Nagbibigay-kapangyarihan sa live streaming sa buong mundo' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Ginagamit ng VicastCam ang advanced AI matting para makapagpalit ka ng virtual backgrounds nang walang putol sa iyong mga live stream, na nagdaragdag ng immersive effects para sa propesyonal na presensya.' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.download_buttons[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'I-download' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.download_buttons[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'I-download' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.brand.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Ang VicastCam ay nagbibigay sa mga creator ng virtual backgrounds, live stream enhancements, at cross-platform tools.' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Produkto' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mga Feature' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Presyo' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Download Center' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Para sa mga Developer' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Kumpanya' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Tungkol sa Amin' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].links[3].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Kasunduan sa Membership' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Suporta' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mga Video Tutorial' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Makipag-ugnayan sa Amin' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Negosyo' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Maging isang Reseller' is acceptable. No change."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mga Katanungan para sa Negosyo' is acceptable. No change."
+    },
+    {
+      "path": "$.navigations[0].nav_auth",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mag-log in / Mag-sign up' is acceptable. No change."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "fil",
+          "loginTitle1": "Baguhin ang iyong virtual background sa isang click",
+          "loginTitle2": "Pagandahin ang iyong mga live stream",
+          "loginDes1": "Isang propesyonal na tool sa live streaming na pinapagana ng AI",
+          "loginDes2": "Virtual backgrounds, live stream enhancements, at multi-platform broadcasting na pinadali",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "Real-time na pagpapalit ng background",
+          "featureTitle2": "Multi-platform Streaming",
+          "featureSubTitle2": "Mag-live sa isang click",
+          "featureTitle3": "Virtual Camera",
+          "featureSubTitle3": "Gawing webcam ang iyong phone",
+          "loginBox": {
+            "loginPageTitle": "Mag-log in / Mag-sign up",
+            "codeLoginTab": "Code login",
+            "pwdLoginTab": "Password login",
+            "qrLoginTab": "QR code login",
+            "emailInputPlaceholder": "Ilagay ang iyong email para mag-log in",
+            "pwdInputPlaceholder": "Ilagay ang iyong password",
+            "verifyCodePlaceholder": "Ilagay ang verification code",
+            "getVerifyCodeText": "Kunin ang code",
+            "loginBtnText": "Mag-log in",
+            "qrLoginTip": "Gamitin ang VicastCam app para i-scan ang QR code",
+            "qrWaitingTip": "Naghihintay ng kumpirmasyon ng pag-scan",
+            "agreeProtocolText": "Nabasa ko at sumasang-ayon ako sa Privacy Policy at User Agreement",
+            "userProtocolText": "User Agreement",
+            "privacyPolicyText": "Privacy Policy",
+            "agreeProtocolPrefix": "Nabasa ko at sumasang-ayon ako sa"
+          },
+          "toastBox": {
+            "closeToastLabel": "Isara",
+            "requestLoading": "Naglo-load",
+            "requestSuccess": "Tagumpay",
+            "requestFail": "Nabigo ang kahilingan",
+            "passwordLoginNotReady": "Hindi pa available ang password login",
+            "passwordRequired": "Mangyaring ilagay ang iyong password",
+            "emailRequired": "Mangyaring ilagay ang iyong email para mag-log in",
+            "verifyCodeRequired": "Mangyaring ilagay ang verification code",
+            "agreeProtocolRequired": "Mangyaring basahin at sumang-ayon sa Privacy Policy at User Agreement muna",
+            "qrcodeExpired": "Nag-expire na ang QR code. Subukan muli."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "fil",
+          "hero_section": {
+            "tag": "AI-powered live streaming tool",
+            "title_main": "Green screen effects at screen casting mula sa iyong phone",
+            "title_highlight": "Nagbibigay-kapangyarihan sa live streaming sa buong mundo",
+            "description": "Ginagamit ng VicastCam ang advanced AI matting para makapagpalit ka ng virtual backgrounds nang walang putol sa iyong mga live stream, na nagdaragdag ng immersive effects para sa propesyonal na presensya.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "I-download"
+              },
+              {
+                "platform": "Google Play",
+                "text": "I-download"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "Ang VicastCam ay nagbibigay sa mga creator ng virtual backgrounds, live stream enhancements, at cross-platform tools."
+            },
+            "columns": [
+              {
+                "title": "Produkto",
+                "links": [
+                  {
+                    "text": "Mga Feature"
+                  },
+                  {
+                    "text": "Presyo"
+                  },
+                  {
+                    "text": "Download Center"
+                  }
+                ]
+              },
+              {
+                "title": "Para sa mga Developer",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API Docs"
+                  }
+                ]
+              },
+              {
+                "title": "Kumpanya",
+                "links": [
+                  {
+                    "text": "Tungkol sa Amin"
+                  },
+                  {
+                    "text": "Privacy Policy"
+                  },
+                  {
+                    "text": "User Agreement"
+                  },
+                  {
+                    "text": "Kasunduan sa Membership"
+                  }
+                ]
+              },
+              {
+                "title": "Suporta",
+                "links": [
+                  {
+                    "text": "Mga Video Tutorial"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Makipag-ugnayan sa Amin"
+                  }
+                ]
+              },
+              {
+                "title": "Negosyo",
+                "links": [
+                  {
+                    "text": "Maging isang Reseller"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Mga Katanungan para sa Negosyo"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Features",
+        "nav_pricing": "Pricing",
+        "nav_faq": "FAQ",
+        "nav_auth": "Mag-log in / Mag-sign up",
+        "nav_team": "Business"
+      }
+    ]
+  }
+}

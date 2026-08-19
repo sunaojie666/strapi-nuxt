@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "slot": "3",
+  "results": [
+    {
+      "locale": "ms",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T08-59-00-253Z\\ms.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation tr failed after 3 attempts: translation tr returned invalid JSON: Unterminated string in JSON at position 27914 (line 590 column 77)"
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation hi failed after 3 attempts: translation hi returned invalid JSON: Unterminated string in JSON at position 21509 (line 446 column 64)"
+    }
+  ]
+}

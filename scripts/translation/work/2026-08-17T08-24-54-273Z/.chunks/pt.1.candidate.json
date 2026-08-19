@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "FAQ VicastCam | Ajuda para Android e iOS",
+    "description": "Encontre respostas às perguntas mais frequentes sobre o VicastCam para Android e iOS, incluindo configuração de conta, permissões de multimédia, ligações de rede e problemas de transmissão em direto.",
+    "imageAlt": "FAQ VicastCam"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "Ajuda VicastCam",
+    "titleHighlight": "Encontre Respostas Rapidamente",
+    "description": "Escolha a sua plataforma (Android ou iOS) para ver as perguntas mais comuns e as soluções para o seu dispositivo."
+  },
+  "content": {
+    "sectionAriaLabel": "Perguntas frequentes",
+    "catalogAriaLabel": "Categorias de perguntas",
+    "answerLabel": "Resposta",
+    "questionProgressTemplate": "{group} · Pergunta {current} de {total}"
+  }
+}

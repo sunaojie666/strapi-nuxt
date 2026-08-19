@@ -1,0 +1,242 @@
+{
+  "teams": [
+    {
+      "data": {
+        "locale": "zh-CN",
+        "slug": "team",
+        "pageName": "商务合作",
+        "hero": {
+          "eyebrow": "商务合作",
+          "title": "VicastCam 全球代理商合作计划",
+          "highlight": "诚邀您的加入",
+          "description": "专业虚拟摄像头直播工具，面向全球渠道开放代理，美元统一结算、区域独家保护、全链路营销扶持。",
+          "actions": {
+            "primary": "申请合作",
+            "secondary": "了解更多"
+          }
+        },
+        "advantages": {
+          "eyebrow": "合作优势",
+          "titlePrefix": "为什么",
+          "titleHighlight": "选择与我们合作",
+          "description": "好卖、省心、利润高，代理商选品三要素，VicastCam 全部满足",
+          "items": [
+            {
+              "title": "海量创作者市场",
+              "description": "覆盖直播、电商、短视频与内容创作场景，全球创作者需求持续增长，市场空间大、转化更稳定。",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "零库存线上交付",
+              "description": "纯软件授权，云端实时发放激活码，无囤货、无物流、低成本，支持批量交付与快速开通。",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "全功能差异化竞争力",
+              "description": "绿幕抠像、虚拟背景、多平台推流、AI 特效一站集成，功能完整，易展示、易成交、易复购。",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "合作规则",
+          "titlePrefix": "合作门槛",
+          "titleHighlight": "与结算规则",
+          "description": "透明、公平、可预期的代理政策，让每一位合作伙伴安心经营",
+          "agentLevelTitle": "代理分级",
+          "agentLevels": [
+            {
+              "title": "标准代理商",
+              "description": "首单采购满 $30,000 USD，即可开通长期代理分销权限，享受阶梯折扣与标准渠道支持。",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "区域独家代理商",
+              "description": "季度采购达标，授予单一区域独家分销权，同区域不再授权其他渠道。",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "供货与结算",
+          "settlementRules": [
+            "统一美元结算，支持香港汇丰对公账户付款",
+            "批量激活码云端即时下发，快速交付客户",
+            "长期合作伙伴阶梯降价，采购量越大单件成本越低"
+          ]
+        },
+        "support": {
+          "eyebrow": "渠道支持",
+          "titlePrefix": "四大渠道扶持政策",
+          "titleHighlight": "不只是供货",
+          "description": "从素材、技术到品牌授权和新品内测，为合作伙伴提供全链路支持",
+          "items": [
+            {
+              "title": "全套海外营销素材",
+              "description": "官网海报、短视频、Reddit/Facebook 广告文案、产品测评素材一键取用",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "专属英文技术对接",
+              "description": "海外技术专员对接，SDK 调试、直播功能售后、客户问题协助处理",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "官方品牌授权",
+              "description": "可使用 VicastCam 商标、产品图用于区域线上线下推广",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "新版本优先内测",
+              "description": "所有 AI 特效、推流更新、新功能代理商提前测试、抢先售卖",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "合作方案",
+          "titlePrefix": "多元化",
+          "titleHighlight": "合作方案",
+          "description": "无论您是渠道商、技术厂商还是企业服务商，我们都有匹配的合作模式",
+          "items": [
+            {
+              "title": "渠道代理（主推）",
+              "description": "面向跨境软件店铺、直播设备门店、海外 MCN、跨境电商团队，批量分销软件授权",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM 贴牌 SDK",
+              "description": "去除 VicastCam 全部标识，自定义 Logo、软件名称、UI 界面，自有品牌独立售卖",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "企业私有化定制",
+              "description": "直播间服务商、教育机构、政企会议项目，定制专属功能、私有化部署方案",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "合作申请",
+          "titlePrefix": "填写表单",
+          "titleHighlight": "在线申请合作",
+          "description": "填写以下信息，我们会在 1-3 个工作日内与您取得联系",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "联系人姓名",
+              "placeholder": "填写你的姓名"
+            },
+            {
+              "name": "companyName",
+              "label": "公司名称",
+              "placeholder": "输入您的企业名称"
+            },
+            {
+              "name": "email",
+              "label": "联系邮箱",
+              "placeholder": "填写你的邮箱"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/电话",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "业务类型",
+              "placeholder": "请选择业务类型",
+              "options": [
+                "渠道代理",
+                "OEM 贴牌 SDK",
+                "企业私有化定制",
+                "其他合作"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "主营区域",
+              "placeholder": "例如：北美/欧洲/东南亚"
+            },
+            {
+              "name": "position",
+              "label": "职位",
+              "placeholder": "填写你的职位"
+            },
+            {
+              "name": "budget",
+              "label": "预估季度采购预算",
+              "placeholder": "填写您的预算"
+            },
+            {
+              "name": "country",
+              "label": "所在国家",
+              "placeholder": "请选择国家/地区",
+              "options": [
+                "中国",
+                "美国",
+                "印度尼西亚",
+                "马来西亚",
+                "泰国",
+                "越南",
+                "菲律宾",
+                "西班牙",
+                "葡萄牙",
+                "沙特阿拉伯",
+                "日本",
+                "土耳其",
+                "意大利",
+                "德国",
+                "法国",
+                "韩国",
+                "俄罗斯",
+                "波兰",
+                "荷兰",
+                "印度",
+                "巴基斯坦",
+                "孟加拉国",
+                "伊朗",
+                "其他"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "公司网站",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "合作意向说明",
+          "intentPlaceholder": "请简述您的业务模式、目标市场及期望的合作方式...",
+          "note": "*为必填项。您提交的信息将严格保密，仅用于商务合作对接。",
+          "submitLabel": "提交合作信息"
+        },
+        "contact": {
+          "title": "即时商务对接",
+          "items": [
+            {
+              "label": "商务邮箱",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "香港专线",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "工作时间",
+              "value": "GMT+8 周一至周五 9:00-18:00"
+            }
+          ],
+          "note": "如有紧急商务需求，可直接通过上述 WhatsApp 或邮箱与我们沟通。",
+          "qr": {
+            "label": "通过WhatsApp扫码联系我们",
+            "alt": "VicastCam 商务联系二维码"
+          }
+        },
+        "seo": {
+          "title": "VicastCam 商务合作",
+          "description": "加入 VicastCam 全球代理商合作计划，获取渠道代理、OEM 贴牌 SDK 与企业私有化定制支持。",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCam 全球代理商合作计划"
+        }
+      }
+    }
+  ]
+}

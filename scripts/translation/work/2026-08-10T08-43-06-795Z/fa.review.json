@@ -1,0 +1,249 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.sectionTag",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'قیمت‌ها' instead of 'قیمت‌گذاری' for 'Pricing' to sound more natural in Persian."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[3]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'کیفیت پایه برای پخش صفحه‌نمایش رایانه' instead of 'کیفیت پایه برای پخش صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'پخش زنده صفحه‌نمایش رایانه' instead of 'پخش زنده صفحه PC' for better Persian clarity, but 'PC' is acceptable."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "قیمت‌ها",
+            "titleMain": "برنامه‌ای را انتخاب کنید",
+            "titleHighlight": "که مناسب شماست",
+            "description": "رایگان امتحان کنید یا برنامه دیگری انتخاب کنید",
+            "priceAltSuffix": "قیمت",
+            "freePlanMessage": "کاربران رایگان نیازی به خرید ندارند",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "رایگان",
+                "description": "دانلود و ثبت‌نام رایگان است و امکانات پایه بدون هزینه در دسترس هستند.",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/ماه",
+                "priceNote": "",
+                "cta": "شروع کنید",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "ساخت با یک صحنه",
+                  "چیدمان آزاد تا چهار لایه",
+                  "دسترسی به انواع متریال‌های پس‌زمینه زنده",
+                  "کیفیت پایه برای پخش صفحه‌نمایش رایانه",
+                  "افکت‌های زیبایی طبیعی داخلی"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "ماهانه",
+                "description": "فعال‌سازی و بهره‌مندی از یک ماه دسترسی کامل، راهی کم‌هزینه برای امتحان.",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/ماه",
+                "priceNote": "دسترسی ۳۰ روزه",
+                "cta": "خرید",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "تمام امکانات موبایل",
+                  "پخش زنده صفحه‌نمایش رایانه",
+                  "کیفیت پخش زنده HD",
+                  "افکت‌های زیبایی پیشرفته",
+                  "افکت‌های اختصاصی پخش زنده"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "سالانه",
+                "description": "بهترین ارزش با صرفه‌جویی سالانه.",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/سال",
+                "priceNote": "دسترسی ۳۶۵ روزه",
+                "cta": "خرید",
+                "badgeText": "محبوب‌ترین",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "تمام امکانات موبایل",
+                  "پخش زنده صفحه‌نمایش رایانه",
+                  "کیفیت پخش زنده HD",
+                  "افکت‌های زیبایی پیشرفته",
+                  "افکت‌های اختصاصی پخش زنده"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "مادام‌العمر",
+                "description": "خرید یک‌باره برای دسترسی مادام‌العمر، ایده‌آل برای سازندگان بلندمدت.",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "دسترسی مادام‌العمر",
+                "cta": "خرید",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "تمام امکانات موبایل",
+                  "پخش زنده صفحه‌نمایش رایانه",
+                  "کیفیت پخش زنده HD",
+                  "افکت‌های زیبایی پیشرفته",
+                  "افکت‌های اختصاصی پخش زنده"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "ماهانه",
+                  "subtitle": "فعال‌سازی و بهره‌مندی از یک ماه دسترسی کامل، راهی کم‌هزینه برای امتحان.",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/ماه",
+                  "cta": "خرید",
+                  "benefits": [
+                    "تمام امکانات موبایل",
+                    "پخش زنده صفحه‌نمایش رایانه",
+                    "کیفیت پخش زنده HD",
+                    "افکت‌های زیبایی پیشرفته",
+                    "افکت‌های اختصاصی پخش زنده"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "سالانه",
+                  "subtitle": "بهترین ارزش با صرفه‌جویی سالانه.",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/سال",
+                  "cta": "خرید",
+                  "benefits": [
+                    "تمام امکانات موبایل",
+                    "پخش زنده صفحه‌نمایش رایانه",
+                    "کیفیت پخش زنده HD",
+                    "افکت‌های زیبایی پیشرفته",
+                    "افکت‌های اختصاصی پخش زنده"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "مادام‌العمر",
+                  "subtitle": "خرید یک‌باره برای دسترسی مادام‌العمر، ایده‌آل برای سازندگان بلندمدت.",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "خرید",
+                  "benefits": [
+                    "تمام امکانات موبایل",
+                    "پخش زنده صفحه‌نمایش رایانه",
+                    "کیفیت پخش زنده HD",
+                    "افکت‌های زیبایی پیشرفته",
+                    "افکت‌های اختصاصی پخش زنده"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "مارکوس جانسون",
+        "username": "@Musk",
+        "followers": "100k",
+        "location": "دبی، امارات"
+      },
+      {
+        "name": "مارکوس جانسون",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "دبی، امارات"
+      },
+      {
+        "name": "مارکوس جانسون",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "دبی، امارات"
+      },
+      {
+        "name": "مارکوس جانسون",
+        "username": "echo",
+        "followers": "100k",
+        "location": "دبی، امارات"
+      },
+      {
+        "name": "مارکوس جانسون",
+        "username": "echo",
+        "followers": "100k",
+        "location": "دبی، امارات"
+      }
+    ]
+  }
+}

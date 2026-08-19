@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "ur",
+        "loginTitle1": "ایک کلک میں اپنا ورچوئل بیک گراؤنڈ تبدیل کریں",
+        "loginTitle2": "اپنی لائیو اسٹریمز کو چمکائیں",
+        "loginDes1": "AI سے چلنے والا پیشہ ورانہ لائیو اسٹریمنگ ٹول",
+        "loginDes2": "ورچوئل بیک گراؤنڈز، لائیو اسٹریم میں اضافہ، اور ملٹی پلیٹ فارم براڈکاسٹنگ اب آسان",
+        "featureTitle1": "AI matting",
+        "featureSubTitle1": "پس منظر کو حقیقی وقت میں تبدیل کریں",
+        "featureTitle2": "ملٹی پلیٹ فارم اسٹریمنگ",
+        "featureSubTitle2": "ایک کلک میں لائیو جائیں",
+        "featureTitle3": "ورچوئل کیمرہ",
+        "featureSubTitle3": "اپنے فون کو ویب کیم بنائیں",
+        "loginBox": {
+          "loginPageTitle": "لاگ ان / سائن اپ",
+          "codeLoginTab": "کوڈ لاگ ان",
+          "pwdLoginTab": "پاس ورڈ لاگ ان",
+          "qrLoginTab": "QR کوڈ لاگ ان",
+          "emailInputPlaceholder": "لاگ ان کے لیے اپنا ای میل درج کریں",
+          "pwdInputPlaceholder": "اپنا پاس ورڈ درج کریں",
+          "verifyCodePlaceholder": "تصدیقی کوڈ درج کریں",
+          "getVerifyCodeText": "کوڈ حاصل کریں",
+          "loginBtnText": "لاگ ان",
+          "qrLoginTip": "QR کوڈ اسکین کرنے کے لیے VicastCam ایپ استعمال کریں",
+          "qrWaitingTip": "اسکین کی تصدیق کا انتظار ہے",
+          "agreeProtocolText": "میں نے پرائیویسی پالیسی اور صارف معاہدہ پڑھ لیا ہے اور ان سے متفق ہوں",
+          "userProtocolText": "صارف معاہدہ",
+          "privacyPolicyText": "پرائیویسی پالیسی",
+          "agreeProtocolPrefix": "میں نے پڑھ لیا ہے اور متفق ہوں"
+        },
+        "toastBox": {
+          "closeToastLabel": "بند کریں",
+          "requestLoading": "لوڈ ہو رہا ہے",
+          "requestSuccess": "کامیاب",
+          "requestFail": "درخواست ناکام ہوئی",
+          "passwordLoginNotReady": "پاس ورڈ لاگ ان ابھی دستیاب نہیں ہے",
+          "passwordRequired": "براہ کرم اپنا پاس ورڈ درج کریں",
+          "emailRequired": "لاگ ان کے لیے براہ کرم اپنا ای میل درج کریں",
+          "verifyCodeRequired": "براہ کرم تصدیقی کوڈ درج کریں",
+          "agreeProtocolRequired": "براہ کرم پہلے پرائیویسی پالیسی اور صارف معاہدہ پڑھ کر متفق ہوں",
+          "qrcodeExpired": "QR کوڈ کی میعاد ختم ہو گئی ہے۔ براہ کرم دوبارہ کوشش کریں۔"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "ur",
+        "hero_section": {
+          "tag": "AI سے چلنے والا لائیو اسٹریمنگ ٹول",
+          "title_main": "اپنے فون سے گرین اسکرین اثرات اور اسکرین کاسٹنگ",
+          "title_highlight": "دنیا بھر میں لائیو اسٹریمنگ کو بااختیار بنانا",
+          "description": "VicastCam جدید AI matting استعمال کرتا ہے تاکہ آپ اپنی لائیو اسٹریمز کے دوران بغیر کسی رکاوٹ کے ورچوئل بیک گراؤنڈ تبدیل کر سکیں، مؤثر اثرات شامل کر کے پیشہ ورانہ موجودگی پیدا کریں۔",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "ڈاؤن لوڈ"
+            },
+            {
+              "platform": "Google Play",
+              "text": "ڈاؤن لوڈ"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam تخلیق کاروں کو ورچوئل بیک گراؤنڈز، لائیو اسٹریم میں اضافہ، اور کراس پلیٹ فارم ٹولز فراہم کرتا ہے۔"
+          },
+          "columns": [
+            {
+              "title": "پروڈکٹ",
+              "links": [
+                {
+                  "text": "خصوصیات"
+                },
+                {
+                  "text": "قیمتیں"
+                },
+                {
+                  "text": "ڈاؤن لوڈ سینٹر"
+                }
+              ]
+            },
+            {
+              "title": "ڈویلپرز",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API دستاویزات"
+                }
+              ]
+            },
+            {
+              "title": "کمپنی",
+              "links": [
+                {
+                  "text": "ہمارے بارے میں"
+                },
+                {
+                  "text": "پرائیویسی پالیسی"
+                },
+                {
+                  "text": "صارف معاہدہ"
+                },
+                {
+                  "text": "رکنیت معاہدہ"
+                }
+              ]
+            },
+            {
+              "title": "سپورٹ",
+              "links": [
+                {
+                  "text": "ویڈیو ٹیوٹوریلز"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "ہم سے رابطہ کریں"
+                }
+              ]
+            },
+            {
+              "title": "کاروبار",
+              "links": [
+                {
+                  "text": "ری سیلر بنیں"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "کاروباری انکوائریاں"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "خصوصیات",
+      "nav_pricing": "قیمتیں",
+      "nav_faq": "FAQ",
+      "nav_auth": "لاگ ان / سائن اپ",
+      "nav_team": "کاروبار"
+    }
+  ]
+}

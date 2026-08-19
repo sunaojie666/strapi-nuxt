@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "What are the recommended dimensions for live stream assets?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Recommended dimensions for live stream assets:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "For live stream background images, we recommend 1080 x 1920 pixels; for videos, we also recommend 1080 x 1920 pixels.",
+            "Important: Full-screen overlays must use a 9:16 aspect ratio to ensure seamless switching between full-screen and 9:16 modes without misalignment, achieving a perfectly fitted effect."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "What output modes are supported for streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Streaming supports two output modes: 9:16 streaming and full-screen streaming. Follow these steps to select one on your Android device:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, go to the live streaming page, and tap the menu icon on the right side."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Menu entry on the right side of the Android live streaming page",
+          "caption": "Step 1: Tap the menu icon on the right side of the live streaming page."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In More Settings, find 'Aspect Ratio' and choose 'Full Screen' or '9:16' as needed."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Aspect ratio options in More Settings on Android",
+          "caption": "Step 2: In 'Aspect Ratio', select 'Full Screen' or '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Explanation of the two modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 streaming: The output aspect ratio is fixed at 9:16, so the live platform receives a 9:16 image.",
+            "Full-screen streaming: Streams the entire phone screen as-is, preserving the native content without cropping."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "How do I delete my account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Please log in to the VicastCam app, then go to [Account - top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+        },
+        {
+          "type": "heading",
+          "text": "Account information"
+        },
+        {
+          "type": "paragraph",
+          "text": "After account deletion, we will permanently delete your linked email, device records, and other identity information, and revoke your third-party login authorization via Google and Apple accounts. After revocation, you will no longer be able to use those third-party accounts for quick login; to use the app again, you will need to re-authorize and re-link."
+        },
+        {
+          "type": "heading",
+          "text": "Content and assets"
+        },
+        {
+          "type": "list",
+          "items": [
+            "All live stream assets, videos, images, and project files are stored only on your device; the cloud does not retain any creative assets. After deletion, the asset management feature in the app will no longer work, so please back up your assets in advance via 'Asset Export'.",
+            "If you uninstall and reinstall, switch devices, or fail to export a backup in advance, your assets will be permanently unrecoverable."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Membership benefits"
+        },
+        {
+          "type": "paragraph",
+          "text": "After account deletion, your membership benefits will terminate immediately. If you have an active Google Play subscription, deleting your app account will not automatically cancel the subscription, and you may continue to be charged. Please go to Google Play's 'Payments & subscriptions - Subscriptions' to manually cancel."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions, please contact our customer support team."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Why can't I access my phone's photos and videos when adding them?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If your photo album appears empty when adding assets, you can enable photo access permissions as follows:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Open your phone's Settings, scroll down to find VicastCam, tap [Photos - All Photos] to enable access.",
+            "Android: Open your phone's Settings, find VicastCam under [Permission Management] or [App Management], then tap [Permission Management - Photos - All Photos] to enable access.",
+            "If the issue persists, try uninstalling and reinstalling the app, or contact online support via the feedback feature."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "What should I do if the screen is not fully displayed when streaming from a computer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If the screen appears incomplete when streaming from your phone via a live streaming companion app or other software, follow these steps to adjust:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, tap the camera icon at the bottom to enter the live streaming page, then go to [Right-side menu - More Settings - Aspect Ratio - 9:16].",
+            "After casting to the live streaming companion, first fit the screen to the canvas, then drag vertically to fill the screen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Note: Before starting your stream, adjust the aspect ratio first, then add your assets."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "What should I do if a network request fails?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If you encounter network request failures, try the following:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open your phone's Settings, go to [Permission Management - VicastCam - Mobile Data and Wi-Fi] and enable network access.",
+            "Turn off power-saving mode and any background restrictions on your phone.",
+            "Switch networks, restart your phone, toggle airplane mode, or update the app to the latest version.",
+            "If the issue persists, take a screenshot of the error and contact customer support for assistance."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Purchase history",
+    "title": "Purchase history",
+    "tabTitle": "Purchases",
+    "exchangeTabTitle": "Redemptions",
+    "tableHeaders": {
+      "title": "Type",
+      "date": "Payment time",
+      "price": "Amount",
+      "paymentMethod": "Payment method",
+      "status": "Status",
+      "exchangeDate": "Redemption time",
+      "exchangeCode": "Redemption code"
+    },
+    "exchangeTableHeaders": {
+      "date": "Redemption time",
+      "code": "Redemption code"
+    },
+    "cardTypes": {
+      "month": "Monthly card",
+      "year": "Annual card",
+      "life": "Lifetime card",
+      "default": "Membership card"
+    },
+    "orderStatuses": {
+      "pending": "Pending payment",
+      "paid": "Paid",
+      "closed": "Closed",
+      "refunded": "Refunded",
+      "unknown": "Unknown"
+    },
+    "secretLabels": {
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+    "secretMask": "******",
+    "emptyText": "No purchase records yet",
+    "exchangeEmptyText": "No redemption records yet",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Bank card",
+      "creditcard": "Credit card",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Cryptocurrency",
+      "balance": "Balance",
+      "free": "Free"
+    }
+  },
+  "team": {
+    "ariaLabel": "My team",
+    "title": "My team",
+    "referrerLabel": "My referrer",
+    "levelOne": "Level 1 members",
+    "levelTwo": "Level 2 members",
+    "tableHeaders": {
+      "name": "Member name",
+      "status": "Membership status",
+      "joinedAt": "Join time"
+    },
+    "memberStatus": {
+      "free": "Free user",
+      "vip": "VIP user"
+    },
+    "emptyMemberName": "Unnamed user",
+    "emptyReferrer": "No referrer",
+    "emptyTeam": "No team members yet",
+    "errors": {
+      "loadFail": "Failed to load team members. Please try again later."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Earnings center",
+    "title": "Earnings overview",
+    "commissionTitle": "Commission details",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Total earnings",
+        "desc": "Total commission earned to date"
+      },
+      {
+        "key": "month",
+        "title": "This month",
+        "desc": "Commission earned this month"
+      },
+      {
+        "key": "settling",
+        "title": "Pending settlement",
+        "value": "0.00",
+        "desc": "Amount pending settlement"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Withdrawable",
+        "desc": "Amount currently available for withdrawal",
+        "action": "Withdraw"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Username",
+      "saleTime": "Sale time",
+      "goodsInfo": "Product",
+      "commission": "Commission"
+    },
+    "emptyCommission": "No commission records yet",
+    "errors": {
+      "loadFail": "Failed to load commission details. Please try again later."
+    },
+    "withdraw": {
+      "ariaLabel": "Withdrawal request",
+      "title": "Withdrawal request",
+      "closeLabel": "Close withdrawal dialog",
+      "balanceLabel": "Withdrawable balance",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Withdrawal amount",
+      "amountPlaceholder": "Enter withdrawal amount",
+      "allButton": "All",
+      "allAmountValue": "0.00",
+      "amountTip": "Please confirm the amount is correct. Your request will be reviewed manually after submission.",
+      "methodLabel": "Withdrawal method",
+      "methods": [
+        "Bank card",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Bank card",
+      "nameLabel": "Payee name",
+      "namePlaceholder": "Enter payee name",
+      "defaultName": "",
+      "bankCardLabel": "Account number",
+      "bankCardPlaceholder": "Enter bank card number, PayPal email, or wallet address",
+      "remarkLabel": "Remarks",
+      "remarkPlaceholder": "Add any additional notes",
+      "note": "Withdrawal requests are processed within 1-3 business days.",
+      "cancelButton": "Cancel",
+      "submitButton": "Submit request"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Redemption successful",
+    "operationFailed": "Redemption failed",
+    "invalidCard": "Invalid redemption code",
+    "cardNotFound": "Redemption code not found",
+    "cardDisabled": "Redemption code disabled",
+    "cardExpired": "Redemption code expired"
+  },
+  "successMessage": "Operation successful"
+}

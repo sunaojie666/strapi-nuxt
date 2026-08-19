@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "fa",
+        "loginTitle1": "پس‌زمینه مجازی خود را با یک کلیک تغییر دهید",
+        "loginTitle2": "با تأثیر بیشتر استریم کنید",
+        "loginDes1": "ابزار حرفه‌ای استریم زنده مبتنی بر هوش مصنوعی",
+        "loginDes2": "پس‌زمینه مجازی، بهبود زنده و استریم چندپلتفرمی به سادگی",
+        "featureTitle1": "حذف پس‌زمینه با هوش مصنوعی",
+        "featureSubTitle1": "جایگزینی پس‌زمینه در زمان واقعی",
+        "featureTitle2": "استریم چندپلتفرمی",
+        "featureSubTitle2": "با یک لمس به صورت زنده بروید",
+        "featureTitle3": "دوربین مجازی",
+        "featureSubTitle3": "گوشی خود را به وب‌کم تبدیل کنید",
+        "loginBox": {
+          "loginPageTitle": "ورود / ثبت‌نام",
+          "codeLoginTab": "ورود با کد",
+          "pwdLoginTab": "ورود با رمز عبور",
+          "qrLoginTab": "ورود با QR",
+          "emailInputPlaceholder": "ایمیل خود را برای ورود وارد کنید",
+          "pwdInputPlaceholder": "رمز عبور خود را وارد کنید",
+          "verifyCodePlaceholder": "کد تأیید را وارد کنید",
+          "getVerifyCodeText": "دریافت کد",
+          "loginBtnText": "ورود",
+          "qrLoginTip": "برای ورود با اپ VicastCam اسکن کنید",
+          "qrWaitingTip": "در انتظار تأیید اسکن",
+          "agreeProtocolText": "من سیاست حفظ حریم خصوصی و توافق‌نامه کاربری را خوانده‌ام و می‌پذیرم",
+          "userProtocolText": "توافق‌نامه کاربری",
+          "privacyPolicyText": "سیاست حفظ حریم خصوصی",
+          "agreeProtocolPrefix": "من خوانده‌ام و می‌پذیرم"
+        },
+        "toastBox": {
+          "closeToastLabel": "بستن اعلان",
+          "requestLoading": "در حال بارگذاری",
+          "requestSuccess": "درخواست با موفقیت انجام شد",
+          "requestFail": "درخواست ناموفق بود",
+          "passwordLoginNotReady": "ورود با رمز عبور هنوز در دسترس نیست",
+          "passwordRequired": "لطفاً رمز عبور خود را وارد کنید",
+          "emailRequired": "لطفاً ایمیل خود را برای ورود وارد کنید",
+          "verifyCodeRequired": "لطفاً کد تأیید را وارد کنید",
+          "agreeProtocolRequired": "لطفاً ابتدا سیاست حفظ حریم خصوصی و توافق‌نامه کاربری را بخوانید و بپذیرید",
+          "qrcodeExpired": "کد QR منقضی شده است. لطفاً کد جدید دریافت کنید."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "fa",
+        "hero_section": {
+          "tag": "ابزار استریم زنده مبتنی بر هوش مصنوعی",
+          "title_main": "جلوه‌های صفحه سبز و اشتراک‌گذاری صفحه از گوشی شما",
+          "title_highlight": "توانمندسازی استریم زنده در سراسر جهان",
+          "description": "VicastCam با استفاده از حذف پس‌زمینه پیشرفته با هوش مصنوعی به شما امکان می‌دهد در هر زمان در طول استریم، پس‌زمینه مجازی را تغییر دهید و جلوه‌های جذاب و ظاهری حرفه‌ای به پخش زنده خود اضافه کنید.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "دانلود"
+            },
+            {
+              "platform": "Google Play",
+              "text": "دانلود"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam ابزارهایی برای پس‌زمینه مجازی، بهبود زنده و استریم چندپلتفرمی در اختیار تولیدکنندگان محتوا قرار می‌دهد."
+          },
+          "columns": [
+            {
+              "title": "محصول",
+              "links": [
+                {
+                  "text": "ویژگی‌ها"
+                },
+                {
+                  "text": "قیمت‌گذاری"
+                },
+                {
+                  "text": "دانلودها"
+                }
+              ]
+            },
+            {
+              "title": "توسعه‌دهندگان",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "مستندات API"
+                }
+              ]
+            },
+            {
+              "title": "شرکت",
+              "links": [
+                {
+                  "text": "درباره ما"
+                },
+                {
+                  "text": "سیاست حفظ حریم خصوصی"
+                },
+                {
+                  "text": "توافق‌نامه کاربری"
+                },
+                {
+                  "text": "توافق‌نامه عضویت"
+                }
+              ]
+            },
+            {
+              "title": "پشتیبانی",
+              "links": [
+                {
+                  "text": "آموزش‌های ویدیویی"
+                },
+                {
+                  "text": "سوالات متداول"
+                },
+                {
+                  "text": "تماس با ما"
+                }
+              ]
+            },
+            {
+              "title": "همکاری",
+              "links": [
+                {
+                  "text": "فروشنده شوید"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "استعلامات تجاری"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "ویژگی‌ها",
+      "nav_pricing": "قیمت‌گذاری",
+      "nav_faq": "سوالات متداول",
+      "nav_auth": "ورود / ثبت‌نام",
+      "nav_team": "همکاری"
+    }
+  ]
+}

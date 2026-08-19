@@ -1,0 +1,237 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Stream with more impact' is acceptable, but 'Go live with more impact' might be more direct. However, current is fine."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'made simple' is idiomatic and acceptable, but ensure it is clear. Could be 'simplified' for clarity."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.codeLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Code login' is concise but might be ambiguous. Consider 'Verification code login' for clarity, but it is acceptable."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.getVerifyCodeText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Get code' is concise but could be 'Get verification code' for clarity. However, it is acceptable."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.closeToastLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Close notification' is clear, but 'Dismiss' might be more common in UI. However, it is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Green screen effects and screen casting from your phone' is clear, but consider 'Phone-based green screen and screen casting' for conciseness."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Powering live streaming worldwide' is good, but 'Empowering' is avoided per guidelines. This is fine."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The sentence is long but clear. Consider splitting for readability: 'VicastCam uses advanced AI matting to let you switch virtual backgrounds anytime during your stream. It adds immersive effects and gives you a professional presence on any platform.'"
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "'Partnerships' is fine, but 'Business Cooperation' might be more literal. However, 'Partnerships' is natural."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Become a Reseller' is clear, but 'Reseller Recruitment' might be more direct. However, it is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'OEM' is fine, but 'OEM Branding' might be clearer. However, it is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Business Inquiries' is good, but 'Business Negotiation' might be more literal. However, it is acceptable."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "en",
+          "loginTitle1": "Change your virtual background in one tap",
+          "loginTitle2": "Stream with more impact",
+          "loginDes1": "A professional live streaming tool powered by AI",
+          "loginDes2": "Virtual backgrounds, live enhancements, and multi-platform streaming made simple",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "Real-time background replacement",
+          "featureTitle2": "Multi-platform Streaming",
+          "featureSubTitle2": "Go live with one tap",
+          "featureTitle3": "Virtual Camera",
+          "featureSubTitle3": "Turn your phone into a webcam",
+          "loginBox": {
+            "loginPageTitle": "Log in / Sign up",
+            "codeLoginTab": "Code login",
+            "pwdLoginTab": "Password login",
+            "qrLoginTab": "QR code login",
+            "emailInputPlaceholder": "Enter your email to log in",
+            "pwdInputPlaceholder": "Enter your password",
+            "verifyCodePlaceholder": "Enter the verification code",
+            "getVerifyCodeText": "Get code",
+            "loginBtnText": "Log in",
+            "qrLoginTip": "Scan with the VicastCam app to log in",
+            "qrWaitingTip": "Waiting for scan confirmation",
+            "agreeProtocolText": "I have read and agree to the Privacy Policy and User Agreement",
+            "userProtocolText": "User Agreement",
+            "privacyPolicyText": "Privacy Policy",
+            "agreeProtocolPrefix": "I have read and agree to"
+          },
+          "toastBox": {
+            "closeToastLabel": "Close notification",
+            "requestLoading": "Loading",
+            "requestSuccess": "Request successful",
+            "requestFail": "Request failed",
+            "passwordLoginNotReady": "Password login is not available yet",
+            "passwordRequired": "Please enter your password",
+            "emailRequired": "Please enter your email to log in",
+            "verifyCodeRequired": "Please enter the verification code",
+            "agreeProtocolRequired": "Please read and agree to the Privacy Policy and User Agreement first",
+            "qrcodeExpired": "The QR code has expired. Please get a new one."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "en",
+          "hero_section": {
+            "tag": "AI-powered live streaming tool",
+            "title_main": "Green screen effects and screen casting from your phone",
+            "title_highlight": "Powering live streaming worldwide",
+            "description": "VicastCam uses advanced AI matting to let you switch virtual backgrounds anytime during your stream, adding immersive effects and giving you a professional presence on any platform.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Download"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Download"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam gives creators virtual backgrounds, live enhancements, and cross-platform tools."
+            },
+            "columns": [
+              {
+                "title": "Product",
+                "links": [
+                  {
+                    "text": "Features"
+                  },
+                  {
+                    "text": "Pricing"
+                  },
+                  {
+                    "text": "Downloads"
+                  }
+                ]
+              },
+              {
+                "title": "Developers",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API Docs"
+                  }
+                ]
+              },
+              {
+                "title": "Company",
+                "links": [
+                  {
+                    "text": "About Us"
+                  },
+                  {
+                    "text": "Privacy Policy"
+                  },
+                  {
+                    "text": "User Agreement"
+                  },
+                  {
+                    "text": "Membership Agreement"
+                  }
+                ]
+              },
+              {
+                "title": "Support",
+                "links": [
+                  {
+                    "text": "Video Tutorials"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Contact Us"
+                  }
+                ]
+              },
+              {
+                "title": "Partnerships",
+                "links": [
+                  {
+                    "text": "Become a Reseller"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Business Inquiries"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Features",
+        "nav_pricing": "Pricing",
+        "nav_faq": "FAQ",
+        "nav_auth": "Log in / Sign up",
+        "nav_team": "Partnerships"
+      }
+    ]
+  }
+}

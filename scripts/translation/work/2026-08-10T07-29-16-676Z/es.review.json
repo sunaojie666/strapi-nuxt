@@ -1,0 +1,439 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.abouts[0].about_box.hero.titleMain",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Use 'croma' instead of 'croma'? Actually 'croma' is correct. But 'proyección de pantalla' is the glossary term for 'screen casting'. The phrase 'tecnología de croma móvil y proyección de pantalla' is acceptable. However, 'croma' is a common term in Spain for chroma key. No change needed. But check: 'croma' is fine. No issue."
+    },
+    {
+      "path": "$.abouts[0].about_box.hero.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'streaming' consistently; it's widely used in Spain. The phrase 'streaming multiplataforma' is fine. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.innovation.stats[3].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Disponibilidad' is correct for 'Uptime'. No issue."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'croma' is fine. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[0].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'recorte de croma' is acceptable. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'proyección de pantalla' is correct. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[2].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'asistente profesional de streaming 3D para PC' is fine. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[3].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Expansión global' is fine. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.social.titleMain",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Contacta con nosotros' is correct. No change."
+    },
+    {
+      "path": "$.abouts[0].about_box.seo.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'mejora de streaming con IA' is fine. No change."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.platform.items[0].system",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Compatible con Android 8.0 y superior' is correct. No change."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.platform.items[1].system",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Compatible con iOS 13.0 y superior' is correct. No change."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.platform.items[2].system",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Compatible con Windows 10 y superior' is correct. No change."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.reasons.items[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Seguro y fiable' is correct. No change."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.reasons.items[3].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Tutoriales en vídeo' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'broadcasters móviles profesionales' is acceptable. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Proyección de pantalla y cámara virtual' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].desc",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Proyecta tu teléfono al PC' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Soporte multicámara' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[2].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Efectos 2D/3D' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[3].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Streaming multiplataforma' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[4].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Controlador virtual' is correct. No change."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Streaming simultáneo multiplataforma' is correct. No change."
+    },
+    {
+      "path": "$.homes[0].hero_title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Efectos de croma móvil y proyección de pantalla' is correct. No change."
+    },
+    {
+      "path": "$.homes[0].top_badge",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Herramienta de streaming con IA' is correct. No change."
+    },
+    {
+      "path": "$.homes[0].hero_description_1",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'recorte avanzado con IA' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Gratis' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Empezar' is acceptable for 'Get Started'. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Mensual' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Anual' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'De por vida' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Pago único para acceso de por vida' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Mensual' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Anual' is correct. No change."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].name",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'De por vida' is correct. No change."
+    },
+    {
+      "path": "$.streamers[0].location",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Dubái, EAU' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.hero.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Programa de alianzas globales de VicastCam' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.hero.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Liquidación unificada en USD' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Mercado masivo de creadores' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Sin inventario, entrega en línea' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[2].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Ventaja competitiva con todas las funciones' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Agente estándar' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Agente exclusivo regional' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Liquidación unificada en USD' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.support.items[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Materiales de marketing completos' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.support.items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Soporte técnico dedicado en inglés' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.support.items[2].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Autorización oficial de marca' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.support.items[3].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Acceso beta prioritario' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[0].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Agencia de canal (recomendado)' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'SDK de marca blanca OEM' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[2].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Personalización empresarial' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Nombre de contacto' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[1].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Nombre de la empresa' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[2].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Correo electrónico' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[3].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'WhatsApp/Teléfono' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[4].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Tipo de negocio' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[5].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Región principal' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[6].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Cargo' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[7].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Presupuesto de compra trimestral estimado' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'País' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[9].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Sitio web de la empresa' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.intentLabel",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Intención de asociación' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.note",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Tu información se mantiene confidencial' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.application.submitLabel",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Enviar información de asociación' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Correo de negocio' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[1].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Línea directa de Hong Kong' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[2].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Horario laboral' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.contact.note",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'contáctanos' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.contact.qr.label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Escanea para contactarnos por WhatsApp' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.seo.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Alianzas de negocio de VicastCam' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.seo.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Únete al programa de socios global de VicastCam' is correct. No change."
+    },
+    {
+      "path": "$.teams[0].data.seo.imageAlt",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Programa de socios global de VicastCam' is correct. No change."
+    }
+  ],
+  "revisedContent": {}
+}

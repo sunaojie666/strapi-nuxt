@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Pago aún no disponible",
+          "payment": {
+            "providerName": "Pago en línea no disponible",
+            "providerDescription": "El procesamiento de pagos se está configurando. Esta página solo muestra los detalles del pedido.",
+            "unavailableTitle": "Pago aún no disponible",
+            "unavailableDescription": "Estamos integrando el proceso oficial de pago y confirmación de pedido. Hasta el lanzamiento, esta página no le cobraremos ni creará un pedido real.",
+            "unavailableItems": [
+              "No se cargarán componentes de pago de terceros",
+              "No se enviará información de pago",
+              "No se creará un pedido de pago real"
+            ],
+            "feedback": "Para comprar o activar una membresía, póngase en contacto con business@vicastcam.com."
+          },
+          "summary": {
+            "title": "Resumen del pedido",
+            "periodLabel": "Período de membresía",
+            "paymentMethodLabel": "Método de pago",
+            "amountLabel": "Importe a pagar",
+            "submitLabel": "Aún no disponible",
+            "note": "El pago aún no está disponible. Los detalles del pedido a continuación son para confirmar su plan.",
+            "unavailablePaymentMethod": "Aún no disponible",
+            "fallbackProductName": "Ningún plan seleccionado",
+            "fallbackProductDescription": "Vuelva a la página de inicio y seleccione un plan de membresía.",
+            "periodMonth": "1 mes",
+            "periodYear": "1 año",
+            "periodLife": "Vitalicio",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "Pago de suscripción",
+            "description": "Página de pago de suscripción de VicastCam."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "Plan mensual",
+              "description": "Obtenga un mes completo de acceso tras la activación. Una forma económica de probarlo."
+            },
+            {
+              "type": "year",
+              "name": "Plan anual",
+              "description": "Obtenga un año completo de acceso tras la activación. Ideal para un uso estable a largo plazo."
+            },
+            {
+              "type": "life",
+              "name": "Plan vitalicio",
+              "description": "Actívelo una vez y úselo a largo plazo. Disfrute de los beneficios de la membresía de forma continua."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "es",
+        "multi_platform_section": {
+          "tag": "Compatibilidad multiplataforma",
+          "title_main": "Alcanza las principales plataformas de streaming del mundo",
+          "title_highlight": "Llega a una audiencia global con un solo clic",
+          "description": "Conéctese a fuentes de tráfico globales y cree un nuevo ecosistema de streaming transfronterizo."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Centro de cuenta",
+            "description": "Página del centro de cuenta de VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Navegación del centro de cuenta",
+            "defaultProfileName": "Usuario",
+            "emptyContent": "Sin contenido",
+            "copyButtonLabel": "Copiar",
+            "monthSelectLabel": "Seleccionar mes",
+            "yearSuffix": "año",
+            "monthSuffix": "mes",
+            "userMissing": "No se encontró la información del usuario. Vuelva a iniciar sesión.",
+            "paginationLabel": "Paginación",
+            "previousPageLabel": "Página anterior",
+            "nextPageLabel": "Página siguiente",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Ir a",
+              "unit": "página",
+              "ariaLabel": "Ir a una página específica",
+              "buttonLabel": "Ir"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Centro de cuenta",
+            "logout": "Cerrar sesión",
+            "profileAriaSuffix": "Menú del centro de cuenta"
+          },
+          "sidebar": {
+            "ariaLabel": "Navegación del centro de cuenta",
+            "menus": {
+              "account": "Información de cuenta",
+              "membership": "Membresía",
+              "redeem": "Canjear código",
+              "purchaseHistory": "Historial de compras",
+              "team": "Mi equipo",
+              "earnings": "Ganancias"
+            }
+          },
+          "account": {
+            "ariaLabel": "Información de cuenta",
+            "profileTitle": "Información de cuenta",
+            "usernameLabel": "Nombre de usuario",
+            "passwordLabel": "Contraseña",
+            "passwordMask": "********",
+            "defaultUsername": "Sin apodo",
+            "inviteTitle": "Enlace de invitación",
+            "inviteDescription": "Copie su enlace de invitación personal. Cuando sus amigos se registren y activen una membresía, usted obtendrá recompensas.",
+            "emptyInviteLink": "Aún no tiene enlace de invitación"
+          },
+          "membership": {
+            "ariaLabel": "Membresía",
+            "title": "Mi membresía",
+            "badgeAlt": "Insignia de membresía",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Usuario gratuito",
+            "activeVipName": "Miembro VIP",
+            "expirePrefix": "Caduca",
+            "emptyExpireDate": "No activada",
+            "activeStatus": "Activa",
+            "inactiveStatus": "No activada",
+            "compareTitle": "Comparar beneficios de membresía",
+            "compareHeaders": {
+              "feature": "Característica",
+              "normal": "Gratis",
+              "month": "Mensual",
+              "year": "Anual",
+              "life": "Vitalicio"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Membresía mensual",
+                "subtitle": "Ideal para uso a corto plazo",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/mes",
+                "cta": "Empezar",
+                "benefits": [
+                  "Funciones principales de cámara virtual",
+                  "Fondos virtuales y embellecimiento",
+                  "Compatibilidad con streaming multiplataforma",
+                  "Actualizaciones estándar"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Membresía anual",
+                "subtitle": "Mejor valor para uso a largo plazo",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/año",
+                "cta": "Empezar",
+                "benefits": [
+                  "Todos los beneficios mensuales",
+                  "Todas las funciones avanzadas durante un año",
+                  "Actualizaciones prioritarias de funciones",
+                  "Soporte dedicado para miembros"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Membresía vitalicia",
+                "subtitle": "Pague una vez, úsela a largo plazo",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/vitalicio",
+                "cta": "Empezar",
+                "benefits": [
+                  "Todos los beneficios anuales",
+                  "Funciones avanzadas para siempre",
+                  "Actualizaciones a largo plazo",
+                  "Canal de soporte dedicado"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Duración de la membresía",
+                "normal": "Gratis para siempre",
+                "month": "30 días",
+                "year": "365 días",
+                "life": "Vitalicio"
+              },
+              {
+                "feature": "Cámara virtual de escritorio",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Fondos virtuales personalizados",
+                "normal": "Un juego",
+                "month": "Ilimitados",
+                "year": "Ilimitados",
+                "life": "Ilimitados"
+              },
+              {
+                "feature": "Ajustes preestablecidos de streaming",
+                "normal": "No",
+                "month": "Ilimitados",
+                "year": "Ilimitados",
+                "life": "Ilimitados"
+              },
+              {
+                "feature": "Recursos del sitio web oficial",
+                "normal": "Limitados",
+                "month": "Ilimitados",
+                "year": "Ilimitados",
+                "life": "Ilimitados"
+              },
+              {
+                "feature": "Control remoto mediante controlador",
+                "normal": "Sí",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Modo de comparación de escenas en vivo",
+                "normal": "Sí",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Subtítulos de escena",
+                "normal": "Limitados",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Música de escena",
+                "normal": "Limitada",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Entrada de múltiples cámaras",
+                "normal": "No",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Filtros de belleza avanzados",
+                "normal": "Básicos",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Recorte de pantalla verde con IA",
+                "normal": "Sí",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Animaciones dinámicas de estela de movimiento",
+                "normal": "Limitadas",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Efectos de movimiento de cámara en escena",
+                "normal": "Limitados",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Biblioteca de efectos VIP",
+                "normal": "Limitada",
+                "month": "Ilimitada",
+                "year": "Ilimitada",
+                "life": "Ilimitada"
+              },
+              {
+                "feature": "Streaming a plataformas",
+                "normal": "Sí",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Salida 4K UHD",
+                "normal": "No",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              },
+              {
+                "feature": "Comisión por promoción",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Recompensas por referidos",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Canal de soporte",
+                "normal": "Autoservicio comunitario",
+                "month": "Cola estándar",
+                "year": "Respuesta prioritaria",
+                "life": "Soporte dedicado"
+              },
+              {
+                "feature": "Acceso anticipado a nuevas funciones",
+                "normal": "No",
+                "month": "Sí",
+                "year": "Sí",
+                "life": "Sí"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Canjear código",
+            "title": "Canjear código",
+            "tip": "Introduzca su código de canje de membresía. Sus beneficios se activarán inmediatamente después del canje.",
+            "placeholder": "Introduzca el código de canje",
+            "submitButton": "Canjear",
+            "agreementPrefix": "Al canjear, acepta el",
+            "userProtocolText": "Acuerdo de usuario",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "El canje falló. Compruebe el código e inténtelo de nuevo."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Historial de compras",
+            "title": "Historial de compras",
+            "tabTitle": "Compras",
+            "exchangeTabTitle": "Canjes",
+            "tableHeaders": {
+              "title": "Tipo",
+              "date": "Fecha de pago",
+              "price": "Importe",
+              "paymentMethod": "Método de pago",
+              "status": "Estado",
+              "exchangeDate": "Fecha de canje",
+              "exchangeCode": "Código de canje"
+            },
+            "exchangeTableHeaders": {
+              "date": "Fecha de canje",
+              "code": "Código de canje"
+            },
+            "cardTypes": {
+              "month": "Plan mensual",
+              "year": "Plan anual",
+              "life": "Plan vitalicio",
+              "default": "Membresía"
+            },
+            "orderStatuses": {
+              "pending": "Pendiente",
+              "paid": "Pagado",
+              "closed": "Cerrado",
+              "refunded": "Reembolsado",
+              "unknown": "Desconocido"
+            },
+            "secretLabels": {
+              "show": "Mostrar contraseña",
+              "hide": "Ocultar contraseña"
+            },
+            "secretMask": "******",
+            "emptyText": "Sin historial de compras",
+            "exchangeEmptyText": "Sin historial de canjes",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Tarjeta bancaria",
+              "creditcard": "Tarjeta de crédito",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Criptomoneda",
+              "balance": "Saldo",
+              "free": "Gratis"
+            }
+          },
+          "team": {
+            "ariaLabel": "Mi equipo",
+            "title": "Mi equipo",
+            "referrerLabel": "Mi referente",
+            "levelOne": "Miembros de nivel 1",
+            "levelTwo": "Miembros de nivel 2",
+            "tableHeaders": {
+              "name": "Nombre del miembro",
+              "status": "Estado de membresía",
+              "joinedAt": "Fecha de alta"
+            },
+            "memberStatus": {
+              "free": "Usuario gratuito",
+              "vip": "Usuario VIP"
+            },
+            "emptyMemberName": "Usuario sin nombre",
+            "emptyReferrer": "Sin referente",
+            "emptyTeam": "Aún no hay miembros en el equipo",
+            "errors": {
+              "loadFail": "No se pudieron cargar los miembros del equipo. Inténtelo de nuevo más tarde."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Ganancias",
+            "title": "Resumen de ganancias",
+            "commissionTitle": "Detalles de comisión",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Ganancias totales",
+                "desc": "Comisión total ganada hasta la fecha"
+              },
+              {
+                "key": "month",
+                "title": "Este mes",
+                "desc": "Comisión ganada este mes"
+              },
+              {
+                "key": "settling",
+                "title": "Pendiente de liquidación",
+                "value": "0.00",
+                "desc": "Importe pendiente de liquidación"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Disponible para retirar",
+                "desc": "Importe actualmente disponible para retirar",
+                "action": "Retirar"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Nombre de usuario",
+              "saleTime": "Fecha de venta",
+              "goodsInfo": "Producto",
+              "commission": "Comisión"
+            },
+            "emptyCommission": "Sin registros de comisión",
+            "errors": {
+              "loadFail": "No se pudieron cargar los detalles de comisión. Inténtelo de nuevo más tarde."
+            },
+            "withdraw": {
+              "ariaLabel": "Solicitud de retiro",
+              "title": "Solicitud de retiro",
+              "closeLabel": "Cerrar diálogo de retiro",
+              "balanceLabel": "Saldo retirable",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Cantidad a retirar",
+              "amountPlaceholder": "Introduzca la cantidad a retirar",
+              "allButton": "Todo",
+              "allAmountValue": "0.00",
+              "amountTip": "Confirme que la cantidad es correcta. Su solicitud será revisada manualmente después del envío.",
+              "methodLabel": "Método de retiro",
+              "methods": [
+                "Tarjeta bancaria",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Tarjeta bancaria",
+              "nameLabel": "Nombre del beneficiario",
+              "namePlaceholder": "Introduzca el nombre del beneficiario",
+              "defaultName": "",
+              "bankCardLabel": "Número de cuenta",
+              "bankCardPlaceholder": "Introduzca el número de tarjeta bancaria, correo de PayPal o dirección de monedero",
+              "remarkLabel": "Nota",
+              "remarkPlaceholder": "Información adicional opcional",
+              "note": "Las solicitudes de retiro se procesan en 1-3 días hábiles.",
+              "cancelButton": "Cancelar",
+              "submitButton": "Enviar solicitud"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Canje realizado con éxito",
+            "operationFailed": "El canje ha fallado",
+            "invalidCard": "Código de canje no válido",
+            "cardNotFound": "Código de canje no encontrado",
+            "cardDisabled": "Código de canje deshabilitado",
+            "cardExpired": "Código de canje caducado"
+          },
+          "successMessage": "Operación realizada con éxito"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.abouts[0].about_box.hero.titleMain",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider rephrasing to avoid ambiguity: 'Đội ngũ đứng sau công nghệ màn hình xanh và truyền màn hình di động' could be misread as 'the team behind the technology of mobile green screen and screen casting'. Suggest: 'Đội ngũ phát triển công nghệ màn hình xanh và truyền màn hình trên di động'."
+    },
+    {
+      "path": "$.abouts[0].about_box.innovation.stats[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Quốc gia và vùng lãnh thổ' is acceptable but more natural in Vietnamese is 'Quốc gia và vùng lãnh thổ' (already correct). No change needed."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[0].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'lặp lại' is a literal translation of 'iterating'; in Vietnamese tech context, use 'cải tiến liên tục' or 'lặp' is acceptable but 'lặp lại' sounds repetitive. Suggest: 'liên tục cải tiến và tối ưu thuật toán...'"
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[1].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Tự phát triển trình điều khiển camera ảo phổ quát' – 'phổ quát' is a literal translation of 'universal'; in Vietnamese tech, 'đa năng' or 'phổ biến' is more natural. Suggest: 'trình điều khiển camera ảo đa năng'."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[2].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'điều khiển người kỹ thuật số' is a literal translation of 'digital human driving'; in Vietnamese, 'điều khiển người ảo' or 'nhân vật kỹ thuật số' is more natural. Suggest: 'điều khiển nhân vật ảo'."
+    },
+    {
+      "path": "$.abouts[0].about_box.roadmap.items[3].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'phát trực tiếp nước ngoài' is ambiguous; 'phát trực tiếp ra nước ngoài' or 'phát trực tiếp quốc tế' is clearer. Suggest: 'Mở rộng toàn diện sang phát trực tiếp quốc tế'."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.platform.items[0].qrDescription",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Dùng điện thoại quét và tải xuống' – missing object; suggest 'Dùng điện thoại quét mã để tải xuống'."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.platform.items[1].qrDescription",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Dùng điện thoại quét và tải phiên bản iOS' – missing object; suggest 'Dùng điện thoại quét mã để tải phiên bản iOS'."
+    },
+    {
+      "path": "$.downloads[0].data.downloadBox.reasons.items[3].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'Video hướng dẫn chi tiết và hướng dẫn tính năng' – repetition of 'hướng dẫn'; suggest 'Video hướng dẫn chi tiết và giới thiệu tính năng'."
+    }
+  ],
+  "revisedContent": {
+    "abouts": [
+      {
+        "about_box": {
+          "hero": {
+            "eyebrow": "Về VicastCam",
+            "titleMain": "Đội ngũ phát triển công nghệ màn hình xanh và truyền màn hình trên di động",
+            "titleHighlight": "",
+            "description": "Chúng tôi tập trung vào công nghệ hình ảnh di động, camera ảo, cộng tác truyền màn hình và kết nối phát trực tiếp đa nền tảng, giúp nhà sáng tạo, giáo viên và doanh nghiệp biến điện thoại thành công cụ phát trực tiếp chuyên nghiệp, ổn định, rõ nét và dễ dàng tích hợp.",
+            "primaryButtonText": "Liên hệ bán hàng",
+            "secondaryButtonText": "Xem SDK"
+          },
+          "innovation": {
+            "sectionTag": "Thế mạnh cốt lõi",
+            "titleMain": "Tập trung vào đổi mới",
+            "titleHighlight": "Dẫn dắt tương lai phát trực tiếp",
+            "description": "Từ công cụ di động đến năng lực nền tảng, VicastCam đang mở rộng trên nhiều thiết bị, nền tảng và bối cảnh phát trực tiếp hơn.",
+            "featureTag": "Năng lực cốt lõi",
+            "featureTitle": "Phát trực tiếp toàn cầu, được ngành tin dùng",
+            "featureDescription": "Chúng tôi liên tục hoàn thiện trải nghiệm sản phẩm xoay quanh phát trực tiếp di động, hình ảnh ảo, cộng tác truyền màn hình và kết nối đa nền tảng, phát triển công cụ phát trực tiếp từ các khả năng đơn lẻ thành quy trình ổn định, có thể tích hợp.",
+            "stats": [
+              {
+                "value": "150+",
+                "label": "Quốc gia và vùng lãnh thổ",
+                "text": "Phục vụ nhà sáng tạo và đội nhóm trên toàn thế giới"
+              },
+              {
+                "value": "2000+",
+                "label": "Nền tảng tương thích",
+                "text": "Bao phủ các bối cảnh phát trực tiếp, họp và nội dung chính"
+              },
+              {
+                "value": "500000+",
+                "label": "Tổng lượt sử dụng",
+                "text": "Liên tục được kiểm chứng về độ ổn định và dễ sử dụng"
+              },
+              {
+                "value": "99.9%",
+                "label": "Thời gian hoạt động",
+                "text": "Đảm bảo quy trình phát trực tiếp đáng tin cậy"
+              }
+            ]
+          },
+          "roadmap": {
+            "sectionTag": "Lộ trình",
+            "titleMain": "Không ngừng phát triển",
+            "titleHighlight": "Xoay quanh hệ sinh thái phát trực tiếp toàn cầu",
+            "description": "Từ công cụ phát trực tiếp đến năng lực nền tảng, VicastCam đang mở rộng trên nhiều thiết bị, nền tảng và bối cảnh phát trực tiếp hơn.",
+            "items": [
+              {
+                "year": "2023",
+                "title": "Tăng cường tập trung di động và hoàn thiện hiệu ứng màn hình xanh cốt lõi",
+                "text": "Tập trung vào các khả năng nền tảng của phát trực tiếp ảo di động, liên tục cải tiến và tối ưu thuật toán tách nền màn hình xanh để giải quyết các vấn đề như méo viền, khả năng thích ứng ánh sáng kém và độ trễ khi có nhiều lớp phủ. Hoàn thiện bộ hiệu ứng ảo đầy đủ bao gồm nhãn dán, thay nền và che khuất tiền cảnh, thiết lập nền tảng phát trực tiếp ảo di động nhẹ. Chỉ với một chiếc điện thoại, nhà sáng tạo có thể đạt được phát trực tiếp màn hình xanh chuyên nghiệp."
+              },
+              {
+                "year": "2024",
+                "title": "Kết nối truyền màn hình, phát triển công nghệ camera ảo cốt lõi",
+                "text": "Mở rộng kết nối giữa các thiết bị, tập trung vào truyền màn hình điện thoại độ nét cao và truyền tải đồng bộ giữa các thiết bị. Tự phát triển trình điều khiển camera ảo đa năng để thu và xuất tín hiệu trên toàn phần mềm, cho phép tương thích với phần mềm phát trực tiếp, công cụ chỉnh sửa và cuộc họp trực tuyến. Thu hẹp khoảng cách giữa di động và máy tính để bàn, cho phép truyền nội dung điện thoại lên PC chỉ bằng một chạm và nhiều vị trí camera ảo đầu ra, làm phong phú quá trình sản xuất phát trực tiếp."
+              },
+              {
+                "year": "2025",
+                "title": "Ra mắt trợ lý phát trực tiếp 3D chuyên nghiệp cho PC",
+                "text": "Cung cấp dòng sản phẩm phát trực tiếp chuyên nghiệp trên máy tính để bàn với trợ lý phát trực tiếp ảo 3D hoàn chỉnh. Được trang bị cảnh 3D ảo, điều khiển nhân vật ảo, chuyển đổi nhiều camera và kết xuất ánh sáng thời gian thực, phục vụ phát trực tiếp thương mại, thuyết trình ảo trong phòng trưng bày và phát trực tiếp thương mại điện tử trên màn hình lớn. Tăng cường tổng hợp nhiều lớp, phụ đề thời gian thực và thành phần tương tác để đáp ứng nhu cầu của các đội nhóm thực hiện phát trực tiếp chuyên nghiệp quy mô lớn, chất lượng cao."
+              },
+              {
+                "year": "2026",
+                "title": "Mở rộng toàn cầu, xây dựng hệ sinh thái phát trực tiếp hoàn chỉnh",
+                "text": "Mở rộng toàn diện sang phát trực tiếp quốc tế, thích ứng với các nền tảng lớn ở nước ngoài để phát trực tiếp, truyền tải độ trễ thấp qua mạng quốc tế và bản địa hóa đa ngôn ngữ. Tích hợp ba sản phẩm cốt lõi từ các năm trước: màn hình xanh di động, camera ảo truyền màn hình và phát trực tiếp 3D trên PC, kết nối ba mảng kinh doanh: nhà sáng tạo cá nhân, sử dụng thương mại doanh nghiệp và tích hợp SDK cho nhà phát triển. Hợp nhất phần cứng, phần mềm, đa thiết bị đầu cuối và dịch vụ trong nước và quốc tế, hoàn thiện hệ sinh thái phát trực tiếp toàn chuỗi từ sản xuất, tương tác giữa các thiết bị đến phân phối toàn cầu."
+              }
+            ]
+          },
+          "social": {
+            "sectionTag": "Theo dõi chúng tôi",
+            "titleMain": "Liên hệ với chúng tôi",
+            "titleHighlight": "và định hình tương lai phát trực tiếp",
+            "description": "Theo dõi cập nhật sản phẩm, mẹo phát trực tiếp và tin tức khác của chúng tôi",
+            "items": [
+              {
+                "key": "youtube-1",
+                "title": "YouTube",
+                "description": "Tài khoản YouTube",
+                "href": "https://www.youtube.com/"
+              },
+              {
+                "key": "youtube-2",
+                "title": "YouTube",
+                "description": "Tài khoản YouTube",
+                "href": "https://www.youtube.com/"
+              },
+              {
+                "key": "youtube-3",
+                "title": "YouTube",
+                "description": "Tài khoản YouTube",
+                "href": "https://www.youtube.com/"
+              },
+              {
+                "key": "youtube-4",
+                "title": "YouTube",
+                "description": "Tài khoản YouTube",
+                "href": "https://www.youtube.com/"
+              },
+              {
+                "key": "youtube-5",
+                "title": "YouTube",
+                "description": "Tài khoản YouTube",
+                "href": "https://www.youtube.com/"
+              }
+            ]
+          },
+          "seo": {
+            "title": "Về chúng tôi",
+            "description": "Tìm hiểu về đội ngũ VicastCam, sứ mệnh sản phẩm và các khả năng trong camera ảo, tăng cường phát trực tiếp bằng AI và phát sóng đa nền tảng."
+          }
+        }
+      }
+    ],
+    "downloads": [
+      {
+        "data": {
+          "downloadBox": {
+            "hero": {
+              "eyebrow": "Trung tâm tải xuống",
+              "title": "Tải VicastCam"
+            },
+            "platform": {
+              "title": "Chọn nền tảng của bạn",
+              "description": "VicastCam hỗ trợ Windows, iOS và Android. Bắt đầu phát trực tiếp chuyên nghiệp.",
+              "versionLabel": "Phiên bản",
+              "updatedAtLabel": "Cập nhật",
+              "sizeLabel": "Kích thước gói",
+              "downloadAriaSuffix": "Tải xuống",
+              "closeQrAriaPrefix": "Đóng",
+              "closeQrAriaSuffix": "Mã QR tải xuống",
+              "items": [
+                {
+                  "key": "android",
+                  "name": "Android",
+                  "subtitle": "Android 8.0+",
+                  "version": "v3.2.0",
+                  "updatedAt": "2026-05-13",
+                  "size": "115MB",
+                  "system": "Hỗ trợ Android 8.0 trở lên",
+                  "actionLabel": "Tải ngay",
+                  "qrTitle": "Quét để tải phiên bản Android",
+                  "qrDescription": "Dùng điện thoại quét mã để tải xuống"
+                },
+                {
+                  "key": "ios",
+                  "name": "iOS",
+                  "subtitle": "iPhone / iPad",
+                  "version": "v3.2.0",
+                  "updatedAt": "2026-05-13",
+                  "size": "115MB",
+                  "system": "Hỗ trợ iOS 13.0 trở lên",
+                  "actionLabel": "App Store",
+                  "qrTitle": "Quét để đến App Store",
+                  "qrDescription": "Dùng điện thoại quét mã để tải phiên bản iOS"
+                },
+                {
+                  "key": "windows",
+                  "name": "Windows",
+                  "subtitle": "Windows 10/11 64-bit",
+                  "version": "v3.2.0",
+                  "updatedAt": "2026-05-13",
+                  "size": "115MB",
+                  "system": "Tương thích Windows 10 trở lên",
+                  "actionLabel": "Tải ngay",
+                  "qrTitle": "",
+                  "qrDescription": ""
+                }
+              ]
+            },
+            "reasons": {
+              "title": "Vì sao chọn VicastCam",
+              "items": [
+                {
+                  "key": "secure",
+                  "title": "An toàn và đáng tin cậy",
+                  "text": "Nhiều cơ chế bảo mật bảo vệ dữ liệu và tài khoản của bạn."
+                },
+                {
+                  "key": "updates",
+                  "title": "Cập nhật liên tục",
+                  "text": "Chúng tôi không ngừng cải thiện sản phẩm để mang lại trải nghiệm ổn định hơn."
+                },
+                {
+                  "key": "support",
+                  "title": "Hỗ trợ chuyên nghiệp",
+                  "text": "Hỗ trợ kỹ thuật 24/7 với phản hồi nhanh chóng cho các vấn đề của bạn."
+                },
+                {
+                  "key": "tutorial",
+                  "title": "Video hướng dẫn",
+                  "text": "Video hướng dẫn chi tiết và giới thiệu tính năng giúp bạn bắt đầu nhanh chóng."
+                }
+              ]
+            },
+            "seo": {
+              "title": "Trung tâm tải xuống",
+              "description": "Tải ứng dụng VicastCam cho Windows, iOS và Android."
+            }
+          }
+        }
+      }
+    ]
+  }
+}

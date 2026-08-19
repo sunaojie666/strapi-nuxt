@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "اکاؤنٹ سینٹر",
+    "description": "VicastCam اکاؤنٹ سینٹر کا صفحہ"
+  },
+  "common": {
+    "sidebarAriaLabel": "اکاؤنٹ نیویگیشن",
+    "defaultProfileName": "صارف",
+    "emptyContent": "کوئی مواد نہیں",
+    "copyButtonLabel": "کاپی کریں",
+    "monthSelectLabel": "مہینہ منتخب کریں",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "صارف کی معلومات نہیں ملی۔ براہ کرم دوبارہ لاگ ان کریں۔",
+    "paginationLabel": "صفحہ بندی",
+    "previousPageLabel": "پچھلا صفحہ",
+    "nextPageLabel": "اگلا صفحہ",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "جائیں",
+      "unit": "صفحہ",
+      "ariaLabel": "مخصوص صفحہ پر جائیں",
+      "buttonLabel": "جائیں"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "اکاؤنٹ سینٹر",
+    "logout": "لاگ آؤٹ",
+    "profileAriaSuffix": "اکاؤنٹ مینو"
+  },
+  "sidebar": {
+    "ariaLabel": "اکاؤنٹ نیویگیشن",
+    "menus": {
+      "account": "اکاؤنٹ کی معلومات",
+      "membership": "ممبرشپ",
+      "redeem": "ریڈیم کوڈ",
+      "purchaseHistory": "خریداری کی تاریخ",
+      "team": "میری ٹیم",
+      "earnings": "آمدنی"
+    }
+  },
+  "account": {
+    "ariaLabel": "اکاؤنٹ کی معلومات",
+    "profileTitle": "اکاؤنٹ کی معلومات",
+    "usernameLabel": "صارف نام",
+    "passwordLabel": "پاس ورڈ",
+    "passwordMask": "********",
+    "defaultUsername": "کوئی عرفی نام مقرر نہیں",
+    "emailLabel": "منسلک ای میل",
+    "emailPlaceholder": "اپنا ای میل درج کریں",
+    "codePlaceholder": "تصدیقی کوڈ درج کریں",
+    "sendCodeButton": "کوڈ حاصل کریں",
+    "bindButton": "ای میل لنک کریں",
+    "alreadyBound": "لنک شدہ",
+    "unboundEmail": "لنک نہیں",
+    "emailBindTip": "ایک بار لنک کرنے کے بعد، ای میل تبدیل نہیں کی جا سکتی۔ براہ کرم تصدیق کریں کہ ای میل درست ہے۔",
+    "emailRequired": "براہ کرم درست ای میل درج کریں",
+    "codeRequired": "براہ کرم تصدیقی کوڈ درج کریں",
+    "codeSent": "تصدیقی کوڈ بھیج دیا گیا ہے۔ اپنا ای میل چیک کریں۔",
+    "bindSuccess": "ای میل کامیابی سے لنک ہو گیا",
+    "bindFailed": "ای میل لنک کرنے میں ناکامی۔ کوڈ چیک کر کے دوبارہ کوشش کریں۔",
+    "requestFailed": "درخواست ناکام ہوئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
+    "inviteTitle": "دعوتی لنک",
+    "inviteDescription": "اپنا ذاتی دعوتی لنک کاپی کریں۔ جب دوست رجسٹر ہوں اور ممبرشپ خریدیں، تو آپ کو انعامات ملیں گے۔",
+    "emptyInviteLink": "کوئی دعوتی لنک دستیاب نہیں"
+  }
+}

@@ -3,9 +3,10 @@
   "instructions": "Extend this file before a production translation run. A source term maps to one approved English term. Never create a new term without review.",
   "terms": [
     { "source": "VicastCam", "en": "VicastCam", "translate": false, "notes": "Brand name" },
+    { "source": "\u7ef4\u5361\u65af\u7279", "en": "VicastCam", "translate": true, "notes": "Chinese brand name" },
     { "source": "SDK", "en": "SDK", "translate": false, "notes": "Technical acronym" },
     { "source": "API", "en": "API", "translate": false, "notes": "Technical acronym" },
-    { "source": "AI", "en": "AI", "translate": false, "notes": "Technical acronym" },
+    { "source": "AI", "en": "AI", "translate": true, "notes": "Use AI in English; downstream locales may use the locally established equivalent" },
     { "source": "\u6295\u5c4f", "en": "screen casting", "translate": true, "notes": "Confirm this is distinct from screen mirroring before production use" },
     { "source": "\u865a\u62df\u6444\u50cf\u5934", "en": "virtual camera", "translate": true, "notes": "Product feature" },
     { "source": "AI \u62a0\u50cf", "en": "AI matting", "translate": true, "notes": "Product feature" },

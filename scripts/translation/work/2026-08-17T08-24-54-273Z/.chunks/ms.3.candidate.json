@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Apakah dimensi yang disyorkan untuk aset strim langsung?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensi yang disyorkan untuk aset strim langsung:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Untuk imej latar belakang strim langsung, kami mengesyorkan 1080 x 1920 piksel; untuk video, kami juga mengesyorkan 1080 x 1920 piksel.",
+            "Penting: Overlay skrin penuh mesti menggunakan nisbah aspek 9:16 untuk memastikan peralihan lancar antara mod skrin penuh dan 9:16 tanpa ketidaksejajaran, mencapai kesan padanan yang sempurna."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Apakah mod output yang disokong untuk penstriman?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Penstriman menyokong dua mod output: penstriman 9:16 dan penstriman skrin penuh. Ikuti langkah berikut untuk memilih satu pada peranti Android anda:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, pergi ke halaman penstriman langsung, dan ketik ikon menu di sebelah kanan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Entri menu di sebelah kanan halaman penstriman langsung Android",
+          "caption": "Langkah 1: Ketik ikon menu di sebelah kanan halaman penstriman langsung."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dalam Tetapan Lanjutan, cari 'Nisbah Aspek' dan pilih 'Skrin Penuh' atau '9:16' mengikut keperluan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Pilihan nisbah aspek dalam Tetapan Lanjutan pada Android",
+          "caption": "Langkah 2: Dalam 'Nisbah Aspek', pilih 'Skrin Penuh' atau '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Penjelasan dua mod"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Penstriman 9:16: Nisbah aspek output ditetapkan pada 9:16, jadi platform langsung menerima imej 9:16.",
+            "Penstriman skrin penuh: Menstrim keseluruhan skrin telefon seperti asal, mengekalkan kandungan asli tanpa pemotongan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Bagaimana saya memadamkan akaun saya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Sila log masuk ke aplikasi VicastCam, kemudian pergi ke [Akaun - ikon kanan atas - Pengurusan Akaun - Padam Akaun - Hantar Permintaan Pemadaman]."
+        },
+        {
+          "type": "heading",
+          "text": "Maklumat akaun"
+        },
+        {
+          "type": "paragraph",
+          "text": "Selepas pemadaman akaun, kami akan memadamkan secara kekal e-mel yang dipautkan, rekod peranti, dan maklumat identiti lain, serta menarik balik kebenaran log masuk pihak ketiga anda melalui akaun Google dan Apple. Selepas penarikan balik, anda tidak akan dapat menggunakan akaun pihak ketiga tersebut untuk log masuk pantas; untuk menggunakan aplikasi semula, anda perlu memberi kebenaran semula dan memautkan semula."
+        },
+        {
+          "type": "heading",
+          "text": "Kandungan dan aset"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Semua aset strim langsung, video, imej, dan fail projek disimpan hanya pada peranti anda; awan tidak menyimpan sebarang aset kreatif. Selepas pemadaman, ciri pengurusan aset dalam aplikasi tidak akan berfungsi lagi, jadi sila sandarkan aset anda terlebih dahulu melalui 'Eksport Aset'.",
+            "Jika anda menyahpasang dan memasang semula, menukar peranti, atau gagal mengeksport sandaran terlebih dahulu, aset anda akan hilang secara kekal dan tidak dapat dipulihkan."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Faedah keahlian"
+        },
+        {
+          "type": "paragraph",
+          "text": "Selepas pemadaman akaun, faedah keahlian anda akan ditamatkan serta-merta. Jika anda mempunyai langganan Google Play yang aktif, memadamkan akaun aplikasi anda tidak akan membatalkan langganan secara automatik, dan anda mungkin akan terus dicaj. Sila pergi ke 'Pembayaran & langganan - Langganan' di Google Play untuk membatalkan secara manual."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jika anda mempunyai sebarang soalan, sila hubungi pasukan sokongan pelanggan kami."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Mengapa saya tidak boleh mengakses foto dan video telefon saya semasa menambahnya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika album foto anda kelihatan kosong semasa menambah aset, anda boleh membolehkan kebenaran akses foto seperti berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Buka Tetapan telefon anda, tatal ke bawah untuk mencari VicastCam, ketik [Foto - Semua Foto] untuk membolehkan akses.",
+            "Android: Buka Tetapan telefon anda, cari VicastCam di bawah [Pengurusan Kebenaran] atau [Pengurusan Aplikasi], kemudian ketik [Pengurusan Kebenaran - Foto - Semua Foto] untuk membolehkan akses.",
+            "Jika isu berterusan, cuba nyahpasang dan pasang semula aplikasi, atau hubungi sokongan dalam talian melalui ciri maklum balas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Apa yang perlu saya lakukan jika skrin tidak dipaparkan sepenuhnya semasa menstrim dari komputer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika skrin kelihatan tidak lengkap semasa menstrim dari telefon anda melalui aplikasi rakan penstriman langsung atau perisian lain, ikuti langkah berikut untuk menyesuaikan:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, ketik ikon kamera di bahagian bawah untuk memasuki halaman penstriman langsung, kemudian pergi ke [Menu sebelah kanan - Tetapan Lanjutan - Nisbah Aspek - 9:16].",
+            "Selepas menayangkan ke rakan penstriman langsung, mula-mula padankan skrin ke kanvas, kemudian seret secara menegak untuk memenuhi skrin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: Sebelum memulakan strim anda, laraskan nisbah aspek terlebih dahulu, kemudian tambah aset anda."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Apa yang perlu saya lakukan jika permintaan rangkaian gagal?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika anda menghadapi kegagalan permintaan rangkaian, cuba perkara berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka Tetapan telefon anda, pergi ke [Pengurusan Kebenaran - VicastCam - Data Mudah Alih dan Wi-Fi] dan dayakan akses rangkaian.",
+            "Matikan mod penjimatan kuasa dan sebarang sekatan latar belakang pada telefon anda.",
+            "Tukar rangkaian, mulakan semula telefon anda, togol mod kapal terbang, atau kemas kini aplikasi ke versi terkini.",
+            "Jika isu berterusan, ambil tangkapan skrin ralat dan hubungi sokongan pelanggan untuk bantuan."
+          ]
+        }
+      ]
+    }
+  ]
+}

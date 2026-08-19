@@ -1,0 +1,27 @@
+{
+  "__chunk": [
+    {
+      "id": "android-huawei-disconnect",
+      "title": "What should I do if my Huawei phone keeps disconnecting from multi-camera or virtual keyboard?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If you experience disconnections with multi-camera or virtual keyboard on Huawei phones, follow these steps:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Go to your phone's Settings.",
+            "In the search bar at the top, type 'App launch management'.",
+            "Go to the App launch management page and scroll down to find VicastCam.",
+            "Turn off the toggle on the right (icon turns gray), and in the popup, enable all three options (they turn blue)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can also refer to the video tutorial 'How to prevent disconnections with multi-camera and virtual keyboard on Huawei phones'."
+        }
+      ]
+    }
+  ]
+}

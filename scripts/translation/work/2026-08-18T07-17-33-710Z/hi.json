@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "भुगतान विधि चुनें",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "अपने PayPal बैलेंस, बैंक कार्ड या क्रेडिट कार्ड से भुगतान करें",
+            "secureBadge": "सुरक्षित भुगतान",
+            "methodLabel": "भुगतान विधि",
+            "accountLabel": "वर्तमान खाता",
+            "signInRequired": "खरीदारी जारी रखने के लिए कृपया साइन इन करें",
+            "signInAction": "साइन इन करें",
+            "summaryHint": "अपना भुगतान पूरा करने के लिए PayPal बटन पर क्लिक करें",
+            "trustItems": [
+              "भुगतान PayPal द्वारा सुरक्षित रूप से संसाधित किए जाते हैं",
+              "PayPal बैलेंस, बैंक कार्ड और क्रेडिट कार्ड का समर्थन करता है",
+              "सफल भुगतान के बाद सदस्यता लाभ स्वचालित रूप से सक्रिय हो जाते हैं"
+            ],
+            "buttonPay": "PayPal से भुगतान करें",
+            "buttonPending": "ऑर्डर लंबित",
+            "buttonCreating": "ऑर्डर बन रहा है...",
+            "sdkLoading": "PayPal लोड हो रहा है...",
+            "sdkError": "PayPal लोड करने में विफल। कृपया अपना नेटवर्क जांचें और पुनः प्रयास करें।",
+            "sdkIneligible": "इस वातावरण में PayPal भुगतान समर्थित नहीं है",
+            "sdkMissingConfig": "PayPal कॉन्फ़िगर नहीं है। कृपया व्यवस्थापक से संपर्क करें।",
+            "orderCreating": "भुगतान ऑर्डर बन रहा है...",
+            "orderCreateFailed": "ऑर्डर बनाने में विफल। कृपया पुनः प्रयास करें।",
+            "orderProcessing": "भुगतान परिणाम की पुष्टि अभी भी हो रही है। कृपया बाद में दोबारा जांचें।",
+            "orderSuccess": "भुगतान सफल। आपके सदस्यता लाभ सक्रिय कर दिए गए हैं।",
+            "orderFailed": "भुगतान सफल नहीं हुआ। कृपया पुनः प्रयास करें।",
+            "orderPending": "भुगतान पूरा नहीं हुआ है। कृपया भुगतान पूरा करें और दोबारा जांचें।",
+            "orderExpired": "भुगतान ऑर्डर समाप्त हो गया है। कृपया पुनः प्रयास करें।",
+            "statusQueryFailed": "भुगतान स्थिति जांचने में विफल। कृपया बाद में पुनः प्रयास करें।",
+            "invalidPlan": "चयनित योजना अमान्य है। कृपया वापस जाकर फिर से चुनें।",
+            "popupBlocked": "भुगतान विंडो आपके ब्राउज़र द्वारा अवरुद्ध कर दी गई थी। कृपया इस साइट के लिए पॉप-अप अनुमति दें और पुनः प्रयास करें।",
+            "popupOpened": "PayPal भुगतान विंडो खुल गई है। कृपया विंडो में भुगतान पूरा करें।",
+            "popupClosedChecking": "भुगतान विंडो बंद हो गई है। भुगतान परिणाम की पुष्टि हो रही है...",
+            "popupClosedFailed": "भुगतान विंडो बंद हो गई है, लेकिन ऑर्डर पूरा नहीं हुआ है। कृपया पुनः प्रयास करें।"
+          },
+          "summary": {
+            "title": "ऑर्डर सारांश",
+            "periodLabel": "सदस्यता अवधि",
+            "paymentMethodLabel": "भुगतान विधि",
+            "amountLabel": "देय राशि",
+            "paymentMethod": "PayPal ऑनलाइन भुगतान",
+            "note": "सफल भुगतान के बाद, सदस्यता लाभ स्वचालित रूप से आपके वर्तमान खाते में प्रदान कर दिए जाएंगे।",
+            "periodMonth": "1 माह",
+            "periodYear": "1 वर्ष",
+            "periodLife": "आजीवन",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "भुगतान परिणाम की पुष्टि हो रही है...",
+            "closeLabel": "बंद करें",
+            "iconAlt": "भुगतान परिणाम",
+            "titlePrefix": "भुगतान",
+            "successTitleHighlight": "सफल!",
+            "failureTitleHighlight": "विफल!",
+            "successDescription": "खरीदारी के लिए धन्यवाद। आपकी सदस्यता सक्रिय कर दी गई है।",
+            "failureDescription": "आपका भुगतान पूरा नहीं हो सका। कृपया पुनः प्रयास करें या कोई अन्य भुगतान विधि चुनें।",
+            "orderNumber": "ऑर्डर संख्या",
+            "membershipType": "सदस्यता प्रकार",
+            "expiry": "समाप्ति तिथि",
+            "orderStatus": "ऑर्डर स्थिति",
+            "successStatus": "भुगतान किया गया",
+            "failureStatus": "अवैतनिक",
+            "successPrimaryAction": "सदस्यता केंद्र में देखें",
+            "failurePrimaryAction": "भुगतान विधि बदलें",
+            "successSecondaryAction": "ठीक है",
+            "failureSecondaryAction": "पृष्ठ पर वापस जाएं",
+            "copyOrderNumber": "ऑर्डर संख्या कॉपी करें",
+            "copied": "कॉपी हो गया",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "खरीदारी की पुष्टि करें | VicastCam",
+            "description": "अपनी VicastCam सदस्यता योजना की पुष्टि करें और PayPal के माध्यम से भुगतान पूरा करें।"
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "मासिक सदस्यता",
+              "description": "मासिक आधार पर सभी VicastCam सदस्यता सुविधाओं का आनंद लें",
+              "period": "1 माह"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "वार्षिक सदस्यता",
+              "description": "पूरे वर्ष के लिए सभी VicastCam सदस्यता सुविधाओं का आनंद लें",
+              "period": "1 वर्ष"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "आजीवन सदस्यता",
+              "description": "एक बार खरीदें, VicastCam सदस्यता सुविधाओं तक दीर्घकालिक पहुंच प्राप्त करें",
+              "period": "आजीवन"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

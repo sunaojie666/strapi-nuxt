@@ -1,0 +1,146 @@
+{
+  "__chunk": [
+    {
+      "key": "ios",
+      "title": "iOS Eğitimleri",
+      "count": "6 soru",
+      "icon": "lucide:apple",
+      "questions": [
+        {
+          "id": "ios-media-size",
+          "title": "Canlı yayın için önerilen medya boyutları nelerdir?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Canlı yayın için önerilen medya boyutları:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Canlı yayın arka planları için 1080 x 1920 piksel görseller ve 1080 x 1920 piksel videolar öneriyoruz.",
+                "Önemli: Tam ekran katmanları, tam ekran ve 9:16 modları arasında geçiş yaparken mükemmel hizalanmaları için 9:16 en-boy oranını kullanmalıdır."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-delete-account",
+          "title": "Hesabımı nasıl silebilirim?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "VicastCam uygulamasına giriş yapın, ardından [Hesap - Sağ üst simge - Hesap Yönetimi - Hesabı Sil - Silme Talebi Gönder] bölümüne gidin."
+            },
+            {
+              "type": "heading",
+              "text": "Hesap Bilgileri"
+            },
+            {
+              "type": "paragraph",
+              "text": "Hesabınız silindiğinde, bağlı e-posta adresinizi, cihaz kayıtlarınızı ve diğer kimlik bilgilerinizi kalıcı olarak kaldıracağız. Ayrıca Google ve Apple üzerinden yapılan üçüncü taraf giriş yetkilerini de iptal edeceğiz. İptal sonrasında bu üçüncü taraf hesaplarla hızlı giriş yapamazsınız; tekrar kullanmak isterseniz yeniden yetkilendirme yapmanız gerekecektir."
+            },
+            {
+              "type": "heading",
+              "text": "İçerik ve Medya"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tüm canlı yayın medyaları, videolar, görseller ve proje dosyaları yalnızca cihazınızda saklanır. Platform, bulutta hiçbir yaratıcı içerik tutmaz. Silme işleminden sonra uygulamanın medya yönetimi özellikleri çalışmayacaktır; bu nedenle içeriğinizi önceden 'Medyayı Dışa Aktar' özelliğini kullanarak yedekleyin.",
+                "Önce yedek almadan uygulamayı kaldırıp yeniden kurarsanız veya cihaz değiştirirseniz, medyanız kalıcı olarak kurtarılamaz hale gelir."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Üyelik Avantajları"
+            },
+            {
+              "type": "paragraph",
+              "text": "Üyelik avantajlarınız, hesap silme işlemiyle anında sona erer. Abonelikler Apple tarafından yönetildiği için platform doğrudan geri ödeme yapamaz. Geri ödeme talebi için lütfen Apple'ın resmi kanallarından (App Store satın alma geçmişi) başvurun. Hesabınızı silmeden önce, gelecekteki ücretleri önlemek için otomatik yenilenen abonelikleri manuel olarak iptal ettiğinizden emin olun."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sorularınız varsa lütfen destek ekibimizle iletişime geçin."
+            }
+          ]
+        },
+        {
+          "id": "ios-media-permission",
+          "title": "Görsel veya video eklerken telefonumdaki medyaya neden erişemiyorum?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Medya eklerken fotoğraf kitaplığınız boş görünüyorsa, iPhone'unuzun Ayarlar bölümünü açın, VicastCam'i bulana kadar aşağı kaydırın ve [Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunarak erişimi etkinleştirin."
+            }
+          ]
+        },
+        {
+          "id": "ios-screen-incomplete",
+          "title": "Bilgisayarımdan yayın yaparken görüntü kesilirse ne yapmalıyım?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Telefonunuzdan bir yayın yardımcı uygulaması veya başka bir yazılım aracılığıyla yayın yaparken görüntü eksik kalıyorsa şu adımları izleyin:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "VicastCam'i açın, canlı yayın sayfasına girmek için alttaki kamera simgesine dokunun, ardından [Sağ menü - Diğer Ayarlar - En-Boy Oranı - 9:16] bölümüne gidin.",
+                "Yayın yardımcı uygulamasına aktardıktan sonra önce sığdırmak için ölçekleyin, ardından görüntüyü yukarı veya aşağı sürükleyerek ekranı doldurun."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Not: En-boy oranını medya eklemeden ve yayına başlamadan önce ayarlayın."
+            }
+          ]
+        },
+        {
+          "id": "ios-network-failed",
+          "title": "Ağ isteği başarısız olursa ne yapmalıyım?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Ağ isteği başarısızlıklarıyla karşılaşırsanız şunları deneyin:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Telefonunuzun Ayarlar bölümünü açın, [İzinler - VicastCam - Mobil Veri ve Wi-Fi] bölümüne gidin ve ağ erişimini açın.",
+                "Güç tasarrufu modunu ve arka plan kısıtlamalarını kapatın.",
+                "Ağ değiştirin, telefonu yeniden başlatın, uçak modunu açıp kapatın veya uygulamayı güncelleyin.",
+                "Sorun devam ederse, hatanın ekran görüntüsünü alın ve destek ekibimizle iletişime geçin."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-asset-black-screen",
+          "title": "Canlı yayın sırasında çevrimiçi medyadan eklenen katmanlar neden titriyor veya siyah ekran oluyor?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Canlı yayın sırasında çevrimiçi medyadan eklenen katmanlar titriyor veya siyah ekran oluyorsa, yapabilecekleriniz şunlardır:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Yayına başlamadan önce kullanmayı planladığınız medyaları veya katmanları indirip önizleyerek düzgün çalıştıklarından emin olun.",
+                "Bazı yerleşik medyalar sunucularda saklanır. Yayın sırasında yüklenmesini beklemeden kullanıma hazır olması için bunları yayından önce indirin.",
+                "Yayın sırasında medya yüklemek, yayın kaynaklarını, belleği ve performansı tüketir ve bu da gecikmeye neden olabilir. Düşük donanımlı cihazlarda çökme veya siyah ekran bile yaşanabilir."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Önemli"
+            },
+            {
+              "type": "paragraph",
+              "text": "Yayınınızı önceden planlayın ve prova yapın. Canlı yayına geçmeden önce her bölümü deneyerek her şeyin sorunsuz çalıştığından emin olun. Her yayını ciddiye alın, en iyi sonuçları alırsınız."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

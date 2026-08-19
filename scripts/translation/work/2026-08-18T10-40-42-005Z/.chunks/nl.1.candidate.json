@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Tutorialcentrum",
+    "titleMain": "Start je VicastCam",
+    "titleHighlight": "leertraject",
+    "descriptionMain": "Beheers elke functie van de software",
+    "descriptionHighlight": "Snel aan de slag"
+  },
+  "player": {
+    "sectionAriaLabel": "Tutoriallijst",
+    "catalogAriaLabel": "Tutorialcatalogus",
+    "previousLabel": "Vorige",
+    "nextLabel": "Volgende",
+    "firstLessonText": "Je bent bij de eerste les",
+    "lastLessonText": "Je bent bij de laatste les",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

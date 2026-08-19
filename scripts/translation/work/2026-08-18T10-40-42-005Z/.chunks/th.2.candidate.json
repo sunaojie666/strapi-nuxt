@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "เริ่มต้นใช้งาน",
+      "count": "11 บทเรียน",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "สร้างสตูดิโอเสมือนแรกของคุณ",
+          "description": "ตั้งค่าและกำหนดค่าสตูดิโอเสมือนแรกของคุณตั้งแต่เริ่มต้น",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "ทำความเข้าใจเครื่องมือรูปภาพ",
+          "description": "สำรวจพื้นฐานของเครื่องมือรูปภาพและการใช้งานทั่วไป",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "การทำงานกับเลเยอร์",
+          "description": "ทำความรู้จักแผงเลเยอร์และวิธีจัดการเลเยอร์อย่างมีประสิทธิภาพ",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "การใช้เลเยอร์พื้นหลัง",
+          "description": "เรียนรู้วิธีเพิ่มและปรับเลเยอร์พื้นหลังสำหรับฉากของคุณ",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "การใช้เลเยอร์บุคคล",
+          "description": "เพิ่มเลเยอร์บุคคลเพื่อเสริมการผลิตสดของคุณ",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "การใช้เลเยอร์รูปภาพ",
+          "description": "เพิ่มและแก้ไขเลเยอร์รูปภาพในการตั้งค่าสตูดิโอของคุณ",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "การใช้เลเยอร์วิดีโอ",
+          "description": "เพิ่มคลิปวิดีโอและควบคุมการตั้งค่าการเล่น",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "การใช้เลเยอร์เอฟเฟกต์",
+          "description": "ใช้เอฟเฟกต์ภาพกับสตรีมสดของคุณด้วยเลเยอร์เอฟเฟกต์",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "การใช้เลเยอร์คำบรรยาย",
+          "description": "สร้างคำบรรยายและปรับแต่งลักษณะที่ปรากฏ",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "การใช้อวตารเสมือน",
+          "description": "ทำให้สตรีมของคุณมีชีวิตชีวาด้วยการผสานรวมอวตารเสมือน",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "การใช้ฉาก",
+          "description": "สลับระหว่างรูปแบบฉากต่างๆ ได้อย่างราบรื่นระหว่างสตรีม",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "บทเรียนขั้นสูง",
+      "count": "6 บทเรียน",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "การใช้เลเยอร์เคลื่อนกล้อง",
+          "description": "สร้างช็อตไดนามิกด้วยเลเยอร์เคลื่อนกล้อง",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "การใช้แอนิเมชันเส้นทาง",
+          "description": "ควบคุมเส้นทางการเคลื่อนที่ขององค์ประกอบด้วยฟีเจอร์วิถี",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "การใช้เลเยอร์กล้องหลายตัว",
+          "description": "ตั้งค่าเลเยอร์กล้องหลายตัวเพื่อสลับมุมกล้องอย่างรวดเร็ว",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "การใช้คอนโทรลเลอร์",
+          "description": "จัดการการออกอากาศทั้งหมดของคุณจากแผงควบคุมเดียว",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "การตั้งค่าเสียงและการมิกซ์",
+          "description": "กำหนดค่าอินพุตเสียง เอาต์พุต และการตั้งค่ามิกซ์",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "การสำรองข้อมูลและกู้คืน",
+          "description": "สำรองข้อมูลการกำหนดค่าสตูดิโอของคุณและกู้คืนเมื่อจำเป็น",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

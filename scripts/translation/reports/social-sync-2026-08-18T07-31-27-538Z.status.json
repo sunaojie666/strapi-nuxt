@@ -1,0 +1,297 @@
+{
+  "runId": "social-sync-2026-08-18T07-31-27-538Z",
+  "sourceLocale": "zh-CN",
+  "table": "socials",
+  "sourceRowId": 3,
+  "sourceKeys": [
+    "tiktok",
+    "youtube",
+    "facebook",
+    "x",
+    "instagram",
+    "twitch"
+  ],
+  "targetLocales": [
+    "en",
+    "zh-TW",
+    "id",
+    "ms",
+    "th",
+    "vi",
+    "fil",
+    "es",
+    "pt",
+    "ar",
+    "ja",
+    "tr",
+    "it",
+    "de",
+    "fr",
+    "ko",
+    "ru",
+    "pl",
+    "nl",
+    "hi",
+    "ur",
+    "bn",
+    "fa"
+  ],
+  "result": {
+    "en": {
+      "created": 0,
+      "updated": 2,
+      "status": "published"
+    },
+    "zh-TW": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "id": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ms": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "th": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "vi": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "fil": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "es": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "pt": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ar": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ja": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "tr": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "it": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "de": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "fr": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ko": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ru": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "pl": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "nl": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "hi": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "ur": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "bn": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    },
+    "fa": {
+      "created": 2,
+      "updated": 0,
+      "status": "published"
+    }
+  },
+  "verification": {
+    "en": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "zh-TW": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "id": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ms": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "th": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "vi": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "fil": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "es": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "pt": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ar": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ja": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "tr": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "it": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "de": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "fr": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ko": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ru": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "pl": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "nl": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "hi": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "ur": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "bn": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    },
+    "fa": {
+      "rows": 2,
+      "drafts": 1,
+      "published": 1,
+      "matchesChineseJson": true
+    }
+  },
+  "backupPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\.tmp\\translation-backups\\social-sync-2026-08-18T07-31-27-538Z.data.db"
+}

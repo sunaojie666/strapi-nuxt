@@ -1,0 +1,242 @@
+{
+  "teams": [
+    {
+      "data": {
+        "locale": "en",
+        "slug": "team",
+        "pageName": "Business Partnerships",
+        "hero": {
+          "eyebrow": "Business Partnerships",
+          "title": "VicastCam Global Agency Partnership Program",
+          "highlight": "Join us",
+          "description": "A professional virtual camera live streaming tool, open to global channel partners. Unified USD settlement, regional exclusivity, and full-funnel marketing support.",
+          "actions": {
+            "primary": "Apply Now",
+            "secondary": "Learn More"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Why Partner",
+          "titlePrefix": "Why",
+          "titleHighlight": "partner with us",
+          "description": "Easy to sell, low risk, and high margins—VicastCam delivers on all three.",
+          "items": [
+            {
+              "title": "Massive Creator Market",
+              "description": "Covering live streaming, e-commerce, short video, and content creation, global creator demand is growing steadily, offering a large market and stable conversions.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Zero Inventory, Online Delivery",
+              "description": "Pure software licensing with instant cloud delivery of activation codes. No stock, no logistics, low cost, supporting batch delivery and quick activation.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Full-Featured Competitive Edge",
+              "description": "Green screen matting, virtual backgrounds, multi-platform streaming, and AI effects all in one. Complete features that are easy to demonstrate, sell, and renew.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Partnership Rules",
+          "titlePrefix": "Eligibility",
+          "titleHighlight": "and settlement",
+          "description": "Transparent, fair, and predictable agency policies for every partner's peace of mind.",
+          "agentLevelTitle": "Agent Levels",
+          "agentLevels": [
+            {
+              "title": "Standard Agent",
+              "description": "An initial order of $30,000 USD grants long-term distribution rights, tiered discounts, and standard channel support.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Regional Exclusive Agent",
+              "description": "Meet quarterly purchase targets to earn exclusive distribution rights for a single region, with no other channels authorized in that area.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Supply and Settlement",
+          "settlementRules": [
+            "Unified USD settlement, supporting payments via HSBC Hong Kong corporate accounts",
+            "Batch activation codes delivered instantly via cloud for fast customer delivery",
+            "Long-term partners enjoy tiered pricing; higher purchase volumes reduce unit costs"
+          ]
+        },
+        "support": {
+          "eyebrow": "Channel Support",
+          "titlePrefix": "Four Pillars of",
+          "titleHighlight": "Support",
+          "description": "From materials and technical support to brand authorization and early access to new features, we provide full-funnel support.",
+          "items": [
+            {
+              "title": "Complete Marketing Materials",
+              "description": "Access website banners, short videos, Reddit/Facebook ad copy, and product review materials instantly.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Dedicated English Technical Support",
+              "description": "Overseas technical specialists for SDK debugging, live streaming feature after-sales, and customer issue resolution.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Official Brand Authorization",
+              "description": "Use the VicastCam trademark and product images for regional online and offline promotion.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Priority Beta Access",
+              "description": "Agents get early access to test and sell all AI effects, streaming updates, and new features.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Partnership Models",
+          "titlePrefix": "Flexible",
+          "titleHighlight": "partnership models",
+          "description": "Whether you are a channel, technology vendor, or enterprise service provider, we have a model that fits.",
+          "items": [
+            {
+              "title": "Channel Agency (Recommended)",
+              "description": "For cross-border software stores, live streaming equipment shops, overseas MCNs, and cross-border e-commerce teams to distribute software licenses at scale.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM White-Label SDK",
+              "description": "Remove all VicastCam branding, customize the logo, software name, and UI, and sell under your own brand.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Enterprise Customization",
+              "description": "For live streaming service providers, educational institutions, and government/enterprise meeting projects, with custom features and private deployment options.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Apply",
+          "titlePrefix": "Fill out the form",
+          "titleHighlight": "to apply online",
+          "description": "Fill in the information below and we will contact you within 1-3 business days.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Contact Name",
+              "placeholder": "Enter your name"
+            },
+            {
+              "name": "companyName",
+              "label": "Company Name",
+              "placeholder": "Enter your company name"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "placeholder": "Enter your email"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Phone",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Business Type",
+              "placeholder": "Select business type",
+              "options": [
+                "Channel Agency",
+                "OEM White-Label SDK",
+                "Enterprise Customization",
+                "Other"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Primary Region",
+              "placeholder": "e.g., North America/Europe/Southeast Asia"
+            },
+            {
+              "name": "position",
+              "label": "Position",
+              "placeholder": "Enter your position"
+            },
+            {
+              "name": "budget",
+              "label": "Estimated Quarterly Purchase Budget",
+              "placeholder": "Enter your budget"
+            },
+            {
+              "name": "country",
+              "label": "Country",
+              "placeholder": "Select country/region",
+              "options": [
+                "China",
+                "United States",
+                "Indonesia",
+                "Malaysia",
+                "Thailand",
+                "Vietnam",
+                "Philippines",
+                "Spain",
+                "Portugal",
+                "Saudi Arabia",
+                "Japan",
+                "Turkey",
+                "Italy",
+                "Germany",
+                "France",
+                "South Korea",
+                "Russia",
+                "Poland",
+                "Netherlands",
+                "India",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Other"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Company Website",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Partnership Intent",
+          "intentPlaceholder": "Briefly describe your business model, target market, and desired partnership approach...",
+          "note": "*Required fields. Your information is kept confidential and used only for partnership communication.",
+          "submitLabel": "Submit Partnership Information"
+        },
+        "contact": {
+          "title": "Immediate Business Contact",
+          "items": [
+            {
+              "label": "Business Email",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Hong Kong Hotline",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Working Hours",
+              "value": "GMT+8, Monday to Friday, 9:00-18:00"
+            }
+          ],
+          "note": "For urgent business needs, contact us directly via WhatsApp or email.",
+          "qr": {
+            "label": "Scan to contact us on WhatsApp",
+            "alt": "VicastCam business contact QR code"
+          }
+        },
+        "seo": {
+          "title": "VicastCam Business Partnerships",
+          "description": "Join the VicastCam global partner program for channel agency, OEM white-label SDK, and enterprise customization support.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCam Global Partner Program"
+        }
+      }
+    }
+  ]
+}

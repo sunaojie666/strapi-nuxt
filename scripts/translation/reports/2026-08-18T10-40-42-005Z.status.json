@@ -1,0 +1,546 @@
+{
+  "runId": "2026-08-18T10-40-42-005Z",
+  "startedAt": "2026-08-18T10-40-42-005Z",
+  "completedAt": "2026-08-18T10:41:35.576Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "support",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "videos"
+  ],
+  "beforeStatus": {
+    "en": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "zh-TW": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "id": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ms": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "th": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fil": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "es": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pt": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ar": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ja": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "it": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "de": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fr": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ko": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ru": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "nl": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "videos": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 100,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "zh-TW",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "id",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ms",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "th",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fil",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "es",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pt",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ar",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "it",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "de",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ko",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ru",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "nl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "videos": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

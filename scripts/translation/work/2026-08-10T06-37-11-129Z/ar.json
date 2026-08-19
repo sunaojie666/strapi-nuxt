@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "ar",
+        "loginTitle1": "غيّر خلفيتك الافتراضية بنقرة واحدة",
+        "loginTitle2": "بثّ بتأثير أكبر",
+        "loginDes1": "أداة بث احترافية مدعومة بالذكاء الاصطناعي",
+        "loginDes2": "خلفيات افتراضية، تحسينات مباشرة، وبث متعدد المنصات بكل سهولة",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "استبدال الخلفية في الوقت الفعلي",
+        "featureTitle2": "بث متعدد المنصات",
+        "featureSubTitle2": "انطلق مباشرة بلمسة واحدة",
+        "featureTitle3": "الكاميرا الافتراضية",
+        "featureSubTitle3": "حوّل هاتفك إلى كاميرا ويب",
+        "loginBox": {
+          "loginPageTitle": "تسجيل الدخول / إنشاء حساب",
+          "codeLoginTab": "تسجيل الدخول برمز التحقق",
+          "pwdLoginTab": "تسجيل الدخول بكلمة المرور",
+          "qrLoginTab": "تسجيل الدخول برمز QR",
+          "emailInputPlaceholder": "أدخل بريدك الإلكتروني لتسجيل الدخول",
+          "pwdInputPlaceholder": "أدخل كلمة المرور",
+          "verifyCodePlaceholder": "أدخل رمز التحقق",
+          "getVerifyCodeText": "الحصول على الرمز",
+          "loginBtnText": "تسجيل الدخول",
+          "qrLoginTip": "امسح الرمز باستخدام تطبيق VicastCam لتسجيل الدخول",
+          "qrWaitingTip": "بانتظار تأكيد المسح",
+          "agreeProtocolText": "لقد قرأت وأوافق على سياسة الخصوصية واتفاقية المستخدم",
+          "userProtocolText": "اتفاقية المستخدم",
+          "privacyPolicyText": "سياسة الخصوصية",
+          "agreeProtocolPrefix": "لقد قرأت وأوافق على"
+        },
+        "toastBox": {
+          "closeToastLabel": "إغلاق الإشعار",
+          "requestLoading": "جارٍ التحميل",
+          "requestSuccess": "تم الطلب بنجاح",
+          "requestFail": "فشل الطلب",
+          "passwordLoginNotReady": "تسجيل الدخول بكلمة المرور غير متاح بعد",
+          "passwordRequired": "يرجى إدخال كلمة المرور",
+          "emailRequired": "يرجى إدخال بريدك الإلكتروني لتسجيل الدخول",
+          "verifyCodeRequired": "يرجى إدخال رمز التحقق",
+          "agreeProtocolRequired": "يرجى قراءة والموافقة على سياسة الخصوصية واتفاقية المستخدم أولاً",
+          "qrcodeExpired": "انتهت صلاحية رمز QR. يرجى الحصول على رمز جديد."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "ar",
+        "hero_section": {
+          "tag": "أداة بث مدعومة بالذكاء الاصطناعي",
+          "title_main": "تأثيرات الشاشة الخضراء وبث الشاشة من هاتفك",
+          "title_highlight": "تمكين البث المباشر حول العالم",
+          "description": "تستخدم VicastCam تقنية AI Matting المتقدمة لتمكنك من تبديل الخلفيات الافتراضية في أي وقت أثناء البث، مع إضافة تأثيرات غامرة ومظهر احترافي لبثك المباشر.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "تحميل"
+            },
+            {
+              "platform": "Google Play",
+              "text": "تحميل"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "توفر VicastCam للمبدعين خلفيات افتراضية، وتحسينات مباشرة، وأدوات متعددة المنصات."
+          },
+          "columns": [
+            {
+              "title": "المنتج",
+              "links": [
+                {
+                  "text": "الميزات"
+                },
+                {
+                  "text": "الأسعار"
+                },
+                {
+                  "text": "التنزيلات"
+                }
+              ]
+            },
+            {
+              "title": "المطورون",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "وثائق API"
+                }
+              ]
+            },
+            {
+              "title": "الشركة",
+              "links": [
+                {
+                  "text": "من نحن"
+                },
+                {
+                  "text": "سياسة الخصوصية"
+                },
+                {
+                  "text": "اتفاقية المستخدم"
+                },
+                {
+                  "text": "اتفاقية العضوية"
+                }
+              ]
+            },
+            {
+              "title": "الدعم",
+              "links": [
+                {
+                  "text": "دروس الفيديو"
+                },
+                {
+                  "text": "الأسئلة الشائعة"
+                },
+                {
+                  "text": "اتصل بنا"
+                }
+              ]
+            },
+            {
+              "title": "الشراكات",
+              "links": [
+                {
+                  "text": "كن موزعًا"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "استفسارات الأعمال"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "الميزات",
+      "nav_pricing": "الأسعار",
+      "nav_faq": "الأسئلة الشائعة",
+      "nav_auth": "تسجيل الدخول / إنشاء حساب",
+      "nav_team": "الشراكات"
+    }
+  ]
+}

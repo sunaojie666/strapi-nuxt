@@ -1,0 +1,763 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.checkouts[0].data.checkout.payment.providerName",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Pago en línea no disponible' for consistency with the title and to avoid the literal 'no activo'."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.payment.unavailableDescription",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'no le cobrará' to 'no le cobraremos' for natural subject agreement with 'Estamos integrando'."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.payment.feedback",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'contacte con' is acceptable, but 'póngase en contacto con' is more natural in Spain. Consider changing."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.summary.periodLife",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Vitalicio' instead of 'De por vida' for a more standard Spain term."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.plans[2].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Plan vitalicio' instead of 'Plan de por vida' for consistency."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.plans[2].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Actívelo una vez y úselo a largo plazo' for a more direct and natural phrasing."
+    },
+    {
+      "path": "$.forms[0].data.multi_platform_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Llega a las principales plataformas de streaming del mundo' is fine, but consider 'Alcanza las principales plataformas de streaming del mundo' for a more standard verb."
+    },
+    {
+      "path": "$.forms[0].data.multi_platform_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Accede a una audiencia global con un solo clic' is fine, but 'Llega a una audiencia global con un solo clic' is more direct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.common.yearSuffix",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'año' instead of 'a' for clarity, as 'a' is ambiguous."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.common.monthSuffix",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'mes' instead of 'm' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[0].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Empezar' instead of 'Comenzar' for a more common Spain CTA."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[1].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Empezar' instead of 'Comenzar'."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[2].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Empezar' instead of 'Comenzar'."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[2].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Un conjunto' to 'Un juego' for 'set' in Spain Spanish."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✗' is fine, but consider 'No' for clarity in a table."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✓' is fine, but consider 'Sí' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✓' is fine, but consider 'Sí' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Limitados' to 'Limitados' is fine, but ensure agreement with 'Subtítulos' (masculine plural) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Limitada' to 'Limitada' is fine, but ensure agreement with 'Música' (feminine singular) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✗' is fine, but consider 'No' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Básicos' to 'Básicos' is fine, but ensure agreement with 'Filtros' (masculine plural) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✓' is fine, but consider 'Sí' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Limitadas' to 'Limitadas' is fine, but ensure agreement with 'Animaciones' (feminine plural) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Limitados' to 'Limitados' is fine, but ensure agreement with 'Efectos' (masculine plural) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[14].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Limitada' to 'Limitada' is fine, but ensure agreement with 'Biblioteca' (feminine singular) - it is correct."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✓' is fine, but consider 'Sí' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✗' is fine, but consider 'No' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use '✗' is fine, but consider 'No' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.redeem.submitButton",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Canjear' instead of 'Canjear ahora' for a more concise CTA."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.purchaseHistory.orderStatuses.paid",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Pagado' to 'Pagado' is fine, but consider 'Pagado' is correct for masculine singular, but 'Pagada' if referring to 'orden' (feminine). Since it's a status, 'Pagado' is acceptable."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.purchaseHistory.orderStatuses.closed",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Cerrado' to 'Cerrado' is fine, but consider 'Cerrado' is correct for masculine singular, but 'Cerrada' if referring to 'orden' (feminine). Since it's a status, 'Cerrado' is acceptable."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.purchaseHistory.orderStatuses.refunded",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Reembolsado' to 'Reembolsado' is fine, but consider 'Reembolsado' is correct for masculine singular, but 'Reembolsada' if referring to 'orden' (feminine). Since it's a status, 'Reembolsado' is acceptable."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.team.referrerLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Mi referente' instead of 'Mi referidor' for a more natural Spain term."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.summaryCards[3].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Disponible para retirar' instead of 'Retirable' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.withdraw.amountLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Importe a retirar' is fine, but consider 'Cantidad a retirar' for a more common term."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.withdraw.bankCardLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Número de cuenta' is fine, but consider 'Número de tarjeta' for clarity if it's specifically a card number."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.withdraw.bankCardPlaceholder",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'dirección de billetera' is Latin American; change to 'dirección de monedero' or 'dirección de cartera' for Spain."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.cardErrors.operationSuccess",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Canje realizado con éxito' instead of 'Canje exitoso' for a more natural Spain phrasing."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.cardErrors.operationFailed",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'El canje ha fallado' instead of 'Canje fallido' for a more natural Spain phrasing."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.successMessage",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Operación realizada con éxito' instead of 'Operación exitosa' for a more natural Spain phrasing."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Pago aún no disponible",
+            "payment": {
+              "providerName": "Pago en línea no disponible",
+              "providerDescription": "El procesamiento de pagos se está configurando. Esta página solo muestra los detalles del pedido.",
+              "unavailableTitle": "Pago aún no disponible",
+              "unavailableDescription": "Estamos integrando el proceso oficial de pago y confirmación de pedido. Hasta el lanzamiento, esta página no le cobraremos ni creará un pedido real.",
+              "unavailableItems": [
+                "No se cargarán componentes de pago de terceros",
+                "No se enviará información de pago",
+                "No se creará un pedido de pago real"
+              ],
+              "feedback": "Para comprar o activar una membresía, póngase en contacto con business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Resumen del pedido",
+              "periodLabel": "Período de membresía",
+              "paymentMethodLabel": "Método de pago",
+              "amountLabel": "Importe a pagar",
+              "submitLabel": "Aún no disponible",
+              "note": "El pago aún no está disponible. Los detalles del pedido a continuación son para confirmar su plan.",
+              "unavailablePaymentMethod": "Aún no disponible",
+              "fallbackProductName": "Ningún plan seleccionado",
+              "fallbackProductDescription": "Vuelva a la página de inicio y seleccione un plan de membresía.",
+              "periodMonth": "1 mes",
+              "periodYear": "1 año",
+              "periodLife": "Vitalicio",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Pago de suscripción",
+              "description": "Página de pago de suscripción de VicastCam."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Plan mensual",
+                "description": "Obtenga un mes completo de acceso tras la activación. Una forma económica de probarlo."
+              },
+              {
+                "type": "year",
+                "name": "Plan anual",
+                "description": "Obtenga un año completo de acceso tras la activación. Ideal para un uso estable a largo plazo."
+              },
+              {
+                "type": "life",
+                "name": "Plan vitalicio",
+                "description": "Actívelo una vez y úselo a largo plazo. Disfrute de los beneficios de la membresía de forma continua."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "es",
+          "multi_platform_section": {
+            "tag": "Compatibilidad multiplataforma",
+            "title_main": "Alcanza las principales plataformas de streaming del mundo",
+            "title_highlight": "Llega a una audiencia global con un solo clic",
+            "description": "Conéctese a fuentes de tráfico globales y cree un nuevo ecosistema de streaming transfronterizo."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Centro de cuenta",
+              "description": "Página del centro de cuenta de VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "Navegación del centro de cuenta",
+              "defaultProfileName": "Usuario",
+              "emptyContent": "Sin contenido",
+              "copyButtonLabel": "Copiar",
+              "monthSelectLabel": "Seleccionar mes",
+              "yearSuffix": "año",
+              "monthSuffix": "mes",
+              "userMissing": "No se encontró la información del usuario. Vuelva a iniciar sesión.",
+              "paginationLabel": "Paginación",
+              "previousPageLabel": "Página anterior",
+              "nextPageLabel": "Página siguiente",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Ir a",
+                "unit": "página",
+                "ariaLabel": "Ir a una página específica",
+                "buttonLabel": "Ir"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Centro de cuenta",
+              "logout": "Cerrar sesión",
+              "profileAriaSuffix": "Menú del centro de cuenta"
+            },
+            "sidebar": {
+              "ariaLabel": "Navegación del centro de cuenta",
+              "menus": {
+                "account": "Información de cuenta",
+                "membership": "Membresía",
+                "redeem": "Canjear código",
+                "purchaseHistory": "Historial de compras",
+                "team": "Mi equipo",
+                "earnings": "Ganancias"
+              }
+            },
+            "account": {
+              "ariaLabel": "Información de cuenta",
+              "profileTitle": "Información de cuenta",
+              "usernameLabel": "Nombre de usuario",
+              "passwordLabel": "Contraseña",
+              "passwordMask": "********",
+              "defaultUsername": "Sin apodo",
+              "inviteTitle": "Enlace de invitación",
+              "inviteDescription": "Copie su enlace de invitación personal. Cuando sus amigos se registren y activen una membresía, usted obtendrá recompensas.",
+              "emptyInviteLink": "Aún no tiene enlace de invitación"
+            },
+            "membership": {
+              "ariaLabel": "Membresía",
+              "title": "Mi membresía",
+              "badgeAlt": "Insignia de membresía",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Usuario gratuito",
+              "activeVipName": "Miembro VIP",
+              "expirePrefix": "Caduca",
+              "emptyExpireDate": "No activada",
+              "activeStatus": "Activa",
+              "inactiveStatus": "No activada",
+              "compareTitle": "Comparar beneficios de membresía",
+              "compareHeaders": {
+                "feature": "Característica",
+                "normal": "Gratis",
+                "month": "Mensual",
+                "year": "Anual",
+                "life": "Vitalicio"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Membresía mensual",
+                  "subtitle": "Ideal para uso a corto plazo",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/mes",
+                  "cta": "Empezar",
+                  "benefits": [
+                    "Funciones principales de cámara virtual",
+                    "Fondos virtuales y embellecimiento",
+                    "Compatibilidad con streaming multiplataforma",
+                    "Actualizaciones estándar"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Membresía anual",
+                  "subtitle": "Mejor valor para uso a largo plazo",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/año",
+                  "cta": "Empezar",
+                  "benefits": [
+                    "Todos los beneficios mensuales",
+                    "Todas las funciones avanzadas durante un año",
+                    "Actualizaciones prioritarias de funciones",
+                    "Soporte dedicado para miembros"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Membresía vitalicia",
+                  "subtitle": "Pague una vez, úsela a largo plazo",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/vitalicio",
+                  "cta": "Empezar",
+                  "benefits": [
+                    "Todos los beneficios anuales",
+                    "Funciones avanzadas para siempre",
+                    "Actualizaciones a largo plazo",
+                    "Canal de soporte dedicado"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Duración de la membresía",
+                  "normal": "Gratis para siempre",
+                  "month": "30 días",
+                  "year": "365 días",
+                  "life": "Vitalicio"
+                },
+                {
+                  "feature": "Cámara virtual de escritorio",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Fondos virtuales personalizados",
+                  "normal": "Un juego",
+                  "month": "Ilimitados",
+                  "year": "Ilimitados",
+                  "life": "Ilimitados"
+                },
+                {
+                  "feature": "Ajustes preestablecidos de streaming",
+                  "normal": "No",
+                  "month": "Ilimitados",
+                  "year": "Ilimitados",
+                  "life": "Ilimitados"
+                },
+                {
+                  "feature": "Recursos del sitio web oficial",
+                  "normal": "Limitados",
+                  "month": "Ilimitados",
+                  "year": "Ilimitados",
+                  "life": "Ilimitados"
+                },
+                {
+                  "feature": "Control remoto mediante controlador",
+                  "normal": "Sí",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Modo de comparación de escenas en vivo",
+                  "normal": "Sí",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Subtítulos de escena",
+                  "normal": "Limitados",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Música de escena",
+                  "normal": "Limitada",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Entrada de múltiples cámaras",
+                  "normal": "No",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Filtros de belleza avanzados",
+                  "normal": "Básicos",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Recorte de pantalla verde con IA",
+                  "normal": "Sí",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Animaciones dinámicas de estela de movimiento",
+                  "normal": "Limitadas",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Efectos de movimiento de cámara en escena",
+                  "normal": "Limitados",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Biblioteca de efectos VIP",
+                  "normal": "Limitada",
+                  "month": "Ilimitada",
+                  "year": "Ilimitada",
+                  "life": "Ilimitada"
+                },
+                {
+                  "feature": "Streaming a plataformas",
+                  "normal": "Sí",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Salida 4K UHD",
+                  "normal": "No",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                },
+                {
+                  "feature": "Comisión por promoción",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Recompensas por referidos",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Canal de soporte",
+                  "normal": "Autoservicio comunitario",
+                  "month": "Cola estándar",
+                  "year": "Respuesta prioritaria",
+                  "life": "Soporte dedicado"
+                },
+                {
+                  "feature": "Acceso anticipado a nuevas funciones",
+                  "normal": "No",
+                  "month": "Sí",
+                  "year": "Sí",
+                  "life": "Sí"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Canjear código",
+              "title": "Canjear código",
+              "tip": "Introduzca su código de canje de membresía. Sus beneficios se activarán inmediatamente después del canje.",
+              "placeholder": "Introduzca el código de canje",
+              "submitButton": "Canjear",
+              "agreementPrefix": "Al canjear, acepta el",
+              "userProtocolText": "Acuerdo de usuario",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "El canje falló. Compruebe el código e inténtelo de nuevo."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Historial de compras",
+              "title": "Historial de compras",
+              "tabTitle": "Compras",
+              "exchangeTabTitle": "Canjes",
+              "tableHeaders": {
+                "title": "Tipo",
+                "date": "Fecha de pago",
+                "price": "Importe",
+                "paymentMethod": "Método de pago",
+                "status": "Estado",
+                "exchangeDate": "Fecha de canje",
+                "exchangeCode": "Código de canje"
+              },
+              "exchangeTableHeaders": {
+                "date": "Fecha de canje",
+                "code": "Código de canje"
+              },
+              "cardTypes": {
+                "month": "Plan mensual",
+                "year": "Plan anual",
+                "life": "Plan vitalicio",
+                "default": "Membresía"
+              },
+              "orderStatuses": {
+                "pending": "Pendiente",
+                "paid": "Pagado",
+                "closed": "Cerrado",
+                "refunded": "Reembolsado",
+                "unknown": "Desconocido"
+              },
+              "secretLabels": {
+                "show": "Mostrar contraseña",
+                "hide": "Ocultar contraseña"
+              },
+              "secretMask": "******",
+              "emptyText": "Sin historial de compras",
+              "exchangeEmptyText": "Sin historial de canjes",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Tarjeta bancaria",
+                "creditcard": "Tarjeta de crédito",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Criptomoneda",
+                "balance": "Saldo",
+                "free": "Gratis"
+              }
+            },
+            "team": {
+              "ariaLabel": "Mi equipo",
+              "title": "Mi equipo",
+              "referrerLabel": "Mi referente",
+              "levelOne": "Miembros de nivel 1",
+              "levelTwo": "Miembros de nivel 2",
+              "tableHeaders": {
+                "name": "Nombre del miembro",
+                "status": "Estado de membresía",
+                "joinedAt": "Fecha de alta"
+              },
+              "memberStatus": {
+                "free": "Usuario gratuito",
+                "vip": "Usuario VIP"
+              },
+              "emptyMemberName": "Usuario sin nombre",
+              "emptyReferrer": "Sin referente",
+              "emptyTeam": "Aún no hay miembros en el equipo",
+              "errors": {
+                "loadFail": "No se pudieron cargar los miembros del equipo. Inténtelo de nuevo más tarde."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Ganancias",
+              "title": "Resumen de ganancias",
+              "commissionTitle": "Detalles de comisión",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Ganancias totales",
+                  "desc": "Comisión total ganada hasta la fecha"
+                },
+                {
+                  "key": "month",
+                  "title": "Este mes",
+                  "desc": "Comisión ganada este mes"
+                },
+                {
+                  "key": "settling",
+                  "title": "Pendiente de liquidación",
+                  "value": "0.00",
+                  "desc": "Importe pendiente de liquidación"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Disponible para retirar",
+                  "desc": "Importe actualmente disponible para retirar",
+                  "action": "Retirar"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Nombre de usuario",
+                "saleTime": "Fecha de venta",
+                "goodsInfo": "Producto",
+                "commission": "Comisión"
+              },
+              "emptyCommission": "Sin registros de comisión",
+              "errors": {
+                "loadFail": "No se pudieron cargar los detalles de comisión. Inténtelo de nuevo más tarde."
+              },
+              "withdraw": {
+                "ariaLabel": "Solicitud de retiro",
+                "title": "Solicitud de retiro",
+                "closeLabel": "Cerrar diálogo de retiro",
+                "balanceLabel": "Saldo retirable",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "Cantidad a retirar",
+                "amountPlaceholder": "Introduzca la cantidad a retirar",
+                "allButton": "Todo",
+                "allAmountValue": "0.00",
+                "amountTip": "Confirme que la cantidad es correcta. Su solicitud será revisada manualmente después del envío.",
+                "methodLabel": "Método de retiro",
+                "methods": [
+                  "Tarjeta bancaria",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Tarjeta bancaria",
+                "nameLabel": "Nombre del beneficiario",
+                "namePlaceholder": "Introduzca el nombre del beneficiario",
+                "defaultName": "",
+                "bankCardLabel": "Número de cuenta",
+                "bankCardPlaceholder": "Introduzca el número de tarjeta bancaria, correo de PayPal o dirección de monedero",
+                "remarkLabel": "Nota",
+                "remarkPlaceholder": "Información adicional opcional",
+                "note": "Las solicitudes de retiro se procesan en 1-3 días hábiles.",
+                "cancelButton": "Cancelar",
+                "submitButton": "Enviar solicitud"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Canje realizado con éxito",
+              "operationFailed": "El canje ha fallado",
+              "invalidCard": "Código de canje no válido",
+              "cardNotFound": "Código de canje no encontrado",
+              "cardDisabled": "Código de canje deshabilitado",
+              "cardExpired": "Código de canje caducado"
+            },
+            "successMessage": "Operación realizada con éxito"
+          }
+        }
+      }
+    ]
+  }
+}

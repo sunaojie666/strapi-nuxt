@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "खरीदारी का इतिहास",
+    "title": "खरीदारी का इतिहास",
+    "tabTitle": "खरीदारी",
+    "exchangeTabTitle": "रिडेम्प्शन",
+    "tableHeaders": {
+      "title": "प्रकार",
+      "date": "भुगतान समय",
+      "price": "राशि",
+      "paymentMethod": "भुगतान विधि",
+      "status": "स्थिति",
+      "exchangeDate": "रिडेम्प्शन समय",
+      "exchangeCode": "रिडेम्प्शन कोड"
+    },
+    "exchangeTableHeaders": {
+      "date": "रिडेम्प्शन समय",
+      "code": "रिडेम्प्शन कोड"
+    },
+    "cardTypes": {
+      "month": "मासिक कार्ड",
+      "year": "वार्षिक कार्ड",
+      "life": "लाइफटाइम कार्ड",
+      "default": "मेम्बरशिप कार्ड"
+    },
+    "orderStatuses": {
+      "pending": "भुगतान लंबित",
+      "paid": "भुगतान किया गया",
+      "closed": "बंद",
+      "refunded": "रिफंड किया गया",
+      "unknown": "अज्ञात"
+    },
+    "secretLabels": {
+      "show": "पासवर्ड दिखाएँ",
+      "hide": "पासवर्ड छिपाएँ"
+    },
+    "secretMask": "******",
+    "emptyText": "अभी तक कोई खरीदारी रिकॉर्ड नहीं है",
+    "exchangeEmptyText": "अभी तक कोई रिडेम्प्शन रिकॉर्ड नहीं है",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "बैंक कार्ड",
+      "creditcard": "क्रेडिट कार्ड",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "क्रिप्टोकरेंसी",
+      "balance": "बैलेंस",
+      "free": "मुफ़्त"
+    }
+  },
+  "team": {
+    "ariaLabel": "मेरी टीम",
+    "title": "मेरी टीम",
+    "referrerLabel": "मेरा रेफरर",
+    "levelOne": "लेवल 1 सदस्य",
+    "levelTwo": "लेवल 2 सदस्य",
+    "tableHeaders": {
+      "name": "सदस्य का नाम",
+      "status": "मेम्बरशिप स्थिति",
+      "joinedAt": "जुड़ने का समय"
+    },
+    "memberStatus": {
+      "free": "फ्री यूज़र",
+      "vip": "VIP यूज़र"
+    },
+    "emptyMemberName": "बिना नाम का यूज़र",
+    "emptyReferrer": "कोई रेफरर नहीं",
+    "emptyTeam": "अभी तक कोई टीम सदस्य नहीं है",
+    "errors": {
+      "loadFail": "टीम सदस्यों को लोड करने में विफल। कृपया बाद में पुनः प्रयास करें।"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "कमाई केंद्र",
+    "title": "कमाई का अवलोकन",
+    "commissionTitle": "कमीशन विवरण",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "कुल कमाई",
+        "desc": "आज तक अर्जित कुल कमीशन"
+      },
+      {
+        "key": "month",
+        "title": "इस महीने",
+        "desc": "इस महीने अर्जित कमीशन"
+      },
+      {
+        "key": "settling",
+        "title": "निपटान लंबित",
+        "value": "0.00",
+        "desc": "निपटान के लिए लंबित राशि"
+      },
+      {
+        "key": "withdrawable",
+        "title": "निकासी योग्य",
+        "desc": "वर्तमान में निकासी के लिए उपलब्ध राशि",
+        "action": "निकालें"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "यूज़रनेम",
+      "saleTime": "बिक्री समय",
+      "goodsInfo": "उत्पाद",
+      "commission": "कमीशन"
+    },
+    "emptyCommission": "अभी तक कोई कमीशन रिकॉर्ड नहीं है",
+    "errors": {
+      "loadFail": "कमीशन विवरण लोड करने में विफल। कृपया बाद में पुनः प्रयास करें।"
+    },
+    "withdraw": {
+      "ariaLabel": "निकासी अनुरोध",
+      "title": "निकासी अनुरोध",
+      "closeLabel": "निकासी डायलॉग बंद करें",
+      "balanceLabel": "निकासी योग्य बैलेंस",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "निकासी राशि",
+      "amountPlaceholder": "निकासी राशि दर्ज करें",
+      "allButton": "सभी",
+      "allAmountValue": "0.00",
+      "amountTip": "कृपया सुनिश्चित करें कि राशि सही है। आपका अनुरोध सबमिट करने के बाद मैन्युअल रूप से समीक्षा की जाएगी।",
+      "methodLabel": "निकासी विधि",
+      "methods": [
+        "बैंक कार्ड",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "बैंक कार्ड",
+      "nameLabel": "प्राप्तकर्ता का नाम",
+      "namePlaceholder": "प्राप्तकर्ता का नाम दर्ज करें",
+      "defaultName": "",
+      "bankCardLabel": "खाता संख्या",
+      "bankCardPlaceholder": "बैंक कार्ड नंबर, PayPal ईमेल या वॉलेट पता दर्ज करें",
+      "remarkLabel": "टिप्पणी",
+      "remarkPlaceholder": "कोई अतिरिक्त नोट जोड़ें",
+      "note": "निकासी अनुरोध 1-3 कार्य दिवसों के भीतर संसाधित किए जाते हैं।",
+      "cancelButton": "रद्द करें",
+      "submitButton": "अनुरोध सबमिट करें"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "रिडेम्प्शन सफल",
+    "operationFailed": "रिडेम्प्शन विफल",
+    "invalidCard": "अमान्य रिडेम्प्शन कोड",
+    "cardNotFound": "रिडेम्प्शन कोड नहीं मिला",
+    "cardDisabled": "रिडेम्प्शन कोड अक्षम",
+    "cardExpired": "रिडेम्प्शन कोड समाप्त"
+  },
+  "successMessage": "ऑपरेशन सफल"
+}

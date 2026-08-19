@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "پرداخت هنوز در دسترس نیست",
+          "payment": {
+            "providerName": "پرداخت آنلاین فعال نیست",
+            "providerDescription": "در حال راه‌اندازی پردازش پرداخت هستیم. این صفحه فقط جزئیات سفارش را نشان می‌دهد.",
+            "unavailableTitle": "پرداخت هنوز در دسترس نیست",
+            "unavailableDescription": "در حال یکپارچه‌سازی فرآیند رسمی پرداخت و تأیید سفارش هستیم. تا زمان راه‌اندازی، این صفحه هیچ مبلغی از شما دریافت نمی‌کند و سفارش واقعی ایجاد نمی‌کند.",
+            "unavailableItems": [
+              "هیچ مؤلفه پرداخت شخص ثالثی بارگذاری نمی‌شود",
+              "هیچ اطلاعات پرداختی ارسال نمی‌شود",
+              "هیچ سفارش پرداخت واقعی ایجاد نمی‌شود"
+            ],
+            "feedback": "برای خرید یا فعال‌سازی عضویت، لطفاً با business@vicastcam.com تماس بگیرید."
+          },
+          "summary": {
+            "title": "خلاصه سفارش",
+            "periodLabel": "دوره عضویت",
+            "paymentMethodLabel": "روش پرداخت",
+            "amountLabel": "مبلغ قابل پرداخت",
+            "submitLabel": "هنوز در دسترس نیست",
+            "note": "پرداخت هنوز در دسترس نیست. جزئیات سفارش زیر برای تأیید طرح شماست.",
+            "unavailablePaymentMethod": "هنوز در دسترس نیست",
+            "fallbackProductName": "هیچ طرحی انتخاب نشده است",
+            "fallbackProductDescription": "لطفاً به صفحه اصلی بازگردید و یک طرح عضویت انتخاب کنید.",
+            "periodMonth": "۱ ماه",
+            "periodYear": "۱ سال",
+            "periodLife": "مادام‌العمر",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "تسویه حساب اشتراک",
+            "description": "صفحه تسویه حساب اشتراک VicastCam."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "طرح ماهانه",
+              "description": "با فعال‌سازی، یک ماه دسترسی کامل دریافت کنید. راهی کم‌هزینه برای امتحان کردن."
+            },
+            {
+              "type": "year",
+              "name": "طرح سالانه",
+              "description": "با فعال‌سازی، یک سال دسترسی کامل دریافت کنید. ایده‌آل برای استفاده طولانی‌مدت و پایدار."
+            },
+            {
+              "type": "life",
+              "name": "طرح مادام‌العمر",
+              "description": "یک‌بار فعال کنید و برای مدت طولانی استفاده کنید. از مزایای عضویت به‌طور مداوم بهره‌مند شوید."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "fa",
+        "multi_platform_section": {
+          "tag": "پشتیبانی چند پلتفرمی",
+          "title_main": "به پلتفرم‌های پیشرو پخش زنده جهان دسترسی پیدا کنید",
+          "title_highlight": "با یک کلیک به مخاطبان جهانی دست یابید",
+          "description": "به منابع ترافیک جهانی متصل شوید و اکوسیستم جدیدی برای پخش زنده فرامرزی بسازید."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "مرکز حساب",
+            "description": "صفحه مرکز حساب VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "ناوبری مرکز حساب",
+            "defaultProfileName": "کاربر",
+            "emptyContent": "بدون محتوا",
+            "copyButtonLabel": "کپی",
+            "monthSelectLabel": "انتخاب ماه",
+            "yearSuffix": "سال",
+            "monthSuffix": "ماه",
+            "userMissing": "اطلاعات کاربر یافت نشد. لطفاً دوباره وارد شوید.",
+            "paginationLabel": "صفحه‌بندی",
+            "previousPageLabel": "صفحه قبلی",
+            "nextPageLabel": "صفحه بعدی",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "برو به",
+              "unit": "صفحه",
+              "ariaLabel": "رفتن به صفحه خاص",
+              "buttonLabel": "برو"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "مرکز حساب",
+            "logout": "خروج",
+            "profileAriaSuffix": "منوی مرکز حساب"
+          },
+          "sidebar": {
+            "ariaLabel": "ناوبری مرکز حساب",
+            "menus": {
+              "account": "اطلاعات حساب",
+              "membership": "عضویت",
+              "redeem": "کد فعال‌سازی",
+              "purchaseHistory": "تاریخچه خرید",
+              "team": "تیم من",
+              "earnings": "درآمدها"
+            }
+          },
+          "account": {
+            "ariaLabel": "اطلاعات حساب",
+            "profileTitle": "اطلاعات حساب",
+            "usernameLabel": "نام کاربری",
+            "passwordLabel": "رمز عبور",
+            "passwordMask": "********",
+            "defaultUsername": "نام مستعار تنظیم نشده است",
+            "inviteTitle": "لینک دعوت",
+            "inviteDescription": "لینک دعوت شخصی خود را کپی کنید. وقتی دوستان ثبت‌نام کنند و عضویت فعال کنند، پاداش دریافت می‌کنید.",
+            "emptyInviteLink": "هنوز لینک دعوتی وجود ندارد"
+          },
+          "membership": {
+            "ariaLabel": "عضویت",
+            "title": "عضویت من",
+            "badgeAlt": "نشان عضویت",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "کاربر رایگان",
+            "activeVipName": "عضو VIP",
+            "expirePrefix": "انقضا",
+            "emptyExpireDate": "فعال نشده",
+            "activeStatus": "فعال",
+            "inactiveStatus": "فعال نشده",
+            "compareTitle": "مقایسه مزایای عضویت",
+            "compareHeaders": {
+              "feature": "ویژگی",
+              "normal": "رایگان",
+              "month": "ماهانه",
+              "year": "سالانه",
+              "life": "مادام‌العمر"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "عضویت ماهانه",
+                "subtitle": "مناسب برای استفاده کوتاه‌مدت",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/ماه",
+                "cta": "شروع کنید",
+                "benefits": [
+                  "ویژگی‌های اصلی دوربین مجازی",
+                  "پس‌زمینه‌های مجازی و زیباسازی",
+                  "پشتیبانی از پخش زنده چند پلتفرمی",
+                  "به‌روزرسانی‌های استاندارد"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "عضویت سالانه",
+                "subtitle": "ارزش بیشتر برای استفاده طولانی‌مدت",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/سال",
+                "cta": "شروع کنید",
+                "benefits": [
+                  "تمام مزایای ماهانه",
+                  "تمام ویژگی‌های پیشرفته برای یک سال",
+                  "به‌روزرسانی‌های اولویت‌دار",
+                  "پشتیبانی اختصاصی اعضا"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "عضویت مادام‌العمر",
+                "subtitle": "یک‌بار پرداخت کنید، برای مدت طولانی استفاده کنید",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/مادام‌العمر",
+                "cta": "شروع کنید",
+                "benefits": [
+                  "تمام مزایای سالانه",
+                  "ویژگی‌های پیشرفته برای همیشه",
+                  "به‌روزرسانی‌های طولانی‌مدت",
+                  "کانال پشتیبانی اختصاصی"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "مدت عضویت",
+                "normal": "رایگان برای همیشه",
+                "month": "۳۰ روز",
+                "year": "۳۶۵ روز",
+                "life": "مادام‌العمر"
+              },
+              {
+                "feature": "دوربین مجازی دسکتاپ",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "پس‌زمینه‌های مجازی سفارشی",
+                "normal": "یک مجموعه",
+                "month": "نامحدود",
+                "year": "نامحدود",
+                "life": "نامحدود"
+              },
+              {
+                "feature": "پیش‌تنظیم‌های پخش زنده",
+                "normal": "✕",
+                "month": "نامحدود",
+                "year": "نامحدود",
+                "life": "نامحدود"
+              },
+              {
+                "feature": "دارایی‌های وب‌سایت رسمی",
+                "normal": "محدود",
+                "month": "نامحدود",
+                "year": "نامحدود",
+                "life": "نامحدود"
+              },
+              {
+                "feature": "کنترل از راه دور با کنترلر",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "حالت مقایسه صحنه زنده",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "زیرنویس صحنه",
+                "normal": "محدود",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "موسیقی صحنه",
+                "normal": "محدود",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "ورودی چند دوربینه",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "فیلترهای زیبایی پیشرفته",
+                "normal": "پایه",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "حذف پس‌زمینه هوشمند با AI",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "انیمیشن‌های دنباله حرکت پویا",
+                "normal": "محدود",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "افکت‌های حرکت دوربین صحنه",
+                "normal": "محدود",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "کتابخانه افکت‌های VIP",
+                "normal": "محدود",
+                "month": "نامحدود",
+                "year": "نامحدود",
+                "life": "نامحدود"
+              },
+              {
+                "feature": "پخش در پلتفرم‌ها",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "خروجی 4K UHD",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "نرخ کمیسیون تبلیغات",
+                "normal": "۵٪",
+                "month": "۴۰٪",
+                "year": "۴۰٪",
+                "life": "۴۰٪"
+              },
+              {
+                "feature": "پاداش معرفی",
+                "normal": "۱٪",
+                "month": "۷٪",
+                "year": "۷٪",
+                "life": "۷٪"
+              },
+              {
+                "feature": "کانال پشتیبانی",
+                "normal": "خودخدمتی انجمن",
+                "month": "صف استاندارد",
+                "year": "پاسخ اولویت‌دار",
+                "life": "پشتیبانی اختصاصی"
+              },
+              {
+                "feature": "دسترسی زودهنگام به ویژگی‌های جدید",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "کد فعال‌سازی",
+            "title": "کد فعال‌سازی",
+            "tip": "کد فعال‌سازی عضویت خود را وارد کنید. پس از فعال‌سازی، مزایای شما بلافاصله اعمال می‌شود.",
+            "placeholder": "کد فعال‌سازی را وارد کنید",
+            "submitButton": "فعال‌سازی",
+            "agreementPrefix": "با فعال‌سازی، موافقت خود را با",
+            "userProtocolText": "قرارداد کاربر",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "فعال‌سازی ناموفق بود. لطفاً کد را بررسی کرده و دوباره تلاش کنید."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "تاریخچه خرید",
+            "title": "تاریخچه خرید",
+            "tabTitle": "خریدها",
+            "exchangeTabTitle": "فعال‌سازی‌ها",
+            "tableHeaders": {
+              "title": "نوع",
+              "date": "تاریخ پرداخت",
+              "price": "مبلغ",
+              "paymentMethod": "روش پرداخت",
+              "status": "وضعیت",
+              "exchangeDate": "تاریخ فعال‌سازی",
+              "exchangeCode": "کد فعال‌سازی"
+            },
+            "exchangeTableHeaders": {
+              "date": "تاریخ فعال‌سازی",
+              "code": "کد فعال‌سازی"
+            },
+            "cardTypes": {
+              "month": "طرح ماهانه",
+              "year": "طرح سالانه",
+              "life": "طرح مادام‌العمر",
+              "default": "عضویت"
+            },
+            "orderStatuses": {
+              "pending": "در انتظار",
+              "paid": "پرداخت شده",
+              "closed": "بسته شده",
+              "refunded": "بازپرداخت شده",
+              "unknown": "ناشناخته"
+            },
+            "secretLabels": {
+              "show": "نمایش رمز عبور",
+              "hide": "پنهان کردن رمز عبور"
+            },
+            "secretMask": "******",
+            "emptyText": "تاریخچه خریدی وجود ندارد",
+            "exchangeEmptyText": "تاریخچه فعال‌سازی وجود ندارد",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "کارت بانکی",
+              "creditcard": "کارت اعتباری",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "ارز دیجیتال",
+              "balance": "موجودی",
+              "free": "رایگان"
+            }
+          },
+          "team": {
+            "ariaLabel": "تیم من",
+            "title": "تیم من",
+            "referrerLabel": "معرف من",
+            "levelOne": "اعضای سطح ۱",
+            "levelTwo": "اعضای سطح ۲",
+            "tableHeaders": {
+              "name": "نام عضو",
+              "status": "وضعیت عضویت",
+              "joinedAt": "تاریخ عضویت"
+            },
+            "memberStatus": {
+              "free": "کاربر رایگان",
+              "vip": "کاربر VIP"
+            },
+            "emptyMemberName": "کاربر بدون نام",
+            "emptyReferrer": "بدون معرف",
+            "emptyTeam": "هنوز عضوی در تیم نیست",
+            "errors": {
+              "loadFail": "بارگذاری اعضای تیم ناموفق بود. لطفاً بعداً دوباره تلاش کنید."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "درآمدها",
+            "title": "نمای کلی درآمد",
+            "commissionTitle": "جزئیات کمیسیون",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "کل درآمد",
+                "desc": "کل کمیسیون کسب‌شده تا به امروز"
+              },
+              {
+                "key": "month",
+                "title": "این ماه",
+                "desc": "کمیسیون کسب‌شده در این ماه"
+              },
+              {
+                "key": "settling",
+                "title": "در انتظار تسویه",
+                "value": "0.00",
+                "desc": "مبلغ در انتظار تسویه"
+              },
+              {
+                "key": "withdrawable",
+                "title": "قابل برداشت",
+                "desc": "مبلغ قابل برداشت در حال حاضر",
+                "action": "برداشت"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "نام کاربری",
+              "saleTime": "زمان فروش",
+              "goodsInfo": "محصول",
+              "commission": "کمیسیون"
+            },
+            "emptyCommission": "رکورد کمیسیونی وجود ندارد",
+            "errors": {
+              "loadFail": "بارگذاری جزئیات کمیسیون ناموفق بود. لطفاً بعداً دوباره تلاش کنید."
+            },
+            "withdraw": {
+              "ariaLabel": "درخواست برداشت",
+              "title": "درخواست برداشت",
+              "closeLabel": "بستن گفتگوی برداشت",
+              "balanceLabel": "موجودی قابل برداشت",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "مبلغ برداشت",
+              "amountPlaceholder": "مبلغ برداشت را وارد کنید",
+              "allButton": "همه",
+              "allAmountValue": "0.00",
+              "amountTip": "لطفاً صحت مبلغ را تأیید کنید. پس از ارسال، درخواست شما به‌صورت دستی بررسی می‌شود.",
+              "methodLabel": "روش برداشت",
+              "methods": [
+                "کارت بانکی",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "کارت بانکی",
+              "nameLabel": "نام گیرنده",
+              "namePlaceholder": "نام گیرنده را وارد کنید",
+              "defaultName": "",
+              "bankCardLabel": "شماره حساب",
+              "bankCardPlaceholder": "شماره کارت بانکی، ایمیل PayPal یا آدرس کیف پول را وارد کنید",
+              "remarkLabel": "یادداشت",
+              "remarkPlaceholder": "اطلاعات اضافی (اختیاری)",
+              "note": "درخواست‌های برداشت در ۱ تا ۳ روز کاری پردازش می‌شوند.",
+              "cancelButton": "انصراف",
+              "submitButton": "ارسال درخواست"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "فعال‌سازی موفق بود",
+            "operationFailed": "فعال‌سازی ناموفق بود",
+            "invalidCard": "کد فعال‌سازی نامعتبر است",
+            "cardNotFound": "کد فعال‌سازی یافت نشد",
+            "cardDisabled": "کد فعال‌سازی غیرفعال است",
+            "cardExpired": "کد فعال‌سازی منقضی شده است"
+          },
+          "successMessage": "عملیات موفق بود"
+        }
+      }
+    }
+  ]
+}

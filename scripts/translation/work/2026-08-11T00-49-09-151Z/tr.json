@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Kullanıcı Sözleşmesi",
+        "updatedAt": "22 Temmuz 2026",
+        "description": "Bu Kullanıcı Lisans Sözleşmesi (\"Sözleşme\"), Lisans Veren ile bu yazılımın kullanıcısı (\"siz\" veya \"kullanıcı\") arasında akdedilir ve yazılımı indirme, kurma, kayıt olma, giriş yapma ve kullanma ile ilgili tüm eylemlerinizi düzenler.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Lisans Veren: Vicast International Limited",
+              "Resmi kanallar: VicastCam resmi web sitesi ve yetkili uygulama mağazaları (Apple App Store / Google Play Store)",
+              "İletişim e-postası: service@vicastcam.com",
+              "Son güncelleme: 22 Temmuz 2026",
+              "VicastCam'e (\"bu Yazılım\") hoş geldiniz!",
+              "VicastCam ürünleri yalnızca Çin anakarası dışındaki kullanıcılara sunulmaktadır. Ürünü Çin anakarasındaki kullanıcılara aktif olarak tanıtmıyoruz. Çin anakarasında bulunuyorsanız, bu ürünün Çin anakarasında ilgili işletme yeterliliklerine sahip olmadığını lütfen unutmayın.",
+              "Bu Kullanıcı Lisans Sözleşmesi (\"Sözleşme\"), Lisans Veren ile bu yazılımın kullanıcısı (\"siz\" veya \"kullanıcı\") arasında akdedilir ve bu yazılımı indirme, kurma, kayıt olma, giriş yapma ve kullanma ile ilgili tüm eylemlerinizi düzenler.",
+              "Bu Yazılımdaki \"Kabul Et\" düğmesine tıklayarak, bu Sözleşmenin tüm hükümlerini gönüllü olarak kabul etmiş olursunuz. Kabul etmiyorsanız, Lisans Veren size Yazılımı kullanma hakkı vermez. Lütfen Yazılımı kullanmayı derhal bırakın ve kaldırın. Yazılımı kullanmaya devam etmeniz, bu Sözleşmeyi ve sonraki tüm revizyonları kabul ettiğiniz anlamına gelir.",
+              "En az 18 yaşında olduğunuzu veya bulunduğunuz yargı bölgesinde yasal reşitlik yaşına ulaştığınızı (\"yetişkin\") onaylıyorsunuz. Küçükler bu Yazılımı yalnızca yasal vasilerinin açık rızası ve gözetimi altında kullanmalıdır; vasi, yasalara uygun olarak vesayet sorumluluklarını üstlenir."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Kapsam",
+            "paragraphs": [
+              "1.1 Yazılımı kullanmadan önce, özellikle sorumluluk reddi, geçerli hukuk ve uyuşmazlık çözümü dahil olmak üzere kalın harflerle vurgulanan temel hükümleri dikkatlice okuyun. Herhangi bir hükmü kabul etmiyorsanız, Yazılımı kullanmayı derhal bırakın.",
+              "1.2 Bu Yazılım öncelikle yetişkinlere yöneliktir. Küçükler, bu Yazılımı kullanmadan önce yasal vasilerinin rızasını almalı ve vasinin gözetiminde kullanmalıdır. Vasi, yasalara uygun olarak vesayet görevlerini yerine getirmelidir.",
+              "1.3 Bu Sözleşme, bu Yazılım tarafından yayınlanan duyurular, etkinlik kuralları ve uygulama içi bildirimler gibi platform kurallarını içerir. Tüm platform kuralları bu Sözleşmenin ayrılmaz bir parçasıdır ve bu Sözleşme ile aynı yasal etkiye sahiptir.",
+              "1.4 Bu Yazılıma kayıt olarak, giriş yaparak veya kullanarak, bu Sözleşmeyi tamamen okuduğunuzu, anladığınızı ve bu Sözleşmeye bağlı kalmayı kabul ettiğiniz kabul edilir.",
+              "1.5 Bu Yazılımdaki tüm fikri mülkiyet hakları ve kullanıcılara açıkça verilmeyen tüm haklar Lisans Veren'e aittir."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Bu Yazılım ve İlgili Hizmetler",
+            "paragraphs": [
+              "2.1 Bu Yazılım, canlı yayın senaryoları için yardımcı bir araçtır; canlı yayın, sanal sahne kurulumu, AI matting, yüz efektleri ve güzellik filtreleri gibi özellikler sunar. Belirli hizmetler ve özellikler, gerçek ürün görünümüne tabidir.",
+              "2.2 İstemciyi yalnızca resmi kanallardan (Apple App Store veya Google Play Store) edinebilirsiniz. Resmi olmayan sürümlerin kullanımından doğan riskler ve kayıplar size aittir.",
+              "2.3 Bu Yazılımı kullanmak için kendi terminal cihazınızı ve internet bağlantınızı hazırlamanız ve ilgili internet ve veri ücretlerini karşılamanız gerekir. Tam işlevsellik için internet bağlantısı gereklidir.",
+              "2.4 Lisans Veren, size Yazılımı kullanmak için kişisel, ticari olmayan, devredilemez, geri alınabilir, münhasır olmayan bir lisans verir. Lisans Veren'in önceden yazılı izni olmadan, Yazılımı değiştirmeniz, kopyalamanız, dağıtmanız, yansıtmanız, taramanız, satmanız veya ticari amaçlarla kullanmanız yasaktır.",
+              "2.5 Lisans Veren, ürün optimizasyonu, güvenlik bakımı, uyumluluk operasyonları ve diğer ihtiyaçlara dayalı olarak hizmetlerin bir kısmını veya tamamını yükseltme, ayarlama, askıya alma veya sonlandırma hakkına sahiptir. İstemciyi güncellemeyi seçebilirsiniz; güncellemeyi reddetmek işlevsellik sınırlamalarına neden olabilir. Hizmeti sonlandırmak için uygulamayı istediğiniz zaman kaldırma hakkına sahipsiniz.",
+              "2.6 Satın Almalar ve Abonelikler",
+              "2.6.1 Bu Yazılımdaki tüm ücretli özellikler, satın almalar ve abonelikler Apple App Store veya Google Play ödeme sistemi üzerinden tamamlanır ve bu işlemler ilgili platformun hizmet şartlarına da tabidir.",
+              "2.6.2 Abonelik Kuralları",
+              "(1) Otomatik yenileme: Abonelik hizmetleri, mevcut hizmet süresinin bitiminden en az 24 saat önce otomatik olarak ücretlendirilir ve platform sistemi yenileme hatırlatmaları gönderir. Cihazınızın \"Ayarlar > Hesap > Abonelikler\" sayfasına giderek otomatik yenilemeyi istediğiniz zaman görüntüleyebilir, yönetebilir ve iptal edebilirsiniz (yol platforma göre değişebilir).",
+              "(2) Fiyat değişiklikleri: Abonelik fiyatlarını ayarlarsak, yeni fiyatın yürürlüğe girmesinden en az 30 gün önce uygulama içi duyurular, resmi web sitesi veya diğer makul yollarla bildirim sağlayacağız. Fiyat değişiklikleri, halihazırda yürürlükte olan mevcut abonelik dönemini etkilemeyecektir. Yerel yasa ek kullanıcı onayı gerektiriyorsa, yasaya uyacağız.",
+              "(3) Ücretsiz deneme: Ücretsiz deneme sunuluyorsa, ücretlendirilmemek için deneme süresinin bitiminden en az 24 saat önce otomatik yenilemeyi kapatın.",
+              "2.6.3 Bölgesel İadeler ve Yasal Cayma Hakkı",
+              "(1) Avrupa Birliği, Avrupa Ekonomik Alanı ve Birleşik Krallık'taki kullanıcılar: Yerel tüketici koruma yasalarına uygun olarak, gerekçe göstermeksizin 14 günlük yasal cayma hakkına sahipsiniz. Ayrıntılar için VicastCam İade Politikası'na bakın. Cayma ve iade talepleri, satın alma işleminiz için kullandığınız resmi kanal (App Store veya Google Play) üzerinden yapılmalıdır ve iadeler platform kurallarına ve yerel yasalara tabidir. 14 günlük cayma süresi içinde hizmeti kullandıysanız, iade, gerçek kullanıma göre orantılı olarak hesaplanacaktır. Cayma yürürlüğe girdiğinde, ücretli kullanım haklarınız derhal sona erer.",
+              "(2) Tek seferlik ödeme ve ömür boyu hizmetler: Hizmetin derhal etkinleştirilmesini açıkça onaylar ve 14 günlük cayma hakkından feragat ederseniz, gerekçesiz cayma hakkı artık geçerli olmaz.",
+              "(3) Diğer tüm bölgeler: İadeler ve satış sonrası sorunlar, öncelikle satın alma işleminiz için kullandığınız platformun resmi kurallarına tabidir.",
+              "2.6.4 Ücretli Avantaj Kullanım Kuralları",
+              "(1) Ücretli hizmetler ve avantajlar yalnızca kişisel kullanım içindir.",
+              "(2) Ücretli avantajları üçüncü taraflara hediye etme, ödünç verme, kiralama, yeniden satma veya toplu paylaşma yoluyla sağlamanız yasaktır.",
+              "2.7 Ücretler, Üyelik ve Ticari Kullanım Kuralları",
+              "2.7.1 Lisans Veren, Yazılım ve ilgili ağ hizmetleri için yasalara uygun olarak ücret talep etme hakkına sahiptir. Kullanım için gereken donanım, yazılım ve ağın tüm maliyetlerinden siz sorumlusunuz ve ilgili hizmet ücretlerini zamanında ödemelisiniz.",
+              "2.7.2 Vergi yükümlülüklerinizi yasalara uygun olarak yerine getirmeli ve hizmetlerin kullanımından doğan tüm vergileri üstlenmelisiniz. Ücretli hizmetleri hileli bir şekilde kullanmanız yasaktır.",
+              "2.7.3 Meşru operasyonel ihtiyaçlara dayalı olarak üyelik sistemini ayarlayabilir veya üyelik hizmetlerini sonlandırabiliriz. İhlaller nedeniyle bir hesap yasaklanır veya sonlandırılırsa, ücretli ücretler iade edilmeyecektir.",
+              "2.7.4 Bu Yazılımı ticari amaçlarla kullanmanız gerekiyorsa, önceden Lisans Veren'e başvurmanız ve resmi bir ticari kullanım lisansı almanız gerekir.",
+              "2.7.5 Bu Yazılımı kullanarak kâr amacıyla pornografik veya yasa dışı içerik yaymanız yasaktır."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Hesap Yönetimi",
+            "paragraphs": [
+              "3.1 Kendiniz bir hesap oluşturabilir veya meşru bir üçüncü taraf platform hesabıyla giriş yapabilirsiniz. Üçüncü taraf hesapları gerçek kimlik bilgileriyle doğrulanmalı ve platform kurallarına uygun olmalıdır. Hesabınızın ve şifrenizin güvenliğinden ve hesabınız altında gerçekleştirilen tüm işlemlerden siz sorumlusunuz.",
+              "3.2 Dünya genelindeki ağ denetimi ve gerçek kimlikle kayıt gereklilikleri uyarınca, kayıt sırasında doğru, eksiksiz ve geçerli kimlik bilgileri ve iletişim bilgileri (e-posta gibi) sağlamalısınız. Bilgilerin yanlış veya şüpheli olması durumunda, Lisans Veren düzeltme talep etme, hizmetleri kısıtlama veya sonlandırma hakkına sahiptir. Güvenlik doğrulaması amacıyla bazı kayıt bilgileri değiştirilemez.",
+              "3.3 Bazı temel özellikler giriş yapmadan kullanılabilir. Tam işlevsellik ve ücretli hizmetler kayıt, giriş ve kimlik doğrulaması gerektirir.",
+              "3.4 Takma ad, profil fotoğrafı ve biyografi gibi hesap bilgileri başkalarının adlarını, ticari markalarını, portrelerini veya diğer yasal haklarını taklit etmemeli ve yasa dışı, kaba veya yanıltıcı içerik içermemelidir. Lisans Veren, hesap bilgilerini inceleme ve ihlaller için sıfırlama, işlevleri kısıtlama veya hesapları yasaklama gibi önlemler alma hakkına sahiptir.",
+              "3.5 Hesaplar yalnızca kişisel kullanım içindir ve yasal olarak kontrol ettiğiniz cihazlarda oturum açılabilir. Hesapların hediye edilmesi, ödünç verilmesi, kiralanması, devredilmesi veya satılması yasaktır. Kullanıcının kayıtlı kişiyle uyuşmadığı tespit edilirse, Lisans Veren hizmetleri askıya alma veya sonlandırma hakkına sahiptir.",
+              "3.6 Hesabınızın güvenliğinden ve gizliliğinden siz sorumlusunuz ve hesabınız altında gerçekleştirilen tüm işlemler, içerikler ve eylemler için tam yasal sorumluluk taşırsınız.",
+              "3.7 Hesabınız çalınırsa veya şifrenizi unutursanız, resmi itiraz kanalı üzerinden kurtarabilirsiniz.",
+              "3.7.1 Hesabınızın çalınması, bilgilerinizin sızması veya mülk kaybı, uygunsuz saklama, cihaz kaybı veya hesap bilgilerinizi gönüllü olarak ifşa etmeniz nedeniyle meydana gelirse, tüm sorumluluğu üstlenirsiniz.",
+              "3.7.2 Hesap kurtarma hizmetleri yalnızca sistemde saklanan bilgileri doğrular ve kullanıcının gerçek kimliğini belirleyemez. İlgili riskleri siz üstlenirsiniz. Hesabınızda olağandışı bir etkinlik fark ederseniz, lütfen derhal resmi müşteri hizmetleriyle iletişime geçin.",
+              "3.8 Hesap İptali ve Veri İşleme",
+              "3.8.1 Yazılımın \"Ben > Ayarlar > Hesap Yönetimi > Hesabı Sil\" bölümünden veya resmi e-posta yoluyla hesap silme başvurusunda bulunabilirsiniz. Silme işleminden önce sahiplik doğrulaması gereklidir.",
+              "3.8.2 Hesap silindikten sonra 30 günlük bir veri bekleme süresi ayrılır (yalnızca mali mutabakat, anlaşmazlık çözümü ve satış sonrası doğrulama için). Bu sürenin sonunda, yasaların saklanmasını zorunlu kıldığı işlem kayıtları hariç, kalıcı fiziksel silme işlemi gerçekleştirilir.",
+              "3.8.3 Hesap silindikten sonra hesap ve veriler kurtarılamaz. Kullanımınız sırasında doğan yükümlülükler ve sorumluluklar silme işlemiyle ortadan kalkmaz."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Kullanıcı Davranışları",
+            "paragraphs": [
+              "4.1 Bu Yazılımı kullanırken ağ güvenliği, fikri mülkiyet, portre hakları ve gizlilikle ilgili küresel yasalara uymayı ve başkalarının yasal haklarına saygı göstermeyi taahhüt edersiniz. Yasanın izin verdiği veya Lisans Veren tarafından yazılı olarak yetkilendirilmediği sürece aşağıdaki eylemler yasaktır:",
+              "4.1.1 Yetkisiz kişisel bilgilerin, ticari sırların veya hak ihlali yapan içeriklerin yüklenmesi veya yayılması.",
+              "4.1.2 Bu Yazılımın normal çalışmasına müdahale etmek veya bozmak için hileler, eklentiler veya üçüncü taraf araçları kullanmak.",
+              "4.1.3 Yasadışı ağ saldırıları, veri hırsızlığı, virüs yayma, güvenlik açığı taraması, sahte ağ veri paketleri oluşturma veya diğer siber saldırıları gerçekleştirmek.",
+              "4.1.4 Toplu kötü niyetli hesap kaydı yapmak.",
+              "4.1.5 Bu Yazılımın kaynak kodunu tersine mühendislik, derleme, ayrıştırma veya kırmaya çalışmak.",
+              "4.1.6 Pornografik, şiddet içeren, iftira niteliğinde veya yasa dışı içerik oluşturmak veya yaymak.",
+              "4.1.7 Tütün, alkol, kumar, silah veya yasaklı maddeleri tanıtmak.",
+              "4.1.8 Başkalarının görüntülerini, seslerini veya özel bilgilerini yetkisiz olarak gizlice fotoğraflamak, kaydetmek veya yaymak, portre veya gizlilik haklarını ihlal etmek.",
+              "4.1.9 Yerel yasalara, bu Sözleşmeye veya platform kurallarına aykırı diğer eylemler.",
+              "4.1.10 Bu Sözleşmeyi ihlal etmeniz durumunda, Lisans Veren ihlal eden içeriği bildirimde bulunmaksızın silme ve ciddiyetine göre uyarı, özellik yasağı, cihaz yasağı veya kalıcı hesap yasağı gibi yaptırımlar uygulama hakkına sahiptir. İhlal eden kullanıcılar resmi e-posta yoluyla itirazda bulunabilir ve Lisans Veren nihai inceleme yetkisine sahiptir.",
+              "4.2 Bu Yazılımla içerik oluştururken, yerleşik materyalleri, efektleri veya logoları üçüncü taraf ticari markaları, logoları veya ticari kimlikleri için kullanmanız yasaktır (kendi telif hakkına sahip olduğunuz içerikler hariç).",
+              "4.3 Bu Yazılımı şiddet, pornografi, iftira, doxxing, gizlilik ihlali, spam veya yasalara veya kamu düzenine ve genel ahlaka aykırı diğer içerikleri yayınlamak veya dağıtmak için kullanmamalısınız.",
+              "4.4 Lisans Veren, kullanıcı davranışlarını denetleme ve inceleme hakkına sahiptir ve ihlallerin tespit edilmesi durumunda düzeltme talep edebilir, içeriği silebilir, hizmetleri askıya alabilir veya sonlandırabilir.",
+              "4.5 Özel Özellik Kısıtlamaları",
+              "4.5.1 Kamera ve Canlı Yayın: Kamera, canlı yayın veya ekran kaydı özelliklerini kullanmadan önce, çekilen veya kaydedilen tüm kişilerin açık rızasını almalısınız. Bu Yazılımı gizli fotoğraf çekmek, gizli kayıt yapmak, yasa dışı canlı yayın yapmak veya diğer yasa dışı eylemler için kullanmak kesinlikle yasaktır. Tüm ilgili sorumlulukları üstlenirsiniz.",
+              "4.5.2 AI Özellikleri: Bu Yazılımdaki AI algoritmalarının, modellerin, efektlerin ve görsel materyallerin fikri mülkiyet hakları Lisans Verene veya işbirliği yapılan üçüncü taraflara aittir. Bunları yalnızca kişisel, ticari olmayan, yasal yaratıcılık için kullanabilirsiniz. Deepfake, sahte ses/video, dolandırıcılık veya yasa dışı içerik oluşturmanız yasaktır.",
+              "4.5.3 Bölgesel Uyumluluk: Ülkenizin/bölgenizin canlı yayın, biyometrik veri toplama ve AI içeriğiyle ilgili düzenleyici gerekliliklerine kesinlikle uymalısınız.",
+              "4.6 İhlaliniz Lisans Verene zarar verirse, ödenen ücretler iade edilmez ve Lisans Verenin tüm ekonomik ve itibar kayıplarını tamamen tazmin etmelisiniz."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Kişisel Bilgilerin Korunması",
+            "paragraphs": [
+              "5.1 Kişisel bilgilerinizi, AB GDPR, Birleşik Krallık Veri Koruma Yasası, Hong Kong Kişisel Veriler (Gizlilik) Yönetmeliği ve dünya genelindeki veri koruma düzenlemelerine uygun olarak titizlikle işleriz. GDPR'nin 27. Maddesi uyarınca, AB ve Birleşik Krallık'ta yerel uyum temsilcileri atadık. Belirli iletişim bilgileri için lütfen \"GDPR ve Veri Koruma\" belgesine bakın.",
+              "5.2 Lisans Veren'in, bu Sözleşme ve Gizlilik Politikası uyarınca kişisel bilgileri toplayabileceğini, kullanabileceğini ve saklayabileceğini kabul edersiniz. Gizlilik Politikası, bu Sözleşme ile aynı yasal etkiye sahiptir.",
+              "5.3 Kişisel bilgilerinizi sızıntıya, kurcalamaya ve yetkisiz erişime karşı korumak için şifreleme ve anonimleştirme gibi güvenlik teknolojileri kullanırız.",
+              "5.4 Açık onayınız olmadan kişisel bilgilerinizi üçüncü taraflarla paylaşmayız; aşağıdaki durumlar hariç:",
+              "(1) Bunları kendiniz üçüncü taraflara ifşa ederseniz;",
+              "(2) Ulusal güvenlik, kamu güvenliği, halk sağlığı ve yasal adli veya idari gereklilikler tarafından zorunlu kılınırsa;",
+              "(3) Bu Yazılımın, diğer kullanıcıların veya üçüncü tarafların büyük yasal haklarını ve çıkarlarını korumak ve yasal hükümlere uygun olarak;",
+              "(4) Meşru kamu kaynaklarından elde edilen bilgiler;",
+              "(5) Kanun ve yönetmeliklerin öngördüğü diğer durumlar.",
+              "5.5 Kişisel bilgilerinizle ilgili olarak bilgi edinme, düzeltme, silme ve yetkiyi geri çekme yasal hakkına sahipsiniz. Kişisel bilgilerle ilgili ayrıntılı kurallar için lütfen Gizlilik Politikası'na bakın."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Şikayetler ve Bildirimler",
+            "paragraphs": [
+              "6.1 İhlal edici içeriği istemci üzerinden veya resmi iletişim e-postası aracılığıyla bildirebilir veya ihlal edici eylemler hakkında şikayette bulunabilirsiniz.",
+              "6.2 Haklarınız ihlal edilirse, şikayette bulunmak için hak kanıtı sunabilirsiniz. Şikayet edilen taraf, itiraz etmek için mülkiyet kanıtı sunabilir.",
+              "6.3 Genellikle incelemeyi 15 iş günü içinde tamamlar ve geri bildirim sağlarız. Karmaşık durumlarda, ilerleme hakkında sizi bilgilendiririz."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 İhlallerin Ele Alınması",
+            "paragraphs": [
+              "7.1 Bu Sözleşmeyi, platform kurallarını veya yerel yasa ve yönetmelikleri ihlal ederseniz, Lisans Veren uyarılar, özellik kısıtlamaları, içerik silme, hizmet askıya alma veya kalıcı hesap yasaklama gibi önlemler alabilir. Bu tür önlemlerden kaynaklanan kayıplar size ait olacaktır ve silinen içerik ve veriler geri yüklenmeyecektir.",
+              "7.2 Şüpheli yasa dışı veya suç teşkil eden faaliyetler keşfedilirse, Lisans Veren kanıtları saklayacak ve kolluk kuvvetlerine bildirecek ve soruşturmalarla işbirliği yapacaktır.",
+              "7.3 İhlaliniz, Lisans Veren'in üçüncü taraflarca talep edilmesine, idari yaptırımlara tabi tutulmasına veya itibar veya ekonomik kayıplara uğramasına neden olursa, Lisans Veren'in tüm kayıplarını üstlenirsiniz."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Fikri Mülkiyet",
+            "paragraphs": [
+              "8.1 Bu Yazılımın kod, arayüz, metin, görüntü, ses/video, efekt, ticari marka ve logolarının fikri mülkiyet hakları Lisans Veren'e aittir.",
+              "8.2 Lisans Veren, ürünün işletilmesi sırasında üretilen meşru veri ve bilgilerin tüm haklarına sahiptir.",
+              "8.3 Lisans Veren'in açık yazılı izni olmadan \"VicastCam\" markasını, ticari markalarını, alan adlarını, logolarını vb. kullanmanız, kopyalamanız, taklit etmeniz veya kaydetmeniz yasaktır. Yetkisiz kullanım nedeniyle kayıplara neden olursanız, tüm yasal sorumluluğu üstlenirsiniz.",
+              "8.4 Bu Yazılım, açık kaynak lisansları ve üçüncü taraf lisansları altında dağıtılan yazılım bileşenlerini içerir. Bu tür bileşenleri kullanırken ilgili lisans koşullarına kesinlikle uymalısınız."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Küçükler için Koşullar",
+            "paragraphs": [
+              "9.1 Küçükler, bu Yazılımı kullanmadan önce yasal vasilerinin açık onayını almalı ve vasinin gözetiminde kullanmalıdır. Vasiler, küçük kullanıcının hesabının kısıtlanmasını veya iptal edilmesini talep etme hakkına sahiptir.",
+              "9.2 Lisans Veren, küçük kullanıcıların kişisel bilgilerini dikkatli bir şekilde toplar. Vasiler, küçükleri kişisel gizliliklerini ve ağ güvenliğini korumaları için yönlendirmelidir.",
+              "9.3 Vasiler, yasalara uygun olarak vasılık görevlerini yerine getirmeli, küçükleri sağlıklı internet kullanımına yönlendirmeli ve internet bağımlılığını önlemelidir.",
+              "9.4 Küçükler ve vasileri, küçüğün kullanımından kaynaklanan tüm eylem ve sonuçlardan yasal olarak sorumludur.",
+              "9.5 Küçükler, canlı yayın için kamerayı kullanamaz veya videolarda tek başına görünemez ve yasa dışı veya kaba içerik yayınlayamaz.",
+              "9.6 Lisans Veren, bir küçüğün vasi onayı olmadan Yazılımı kullandığını tespit ederse, ilgili hesabı doğrudan kısıtlama veya yasaklama hakkına sahiptir.",
+              "9.7 Vasiler, küçüklerin yetkisiz ücretlendirmesini önlemek için ödeme hesaplarını ve şifrelerini uygun şekilde saklamalıdır. Herhangi bir sorunuz varsa, lütfen resmi müşteri hizmetleriyle iletişime geçin."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Sorumluluk Reddi",
+            "paragraphs": [
+              "10.1 Bu uygulamayı kullanımınızın tamamen kendi sorumluluğunuzda olduğunu açıkça kabul ve beyan edersiniz. Geçerli yasaların izin verdiği azami ölçüde, bu uygulama ve bu uygulama tarafından gerçekleştirilen veya sağlanan tüm hizmetler, tüm hatalarıyla birlikte \"olduğu gibi\" ve \"mevcut olduğu şekliyle\" sunulur ve Lisans Veren, bu uygulama ve tüm hizmetlerle ilgili olarak açık, zımni veya yasal tüm garantileri ve koşulları, özellikle satılabilirlik, tatmin edici kalite, belirli bir amaca uygunluk, doğruluk, sakin yararlanma ve üçüncü taraf haklarını ihlal etmeme zımni garantileri ve/veya koşulları dahil ancak bunlarla sınırlı olmamak üzere reddeder. Lisans Veren veya yetkili temsilcileri tarafından verilen hiçbir sözlü veya yazılı bilgi veya tavsiye garanti oluşturmaz. Bu uygulama veya hizmetlerin kusurlu olduğu tespit edilirse, gerekli tüm servis, onarım veya düzeltme masraflarının tamamını siz üstlenirsiniz. Bazı yargı bölgeleri zımni garantilerin hariç tutulmasına veya tüketicilerin geçerli yasal haklarına ilişkin sınırlamalara izin vermez, bu nedenle yukarıdaki istisnalar ve sınırlamalar sizin için geçerli olmayabilir.",
+              "10.2 Lisans Veren, hizmetlerin istikrarlı bir şekilde çalışmasını sağlamak için sektör standardı güvenlik teknolojilerini kullanacaktır. Yasaların ve düzenlemelerin izin verdiği ölçüde, Lisans Veren, mücbir sebep, doğal afetler, savaşlar, hükümet yasakları, ağ arızaları, sistem bakımı, bilgisayar korsanı saldırıları, virüsler, üçüncü taraf hizmet arızaları, cihaz anormallikleri veya Lisans Veren'in kontrolü dışındaki diğer faktörlerden kaynaklanan hizmet kesintileri veya geçici veri anormallikleri için tazminat ödemekle yükümlü olmayacaktır.",
+              "10.3 Sistem bakımı, sürüm yükseltmeleri, uyumluluk düzeltmeleri veya işletme ayarlamaları nedeniyle hizmetler askıya alınır veya sonlandırılırsa, uygulama içi bildirimler ve resmi web sitesi aracılığıyla makul bir ön bildirim sağlayacağız.",
+              "10.4 Cihazınızın hasar görmesi veya veri kaybı, kendi operasyonel hatalarınız, cihaz arızaları, hatalı ağ ayarları veya bu Yazılımın uygunsuz kullanımı nedeniyle meydana gelirse, tüm kayıplara siz katlanırsınız.",
+              "10.5 Meşru operasyonlar, sistem güvenliği, uyumluluk düzeltmeleri ve diğer nedenlere dayanarak hizmet özelliklerini ayarlama, hizmet içeriğini değiştirme veya sunucu verilerini temizleme hakkına sahibiz. Kullanıcı verilerini sebepsiz yere silmeyeceğiz.",
+              "10.6 Sorumluluğun Sınırlandırılması",
+              "Yasaların yasaklamadığı ölçüde, Lisans Veren, lisanslı uygulamayı kullanmanızdan veya kullanamamanızdan kaynaklanan veya bununla bağlantılı olarak, sözleşme, haksız fiil veya başka herhangi bir sorumluluk teorisine göre (Lisans Veren bu tür zararların olasılığı hakkında bilgilendirilmiş olsa bile) kişisel yaralanma veya kar kaybı, veri kaybı, iş kesintisi veya diğer ticari zararlar veya kayıplar dahil ancak bunlarla sınırlı olmamak üzere arızi, özel, dolaylı veya sonuçsal zararlardan sorumlu tutulamaz. Bazı yargı bölgeleri kişisel yaralanma veya arızi veya sonuçsal zararlar için sorumluluğun sınırlandırılmasına izin vermez, bu nedenle bu sınırlama sizin için geçerli olmayabilir.",
+              "Kişisel yaralanma ile ilgili yerel yasanın zorunlu hükümleri hariç olmak üzere, Lisans Veren'in tüm zararlar için toplam sorumluluğu 1 ABD Dolarını (USD 1,00) aşmayacaktır. Yukarıdaki sınırlamalar, yukarıdaki çözüm temel amacına hizmet etmese bile geçerli olacaktır.",
+              "Avrupa Birliği, Avrupa Ekonomik Alanı ve Birleşik Krallık gibi yargı bölgeleri için bu sorumluluk sınırlaması hükmü, yerel tüketici koruma yasalarına uygun olarak kesin olarak uygulanacaktır."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Çeşitli Hükümler",
+            "paragraphs": [
+              "11.1 Uygulanacak Hukuk",
+              "Bu Sözleşme ve sizinle Lisans Veren arasındaki ilişki, kanunlar ihtilafı hükümleri hariç olmak üzere, Çin Halk Cumhuriyeti Hong Kong Özel İdari Bölgesi yasalarına tabi olacaktır. Birleşmiş Milletler Uluslararası Mal Satışına İlişkin Sözleşmeler bu Sözleşmeye uygulanmayacaktır.",
+              "11.2 Uyuşmazlık Çözümü",
+              "Bu Sözleşmeden doğan veya bu Sözleşmeyle bağlantılı herhangi bir uyuşmazlık öncelikle dostane müzakerelerle çözülmeye çalışılacaktır. Müzakere başarısız olursa, siz ve Lisans Veren, uyuşmazlığı Çin Halk Cumhuriyeti Hong Kong Özel İdari Bölgesi'nde yetkili mahkemelere sunmayı kabul edersiniz.",
+              "AB üyesi bir devletin sakiniseniz, bu yetki hükmü, zorunlu yerel tüketici koruma yasaları kapsamındaki yasal haklarınızı etkilemez.",
+              "11.3 Sözleşme Değişiklikleri",
+              "Lisans Veren, ürün testi ve resmi operasyon sırasında bu Sözleşmeyi değiştirme hakkına sahiptir ve değişiklikleri uygulama içi bildirimler ve resmi web sitesi gibi makul yollarla yayınlayacaktır. Yayınlandıktan sonra, değiştirilen hükümler bu Sözleşmenin etkili bir parçası haline gelir ve aynı yasal etkiye sahiptir.",
+              "11.4 Tarafların İlişkisi",
+              "Siz ve Lisans Veren bağımsız medeni kişilersiniz. Bu Sözleşme, acentelik, ortaklık, istihdam, dernek veya ortak girişim gibi herhangi bir yasal ilişki oluşturmaz. Apple Inc. ve Google LLC yalnızca bu Yazılımın dağıtım ve ödeme kanallarıdır ve bu Yazılımın geliştirilmesine veya işletilmesine katılmazlar ve bu Yazılım veya hizmetleri için herhangi bir yasal sorumluluk taşımazlar.",
+              "11.5 Yürürlük ve Fesih",
+              "Bu Sözleşme, hükümleri kabul ettiğiniz ve bir hesap kaydettiğiniz tarihte yürürlüğe girer. Lisans Veren hizmetleri sona erdirdiğinde veya siz Yazılımı kullanma hakkınızı kaybettiğinizde sona erer. Fesihten sonra, kullanım süresi boyunca yükümlülükleriniz ve sorumluluklarınız yürürlükte kalır.",
+              "11.6 Başlıklar",
+              "Bu Sözleşmedeki bölüm başlıkları yalnızca kolaylık sağlamak içindir ve hükümlerin yorumlanmasını veya uygulanmasını etkilemez.",
+              "11.7 Telif Hakkı ve Haklar Bildirimi",
+              "Bu Sözleşme metninin telif hakkı Lisans Veren'e aittir. Lisans Veren, Sözleşmeyi yasalara, düzenlemelere ve iş ihtiyaçlarına uygun olarak değiştirme ve yasalara uygun şekilde yorumlama hakkına sahiptir."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

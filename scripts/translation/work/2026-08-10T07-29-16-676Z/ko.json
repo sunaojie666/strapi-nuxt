@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "VicastCam 소개",
+          "titleMain": "모바일 그린 스크린 및 화면 전송 기술을 이끄는 팀",
+          "titleHighlight": "",
+          "description": "저희는 모바일 이미징, 가상 카메라, 화면 전송 협업, 다중 플랫폼 라이브 스트리밍 연결에 집중하여 크리에이터, 교육자, 기업이 휴대폰을 안정적이고 선명하며 통합하기 쉬운 전문 라이브 스트리밍 도구로 전환할 수 있도록 돕습니다.",
+          "primaryButtonText": "영업 문의",
+          "secondaryButtonText": "SDK 보기"
+        },
+        "innovation": {
+          "sectionTag": "핵심 강점",
+          "titleMain": "혁신에 집중",
+          "titleHighlight": "라이브 스트리밍의 미래를 선도합니다",
+          "description": "모바일 도구에서 플랫폼 역량까지, VicastCam은 더 많은 기기, 플랫폼, 라이브 스트리밍 시나리오로 확장하고 있습니다.",
+          "featureTag": "핵심 역량",
+          "featureTitle": "업계가 신뢰하는 글로벌 라이브 스트리밍",
+          "featureDescription": "모바일 라이브 스트리밍, 가상 이미징, 화면 전송 협업, 크로스 플랫폼 연결을 중심으로 제품 경험을 지속적으로 개선하여 라이브 스트리밍 도구를 단일 기능에서 안정적이고 통합 가능한 워크플로우로 발전시키고 있습니다.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "국가 및 지역",
+              "text": "전 세계 크리에이터와 팀 지원"
+            },
+            {
+              "value": "2000+",
+              "label": "호환 플랫폼",
+              "text": "주요 라이브 스트리밍, 회의, 콘텐츠 시나리오 지원"
+            },
+            {
+              "value": "500000+",
+              "label": "총 사용 횟수",
+              "text": "안정성과 사용 편의성 지속 검증"
+            },
+            {
+              "value": "99.9%",
+              "label": "가동 시간",
+              "text": "안정적인 라이브 스트리밍 워크플로우 보장"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "로드맵",
+          "titleMain": "지속적인 진화",
+          "titleHighlight": "글로벌 라이브 스트리밍 생태계를 중심으로",
+          "description": "라이브 스트리밍 도구에서 플랫폼 역량까지, VicastCam은 더 많은 기기, 플랫폼, 라이브 스트리밍 시나리오로 확장하고 있습니다.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "모바일 집중 강화 및 핵심 그린 스크린 효과 개선",
+              "text": "모바일 가상 라이브 스트리밍의 기반 역량에 집중하여 그린 스크린 매팅 알고리즘을 지속적으로 반복하고 최적화하여 가장자리 왜곡, 조명 적응 불량, 다중 오버레이 지연과 같은 문제를 해결했습니다. 스티커, 배경 교체, 전경 폐색을 포함한 전체 가상 효과 제품군을 완성하여 가벼운 모바일 가상 라이브 스트리밍 기반을 구축했습니다. 휴대폰만으로도 전문적인 그린 스크린 라이브 스트리밍이 가능합니다."
+            },
+            {
+              "year": "2024",
+              "title": "화면 전송 연결 및 핵심 가상 카메라 기술 개발",
+              "text": "기기 간 연결성을 확장하여 고화질 휴대폰 화면 전송과 크로스 디바이스 동기화 전송에 집중했습니다. 글로벌 소프트웨어 캡처 및 출력을 위한 범용 가상 카메라 드라이버를 독자적으로 개발하여 라이브 스트리밍 소프트웨어, 편집 도구, 온라인 회의와의 호환성을 확보했습니다. 모바일과 데스크톱 간의 격차를 해소하여 휴대폰 콘텐츠를 PC로 원터치 전송하고 다중 출력 가상 카메라 위치를 지원하여 라이브 스트리밍 제작을 풍부하게 했습니다."
+            },
+            {
+              "year": "2025",
+              "title": "PC 전문 3D 라이브 스트리밍 어시스턴트 출시",
+              "text": "완전한 3D 가상 라이브 스트리밍 어시스턴트를 갖춘 전문 데스크톱 라이브 스트리밍 제품 라인을 제공했습니다. 3D 가상 장면, 디지털 휴먼 구동, 다중 카메라 전환, 실시간 조명 및 렌더링을 갖추어 상업용 라이브 스트리밍, 쇼룸의 가상 프레젠테이션, 대형 스크린 전자상거래 라이브 스트리밍에 적합합니다. 다중 레이어 합성, 실시간 자막, 인터랙티브 구성 요소를 강화하여 대규모 고품질 전문 라이브 스트리밍을 제공하는 팀의 요구를 충족합니다."
+            },
+            {
+              "year": "2026",
+              "title": "글로벌 확장 및 완전한 라이브 스트리밍 생태계 구축",
+              "text": "해외 라이브 스트리밍으로 종합적으로 확장하여 주요 해외 플랫폼 스트리밍, 국제 네트워크의 저지연 전송, 다국어 현지화에 적응했습니다. 지난 몇 년간의 세 가지 핵심 제품(모바일 그린 스크린, 화면 전송 가상 카메라, PC 3D 라이브 스트리밍)을 통합하고 개인 크리에이터, 기업 상업용, 개발자 SDK 통합의 세 가지 비즈니스 라인을 연결했습니다. 하드웨어, 소프트웨어, 다중 단말, 국내외 서비스를 통합하여 제작, 크로스 디바이스 상호 운용성, 글로벌 배포에 이르는 전체 체인 라이브 스트리밍 생태계를 완성했습니다."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "팔로우",
+          "titleMain": "문의하기",
+          "titleHighlight": "라이브 스트리밍의 미래를 함께 만들어가세요",
+          "description": "제품 업데이트, 라이브 스트리밍 팁 등 다양한 소식을 팔로우하세요",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube 계정",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube 계정",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube 계정",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube 계정",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube 계정",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "회사 소개",
+          "description": "VicastCam 팀, 제품 사명, 가상 카메라, AI 라이브 스트리밍 향상, 크로스 플랫폼 방송 역량에 대해 알아보세요."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "다운로드 센터",
+            "title": "VicastCam 다운로드"
+          },
+          "platform": {
+            "title": "플랫폼 선택",
+            "description": "VicastCam은 Windows, iOS, Android를 지원합니다. 전문 라이브 스트리밍을 시작하세요.",
+            "versionLabel": "버전",
+            "updatedAtLabel": "업데이트 날짜",
+            "sizeLabel": "패키지 크기",
+            "downloadAriaSuffix": "다운로드",
+            "closeQrAriaPrefix": "닫기",
+            "closeQrAriaSuffix": "다운로드 QR 코드",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Android 8.0 이상 지원",
+                "actionLabel": "지금 다운로드",
+                "qrTitle": "스캔하여 Android 버전 다운로드",
+                "qrDescription": "휴대폰으로 스캔하여 다운로드하세요"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "iOS 13.0 이상 지원",
+                "actionLabel": "App Store",
+                "qrTitle": "스캔하여 App Store로 이동",
+                "qrDescription": "휴대폰으로 스캔하여 iOS 버전 다운로드"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64비트",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Windows 10 이상 호환",
+                "actionLabel": "지금 다운로드",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "VicastCam을 선택해야 하는 이유",
+            "items": [
+              {
+                "key": "secure",
+                "title": "안전하고 신뢰할 수 있음",
+                "text": "다중 보안 메커니즘이 데이터와 계정을 보호합니다."
+              },
+              {
+                "key": "updates",
+                "title": "지속적인 업데이트",
+                "text": "더 안정적인 경험을 제공하기 위해 제품을 지속적으로 개선합니다."
+              },
+              {
+                "key": "support",
+                "title": "전문 지원",
+                "text": "24/7 기술 지원으로 문제를 신속하게 해결합니다."
+              },
+              {
+                "key": "tutorial",
+                "title": "비디오 튜토리얼",
+                "text": "상세한 비디오 튜토리얼과 기능 가이드로 빠르게 시작할 수 있습니다."
+              }
+            ]
+          },
+          "seo": {
+            "title": "다운로드 센터",
+            "description": "Windows, iOS, Android용 VicastCam 클라이언트를 다운로드하세요."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "ko",
+        "features_section": {
+          "title_tag": "기능",
+          "title_main": "올인원 라이브 스트리밍 솔루션",
+          "title_highlight": "전문 모바일 방송인을 위한",
+          "description": "핵심 라이브 스트리밍 기능을 통합하여 어디서나 매력적인 장면을 만들고 전문적인 비주얼 경험을 제공하세요."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "화면 전송 및 가상 카메라",
+            "desc": "휴대폰을 PC로 전송하고 가상 카메라 기술을 사용하여 전문적인 라이브 스트리밍을 만드세요."
+          },
+          {
+            "id": "multi_cam",
+            "title": "멀티 카메라 지원",
+            "desc": "라이브 스트리밍 중 원터치로 여러 카메라 각도를 전환하여 더 풍부한 시점을 제공합니다."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D 효과",
+            "desc": "멋진 2D/3D 효과 레이어를 추가하여 역동적이고 매력적인 라이브 방을 만드세요."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "멀티 플랫폼 스트리밍",
+            "desc": "YouTube, Twitch, TikTok, Facebook Live 등으로 스트리밍하세요."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "가상 컨트롤러",
+            "desc": "어떤 기기에서든 원격으로 라이브 스트리밍을 제어하세요: 장면 전환, 오디오 음소거, 효과 실시간 조정."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "동시 멀티 플랫폼 라이브",
+            "desc": "PC에서 TikTok, YouTube, Twitch, Instagram에 동시에 라이브 방송하세요."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "모바일 그린 스크린 효과 및 화면 전송",
+      "top_badge": "AI 기반 라이브 스트리밍 도구",
+      "hero_subtitle": "글로벌 라이브 스트리밍 생태계를 지원합니다",
+      "hero_description_1": "VicastCam은 고급 AI 매팅을 사용하여 라이브 스트리밍 중에 가상 배경을 원활하게 전환할 수 있어",
+      "hero_description_2": "전문적인 이미지를 높이는 몰입감 있는 경험을 제공합니다.",
+      "user_count_label": "글로벌 사용자",
+      "rating_label": "App Store 평점",
+      "download_count_label": "글로벌 다운로드",
+      "app_store_url": "App Store에서 다운로드",
+      "google_play_url": "Android에서 다운로드",
+      "desktop_client_url": "데스크톱 클라이언트 다운로드",
+      "request_success": "요청 성공",
+      "request_fail": "요청 실패",
+      "request_loading": "로딩 중"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "요금제",
+          "titleMain": "나에게 맞는 요금제를",
+          "titleHighlight": "선택하세요",
+          "description": "무료로 체험하거나 다른 요금제를 선택하세요",
+          "priceAltSuffix": "가격",
+          "freePlanMessage": "무료 사용자는 구매할 필요가 없습니다",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "무료",
+              "description": "무료로 다운로드하고 등록할 수 있으며 기본 기능을 무료로 사용할 수 있습니다.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/월",
+              "priceNote": "",
+              "cta": "시작하기",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "단일 장면으로 제작",
+                "최대 4개 레이어 자유롭게 배치",
+                "다양한 라이브 배경 자료 이용",
+                "PC 화면 전송 기본 품질",
+                "기본 자연 미용 효과"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "월간",
+              "description": "한 달 전체 이용권을 활성화하여 저렴하게 체험해보세요.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/월",
+              "priceNote": "30일 이용권",
+              "cta": "구매",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "모든 모바일 기능",
+                "PC 화면 전송 라이브 스트리밍",
+                "HD 라이브 스트리밍 품질",
+                "고급 미용 효과",
+                "독점 라이브 스트리밍 효과"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "연간",
+              "description": "연간 할인으로 최고의 가치를 누리세요.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/년",
+              "priceNote": "365일 이용권",
+              "cta": "구매",
+              "badgeText": "가장 인기",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "모든 모바일 기능",
+                "PC 화면 전송 라이브 스트리밍",
+                "HD 라이브 스트리밍 품질",
+                "고급 미용 효과",
+                "독점 라이브 스트리밍 효과"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "평생",
+              "description": "일회성 구매로 평생 이용권을 제공하며, 장기 크리에이터에게 적합합니다.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "평생 이용권",
+              "cta": "구매",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "모든 모바일 기능",
+                "PC 화면 전송 라이브 스트리밍",
+                "HD 라이브 스트리밍 품질",
+                "고급 미용 효과",
+                "독점 라이브 스트리밍 효과"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "월간",
+                "subtitle": "한 달 전체 이용권을 활성화하여 저렴하게 체험해보세요.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/월",
+                "cta": "구매",
+                "benefits": [
+                  "모든 모바일 기능",
+                  "PC 화면 전송 라이브 스트리밍",
+                  "HD 라이브 스트리밍 품질",
+                  "고급 미용 효과",
+                  "독점 라이브 스트리밍 효과"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "연간",
+                "subtitle": "연간 할인으로 최고의 가치를 누리세요.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/년",
+                "cta": "구매",
+                "benefits": [
+                  "모든 모바일 기능",
+                  "PC 화면 전송 라이브 스트리밍",
+                  "HD 라이브 스트리밍 품질",
+                  "고급 미용 효과",
+                  "독점 라이브 스트리밍 효과"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "평생",
+                "subtitle": "일회성 구매로 평생 이용권을 제공하며, 장기 크리에이터에게 적합합니다.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "구매",
+                "benefits": [
+                  "모든 모바일 기능",
+                  "PC 화면 전송 라이브 스트리밍",
+                  "HD 라이브 스트리밍 품질",
+                  "고급 미용 효과",
+                  "독점 라이브 스트리밍 효과"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "두바이, 아랍에미리트"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "두바이, 아랍에미리트"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "두바이, 아랍에미리트"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "두바이, 아랍에미리트"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "두바이, 아랍에미리트"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "ko",
+        "slug": "team",
+        "pageName": "비즈니스 파트너십",
+        "hero": {
+          "eyebrow": "비즈니스 파트너십",
+          "title": "VicastCam 글로벌 에이전시 파트너 프로그램",
+          "highlight": "함께하세요",
+          "description": "전문 가상 카메라 라이브 스트리밍 도구로, 글로벌 채널 파트너에게 개방됩니다. 통일된 USD 결제, 지역 독점권, 전체 퍼널 마케팅 지원을 제공합니다.",
+          "actions": {
+            "primary": "지금 신청",
+            "secondary": "자세히 보기"
+          }
+        },
+        "advantages": {
+          "eyebrow": "파트너가 되어야 하는 이유",
+          "titlePrefix": "왜",
+          "titleHighlight": "우리와 파트너가 되어야 하나요?",
+          "description": "판매하기 쉽고, 위험이 낮으며, 마진이 높습니다—VicastCam이 세 가지 모두를 제공합니다.",
+          "items": [
+            {
+              "title": "거대한 크리에이터 시장",
+              "description": "라이브 스트리밍, 전자상거래, 숏폼, 콘텐츠 제작을 아우르며 글로벌 크리에이터 수요가 꾸준히 증가하여 큰 시장과 안정적인 전환을 제공합니다.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "재고 없음, 온라인 전달",
+              "description": "순수 소프트웨어 라이선스로 활성화 코드를 클라우드로 즉시 전달합니다. 재고, 물류, 비용이 없으며 대량 전달과 빠른 활성화를 지원합니다.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "완전한 기능의 경쟁 우위",
+              "description": "그린 스크린 매팅, 가상 배경, 멀티 플랫폼 스트리밍, AI 효과가 모두 포함되어 있습니다. 완전한 기능으로 시연, 판매, 갱신이 쉽습니다.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "파트너십 규칙",
+          "titlePrefix": "자격",
+          "titleHighlight": "및 정산",
+          "description": "모든 파트너가 안심할 수 있도록 투명하고 공정하며 예측 가능한 에이전시 정책을 제공합니다.",
+          "agentLevelTitle": "에이전트 등급",
+          "agentLevels": [
+            {
+              "title": "일반 에이전트",
+              "description": "초기 주문 $30,000 USD로 장기 유통 권리, 등급별 할인, 표준 채널 지원을 받을 수 있습니다.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "지역 독점 에이전트",
+              "description": "분기별 구매 목표를 달성하면 단일 지역에 대한 독점 유통 권리를 얻을 수 있으며, 해당 지역에는 다른 채널이 승인되지 않습니다.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "공급 및 정산",
+          "settlementRules": [
+            "USD로 통일 정산하며, HSBC 홍콩 법인 계좌를 통한 결제를 지원합니다",
+            "배치 활성화 코드가 클라우드를 통해 즉시 전달되어 고객에게 빠르게 제공됩니다",
+            "장기 파트너는 등급별 가격을 누리며, 구매량이 많을수록 단가가 낮아집니다"
+          ]
+        },
+        "support": {
+          "eyebrow": "채널 지원",
+          "titlePrefix": "네 가지 지원",
+          "titleHighlight": "기둥",
+          "description": "자료, 기술 지원, 브랜드 인증, 신기능 조기 액세스까지 전체 퍼널 지원을 제공합니다.",
+          "items": [
+            {
+              "title": "완벽한 마케팅 자료",
+              "description": "웹사이트 배너, 숏폼, Reddit/Facebook 광고 카피, 제품 리뷰 자료를 즉시 이용할 수 있습니다.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "전담 영어 기술 지원",
+              "description": "해외 기술 전문가가 SDK 디버깅, 라이브 스트리밍 기능 애프터서비스, 고객 문제 해결을 지원합니다.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "공식 브랜드 인증",
+              "description": "VicastCam 상표와 제품 이미지를 지역 온라인 및 오프라인 프로모션에 사용할 수 있습니다.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "우선 베타 액세스",
+              "description": "에이전트는 모든 AI 효과, 스트리밍 업데이트, 신기능을 조기에 테스트하고 판매할 수 있습니다.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "파트너십 모델",
+          "titlePrefix": "유연한",
+          "titleHighlight": "파트너십 모델",
+          "description": "채널, 기술 공급업체, 엔터프라이즈 서비스 제공업체 등 어떤 경우에도 맞는 모델이 있습니다.",
+          "items": [
+            {
+              "title": "채널 에이전시 (권장)",
+              "description": "해외 소프트웨어 스토어, 라이브 스트리밍 장비 상점, 해외 MCN, 크로스보더 전자상거래 팀이 소프트웨어 라이선스를 대규모로 유통할 수 있습니다.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM 화이트 라벨 SDK",
+              "description": "VicastCam 브랜딩을 모두 제거하고 로고, 소프트웨어 이름, UI를 맞춤 설정하여 자체 브랜드로 판매할 수 있습니다.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "엔터프라이즈 맞춤화",
+              "description": "라이브 스트리밍 서비스 제공업체, 교육 기관, 정부/기업 회의 프로젝트를 위한 맞춤 기능과 프라이빗 배포 옵션을 제공합니다.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "신청",
+          "titlePrefix": "양식을 작성하여",
+          "titleHighlight": "온라인으로 신청하세요",
+          "description": "아래 정보를 입력하면 1-3 영업일 이내에 연락드리겠습니다.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "담당자 이름",
+              "placeholder": "이름을 입력하세요"
+            },
+            {
+              "name": "companyName",
+              "label": "회사 이름",
+              "placeholder": "회사 이름을 입력하세요"
+            },
+            {
+              "name": "email",
+              "label": "이메일",
+              "placeholder": "이메일을 입력하세요"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/전화",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "비즈니스 유형",
+              "placeholder": "비즈니스 유형 선택",
+              "options": [
+                "채널 에이전시",
+                "OEM 화이트 라벨 SDK",
+                "엔터프라이즈 맞춤화",
+                "기타"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "주요 지역",
+              "placeholder": "예: 북미/유럽/동남아시아"
+            },
+            {
+              "name": "position",
+              "label": "직책",
+              "placeholder": "직책을 입력하세요"
+            },
+            {
+              "name": "budget",
+              "label": "예상 분기 구매 예산",
+              "placeholder": "예산을 입력하세요"
+            },
+            {
+              "name": "country",
+              "label": "국가",
+              "placeholder": "국가/지역 선택",
+              "options": [
+                "중국",
+                "미국",
+                "인도네시아",
+                "말레이시아",
+                "태국",
+                "베트남",
+                "필리핀",
+                "스페인",
+                "포르투갈",
+                "사우디아라비아",
+                "일본",
+                "터키",
+                "이탈리아",
+                "독일",
+                "프랑스",
+                "대한민국",
+                "러시아",
+                "폴란드",
+                "네덜란드",
+                "인도",
+                "파키스탄",
+                "방글라데시",
+                "이란",
+                "기타"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "회사 웹사이트",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "파트너십 의도",
+          "intentPlaceholder": "비즈니스 모델, 목표 시장, 원하는 파트너십 방식을 간략히 설명하세요...",
+          "note": "*필수 입력 사항입니다. 귀하의 정보는 기밀로 유지되며 파트너십 커뮤니케이션에만 사용됩니다.",
+          "submitLabel": "파트너십 정보 제출"
+        },
+        "contact": {
+          "title": "즉시 비즈니스 문의",
+          "items": [
+            {
+              "label": "비즈니스 이메일",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "홍콩 핫라인",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "근무 시간",
+              "value": "GMT+8, 월요일~금요일, 9:00-18:00"
+            }
+          ],
+          "note": "긴급한 비즈니스 문의는 WhatsApp 또는 이메일로 직접 연락주세요.",
+          "qr": {
+            "label": "스캔하여 WhatsApp으로 문의",
+            "alt": "VicastCam 비즈니스 문의 QR 코드"
+          }
+        },
+        "seo": {
+          "title": "VicastCam 비즈니스 파트너십",
+          "description": "채널 에이전시, OEM 화이트 라벨 SDK, 엔터프라이즈 맞춤화 지원을 위해 VicastCam 글로벌 파트너 프로그램에 참여하세요.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCam 글로벌 파트너 프로그램"
+        }
+      }
+    }
+  ]
+}

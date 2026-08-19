@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Centro de tutoriales",
+    "titleMain": "Comienza tu viaje de aprendizaje",
+    "titleHighlight": "con VicastCam",
+    "descriptionMain": "Domina todas las funciones del software",
+    "descriptionHighlight": "Ponte en marcha rápidamente"
+  },
+  "player": {
+    "sectionAriaLabel": "Lista de tutoriales",
+    "catalogAriaLabel": "Catálogo de tutoriales",
+    "previousLabel": "Anterior",
+    "nextLabel": "Siguiente",
+    "firstLessonText": "Estás en la primera lección",
+    "lastLessonText": "Estás en la última lección",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

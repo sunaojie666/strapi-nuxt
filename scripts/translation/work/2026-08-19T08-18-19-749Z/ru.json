@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Личный кабинет",
+            "description": "Страница личного кабинета VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Навигация по аккаунту",
+            "defaultProfileName": "Пользователь",
+            "emptyContent": "Нет контента",
+            "copyButtonLabel": "Копировать",
+            "monthSelectLabel": "Выберите месяц",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "Информация о пользователе не найдена. Пожалуйста, войдите снова.",
+            "paginationLabel": "Пагинация",
+            "previousPageLabel": "Предыдущая страница",
+            "nextPageLabel": "Следующая страница",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Перейти",
+              "unit": "стр.",
+              "ariaLabel": "Перейти на конкретную страницу",
+              "buttonLabel": "Перейти"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Личный кабинет",
+            "logout": "Выйти",
+            "profileAriaSuffix": "Меню аккаунта"
+          },
+          "sidebar": {
+            "ariaLabel": "Навигация по аккаунту",
+            "menus": {
+              "account": "Информация об аккаунте",
+              "membership": "Подписка",
+              "redeem": "Активация кода",
+              "purchaseHistory": "История покупок",
+              "team": "Моя команда",
+              "earnings": "Доход"
+            }
+          },
+          "account": {
+            "ariaLabel": "Информация об аккаунте",
+            "profileTitle": "Информация об аккаунте",
+            "usernameLabel": "Имя пользователя",
+            "passwordLabel": "Пароль",
+            "passwordMask": "********",
+            "defaultUsername": "Псевдоним не задан",
+            "emailLabel": "Привязанная почта",
+            "emailPlaceholder": "Введите email",
+            "codePlaceholder": "Введите код подтверждения",
+            "sendCodeButton": "Получить код",
+            "bindButton": "Привязать email",
+            "alreadyBound": "Привязан",
+            "unboundEmail": "Не привязан",
+            "emailBindTip": "После привязки email нельзя изменить. Убедитесь, что адрес указан верно.",
+            "emailRequired": "Введите корректный email",
+            "codeRequired": "Введите код подтверждения",
+            "codeSent": "Код подтверждения отправлен. Проверьте почту.",
+            "bindSuccess": "Email успешно привязан",
+            "bindFailed": "Не удалось привязать email. Проверьте код и попробуйте снова.",
+            "requestFailed": "Ошибка запроса. Попробуйте позже.",
+            "inviteTitle": "Пригласительная ссылка",
+            "inviteDescription": "Скопируйте свою персональную пригласительную ссылку. Когда друзья зарегистрируются и купят подписку, вы получите вознаграждение.",
+            "emptyInviteLink": "Пригласительная ссылка недоступна"
+          },
+          "membership": {
+            "ariaLabel": "Моя подписка",
+            "title": "Моя подписка",
+            "badgeAlt": "Значок подписки",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Бесплатный пользователь",
+            "activeVipName": "VIP-участник",
+            "expirePrefix": "Действует до",
+            "emptyExpireDate": "Не активирована",
+            "activeStatus": "Активна",
+            "inactiveStatus": "Неактивна",
+            "compareTitle": "Сравнение тарифов",
+            "compareHeaders": {
+              "feature": "Возможность",
+              "normal": "Бесплатно",
+              "month": "На месяц",
+              "year": "На год",
+              "life": "Навсегда"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "На месяц",
+                "subtitle": "Подходит для краткосрочного использования",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/мес",
+                "cta": "Начать",
+                "benefits": [
+                  "Основные функции виртуальной камеры",
+                  "Виртуальные фоны и улучшение внешности",
+                  "Многоплатформенная трансляция",
+                  "Стандартные обновления"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "На год",
+                "subtitle": "Выгоднее для долгосрочного использования",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/год",
+                "cta": "Начать",
+                "benefits": [
+                  "Всё из тарифа «На месяц»",
+                  "Все премиум-функции в течение года",
+                  "Приоритетные обновления функций",
+                  "Персональная поддержка участников"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Навсегда",
+                "subtitle": "Платите один раз — пользуйтесь вечно",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/навсегда",
+                "cta": "Начать",
+                "benefits": [
+                  "Всё из тарифа «На год»",
+                  "Премиум-функции навсегда",
+                  "Долгосрочные обновления",
+                  "Отдельный канал поддержки"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Срок подписки",
+                "normal": "Бесплатно навсегда",
+                "month": "30 дней",
+                "year": "365 дней",
+                "life": "Навсегда"
+              },
+              {
+                "feature": "Виртуальная камера для ПК",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Свои виртуальные фоны",
+                "normal": "1 набор",
+                "month": "Безлимит",
+                "year": "Безлимит",
+                "life": "Безлимит"
+              },
+              {
+                "feature": "Пресеты трансляции",
+                "normal": "Нет",
+                "month": "Безлимит",
+                "year": "Безлимит",
+                "life": "Безлимит"
+              },
+              {
+                "feature": "Официальные материалы",
+                "normal": "Ограниченно",
+                "month": "Безлимит",
+                "year": "Безлимит",
+                "life": "Безлимит"
+              },
+              {
+                "feature": "Управление с контроллера",
+                "normal": "Да",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Режим сравнения сцен",
+                "normal": "Да",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Подписи к сценам",
+                "normal": "Ограниченно",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Музыка для сцен",
+                "normal": "Ограниченно",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Подключение нескольких камер",
+                "normal": "Нет",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Расширенные фильтры красоты",
+                "normal": "Базовые",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "AI-маттинг для хромакея",
+                "normal": "Да",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Анимации отслеживания движений",
+                "normal": "Ограниченно",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Эффекты камеры для сцен",
+                "normal": "Ограниченно",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Библиотека VIP-эффектов",
+                "normal": "Ограниченно",
+                "month": "Безлимит",
+                "year": "Безлимит",
+                "life": "Безлимит"
+              },
+              {
+                "feature": "Трансляция на платформы",
+                "normal": "Да",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Выход 4K",
+                "normal": "Нет",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              },
+              {
+                "feature": "Комиссия за приглашения",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Вознаграждение за субпартнёров",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Канал поддержки",
+                "normal": "Самообслуживание в сообществе",
+                "month": "Стандартная очередь",
+                "year": "Приоритетный ответ",
+                "life": "Отдельная поддержка"
+              },
+              {
+                "feature": "Ранний доступ к новым функциям",
+                "normal": "Нет",
+                "month": "Да",
+                "year": "Да",
+                "life": "Да"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Активировать код",
+            "title": "Активировать код",
+            "tip": "Введите код активации подписки. Подписка будет активирована сразу после активации.",
+            "placeholder": "Введите код активации",
+            "submitButton": "Активировать",
+            "agreementPrefix": "Активируя код, вы соглашаетесь с",
+            "userProtocolText": "Пользовательским соглашением",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Не удалось активировать код. Проверьте код и попробуйте снова."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "История покупок",
+            "title": "История покупок",
+            "tabTitle": "Покупки",
+            "exchangeTabTitle": "Активации",
+            "tableHeaders": {
+              "title": "Тип",
+              "date": "Время оплаты",
+              "price": "Сумма",
+              "paymentMethod": "Способ оплаты",
+              "status": "Статус",
+              "exchangeDate": "Время активации",
+              "exchangeCode": "Код активации"
+            },
+            "exchangeTableHeaders": {
+              "date": "Время активации",
+              "code": "Код активации"
+            },
+            "cardTypes": {
+              "month": "Месячная карта",
+              "year": "Годовая карта",
+              "life": "Бессрочная карта",
+              "default": "Карта участника"
+            },
+            "orderStatuses": {
+              "pending": "Ожидает оплаты",
+              "paid": "Оплачено",
+              "closed": "Закрыто",
+              "refunded": "Возвращено",
+              "unknown": "Неизвестно"
+            },
+            "secretLabels": {
+              "show": "Показать пароль",
+              "hide": "Скрыть пароль"
+            },
+            "secretMask": "******",
+            "emptyText": "Покупок пока нет",
+            "exchangeEmptyText": "Активаций пока нет",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Банковская карта",
+              "creditcard": "Кредитная карта",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Криптовалюта",
+              "balance": "Баланс",
+              "free": "Бесплатно"
+            }
+          },
+          "team": {
+            "ariaLabel": "Моя команда",
+            "title": "Моя команда",
+            "referrerLabel": "Мой реферер",
+            "levelOne": "Участники 1 уровня",
+            "levelTwo": "Участники 2 уровня",
+            "tableHeaders": {
+              "name": "Имя участника",
+              "status": "Статус подписки",
+              "joinedAt": "Время регистрации"
+            },
+            "memberStatus": {
+              "free": "Бесплатный пользователь",
+              "vip": "VIP-пользователь"
+            },
+            "emptyMemberName": "Безымянный пользователь",
+            "emptyReferrer": "Нет реферера",
+            "emptyTeam": "Участников пока нет",
+            "errors": {
+              "loadFail": "Не удалось загрузить участников команды. Попробуйте позже."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Центр доходов",
+            "title": "Обзор доходов",
+            "commissionTitle": "Детали комиссий",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Общий доход",
+                "desc": "Всего заработано комиссий на сегодня"
+              },
+              {
+                "key": "month",
+                "title": "За месяц",
+                "desc": "Комиссии за текущий месяц"
+              },
+              {
+                "key": "settling",
+                "title": "Ожидает выплаты",
+                "value": "0.00",
+                "desc": "Сумма, ожидающая выплаты"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Доступно для вывода",
+                "desc": "Сумма, доступная для вывода сейчас",
+                "action": "Вывести"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Имя пользователя",
+              "saleTime": "Время продажи",
+              "goodsInfo": "Товар",
+              "commission": "Комиссия"
+            },
+            "emptyCommission": "Комиссий пока нет",
+            "errors": {
+              "loadFail": "Не удалось загрузить детали комиссий. Попробуйте позже."
+            },
+            "withdraw": {
+              "ariaLabel": "Запрос на вывод",
+              "title": "Запрос на вывод",
+              "closeLabel": "Закрыть диалог вывода",
+              "balanceLabel": "Доступный баланс",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Сумма вывода",
+              "amountPlaceholder": "Введите сумму вывода",
+              "allButton": "Все",
+              "allAmountValue": "0.00",
+              "amountTip": "Проверьте правильность суммы. После отправки запрос будет рассмотрен вручную.",
+              "methodLabel": "Способ вывода",
+              "methods": [
+                "Банковская карта",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Банковская карта",
+              "nameLabel": "Имя получателя",
+              "namePlaceholder": "Введите имя получателя",
+              "defaultName": "",
+              "bankCardLabel": "Номер счета",
+              "bankCardPlaceholder": "Введите номер карты, email PayPal или адрес кошелька",
+              "remarkLabel": "Комментарий",
+              "remarkPlaceholder": "Добавьте дополнительные примечания",
+              "note": "Запросы на вывод обрабатываются в течение 1-3 рабочих дней.",
+              "cancelButton": "Отмена",
+              "submitButton": "Отправить запрос"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Активация прошла успешно",
+            "operationFailed": "Не удалось активировать",
+            "invalidCard": "Неверный код активации",
+            "cardNotFound": "Код активации не найден",
+            "cardDisabled": "Код активации отключен",
+            "cardExpired": "Срок действия кода активации истек"
+          },
+          "successMessage": "Операция выполнена успешно"
+        }
+      }
+    }
+  ]
+}

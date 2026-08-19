@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Primeros pasos",
+      "count": "11 lecciones",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Crea tu primer estudio virtual",
+          "description": "Configura y ajusta tu primer estudio virtual desde cero.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Entiende las herramientas de imagen",
+          "description": "Explora los conceptos básicos de las herramientas de imagen y sus usos más comunes.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Trabaja con capas",
+          "description": "Conoce el panel de capas y cómo gestionarlas de forma eficaz.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Usa capas de fondo",
+          "description": "Aprende a añadir y ajustar capas de fondo para tu escena.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Usa capas de retrato",
+          "description": "Añade capas de retrato para mejorar tu producción en directo.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Usa capas de imagen",
+          "description": "Añade y edita capas de imagen en la configuración de tu estudio.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Usa capas de vídeo",
+          "description": "Añade clips de vídeo y controla los ajustes de reproducción.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Usa capas de efectos",
+          "description": "Aplica efectos visuales a tu transmisión en directo con capas de efectos.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Usa capas de subtítulos",
+          "description": "Crea subtítulos y personaliza su apariencia.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Usa avatares virtuales",
+          "description": "Dale vida a tu transmisión con la integración de avatares virtuales.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Usa escenas",
+          "description": "Cambia entre diferentes diseños de escena sin interrupciones durante tu transmisión.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Tutoriales avanzados",
+      "count": "6 lecciones",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Usa capas de movimiento de cámara",
+          "description": "Crea tomas dinámicas con capas de movimiento de cámara.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Usa animación de trayectoria",
+          "description": "Controla las rutas de movimiento de los elementos con la función de trayectoria.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Usa capas multicámara",
+          "description": "Configura capas multicámara para cambiar de ángulo rápidamente.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Usa el controlador",
+          "description": "Gestiona toda tu transmisión desde un único panel de control.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Configuración y mezcla de audio",
+          "description": "Configura entradas, salidas y ajustes de mezcla de audio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Copia de seguridad y restauración",
+          "description": "Haz una copia de seguridad de la configuración de tu estudio y restáurala cuando sea necesario.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "アカウントセンター",
+            "description": "VicastCam アカウントセンターのページ"
+          },
+          "common": {
+            "sidebarAriaLabel": "アカウントナビゲーション",
+            "defaultProfileName": "ユーザー",
+            "emptyContent": "コンテンツがありません",
+            "copyButtonLabel": "コピー",
+            "monthSelectLabel": "月を選択",
+            "yearSuffix": "年",
+            "monthSuffix": "月",
+            "userMissing": "ユーザー情報が見つかりません。再度ログインしてください。",
+            "paginationLabel": "ページネーション",
+            "previousPageLabel": "前のページ",
+            "nextPageLabel": "次のページ",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "移動",
+              "unit": "ページ",
+              "ariaLabel": "特定のページに移動",
+              "buttonLabel": "移動"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "アカウントセンター",
+            "logout": "ログアウト",
+            "profileAriaSuffix": "アカウントメニュー"
+          },
+          "sidebar": {
+            "ariaLabel": "アカウントナビゲーション",
+            "menus": {
+              "account": "アカウント情報",
+              "membership": "メンバーシップ",
+              "redeem": "コード利用",
+              "purchaseHistory": "購入履歴",
+              "team": "マイチーム",
+              "earnings": "収益"
+            }
+          },
+          "account": {
+            "ariaLabel": "アカウント情報",
+            "profileTitle": "アカウント情報",
+            "usernameLabel": "ユーザー名",
+            "passwordLabel": "パスワード",
+            "passwordMask": "********",
+            "defaultUsername": "ニックネーム未設定",
+            "emailLabel": "連携メール",
+            "emailPlaceholder": "メールアドレスを入力",
+            "codePlaceholder": "認証コードを入力",
+            "sendCodeButton": "コードを取得",
+            "bindButton": "メールを連携",
+            "alreadyBound": "連携済み",
+            "unboundEmail": "未連携",
+            "emailBindTip": "連携後、メールアドレスは変更できません。メールアドレスが正しいことを確認してください。",
+            "emailRequired": "有効なメールアドレスを入力してください",
+            "codeRequired": "認証コードを入力してください",
+            "codeSent": "認証コードを送信しました。メールをご確認ください。",
+            "bindSuccess": "メールを連携しました",
+            "bindFailed": "メールの連携に失敗しました。コードを確認してもう一度お試しください。",
+            "requestFailed": "リクエストに失敗しました。後でもう一度お試しください。",
+            "inviteTitle": "招待リンク",
+            "inviteDescription": "個人の招待リンクをコピーして、友達が登録してメンバーシップを購入すると、報酬が得られます。",
+            "emptyInviteLink": "招待リンクがありません"
+          },
+          "membership": {
+            "ariaLabel": "メンバーシップ",
+            "title": "マイメンバーシップ",
+            "badgeAlt": "メンバーシップバッジ",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "無料ユーザー",
+            "activeVipName": "VIPメンバー",
+            "expirePrefix": "有効期限",
+            "emptyExpireDate": "未アクティブ",
+            "activeStatus": "有効",
+            "inactiveStatus": "無効",
+            "compareTitle": "プラン比較",
+            "compareHeaders": {
+              "feature": "機能",
+              "normal": "無料",
+              "month": "月額",
+              "year": "年額",
+              "life": "永久"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月額",
+                "subtitle": "短期利用に最適",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "始める",
+                "benefits": [
+                  "コアな仮想カメラ機能",
+                  "仮想背景＆美顔機能",
+                  "マルチプラットフォーム配信",
+                  "標準アップデート"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年額",
+                "subtitle": "長期利用にお得",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/年",
+                "cta": "始める",
+                "benefits": [
+                  "月額プランのすべて",
+                  "1年間すべてのプレミアム機能",
+                  "優先機能アップデート",
+                  "専用メンバーサポート"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "永久",
+                "subtitle": "一度のお支払いでずっと使える",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/永久",
+                "cta": "始める",
+                "benefits": [
+                  "年額プランのすべて",
+                  "永久にプレミアム機能",
+                  "長期アップデート",
+                  "専用サポートチャネル"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "メンバーシップ期間",
+                "normal": "永久無料",
+                "month": "30日",
+                "year": "365日",
+                "life": "永久"
+              },
+              {
+                "feature": "デスクトップ仮想カメラ",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "カスタム仮想背景",
+                "normal": "1セット",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "配信プリセット",
+                "normal": "なし",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "公式アセット",
+                "normal": "限定",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "コントローラーによるリモート操作",
+                "normal": "あり",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "シーン比較モード",
+                "normal": "あり",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "シーンキャプション",
+                "normal": "限定",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "シーン音楽",
+                "normal": "限定",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "マルチカメラ入力",
+                "normal": "なし",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "高度な美顔フィルター",
+                "normal": "基本",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "AIグリーンスクリーン合成",
+                "normal": "あり",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "モーショントラッキングアニメーション",
+                "normal": "限定",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "シーンカメラエフェクト",
+                "normal": "限定",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "VIPエフェクトライブラリ",
+                "normal": "限定",
+                "month": "無制限",
+                "year": "無制限",
+                "life": "無制限"
+              },
+              {
+                "feature": "プラットフォーム配信",
+                "normal": "あり",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "4K出力",
+                "normal": "なし",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              },
+              {
+                "feature": "紹介コミッション率",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "サブアフィリエイトリベート",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "サポートチャネル",
+                "normal": "コミュニティセルフサービス",
+                "month": "標準キュー",
+                "year": "優先対応",
+                "life": "専用サポート"
+              },
+              {
+                "feature": "新機能の早期アクセス",
+                "normal": "なし",
+                "month": "あり",
+                "year": "あり",
+                "life": "あり"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "コードを利用",
+            "title": "コードを利用",
+            "tip": "メンバーシップの引き換えコードを入力してください。引き換え後、すぐにメンバーシップが有効になります。",
+            "placeholder": "引き換えコードを入力",
+            "submitButton": "引き換える",
+            "agreementPrefix": "引き換えることで、以下に同意したことになります：",
+            "userProtocolText": "利用規約",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "引き換えに失敗しました。コードを確認してもう一度お試しください。"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "購入履歴",
+            "title": "購入履歴",
+            "tabTitle": "購入",
+            "exchangeTabTitle": "交換",
+            "tableHeaders": {
+              "title": "種別",
+              "date": "支払い日時",
+              "price": "金額",
+              "paymentMethod": "支払い方法",
+              "status": "ステータス",
+              "exchangeDate": "交換日時",
+              "exchangeCode": "交換コード"
+            },
+            "exchangeTableHeaders": {
+              "date": "交換日時",
+              "code": "交換コード"
+            },
+            "cardTypes": {
+              "month": "月額カード",
+              "year": "年額カード",
+              "life": "永久カード",
+              "default": "メンバーシップカード"
+            },
+            "orderStatuses": {
+              "pending": "支払い待ち",
+              "paid": "支払い済み",
+              "closed": "クローズ",
+              "refunded": "返金済み",
+              "unknown": "不明"
+            },
+            "secretLabels": {
+              "show": "パスワードを表示",
+              "hide": "パスワードを隠す"
+            },
+            "secretMask": "******",
+            "emptyText": "購入記録はまだありません",
+            "exchangeEmptyText": "交換記録はまだありません",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "銀行カード",
+              "creditcard": "クレジットカード",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "暗号通貨",
+              "balance": "残高",
+              "free": "無料"
+            }
+          },
+          "team": {
+            "ariaLabel": "マイチーム",
+            "title": "マイチーム",
+            "referrerLabel": "紹介者",
+            "levelOne": "1級メンバー",
+            "levelTwo": "2級メンバー",
+            "tableHeaders": {
+              "name": "メンバー名",
+              "status": "メンバーシップステータス",
+              "joinedAt": "参加日時"
+            },
+            "memberStatus": {
+              "free": "無料ユーザー",
+              "vip": "VIPユーザー"
+            },
+            "emptyMemberName": "名前のないユーザー",
+            "emptyReferrer": "紹介者なし",
+            "emptyTeam": "チームメンバーはまだいません",
+            "errors": {
+              "loadFail": "チームメンバーの読み込みに失敗しました。後でもう一度お試しください。"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "収益センター",
+            "title": "収益概要",
+            "commissionTitle": "コミッション詳細",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "総収益",
+                "desc": "これまでの累計コミッション"
+              },
+              {
+                "key": "month",
+                "title": "今月",
+                "desc": "今月のコミッション"
+              },
+              {
+                "key": "settling",
+                "title": "未決済",
+                "value": "0.00",
+                "desc": "未決済の金額"
+              },
+              {
+                "key": "withdrawable",
+                "title": "引き出し可能",
+                "desc": "現在引き出し可能な金額",
+                "action": "引き出す"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "ユーザー名",
+              "saleTime": "販売日時",
+              "goodsInfo": "商品",
+              "commission": "コミッション"
+            },
+            "emptyCommission": "コミッション記録はまだありません",
+            "errors": {
+              "loadFail": "コミッション詳細の読み込みに失敗しました。後でもう一度お試しください。"
+            },
+            "withdraw": {
+              "ariaLabel": "引き出し申請",
+              "title": "引き出し申請",
+              "closeLabel": "引き出しダイアログを閉じる",
+              "balanceLabel": "引き出し可能残高",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "引き出し金額",
+              "amountPlaceholder": "引き出し金額を入力",
+              "allButton": "すべて",
+              "allAmountValue": "0.00",
+              "amountTip": "金額が正しいことを確認してください。送信後、申請は手動で審査されます。",
+              "methodLabel": "引き出し方法",
+              "methods": [
+                "銀行カード",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "銀行カード",
+              "nameLabel": "受取人名",
+              "namePlaceholder": "受取人名を入力",
+              "defaultName": "",
+              "bankCardLabel": "口座番号",
+              "bankCardPlaceholder": "銀行カード番号、PayPalメール、またはウォレットアドレスを入力",
+              "remarkLabel": "備考",
+              "remarkPlaceholder": "追加のメモがあれば入力",
+              "note": "引き出し申請は1〜3営業日以内に処理されます。",
+              "cancelButton": "キャンセル",
+              "submitButton": "申請を送信"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "交換に成功しました",
+            "operationFailed": "交換に失敗しました",
+            "invalidCard": "無効な交換コードです",
+            "cardNotFound": "交換コードが見つかりません",
+            "cardDisabled": "交換コードは無効です",
+            "cardExpired": "交換コードの有効期限が切れています"
+          },
+          "successMessage": "操作に成功しました"
+        }
+      }
+    }
+  ]
+}

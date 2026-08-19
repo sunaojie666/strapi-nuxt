@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Pourquoi les ressources réseau ou les incrustations scintillent-elles ou deviennent-elles noires pendant un direct ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si vous rencontrez des scintillements ou des écrans noirs lors de l'ajout de ressources réseau pendant un direct, voici comment gérer ce problème :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Téléchargez et prévisualisez à l'avance toutes les ressources ou incrustations que vous prévoyez d'utiliser pendant le direct, et vérifiez qu'elles fonctionnent correctement avant de commencer.",
+            "Certaines ressources incluses dans le logiciel sont stockées sur des serveurs. Si vous les téléchargez avant de passer en direct, vous pouvez les utiliser directement pendant le direct sans les recharger.",
+            "Charger des ressources en plein direct consomme des ressources de streaming, de la mémoire du téléphone et des performances, ce qui peut provoquer des ralentissements ; sur les téléphones d'entrée de gamme, cela peut même entraîner des plantages ou des écrans noirs."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Remarque importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avant de passer en direct, planifiez et répétez soigneusement votre diffusion pour vous assurer que chaque élément fonctionne parfaitement avant de commencer."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Que faire si certaines touches du clavier sont masquées ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si certaines touches du clavier virtuel sont masquées, essayez ce qui suit :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Si vous utilisez un ancien téléphone au format 16:9 comme télécommande et que certaines touches sont masquées, appuyez sur le deuxième bouton en haut à gauche du clavier pour activer le mode plein écran.",
+            "Si la disposition du clavier est décalée, accédez aux paramètres de votre téléphone et définissez la taille de police sur normale.",
+            "Certains téléphones ont un mode senior activé ; le désactiver devrait rétablir l'affichage normal du clavier."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Les problèmes d'affichage sont généralement causés par des polices trop grandes ou une interface de thème trop grande. Réinitialiser ces paramètres en mode standard devrait résoudre le problème."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Que faire si mon téléphone Huawei se déconnecte sans cesse de la multi-caméra ou du clavier virtuel ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si votre téléphone Huawei rencontre des déconnexions avec la multi-caméra ou le clavier virtuel, suivez ces étapes :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Accédez aux paramètres de votre téléphone.",
+            "Dans la barre de recherche en haut, saisissez « Gestion du lancement des applications ».",
+            "Accédez à la page de gestion du lancement des applications, faites défiler jusqu'à trouver VicastCam.",
+            "Désactivez l'interrupteur à droite pour que l'icône devienne grise ; en même temps, activez les trois options dans la fenêtre contextuelle pour qu'elles deviennent bleues."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vous pouvez également consulter le didacticiel vidéo « Comment éviter les déconnexions avec la multi-caméra et le clavier virtuel sur les téléphones Huawei »."
+        }
+      ]
+    }
+  ]
+}

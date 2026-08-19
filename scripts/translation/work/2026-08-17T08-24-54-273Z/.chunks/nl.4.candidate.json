@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Waarom flikkeren netwerkassets of overlays of worden ze zwart tijdens een livestream?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als je tijdens een livestream last hebt van flikkerende of zwarte schermen bij het toevoegen van netwerkassets, ga dan als volgt te werk:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Download en bekijk alle assets of overlays die je tijdens de stream wilt gebruiken van tevoren en controleer of ze goed werken voordat je live gaat.",
+            "Sommige assets die bij de software zijn inbegrepen, worden op servers opgeslagen. Als je ze vóór de livegang downloadt, kun je ze tijdens de stream direct gebruiken zonder ze opnieuw te laden.",
+            "Het laden van assets midden in een stream verbruikt streamingbronnen, telefoongeheugen en prestaties, wat vertraging kan veroorzaken; op minder krachtige telefoons kan dit zelfs leiden tot crashes of zwarte schermen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Belangrijke opmerking"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plan en oefen je stream vóór de livegang grondig om ervoor te zorgen dat elk onderdeel feilloos werkt voordat je begint."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Wat moet ik doen als sommige toetsen op het toetsenbord bedekt zijn?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als sommige toetsen op het virtuele toetsenbord bedekt zijn, probeer dan het volgende:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Als je een oudere 16:9-telefoon als afstandsbediening gebruikt en sommige toetsen bedekt zijn, tik dan op de tweede knop linksboven op het toetsenbord om de volledige-schermmodus in te schakelen.",
+            "Als de toetsenbordindeling niet goed staat, ga dan naar de instellingen van je telefoon en stel het lettertype in op normaal.",
+            "Sommige telefoons hebben een seniorenmodus ingeschakeld; als je die uitschakelt, zou het toetsenbord weer normaal moeten worden weergegeven."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Weergaveproblemen worden meestal veroorzaakt door te grote lettertypen of een te grote thema-interface op de telefoon. Door deze terug te zetten naar de standaardmodus zou het probleem moeten worden opgelost."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Wat moet ik doen als mijn Huawei-telefoon steeds de verbinding verbreekt met meerdere camera's of het virtuele toetsenbord?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als je Huawei-telefoon verbindingsproblemen heeft met meerdere camera's of het virtuele toetsenbord, volg dan deze stappen:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ga naar de instellingen van je telefoon.",
+            "Typ in de zoekbalk bovenaan 'App-opstartbeheer'.",
+            "Ga naar de pagina App-opstartbeheer en scrol omlaag om VicastCam te vinden.",
+            "Zet de schakelaar aan de rechterkant uit zodat het pictogram grijs wordt; schakel tegelijkertijd alle drie de opties in het pop-upvenster in zodat ze blauw worden."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Je kunt ook de video-tutorial 'Hoe voorkom je verbindingsproblemen met meerdere camera's en het virtuele toetsenbord op Huawei-telefoons' raadplegen."
+        }
+      ]
+    }
+  ]
+}

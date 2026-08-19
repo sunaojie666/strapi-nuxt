@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "Chi siamo",
+          "titleMain": "Il team dietro la tecnologia di green screen mobile e screen casting",
+          "titleHighlight": "",
+          "description": "Ci concentriamo su imaging mobile, virtual camera, collaborazione tramite screen casting e connettività per lo streaming multi-piattaforma, aiutando creator, educatori e aziende a trasformare i loro telefoni in strumenti di live streaming professionali, stabili, chiari e facili da integrare.",
+          "primaryButtonText": "Contatta le vendite",
+          "secondaryButtonText": "Visualizza SDK"
+        },
+        "innovation": {
+          "sectionTag": "Punti di forza",
+          "titleMain": "Focalizzati sull'innovazione",
+          "titleHighlight": "Guidare il futuro del live streaming",
+          "description": "Dagli strumenti mobili alle capacità di piattaforma, VicastCam si espande su più dispositivi, piattaforme e scenari di live streaming.",
+          "featureTag": "Capacità principali",
+          "featureTitle": "Live streaming globale, affidabile per il settore",
+          "featureDescription": "Miglioriamo continuamente l'esperienza del prodotto attorno al live streaming mobile, all'imaging virtuale, alla collaborazione tramite screen casting e alla connettività cross-platform, evolvendo gli strumenti di live streaming da capacità singole a flussi di lavoro stabili e integrabili.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Paesi e regioni",
+              "text": "Al servizio di creator e team in tutto il mondo"
+            },
+            {
+              "value": "2000+",
+              "label": "Piattaforme compatibili",
+              "text": "Copertura dei principali scenari di live streaming, riunioni e contenuti"
+            },
+            {
+              "value": "500000+",
+              "label": "Utilizzi totali",
+              "text": "Validato continuamente per stabilità e facilità d'uso"
+            },
+            {
+              "value": "99.9%",
+              "label": "Tempo di attività",
+              "text": "Garantisce flussi di lavoro di live streaming affidabili"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Roadmap",
+          "titleMain": "In continua evoluzione",
+          "titleHighlight": "Attorno all'ecosistema globale del live streaming",
+          "description": "Dagli strumenti di live streaming alle capacità di piattaforma, VicastCam si espande su più dispositivi, piattaforme e scenari di live streaming.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Approfondimento del focus mobile e perfezionamento degli effetti green screen principali",
+              "text": "Ci siamo concentrati sulle capacità di base del live streaming virtuale mobile, iterando e ottimizzando continuamente gli algoritmi di matting green screen per risolvere problemi come distorsione dei bordi, scarsa adattabilità all'illuminazione e lag con più overlay. Abbiamo completato una suite completa di effetti virtuali tra cui adesivi, sostituzione dello sfondo e occlusione in primo piano, stabilendo una base leggera per il live streaming virtuale mobile. Con un semplice telefono, i creator possono ottenere un live streaming green screen professionale."
+            },
+            {
+              "year": "2024",
+              "title": "Connessione dello screen casting, sviluppo della tecnologia core della virtual camera",
+              "text": "Abbiamo ampliato l'interconnettività dei dispositivi, concentrandoci sullo screen casting del telefono in alta definizione e sulla trasmissione sincronizzata tra dispositivi. Abbiamo sviluppato in modo indipendente un driver universale per virtual camera per la cattura e l'output software globale, consentendo la compatibilità con software di live streaming, strumenti di editing e riunioni online. Abbiamo colmato il divario tra mobile e desktop, permettendo la trasmissione con un tocco del contenuto del telefono al PC e posizioni multiple di output per la virtual camera, arricchendo la produzione di live streaming."
+            },
+            {
+              "year": "2025",
+              "title": "Lancio di un assistente professionale per live streaming 3D per PC",
+              "text": "Abbiamo fornito una linea di prodotti professionale per il live streaming desktop con un assistente completo per live streaming virtuale 3D. Dotato di scene virtuali 3D, guida di avatar digitali, commutazione multi-camera e illuminazione e rendering in tempo reale, serve il live streaming commerciale, le presentazioni virtuali negli showroom e il live streaming e-commerce su grande schermo. Abbiamo migliorato la compositing multi-livello, i sottotitoli in tempo reale e i componenti interattivi per soddisfare le esigenze dei team che producono live streaming professionali su larga scala e di alta qualità."
+            },
+            {
+              "year": "2026",
+              "title": "Espansione globale, costruzione di un ecosistema completo di live streaming",
+              "text": "Espansione completa nel live streaming estero, adattamento alle principali piattaforme estere per lo streaming, trasmissione a bassa latenza su reti internazionali e localizzazione multilingue. Integrazione dei tre prodotti principali degli anni precedenti: green screen mobile, virtual camera per screen casting e live streaming 3D per PC, collegando tre linee di business: creator individuali, uso commerciale aziendale e integrazione SDK per sviluppatori. Unificazione di hardware, software, multi-terminale e servizi nazionali e internazionali, completando un ecosistema di live streaming a catena completa dalla produzione, all'interoperabilità tra dispositivi, alla distribuzione globale."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Seguici",
+          "titleMain": "Contattaci",
+          "titleHighlight": "e plasma il futuro del live streaming",
+          "description": "Segui i nostri aggiornamenti di prodotto, i suggerimenti per il live streaming e altre novità",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "Account YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "Account YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "Account YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "Account YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "Account YouTube",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "Chi siamo",
+          "description": "Scopri il team di VicastCam, la mission del prodotto e le capacità in virtual camera, potenziamento del live streaming con AI e trasmissione multi-piattaforma."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Centro download",
+            "title": "Scarica VicastCam"
+          },
+          "platform": {
+            "title": "Scegli la tua piattaforma",
+            "description": "VicastCam supporta Windows, iOS e Android. Inizia il live streaming professionale.",
+            "versionLabel": "Versione",
+            "updatedAtLabel": "Aggiornato",
+            "sizeLabel": "Dimensione pacchetto",
+            "downloadAriaSuffix": "Scarica",
+            "closeQrAriaPrefix": "Chiudi",
+            "closeQrAriaSuffix": "Codice QR per il download",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Supporta Android 8.0 e versioni successive",
+                "actionLabel": "Scarica ora",
+                "qrTitle": "Scansiona per scaricare la versione Android",
+                "qrDescription": "Usa il telefono per scansionare e scaricare"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Supporta iOS 13.0 e versioni successive",
+                "actionLabel": "App Store",
+                "qrTitle": "Scansiona per andare sull'App Store",
+                "qrDescription": "Usa il telefono per scansionare e scaricare la versione iOS"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Compatibile con Windows 10 e versioni successive",
+                "actionLabel": "Scarica ora",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Perché scegliere VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Sicuro e affidabile",
+                "text": "Molteplici meccanismi di sicurezza proteggono i tuoi dati e il tuo account."
+              },
+              {
+                "key": "updates",
+                "title": "Aggiornamenti continui",
+                "text": "Miglioriamo costantemente il prodotto per offrire un'esperienza più stabile."
+              },
+              {
+                "key": "support",
+                "title": "Supporto professionale",
+                "text": "Assistenza tecnica 24/7 con risposta rapida ai tuoi problemi."
+              },
+              {
+                "key": "tutorial",
+                "title": "Video tutorial",
+                "text": "Video tutorial dettagliati e guide alle funzionalità per aiutarti a iniziare rapidamente."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Centro download",
+            "description": "Scarica il client VicastCam per Windows, iOS e Android."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "it",
+        "features_section": {
+          "title_tag": "Funzionalità",
+          "title_main": "La soluzione completa per il live streaming",
+          "title_highlight": "per broadcaster mobili professionisti",
+          "description": "Integra le funzionalità principali del live streaming per creare scene coinvolgenti ovunque e offrire un'esperienza visiva professionale."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Screen Casting e Virtual Camera",
+            "desc": "Trasmetti il tuo telefono al PC e usa la tecnologia virtual camera per creare live streaming professionali."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Supporto Multi-Camera",
+            "desc": "Passa da un'angolazione all'altra con un tocco durante il live streaming per prospettive più ricche."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "Effetti 2D/3D",
+            "desc": "Aggiungi straordinari livelli di effetti 2D/3D per creare una live room dinamica e coinvolgente."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Streaming Multi-Piattaforma",
+            "desc": "Trasmetti su YouTube, Twitch, TikTok, Facebook Live e altro."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Controller Virtuale",
+            "desc": "Controlla il tuo live streaming da remoto da qualsiasi dispositivo: cambia scena, silenzia l'audio e regola gli effetti in tempo reale."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Live Simultaneo Multi-Piattaforma",
+            "desc": "Vai in diretta su TikTok, YouTube, Twitch e Instagram contemporaneamente dal tuo PC."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Effetti Green Screen Mobile e Screen Casting",
+      "top_badge": "Strumento di Live Streaming con AI",
+      "hero_subtitle": "Alimenta l'ecosistema globale del live streaming",
+      "hero_description_1": "VicastCam utilizza l'avanzata tecnologia di matting AI per cambiare senza problemi gli sfondi virtuali durante il live streaming, offrendo un'esperienza",
+      "hero_description_2": "immersiva che eleva la tua immagine professionale.",
+      "user_count_label": "Utenti globali",
+      "rating_label": "Valutazione App Store",
+      "download_count_label": "Download globali",
+      "app_store_url": "Scarica dall'App Store",
+      "google_play_url": "Scarica su Android",
+      "desktop_client_url": "Scarica il client desktop",
+      "request_success": "Richiesta riuscita",
+      "request_fail": "Richiesta fallita",
+      "request_loading": "Caricamento"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Prezzi",
+          "titleMain": "Scegli il piano",
+          "titleHighlight": "adatto a te",
+          "description": "Provalo gratuitamente o scegli un altro piano",
+          "priceAltSuffix": "Prezzo",
+          "freePlanMessage": "Gli utenti gratuiti non devono acquistare",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Gratuito",
+              "description": "Download e registrazione gratuiti, con funzionalità di base disponibili senza costi.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/mese",
+              "priceNote": "",
+              "cta": "Inizia",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Crea con una singola scena",
+                "Disponi liberamente fino a quattro livelli",
+                "Accedi a una varietà di materiali per sfondi live",
+                "Qualità base per lo screen casting su PC",
+                "Effetti di bellezza naturali integrati"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Mensile",
+              "description": "Attiva e goditi un mese intero di accesso, un modo economico per provare.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/mese",
+              "priceNote": "Accesso di 30 giorni",
+              "cta": "Acquista",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Tutte le funzionalità mobili",
+                "Live streaming con screen casting su PC",
+                "Qualità live streaming HD",
+                "Effetti di bellezza avanzati",
+                "Effetti esclusivi per il live streaming"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Annuale",
+              "description": "Il miglior rapporto qualità-prezzo con risparmio annuale.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/anno",
+              "priceNote": "Accesso di 365 giorni",
+              "cta": "Acquista",
+              "badgeText": "Più popolare",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Tutte le funzionalità mobili",
+                "Live streaming con screen casting su PC",
+                "Qualità live streaming HD",
+                "Effetti di bellezza avanzati",
+                "Effetti esclusivi per il live streaming"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "A vita",
+              "description": "Pagamento una tantum per accesso a vita, ideale per creator a lungo termine.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Accesso a vita",
+              "cta": "Acquista",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Tutte le funzionalità mobili",
+                "Live streaming con screen casting su PC",
+                "Qualità live streaming HD",
+                "Effetti di bellezza avanzati",
+                "Effetti esclusivi per il live streaming"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Mensile",
+                "subtitle": "Attiva e goditi un mese intero di accesso, un modo economico per provare.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/mese",
+                "cta": "Acquista",
+                "benefits": [
+                  "Tutte le funzionalità mobili",
+                  "Live streaming con screen casting su PC",
+                  "Qualità live streaming HD",
+                  "Effetti di bellezza avanzati",
+                  "Effetti esclusivi per il live streaming"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Annuale",
+                "subtitle": "Il miglior rapporto qualità-prezzo con risparmio annuale.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/anno",
+                "cta": "Acquista",
+                "benefits": [
+                  "Tutte le funzionalità mobili",
+                  "Live streaming con screen casting su PC",
+                  "Qualità live streaming HD",
+                  "Effetti di bellezza avanzati",
+                  "Effetti esclusivi per il live streaming"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "A vita",
+                "subtitle": "Pagamento una tantum per accesso a vita, ideale per creator a lungo termine.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Acquista",
+                "benefits": [
+                  "Tutte le funzionalità mobili",
+                  "Live streaming con screen casting su PC",
+                  "Qualità live streaming HD",
+                  "Effetti di bellezza avanzati",
+                  "Effetti esclusivi per il live streaming"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, Emirati Arabi Uniti"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, Emirati Arabi Uniti"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, Emirati Arabi Uniti"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, Emirati Arabi Uniti"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, Emirati Arabi Uniti"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "it",
+        "slug": "team",
+        "pageName": "Partnership commerciali",
+        "hero": {
+          "eyebrow": "Partnership commerciali",
+          "title": "Programma di partnership globale per agenzie VicastCam",
+          "highlight": "Unisciti a noi",
+          "description": "Uno strumento professionale di live streaming con virtual camera, aperto a partner di canale globali. Regolamento unificato in USD, esclusività regionale e supporto marketing a tutto funnel.",
+          "actions": {
+            "primary": "Candidati ora",
+            "secondary": "Scopri di più"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Perché collaborare",
+          "titlePrefix": "Perché",
+          "titleHighlight": "collaborare con noi",
+          "description": "Facile da vendere, basso rischio e margini elevati: VicastCam offre tutto questo.",
+          "items": [
+            {
+              "title": "Mercato enorme di creator",
+              "description": "Coprendo live streaming, e-commerce, video brevi e creazione di contenuti, la domanda globale dei creator è in costante crescita, offrendo un mercato ampio e conversioni stabili.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Zero inventario, consegna online",
+              "description": "Licenza software pura con consegna immediata dei codici di attivazione tramite cloud. Nessun magazzino, nessuna logistica, costi contenuti, supporto per consegna in batch e attivazione rapida.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Vantaggio competitivo completo",
+              "description": "Matting green screen, sfondi virtuali, streaming multi-piattaforma ed effetti AI in un'unica soluzione. Funzionalità complete, facili da dimostrare, vendere e rinnovare.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Regole di partnership",
+          "titlePrefix": "Requisiti",
+          "titleHighlight": "e regolamento",
+          "description": "Politiche di agenzia trasparenti, eque e prevedibili per la tranquillità di ogni partner.",
+          "agentLevelTitle": "Livelli di agenzia",
+          "agentLevels": [
+            {
+              "title": "Agenzia Standard",
+              "description": "Un ordine iniziale di $30.000 USD garantisce diritti di distribuzione a lungo termine, sconti a scaglioni e supporto di canale standard.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Agenzia Esclusiva Regionale",
+              "description": "Raggiungi gli obiettivi di acquisto trimestrali per ottenere diritti di distribuzione esclusivi per una singola regione, senza altri canali autorizzati in quell'area.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Fornitura e regolamento",
+          "settlementRules": [
+            "Regolamento unificato in USD, con pagamenti supportati tramite conti aziendali HSBC Hong Kong",
+            "Codici di attivazione in batch consegnati istantaneamente tramite cloud per una consegna rapida ai clienti",
+            "I partner a lungo termine godono di prezzi a scaglioni; volumi di acquisto più elevati riducono i costi unitari"
+          ]
+        },
+        "support": {
+          "eyebrow": "Supporto di canale",
+          "titlePrefix": "Quattro pilastri di",
+          "titleHighlight": "supporto",
+          "description": "Dai materiali al supporto tecnico, dall'autorizzazione del marchio all'accesso anticipato alle nuove funzionalità, forniamo supporto a tutto funnel.",
+          "items": [
+            {
+              "title": "Materiali di marketing completi",
+              "description": "Accesso immediato a banner per siti web, video brevi, testi per annunci su Reddit/Facebook e materiali di recensione del prodotto.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Supporto tecnico dedicato in inglese",
+              "description": "Specialisti tecnici all'estero per debug SDK, assistenza post-vendita per funzionalità di live streaming e risoluzione dei problemi dei clienti.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Autorizzazione ufficiale del marchio",
+              "description": "Usa il marchio VicastCam e le immagini del prodotto per promozioni regionali online e offline.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Accesso prioritario alle beta",
+              "description": "Gli agenti hanno accesso anticipato per testare e vendere tutti gli effetti AI, gli aggiornamenti di streaming e le nuove funzionalità.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Modelli di partnership",
+          "titlePrefix": "Modelli di partnership",
+          "titleHighlight": "flessibili",
+          "description": "Che tu sia un canale, un fornitore di tecnologia o un fornitore di servizi aziendali, abbiamo un modello adatto a te.",
+          "items": [
+            {
+              "title": "Agenzia di canale (consigliata)",
+              "description": "Per negozi di software transfrontalieri, negozi di attrezzature per live streaming, MCN esteri e team di e-commerce transfrontalieri per distribuire licenze software su larga scala.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "SDK OEM White-Label",
+              "description": "Rimuovi tutto il branding VicastCam, personalizza logo, nome del software e interfaccia utente, e vendi con il tuo marchio.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Personalizzazione aziendale",
+              "description": "Per fornitori di servizi di live streaming, istituzioni educative e progetti di riunioni governative/aziendali, con funzionalità personalizzate e opzioni di distribuzione privata.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Candidati",
+          "titlePrefix": "Compila il modulo",
+          "titleHighlight": "per candidarti online",
+          "description": "Compila le informazioni qui sotto e ti contatteremo entro 1-3 giorni lavorativi.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Nome del contatto",
+              "placeholder": "Inserisci il tuo nome"
+            },
+            {
+              "name": "companyName",
+              "label": "Nome dell'azienda",
+              "placeholder": "Inserisci il nome della tua azienda"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "placeholder": "Inserisci la tua email"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Telefono",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Tipo di attività",
+              "placeholder": "Seleziona il tipo di attività",
+              "options": [
+                "Agenzia di canale",
+                "SDK OEM White-Label",
+                "Personalizzazione aziendale",
+                "Altro"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Regione principale",
+              "placeholder": "es. Nord America/Europa/Sud-est asiatico"
+            },
+            {
+              "name": "position",
+              "label": "Posizione",
+              "placeholder": "Inserisci la tua posizione"
+            },
+            {
+              "name": "budget",
+              "label": "Budget di acquisto trimestrale stimato",
+              "placeholder": "Inserisci il tuo budget"
+            },
+            {
+              "name": "country",
+              "label": "Paese",
+              "placeholder": "Seleziona paese/regione",
+              "options": [
+                "Cina",
+                "Stati Uniti",
+                "Indonesia",
+                "Malaysia",
+                "Thailandia",
+                "Vietnam",
+                "Filippine",
+                "Spagna",
+                "Portogallo",
+                "Arabia Saudita",
+                "Giappone",
+                "Turchia",
+                "Italia",
+                "Germania",
+                "Francia",
+                "Corea del Sud",
+                "Russia",
+                "Polonia",
+                "Paesi Bassi",
+                "India",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Altro"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Sito web aziendale",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Intento di partnership",
+          "intentPlaceholder": "Descrivi brevemente il tuo modello di business, il mercato di riferimento e l'approccio di partnership desiderato...",
+          "note": "*Campi obbligatori. Le tue informazioni sono riservate e utilizzate solo per la comunicazione di partnership.",
+          "submitLabel": "Invia informazioni di partnership"
+        },
+        "contact": {
+          "title": "Contatto commerciale immediato",
+          "items": [
+            {
+              "label": "Email commerciale",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Linea diretta Hong Kong",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Orari di lavoro",
+              "value": "GMT+8, dal lunedì al venerdì, 9:00-18:00"
+            }
+          ],
+          "note": "Per esigenze commerciali urgenti, contattaci direttamente via WhatsApp o email.",
+          "qr": {
+            "label": "Scansiona per contattarci su WhatsApp",
+            "alt": "Codice QR per contatto commerciale VicastCam"
+          }
+        },
+        "seo": {
+          "title": "Partnership commerciali VicastCam",
+          "description": "Unisciti al programma partner globale di VicastCam per agenzia di canale, SDK OEM white-label e supporto per personalizzazione aziendale.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "Programma partner globale VicastCam"
+        }
+      }
+    }
+  ]
+}

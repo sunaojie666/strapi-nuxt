@@ -1,0 +1,119 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.features[0].feature_obj.features_section.title_highlight",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "The source says 'for professional mobile broadcasters', but the candidate says 'برای پخش‌کنندگان حرفه‌ای موبایل' which is ambiguous and could mean 'mobile broadcasters' as a type of broadcaster. Clarify to 'برای پخش‌کنندگان حرفه‌ای با موبایل' or 'برای پخش‌کنندگان حرفه‌ای موبایل' is acceptable but better to use 'برای پخش‌کنندگان حرفه‌ای موبایل' is fine; however, to avoid ambiguity, use 'برای پخش‌کنندگان حرفه‌ای با موبایل'."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].title",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "The approved glossary says '投屏' => 'screen casting' and '虚拟摄像头' => 'virtual camera'. The candidate uses 'پخش صفحه' for 'Screen Casting' which is a literal translation and not the approved term. Use 'اسکرین کست' or 'پخش صفحه' is acceptable but the approved glossary is 'screen casting' which in Persian is often 'اسکرین کست' or 'پخش صفحه'. However, to align with glossary, use 'اسکرین کست' or 'پخش صفحه' is fine, but the issue is that 'پخش صفحه' is not the standard term; better to use 'اسکرین کست'."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].desc",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "The phrase 'Cast your phone to your PC' is translated as 'صفحه گوشی خود را به رایانه‌تان منتقل کنید' which is a bit literal. More natural: 'صفحه گوشی خود را روی رایانه‌تان نمایش دهید' or 'صفحه گوشی خود را به رایانه‌تان منتقل کنید' is acceptable but could be improved."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[2].desc",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The sentence 'لایه‌های افکت 2D/3D خیره‌کننده اضافه کنید تا اتاق پخش زنده‌ای پویا و جذاب بسازید.' has a missing space before '2D/3D'? Actually it's fine. But the phrase 'اتاق پخش زنده‌ای' is a bit awkward; better to say 'اتاق پخش زنده‌ای پویا و جذاب بسازید' is fine. No issue."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[4].desc",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'کنترل مجازی' for 'Virtual Controller' is a literal translation. The approved glossary does not specify, but 'کنترل‌کننده مجازی' might be more accurate. However, 'کنترل مجازی' is acceptable. No issue."
+    },
+    {
+      "path": "$.homes[0].hero_description_1",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "The source says 'VicastCam uses advanced AI matting to let you switch virtual backgrounds seamlessly during live streams, delivering an immersive experience that elevates your professional image.' The candidate splits it into two parts: 'hero_description_1' and 'hero_description_2'. The first part ends with 'تجربه‌ای' and the second starts with 'فراگیر ارائه دهید که تصویر حرفه‌ای شما را ارتقا می‌بخشد.' This is fine, but the word 'فراگیر' for 'immersive' is not the best; 'غوطه‌ورکننده' or 'همه‌جانبه' might be better. Also, 'حذف پس‌زمینه هوش مصنوعی' for 'AI matting' is not the approved glossary; the approved glossary says 'AI 抠像' => 'AI matting', so use 'مَتینگ هوش مصنوعی' or 'حذف پس‌زمینه با هوش مصنوعی' is acceptable but not exact. Better to use 'مَتینگ هوش مصنوعی'."
+    },
+    {
+      "path": "$.homes[0].hero_description_2",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'تصویر حرفه‌ای شما را ارتقا می‌بخشد' is fine, but 'تصویر' might be better as 'چهره' or 'تصویر' is fine. No issue."
+    },
+    {
+      "path": "$.homes[0].app_store_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The source says 'Download on the App Store' and the candidate says 'دانلود از اپ استور' which is fine. But for consistency with other buttons, maybe use 'دانلود از اپ استور' is fine."
+    }
+  ],
+  "revisedContent": {
+    "features": [
+      {
+        "feature_obj": {
+          "locale": "fa",
+          "features_section": {
+            "title_tag": "ویژگی‌ها",
+            "title_main": "راه‌حل جامع پخش زنده",
+            "title_highlight": "برای پخش‌کنندگان حرفه‌ای با موبایل",
+            "description": "قابلیت‌های اصلی پخش زنده را یکپارچه کنید تا صحنه‌های جذابی در هر مکان بسازید و تجربه‌ای بصری حرفه‌ای ارائه دهید."
+          },
+          "feature_items": [
+            {
+              "id": "chroma_key",
+              "title": "اسکرین کست و دوربین مجازی",
+              "desc": "صفحه گوشی خود را روی رایانه‌تان نمایش دهید و با فناوری دوربین مجازی، پخش زنده‌ای حرفه‌ای بسازید."
+            },
+            {
+              "id": "multi_cam",
+              "title": "پشتیبانی از چند دوربین",
+              "desc": "در حین پخش زنده با یک لمس بین زوایای مختلف دوربین جابه‌جا شوید و دیدگاه‌های غنی‌تری ارائه دهید."
+            },
+            {
+              "id": "2d3d_effects",
+              "title": "افکت‌های 2D/3D",
+              "desc": "لایه‌های افکت 2D/3D خیره‌کننده اضافه کنید تا اتاق پخش زنده‌ای پویا و جذاب بسازید."
+            },
+            {
+              "id": "multi_platform_push",
+              "title": "پخش در چند پلتفرم",
+              "desc": "به YouTube، Twitch، TikTok، Facebook Live و موارد دیگر پخش کنید."
+            },
+            {
+              "id": "virtual_controller",
+              "title": "کنترل مجازی",
+              "desc": "پخش زنده خود را از هر دستگاهی از راه دور کنترل کنید: تعویض صحنه، قطع صدا و تنظیم افکت‌ها در زمان واقعی."
+            },
+            {
+              "id": "multi_platform_live",
+              "title": "پخش همزمان در چند پلتفرم",
+              "desc": "همزمان از رایانه خود در TikTok، YouTube، Twitch و Instagram پخش زنده داشته باشید."
+            }
+          ]
+        }
+      }
+    ],
+    "homes": [
+      {
+        "hero_title": "افکت‌های پس‌زمینه سبز موبایل و پخش صفحه",
+        "top_badge": "ابزار پخش زنده مبتنی بر هوش مصنوعی",
+        "hero_subtitle": "قدرت‌بخش اکوسیستم جهانی پخش زنده",
+        "hero_description_1": "VicastCam با استفاده از فناوری پیشرفته مَتینگ هوش مصنوعی، به شما امکان می‌دهد در حین پخش زنده، پس‌زمینه‌های مجازی را به‌طور یکپارچه تغییر دهید و تجربه‌ای",
+        "hero_description_2": "غوطه‌ورکننده ارائه دهید که تصویر حرفه‌ای شما را ارتقا می‌بخشد.",
+        "user_count_label": "کاربران جهانی",
+        "rating_label": "امتیاز اپ استور",
+        "download_count_label": "دانلودهای جهانی",
+        "app_store_url": "دانلود از اپ استور",
+        "google_play_url": "دانلود برای اندروید",
+        "desktop_client_url": "دانلود نسخه دسکتاپ",
+        "request_success": "درخواست با موفقیت انجام شد",
+        "request_fail": "درخواست ناموفق بود",
+        "request_loading": "در حال بارگذاری"
+      }
+    ]
+  }
+}

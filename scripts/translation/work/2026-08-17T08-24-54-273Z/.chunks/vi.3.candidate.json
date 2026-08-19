@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp là gì?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Đối với ảnh nền phát trực tiếp, chúng tôi khuyến nghị 1080 x 1920 pixel; đối với video, chúng tôi cũng khuyến nghị 1080 x 1920 pixel.",
+            "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo chuyển đổi liền mạch giữa chế độ toàn màn hình và 9:16 mà không bị lệch, đạt được hiệu ứng khớp hoàn hảo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Các chế độ đầu ra nào được hỗ trợ khi phát trực tiếp?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Phát trực tiếp hỗ trợ hai chế độ đầu ra: phát 9:16 và phát toàn màn hình. Thực hiện theo các bước sau để chọn trên thiết bị Android của bạn:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mở VicastCam, vào trang phát trực tiếp và nhấn vào biểu tượng menu ở phía bên phải."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Mục menu ở phía bên phải của trang phát trực tiếp trên Android",
+          "caption": "Bước 1: Nhấn vào biểu tượng menu ở phía bên phải của trang phát trực tiếp."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Trong Cài đặt khác, tìm 'Tỷ lệ khung hình' và chọn 'Toàn màn hình' hoặc '9:16' tùy theo nhu cầu."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Tùy chọn tỷ lệ khung hình trong Cài đặt khác trên Android",
+          "caption": "Bước 2: Trong 'Tỷ lệ khung hình', chọn 'Toàn màn hình' hoặc '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Giải thích về hai chế độ"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Phát 9:16: Tỷ lệ khung hình đầu ra được cố định ở 9:16, vì vậy nền tảng phát trực tiếp nhận được hình ảnh 9:16.",
+            "Phát toàn màn hình: Phát toàn bộ màn hình điện thoại như hiện tại, giữ nguyên nội dung gốc mà không cắt xén."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Làm cách nào để xóa tài khoản của tôi?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Vui lòng đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+        },
+        {
+          "type": "heading",
+          "text": "Thông tin tài khoản"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sau khi xóa tài khoản, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và các thông tin nhận dạng khác của bạn, đồng thời thu hồi ủy quyền đăng nhập bên thứ ba qua tài khoản Google và Apple. Sau khi thu hồi, bạn sẽ không thể sử dụng các tài khoản bên thứ ba đó để đăng nhập nhanh; để sử dụng lại ứng dụng, bạn cần ủy quyền và liên kết lại."
+        },
+        {
+          "type": "heading",
+          "text": "Nội dung và tài nguyên"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tất cả tài nguyên phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn; đám mây không lưu giữ bất kỳ tài nguyên sáng tạo nào. Sau khi xóa, tính năng quản lý tài nguyên trong ứng dụng sẽ không còn hoạt động, vì vậy vui lòng sao lưu tài nguyên của bạn trước thông qua 'Xuất tài nguyên'.",
+            "Nếu bạn gỡ cài đặt và cài đặt lại, chuyển thiết bị hoặc không xuất bản sao lưu trước, tài nguyên của bạn sẽ không thể khôi phục vĩnh viễn."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Quyền lợi thành viên"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sau khi xóa tài khoản, quyền lợi thành viên của bạn sẽ chấm dứt ngay lập tức. Nếu bạn có đăng ký Google Play đang hoạt động, việc xóa tài khoản ứng dụng sẽ không tự động hủy đăng ký và bạn có thể tiếp tục bị tính phí. Vui lòng truy cập 'Thanh toán & đăng ký - Đăng ký' trên Google Play để hủy thủ công."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với đội ngũ hỗ trợ khách hàng của chúng tôi."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Tại sao tôi không thể truy cập ảnh và video trên điện thoại khi thêm chúng?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu thư viện ảnh của bạn trống khi thêm tài nguyên, bạn có thể bật quyền truy cập ảnh như sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Mở Cài đặt trên điện thoại, cuộn xuống để tìm VicastCam, nhấn vào [Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+            "Android: Mở Cài đặt trên điện thoại, tìm VicastCam trong [Quản lý quyền] hoặc [Quản lý ứng dụng], sau đó nhấn vào [Quản lý quyền - Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+            "Nếu sự cố vẫn tiếp diễn, hãy thử gỡ cài đặt và cài đặt lại ứng dụng hoặc liên hệ hỗ trợ trực tuyến qua tính năng phản hồi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Tôi nên làm gì nếu màn hình không hiển thị đầy đủ khi phát trực tiếp từ máy tính?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu màn hình xuất hiện không đầy đủ khi phát trực tiếp từ điện thoại qua ứng dụng đồng hành phát trực tiếp hoặc phần mềm khác, hãy làm theo các bước sau để điều chỉnh:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mở VicastCam, nhấn vào biểu tượng camera ở phía dưới để vào trang phát trực tiếp, sau đó đi tới [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+            "Sau khi chiếu lên ứng dụng đồng hành phát trực tiếp, trước tiên hãy khớp màn hình với canvas, sau đó kéo dọc để lấp đầy màn hình."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lưu ý: Trước khi bắt đầu phát trực tiếp, hãy điều chỉnh tỷ lệ khung hình trước, sau đó thêm tài nguyên của bạn."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Tôi nên làm gì nếu yêu cầu mạng thất bại?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mở Cài đặt trên điện thoại, đi tới [Quản lý quyền - VicastCam - Dữ liệu di động và Wi-Fi] và bật quyền truy cập mạng.",
+            "Tắt chế độ tiết kiệm pin và mọi hạn chế nền trên điện thoại của bạn.",
+            "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng lên phiên bản mới nhất.",
+            "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ với bộ phận hỗ trợ khách hàng để được trợ giúp."
+          ]
+        }
+      ]
+    }
+  ]
+}

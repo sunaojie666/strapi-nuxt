@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "fa",
+        "loginTitle1": "پسزمینه مجازی خود را فوراً تغییر دهید",
+        "loginTitle2": "با تأثیر استریم کنید",
+        "loginDes1": "ابزار حرفهای استریم زنده مبتنی بر هوش مصنوعی",
+        "loginDes2": "پسزمینههای مجازی، بهبودهای زنده و استریم چندپلتفرمی به سادگی",
+        "featureTitle1": "حذف پسزمینه با هوش مصنوعی",
+        "featureSubTitle1": "جایگزینی بلادرنگ پسزمینه",
+        "featureTitle2": "استریم چندپلتفرمی",
+        "featureSubTitle2": "با یک لمس زنده بروید",
+        "featureTitle3": "دوربین مجازی",
+        "featureSubTitle3": "گوشی خود را به وبکم تبدیل کنید",
+        "loginBox": {
+          "loginPageTitle": "ورود / ثبتنام",
+          "codeLoginTab": "ورود با کد",
+          "pwdLoginTab": "ورود با رمز عبور",
+          "qrLoginTab": "ورود با QR",
+          "emailInputPlaceholder": "ایمیل خود را برای ورود وارد کنید",
+          "pwdInputPlaceholder": "رمز عبور خود را وارد کنید",
+          "verifyCodePlaceholder": "کد تأیید را وارد کنید",
+          "getVerifyCodeText": "دریافت کد",
+          "loginBtnText": "ورود",
+          "qrLoginTip": "برای ورود با اپ VicastCam اسکن کنید",
+          "qrWaitingTip": "در انتظار تأیید اسکن",
+          "agreeProtocolText": "من خطمشی رازداری و توافقنامه کاربر را خواندهام و میپذیرم",
+          "userProtocolText": "توافقنامه کاربر",
+          "privacyPolicyText": "خطمشی رازداری",
+          "agreeProtocolPrefix": "من خواندهام و میپذیرم"
+        },
+        "toastBox": {
+          "closeToastLabel": "بستن",
+          "requestLoading": "در حال بارگذاری...",
+          "requestSuccess": "درخواست با موفقیت انجام شد",
+          "requestFail": "درخواست ناموفق بود",
+          "passwordLoginNotReady": "ورود با رمز عبور هنوز در دسترس نیست",
+          "passwordRequired": "لطفاً رمز عبور خود را وارد کنید",
+          "emailRequired": "لطفاً ایمیل خود را برای ورود وارد کنید",
+          "verifyCodeRequired": "لطفاً کد تأیید را وارد کنید",
+          "agreeProtocolRequired": "لطفاً ابتدا خطمشی رازداری و توافقنامه کاربر را بخوانید و بپذیرید",
+          "qrcodeExpired": "کد QR منقضی شده است. لطفاً کد جدید دریافت کنید."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "fa",
+        "hero_section": {
+          "tag": "ابزار استریم زنده مبتنی بر هوش مصنوعی",
+          "title_main": "فناوری پسزمینه سبز موبایل و اشتراکگذاری صفحه",
+          "title_highlight": "توانمندسازی اکوسیستم جهانی استریم زنده",
+          "description": "VicastCam با استفاده از حذف پسزمینه پیشرفته مبتنی بر هوش مصنوعی به شما امکان میدهد در طول استریم زنده، پسزمینههای مجازی را بهطور یکپارچه تغییر دهید و افکتهای جذابی اضافه کنید که حضور حرفهای شما را ارتقا میدهد.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "دانلود"
+            },
+            {
+              "platform": "Google Play",
+              "text": "دانلود"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam ابزارهای پسزمینه مجازی، بهبود استریم زنده و چندپلتفرمی را در اختیار تولیدکنندگان محتوا قرار میدهد."
+          },
+          "columns": [
+            {
+              "title": "محصول",
+              "links": [
+                {
+                  "text": "ویژگیها"
+                },
+                {
+                  "text": "قیمتگذاری"
+                },
+                {
+                  "text": "دانلودها"
+                }
+              ]
+            },
+            {
+              "title": "توسعهدهندگان",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "مستندات API"
+                }
+              ]
+            },
+            {
+              "title": "شرکت",
+              "links": [
+                {
+                  "text": "درباره ما"
+                },
+                {
+                  "text": "خطمشی رازداری"
+                },
+                {
+                  "text": "توافقنامه کاربر"
+                },
+                {
+                  "text": "توافقنامه عضویت"
+                }
+              ]
+            },
+            {
+              "title": "پشتیبانی",
+              "links": [
+                {
+                  "text": "آموزشهای ویدیویی"
+                },
+                {
+                  "text": "سؤالات متداول"
+                },
+                {
+                  "text": "تماس با ما"
+                }
+              ]
+            },
+            {
+              "title": "کسبوکار",
+              "links": [
+                {
+                  "text": "همکاری در فروش"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "درخواست مشارکت"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "ویژگیها",
+      "nav_pricing": "قیمتگذاری",
+      "nav_faq": "سؤالات متداول",
+      "nav_auth": "ورود / ثبتنام",
+      "nav_team": "کسبوکار"
+    }
+  ]
+}

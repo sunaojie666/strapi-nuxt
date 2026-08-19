@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "教學中心",
+    "titleMain": "開始您的 VicastCam",
+    "titleHighlight": "學習之旅",
+    "descriptionMain": "掌握軟體的所有功能",
+    "descriptionHighlight": "快速上手"
+  },
+  "player": {
+    "sectionAriaLabel": "教學清單",
+    "catalogAriaLabel": "教學目錄",
+    "previousLabel": "上一頁",
+    "nextLabel": "下一頁",
+    "firstLessonText": "您正在第一課",
+    "lastLessonText": "您正在最後一課",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

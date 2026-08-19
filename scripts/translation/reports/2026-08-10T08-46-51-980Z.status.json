@@ -1,0 +1,201 @@
+{
+  "runId": "2026-08-10T08-46-51-980Z",
+  "startedAt": "2026-08-10T08-46-51-980Z",
+  "completedAt": "2026-08-10T08:47:46.176Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "marketing",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "teams"
+  ],
+  "beforeStatus": {
+    "en": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "teams": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 100,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "teams": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Membership",
+    "title": "Aking Membership",
+    "badgeAlt": "Membership badge",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Libreng User",
+    "activeVipName": "VIP Member",
+    "expirePrefix": "Mag-e-expire sa",
+    "emptyExpireDate": "Hindi pa aktibo",
+    "activeStatus": "Aktibo",
+    "inactiveStatus": "Hindi Aktibo",
+    "compareTitle": "Ihambing ang mga Plano",
+    "compareHeaders": {
+      "feature": "Tampok",
+      "normal": "Libre",
+      "month": "Buwanan",
+      "year": "Taunan",
+      "life": "Panghabambuhay"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Buwanan",
+        "subtitle": "Maganda para sa panandaliang gamit",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/buwan",
+        "cta": "Magsimula",
+        "benefits": [
+          "Pangunahing virtual camera features",
+          "Virtual backgrounds at beautification",
+          "Multi-platform live streaming",
+          "Standard updates"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Taunan",
+        "subtitle": "Mas sulit para sa pangmatagalang gamit",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/taon",
+        "cta": "Magsimula",
+        "benefits": [
+          "Lahat ng nasa Monthly",
+          "Lahat ng premium features sa loob ng isang taon",
+          "Priority feature updates",
+          "Dedicated member support"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Panghabambuhay",
+        "subtitle": "Isang bayaran, gamitin habang buhay",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/panghabambuhay",
+        "cta": "Magsimula",
+        "benefits": [
+          "Lahat ng nasa Yearly",
+          "Premium features habang buhay",
+          "Long-term updates",
+          "Exclusive support channel"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Tagal ng membership",
+        "normal": "Libre habang buhay",
+        "month": "30 araw",
+        "year": "365 araw",
+        "life": "Panghabambuhay"
+      },
+      {
+        "feature": "Desktop virtual camera",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Custom virtual backgrounds",
+        "normal": "1 set",
+        "month": "Walang limitasyon",
+        "year": "Walang limitasyon",
+        "life": "Walang limitasyon"
+      },
+      {
+        "feature": "Streaming presets",
+        "normal": "Hindi",
+        "month": "Walang limitasyon",
+        "year": "Walang limitasyon",
+        "life": "Walang limitasyon"
+      },
+      {
+        "feature": "Official assets",
+        "normal": "Limitado",
+        "month": "Walang limitasyon",
+        "year": "Walang limitasyon",
+        "life": "Walang limitasyon"
+      },
+      {
+        "feature": "Remote control via controller",
+        "normal": "Oo",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Scene comparison mode",
+        "normal": "Oo",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Scene captions",
+        "normal": "Limitado",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Scene music",
+        "normal": "Limitado",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Multi-camera input",
+        "normal": "Hindi",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Advanced beauty filters",
+        "normal": "Basic",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "AI green screen matting",
+        "normal": "Oo",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Motion tracking animations",
+        "normal": "Limitado",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Scene camera effects",
+        "normal": "Limitado",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "VIP effects library",
+        "normal": "Limitado",
+        "month": "Walang limitasyon",
+        "year": "Walang limitasyon",
+        "life": "Walang limitasyon"
+      },
+      {
+        "feature": "Platform streaming",
+        "normal": "Oo",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "4K output",
+        "normal": "Hindi",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      },
+      {
+        "feature": "Referral commission rate",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Sub-affiliate rebate",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Support channel",
+        "normal": "Community self-service",
+        "month": "Standard queue",
+        "year": "Priority response",
+        "life": "Dedicated support"
+      },
+      {
+        "feature": "Early access to new features",
+        "normal": "Hindi",
+        "month": "Oo",
+        "year": "Oo",
+        "life": "Oo"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "I-redeem ang Code",
+    "title": "I-redeem ang Code",
+    "tip": "Ilagay ang iyong membership redemption code. Ma-a-activate agad ang iyong membership pagkatapos mag-redeem.",
+    "placeholder": "Ilagay ang redemption code",
+    "submitButton": "I-redeem",
+    "agreementPrefix": "Sa pag-redeem, sumasang-ayon ka sa",
+    "userProtocolText": "Kasunduan ng User",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Hindi nagtagumpay ang redemption. Suriin ang code at subukan muli."
+    }
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "새 라이브 방 만들기",
+      "tag_1": "모바일",
+      "tag_2": "초보자 가이드"
+    },
+    {
+      "title": "VicastCam 매팅 모드 이해하기",
+      "tag_1": "모바일",
+      "tag_2": "기능 가이드"
+    },
+    {
+      "title": "VicastCam 레이어 기능 사용법",
+      "tag_1": "모바일",
+      "tag_2": "핵심 기능"
+    },
+    {
+      "title": "데스크톱에서 VicastCam 시작하기",
+      "tag_1": "데스크톱",
+      "tag_2": "초보자 가이드"
+    },
+    {
+      "title": "iPhone을 VicastCam에 무선 연결하는 방법",
+      "tag_1": "iOS",
+      "tag_2": "연결 가이드"
+    },
+    {
+      "title": "로컬 미디어 추가 및 사용법",
+      "tag_1": "데스크톱",
+      "tag_2": "사용 가이드"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "글로벌 커뮤니티",
+        "title_main": "어디서나 원활한 라이브 스트리밍",
+        "title_highlight": "150개 이상의 국가에서 스트리머가 선택한 VicastCam",
+        "desc": "150개 이상의 국가와 지역에서 수많은 스트리머가 초보자에서 프로 라이브 크리에이터로 성장하도록 돕고 있습니다.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "국가"
+          },
+          {
+            "number": "2000+",
+            "name": "활성 스트리머"
+          },
+          {
+            "number": "5000+",
+            "name": "인기 상승"
+          },
+          {
+            "number": "99.9%",
+            "name": "안정성"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "ko",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "궁금한 점이 있으신가요?",
+          "title_highlight": "답변을 찾아드립니다.",
+          "description": "VicastCam에 대한 자주 묻는 질문과 답변을 확인하세요. 원하는 답변을 찾지 못하셨나요? 고객 지원팀에 문의해 주세요.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "VicastCam으로 어떤 플랫폼에 스트리밍할 수 있나요?",
+              "answer": "VicastCam은 YouTube, Twitch, TikTok, Facebook Live, Instagram과 같은 주요 플랫폼으로의 스트리밍을 지원합니다."
+            },
+            {
+              "id": "q2",
+              "question": "VicastCam의 배경 제거 기능에 그린 스크린이 필요한가요?",
+              "answer": "아니요. VicastCam은 AI 기반 배경 제거 기능을 사용하므로 그린 스크린 없이도 실시간으로 배경을 교체할 수 있습니다."
+            },
+            {
+              "id": "q3",
+              "question": "휴대폰에서 VicastCam을 사용할 수 있나요?",
+              "answer": "네. VicastCam은 iOS와 Android에서 사용할 수 있으며, 모든 전문 기능을 모바일에서도 이용할 수 있습니다."
+            },
+            {
+              "id": "q4",
+              "question": "VicastCam은 얼마나 안정적인가요?",
+              "answer": "VicastCam은 99.9%의 안정성을 제공하며, 전 세계 스트리머가 24시간 중단 없는 스트리밍을 할 수 있도록 지원합니다."
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam은 멀티 카메라 스트리밍을 지원하나요?",
+              "answer": "네. 라이브 스트리밍 중 여러 카메라를 원활하게 전환하여 전문적인 방송을 만들 수 있습니다."
+            }
+          ],
+          "view_more": {
+            "text": "더 보기"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Android 및 iOS 도움말",
+          "description": "계정 설정, 미디어 권한, 네트워크 연결, 라이브 스트리밍 표시 문제 등 Android 및 iOS에서 자주 묻는 VicastCam 질문에 대한 답변을 확인하세요.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCam 도움말",
+          "titleHighlight": "빠른 답변 찾기",
+          "description": "Android 또는 iOS 튜토리얼을 선택하여 기기별 일반적인 문제와 해결 방법을 확인하세요."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "질문 카테고리",
+          "answerLabel": "답변",
+          "questionProgressTemplate": "{group} · 질문 {current} / {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android 튜토리얼",
+            "count": "8개 질문",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "라이브 스트리밍에 권장되는 미디어 크기는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "라이브 스트리밍에 권장되는 미디어 크기는 다음과 같습니다:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "라이브 스트리밍 배경의 경우 이미지는 1080 x 1920 픽셀, 비디오는 1080 x 1920 픽셀을 권장합니다.",
+                      "중요: 전체 화면 오버레이는 9:16 비율을 사용해야 전체 화면과 9:16 모드 간 전환 시 완벽하게 정렬됩니다."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "계정을 삭제하려면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "VicastCam 앱에 로그인한 후 [계정 - 오른쪽 상단 아이콘 - 계정 관리 - 계정 삭제 - 삭제 요청 제출]로 이동하세요."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "계정 정보"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "계정이 삭제되면 연결된 이메일, 기기 기록 및 기타 신원 정보가 영구적으로 제거됩니다. 또한 Google 및 Apple을 통한 타사 로그인 권한도 철회됩니다. 철회 후에는 해당 타사 계정으로 빠르게 로그인할 수 없으며, 다시 사용하려면 재인증이 필요합니다."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "콘텐츠 및 미디어"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "모든 라이브 스트리밍 미디어, 비디오, 이미지 및 프로젝트 파일은 기기에만 저장됩니다. 플랫폼은 클라우드에 크리에이티브 콘텐츠를 보관하지 않습니다. 삭제 후에는 앱의 미디어 관리 기능이 더 이상 작동하지 않으므로 '미디어 내보내기' 기능을 사용하여 콘텐츠를 미리 백업해 주세요.",
+                      "백업을 먼저 내보내지 않고 앱을 제거했다가 다시 설치하거나 기기를 변경하면 미디어가 영구적으로 복구할 수 없게 됩니다."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "멤버십 혜택"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "계정 삭제 시 멤버십 혜택은 즉시 종료됩니다. 활성화된 Google Play 구독이 있는 경우 앱 계정을 삭제해도 자동으로 취소되지 않으며 요금이 계속 청구될 수 있습니다. Google Play의 '결제 및 구독 - 구독'에서 수동으로 취소해 주세요."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "문의 사항이 있으시면 고객 지원팀에 연락해 주세요."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "이미지나 비디오를 추가할 때 휴대폰 미디어에 접근할 수 없는 이유는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "미디어를 추가할 때 사진 보관함이 비어 보이는 경우 다음과 같이 사진 접근 권한을 활성화할 수 있습니다:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: 휴대폰 설정을 열고 아래로 스크롤하여 VicastCam을 찾은 다음 [사진 - 모든 사진]을 탭하여 접근을 허용합니다.",
+                      "Android: 휴대폰 설정을 열고 '권한' 또는 '앱 관리'에서 VicastCam을 찾은 다음 [권한 - 사진 - 모든 사진]을 탭하여 접근을 허용합니다.",
+                      "문제가 지속되면 앱을 다시 설치하거나 피드백 기능을 통해 온라인 지원팀에 문의해 주세요."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "컴퓨터에서 스트리밍할 때 화면이 잘려서 보이면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "스트리밍 컴패니언 또는 기타 소프트웨어를 통해 휴대폰에서 스트리밍할 때 화면이 완전히 표시되지 않는 경우 다음 단계를 따르세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam을 열고 하단의 카메라 아이콘을 탭하여 라이브 페이지로 이동한 다음 [오른쪽 메뉴 - 더 많은 설정 - 화면 비율 - 9:16]로 이동합니다.",
+                      "스트리밍 컴패니언에 캐스팅한 후 먼저 화면에 맞게 크기를 조정한 다음 이미지를 위나 아래로 드래그하여 화면을 채웁니다."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "참고: 미디어를 추가하기 전과 스트리밍을 시작하기 전에 화면 비율을 조정하세요."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "네트워크 요청이 실패하면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "네트워크 요청 실패가 발생하면 다음을 시도해 보세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "휴대폰 설정을 열고 [권한 - VicastCam - 모바일 데이터 및 Wi-Fi]로 이동하여 네트워크 접근을 켭니다.",
+                      "절전 모드와 백그라운드 제한을 끕니다.",
+                      "네트워크를 전환하거나 휴대폰을 다시 시작하거나 비행기 모드를 켜고 끄거나 앱을 업데이트합니다.",
+                      "문제가 지속되면 오류 화면을 캡처하여 고객 지원팀에 문의해 주세요."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "라이브 스트리밍 중 온라인 미디어의 오버레이가 깜빡이거나 검게 변하는 이유는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "라이브 스트리밍 중 온라인 미디어의 오버레이가 깜빡이거나 검게 변하는 경우 다음을 시도해 보세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "라이브 방송 전에 사용할 미디어나 오버레이를 미리 다운로드하고 미리 보기하여 제대로 작동하는지 확인하세요.",
+                      "일부 내장 미디어는 서버에 저장되어 있습니다. 방송 중 로딩 없이 사용할 수 있도록 스트리밍 전에 다운로드하세요.",
+                      "스트리밍 중 미디어를 로딩하면 스트리밍 리소스, 메모리 및 성능을 소모하여 지연이 발생할 수 있습니다. 저사양 기기에서는 충돌이나 검은 화면이 발생할 수도 있습니다."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "중요"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "스트리밍을 미리 계획하고 리허설하세요. 각 세그먼트를 연습하여 라이브 방송 전에 모든 것이 원활하게 진행되도록 하세요."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "키보드의 일부 키가 가려지면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "가상 키보드의 일부 키가 가려지는 경우 다음을 시도해 보세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "16:9 비율의 구형 휴대폰을 사용 중이고 일부 키가 가려지는 경우 키보드 왼쪽 상단의 두 번째 버튼을 탭하여 전체 화면 모드를 활성화하세요.",
+                      "키보드 레이아웃이 어긋난 경우 휴대폰 설정에서 글꼴 크기를 보통으로 설정하세요.",
+                      "일부 휴대폰에는 '시니어 모드'가 활성화되어 있을 수 있습니다. 이 모드를 끄면 키보드가 정상으로 돌아옵니다."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "표시 문제는 일반적으로 글꼴 크기가 너무 크거나 테마 배율이 커서 발생합니다. 이를 표준으로 재설정하면 문제가 해결됩니다."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Huawei 휴대폰에서 멀티 카메라 또는 가상 키보드 연결이 자주 끊기면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Huawei 휴대폰에서 멀티 카메라 또는 가상 키보드 연결 끊김이 발생하는 경우 다음 단계를 따르세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "휴대폰 설정으로 이동합니다.",
+                      "상단의 검색창에 '앱 시작 관리'를 입력합니다.",
+                      "앱 시작 관리 페이지로 이동하여 아래로 스크롤해 VicastCam을 찾습니다.",
+                      "오른쪽의 토글을 끄고(아이콘이 회색으로 변함) 팝업에서 세 가지 옵션을 모두 활성화합니다(파란색으로 변함)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "또한 'Huawei 휴대폰에서 멀티 카메라 및 가상 키보드 연결 끊김 방지 방법' 비디오 튜토리얼을 참조할 수 있습니다."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS 튜토리얼",
+            "count": "6개 질문",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "라이브 스트리밍에 권장되는 미디어 크기는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "라이브 스트리밍에 권장되는 미디어 크기는 다음과 같습니다:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "라이브 스트리밍 배경의 경우 이미지는 1080 x 1920 픽셀, 비디오는 1080 x 1920 픽셀을 권장합니다.",
+                      "중요: 전체 화면 오버레이는 9:16 비율을 사용해야 전체 화면과 9:16 모드 간 전환 시 완벽하게 정렬됩니다."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "계정을 삭제하려면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "VicastCam 앱에 로그인한 후 [계정 - 오른쪽 상단 아이콘 - 계정 관리 - 계정 삭제 - 삭제 요청 제출]로 이동하세요."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "계정 정보"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "계정이 삭제되면 연결된 이메일, 기기 기록 및 기타 신원 정보가 영구적으로 제거됩니다. 또한 Google 및 Apple을 통한 타사 로그인 권한도 철회됩니다. 철회 후에는 해당 타사 계정으로 빠르게 로그인할 수 없으며, 다시 사용하려면 재인증이 필요합니다."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "콘텐츠 및 미디어"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "모든 라이브 스트리밍 미디어, 비디오, 이미지 및 프로젝트 파일은 기기에만 저장됩니다. 플랫폼은 클라우드에 크리에이티브 콘텐츠를 보관하지 않습니다. 삭제 후에는 앱의 미디어 관리 기능이 더 이상 작동하지 않으므로 '미디어 내보내기' 기능을 사용하여 콘텐츠를 미리 백업해 주세요.",
+                      "백업을 먼저 내보내지 않고 앱을 제거했다가 다시 설치하거나 기기를 변경하면 미디어가 영구적으로 복구할 수 없게 됩니다."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "멤버십 혜택"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "계정 삭제 시 멤버십 혜택은 즉시 종료됩니다. 구독은 Apple에서 관리하므로 플랫폼에서 직접 환불을 처리할 수 없습니다. 환불을 요청하려면 Apple 공식 채널(App Store 구매 내역)을 통해 요청하세요. 계정을 삭제하기 전에 향후 요금 청구를 방지하기 위해 자동 갱신 구독을 수동으로 취소해야 합니다."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "문의 사항이 있으시면 고객 지원팀에 연락해 주세요."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "이미지나 비디오를 추가할 때 휴대폰 미디어에 접근할 수 없는 이유는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "미디어를 추가할 때 사진 보관함이 비어 보이는 경우 iPhone 설정을 열고 아래로 스크롤하여 VicastCam을 찾은 다음 [사진 - 모든 사진]을 탭하여 접근을 허용하세요."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "컴퓨터에서 스트리밍할 때 화면이 잘려서 보이면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "스트리밍 컴패니언 또는 기타 소프트웨어를 통해 휴대폰에서 스트리밍할 때 화면이 완전히 표시되지 않는 경우 다음 단계를 따르세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam을 열고 하단의 카메라 아이콘을 탭하여 라이브 페이지로 이동한 다음 [오른쪽 메뉴 - 더 많은 설정 - 화면 비율 - 9:16]로 이동합니다.",
+                      "스트리밍 컴패니언에 캐스팅한 후 먼저 화면에 맞게 크기를 조정한 다음 이미지를 위나 아래로 드래그하여 화면을 채웁니다."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "참고: 미디어를 추가하기 전과 스트리밍을 시작하기 전에 화면 비율을 조정하세요."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "네트워크 요청이 실패하면 어떻게 해야 하나요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "네트워크 요청 실패가 발생하면 다음을 시도해 보세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "휴대폰 설정을 열고 [권한 - VicastCam - 모바일 데이터 및 Wi-Fi]로 이동하여 네트워크 접근을 켭니다.",
+                      "절전 모드와 백그라운드 제한을 끕니다.",
+                      "네트워크를 전환하거나 휴대폰을 다시 시작하거나 비행기 모드를 켜고 끄거나 앱을 업데이트합니다.",
+                      "문제가 지속되면 오류 화면을 캡처하여 고객 지원팀에 문의해 주세요."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "라이브 스트리밍 중 온라인 미디어의 오버레이가 깜빡이거나 검게 변하는 이유는 무엇인가요?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "라이브 스트리밍 중 온라인 미디어의 오버레이가 깜빡이거나 검게 변하는 경우 다음을 시도해 보세요:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "라이브 방송 전에 사용할 미디어나 오버레이를 미리 다운로드하고 미리 보기하여 제대로 작동하는지 확인하세요.",
+                      "일부 내장 미디어는 서버에 저장되어 있습니다. 방송 중 로딩 없이 사용할 수 있도록 스트리밍 전에 다운로드하세요.",
+                      "스트리밍 중 미디어를 로딩하면 스트리밍 리소스, 메모리 및 성능을 소모하여 지연이 발생할 수 있습니다. 저사양 기기에서는 충돌이나 검은 화면이 발생할 수도 있습니다."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "중요"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "스트리밍을 미리 계획하고 리허설하세요. 각 세그먼트를 연습하여 라이브 방송 전에 모든 것이 원활하게 진행되도록 하세요. 모든 스트리밍을 진지하게 임하면 최상의 결과를 얻을 수 있습니다."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "튜토리얼 센터",
+        "titleMain": "VicastCam",
+        "titleHighlight": "학습 여정 시작하기",
+        "description": "소프트웨어를 마스터하고 빠르게 적응하세요",
+        "buttonText": "더 보기"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "튜토리얼 센터",
+          "titleMain": "VicastCam",
+          "titleHighlight": "학습 여정 시작하기",
+          "descriptionMain": "소프트웨어 마스터하기",
+          "descriptionHighlight": "빠르게 적응하기"
+        },
+        "player": {
+          "sectionAriaLabel": "튜토리얼 목록",
+          "catalogAriaLabel": "튜토리얼 카탈로그",
+          "previousLabel": "이전",
+          "nextLabel": "다음",
+          "firstLessonText": "첫 번째 강의입니다",
+          "lastLessonText": "마지막 강의입니다",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "초보자 튜토리얼",
+            "count": "9개 강의",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "첫 번째 가상 라이브 방 만들기",
+                "description": "처음부터 가상 라이브 방을 만들고 구성합니다.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "이미지 기능 이해하기",
+                "description": "이미지 기능의 기본과 사용 사례를 배웁니다.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "레이어 사용 방법",
+                "description": "레이어 패널의 기본을 마스터합니다.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "배경 레이어 사용 방법",
+                "description": "배경 레이어를 추가하고 조정하는 방법을 배웁니다.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "인물 레이어 사용 방법",
+                "description": "인물 레이어를 사용하여 시각 효과를 만드는 방법을 배웁니다.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "이미지 레이어 사용 방법",
+                "description": "이미지 레이어를 추가하고 편집하는 방법을 배웁니다.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "비디오 레이어 사용 방법",
+                "description": "비디오 미디어를 추가하고 재생을 구성하는 방법을 배웁니다.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "효과 레이어 사용 방법",
+                "description": "라이브 스트리밍에 효과 레이어를 추가합니다.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "자막 레이어 사용 방법",
+                "description": "자막을 만들고 자막 레이어 스타일을 조정합니다.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "고급 튜토리얼",
+            "count": "6개 강의",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "카메라 이동 레이어 사용 방법",
+                "description": "카메라 이동 레이어를 사용하여 더 다이내믹한 장면을 만듭니다.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "경로 기능 사용 방법",
+                "description": "경로 기능으로 요소의 이동 경로를 제어합니다.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "멀티 카메라 레이어 사용 방법",
+                "description": "멀티 카메라 레이어를 구성하여 다양한 뷰를 빠르게 전환합니다.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "컨트롤러 기능 사용 방법",
+                "description": "컨트롤러를 사용하여 라이브 스트리밍 뷰를 관리합니다.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "오디오 기능 사용 방법",
+                "description": "오디오 입력, 출력 및 믹싱 효과를 구성합니다.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "백업 기능 사용 방법",
+                "description": "라이브 방 구성 및 미디어를 백업하고 복원합니다.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

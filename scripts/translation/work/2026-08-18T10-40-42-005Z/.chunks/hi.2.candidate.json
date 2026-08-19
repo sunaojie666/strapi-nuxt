@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "शुरुआत करें",
+      "count": "11 पाठ",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "अपना पहला वर्चुअल स्टूडियो बनाएं",
+          "description": "शुरू से अपना पहला वर्चुअल स्टूडियो सेट अप और कॉन्फ़िगर करें।",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "इमेज टूल्स को समझना",
+          "description": "इमेज टूल्स की मूल बातें और उनके सामान्य उपयोग के मामलों को जानें।",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "लेयर्स के साथ काम करना",
+          "description": "लेयर्स पैनल और लेयर्स को प्रभावी ढंग से प्रबंधित करने के तरीके से परिचित हों।",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "बैकग्राउंड लेयर्स का उपयोग करना",
+          "description": "अपने सीन के लिए बैकग्राउंड लेयर्स जोड़ना और समायोजित करना सीखें।",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "पोर्ट्रेट लेयर्स का उपयोग करना",
+          "description": "अपने लाइव प्रोडक्शन को बेहतर बनाने के लिए पोर्ट्रेट लेयर्स जोड़ें।",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "इमेज लेयर्स का उपयोग करना",
+          "description": "अपने स्टूडियो सेटअप में इमेज लेयर्स जोड़ें और संपादित करें।",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "वीडियो लेयर्स का उपयोग करना",
+          "description": "वीडियो क्लिप जोड़ें और प्लेबैक सेटिंग्स नियंत्रित करें।",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "इफेक्ट लेयर्स का उपयोग करना",
+          "description": "इफेक्ट लेयर्स के साथ अपने लाइव स्ट्रीम में विज़ुअल इफेक्ट लागू करें।",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "कैप्शन लेयर्स का उपयोग करना",
+          "description": "कैप्शन बनाएं और उनके दिखने के तरीके को कस्टमाइज़ करें।",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "वर्चुअल अवतारों का उपयोग करना",
+          "description": "वर्चुअल अवतार एकीकरण के साथ अपनी स्ट्रीम को जीवंत बनाएं।",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "सीन्स का उपयोग करना",
+          "description": "अपनी स्ट्रीम के दौरान विभिन्न सीन लेआउट के बीच सहजता से स्विच करें।",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "एडवांस्ड ट्यूटोरियल",
+      "count": "6 पाठ",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "कैमरा मूवमेंट लेयर्स का उपयोग करना",
+          "description": "कैमरा मूवमेंट लेयर्स के साथ डायनामिक शॉट्स बनाएं।",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "पाथ एनीमेशन का उपयोग करना",
+          "description": "ट्रैजेक्टरी फीचर के साथ एलिमेंट मूवमेंट पाथ को नियंत्रित करें।",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "मल्टी-कैमरा लेयर्स का उपयोग करना",
+          "description": "तेज़ एंगल स्विचिंग के लिए मल्टी-कैमरा लेयर्स सेट करें।",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "कंट्रोलर का उपयोग करना",
+          "description": "एक ही कंट्रोल पैनल से अपने पूरे ब्रॉडकास्ट को प्रबंधित करें।",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "ऑडियो सेटअप और मिक्सिंग",
+          "description": "ऑडियो इनपुट, आउटपुट और मिक्स सेटिंग्स कॉन्फ़िगर करें।",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "बैकअप और रिस्टोर",
+          "description": "अपने स्टूडियो कॉन्फ़िगरेशन का बैकअप लें और ज़रूरत पड़ने पर उसे रिस्टोर करें।",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider a more idiomatic German phrasing: 'Lassen Sie Ihre Live-Streams erstrahlen' or 'Bringen Sie Ihre Live-Streams zum Glänzen'."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Ein professionelles Live-Streaming-Tool, unterstützt durch AI' for a more natural flow."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Virtuelle Hintergründe, Live-Stream-Verbesserungen und Multi-Plattform-Streaming – einfach gemacht' is acceptable, but 'einfach gemacht' could be 'ganz einfach' for emphasis."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Hintergrund in Echtzeit ersetzen' is fine, but 'Echtzeit-Hintergrundersatz' might be more compact."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mit einem Klick live gehen' is fine, but 'Live gehen mit einem Klick' might be more natural."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle3",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Verwandeln Sie Ihr Telefon in eine Webcam' is fine, but 'Machen Sie Ihr Telefon zur Webcam' is more idiomatic."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolPrefix",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Ich habe gelesen und stimme zu' is acceptable, but 'Ich habe gelesen und stimme zu' is fine; no change needed."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.closeToastLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Schließen' is fine, but 'Verwerfen' might be more precise for 'Dismiss'."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestLoading",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Wird geladen' is fine, but 'Lädt' is more concise."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestSuccess",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Erfolgreich' is fine, but 'Erfolg' might be more direct."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestFail",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Fehler bei der Anfrage' is fine, but 'Anfrage fehlgeschlagen' is more direct."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.passwordLoginNotReady",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Passwort-Anmeldung ist noch nicht verfügbar' is fine, but 'Passwort-Anmeldung noch nicht verfügbar' is more concise."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.agreeProtocolRequired",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Bitte lesen und stimmen Sie zuerst der Datenschutzrichtlinie und den Nutzungsbedingungen zu' is fine, but 'Bitte lesen und akzeptieren Sie zuerst die Datenschutzrichtlinie und die Nutzungsbedingungen' might be more direct."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Green-Screen-Effekte und Bildschirmübertragung vom Telefon' is fine, but 'Green-Screen-Effekte und Bildschirmübertragung vom Smartphone' might be more common."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Live-Streaming weltweit unterstützen' is fine, but 'Live-Streaming weltweit ermöglichen' might be more impactful."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'VicastCam nutzt fortschrittliches AI-Matting, um während Ihrer Live-Streams nahtlos virtuelle Hintergründe zu wechseln und mit immersiven Effekten eine professionelle Präsenz zu schaffen.' is fine, but 'VicastCam nutzt fortschrittliches AI-Matting, um während Ihrer Live-Streams nahtlos virtuelle Hintergründe zu wechseln und mit immersiven Effekten eine professionelle Präsenz zu schaffen.' is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.brand.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'VicastCam bietet Kreativen virtuelle Hintergründe, Live-Stream-Verbesserungen und plattformübergreifende Tools.' is fine, but 'VicastCam bietet Kreativen virtuelle Hintergründe, Live-Stream-Verbesserungen und plattformübergreifende Tools.' is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Produkt' is fine, but 'Produkte' might be more common."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Download-Center' is fine, but 'Download-Zentrum' might be more German."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Entwickler' is fine, but 'Entwickler' is correct."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'API-Dokumentation' is fine, but 'API-Dokumentation' is correct."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Unternehmen' is fine, but 'Firma' might be more common."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Über uns' is fine, but 'Über uns' is correct."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].links[3].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Mitgliedschaftsvereinbarung' is fine, but 'Mitgliedsvereinbarung' might be more common."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Support' is fine, but 'Hilfe' might be more German."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Video-Tutorials' is fine, but 'Video-Anleitungen' might be more German."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Kontakt' is fine, but 'Kontakt aufnehmen' might be more explicit."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Business' is fine, but 'Geschäftlich' might be more German."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Wiederverkäufer werden' is fine, but 'Händler werden' might be more common."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Geschäftsanfragen' is fine, but 'Geschäftliche Anfragen' might be more natural."
+    },
+    {
+      "path": "$.navigations[0].nav_features",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Funktionen' is fine, but 'Features' might be more common in tech context."
+    },
+    {
+      "path": "$.navigations[0].nav_pricing",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Preise' is fine, but 'Preisgestaltung' might be more formal."
+    },
+    {
+      "path": "$.navigations[0].nav_auth",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Anmelden / Registrieren' is fine, but 'Einloggen / Registrieren' might be more common."
+    },
+    {
+      "path": "$.navigations[0].nav_team",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Business' is fine, but 'Geschäftskunden' might be more specific."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "de",
+          "loginTitle1": "Virtuellen Hintergrund mit einem Klick wechseln",
+          "loginTitle2": "Lassen Sie Ihre Live-Streams erstrahlen",
+          "loginDes1": "Ein professionelles Live-Streaming-Tool, unterstützt durch AI",
+          "loginDes2": "Virtuelle Hintergründe, Live-Stream-Verbesserungen und Multi-Plattform-Streaming – ganz einfach",
+          "featureTitle1": "AI-Matting",
+          "featureSubTitle1": "Echtzeit-Hintergrundersatz",
+          "featureTitle2": "Multi-Plattform-Streaming",
+          "featureSubTitle2": "Live gehen mit einem Klick",
+          "featureTitle3": "Virtuelle Kamera",
+          "featureSubTitle3": "Machen Sie Ihr Telefon zur Webcam",
+          "loginBox": {
+            "loginPageTitle": "Anmelden / Registrieren",
+            "codeLoginTab": "Code-Anmeldung",
+            "pwdLoginTab": "Passwort-Anmeldung",
+            "qrLoginTab": "QR-Code-Anmeldung",
+            "emailInputPlaceholder": "E-Mail für die Anmeldung eingeben",
+            "pwdInputPlaceholder": "Passwort eingeben",
+            "verifyCodePlaceholder": "Verifizierungscode eingeben",
+            "getVerifyCodeText": "Code anfordern",
+            "loginBtnText": "Anmelden",
+            "qrLoginTip": "Scannen Sie den QR-Code mit der VicastCam-App",
+            "qrWaitingTip": "Warten auf Scan-Bestätigung",
+            "agreeProtocolText": "Ich habe die Datenschutzrichtlinie und die Nutzungsbedingungen gelesen und stimme ihnen zu",
+            "userProtocolText": "Nutzungsbedingungen",
+            "privacyPolicyText": "Datenschutzrichtlinie",
+            "agreeProtocolPrefix": "Ich habe gelesen und stimme zu"
+          },
+          "toastBox": {
+            "closeToastLabel": "Verwerfen",
+            "requestLoading": "Lädt",
+            "requestSuccess": "Erfolg",
+            "requestFail": "Anfrage fehlgeschlagen",
+            "passwordLoginNotReady": "Passwort-Anmeldung noch nicht verfügbar",
+            "passwordRequired": "Bitte geben Sie Ihr Passwort ein",
+            "emailRequired": "Bitte geben Sie Ihre E-Mail für die Anmeldung ein",
+            "verifyCodeRequired": "Bitte geben Sie den Verifizierungscode ein",
+            "agreeProtocolRequired": "Bitte lesen und akzeptieren Sie zuerst die Datenschutzrichtlinie und die Nutzungsbedingungen",
+            "qrcodeExpired": "Der QR-Code ist abgelaufen. Bitte versuchen Sie es erneut."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "de",
+          "hero_section": {
+            "tag": "AI-gestütztes Live-Streaming-Tool",
+            "title_main": "Green-Screen-Effekte und Bildschirmübertragung vom Smartphone",
+            "title_highlight": "Live-Streaming weltweit ermöglichen",
+            "description": "VicastCam nutzt fortschrittliches AI-Matting, um während Ihrer Live-Streams nahtlos virtuelle Hintergründe zu wechseln und mit immersiven Effekten eine professionelle Präsenz zu schaffen.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Herunterladen"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Herunterladen"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam bietet Kreativen virtuelle Hintergründe, Live-Stream-Verbesserungen und plattformübergreifende Tools."
+            },
+            "columns": [
+              {
+                "title": "Produkte",
+                "links": [
+                  {
+                    "text": "Funktionen"
+                  },
+                  {
+                    "text": "Preise"
+                  },
+                  {
+                    "text": "Download-Zentrum"
+                  }
+                ]
+              },
+              {
+                "title": "Entwickler",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API-Dokumentation"
+                  }
+                ]
+              },
+              {
+                "title": "Unternehmen",
+                "links": [
+                  {
+                    "text": "Über uns"
+                  },
+                  {
+                    "text": "Datenschutzrichtlinie"
+                  },
+                  {
+                    "text": "Nutzungsbedingungen"
+                  },
+                  {
+                    "text": "Mitgliedsvereinbarung"
+                  }
+                ]
+              },
+              {
+                "title": "Hilfe",
+                "links": [
+                  {
+                    "text": "Video-Anleitungen"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Kontakt aufnehmen"
+                  }
+                ]
+              },
+              {
+                "title": "Geschäftlich",
+                "links": [
+                  {
+                    "text": "Händler werden"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Geschäftliche Anfragen"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Features",
+        "nav_pricing": "Preisgestaltung",
+        "nav_faq": "FAQ",
+        "nav_auth": "Einloggen / Registrieren",
+        "nav_team": "Geschäftskunden"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Chọn phương thức thanh toán",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Thanh toán bằng số dư PayPal, thẻ ngân hàng hoặc thẻ tín dụng",
+            "secureBadge": "Thanh toán an toàn",
+            "methodLabel": "Phương thức thanh toán",
+            "accountLabel": "Tài khoản hiện tại",
+            "signInRequired": "Vui lòng đăng nhập để tiếp tục mua hàng",
+            "signInAction": "Đăng nhập",
+            "summaryHint": "Nhấp vào nút PayPal để hoàn tất thanh toán",
+            "trustItems": [
+              "Thanh toán được xử lý an toàn bởi PayPal",
+              "Hỗ trợ số dư PayPal, thẻ ngân hàng và thẻ tín dụng",
+              "Quyền lợi thành viên được kích hoạt tự động sau khi thanh toán thành công"
+            ],
+            "buttonPay": "Thanh toán bằng PayPal",
+            "buttonPending": "Đơn hàng đang chờ xử lý",
+            "buttonCreating": "Đang tạo đơn hàng...",
+            "sdkLoading": "Đang tải PayPal...",
+            "sdkError": "Không thể tải PayPal. Vui lòng kiểm tra kết nối mạng và thử lại.",
+            "sdkIneligible": "Thanh toán PayPal không được hỗ trợ trong môi trường này",
+            "sdkMissingConfig": "PayPal chưa được cấu hình. Vui lòng liên hệ quản trị viên.",
+            "orderCreating": "Đang tạo đơn thanh toán...",
+            "orderCreateFailed": "Không thể tạo đơn hàng. Vui lòng thử lại.",
+            "orderProcessing": "Kết quả thanh toán vẫn đang được xác nhận. Vui lòng kiểm tra lại sau.",
+            "orderSuccess": "Thanh toán thành công. Quyền lợi thành viên của bạn đã được kích hoạt.",
+            "orderFailed": "Thanh toán không thành công. Vui lòng thử lại.",
+            "orderPending": "Thanh toán chưa hoàn tất. Vui lòng hoàn tất thanh toán và kiểm tra lại.",
+            "orderExpired": "Đơn thanh toán đã hết hạn. Vui lòng thử lại.",
+            "statusQueryFailed": "Không thể kiểm tra trạng thái thanh toán. Vui lòng thử lại sau.",
+            "invalidPlan": "Gói đã chọn không hợp lệ. Vui lòng quay lại và chọn lại.",
+            "popupBlocked": "Cửa sổ thanh toán đã bị trình duyệt chặn. Vui lòng cho phép cửa sổ bật lên cho trang web này và thử lại.",
+            "popupOpened": "Cửa sổ thanh toán PayPal đã mở. Vui lòng hoàn tất thanh toán trong cửa sổ.",
+            "popupClosedChecking": "Cửa sổ thanh toán đã đóng. Đang xác nhận kết quả thanh toán...",
+            "popupClosedFailed": "Cửa sổ thanh toán đã đóng, nhưng đơn hàng chưa hoàn tất. Vui lòng thử lại."
+          },
+          "summary": {
+            "title": "Tóm tắt đơn hàng",
+            "periodLabel": "Thời hạn thành viên",
+            "paymentMethodLabel": "Phương thức thanh toán",
+            "amountLabel": "Số tiền phải trả",
+            "paymentMethod": "Thanh toán trực tuyến qua PayPal",
+            "note": "Sau khi thanh toán thành công, quyền lợi thành viên sẽ được tự động cấp cho tài khoản hiện tại của bạn.",
+            "periodMonth": "1 Tháng",
+            "periodYear": "1 Năm",
+            "periodLife": "Trọn đời",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Đang xác nhận kết quả thanh toán...",
+            "closeLabel": "Đóng",
+            "iconAlt": "Kết quả thanh toán",
+            "titlePrefix": "Thanh toán",
+            "successTitleHighlight": "Thành công!",
+            "failureTitleHighlight": "Thất bại!",
+            "successDescription": "Cảm ơn bạn đã mua hàng. Quyền lợi thành viên của bạn đã được kích hoạt.",
+            "failureDescription": "Không thể hoàn tất thanh toán. Vui lòng thử lại hoặc sử dụng phương thức thanh toán khác.",
+            "orderNumber": "Mã đơn hàng",
+            "membershipType": "Loại thành viên",
+            "expiry": "Ngày hết hạn",
+            "orderStatus": "Trạng thái đơn hàng",
+            "successStatus": "Đã thanh toán",
+            "failureStatus": "Chưa thanh toán",
+            "successPrimaryAction": "Xem trong Trung tâm thành viên",
+            "failurePrimaryAction": "Đổi phương thức thanh toán",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Quay lại trang",
+            "copyOrderNumber": "Sao chép mã đơn hàng",
+            "copied": "Đã sao chép",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Xác nhận mua | VicastCam",
+            "description": "Xác nhận gói thành viên VicastCam của bạn và hoàn tất thanh toán qua PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Thành viên tháng",
+              "description": "Tận hưởng tất cả tính năng thành viên VicastCam theo tháng",
+              "period": "1 Tháng"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Thành viên năm",
+              "description": "Tận hưởng tất cả tính năng thành viên VicastCam trong một năm",
+              "period": "1 Năm"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Thành viên trọn đời",
+              "description": "Thanh toán một lần, truy cập lâu dài các tính năng thành viên VicastCam",
+              "period": "Trọn đời"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

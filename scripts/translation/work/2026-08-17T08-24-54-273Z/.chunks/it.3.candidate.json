@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Quali sono le dimensioni consigliate per gli asset dello streaming live?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensioni consigliate per gli asset dello streaming live:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Per le immagini di sfondo dello streaming live, consigliamo 1080 x 1920 pixel; per i video, consigliamo anche 1080 x 1920 pixel.",
+            "Importante: le sovrapposizioni a schermo intero devono utilizzare un rapporto di aspetto 9:16 per garantire una transizione fluida tra la modalità a schermo intero e quella 9:16, senza disallineamenti, ottenendo un effetto perfettamente adattato."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Quali modalità di output sono supportate per lo streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Lo streaming supporta due modalità di output: streaming 9:16 e streaming a schermo intero. Segui questi passaggi per selezionarne una sul tuo dispositivo Android:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri VicastCam, vai alla pagina di streaming live e tocca l'icona del menu sul lato destro."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Voce di menu sul lato destro della pagina di streaming live Android",
+          "caption": "Passaggio 1: tocca l'icona del menu sul lato destro della pagina di streaming live."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In Impostazioni avanzate, trova 'Rapporto di aspetto' e scegli 'Schermo intero' o '9:16' come necessario."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Opzioni del rapporto di aspetto nelle Impostazioni avanzate su Android",
+          "caption": "Passaggio 2: in 'Rapporto di aspetto', seleziona 'Schermo intero' o '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Spiegazione delle due modalità"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming 9:16: il rapporto di aspetto di output è fisso a 9:16, quindi la piattaforma live riceve un'immagine 9:16.",
+            "Streaming a schermo intero: trasmette l'intero schermo del telefono così com'è, preservando il contenuto nativo senza ritagli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Come posso eliminare il mio account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Accedi all'app VicastCam, quindi vai su [Account - icona in alto a destra - Gestione account - Elimina account - Invia richiesta di eliminazione]."
+        },
+        {
+          "type": "heading",
+          "text": "Informazioni sull'account"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo l'eliminazione dell'account, elimineremo definitivamente la tua email collegata, i record del dispositivo e altre informazioni di identità e revocheremo la tua autorizzazione di accesso tramite account Google e Apple. Dopo la revoca, non potrai più utilizzare tali account di terze parti per l'accesso rapido; per utilizzare nuovamente l'app, dovrai riautorizzare e ricollegare."
+        },
+        {
+          "type": "heading",
+          "text": "Contenuti e risorse"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tutti gli asset dello streaming live, video, immagini e file di progetto sono memorizzati solo sul tuo dispositivo; il cloud non conserva alcuna risorsa creativa. Dopo l'eliminazione, la funzione di gestione delle risorse nell'app non funzionerà più, quindi esegui il backup delle tue risorse in anticipo tramite 'Esportazione risorse'.",
+            "Se disinstalli e reinstalli, cambi dispositivo o non riesci a esportare un backup in anticipo, le tue risorse saranno irrecuperabili in modo permanente."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vantaggi dell'abbonamento"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo l'eliminazione dell'account, i vantaggi dell'abbonamento termineranno immediatamente. Se hai un abbonamento Google Play attivo, l'eliminazione dell'account dell'app non annullerà automaticamente l'abbonamento e potresti continuare a essere addebitato. Vai su 'Pagamenti e abbonamenti - Abbonamenti' di Google Play per annullare manualmente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se hai domande, contatta il nostro team di assistenza clienti."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Perché non riesco ad accedere a foto e video del mio telefono quando li aggiungo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se il tuo album fotografico appare vuoto quando aggiungi risorse, puoi abilitare i permessi di accesso alle foto come segue:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: apri le Impostazioni del telefono, scorri verso il basso per trovare VicastCam, tocca [Foto - Tutte le foto] per abilitare l'accesso.",
+            "Android: apri le Impostazioni del telefono, trova VicastCam in [Gestione permessi] o [Gestione app], quindi tocca [Gestione permessi - Foto - Tutte le foto] per abilitare l'accesso.",
+            "Se il problema persiste, prova a disinstallare e reinstallare l'app o contatta l'assistenza online tramite la funzione di feedback."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Cosa devo fare se lo schermo non viene visualizzato completamente durante lo streaming da un computer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se lo schermo appare incompleto durante lo streaming dal telefono tramite un'app complementare di streaming live o altro software, segui questi passaggi per regolarlo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri VicastCam, tocca l'icona della fotocamera in basso per entrare nella pagina di streaming live, quindi vai su [Menu a destra - Impostazioni avanzate - Rapporto di aspetto - 9:16].",
+            "Dopo il casting all'app complementare di streaming live, adatta prima lo schermo alla tela, quindi trascina verticalmente per riempire lo schermo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: prima di iniziare lo streaming, regola il rapporto di aspetto e poi aggiungi le tue risorse."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Cosa devo fare se una richiesta di rete fallisce?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se incontri errori di richiesta di rete, prova quanto segue:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri le Impostazioni del telefono, vai su [Gestione permessi - VicastCam - Dati mobili e Wi-Fi] e abilita l'accesso alla rete.",
+            "Disattiva la modalità di risparmio energetico e qualsiasi restrizione in background sul telefono.",
+            "Cambia rete, riavvia il telefono, attiva la modalità aereo o aggiorna l'app all'ultima versione.",
+            "Se il problema persiste, fai uno screenshot dell'errore e contatta l'assistenza clienti per ricevere aiuto."
+          ]
+        }
+      ]
+    }
+  ]
+}

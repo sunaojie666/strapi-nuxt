@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Cara Membuat Ruang Live Baru",
+      "tag_1": "Mobile",
+      "tag_2": "Tutorial Pemula"
+    },
+    {
+      "title": "Memahami Mode Matting VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Tutorial Fitur"
+    },
+    {
+      "title": "Cara Menggunakan Fitur Layer VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Fitur Inti"
+    },
+    {
+      "title": "Mengenal VicastCam di Desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial Pemula"
+    },
+    {
+      "title": "Cara Menghubungkan iPhone ke VicastCam Secara Nirkabel",
+      "tag_1": "iOS",
+      "tag_2": "Tutorial Koneksi"
+    },
+    {
+      "title": "Cara Menambahkan dan Menggunakan Media Lokal",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial Penggunaan"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Komunitas Global",
+        "title_main": "Live Streaming yang Berfungsi di Mana Saja",
+        "title_highlight": "Dipercaya Streamer di 150+ Negara",
+        "desc": "Melayani lebih dari 150 negara dan wilayah, kami membantu banyak streamer berkembang dari pemula menjadi kreator konten live profesional.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Negara"
+          },
+          {
+            "number": "2000+",
+            "name": "Streamer Aktif"
+          },
+          {
+            "number": "5000+",
+            "name": "Peningkatan Popularitas"
+          },
+          {
+            "number": "99.9%",
+            "name": "Stabilitas"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "id",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Punya Pertanyaan?",
+          "title_highlight": "Kami punya jawabannya.",
+          "description": "Temukan jawaban untuk pertanyaan umum seputar VicastCam di bawah ini. Tidak menemukan yang Anda cari? Hubungi tim kami.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Platform apa saja yang bisa saya gunakan untuk streaming dengan VicastCam?",
+              "answer": "VicastCam mendukung streaming ke platform utama seperti YouTube, Twitch, TikTok, Facebook Live, dan Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Apakah penghapusan latar belakang VicastCam memerlukan green screen?",
+              "answer": "Tidak. VicastCam menggunakan penghapusan latar belakang bertenaga AI, sehingga Anda bisa mengganti latar belakang secara real-time tanpa green screen."
+            },
+            {
+              "id": "q3",
+              "question": "Bisakah saya menggunakan VicastCam di ponsel?",
+              "answer": "Ya. VicastCam tersedia di iOS dan Android, dan semua fitur profesional tersedia di perangkat mobile."
+            },
+            {
+              "id": "q4",
+              "question": "Seberapa andal VicastCam?",
+              "answer": "VicastCam menawarkan stabilitas 99,9%, mendukung streamer di seluruh dunia dengan streaming tanpa gangguan 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "Apakah VicastCam mendukung streaming multi-kamera?",
+              "answer": "Ya. Anda dapat dengan mulus beralih di antara beberapa kamera selama live streaming untuk mencapai produksi profesional."
+            }
+          ],
+          "view_more": {
+            "text": "Lihat Lebih Banyak"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "FAQ VicastCam | Bantuan Android & iOS",
+          "description": "Temukan jawaban untuk pertanyaan umum VicastCam untuk Android dan iOS, termasuk pengaturan akun, izin media, koneksi jaringan, dan masalah tampilan live streaming.",
+          "imageAlt": "FAQ VicastCam"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Bantuan VicastCam",
+          "titleHighlight": "Temukan Jawaban dengan Cepat",
+          "description": "Pilih tutorial Android atau iOS untuk melihat masalah umum dan solusi untuk perangkat Anda."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Kategori pertanyaan",
+          "answerLabel": "Jawaban",
+          "questionProgressTemplate": "{group} · Pertanyaan {current} dari {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Tutorial Android",
+            "count": "8 pertanyaan",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Berapa ukuran media yang disarankan untuk live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ukuran media yang disarankan untuk live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk latar belakang live streaming, kami merekomendasikan gambar 1080 x 1920 piksel dan video 1080 x 1920 piksel.",
+                      "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar sejajar sempurna saat beralih antara mode layar penuh dan 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Bagaimana cara menghapus akun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Masuk ke aplikasi VicastCam, lalu buka [Akun - Ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informasi Akun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akun Anda dihapus, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya. Kami juga akan mencabut otorisasi login pihak ketiga melalui Google dan Apple. Setelah pencabutan, Anda tidak akan bisa login cepat menggunakan akun pihak ketiga tersebut; jika ingin menggunakannya lagi, Anda perlu memberikan otorisasi ulang."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Konten dan Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua media live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda. Platform tidak menyimpan konten kreatif apa pun di cloud. Setelah penghapusan, fitur manajemen media aplikasi tidak akan berfungsi lagi, jadi harap cadangkan konten Anda terlebih dahulu menggunakan fitur 'Ekspor Media'.",
+                      "Jika Anda menghapus instalasi dan menginstal ulang aplikasi, atau mengganti perangkat tanpa mengekspor cadangan terlebih dahulu, media Anda akan hilang permanen dan tidak dapat dipulihkan."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Manfaat Keanggotaan"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Manfaat keanggotaan Anda akan berakhir segera setelah akun dihapus. Jika Anda memiliki langganan Google Play aktif, menghapus akun aplikasi tidak akan membatalkannya secara otomatis, dan Anda mungkin masih akan dikenakan biaya. Silakan buka 'Pembayaran & langganan - Langganan' di Google Play untuk membatalkan secara manual."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan kami."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Mengapa saya tidak bisa mengakses media ponsel saat menambahkan gambar atau video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika pustaka foto Anda tampak kosong saat menambahkan media, Anda dapat mengaktifkan akses foto sebagai berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Buka Pengaturan ponsel Anda, gulir ke bawah untuk menemukan VicastCam, ketuk [Foto - Semua Foto] untuk mengaktifkan akses.",
+                      "Android: Buka Pengaturan ponsel Anda, temukan VicastCam di bawah 'Izin' atau 'Manajemen Aplikasi', lalu ketuk [Izin - Foto - Semua Foto] untuk mengaktifkan akses.",
+                      "Jika masalah berlanjut, coba instal ulang aplikasi atau hubungi dukungan online kami melalui fitur umpan balik."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Apa yang harus dilakukan jika tampilan terpotong saat streaming dari komputer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika tampilan tidak lengkap saat streaming dari ponsel Anda melalui streaming companion atau perangkat lunak lain, ikuti langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live, lalu buka [Menu kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+                      "Setelah casting ke streaming companion, pertama-tama skala agar pas, lalu seret gambar ke atas atau ke bawah untuk mengisi layar."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Catatan: Sesuaikan rasio aspek sebelum menambahkan media dan sebelum memulai streaming Anda."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Apa yang harus dilakukan jika permintaan jaringan gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda, buka [Izin - VicastCam - Data Seluler & Wi-Fi] dan aktifkan akses jaringan.",
+                      "Matikan mode hemat daya dan pembatasan latar belakang.",
+                      "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi.",
+                      "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi tim dukungan kami."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Mengapa overlay dari media online berkedip atau menjadi hitam selama live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika overlay dari media online berkedip atau menjadi hitam selama live streaming, berikut yang dapat Anda lakukan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Unduh dan pratinjau media atau overlay yang ingin Anda gunakan sebelum live untuk memastikan semuanya berfungsi dengan baik.",
+                      "Beberapa media bawaan disimpan di server. Unduh sebelum streaming agar siap digunakan tanpa memuat selama siaran.",
+                      "Memuat media di tengah streaming menghabiskan sumber daya streaming, memori, dan kinerja, yang dapat menyebabkan lag. Pada perangkat kelas bawah, hal ini bahkan dapat menyebabkan crash atau layar hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Rencanakan dan latih streaming Anda sebelumnya. Latih setiap segmen untuk memastikan semuanya berjalan lancar sebelum live."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Apa yang harus dilakukan jika sebagian tombol keyboard tertutup?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika sebagian tombol keyboard virtual tertutup, coba langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Jika Anda menggunakan ponsel 16:9 lama dan sebagian tombol tertutup, ketuk tombol kedua di pojok kiri atas keyboard untuk mengaktifkan mode layar penuh.",
+                      "Jika tata letak keyboard tidak sejajar, buka pengaturan ponsel Anda dan atur ukuran font ke normal.",
+                      "Beberapa ponsel memiliki 'mode senior' yang aktif; mematikannya akan mengembalikan keyboard ke normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Masalah tampilan biasanya disebabkan oleh ukuran font yang terlalu besar atau skala tema yang besar. Mengatur ulang ke standar akan memperbaiki masalah."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Apa yang harus dilakukan jika ponsel Huawei saya terus terputus dari multi-kamera atau keyboard virtual?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami pemutusan koneksi dengan multi-kamera atau keyboard virtual di ponsel Huawei, ikuti langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda.",
+                      "Di bilah pencarian di bagian atas, ketik 'Manajemen peluncuran aplikasi'.",
+                      "Buka halaman Manajemen peluncuran aplikasi dan gulir ke bawah untuk menemukan VicastCam.",
+                      "Matikan sakelar di sebelah kanan (ikon menjadi abu-abu), dan di popup, aktifkan ketiga opsi (menjadi biru)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Anda juga dapat merujuk ke tutorial video 'Cara mencegah pemutusan koneksi dengan multi-kamera dan keyboard virtual di ponsel Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Tutorial iOS",
+            "count": "6 pertanyaan",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Berapa ukuran media yang disarankan untuk live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ukuran media yang disarankan untuk live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk latar belakang live streaming, kami merekomendasikan gambar 1080 x 1920 piksel dan video 1080 x 1920 piksel.",
+                      "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar sejajar sempurna saat beralih antara mode layar penuh dan 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Bagaimana cara menghapus akun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Masuk ke aplikasi VicastCam, lalu buka [Akun - Ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informasi Akun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akun Anda dihapus, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya. Kami juga akan mencabut otorisasi login pihak ketiga melalui Google dan Apple. Setelah pencabutan, Anda tidak akan bisa login cepat menggunakan akun pihak ketiga tersebut; jika ingin menggunakannya lagi, Anda perlu memberikan otorisasi ulang."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Konten dan Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua media live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda. Platform tidak menyimpan konten kreatif apa pun di cloud. Setelah penghapusan, fitur manajemen media aplikasi tidak akan berfungsi lagi, jadi harap cadangkan konten Anda terlebih dahulu menggunakan fitur 'Ekspor Media'.",
+                      "Jika Anda menghapus instalasi dan menginstal ulang aplikasi, atau mengganti perangkat tanpa mengekspor cadangan terlebih dahulu, media Anda akan hilang permanen dan tidak dapat dipulihkan."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Manfaat Keanggotaan"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Manfaat keanggotaan Anda akan berakhir segera setelah akun dihapus. Karena langganan dikelola oleh Apple, platform tidak dapat memproses pengembalian dana secara langsung. Untuk meminta pengembalian dana, silakan ajukan permintaan melalui saluran resmi Apple (riwayat pembelian App Store). Sebelum menghapus akun Anda, pastikan untuk membatalkan secara manual langganan yang diperbarui otomatis untuk menghindari biaya di masa mendatang."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan kami."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Mengapa saya tidak bisa mengakses media ponsel saat menambahkan gambar atau video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika pustaka foto Anda tampak kosong saat menambahkan media, buka Pengaturan iPhone Anda, gulir ke bawah untuk menemukan VicastCam, dan ketuk [Foto - Semua Foto] untuk mengaktifkan akses."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Apa yang harus dilakukan jika tampilan terpotong saat streaming dari komputer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika tampilan tidak lengkap saat streaming dari ponsel Anda melalui streaming companion atau perangkat lunak lain, ikuti langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live, lalu buka [Menu kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+                      "Setelah casting ke streaming companion, pertama-tama skala agar pas, lalu seret gambar ke atas atau ke bawah untuk mengisi layar."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Catatan: Sesuaikan rasio aspek sebelum menambahkan media dan sebelum memulai streaming Anda."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Apa yang harus dilakukan jika permintaan jaringan gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda, buka [Izin - VicastCam - Data Seluler & Wi-Fi] dan aktifkan akses jaringan.",
+                      "Matikan mode hemat daya dan pembatasan latar belakang.",
+                      "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi.",
+                      "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi tim dukungan kami."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Mengapa overlay dari media online berkedip atau menjadi hitam selama live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika overlay dari media online berkedip atau menjadi hitam selama live streaming, berikut yang dapat Anda lakukan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Unduh dan pratinjau media atau overlay yang ingin Anda gunakan sebelum live untuk memastikan semuanya berfungsi dengan baik.",
+                      "Beberapa media bawaan disimpan di server. Unduh sebelum streaming agar siap digunakan tanpa memuat selama siaran.",
+                      "Memuat media di tengah streaming menghabiskan sumber daya streaming, memori, dan kinerja, yang dapat menyebabkan lag. Pada perangkat kelas bawah, hal ini bahkan dapat menyebabkan crash atau layar hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Rencanakan dan latih streaming Anda sebelumnya. Latih setiap segmen untuk memastikan semuanya berjalan lancar sebelum live. Anggap setiap streaming serius, dan Anda akan mendapatkan hasil terbaik."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Pusat Tutorial",
+        "titleMain": "Mulai Perjalanan",
+        "titleHighlight": "Belajar VicastCam Anda",
+        "description": "Kuasai perangkat lunak dan cepat mahir",
+        "buttonText": "Lihat Lebih Banyak"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Pusat Tutorial",
+          "titleMain": "Mulai Perjalanan",
+          "titleHighlight": "Belajar VicastCam Anda",
+          "descriptionMain": "Kuasai perangkat lunak",
+          "descriptionHighlight": "Cepat mahir"
+        },
+        "player": {
+          "sectionAriaLabel": "Daftar tutorial",
+          "catalogAriaLabel": "Katalog tutorial",
+          "previousLabel": "Sebelumnya",
+          "nextLabel": "Berikutnya",
+          "firstLessonText": "Ini adalah pelajaran pertama",
+          "lastLessonText": "Ini adalah pelajaran terakhir",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Tutorial Pemula",
+            "count": "9 pelajaran",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Buat Ruang Live Virtual Pertama Anda",
+                "description": "Buat dan konfigurasikan ruang live virtual pertama Anda dari awal.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Memahami Fitur Gambar",
+                "description": "Pelajari dasar-dasar fitur gambar dan kasus penggunaannya.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Cara Menggunakan Layer",
+                "description": "Kuasai dasar-dasar panel layer.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Cara Menggunakan Layer Latar Belakang",
+                "description": "Pelajari cara menambahkan dan menyesuaikan layer latar belakang.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Cara Menggunakan Layer Potret",
+                "description": "Pelajari cara menggunakan layer potret untuk membuat efek visual.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Cara Menggunakan Layer Gambar",
+                "description": "Pelajari cara menambahkan dan mengedit layer gambar.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Cara Menggunakan Layer Video",
+                "description": "Pelajari cara menambahkan media video dan mengonfigurasi pemutaran.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Cara Menggunakan Layer Efek",
+                "description": "Tambahkan layer efek ke live streaming Anda.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Cara Menggunakan Layer Teks",
+                "description": "Buat teks dan sesuaikan gaya layer teks.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Tutorial Lanjutan",
+            "count": "6 pelajaran",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Cara Menggunakan Layer Gerakan Kamera",
+                "description": "Gunakan layer gerakan kamera untuk membuat bidikan yang lebih dinamis.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Cara Menggunakan Fitur Jalur",
+                "description": "Kontrol jalur pergerakan elemen dengan fitur jalur.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Cara Menggunakan Layer Multi-Kamera",
+                "description": "Konfigurasikan layer multi-kamera untuk beralih antar tampilan dengan cepat.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Cara Menggunakan Fitur Kontroler",
+                "description": "Gunakan kontroler untuk mengelola tampilan live streaming Anda.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Cara Menggunakan Fitur Audio",
+                "description": "Konfigurasikan input audio, output, dan efek mixing.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Cara Menggunakan Fitur Cadangan",
+                "description": "Cadangkan dan pulihkan konfigurasi ruang live dan media.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

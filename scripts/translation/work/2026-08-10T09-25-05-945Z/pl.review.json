@@ -1,0 +1,769 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Brak' to indicate unavailability, as 'cross' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[14].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[14].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[14].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Brak' to indicate unavailability, as 'cross' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].month",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].year",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].life",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'check' with 'Dostępne' to indicate availability, as 'check' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Brak' to indicate unavailability, as 'cross' is not a Polish word."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Replace 'cross' with 'Brak' to indicate unavailability, as 'cross' is not a Polish word."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Płatność nie jest jeszcze dostępna",
+            "payment": {
+              "providerName": "Płatność online nieaktywna",
+              "providerDescription": "Trwa konfiguracja przetwarzania płatności. Ta strona pokazuje tylko szczegóły zamówienia.",
+              "unavailableTitle": "Płatność nie jest jeszcze dostępna",
+              "unavailableDescription": "Integrujemy oficjalny proces płatności i potwierdzania zamówień. Do czasu premiery ta strona nie pobierze opłat ani nie utworzy prawdziwego zamówienia.",
+              "unavailableItems": [
+                "Nie będą ładowane żadne komponenty płatności innych firm",
+                "Żadne dane płatności nie zostaną przesłane",
+                "Nie zostanie utworzone żadne prawdziwe zamówienie płatnicze"
+              ],
+              "feedback": "Aby kupić lub aktywować członkostwo, skontaktuj się z business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Podsumowanie zamówienia",
+              "periodLabel": "Okres członkostwa",
+              "paymentMethodLabel": "Metoda płatności",
+              "amountLabel": "Kwota do zapłaty",
+              "submitLabel": "Niedostępne",
+              "note": "Płatność nie jest jeszcze dostępna. Poniższe szczegóły zamówienia służą do potwierdzenia wybranego planu.",
+              "unavailablePaymentMethod": "Niedostępne",
+              "fallbackProductName": "Nie wybrano planu",
+              "fallbackProductDescription": "Wróć na stronę główną i wybierz plan członkostwa.",
+              "periodMonth": "1 miesiąc",
+              "periodYear": "1 rok",
+              "periodLife": "Dożywotni",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Finalizacja subskrypcji",
+              "description": "Strona finalizacji subskrypcji VicastCam."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Plan miesięczny",
+                "description": "Uzyskaj pełny miesiąc dostępu po aktywacji. Niedrogi sposób na wypróbowanie."
+              },
+              {
+                "type": "year",
+                "name": "Plan roczny",
+                "description": "Uzyskaj pełny rok dostępu po aktywacji. Idealny do długotrwałego, stabilnego użytkowania."
+              },
+              {
+                "type": "life",
+                "name": "Plan dożywotni",
+                "description": "Aktywuj raz i korzystaj przez długi czas. Ciesz się korzyściami członkostwa bez przerw."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "pl",
+          "multi_platform_section": {
+            "tag": "Wsparcie wielu platform",
+            "title_main": "Docieraj do czołowych platform streamingowych na świecie",
+            "title_highlight": "Otwórz się na globalną publiczność jednym kliknięciem",
+            "description": "Połącz się z globalnymi źródłami ruchu i zbuduj nowy ekosystem streamingu transgranicznego."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Centrum konta",
+              "description": "Strona centrum konta VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "Nawigacja centrum konta",
+              "defaultProfileName": "Użytkownik",
+              "emptyContent": "Brak treści",
+              "copyButtonLabel": "Kopiuj",
+              "monthSelectLabel": "Wybierz miesiąc",
+              "yearSuffix": "r",
+              "monthSuffix": "mies.",
+              "userMissing": "Nie znaleziono informacji o użytkowniku. Zaloguj się ponownie.",
+              "paginationLabel": "Paginacja",
+              "previousPageLabel": "Poprzednia strona",
+              "nextPageLabel": "Następna strona",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Przejdź do",
+                "unit": "strony",
+                "ariaLabel": "Przejdź do określonej strony",
+                "buttonLabel": "Przejdź"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Centrum konta",
+              "logout": "Wyloguj się",
+              "profileAriaSuffix": "Menu centrum konta"
+            },
+            "sidebar": {
+              "ariaLabel": "Nawigacja centrum konta",
+              "menus": {
+                "account": "Informacje o koncie",
+                "membership": "Członkostwo",
+                "redeem": "Zrealizuj kod",
+                "purchaseHistory": "Historia zakupów",
+                "team": "Mój zespół",
+                "earnings": "Zarobki"
+              }
+            },
+            "account": {
+              "ariaLabel": "Informacje o koncie",
+              "profileTitle": "Informacje o koncie",
+              "usernameLabel": "Nazwa użytkownika",
+              "passwordLabel": "Hasło",
+              "passwordMask": "********",
+              "defaultUsername": "Nie ustawiono pseudonimu",
+              "inviteTitle": "Link zaproszeniowy",
+              "inviteDescription": "Skopiuj swój osobisty link zaproszeniowy. Gdy znajomi zarejestrują się i aktywują członkostwo, otrzymasz nagrody.",
+              "emptyInviteLink": "Brak linku zaproszeniowego"
+            },
+            "membership": {
+              "ariaLabel": "Członkostwo",
+              "title": "Moje członkostwo",
+              "badgeAlt": "Odznaka członkostwa",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Użytkownik bezpłatny",
+              "activeVipName": "Członek VIP",
+              "expirePrefix": "Wygasa",
+              "emptyExpireDate": "Nieaktywowane",
+              "activeStatus": "Aktywne",
+              "inactiveStatus": "Nieaktywowane",
+              "compareTitle": "Porównaj korzyści członkostwa",
+              "compareHeaders": {
+                "feature": "Funkcja",
+                "normal": "Bezpłatnie",
+                "month": "Miesięcznie",
+                "year": "Rocznie",
+                "life": "Dożywotnio"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Członkostwo miesięczne",
+                  "subtitle": "Idealne do krótkotrwałego użytkowania",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/miesiąc",
+                  "cta": "Rozpocznij",
+                  "benefits": [
+                    "Podstawowe funkcje wirtualnej kamery",
+                    "Wirtualne tła i upiększanie",
+                    "Wsparcie streamingu na wielu platformach",
+                    "Standardowe aktualizacje"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Członkostwo roczne",
+                  "subtitle": "Lepsza wartość przy długotrwałym użytkowaniu",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/rok",
+                  "cta": "Rozpocznij",
+                  "benefits": [
+                    "Wszystkie korzyści planu miesięcznego",
+                    "Wszystkie zaawansowane funkcje przez rok",
+                    "Priorytetowe aktualizacje funkcji",
+                    "Dedykowane wsparcie członków"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Członkostwo dożywotnie",
+                  "subtitle": "Zapłać raz, korzystaj długoterminowo",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/dożywotnio",
+                  "cta": "Rozpocznij",
+                  "benefits": [
+                    "Wszystkie korzyści planu rocznego",
+                    "Zaawansowane funkcje na zawsze",
+                    "Długoterminowe aktualizacje",
+                    "Dedykowany kanał wsparcia"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Czas trwania członkostwa",
+                  "normal": "Bezpłatnie na zawsze",
+                  "month": "30 dni",
+                  "year": "365 dni",
+                  "life": "Dożywotnio"
+                },
+                {
+                  "feature": "Wirtualna kamera na komputer",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Niestandardowe wirtualne tła",
+                  "normal": "Jeden zestaw",
+                  "month": "Bez ograniczeń",
+                  "year": "Bez ograniczeń",
+                  "life": "Bez ograniczeń"
+                },
+                {
+                  "feature": "Presety do streamingu",
+                  "normal": "Brak",
+                  "month": "Bez ograniczeń",
+                  "year": "Bez ograniczeń",
+                  "life": "Bez ograniczeń"
+                },
+                {
+                  "feature": "Zasoby z oficjalnej strony",
+                  "normal": "Ograniczone",
+                  "month": "Bez ograniczeń",
+                  "year": "Bez ograniczeń",
+                  "life": "Bez ograniczeń"
+                },
+                {
+                  "feature": "Zdalne sterowanie kontrolerem",
+                  "normal": "Dostępne",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Tryb porównania scen na żywo",
+                  "normal": "Dostępne",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Napisy scen",
+                  "normal": "Ograniczone",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Muzyka scen",
+                  "normal": "Ograniczona",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Wejście wielu kamer",
+                  "normal": "Brak",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Zaawansowane filtry upiększające",
+                  "normal": "Podstawowe",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "AI inteligentne wycinanie tła",
+                  "normal": "Dostępne",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Dynamiczne animacje śladów ruchu",
+                  "normal": "Ograniczone",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Efekty ruchu kamery scen",
+                  "normal": "Ograniczone",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Biblioteka efektów VIP",
+                  "normal": "Ograniczona",
+                  "month": "Bez ograniczeń",
+                  "year": "Bez ograniczeń",
+                  "life": "Bez ograniczeń"
+                },
+                {
+                  "feature": "Streaming na platformy",
+                  "normal": "Dostępne",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Wyjście 4K UHD",
+                  "normal": "Brak",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                },
+                {
+                  "feature": "Stawka prowizji promocyjnej",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Nagrody za polecenia",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Kanał wsparcia",
+                  "normal": "Społeczność samoobsługowa",
+                  "month": "Standardowa kolejka",
+                  "year": "Priorytetowa odpowiedź",
+                  "life": "Dedykowane wsparcie"
+                },
+                {
+                  "feature": "Wczesny dostęp do nowych funkcji",
+                  "normal": "Brak",
+                  "month": "Dostępne",
+                  "year": "Dostępne",
+                  "life": "Dostępne"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Zrealizuj kod",
+              "title": "Zrealizuj kod",
+              "tip": "Wprowadź kod realizacji członkostwa. Twoje korzyści zostaną aktywowane natychmiast po realizacji.",
+              "placeholder": "Wprowadź kod realizacji",
+              "submitButton": "Zrealizuj teraz",
+              "agreementPrefix": "Realizując kod, akceptujesz",
+              "userProtocolText": "Umowę użytkownika",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "Realizacja nie powiodła się. Sprawdź kod i spróbuj ponownie."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Historia zakupów",
+              "title": "Historia zakupów",
+              "tabTitle": "Zakupy",
+              "exchangeTabTitle": "Realizacje",
+              "tableHeaders": {
+                "title": "Typ",
+                "date": "Data płatności",
+                "price": "Kwota",
+                "paymentMethod": "Metoda płatności",
+                "status": "Status",
+                "exchangeDate": "Data realizacji",
+                "exchangeCode": "Kod realizacji"
+              },
+              "exchangeTableHeaders": {
+                "date": "Data realizacji",
+                "code": "Kod realizacji"
+              },
+              "cardTypes": {
+                "month": "Plan miesięczny",
+                "year": "Plan roczny",
+                "life": "Plan dożywotni",
+                "default": "Członkostwo"
+              },
+              "orderStatuses": {
+                "pending": "Oczekujące",
+                "paid": "Opłacone",
+                "closed": "Zamknięte",
+                "refunded": "Zwrócone",
+                "unknown": "Nieznane"
+              },
+              "secretLabels": {
+                "show": "Pokaż hasło",
+                "hide": "Ukryj hasło"
+              },
+              "secretMask": "******",
+              "emptyText": "Brak historii zakupów",
+              "exchangeEmptyText": "Brak historii realizacji",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Karta bankowa",
+                "creditcard": "Karta kredytowa",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Kryptowaluta",
+                "balance": "Saldo",
+                "free": "Bezpłatnie"
+              }
+            },
+            "team": {
+              "ariaLabel": "Mój zespół",
+              "title": "Mój zespół",
+              "referrerLabel": "Mój polecający",
+              "levelOne": "Członkowie poziomu 1",
+              "levelTwo": "Członkowie poziomu 2",
+              "tableHeaders": {
+                "name": "Nazwa członka",
+                "status": "Status członkostwa",
+                "joinedAt": "Dołączył"
+              },
+              "memberStatus": {
+                "free": "Użytkownik bezpłatny",
+                "vip": "Użytkownik VIP"
+              },
+              "emptyMemberName": "Użytkownik bez nazwy",
+              "emptyReferrer": "Brak polecającego",
+              "emptyTeam": "Brak członków zespołu",
+              "errors": {
+                "loadFail": "Nie udało się załadować członków zespołu. Spróbuj ponownie później."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Zarobki",
+              "title": "Przegląd zarobków",
+              "commissionTitle": "Szczegóły prowizji",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Łączne zarobki",
+                  "desc": "Łączna prowizja zarobiona do tej pory"
+                },
+                {
+                  "key": "month",
+                  "title": "W tym miesiącu",
+                  "desc": "Prowizja zarobiona w tym miesiącu"
+                },
+                {
+                  "key": "settling",
+                  "title": "Oczekujące na rozliczenie",
+                  "value": "0.00",
+                  "desc": "Kwota oczekująca na rozliczenie"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Do wypłaty",
+                  "desc": "Kwota aktualnie dostępna do wypłaty",
+                  "action": "Wypłać"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Nazwa użytkownika",
+                "saleTime": "Data sprzedaży",
+                "goodsInfo": "Produkt",
+                "commission": "Prowizja"
+              },
+              "emptyCommission": "Brak rekordów prowizji",
+              "errors": {
+                "loadFail": "Nie udało się załadować szczegółów prowizji. Spróbuj ponownie później."
+              },
+              "withdraw": {
+                "ariaLabel": "Wniosek o wypłatę",
+                "title": "Wniosek o wypłatę",
+                "closeLabel": "Zamknij okno wypłaty",
+                "balanceLabel": "Saldo do wypłaty",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "Kwota wypłaty",
+                "amountPlaceholder": "Wprowadź kwotę wypłaty",
+                "allButton": "Wszystko",
+                "allAmountValue": "0.00",
+                "amountTip": "Upewnij się, że kwota jest poprawna. Po przesłaniu wniosek zostanie sprawdzony ręcznie.",
+                "methodLabel": "Metoda wypłaty",
+                "methods": [
+                  "Karta bankowa",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Karta bankowa",
+                "nameLabel": "Nazwa odbiorcy",
+                "namePlaceholder": "Wprowadź nazwę odbiorcy",
+                "defaultName": "",
+                "bankCardLabel": "Numer konta",
+                "bankCardPlaceholder": "Wprowadź numer karty bankowej, e-mail PayPal lub adres portfela",
+                "remarkLabel": "Uwagi",
+                "remarkPlaceholder": "Opcjonalne dodatkowe informacje",
+                "note": "Wnioski o wypłatę są przetwarzane w ciągu 1-3 dni roboczych.",
+                "cancelButton": "Anuluj",
+                "submitButton": "Wyślij wniosek"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Realizacja zakończona sukcesem",
+              "operationFailed": "Realizacja nie powiodła się",
+              "invalidCard": "Nieprawidłowy kod realizacji",
+              "cardNotFound": "Nie znaleziono kodu realizacji",
+              "cardDisabled": "Kod realizacji wyłączony",
+              "cardExpired": "Kod realizacji wygasł"
+            },
+            "successMessage": "Operacja zakończona sukcesem"
+          }
+        }
+      }
+    ]
+  }
+}

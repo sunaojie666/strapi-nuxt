@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Canlı yayında ağ varlıkları veya katmanlar neden titriyor ya da siyah ekran oluyor?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Canlı yayın sırasında ağ varlıkları eklerken titreme veya siyah ekran sorunu yaşıyorsanız, şu şekilde çözebilirsiniz:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Yayında kullanmayı planladığınız varlıkları veya katmanları önceden indirip önizleyin ve yayına başlamadan önce düzgün çalıştıklarından emin olun.",
+            "Yazılımla birlikte gelen bazı varlıklar sunucularda saklanır. Bunları yayına başlamadan önce indirirseniz, yayın sırasında yeniden yüklemeden doğrudan kullanabilirsiniz.",
+            "Yayın sırasında varlık yüklemek, yayın kaynaklarını, telefon belleğini ve performansı tüketir; bu da gecikmeye neden olabilir; düşük donanımlı telefonlarda çökme veya siyah ekran sorunlarına bile yol açabilir."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Önemli not"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yayına başlamadan önce, her öğenin kusursuz çalıştığından emin olmak için yayınınızı iyice planlayın ve prova yapın."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Klavyede bazı tuşlar kapanırsa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Sanal klavyede bazı tuşlar kapanıyorsa, şunları deneyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Uzaktan kumanda olarak eski bir 16:9 telefon kullanıyorsanız ve bazı tuşlar kapanıyorsa, klavyenin sol üst köşesindeki ikinci düğmeye dokunarak tam ekran çalışma modunu etkinleştirin.",
+            "Klavye düzeni hizalı değilse, telefonunuzun Ayarlar bölümüne gidin ve yazı tipi boyutunu normal olarak ayarlayın.",
+            "Bazı telefonlarda yaşlı modu etkindir; bunu kapatmak klavyenin normal görünümüne dönmesini sağlamalıdır."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Görüntü sorunları genellikle büyük yazı tiplerinden veya büyük telefon teması arayüzünden kaynaklanır. Bunları standart moda sıfırlamak sorunu çözmelidir."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Huawei telefonum çoklu kamera veya sanal klavyeden sürekli bağlantı koparıyorsa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Huawei telefonunuz çoklu kamera veya sanal klavye ile bağlantı koparma sorunu yaşıyorsa, şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Telefonunuzun Ayarlar bölümüne gidin.",
+            "Üstteki arama çubuğuna 'Uygulama başlatma yönetimi' yazın.",
+            "Uygulama başlatma yönetimi sayfasına gidin, aşağı kaydırarak VicastCam'i bulun.",
+            "Sağdaki anahtarı kapatın, böylece simge gri olur; aynı zamanda açılır penceredeki üç seçeneğin de mavi olması için hepsini etkinleştirin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ayrıca 'Huawei telefonlarda çoklu kamera ve sanal klavye bağlantı kopmalarını önleme' video eğitimine de başvurabilirsiniz."
+        }
+      ]
+    }
+  ]
+}

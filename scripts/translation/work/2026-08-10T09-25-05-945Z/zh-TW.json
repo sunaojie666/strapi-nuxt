@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "付款功能尚未開放",
+          "payment": {
+            "providerName": "線上付款尚未啟用",
+            "providerDescription": "付款流程正在設定中。此頁面僅顯示訂單資訊。",
+            "unavailableTitle": "付款功能尚未開放",
+            "unavailableDescription": "我們正在整合官方付款與訂單確認流程。在正式上線前，此頁面不會向您收費，也不會建立真實訂單。",
+            "unavailableItems": [
+              "不會載入任何第三方付款元件",
+              "不會提交任何付款資訊",
+              "不會建立任何真實付款訂單"
+            ],
+            "feedback": "如需購買或啟用會員資格，請聯絡 business@vicastcam.com。"
+          },
+          "summary": {
+            "title": "訂單摘要",
+            "periodLabel": "會員期間",
+            "paymentMethodLabel": "付款方式",
+            "amountLabel": "應付金額",
+            "submitLabel": "尚未開放",
+            "note": "付款功能尚未開放。以下訂單資訊僅供確認您的方案。",
+            "unavailablePaymentMethod": "尚未開放",
+            "fallbackProductName": "未選擇方案",
+            "fallbackProductDescription": "請返回首頁並選擇會員方案。",
+            "periodMonth": "1 個月",
+            "periodYear": "1 年",
+            "periodLife": "終身",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "訂閱結帳",
+            "description": "VicastCam 訂閱結帳頁面。"
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "月繳方案",
+              "description": "啟用後即可使用完整一個月。低成本體驗的好選擇。"
+            },
+            {
+              "type": "year",
+              "name": "年繳方案",
+              "description": "啟用後即可使用完整一年。適合長期穩定使用。"
+            },
+            {
+              "type": "life",
+              "name": "終身方案",
+              "description": "一次啟用，長期使用。持續享有會員權益。"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "zh-TW",
+        "multi_platform_section": {
+          "tag": "多平台支援",
+          "title_main": "觸及全球頂尖直播平台",
+          "title_highlight": "一鍵解鎖全球觀眾",
+          "description": "串聯全球流量來源，打造全新跨境直播生態。"
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "帳號中心",
+            "description": "VicastCam 帳號中心頁面"
+          },
+          "common": {
+            "sidebarAriaLabel": "帳號中心導覽",
+            "defaultProfileName": "使用者",
+            "emptyContent": "無內容",
+            "copyButtonLabel": "複製",
+            "monthSelectLabel": "選擇月份",
+            "yearSuffix": "年",
+            "monthSuffix": "個月",
+            "userMissing": "找不到使用者資訊，請重新登入。",
+            "paginationLabel": "分頁",
+            "previousPageLabel": "上一頁",
+            "nextPageLabel": "下一頁",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "前往",
+              "unit": "頁",
+              "ariaLabel": "前往指定頁面",
+              "buttonLabel": "前往"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "帳號中心",
+            "logout": "登出",
+            "profileAriaSuffix": "帳號中心選單"
+          },
+          "sidebar": {
+            "ariaLabel": "帳號中心導覽",
+            "menus": {
+              "account": "帳號資訊",
+              "membership": "會員方案",
+              "redeem": "兌換碼",
+              "purchaseHistory": "購買紀錄",
+              "team": "我的團隊",
+              "earnings": "收益"
+            }
+          },
+          "account": {
+            "ariaLabel": "帳號資訊",
+            "profileTitle": "帳號資訊",
+            "usernameLabel": "使用者名稱",
+            "passwordLabel": "密碼",
+            "passwordMask": "********",
+            "defaultUsername": "尚未設定暱稱",
+            "inviteTitle": "邀請連結",
+            "inviteDescription": "複製您的專屬邀請連結。當朋友註冊並啟用會員時，您可獲得獎勵。",
+            "emptyInviteLink": "尚無邀請連結"
+          },
+          "membership": {
+            "ariaLabel": "會員方案",
+            "title": "我的會員",
+            "badgeAlt": "會員徽章",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "免費使用者",
+            "activeVipName": "VIP 會員",
+            "expirePrefix": "到期日",
+            "emptyExpireDate": "尚未啟用",
+            "activeStatus": "啟用中",
+            "inactiveStatus": "尚未啟用",
+            "compareTitle": "比較會員權益",
+            "compareHeaders": {
+              "feature": "功能",
+              "normal": "免費",
+              "month": "月繳",
+              "year": "年繳",
+              "life": "終身"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月繳會員",
+                "subtitle": "適合短期使用",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "立即開始",
+                "benefits": [
+                  "核心虛擬攝影機功能",
+                  "虛擬背景與美顏",
+                  "多平台直播支援",
+                  "標準更新"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年繳會員",
+                "subtitle": "長期使用更划算",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/年",
+                "cta": "立即開始",
+                "benefits": [
+                  "包含月繳所有權益",
+                  "全年使用所有進階功能",
+                  "優先功能更新",
+                  "專屬會員支援"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "終身會員",
+                "subtitle": "一次付費，長期使用",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/終身",
+                "cta": "立即開始",
+                "benefits": [
+                  "包含年繳所有權益",
+                  "永久使用進階功能",
+                  "長期更新",
+                  "專屬支援管道"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "會員期間",
+                "normal": "永久免費",
+                "month": "30 天",
+                "year": "365 天",
+                "life": "終身"
+              },
+              {
+                "feature": "桌面虛擬攝影機",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "自訂虛擬背景",
+                "normal": "一組",
+                "month": "無限",
+                "year": "無限",
+                "life": "無限"
+              },
+              {
+                "feature": "直播預設",
+                "normal": "✕",
+                "month": "無限",
+                "year": "無限",
+                "life": "無限"
+              },
+              {
+                "feature": "官方網站素材",
+                "normal": "有限",
+                "month": "無限",
+                "year": "無限",
+                "life": "無限"
+              },
+              {
+                "feature": "透過控制器遠端控制",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "直播場景比對模式",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "場景字幕",
+                "normal": "有限",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "場景音樂",
+                "normal": "有限",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "多攝影機輸入",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "進階美顏濾鏡",
+                "normal": "基本",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "AI 智慧去背",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "動態軌跡動畫",
+                "normal": "有限",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "場景攝影機運鏡效果",
+                "normal": "有限",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "VIP 特效庫",
+                "normal": "有限",
+                "month": "無限",
+                "year": "無限",
+                "life": "無限"
+              },
+              {
+                "feature": "平台直播",
+                "normal": "✓",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "4K UHD 輸出",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              },
+              {
+                "feature": "推廣佣金比例",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "推薦獎勵",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "支援管道",
+                "normal": "社群自助",
+                "month": "標準排隊",
+                "year": "優先回覆",
+                "life": "專屬支援"
+              },
+              {
+                "feature": "新功能搶先體驗",
+                "normal": "✕",
+                "month": "✓",
+                "year": "✓",
+                "life": "✓"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "兌換碼",
+            "title": "兌換碼",
+            "tip": "輸入您的會員兌換碼，兌換後立即啟用權益。",
+            "placeholder": "請輸入兌換碼",
+            "submitButton": "立即兌換",
+            "agreementPrefix": "兌換即表示您同意",
+            "userProtocolText": "使用者協議",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "兌換失敗，請檢查兌換碼後重試。"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "購買紀錄",
+            "title": "購買紀錄",
+            "tabTitle": "購買",
+            "exchangeTabTitle": "兌換",
+            "tableHeaders": {
+              "title": "類型",
+              "date": "付款日期",
+              "price": "金額",
+              "paymentMethod": "付款方式",
+              "status": "狀態",
+              "exchangeDate": "兌換日期",
+              "exchangeCode": "兌換碼"
+            },
+            "exchangeTableHeaders": {
+              "date": "兌換日期",
+              "code": "兌換碼"
+            },
+            "cardTypes": {
+              "month": "月繳方案",
+              "year": "年繳方案",
+              "life": "終身方案",
+              "default": "會員"
+            },
+            "orderStatuses": {
+              "pending": "處理中",
+              "paid": "已付款",
+              "closed": "已關閉",
+              "refunded": "已退款",
+              "unknown": "未知"
+            },
+            "secretLabels": {
+              "show": "顯示密碼",
+              "hide": "隱藏密碼"
+            },
+            "secretMask": "******",
+            "emptyText": "尚無購買紀錄",
+            "exchangeEmptyText": "尚無兌換紀錄",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "銀行卡",
+              "creditcard": "信用卡",
+              "alipay": "支付寶",
+              "wechat": "微信支付",
+              "wechatpay": "微信支付",
+              "usdt": "USDT",
+              "crypto": "加密貨幣",
+              "balance": "餘額",
+              "free": "免費"
+            }
+          },
+          "team": {
+            "ariaLabel": "我的團隊",
+            "title": "我的團隊",
+            "referrerLabel": "我的推薦人",
+            "levelOne": "一級成員",
+            "levelTwo": "二級成員",
+            "tableHeaders": {
+              "name": "成員名稱",
+              "status": "會員狀態",
+              "joinedAt": "加入時間"
+            },
+            "memberStatus": {
+              "free": "免費使用者",
+              "vip": "VIP 使用者"
+            },
+            "emptyMemberName": "未命名使用者",
+            "emptyReferrer": "無推薦人",
+            "emptyTeam": "尚無團隊成員",
+            "errors": {
+              "loadFail": "載入團隊成員失敗，請稍後再試。"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "收益",
+            "title": "收益總覽",
+            "commissionTitle": "佣金明細",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "累計收益",
+                "desc": "至今累計獲得的佣金"
+              },
+              {
+                "key": "month",
+                "title": "本月收益",
+                "desc": "本月獲得的佣金"
+              },
+              {
+                "key": "settling",
+                "title": "待結算",
+                "value": "0.00",
+                "desc": "等待結算的金額"
+              },
+              {
+                "key": "withdrawable",
+                "title": "可提領",
+                "desc": "目前可提領的金額",
+                "action": "提領"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "使用者名稱",
+              "saleTime": "銷售時間",
+              "goodsInfo": "商品",
+              "commission": "佣金"
+            },
+            "emptyCommission": "尚無佣金紀錄",
+            "errors": {
+              "loadFail": "載入佣金明細失敗，請稍後再試。"
+            },
+            "withdraw": {
+              "ariaLabel": "提領申請",
+              "title": "提領申請",
+              "closeLabel": "關閉提領對話框",
+              "balanceLabel": "可提領餘額",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "提領金額",
+              "amountPlaceholder": "請輸入提領金額",
+              "allButton": "全部",
+              "allAmountValue": "0.00",
+              "amountTip": "請確認金額正確。送出後將由人工審核。",
+              "methodLabel": "提領方式",
+              "methods": [
+                "銀行卡",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "銀行卡",
+              "nameLabel": "收款人姓名",
+              "namePlaceholder": "請輸入收款人姓名",
+              "defaultName": "",
+              "bankCardLabel": "帳號",
+              "bankCardPlaceholder": "請輸入銀行卡號、PayPal 電子郵件或錢包地址",
+              "remarkLabel": "備註",
+              "remarkPlaceholder": "其他補充資訊（選填）",
+              "note": "提領申請將於 1-3 個工作天內處理。",
+              "cancelButton": "取消",
+              "submitButton": "送出申請"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "兌換成功",
+            "operationFailed": "兌換失敗",
+            "invalidCard": "兌換碼無效",
+            "cardNotFound": "找不到兌換碼",
+            "cardDisabled": "兌換碼已停用",
+            "cardExpired": "兌換碼已過期"
+          },
+          "successMessage": "操作成功"
+        }
+      }
+    }
+  ]
+}

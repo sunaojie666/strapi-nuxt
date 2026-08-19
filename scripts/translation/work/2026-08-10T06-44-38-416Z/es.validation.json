@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "locale": "es",
+  "contentType": "ui",
+  "sourceHash": "cab99e067d651ae12fb6b7ac72efe2b852493bd68744d5485a3421b8a3a7019f",
+  "translationHash": "ef2b2602196147ec6d1049bc3cee58b8a536ccd43d17c897f773ab06b0f92973",
+  "status": "rejected",
+  "requiresHumanReview": false,
+  "issues": [
+    {
+      "path": "$",
+      "code": "protected-term-missing",
+      "severity": "error",
+      "message": "Missing required term: AI"
+    }
+  ],
+  "checkedAt": "2026-08-10T06:46:46.333Z"
+}

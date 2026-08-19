@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "멤버십",
+    "title": "내 멤버십",
+    "badgeAlt": "멤버십 배지",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "무료 사용자",
+    "activeVipName": "VIP 멤버",
+    "expirePrefix": "만료일",
+    "emptyExpireDate": "미활성화",
+    "activeStatus": "활성",
+    "inactiveStatus": "비활성",
+    "compareTitle": "요금제 비교",
+    "compareHeaders": {
+      "feature": "기능",
+      "normal": "무료",
+      "month": "월간",
+      "year": "연간",
+      "life": "평생"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "월간",
+        "subtitle": "단기 사용에 적합",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/월",
+        "cta": "시작하기",
+        "benefits": [
+          "핵심 가상 카메라 기능",
+          "가상 배경 및 뷰티 기능",
+          "멀티 플랫폼 라이브 스트리밍",
+          "표준 업데이트"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "연간",
+        "subtitle": "장기 사용에 더 나은 가치",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/년",
+        "cta": "시작하기",
+        "benefits": [
+          "월간 플랜의 모든 기능",
+          "1년간 모든 프리미엄 기능",
+          "우선 기능 업데이트",
+          "전담 멤버 지원"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "평생",
+        "subtitle": "한 번 결제로 평생 사용",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/평생",
+        "cta": "시작하기",
+        "benefits": [
+          "연간 플랜의 모든 기능",
+          "평생 프리미엄 기능",
+          "장기 업데이트",
+          "전용 지원 채널"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "멤버십 기간",
+        "normal": "무료 평생",
+        "month": "30일",
+        "year": "365일",
+        "life": "평생"
+      },
+      {
+        "feature": "데스크톱 가상 카메라",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "커스텀 가상 배경",
+        "normal": "1세트",
+        "month": "무제한",
+        "year": "무제한",
+        "life": "무제한"
+      },
+      {
+        "feature": "스트리밍 프리셋",
+        "normal": "없음",
+        "month": "무제한",
+        "year": "무제한",
+        "life": "무제한"
+      },
+      {
+        "feature": "공식 에셋",
+        "normal": "제한",
+        "month": "무제한",
+        "year": "무제한",
+        "life": "무제한"
+      },
+      {
+        "feature": "컨트롤러 원격 제어",
+        "normal": "지원",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "장면 비교 모드",
+        "normal": "지원",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "장면 자막",
+        "normal": "제한",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "장면 음악",
+        "normal": "제한",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "멀티 카메라 입력",
+        "normal": "없음",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "고급 뷰티 필터",
+        "normal": "기본",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "AI 그린 스크린 매팅",
+        "normal": "지원",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "모션 트래킹 애니메이션",
+        "normal": "제한",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "장면 카메라 효과",
+        "normal": "제한",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "VIP 효과 라이브러리",
+        "normal": "제한",
+        "month": "무제한",
+        "year": "무제한",
+        "life": "무제한"
+      },
+      {
+        "feature": "플랫폼 스트리밍",
+        "normal": "지원",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "4K 출력",
+        "normal": "없음",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      },
+      {
+        "feature": "추천인 커미션 비율",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "하위 제휴 리베이트",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "지원 채널",
+        "normal": "커뮤니티 자가 지원",
+        "month": "일반 대기열",
+        "year": "우선 응답",
+        "life": "전담 지원"
+      },
+      {
+        "feature": "신규 기능 조기 액세스",
+        "normal": "없음",
+        "month": "지원",
+        "year": "지원",
+        "life": "지원"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "코드 사용",
+    "title": "코드 사용",
+    "tip": "멤버십 사용 코드를 입력하세요. 사용 즉시 멤버십이 활성화됩니다.",
+    "placeholder": "사용 코드 입력",
+    "submitButton": "사용",
+    "agreementPrefix": "사용 시",
+    "userProtocolText": "이용약관",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "사용에 실패했습니다. 코드를 확인하고 다시 시도하세요."
+    }
+  }
+}

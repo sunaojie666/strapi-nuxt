@@ -1,0 +1,219 @@
+{
+  "score": 82,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.description",
+      "category": "grammar",
+      "severity": "critical",
+      "instruction": "Replace the Chinese characters '试试' with the correct Bangla word 'চেষ্টা' to form 'ফ্রিতে চেষ্টা করুন, অথবা অন্য প্ল্যান বেছে নিন'."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].description",
+      "category": "grammar",
+      "severity": "critical",
+      "instruction": "Replace the Chinese characters '试试' with the correct Bangla word 'চেষ্টা' to form 'কম খরচে চেষ্টা করার সুযোগ'."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].subtitle",
+      "category": "grammar",
+      "severity": "critical",
+      "instruction": "Replace the Chinese characters '试试' with the correct Bangla word 'চেষ্টা' to form 'কম খরচে চেষ্টা করার সুযোগ'."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "মূল্য",
+            "titleMain": "প্ল্যান বেছে নিন",
+            "titleHighlight": "যা আপনার জন্য উপযুক্ত",
+            "description": "ফ্রিতে চেষ্টা করুন, অথবা অন্য প্ল্যান বেছে নিন",
+            "priceAltSuffix": "মূল্য",
+            "freePlanMessage": "ফ্রি ব্যবহারকারীদের কেনার প্রয়োজন নেই",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "ফ্রি",
+                "description": "ডাউনলোড এবং রেজিস্ট্রেশন ফ্রি, মৌলিক ফিচারগুলো বিনামূল্যে ব্যবহার করা যায়।",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/মাস",
+                "priceNote": "",
+                "cta": "শুরু করুন",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "একটি সিন দিয়ে তৈরি করুন",
+                  "চারটি লেয়ার পর্যন্ত অবাধে সাজান",
+                  "বিভিন্ন লাইভ ব্যাকগ্রাউন্ড ম্যাটেরিয়াল অ্যাক্সেস করুন",
+                  "পিসি স্ক্রিন কাস্টিংয়ের জন্য বেসিক কোয়ালিটি",
+                  "বিল্ট-ইন ন্যাচারাল বিউটি ইফেক্ট"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "মাসিক",
+                "description": "এক মাসের সম্পূর্ণ অ্যাক্সেস সক্রিয় করুন, কম খরচে চেষ্টা করার সুযোগ।",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/মাস",
+                "priceNote": "৩০ দিনের অ্যাক্সেস",
+                "cta": "কিনুন",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "সব মোবাইল ফিচার",
+                  "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                  "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                  "অ্যাডভান্সড বিউটি ইফেক্ট",
+                  "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "বার্ষিক",
+                "description": "বার্ষিক সাশ্রয়ের সাথে সেরা মূল্য।",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/বছর",
+                "priceNote": "৩৬৫ দিনের অ্যাক্সেস",
+                "cta": "কিনুন",
+                "badgeText": "সবচেয়ে জনপ্রিয়",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "সব মোবাইল ফিচার",
+                  "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                  "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                  "অ্যাডভান্সড বিউটি ইফেক্ট",
+                  "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "লাইফটাইম",
+                "description": "এককালীন পেমেন্টে আজীবন অ্যাক্সেস, দীর্ঘমেয়াদী ক্রিয়েটরদের জন্য আদর্শ।",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "আজীবন অ্যাক্সেস",
+                "cta": "কিনুন",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "সব মোবাইল ফিচার",
+                  "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                  "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                  "অ্যাডভান্সড বিউটি ইফেক্ট",
+                  "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "মাসিক",
+                  "subtitle": "এক মাসের সম্পূর্ণ অ্যাক্সেস সক্রিয় করুন, কম খরচে চেষ্টা করার সুযোগ।",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/মাস",
+                  "cta": "কিনুন",
+                  "benefits": [
+                    "সব মোবাইল ফিচার",
+                    "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                    "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                    "অ্যাডভান্সড বিউটি ইফেক্ট",
+                    "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "বার্ষিক",
+                  "subtitle": "বার্ষিক সাশ্রয়ের সাথে সেরা মূল্য।",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/বছর",
+                  "cta": "কিনুন",
+                  "benefits": [
+                    "সব মোবাইল ফিচার",
+                    "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                    "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                    "অ্যাডভান্সড বিউটি ইফেক্ট",
+                    "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "লাইফটাইম",
+                  "subtitle": "এককালীন পেমেন্টে আজীবন অ্যাক্সেস, দীর্ঘমেয়াদী ক্রিয়েটরদের জন্য আদর্শ।",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "কিনুন",
+                  "benefits": [
+                    "সব মোবাইল ফিচার",
+                    "পিসি স্ক্রিন কাস্টিং লাইভ স্ট্রিমিং",
+                    "এইচডি লাইভ স্ট্রিমিং কোয়ালিটি",
+                    "অ্যাডভান্সড বিউটি ইফেক্ট",
+                    "এক্সক্লুসিভ লাইভ স্ট্রিমিং ইফেক্ট"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "Marcus Johnson",
+        "username": "@Musk",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      }
+    ]
+  }
+}

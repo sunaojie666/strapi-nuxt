@@ -1,0 +1,345 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.sectionTag",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'मूल्य' or 'कीमत' instead of 'मूल्य निर्धारण' for a more natural Hindi term for 'Pricing' on Indian product sites."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'मुफ्त' instead of 'फ्री' for 'Free' to maintain consistency with the description and freePlanMessage."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].unit",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use '/महीना' consistently; it is already used, but ensure no inconsistency with other units."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'मुफ्त में शुरू करें' for 'Get Started' to be more explicit about the free nature."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'एक सीन के साथ बनाएं' is fine, but 'एक सीन के साथ क्रिएट करें' might be more natural for Indian tech audience."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'चार लेयर तक फ्री में व्यवस्थित करें' to emphasize the free aspect, but current is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[2]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'विभिन्न लाइव बैकग्राउंड मटेरियल तक पहुंच' is fine, but 'कई लाइव बैकग्राउंड मटेरियल तक पहुंच' might be more natural."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[3]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'PC स्क्रीन कास्टिंग के लिए बेसिक क्वालिटी' is fine, but 'PC स्क्रीन कास्टिंग के लिए बेसिक गुणवत्ता' might be more Hindi."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[4]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'बिल्ट-इन नेचुरल ब्यूटी इफेक्ट्स' is fine, but 'अंतर्निहित प्राकृतिक ब्यूटी इफेक्ट्स' might be more formal."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'आज़माने का कम लागत वाला तरीका' is a bit awkward; consider 'कम लागत में आज़माने का तरीका' for better flow."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'सभी मोबाइल सुविधाएं' is fine, but 'सभी मोबाइल फीचर्स' might be more common."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'PC स्क्रीन कास्टिंग लाइव स्ट्रीमिंग' is fine, but 'PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग' might be clearer."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[2]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'HD लाइव स्ट्रीमिंग क्वालिटी' is fine, but 'HD लाइव स्ट्रीमिंग गुणवत्ता' might be more Hindi."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[3]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'एडवांस ब्यूटी इफेक्ट्स' is fine, but 'उन्नत ब्यूटी इफेक्ट्स' might be more formal."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[4]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'एक्सक्लूसिव लाइव स्ट्रीमिंग इफेक्ट्स' is fine, but 'विशेष लाइव स्ट्रीमिंग इफेक्ट्स' might be more natural."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'सालाना बचत के साथ सबसे अच्छा मूल्य' is fine, but consider 'सालाना बचत के साथ सबसे अच्छा मूल्य' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].badgeText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'सबसे लोकप्रिय' is fine, but 'सबसे ज्यादा पसंद किया जाने वाला' might be more descriptive."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'लंबे समय के क्रिएटर्स के लिए आदर्श' is fine, but consider 'लंबे समय तक क्रिएट करने वालों के लिए आदर्श' for better flow."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'लाइफटाइम' is fine, but 'आजीवन' might be more Hindi, but 'लाइफटाइम' is widely understood."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].priceNote",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'लाइफटाइम एक्सेस' is fine, but 'आजीवन एक्सेस' might be more formal."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as monthly plan description, consider 'कम लागत में आज़माने का तरीका'."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as yearly plan description, consider 'सालाना बचत के साथ सबसे अच्छा मूल्य' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as lifetime plan description, consider 'लंबे समय तक क्रिएट करने वालों के लिए आदर्श'."
+    },
+    {
+      "path": "$.streamers[0].location",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'दुबई, यूएई' is fine, but 'दुबई, संयुक्त अरब अमीरात' might be more formal, but 'यूएई' is widely understood."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "मूल्य",
+            "titleMain": "अपना प्लान चुनें",
+            "titleHighlight": "जो आपके लिए सही हो",
+            "description": "मुफ्त में आज़माएं, या कोई और प्लान चुनें",
+            "priceAltSuffix": "कीमत",
+            "freePlanMessage": "फ्री यूज़र्स को खरीदने की ज़रूरत नहीं है",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "मुफ्त",
+                "description": "डाउनलोड और रजिस्टर करना मुफ्त है, बुनियादी सुविधाएं बिना किसी लागत के उपलब्ध हैं।",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/महीना",
+                "priceNote": "",
+                "cta": "मुफ्त में शुरू करें",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "एक सीन के साथ क्रिएट करें",
+                  "चार लेयर तक फ्री में व्यवस्थित करें",
+                  "कई लाइव बैकग्राउंड मटेरियल तक पहुंच",
+                  "PC स्क्रीन कास्टिंग के लिए बेसिक गुणवत्ता",
+                  "अंतर्निहित प्राकृतिक ब्यूटी इफेक्ट्स"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "मासिक",
+                "description": "एक पूरे महीने की एक्सेस सक्रिय करें और आनंद लें, कम लागत में आज़माने का तरीका।",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/महीना",
+                "priceNote": "30 दिन की एक्सेस",
+                "cta": "खरीदें",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "सभी मोबाइल फीचर्स",
+                  "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                  "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                  "उन्नत ब्यूटी इफेक्ट्स",
+                  "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "वार्षिक",
+                "description": "सालाना बचत के साथ सबसे अच्छा मूल्य।",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/वर्ष",
+                "priceNote": "365 दिन की एक्सेस",
+                "cta": "खरीदें",
+                "badgeText": "सबसे लोकप्रिय",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "सभी मोबाइल फीचर्स",
+                  "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                  "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                  "उन्नत ब्यूटी इफेक्ट्स",
+                  "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "लाइफटाइम",
+                "description": "लाइफटाइम एक्सेस के लिए एक बार की खरीदारी, लंबे समय तक क्रिएट करने वालों के लिए आदर्श।",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "लाइफटाइम एक्सेस",
+                "cta": "खरीदें",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "सभी मोबाइल फीचर्स",
+                  "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                  "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                  "उन्नत ब्यूटी इफेक्ट्स",
+                  "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "मासिक",
+                  "subtitle": "एक पूरे महीने की एक्सेस सक्रिय करें और आनंद लें, कम लागत में आज़माने का तरीका।",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/महीना",
+                  "cta": "खरीदें",
+                  "benefits": [
+                    "सभी मोबाइल फीचर्स",
+                    "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                    "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                    "उन्नत ब्यूटी इफेक्ट्स",
+                    "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "वार्षिक",
+                  "subtitle": "सालाना बचत के साथ सबसे अच्छा मूल्य।",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/वर्ष",
+                  "cta": "खरीदें",
+                  "benefits": [
+                    "सभी मोबाइल फीचर्स",
+                    "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                    "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                    "उन्नत ब्यूटी इफेक्ट्स",
+                    "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "लाइफटाइम",
+                  "subtitle": "लाइफटाइम एक्सेस के लिए एक बार की खरीदारी, लंबे समय तक क्रिएट करने वालों के लिए आदर्श।",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "खरीदें",
+                  "benefits": [
+                    "सभी मोबाइल फीचर्स",
+                    "PC स्क्रीन कास्टिंग के साथ लाइव स्ट्रीमिंग",
+                    "HD लाइव स्ट्रीमिंग गुणवत्ता",
+                    "उन्नत ब्यूटी इफेक्ट्स",
+                    "विशेष लाइव स्ट्रीमिंग इफेक्ट्स"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "Marcus Johnson",
+        "username": "@Musk",
+        "followers": "100k",
+        "location": "दुबई, यूएई"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "दुबई, यूएई"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "दुबई, यूएई"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "दुबई, यूएई"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "दुबई, यूएई"
+      }
+    ]
+  }
+}

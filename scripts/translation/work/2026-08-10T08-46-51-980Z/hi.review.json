@@ -1,0 +1,476 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.teams[0].data.hero.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक' instead of 'ग्लोबल' for a more natural Hindi rendering, though 'ग्लोबल' is acceptable in Hinglish."
+    },
+    {
+      "path": "$.teams[0].data.hero.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक' instead of 'वैश्विक' (already used) and 'यूनिफाइड' could be 'एकीकृत' for a more natural Hindi, but 'यूनिफाइड' is acceptable in Hinglish."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'स्थिर रूपांतरण' is a literal translation of 'stable conversions'. Consider 'स्थिर बिक्री' or 'स्थिर रूपांतरण दर' for clarity."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'टियर-आधारित छूट' is acceptable, but 'स्तर-आधारित छूट' might be more natural. However, 'टियर' is common in Hinglish."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'HSBC हांगकांग कॉर्पोरेट खातों' is a literal translation. Consider 'HSBC हांगकांग कॉर्पोरेट खातों के माध्यम से' is fine, but 'कॉर्पोरेट' could be 'कंपनी' for more natural Hindi."
+    },
+    {
+      "path": "$.teams[0].data.support.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'नई सुविधाओं तक प्रारंभिक पहुंच तक' is redundant. Consider 'नई सुविधाओं तक प्रारंभिक पहुंच' without the second 'तक'."
+    },
+    {
+      "path": "$.teams[0].data.support.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'बिक्री के बाद सेवा' is a literal translation of 'after-sales'. Consider 'बिक्री के बाद सहायता' or 'आफ्टर-सेल्स सर्विस' for clarity."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'सभी VicastCam ब्रांडिंग हटाएं' is imperative. Consider 'सभी VicastCam ब्रांडिंग हटाई जा सकती है' for a more natural passive construction."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[4].options[0]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The option 'चैनल एजेंसी' is fine, but ensure consistency with the source 'Channel Agency'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[0]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'चीन' is correct, but ensure consistency with the source 'China'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[1]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'संयुक्त राज्य अमेरिका' is correct, but ensure consistency with the source 'United States'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[2]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'इंडोनेशिया' is correct, but ensure consistency with the source 'Indonesia'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[3]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'मलेशिया' is correct, but ensure consistency with the source 'Malaysia'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[4]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'थाईलैंड' is correct, but ensure consistency with the source 'Thailand'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[5]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'वियतनाम' is correct, but ensure consistency with the source 'Vietnam'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[6]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'फिलीपींस' is correct, but ensure consistency with the source 'Philippines'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[7]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'स्पेन' is correct, but ensure consistency with the source 'Spain'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[8]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'पुर्तगाल' is correct, but ensure consistency with the source 'Portugal'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[9]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'सऊदी अरब' is correct, but ensure consistency with the source 'Saudi Arabia'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[10]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'जापान' is correct, but ensure consistency with the source 'Japan'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[11]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'तुर्की' is correct, but ensure consistency with the source 'Turkey'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[12]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'इटली' is correct, but ensure consistency with the source 'Italy'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[13]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'जर्मनी' is correct, but ensure consistency with the source 'Germany'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[14]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'फ्रांस' is correct, but ensure consistency with the source 'France'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[15]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'दक्षिण कोरिया' is correct, but ensure consistency with the source 'South Korea'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[16]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'रूस' is correct, but ensure consistency with the source 'Russia'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[17]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'पोलैंड' is correct, but ensure consistency with the source 'Poland'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[18]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'नीदरलैंड' is correct, but ensure consistency with the source 'Netherlands'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[19]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'भारत' is correct, but ensure consistency with the source 'India'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[20]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'पाकिस्तान' is correct, but ensure consistency with the source 'Pakistan'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[21]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'बांग्लादेश' is correct, but ensure consistency with the source 'Bangladesh'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[22]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The country 'ईरान' is correct, but ensure consistency with the source 'Iran'."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[23]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The option 'अन्य' is correct, but ensure consistency with the source 'Other'."
+    },
+    {
+      "path": "$.teams[0].data.application.intentLabel",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'साझेदारी का उद्देश्य' is fine, but 'साझेदारी इरादा' might be more literal. However, 'उद्देश्य' is more natural."
+    },
+    {
+      "path": "$.teams[0].data.application.note",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'आवश्यक फ़ील्ड' is correct, but consider 'आवश्यक फ़ील्ड्स' for plural, though 'फ़ील्ड' is acceptable in Hinglish."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[2].value",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'सोमवार से शुक्रवार' is correct, but consider 'सोमवार से शुक्रवार तक' for completeness."
+    },
+    {
+      "path": "$.teams[0].data.seo.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक' instead of 'ग्लोबल' for a more natural Hindi rendering, though 'ग्लोबल' is acceptable in Hinglish."
+    },
+    {
+      "path": "$.teams[0].data.seo.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक' instead of 'ग्लोबल' for a more natural Hindi rendering, though 'ग्लोबल' is acceptable in Hinglish."
+    }
+  ],
+  "revisedContent": {
+    "teams": [
+      {
+        "data": {
+          "locale": "hi",
+          "slug": "team",
+          "pageName": "व्यावसायिक साझेदारी",
+          "hero": {
+            "eyebrow": "व्यावसायिक साझेदारी",
+            "title": "VicastCam वैश्विक एजेंसी पार्टनरशिप प्रोग्राम",
+            "highlight": "हमसे जुड़ें",
+            "description": "एक पेशेवर वर्चुअल कैमरा लाइव स्ट्रीमिंग टूल, जो वैश्विक चैनल पार्टनर्स के लिए खुला है। एकीकृत USD सेटलमेंट, क्षेत्रीय विशिष्टता, और फुल-फनल मार्केटिंग सपोर्ट।",
+            "actions": {
+              "primary": "अभी आवेदन करें",
+              "secondary": "और जानें"
+            }
+          },
+          "advantages": {
+            "eyebrow": "साझेदारी क्यों",
+            "titlePrefix": "हमारे साथ",
+            "titleHighlight": "साझेदारी क्यों",
+            "description": "बेचना आसान, कम जोखिम, और अधिक मार्जिन—VicastCam तीनों पर खरा उतरता है।",
+            "items": [
+              {
+                "title": "विशाल क्रिएटर मार्केट",
+                "description": "लाइव स्ट्रीमिंग, ई-कॉमर्स, शॉर्ट वीडियो, और कंटेंट क्रिएशन को कवर करते हुए, वैश्विक क्रिएटर की मांग लगातार बढ़ रही है, जो एक बड़ा बाजार और स्थिर बिक्री प्रदान करती है।",
+                "image": "/images/team/advantage-creators-bg.png"
+              },
+              {
+                "title": "शून्य इन्वेंट्री, ऑनलाइन डिलीवरी",
+                "description": "शुद्ध सॉफ्टवेयर लाइसेंसिंग और एक्टिवेशन कोड की तुरंत क्लाउड डिलीवरी। कोई स्टॉक नहीं, कोई लॉजिस्टिक्स नहीं, कम लागत, बैच डिलीवरी और त्वरित एक्टिवेशन का समर्थन।",
+                "image": "/images/team/advantage-inventory-bg.png"
+              },
+              {
+                "title": "फुल-फीचर्ड प्रतिस्पर्धात्मक बढ़त",
+                "description": "ग्रीन स्क्रीन मैटिंग, वर्चुअल बैकग्राउंड, मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग, और AI इफेक्ट्स सभी एक में। संपूर्ण सुविधाएँ जो प्रदर्शित करने, बेचने और नवीनीकरण करने में आसान हैं।",
+                "image": "/images/team/advantage-competition-bg.png"
+              }
+            ]
+          },
+          "rules": {
+            "eyebrow": "साझेदारी नियम",
+            "titlePrefix": "पात्रता",
+            "titleHighlight": "और सेटलमेंट",
+            "description": "हर पार्टनर की मानसिक शांति के लिए पारदर्शी, निष्पक्ष, और अनुमानित एजेंसी नीतियाँ।",
+            "agentLevelTitle": "एजेंट स्तर",
+            "agentLevels": [
+              {
+                "title": "स्टैंडर्ड एजेंट",
+                "description": "$30,000 USD का प्रारंभिक ऑर्डर दीर्घकालिक वितरण अधिकार, स्तर-आधारित छूट, और मानक चैनल समर्थन प्रदान करता है।",
+                "icon": "/images/team/rule-standard-agent-icon.png"
+              },
+              {
+                "title": "क्षेत्रीय विशेष एजेंट",
+                "description": "एकल क्षेत्र के लिए विशेष वितरण अधिकार अर्जित करने के लिए त्रैमासिक खरीद लक्ष्य पूरे करें, उस क्षेत्र में कोई अन्य चैनल अधिकृत नहीं होगा।",
+                "icon": "/images/team/rule-exclusive-agent-icon.png"
+              }
+            ],
+            "settlementTitle": "आपूर्ति और सेटलमेंट",
+            "settlementRules": [
+              "एकीकृत USD सेटलमेंट, HSBC हांगकांग कंपनी खातों के माध्यम से भुगतान का समर्थन",
+              "बैच एक्टिवेशन कोड क्लाउड के माध्यम से तुरंत वितरित, तेज़ ग्राहक डिलीवरी के लिए",
+              "दीर्घकालिक पार्टनर स्तर-आधारित मूल्य निर्धारण का आनंद लेते हैं; अधिक खरीद मात्रा इकाई लागत कम करती है"
+            ]
+          },
+          "support": {
+            "eyebrow": "चैनल समर्थन",
+            "titlePrefix": "समर्थन के",
+            "titleHighlight": "चार स्तंभ",
+            "description": "सामग्री और तकनीकी सहायता से लेकर ब्रांड प्राधिकरण और नई सुविधाओं तक प्रारंभिक पहुंच, हम फुल-फनल समर्थन प्रदान करते हैं।",
+            "items": [
+              {
+                "title": "संपूर्ण मार्केटिंग सामग्री",
+                "description": "वेबसाइट बैनर, शॉर्ट वीडियो, Reddit/Facebook विज्ञापन कॉपी, और उत्पाद समीक्षा सामग्री तक तुरंत पहुंच।",
+                "image": "/images/team/support-marketing-materials-bg.png"
+              },
+              {
+                "title": "समर्पित अंग्रेजी तकनीकी सहायता",
+                "description": "SDK डिबगिंग, लाइव स्ट्रीमिंग सुविधाओं की बिक्री के बाद सहायता, और ग्राहक समस्या समाधान के लिए विदेशी तकनीकी विशेषज्ञ।",
+                "image": "/images/team/support-technical-service-bg.png"
+              },
+              {
+                "title": "आधिकारिक ब्रांड प्राधिकरण",
+                "description": "क्षेत्रीय ऑनलाइन और ऑफलाइन प्रचार के लिए VicastCam ट्रेडमार्क और उत्पाद छवियों का उपयोग करें।",
+                "image": "/images/team/support-brand-authorization-bg.png"
+              },
+              {
+                "title": "प्राथमिकता बीटा पहुंच",
+                "description": "एजेंटों को सभी AI इफेक्ट्स, स्ट्रीमिंग अपडेट, और नई सुविधाओं का परीक्षण और बिक्री करने के लिए प्रारंभिक पहुंच मिलती है।",
+                "image": "/images/team/support-priority-beta-bg.png"
+              }
+            ]
+          },
+          "plans": {
+            "eyebrow": "साझेदारी मॉडल",
+            "titlePrefix": "लचीले",
+            "titleHighlight": "साझेदारी मॉडल",
+            "description": "चाहे आप एक चैनल, प्रौद्योगिकी विक्रेता, या उद्यम सेवा प्रदाता हों, हमारे पास एक मॉडल है जो फिट बैठता है।",
+            "items": [
+              {
+                "title": "चैनल एजेंसी (अनुशंसित)",
+                "description": "क्रॉस-बॉर्डर सॉफ्टवेयर स्टोर, लाइव स्ट्रीमिंग उपकरण दुकानों, विदेशी MCN, और क्रॉस-बॉर्डर ई-कॉमर्स टीमों के लिए बड़े पैमाने पर सॉफ्टवेयर लाइसेंस वितरित करने के लिए।",
+                "image": "/images/team/plan-channel-agent-bg.png"
+              },
+              {
+                "title": "OEM व्हाइट-लेबल SDK",
+                "description": "सभी VicastCam ब्रांडिंग हटाई जा सकती है, लोगो, सॉफ्टवेयर नाम, और UI को अनुकूलित करें, और अपने ब्रांड के तहत बेचें।",
+                "image": "/images/team/plan-oem-sdk-bg.png"
+              },
+              {
+                "title": "एंटरप्राइज़ अनुकूलन",
+                "description": "लाइव स्ट्रीमिंग सेवा प्रदाताओं, शैक्षणिक संस्थानों, और सरकार/उद्यम बैठक परियोजनाओं के लिए, कस्टम सुविधाओं और निजी तैनाती विकल्पों के साथ।",
+                "image": "/images/team/plan-enterprise-custom-bg.png"
+              }
+            ]
+          },
+          "application": {
+            "eyebrow": "आवेदन करें",
+            "titlePrefix": "फॉर्म भरें",
+            "titleHighlight": "ऑनलाइन आवेदन करें",
+            "description": "नीचे दी गई जानकारी भरें, हम 1-3 कार्य दिवसों के भीतर आपसे संपर्क करेंगे।",
+            "fields": [
+              {
+                "name": "contactName",
+                "label": "संपर्क नाम",
+                "placeholder": "अपना नाम दर्ज करें"
+              },
+              {
+                "name": "companyName",
+                "label": "कंपनी का नाम",
+                "placeholder": "अपनी कंपनी का नाम दर्ज करें"
+              },
+              {
+                "name": "email",
+                "label": "ईमेल",
+                "placeholder": "अपना ईमेल दर्ज करें"
+              },
+              {
+                "name": "phone",
+                "label": "WhatsApp/फ़ोन",
+                "placeholder": "+852 XXXXXXXX"
+              },
+              {
+                "name": "businessType",
+                "label": "व्यवसाय प्रकार",
+                "placeholder": "व्यवसाय प्रकार चुनें",
+                "options": [
+                  "चैनल एजेंसी",
+                  "OEM व्हाइट-लेबल SDK",
+                  "एंटरप्राइज़ अनुकूलन",
+                  "अन्य"
+                ]
+              },
+              {
+                "name": "region",
+                "label": "प्राथमिक क्षेत्र",
+                "placeholder": "जैसे, उत्तरी अमेरिका/यूरोप/दक्षिण पूर्व एशिया"
+              },
+              {
+                "name": "position",
+                "label": "पद",
+                "placeholder": "अपना पद दर्ज करें"
+              },
+              {
+                "name": "budget",
+                "label": "अनुमानित त्रैमासिक खरीद बजट",
+                "placeholder": "अपना बजट दर्ज करें"
+              },
+              {
+                "name": "country",
+                "label": "देश",
+                "placeholder": "देश/क्षेत्र चुनें",
+                "options": [
+                  "चीन",
+                  "संयुक्त राज्य अमेरिका",
+                  "इंडोनेशिया",
+                  "मलेशिया",
+                  "थाईलैंड",
+                  "वियतनाम",
+                  "फिलीपींस",
+                  "स्पेन",
+                  "पुर्तगाल",
+                  "सऊदी अरब",
+                  "जापान",
+                  "तुर्की",
+                  "इटली",
+                  "जर्मनी",
+                  "फ्रांस",
+                  "दक्षिण कोरिया",
+                  "रूस",
+                  "पोलैंड",
+                  "नीदरलैंड",
+                  "भारत",
+                  "पाकिस्तान",
+                  "बांग्लादेश",
+                  "ईरान",
+                  "अन्य"
+                ]
+              },
+              {
+                "name": "website",
+                "label": "कंपनी की वेबसाइट",
+                "placeholder": "https://xxxxxxxx.com"
+              }
+            ],
+            "intentLabel": "साझेदारी का उद्देश्य",
+            "intentPlaceholder": "अपने व्यवसाय मॉडल, लक्षित बाजार, और वांछित साझेदारी दृष्टिकोण का संक्षेप में वर्णन करें...",
+            "note": "*आवश्यक फ़ील्ड। आपकी जानकारी गोपनीय रखी जाती है और केवल साझेदारी संचार के लिए उपयोग की जाती है।",
+            "submitLabel": "साझेदारी जानकारी सबमिट करें"
+          },
+          "contact": {
+            "title": "तत्काल व्यावसायिक संपर्क",
+            "items": [
+              {
+                "label": "व्यावसायिक ईमेल",
+                "value": "business@vicastcam.com"
+              },
+              {
+                "label": "हांगकांग हॉटलाइन",
+                "value": "+852 46405342"
+              },
+              {
+                "label": "कार्य घंटे",
+                "value": "GMT+8, सोमवार से शुक्रवार तक, 9:00-18:00"
+              }
+            ],
+            "note": "अत्यावश्यक व्यावसायिक आवश्यकताओं के लिए, हमसे सीधे WhatsApp या ईमेल के माध्यम से संपर्क करें।",
+            "qr": {
+              "label": "WhatsApp पर हमसे संपर्क करने के लिए स्कैन करें",
+              "alt": "VicastCam व्यावसायिक संपर्क QR कोड"
+            }
+          },
+          "seo": {
+            "title": "VicastCam वैश्विक व्यावसायिक साझेदारी",
+            "description": "चैनल एजेंसी, OEM व्हाइट-लेबल SDK, और एंटरप्राइज़ अनुकूलन समर्थन के लिए VicastCam वैश्विक पार्टनर प्रोग्राम से जुड़ें।",
+            "image": "/images/team/partner-plan-hero-bg.png",
+            "imageAlt": "VicastCam वैश्विक पार्टनर प्रोग्राम"
+          }
+        }
+      }
+    ]
+  }
+}

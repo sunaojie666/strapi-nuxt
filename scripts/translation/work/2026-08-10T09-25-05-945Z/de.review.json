@@ -1,0 +1,823 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[0].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Loslegen' with 'Jetzt starten' for a more idiomatic and action-oriented CTA."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[1].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Loslegen' with 'Jetzt starten' for consistency and naturalness."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[2].cta",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Loslegen' with 'Jetzt starten' for consistency and naturalness."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'cross' with 'Nicht verfügbar' to match the German UI convention of using text instead of English symbols."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'cross' with 'Nicht verfügbar' for consistency and clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'cross' with 'Nicht verfügbar' for consistency and clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'cross' with 'Nicht verfügbar' for consistency and clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' to align with German UI conventions of using text instead of English symbols."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[17].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[17].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[17].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].month",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].year",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].life",
+      "category": "literal_translation",
+      "severity": "minor",
+      "instruction": "Replace 'check' with 'Ja' for consistency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].feature",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'AI-Matten' instead of 'AI Smart Green Screen Matting' to align with the approved glossary term 'AI matting'."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'KI-Matten' instead of 'AI Smart Green Screen Matting' for a more natural German term."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'KI-gestütztes Matting' instead of 'AI Smart Green Screen Matting' for clarity and naturalness."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Zahlung noch nicht verfügbar",
+            "payment": {
+              "providerName": "Online-Zahlung nicht aktiv",
+              "providerDescription": "Die Zahlungsabwicklung wird eingerichtet. Diese Seite zeigt nur Bestelldetails.",
+              "unavailableTitle": "Zahlung noch nicht verfügbar",
+              "unavailableDescription": "Wir integrieren den offiziellen Zahlungs- und Bestellbestätigungsprozess. Bis zum Start werden auf dieser Seite keine Gebühren erhoben und keine echte Bestellung erstellt.",
+              "unavailableItems": [
+                "Es werden keine Zahlungskomponenten von Drittanbietern geladen",
+                "Es werden keine Zahlungsinformationen übermittelt",
+                "Es wird keine echte Zahlungsbestellung erstellt"
+              ],
+              "feedback": "Um eine Mitgliedschaft zu kaufen oder zu aktivieren, kontaktieren Sie bitte business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Bestellübersicht",
+              "periodLabel": "Mitgliedschaftszeitraum",
+              "paymentMethodLabel": "Zahlungsmethode",
+              "amountLabel": "Fälliger Betrag",
+              "submitLabel": "Noch nicht verfügbar",
+              "note": "Die Zahlung ist noch nicht verfügbar. Die folgenden Bestelldetails dienen zur Bestätigung Ihres Plans.",
+              "unavailablePaymentMethod": "Noch nicht verfügbar",
+              "fallbackProductName": "Kein Plan ausgewählt",
+              "fallbackProductDescription": "Bitte kehren Sie zur Startseite zurück und wählen Sie einen Mitgliedschaftsplan.",
+              "periodMonth": "1 Monat",
+              "periodYear": "1 Jahr",
+              "periodLife": "Lebenslang",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Abonnement-Checkout",
+              "description": "Checkout-Seite für VicastCam-Abonnements."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Monatsplan",
+                "description": "Erhalten Sie nach der Aktivierung vollen Zugriff für einen Monat. Eine kostengünstige Möglichkeit, es auszuprobieren."
+              },
+              {
+                "type": "year",
+                "name": "Jahresplan",
+                "description": "Erhalten Sie nach der Aktivierung vollen Zugriff für ein Jahr. Ideal für langfristige, stabile Nutzung."
+              },
+              {
+                "type": "life",
+                "name": "Lebenslanger Plan",
+                "description": "Einmal aktivieren und langfristig nutzen. Genießen Sie kontinuierlich die Vorteile der Mitgliedschaft."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "de",
+          "multi_platform_section": {
+            "tag": "Multi-Plattform-Unterstützung",
+            "title_main": "Erreichen Sie die führenden Live-Streaming-Plattformen der Welt",
+            "title_highlight": "Erschließen Sie mit einem Klick ein globales Publikum",
+            "description": "Verbinden Sie sich mit globalen Traffic-Quellen und bauen Sie ein neues grenzüberschreitendes Live-Streaming-Ökosystem auf."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Kontozentrum",
+              "description": "Kontozentrum-Seite von VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "Navigation Kontozentrum",
+              "defaultProfileName": "Benutzer",
+              "emptyContent": "Kein Inhalt",
+              "copyButtonLabel": "Kopieren",
+              "monthSelectLabel": "Monat auswählen",
+              "yearSuffix": "J",
+              "monthSuffix": "M",
+              "userMissing": "Benutzerinformationen nicht gefunden. Bitte melden Sie sich erneut an.",
+              "paginationLabel": "Seitennummerierung",
+              "previousPageLabel": "Vorherige Seite",
+              "nextPageLabel": "Nächste Seite",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Gehe zu",
+                "unit": "Seite",
+                "ariaLabel": "Zu einer bestimmten Seite gehen",
+                "buttonLabel": "Los"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Kontozentrum",
+              "logout": "Abmelden",
+              "profileAriaSuffix": "Menü Kontozentrum"
+            },
+            "sidebar": {
+              "ariaLabel": "Navigation Kontozentrum",
+              "menus": {
+                "account": "Kontoinformationen",
+                "membership": "Mitgliedschaft",
+                "redeem": "Code einlösen",
+                "purchaseHistory": "Kaufverlauf",
+                "team": "Mein Team",
+                "earnings": "Einnahmen"
+              }
+            },
+            "account": {
+              "ariaLabel": "Kontoinformationen",
+              "profileTitle": "Kontoinformationen",
+              "usernameLabel": "Benutzername",
+              "passwordLabel": "Passwort",
+              "passwordMask": "********",
+              "defaultUsername": "Kein Spitzname festgelegt",
+              "inviteTitle": "Einladungslink",
+              "inviteDescription": "Kopieren Sie Ihren persönlichen Einladungslink. Wenn Freunde sich anmelden und eine Mitgliedschaft aktivieren, erhalten Sie Belohnungen.",
+              "emptyInviteLink": "Noch kein Einladungslink"
+            },
+            "membership": {
+              "ariaLabel": "Mitgliedschaft",
+              "title": "Meine Mitgliedschaft",
+              "badgeAlt": "Mitgliedschaftsabzeichen",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Kostenloser Benutzer",
+              "activeVipName": "VIP-Mitglied",
+              "expirePrefix": "Läuft ab am",
+              "emptyExpireDate": "Nicht aktiviert",
+              "activeStatus": "Aktiv",
+              "inactiveStatus": "Nicht aktiviert",
+              "compareTitle": "Mitgliedschaftsvorteile vergleichen",
+              "compareHeaders": {
+                "feature": "Funktion",
+                "normal": "Kostenlos",
+                "month": "Monatlich",
+                "year": "Jährlich",
+                "life": "Lebenslang"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Monatsmitgliedschaft",
+                  "subtitle": "Ideal für kurzfristige Nutzung",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/Monat",
+                  "cta": "Jetzt starten",
+                  "benefits": [
+                    "Kernfunktionen der virtuellen Kamera",
+                    "Virtuelle Hintergründe und Verschönerung",
+                    "Unterstützung für Multi-Plattform-Livestreaming",
+                    "Standard-Updates"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Jahresmitgliedschaft",
+                  "subtitle": "Besseres Preis-Leistungs-Verhältnis für langfristige Nutzung",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/Jahr",
+                  "cta": "Jetzt starten",
+                  "benefits": [
+                    "Alle Vorteile der Monatsmitgliedschaft",
+                    "Alle erweiterten Funktionen für ein Jahr",
+                    "Priorisierte Funktionsupdates",
+                    "Dedizierter Mitgliedersupport"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Lebenslange Mitgliedschaft",
+                  "subtitle": "Einmal zahlen, langfristig nutzen",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/lebenslang",
+                  "cta": "Jetzt starten",
+                  "benefits": [
+                    "Alle Vorteile der Jahresmitgliedschaft",
+                    "Erweiterte Funktionen für immer",
+                    "Langfristige Updates",
+                    "Dedizierter Supportkanal"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Mitgliedschaftsdauer",
+                  "normal": "Für immer kostenlos",
+                  "month": "30 Tage",
+                  "year": "365 Tage",
+                  "life": "Lebenslang"
+                },
+                {
+                  "feature": "Desktop-Virtualkamera",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Benutzerdefinierte virtuelle Hintergründe",
+                  "normal": "Ein Satz",
+                  "month": "Unbegrenzt",
+                  "year": "Unbegrenzt",
+                  "life": "Unbegrenzt"
+                },
+                {
+                  "feature": "Livestream-Voreinstellungen",
+                  "normal": "Nicht verfügbar",
+                  "month": "Unbegrenzt",
+                  "year": "Unbegrenzt",
+                  "life": "Unbegrenzt"
+                },
+                {
+                  "feature": "Offizielle Website-Assets",
+                  "normal": "Begrenzt",
+                  "month": "Unbegrenzt",
+                  "year": "Unbegrenzt",
+                  "life": "Unbegrenzt"
+                },
+                {
+                  "feature": "Fernsteuerung über Controller",
+                  "normal": "Ja",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Live-Szenenvergleichsmodus",
+                  "normal": "Ja",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Szenen-Untertitel",
+                  "normal": "Begrenzt",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Szenenmusik",
+                  "normal": "Begrenzt",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Multi-Kamera-Eingang",
+                  "normal": "Nicht verfügbar",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Erweiterte Beauty-Filter",
+                  "normal": "Basis",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "KI-gestütztes Matting",
+                  "normal": "Ja",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Dynamische Bewegungspfad-Animationen",
+                  "normal": "Begrenzt",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Szenen-Kamerabewegungseffekte",
+                  "normal": "Begrenzt",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "VIP-Effektbibliothek",
+                  "normal": "Begrenzt",
+                  "month": "Unbegrenzt",
+                  "year": "Unbegrenzt",
+                  "life": "Unbegrenzt"
+                },
+                {
+                  "feature": "Plattform-Streaming",
+                  "normal": "Ja",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "4K-UHD-Ausgabe",
+                  "normal": "Nicht verfügbar",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                },
+                {
+                  "feature": "Provision für Werbeaktionen",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Empfehlungsprämien",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Supportkanal",
+                  "normal": "Community-Self-Service",
+                  "month": "Standard-Warteschlange",
+                  "year": "Priorisierte Antwort",
+                  "life": "Dedizierter Support"
+                },
+                {
+                  "feature": "Früher Zugriff auf neue Funktionen",
+                  "normal": "Nicht verfügbar",
+                  "month": "Ja",
+                  "year": "Ja",
+                  "life": "Ja"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Code einlösen",
+              "title": "Code einlösen",
+              "tip": "Geben Sie Ihren Mitgliedschafts-Einlösecode ein. Ihre Vorteile werden nach dem Einlösen sofort aktiviert.",
+              "placeholder": "Einlösecode eingeben",
+              "submitButton": "Jetzt einlösen",
+              "agreementPrefix": "Durch das Einlösen stimmen Sie der",
+              "userProtocolText": "Benutzervereinbarung",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "Einlösung fehlgeschlagen. Bitte überprüfen Sie den Code und versuchen Sie es erneut."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Kaufverlauf",
+              "title": "Kaufverlauf",
+              "tabTitle": "Käufe",
+              "exchangeTabTitle": "Einlösungen",
+              "tableHeaders": {
+                "title": "Typ",
+                "date": "Zahlungsdatum",
+                "price": "Betrag",
+                "paymentMethod": "Zahlungsmethode",
+                "status": "Status",
+                "exchangeDate": "Einlösungsdatum",
+                "exchangeCode": "Einlösecode"
+              },
+              "exchangeTableHeaders": {
+                "date": "Einlösungsdatum",
+                "code": "Einlösecode"
+              },
+              "cardTypes": {
+                "month": "Monatsplan",
+                "year": "Jahresplan",
+                "life": "Lebenslanger Plan",
+                "default": "Mitgliedschaft"
+              },
+              "orderStatuses": {
+                "pending": "Ausstehend",
+                "paid": "Bezahlt",
+                "closed": "Geschlossen",
+                "refunded": "Erstattet",
+                "unknown": "Unbekannt"
+              },
+              "secretLabels": {
+                "show": "Passwort anzeigen",
+                "hide": "Passwort verbergen"
+              },
+              "secretMask": "******",
+              "emptyText": "Kein Kaufverlauf",
+              "exchangeEmptyText": "Kein Einlösungsverlauf",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Bankkarte",
+                "creditcard": "Kreditkarte",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Kryptowährung",
+                "balance": "Guthaben",
+                "free": "Kostenlos"
+              }
+            },
+            "team": {
+              "ariaLabel": "Mein Team",
+              "title": "Mein Team",
+              "referrerLabel": "Mein Empfehler",
+              "levelOne": "Mitglieder der Stufe 1",
+              "levelTwo": "Mitglieder der Stufe 2",
+              "tableHeaders": {
+                "name": "Mitgliedsname",
+                "status": "Mitgliedschaftsstatus",
+                "joinedAt": "Beigetreten"
+              },
+              "memberStatus": {
+                "free": "Kostenloser Benutzer",
+                "vip": "VIP-Benutzer"
+              },
+              "emptyMemberName": "Unbenannter Benutzer",
+              "emptyReferrer": "Kein Empfehler",
+              "emptyTeam": "Noch keine Teammitglieder",
+              "errors": {
+                "loadFail": "Teammitglieder konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Einnahmen",
+              "title": "Einnahmenübersicht",
+              "commissionTitle": "Provisionsdetails",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Gesamteinnahmen",
+                  "desc": "Bisher verdiente Provision insgesamt"
+                },
+                {
+                  "key": "month",
+                  "title": "Dieser Monat",
+                  "desc": "In diesem Monat verdiente Provision"
+                },
+                {
+                  "key": "settling",
+                  "title": "Ausstehende Abrechnung",
+                  "value": "0.00",
+                  "desc": "Betrag, der auf Abrechnung wartet"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Abhebbar",
+                  "desc": "Betrag, der derzeit zur Auszahlung verfügbar ist",
+                  "action": "Abheben"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Benutzername",
+                "saleTime": "Verkaufszeitpunkt",
+                "goodsInfo": "Produkt",
+                "commission": "Provision"
+              },
+              "emptyCommission": "Keine Provisionsaufzeichnungen",
+              "errors": {
+                "loadFail": "Provisionsdetails konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+              },
+              "withdraw": {
+                "ariaLabel": "Auszahlungsanfrage",
+                "title": "Auszahlungsanfrage",
+                "closeLabel": "Auszahlungsdialog schließen",
+                "balanceLabel": "Abhebbares Guthaben",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "Auszahlungsbetrag",
+                "amountPlaceholder": "Auszahlungsbetrag eingeben",
+                "allButton": "Alles",
+                "allAmountValue": "0.00",
+                "amountTip": "Bitte bestätigen Sie, dass der Betrag korrekt ist. Ihre Anfrage wird nach dem Absenden manuell geprüft.",
+                "methodLabel": "Auszahlungsmethode",
+                "methods": [
+                  "Bankkarte",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Bankkarte",
+                "nameLabel": "Name des Empfängers",
+                "namePlaceholder": "Name des Empfängers eingeben",
+                "defaultName": "",
+                "bankCardLabel": "Kontonummer",
+                "bankCardPlaceholder": "Bankkartennummer, PayPal-E-Mail oder Wallet-Adresse eingeben",
+                "remarkLabel": "Notiz",
+                "remarkPlaceholder": "Optionale zusätzliche Informationen",
+                "note": "Auszahlungsanfragen werden innerhalb von 1-3 Werktagen bearbeitet.",
+                "cancelButton": "Abbrechen",
+                "submitButton": "Anfrage einreichen"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Einlösung erfolgreich",
+              "operationFailed": "Einlösung fehlgeschlagen",
+              "invalidCard": "Ungültiger Einlösecode",
+              "cardNotFound": "Einlösecode nicht gefunden",
+              "cardDisabled": "Einlösecode deaktiviert",
+              "cardExpired": "Einlösecode abgelaufen"
+            },
+            "successMessage": "Vorgang erfolgreich"
+          }
+        }
+      }
+    ]
+  }
+}

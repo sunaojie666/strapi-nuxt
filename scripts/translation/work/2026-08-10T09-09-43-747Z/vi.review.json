@@ -1,0 +1,146 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.communitys[0].content.data_list[2].name",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "The source 'Popularity Boost' is a metric name, not a description. Translate as 'Tăng mức độ phổ biến' is acceptable, but consider 'Mức độ phổ biến' to match the pattern of other names (Quốc gia, Streamer hoạt động, Độ ổn định)."
+    },
+    {
+      "path": "$.tutorials[0].data.titleMain",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "The source 'Start Your VicastCam Learning Journey' is split into titleMain and titleHighlight. The candidate splits as 'Bắt đầu hành trình' and 'học VicastCam', which reverses the emphasis and makes 'học VicastCam' lowercase. Better: titleMain: 'Bắt đầu hành trình học VicastCam' and titleHighlight: 'của bạn' or keep as is but ensure natural flow. Suggest titleMain: 'Bắt đầu hành trình học VicastCam' and titleHighlight: 'của bạn'."
+    },
+    {
+      "path": "$.tutorials[0].data.titleHighlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'học VicastCam' is lowercase and appears as a continuation. If kept separate, capitalize: 'Học VicastCam'."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[2].answer",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'tất cả các tính năng chuyên nghiệp đều có trên di động' is acceptable but could be more natural: 'tất cả tính năng chuyên nghiệp đều có trên điện thoại'."
+    }
+  ],
+  "revisedContent": {
+    "cards": [
+      {
+        "title": "Cách tạo phòng live mới",
+        "tag_1": "Di động",
+        "tag_2": "Hướng dẫn cơ bản"
+      },
+      {
+        "title": "Hiểu về các chế độ tách nền của VicastCam",
+        "tag_1": "Di động",
+        "tag_2": "Hướng dẫn tính năng"
+      },
+      {
+        "title": "Cách sử dụng tính năng Layer của VicastCam",
+        "tag_1": "Di động",
+        "tag_2": "Tính năng cốt lõi"
+      },
+      {
+        "title": "Làm quen với VicastCam trên máy tính",
+        "tag_1": "Máy tính",
+        "tag_2": "Hướng dẫn cơ bản"
+      },
+      {
+        "title": "Cách kết nối iPhone với VicastCam không dây",
+        "tag_1": "iOS",
+        "tag_2": "Hướng dẫn kết nối"
+      },
+      {
+        "title": "Cách thêm và sử dụng phương tiện cục bộ",
+        "tag_1": "Máy tính",
+        "tag_2": "Hướng dẫn sử dụng"
+      }
+    ],
+    "communitys": [
+      {
+        "content": {
+          "tag": "Cộng đồng toàn cầu",
+          "title_main": "Phát trực tiếp hoạt động ở mọi nơi",
+          "title_highlight": "Được streamer tại hơn 150 quốc gia tin dùng",
+          "desc": "Phục vụ hơn 150 quốc gia và vùng lãnh thổ, chúng tôi giúp vô số streamer phát triển từ người mới bắt đầu thành những nhà sáng tạo nội dung trực tiếp chuyên nghiệp.",
+          "data_list": [
+            {
+              "number": "150+",
+              "name": "Quốc gia"
+            },
+            {
+              "number": "2000+",
+              "name": "Streamer hoạt động"
+            },
+            {
+              "number": "5000+",
+              "name": "Mức độ phổ biến"
+            },
+            {
+              "number": "99.9%",
+              "name": "Độ ổn định"
+            }
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "faq_data": {
+          "locale": "vi",
+          "faq_section": {
+            "tag": "Câu hỏi thường gặp",
+            "title_main": "Có thắc mắc?",
+            "title_highlight": "Chúng tôi có câu trả lời.",
+            "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam bên dưới. Không tìm thấy điều bạn cần? Liên hệ với đội ngũ của chúng tôi.",
+            "questions": [
+              {
+                "id": "q1",
+                "question": "Tôi có thể phát trực tiếp đến những nền tảng nào với VicastCam?",
+                "answer": "VicastCam hỗ trợ phát trực tiếp đến các nền tảng lớn như YouTube, Twitch, TikTok, Facebook Live và Instagram."
+              },
+              {
+                "id": "q2",
+                "question": "Tính năng xóa phông của VicastCam có cần phông xanh không?",
+                "answer": "Không. VicastCam sử dụng công nghệ xóa phông bằng AI, vì vậy bạn có thể thay đổi phông nền theo thời gian thực mà không cần phông xanh."
+              },
+              {
+                "id": "q3",
+                "question": "Tôi có thể sử dụng VicastCam trên điện thoại không?",
+                "answer": "Có. VicastCam có sẵn trên iOS và Android, và tất cả tính năng chuyên nghiệp đều có trên điện thoại."
+              },
+              {
+                "id": "q4",
+                "question": "VicastCam đáng tin cậy đến mức nào?",
+                "answer": "VicastCam cung cấp độ ổn định 99,9%, hỗ trợ streamer trên toàn thế giới với khả năng phát trực tiếp không gián đoạn 24/7."
+              },
+              {
+                "id": "q5",
+                "question": "VicastCam có hỗ trợ phát trực tiếp nhiều camera không?",
+                "answer": "Có. Bạn có thể chuyển đổi liền mạch giữa nhiều camera trong buổi phát trực tiếp để đạt được sản phẩm chuyên nghiệp."
+              }
+            ],
+            "view_more": {
+              "text": "Xem thêm"
+            }
+          }
+        }
+      }
+    ],
+    "tutorials": [
+      {
+        "data": {
+          "sectionTag": "Trung tâm hướng dẫn",
+          "titleMain": "Bắt đầu hành trình học VicastCam",
+          "titleHighlight": "của bạn",
+          "description": "Làm chủ phần mềm và nhanh chóng bắt kịp tốc độ",
+          "buttonText": "Xem thêm"
+        }
+      }
+    ]
+  }
+}

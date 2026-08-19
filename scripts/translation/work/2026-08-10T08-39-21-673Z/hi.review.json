@@ -1,0 +1,251 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.features[0].feature_obj.features_section.title_tag",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'फीचर्स' instead of 'विशेषताएँ' for a more natural Hindi/Hinglish tech tone, as 'विशेषताएँ' is formal."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'ऑल-इन-वन लाइव स्ट्रीमिंग सॉल्यूशन' instead of 'समाधान' for a more natural tech tone."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'पेशेवर मोबाइल ब्रॉडकास्टर्स के लिए' is fine, but 'ब्रॉडकास्टर्स' is acceptable; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'कोर लाइव स्ट्रीमिंग क्षमताओं को एकीकृत करें' is fine, but 'क्षमताओं' could be 'फीचर्स' for naturalness."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'स्क्रीन कास्टिंग' and 'वर्चुअल कैमरा' as per glossary; current is correct."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'PC' as is; 'कास्ट करें' is fine."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[1].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'मल्टी-कैमरा सपोर्ट' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[1].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'एक टैप से' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using '2D/3D इफेक्ट्स' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[2].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'लाइव रूम' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[3].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग' as per glossary; current is correct."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[3].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'स्ट्रीम करें' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वर्चुअल कंट्रोलर' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[4].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'रीयल-टाइम' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'एक साथ मल्टी-प्लेटफ़ॉर्म लाइव' is fine; no change needed."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'लाइव जाएं' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].hero_title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'मोबाइल ग्रीन स्क्रीन इफेक्ट्स और स्क्रीन कास्टिंग' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].top_badge",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'AI-पावर्ड लाइव स्ट्रीमिंग टूल' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].hero_subtitle",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'ग्लोबल लाइव स्ट्रीमिंग इकोसिस्टम को सशक्त बनाना' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].hero_description_1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'VicastCam उन्नत AI मैटिंग का उपयोग करता है' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].hero_description_2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'इमर्सिव अनुभव प्रदान करता है।' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].user_count_label",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक उपयोगकर्ता' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].rating_label",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'App Store रेटिंग' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].download_count_label",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वैश्विक डाउनलोड' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].app_store_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'App Store पर डाउनलोड करें' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].google_play_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Android पर डाउनलोड करें' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].desktop_client_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'डेस्कटॉप क्लाइंट डाउनलोड करें' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].request_success",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'अनुरोध सफल' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].request_fail",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'अनुरोध विफल' is fine; no change needed."
+    },
+    {
+      "path": "$.homes[0].request_loading",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'लोड हो रहा है' is fine; no change needed."
+    }
+  ],
+  "revisedContent": {
+    "features": [
+      {
+        "feature_obj": {
+          "locale": "hi",
+          "features_section": {
+            "title_tag": "फीचर्स",
+            "title_main": "ऑल-इन-वन लाइव स्ट्रीमिंग सॉल्यूशन",
+            "title_highlight": "पेशेवर मोबाइल ब्रॉडकास्टर्स के लिए",
+            "description": "कहीं भी आकर्षक सीन बनाने और पेशेवर विज़ुअल अनुभव देने के लिए कोर लाइव स्ट्रीमिंग फीचर्स को एकीकृत करें।"
+          },
+          "feature_items": [
+            {
+              "id": "chroma_key",
+              "title": "स्क्रीन कास्टिंग और वर्चुअल कैमरा",
+              "desc": "अपने फोन को PC पर कास्ट करें और पेशेवर लाइव स्ट्रीम बनाने के लिए वर्चुअल कैमरा तकनीक का उपयोग करें।"
+            },
+            {
+              "id": "multi_cam",
+              "title": "मल्टी-कैमरा सपोर्ट",
+              "desc": "लाइव स्ट्रीम के दौरान एक टैप से कई कैमरा एंगल के बीच स्विच करें और अधिक समृद्ध दृश्य प्राप्त करें।"
+            },
+            {
+              "id": "2d3d_effects",
+              "title": "2D/3D इफेक्ट्स",
+              "desc": "गतिशील और आकर्षक लाइव रूम बनाने के लिए शानदार 2D/3D इफेक्ट लेयर जोड़ें।"
+            },
+            {
+              "id": "multi_platform_push",
+              "title": "मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग",
+              "desc": "YouTube, Twitch, TikTok, Facebook Live और अन्य पर स्ट्रीम करें।"
+            },
+            {
+              "id": "virtual_controller",
+              "title": "वर्चुअल कंट्रोलर",
+              "desc": "किसी भी डिवाइस से अपनी लाइव स्ट्रीम को दूर से नियंत्रित करें: सीन स्विच करें, ऑडियो म्यूट करें, और रीयल-टाइम में इफेक्ट्स एडजस्ट करें।"
+            },
+            {
+              "id": "multi_platform_live",
+              "title": "एक साथ मल्टी-प्लेटफ़ॉर्म लाइव",
+              "desc": "अपने PC से TikTok, YouTube, Twitch और Instagram पर एक साथ लाइव जाएं।"
+            }
+          ]
+        }
+      }
+    ],
+    "homes": [
+      {
+        "hero_title": "मोबाइल ग्रीन स्क्रीन इफेक्ट्स और स्क्रीन कास्टिंग",
+        "top_badge": "AI-पावर्ड लाइव स्ट्रीमिंग टूल",
+        "hero_subtitle": "ग्लोबल लाइव स्ट्रीमिंग इकोसिस्टम को सशक्त बनाना",
+        "hero_description_1": "VicastCam उन्नत AI मैटिंग का उपयोग करता है ताकि आप लाइव स्ट्रीम के दौरान वर्चुअल बैकग्राउंड को सहजता से बदल सकें, जो आपके पेशेवर इमेज को बढ़ाने वाला",
+        "hero_description_2": "इमर्सिव अनुभव प्रदान करता है।",
+        "user_count_label": "वैश्विक उपयोगकर्ता",
+        "rating_label": "App Store रेटिंग",
+        "download_count_label": "वैश्विक डाउनलोड",
+        "app_store_url": "App Store पर डाउनलोड करें",
+        "google_play_url": "Android पर डाउनलोड करें",
+        "desktop_client_url": "डेस्कटॉप क्लाइंट डाउनलोड करें",
+        "request_success": "अनुरोध सफल",
+        "request_fail": "अनुरोध विफल",
+        "request_loading": "लोड हो रहा है"
+      }
+    ]
+  }
+}

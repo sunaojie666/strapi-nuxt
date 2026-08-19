@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Pusat Akun",
+            "description": "Halaman Pusat Akun VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Navigasi akun",
+            "defaultProfileName": "Pengguna",
+            "emptyContent": "Tidak ada konten",
+            "copyButtonLabel": "Salin",
+            "monthSelectLabel": "Pilih bulan",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "Informasi pengguna tidak ditemukan. Silakan masuk kembali.",
+            "paginationLabel": "Paginasi",
+            "previousPageLabel": "Halaman sebelumnya",
+            "nextPageLabel": "Halaman berikutnya",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Lompat ke",
+              "unit": "halaman",
+              "ariaLabel": "Lompat ke halaman tertentu",
+              "buttonLabel": "Lanjut"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Pusat Akun",
+            "logout": "Keluar",
+            "profileAriaSuffix": "Menu akun"
+          },
+          "sidebar": {
+            "ariaLabel": "Navigasi akun",
+            "menus": {
+              "account": "Info Akun",
+              "membership": "Keanggotaan",
+              "redeem": "Tukar Kode",
+              "purchaseHistory": "Riwayat Pembelian",
+              "team": "Tim Saya",
+              "earnings": "Penghasilan"
+            }
+          },
+          "account": {
+            "ariaLabel": "Info Akun",
+            "profileTitle": "Info Akun",
+            "usernameLabel": "Nama Pengguna",
+            "passwordLabel": "Kata Sandi",
+            "passwordMask": "********",
+            "defaultUsername": "Belum ada nama panggilan",
+            "emailLabel": "Email Tertaut",
+            "emailPlaceholder": "Masukkan email Anda",
+            "codePlaceholder": "Masukkan kode verifikasi",
+            "sendCodeButton": "Dapatkan Kode",
+            "bindButton": "Tautkan Email",
+            "alreadyBound": "Tertaut",
+            "unboundEmail": "Belum tertaut",
+            "emailBindTip": "Setelah ditautkan, email tidak dapat diubah. Pastikan alamat email sudah benar.",
+            "emailRequired": "Masukkan email yang valid",
+            "codeRequired": "Masukkan kode verifikasi",
+            "codeSent": "Kode verifikasi terkirim. Periksa email Anda.",
+            "bindSuccess": "Email berhasil ditautkan",
+            "bindFailed": "Gagal menautkan email. Periksa kode dan coba lagi.",
+            "requestFailed": "Permintaan gagal. Silakan coba lagi nanti.",
+            "inviteTitle": "Tautan Undangan",
+            "inviteDescription": "Salin tautan undangan pribadi Anda. Saat teman mendaftar dan membeli keanggotaan, Anda mendapatkan hadiah.",
+            "emptyInviteLink": "Tidak ada tautan undangan"
+          },
+          "membership": {
+            "ariaLabel": "Keanggotaan",
+            "title": "Keanggotaan Saya",
+            "badgeAlt": "Lencana keanggotaan",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Pengguna Gratis",
+            "activeVipName": "Anggota VIP",
+            "expirePrefix": "Berakhir",
+            "emptyExpireDate": "Belum diaktifkan",
+            "activeStatus": "Aktif",
+            "inactiveStatus": "Nonaktif",
+            "compareTitle": "Bandingkan Paket",
+            "compareHeaders": {
+              "feature": "Fitur",
+              "normal": "Gratis",
+              "month": "Bulanan",
+              "year": "Tahunan",
+              "life": "Seumur Hidup"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Bulanan",
+                "subtitle": "Cocok untuk penggunaan jangka pendek",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/bulan",
+                "cta": "Mulai",
+                "benefits": [
+                  "Fitur kamera virtual inti",
+                  "Latar belakang virtual & percantik",
+                  "Streaming langsung multi-platform",
+                  "Pembaruan standar"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Tahunan",
+                "subtitle": "Lebih hemat untuk penggunaan jangka panjang",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/tahun",
+                "cta": "Mulai",
+                "benefits": [
+                  "Semua fitur paket Bulanan",
+                  "Semua fitur premium selama satu tahun",
+                  "Pembaruan fitur prioritas",
+                  "Dukungan anggota khusus"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Seumur Hidup",
+                "subtitle": "Bayar sekali, gunakan selamanya",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/seumur hidup",
+                "cta": "Mulai",
+                "benefits": [
+                  "Semua fitur paket Tahunan",
+                  "Fitur premium selamanya",
+                  "Pembaruan jangka panjang",
+                  "Saluran dukungan eksklusif"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Durasi keanggotaan",
+                "normal": "Gratis selamanya",
+                "month": "30 hari",
+                "year": "365 hari",
+                "life": "Seumur hidup"
+              },
+              {
+                "feature": "Kamera virtual desktop",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Latar belakang virtual kustom",
+                "normal": "1 set",
+                "month": "Tak terbatas",
+                "year": "Tak terbatas",
+                "life": "Tak terbatas"
+              },
+              {
+                "feature": "Prasetel streaming",
+                "normal": "Tidak",
+                "month": "Tak terbatas",
+                "year": "Tak terbatas",
+                "life": "Tak terbatas"
+              },
+              {
+                "feature": "Aset resmi",
+                "normal": "Terbatas",
+                "month": "Tak terbatas",
+                "year": "Tak terbatas",
+                "life": "Tak terbatas"
+              },
+              {
+                "feature": "Kontrol jarak jauh via pengontrol",
+                "normal": "Ya",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Mode perbandingan adegan",
+                "normal": "Ya",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Teks pada adegan",
+                "normal": "Terbatas",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Musik pada adegan",
+                "normal": "Terbatas",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Input multi-kamera",
+                "normal": "Tidak",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Filter kecantikan lanjutan",
+                "normal": "Dasar",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "AI green screen matting",
+                "normal": "Ya",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Animasi pelacakan gerakan",
+                "normal": "Terbatas",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Efek kamera adegan",
+                "normal": "Terbatas",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Pustaka efek VIP",
+                "normal": "Terbatas",
+                "month": "Tak terbatas",
+                "year": "Tak terbatas",
+                "life": "Tak terbatas"
+              },
+              {
+                "feature": "Streaming platform",
+                "normal": "Ya",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Output 4K",
+                "normal": "Tidak",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              },
+              {
+                "feature": "Tingkat komisi referensi",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Potongan harga sub-afiliasi",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Saluran dukungan",
+                "normal": "Layanan mandiri komunitas",
+                "month": "Antrian standar",
+                "year": "Respons prioritas",
+                "life": "Dukungan khusus"
+              },
+              {
+                "feature": "Akses awal ke fitur baru",
+                "normal": "Tidak",
+                "month": "Ya",
+                "year": "Ya",
+                "life": "Ya"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Tukarkan Kode",
+            "title": "Tukarkan Kode",
+            "tip": "Masukkan kode penukaran keanggotaan Anda. Keanggotaan Anda akan langsung aktif setelah penukaran.",
+            "placeholder": "Masukkan kode penukaran",
+            "submitButton": "Tukarkan",
+            "agreementPrefix": "Dengan menukarkan, Anda menyetujui",
+            "userProtocolText": "Perjanjian Pengguna",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Penukaran gagal. Periksa kode dan coba lagi."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Riwayat pembelian",
+            "title": "Riwayat pembelian",
+            "tabTitle": "Pembelian",
+            "exchangeTabTitle": "Penukaran",
+            "tableHeaders": {
+              "title": "Jenis",
+              "date": "Waktu pembayaran",
+              "price": "Jumlah",
+              "paymentMethod": "Metode pembayaran",
+              "status": "Status",
+              "exchangeDate": "Waktu penukaran",
+              "exchangeCode": "Kode penukaran"
+            },
+            "exchangeTableHeaders": {
+              "date": "Waktu penukaran",
+              "code": "Kode penukaran"
+            },
+            "cardTypes": {
+              "month": "Kartu bulanan",
+              "year": "Kartu tahunan",
+              "life": "Kartu seumur hidup",
+              "default": "Kartu keanggotaan"
+            },
+            "orderStatuses": {
+              "pending": "Menunggu pembayaran",
+              "paid": "Lunas",
+              "closed": "Ditutup",
+              "refunded": "Dikembalikan",
+              "unknown": "Tidak diketahui"
+            },
+            "secretLabels": {
+              "show": "Tampilkan kata sandi",
+              "hide": "Sembunyikan kata sandi"
+            },
+            "secretMask": "******",
+            "emptyText": "Belum ada catatan pembelian",
+            "exchangeEmptyText": "Belum ada catatan penukaran",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Kartu bank",
+              "creditcard": "Kartu kredit",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Mata uang kripto",
+              "balance": "Saldo",
+              "free": "Gratis"
+            }
+          },
+          "team": {
+            "ariaLabel": "Tim saya",
+            "title": "Tim saya",
+            "referrerLabel": "Perujuk saya",
+            "levelOne": "Anggota level 1",
+            "levelTwo": "Anggota level 2",
+            "tableHeaders": {
+              "name": "Nama anggota",
+              "status": "Status keanggotaan",
+              "joinedAt": "Waktu bergabung"
+            },
+            "memberStatus": {
+              "free": "Pengguna gratis",
+              "vip": "Pengguna VIP"
+            },
+            "emptyMemberName": "Pengguna tanpa nama",
+            "emptyReferrer": "Tidak ada perujuk",
+            "emptyTeam": "Belum ada anggota tim",
+            "errors": {
+              "loadFail": "Gagal memuat anggota tim. Silakan coba lagi nanti."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Pusat penghasilan",
+            "title": "Ringkasan penghasilan",
+            "commissionTitle": "Detail komisi",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Total penghasilan",
+                "desc": "Total komisi yang diperoleh hingga saat ini"
+              },
+              {
+                "key": "month",
+                "title": "Bulan ini",
+                "desc": "Komisi yang diperoleh bulan ini"
+              },
+              {
+                "key": "settling",
+                "title": "Menunggu penyelesaian",
+                "value": "0.00",
+                "desc": "Jumlah yang menunggu penyelesaian"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Dapat ditarik",
+                "desc": "Jumlah yang saat ini tersedia untuk penarikan",
+                "action": "Tarik"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Nama pengguna",
+              "saleTime": "Waktu penjualan",
+              "goodsInfo": "Produk",
+              "commission": "Komisi"
+            },
+            "emptyCommission": "Belum ada catatan komisi",
+            "errors": {
+              "loadFail": "Gagal memuat detail komisi. Silakan coba lagi nanti."
+            },
+            "withdraw": {
+              "ariaLabel": "Permintaan penarikan",
+              "title": "Permintaan penarikan",
+              "closeLabel": "Tutup dialog penarikan",
+              "balanceLabel": "Saldo yang dapat ditarik",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Jumlah penarikan",
+              "amountPlaceholder": "Masukkan jumlah penarikan",
+              "allButton": "Semua",
+              "allAmountValue": "0.00",
+              "amountTip": "Harap pastikan jumlahnya benar. Permintaan Anda akan ditinjau secara manual setelah dikirim.",
+              "methodLabel": "Metode penarikan",
+              "methods": [
+                "Kartu bank",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Kartu bank",
+              "nameLabel": "Nama penerima",
+              "namePlaceholder": "Masukkan nama penerima",
+              "defaultName": "",
+              "bankCardLabel": "Nomor rekening",
+              "bankCardPlaceholder": "Masukkan nomor kartu bank, email PayPal, atau alamat dompet",
+              "remarkLabel": "Catatan",
+              "remarkPlaceholder": "Tambahkan catatan tambahan",
+              "note": "Permintaan penarikan diproses dalam 1-3 hari kerja.",
+              "cancelButton": "Batal",
+              "submitButton": "Kirim permintaan"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Penukaran berhasil",
+            "operationFailed": "Penukaran gagal",
+            "invalidCard": "Kode penukaran tidak valid",
+            "cardNotFound": "Kode penukaran tidak ditemukan",
+            "cardDisabled": "Kode penukaran dinonaktifkan",
+            "cardExpired": "Kode penukaran kedaluwarsa"
+          },
+          "successMessage": "Operasi berhasil"
+        }
+      }
+    }
+  ]
+}

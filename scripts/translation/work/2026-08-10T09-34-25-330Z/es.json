@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Acuerdo de usuario",
+        "updatedAt": "22 de julio de 2026",
+        "description": "Este Acuerdo de licencia de usuario (el «Acuerdo») se celebra entre el Licenciante y el usuario de este software («usted» o «usuario») y rige todas sus acciones al descargar, instalar, registrar, iniciar sesión y utilizar este software.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Licenciante: Vicast International Limited",
+              "Canales oficiales: sitio web oficial de VicastCam y tiendas de aplicaciones autorizadas (Apple App Store / Google Play Store)",
+              "Correo de contacto: service@vicastcam.com",
+              "Última actualización: 22 de julio de 2026",
+              "¡Bienvenido a VicastCam (el «Software»)!",
+              "Los productos de VicastCam se ofrecen únicamente a usuarios fuera de la China continental. No promocionamos activamente el producto entre usuarios de la China continental. Si te encuentras en la China continental, ten en cuenta que este producto no dispone de las cualificaciones operativas pertinentes en dicha región.",
+              "Este Acuerdo de licencia de usuario (el «Acuerdo») se celebra entre el Licenciante y el usuario de este software («usted» o «usuario») y rige todas sus acciones al descargar, instalar, registrar, iniciar sesión y utilizar este software.",
+              "Al hacer clic en el botón «Aceptar» de este Software, aceptas voluntariamente todos los términos de este Acuerdo. Si no los aceptas, el Licenciante no te concede el derecho a utilizar el Software. Por favor, deja de usar el Software inmediatamente y desinstálalo. El uso continuado del Software implica tu conformidad y aceptación de este Acuerdo y de cualquier revisión posterior.",
+              "Confirmas que eres mayor de 18 años o que has alcanzado la mayoría de edad legal en tu jurisdicción (el «adulto»). Los menores deben utilizar este Software con el consentimiento explícito y bajo la supervisión de su tutor legal, quien asumirá las responsabilidades de tutela de conformidad con la ley."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Ámbito de aplicación",
+            "paragraphs": [
+              "1.1 Antes de utilizar el Software, lee atentamente este Acuerdo, especialmente las cláusulas principales en negrita, incluidas las exenciones de responsabilidad, la legislación aplicable y la resolución de disputas. Si no estás de acuerdo con algún término, deja de usar el Software inmediatamente.",
+              "1.2 Este Software está destinado principalmente a adultos. Los menores deben obtener el consentimiento de su tutor legal antes de utilizar este Software y deben usarlo bajo la supervisión del tutor. El tutor debe cumplir con sus deberes de tutela de conformidad con la ley.",
+              "1.3 Este Acuerdo incluye las reglas de la plataforma, como anuncios, reglas de actividades y notificaciones dentro de la aplicación publicadas por este Software. Todas las reglas de la plataforma son parte integrante de este Acuerdo y tienen el mismo efecto legal que este Acuerdo.",
+              "1.4 Al registrarte, iniciar sesión o utilizar este Software, se considera que has leído, comprendido y aceptado plenamente este Acuerdo.",
+              "1.5 Todos los derechos de propiedad intelectual de este Software y cualquier derecho no otorgado expresamente a los usuarios están reservados al Licenciante."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Este Software y servicios relacionados",
+            "paragraphs": [
+              "2.1 Este Software es una herramienta auxiliar para escenarios de transmisión en vivo, que proporciona funciones como transmisión en vivo, configuración de escenarios virtuales, recorte con IA, efectos faciales y filtros de belleza. Los servicios y funciones específicos están sujetos a la visualización real del producto.",
+              "2.2 Solo puedes obtener el cliente a través de canales oficiales (Apple App Store o Google Play Store). Cualquier riesgo y pérdida derivados del uso de versiones no oficiales serán por tu cuenta.",
+              "2.3 Para utilizar este Software, necesitas preparar tu propio dispositivo terminal y conexión de red, y asumir los costos de internet y datos asociados. El funcionamiento completo requiere una conexión a internet.",
+              "2.4 El Licenciante te concede una licencia personal, no comercial, intransferible, revocable y no exclusiva para utilizar el Software. Sin autorización previa por escrito del Licenciante, se prohíbe modificar, copiar, distribuir, reflejar, rastrear, vender o utilizar el Software con fines comerciales.",
+              "2.5 El Licenciante tiene derecho a actualizar, ajustar, suspender o terminar parte o la totalidad de los servicios en función de la optimización del producto, el mantenimiento de la seguridad, las operaciones de cumplimiento y otras necesidades. Puedes elegir si actualizar el cliente; negarte a actualizar puede resultar en una funcionalidad limitada. Tienes derecho a desinstalar la aplicación en cualquier momento para terminar el servicio.",
+              "2.6 Compras y suscripciones",
+              "2.6.1 Todas las funciones de pago, compras y suscripciones dentro de este Software se realizan a través del sistema de pago de Apple App Store o Google Play, y dichas transacciones también están sujetas a los términos de servicio de la plataforma respectiva.",
+              "2.6.2 Reglas de suscripción",
+              "(1) Renovación automática: los servicios de suscripción se cobrarán automáticamente al menos 24 horas antes del final del período de servicio actual, y el sistema de la plataforma enviará recordatorios de renovación. Puedes ver, gestionar y cancelar la renovación automática en cualquier momento yendo a la página «Ajustes > Cuenta > Suscripciones» de tu dispositivo (la ruta puede variar según la plataforma).",
+              "(2) Cambios de precio: si ajustamos los precios de suscripción, te lo notificaremos al menos 30 días antes de que el nuevo precio entre en vigor mediante anuncios dentro de la aplicación, el sitio web oficial u otros medios razonables. Los cambios de precio no afectarán al período de suscripción actual ya en vigor. Cuando la ley local requiera el consentimiento adicional del usuario, cumpliremos con la ley.",
+              "(3) Prueba gratuita: si se ofrece una prueba gratuita, desactiva la renovación automática al menos 24 horas antes de que finalice el período de prueba para evitar que se te cobre.",
+              "2.6.3 Reembolsos regionales y derechos legales de desistimiento",
+              "(1) Usuarios en la Unión Europea, el Espacio Económico Europeo y el Reino Unido: de conformidad con las leyes locales de protección al consumidor, tienes un derecho legal de desistimiento de 14 días sin causa. Consulta la Política de reembolso de VicastCam para obtener más detalles. Las solicitudes de desistimiento y reembolso deben presentarse a través del canal oficial (App Store o Google Play) utilizado para tu compra, y los reembolsos están sujetos a las reglas de la plataforma y la ley local. Si has utilizado el servicio durante el período de reflexión de 14 días, el reembolso se calculará proporcionalmente según el uso real. Una vez que el desistimiento surta efecto, tus derechos de uso de pago terminarán inmediatamente.",
+              "(2) Pago único y servicios de por vida: si confirmas explícitamente la activación inmediata del servicio y renuncias al derecho de desistimiento de 14 días, el derecho de desistimiento sin causa ya no se aplicará.",
+              "(3) Todas las demás regiones: los reembolsos y los problemas posventa se rigen principalmente por las reglas oficiales de la plataforma utilizada para tu compra.",
+              "2.6.4 Reglas de uso de los beneficios de pago",
+              "(1) Los servicios y beneficios de pago son solo para uso personal.",
+              "(2) Se prohíbe proporcionar beneficios de pago a terceros mediante regalos, préstamos, alquiler, reventa o intercambio masivo.",
+              "2.7 Tarifas, membresía y reglas de uso comercial",
+              "2.7.1 El Licenciante tiene derecho a cobrar tarifas por el Software y los servicios de red relacionados de conformidad con la ley. Eres responsable de todos los costos de hardware, software y red necesarios para el uso, y debes pagar las tarifas de servicio correspondientes a tiempo.",
+              "2.7.2 Debes cumplir con tus obligaciones fiscales de conformidad con la ley y asumir todos los impuestos que surjan del uso de los servicios. Se prohíbe el uso fraudulento de los servicios de pago.",
+              "2.7.3 Podemos ajustar el sistema de membresía o terminar los servicios de membresía en función de necesidades operativas legítimas. Si una cuenta es bloqueada o terminada debido a violaciones, las tarifas pagadas no se reembolsarán.",
+              "2.7.4 Si necesitas utilizar este Software con fines comerciales, debes solicitarlo al Licenciante con antelación y obtener una licencia de uso comercial oficial.",
+              "2.7.5 Se prohíbe utilizar este Software para difundir contenido pornográfico o ilegal con fines de lucro."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Gestión de cuentas",
+            "paragraphs": [
+              "3.1 Puedes registrarte tú mismo o utilizar una cuenta legítima de una plataforma de terceros para iniciar sesión. Las cuentas de terceros deben verificarse con información de identidad real y cumplir con las reglas de la plataforma. Eres responsable de salvaguardar tu cuenta y contraseña y de todas las acciones realizadas bajo tu cuenta.",
+              "3.2 De acuerdo con los requisitos mundiales de supervisión de la red y registro con nombre real, debes proporcionar información de identidad verdadera, precisa y válida y datos de contacto (como correo electrónico) al registrarte. Si la información es falsa o cuestionable, el Licenciante tiene derecho a exigir su corrección, restringir o terminar los servicios. Alguna información de registro no se puede modificar por motivos de verificación de seguridad.",
+              "3.3 Algunas funciones básicas se pueden usar sin iniciar sesión. La funcionalidad completa y los servicios de pago requieren registro, inicio de sesión y verificación de identidad.",
+              "3.4 La información de la cuenta, como el apodo, el avatar y la biografía, no debe suplantar los nombres, marcas comerciales, retratos u otros derechos legales de otros, y no debe contener contenido ilegal, vulgar o engañoso. El Licenciante tiene derecho a revisar la información de la cuenta y tomar medidas como restablecer, restringir funciones o prohibir cuentas por violaciones.",
+              "3.5 Las cuentas son solo para uso personal y pueden iniciar sesión en dispositivos que controlas legalmente. Se prohíbe regalar, prestar, alquilar, transferir o vender cuentas. Si se descubre que el usuario no coincide con el titular del registro, el Licenciante tiene derecho a suspender o terminar los servicios.",
+              "3.6 Eres responsable de la seguridad y confidencialidad de tu cuenta y asumes toda la responsabilidad legal por todas las operaciones, contenidos y acciones bajo tu cuenta.",
+              "3.7 Si tu cuenta es robada u olvidas tu contraseña, puedes recuperarla a través del canal oficial de apelación.",
+              "3.7.1 Si tu cuenta es robada, se filtra información o se pierden bienes debido a un cuidado inadecuado, pérdida del dispositivo o divulgación voluntaria de las credenciales de la cuenta, asumirás toda la responsabilidad.",
+              "3.7.2 Los servicios de recuperación de cuentas solo verifican la información almacenada en el sistema y no pueden determinar la verdadera identidad del usuario. Asumes los riesgos relacionados. Si observas alguna actividad anormal en la cuenta, contacta inmediatamente con el servicio de atención al cliente oficial.",
+              "3.8 Cancelación de cuenta y procesamiento de datos",
+              "3.8.1 Puedes solicitar la cancelación de la cuenta a través de «Yo > Ajustes > Gestión de cuentas > Cancelar cuenta» del Software o mediante el correo electrónico oficial. Se requiere verificación de propiedad antes de la cancelación.",
+              "3.8.2 Después de la cancelación de la cuenta, se reserva un período de amortiguamiento de datos de 30 días (solo para conciliación financiera, resolución de disputas y verificación posventa). Después de este período, se ejecutará la eliminación física permanente, excepto los registros de transacciones que deban conservarse según la ley.",
+              "3.8.3 Después de la cancelación de la cuenta, la cuenta y los datos no se pueden recuperar. Las obligaciones y responsabilidades incurridas durante tu uso no se eximen con la cancelación."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Conducta del usuario",
+            "paragraphs": [
+              "4.1 Te comprometes a cumplir con las leyes mundiales sobre seguridad de la red, propiedad intelectual, derechos de imagen y privacidad mientras utilizas este Software, y a respetar los derechos legales de los demás. Salvo que lo permita la ley o esté autorizado por escrito por el Licenciante, se prohíben los siguientes actos:",
+              "4.1.1 Subir o difundir información personal no autorizada, secretos comerciales o contenido infractor.",
+              "4.1.2 Usar trucos, complementos o herramientas de terceros para interferir o interrumpir el funcionamiento normal de este Software.",
+              "4.1.3 Participar en intrusiones ilegales en la red, robo de datos, difusión de virus, escaneo de vulnerabilidades, falsificación de paquetes de datos de red u otros ciberataques.",
+              "4.1.4 Registro masivo malicioso de cuentas.",
+              "4.1.5 Ingeniería inversa, descompilación, desensamblaje o intento de descifrar el código fuente de este Software.",
+              "4.1.6 Crear o difundir contenido pornográfico, violento, difamatorio o ilegal.",
+              "4.1.7 Promover tabaco, alcohol, juegos de azar, armas o artículos prohibidos.",
+              "4.1.8 Fotografiar, grabar o difundir en secreto imágenes, voces o información privada de otros sin autorización, infringiendo sus derechos de imagen o privacidad.",
+              "4.1.9 Otros actos que violen las leyes locales, este Acuerdo o las reglas de la plataforma.",
+              "4.1.10 Si violas este Acuerdo, el Licenciante tiene derecho a eliminar el contenido infractor sin previo aviso e imponer sanciones como advertencias, prohibiciones de funciones, prohibiciones de dispositivo o prohibiciones permanentes de cuenta, según la gravedad. Los usuarios infractores pueden presentar apelaciones a través del correo electrónico oficial, y el Licenciante tiene la autoridad de revisión final.",
+              "4.2 Al crear contenido con este Software, se prohíbe utilizar materiales, efectos o logotipos integrados para marcas comerciales, logotipos o identificadores comerciales de terceros (excepto para tu propio contenido protegido por derechos de autor).",
+              "4.3 No debes utilizar este Software para publicar o difundir contenido violento, pornográfico, difamatorio, de doxxing, que infrinja la privacidad, spam u otro contenido que viole las leyes o el orden público y las buenas costumbres.",
+              "4.4 El Licenciante tiene derecho a supervisar y revisar el comportamiento del usuario y puede exigir la rectificación, eliminar contenido, suspender o terminar los servicios al descubrir violaciones.",
+              "4.5 Restricciones especiales de funciones",
+              "4.5.1 Cámara y transmisión en vivo: antes de usar la cámara, la transmisión en vivo o las funciones de grabación de pantalla, debes obtener el consentimiento explícito de todas las personas filmadas o grabadas. Está estrictamente prohibido utilizar este Software para fotografía secreta, grabación secreta, transmisión en vivo ilegal u otros actos ilegales. Asumes todas las responsabilidades relacionadas.",
+              "4.5.2 Funciones de IA: los derechos de propiedad intelectual de los algoritmos, modelos, efectos y materiales visuales de IA de este Software pertenecen al Licenciante o a terceros colaboradores. Solo puedes usarlos para creación personal, no comercial y legal. Se prohíbe crear deepfakes, audio/video falso, fraude o contenido ilegal.",
+              "4.5.3 Cumplimiento regional: debes cumplir estrictamente con los requisitos regulatorios de tu país/región con respecto a la transmisión en vivo, la recopilación de datos biométricos y el contenido de IA.",
+              "4.6 Si tu violación causa pérdidas al Licenciante, las tarifas pagadas no se reembolsarán y deberás compensar plenamente al Licenciante por todas las pérdidas económicas y de reputación."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Protección de datos personales",
+            "paragraphs": [
+              "5.1 Procesamos estrictamente tus datos personales de conformidad con el RGPD de la UE, la Ley de Protección de Datos del Reino Unido, la Ordenanza de Datos Personales (Privacidad) de Hong Kong y las regulaciones de protección de datos en todo el mundo. De acuerdo con el Artículo 27 del RGPD, hemos designado representantes de cumplimiento locales en la UE y el Reino Unido. Para obtener detalles de contacto específicos, consulta el documento «RGPD y protección de datos».",
+              "5.2 Aceptas que el Licenciante puede recopilar, usar y almacenar datos personales de acuerdo con este Acuerdo y la Política de privacidad. La Política de privacidad tiene el mismo efecto legal que este Acuerdo.",
+              "5.3 Utilizamos tecnologías de seguridad como cifrado y anonimización para proteger tus datos personales contra fugas, manipulación y acceso no autorizado.",
+              "5.4 Sin tu consentimiento explícito, no compartiremos tus datos personales con terceros, excepto en las siguientes circunstancias:",
+              "(1) Tú mismo los revelas a terceros;",
+              "(2) Lo exijan la seguridad nacional, la seguridad pública, la salud pública y los requisitos judiciales o administrativos legales;",
+              "(3) Para proteger los principales derechos e intereses legales de este Software, otros usuarios o terceros, y de conformidad con las disposiciones legales;",
+              "(4) Información obtenida de fuentes públicas legítimas;",
+              "(5) Otras circunstancias estipuladas por las leyes y regulaciones.",
+              "5.5 Tienes el derecho legal de consultar, corregir, eliminar y retirar la autorización con respecto a tus datos personales. Para conocer las reglas detalladas sobre datos personales, consulta la Política de privacidad."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Quejas y denuncias",
+            "paragraphs": [
+              "6.1 Puedes denunciar contenido infractor o quejarte de actos infractores a través del cliente o del correo electrónico de contacto oficial.",
+              "6.2 Si se infringen tus derechos, puedes presentar una prueba de derechos para presentar una queja. La parte denunciada puede presentar una prueba de propiedad para apelar.",
+              "6.3 Generalmente completamos la revisión y proporcionamos comentarios dentro de los 15 días hábiles. Para casos complejos, te actualizaremos sobre el progreso."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Tratamiento de incumplimientos",
+            "paragraphs": [
+              "7.1 Si violas este Acuerdo, las reglas de la plataforma o las leyes y regulaciones locales, el Licenciante puede tomar medidas como advertencias, restricciones de funciones, eliminación de contenido, suspensión del servicio o prohibición permanente de la cuenta. Cualquier pérdida que surja de dichas medidas será por tu cuenta, y el contenido y los datos eliminados no se restaurarán.",
+              "7.2 Si se descubren actividades ilegales o delictivas sospechosas, el Licenciante conservará las pruebas y las denunciará a las autoridades encargadas de hacer cumplir la ley y cooperará con las investigaciones.",
+              "7.3 Si tu violación hace que el Licenciante sea objeto de reclamaciones de terceros, sanciones administrativas o sufra pérdidas de reputación o económicas, asumirás todas las pérdidas del Licenciante."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Propiedad intelectual",
+            "paragraphs": [
+              "8.1 Los derechos de propiedad intelectual del código, la interfaz, el texto, las imágenes, el audio/video, los efectos, las marcas comerciales y los logotipos de este Software pertenecen al Licenciante.",
+              "8.2 El Licenciante posee todos los derechos sobre los datos e información legítimos generados durante el funcionamiento del producto.",
+              "8.3 Sin autorización escrita explícita del Licenciante, se prohíbe utilizar, copiar, imitar o registrar la marca «VicastCam», marcas comerciales, nombres de dominio, logotipos, etc. Si causas pérdidas mediante el uso no autorizado, asumirás toda la responsabilidad legal.",
+              "8.4 Este Software incluye componentes de software distribuidos bajo licencias de código abierto y licencias de terceros. Debes cumplir estrictamente con los términos de licencia correspondientes al usar dichos componentes."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Términos para menores",
+            "paragraphs": [
+              "9.1 Los menores deben obtener el consentimiento explícito de su tutor legal antes de utilizar este Software y deben usarlo bajo la supervisión del tutor. Los tutores tienen derecho a solicitar restricciones o la cancelación de la cuenta de un usuario menor.",
+              "9.2 El Licenciante recopila cuidadosamente los datos personales de los usuarios menores. Los tutores deben guiar a los menores para que protejan su privacidad personal y su seguridad en la red.",
+              "9.3 Los tutores deben cumplir con sus deberes de tutela de conformidad con la ley, guiar a los menores para que usen Internet de manera saludable y prevenir la adicción a Internet.",
+              "9.4 Los menores y sus tutores son legalmente responsables de todas las acciones y consecuencias del uso del menor.",
+              "9.5 Los menores no pueden usar la cámara para transmitir en vivo ni aparecer en videos solos, y no pueden publicar contenido ilegal o vulgar.",
+              "9.6 Si el Licenciante descubre que un menor está usando el Software sin el consentimiento del tutor, tiene derecho a restringir o prohibir directamente la cuenta correspondiente.",
+              "9.7 Los tutores deben guardar adecuadamente las cuentas de pago y las contraseñas para evitar cargos no autorizados por parte de los menores. Si tienes alguna pregunta, contacta con el servicio de atención al cliente oficial."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Exención de responsabilidad",
+            "paragraphs": [
+              "10.1 Reconoces y aceptas expresamente que el uso de esta aplicación es bajo tu propio riesgo. En la medida máxima permitida por la ley aplicable, esta aplicación y cualquier servicio realizado o proporcionado por esta aplicación se proporcionan «tal cual» y «según disponibilidad», con todos los defectos y sin garantías de ningún tipo, y el Licenciante renuncia por la presente a todas las garantías y condiciones con respecto a esta aplicación y cualquier servicio, ya sean expresas, implícitas o legales, incluidas, entre otras, las garantías y/o condiciones implícitas de comerciabilidad, calidad satisfactoria, idoneidad para un propósito particular, precisión, disfrute pacífico y no infracción de derechos de terceros. Ninguna información o consejo oral o escrito proporcionado por el Licenciante o sus representantes autorizados creará una garantía. Si esta aplicación o los servicios resultan defectuosos, asumes todo el costo de cualquier servicio, reparación o corrección necesarios. Algunas jurisdicciones no permiten la exclusión de garantías implícitas o limitaciones a los derechos legales aplicables de los consumidores, por lo que las exclusiones y limitaciones anteriores pueden no aplicarse a ti.",
+              "10.2 El Licenciante utilizará tecnologías de seguridad estándar de la industria para garantizar el funcionamiento estable de los servicios. En la medida permitida por las leyes y regulaciones, el Licenciante no será responsable de compensación por interrupciones del servicio o anomalías temporales de datos causadas por fuerza mayor, desastres naturales, guerras, prohibiciones gubernamentales, fallas de red, mantenimiento del sistema, ataques de piratas informáticos, virus, fallas de servicios de terceros, anomalías del dispositivo u otros factores fuera del control del Licenciante.",
+              "10.3 Si los servicios se suspenden o terminan debido a mantenimiento del sistema, actualizaciones de versión, rectificación de cumplimiento o ajustes comerciales, proporcionaremos un aviso previo razonable a través de anuncios dentro de la aplicación y el sitio web oficial.",
+              "10.4 Si tu dispositivo se daña o se pierden datos debido a tus propios errores operativos, fallas del dispositivo, configuración de red incorrecta o uso inadecuado de este Software, asumirás todas las pérdidas.",
+              "10.5 Tenemos derecho a ajustar las funciones del servicio, modificar el contenido del servicio o limpiar los datos del servidor en función de operaciones legítimas, seguridad del sistema, rectificación de cumplimiento y otras razones. No eliminaremos los datos del usuario sin causa.",
+              "10.6 Limitación de responsabilidad",
+              "En la medida en que no esté prohibido por la ley, en ningún caso el Licenciante será responsable de lesiones personales o cualquier daño incidental, especial, indirecto o consecuente, incluidos, entre otros, pérdida de ganancias, pérdida de datos, interrupción del negocio o cualquier otro daño o pérdida comercial, que surjan o estén relacionados con tu uso o incapacidad de usar la aplicación con licencia, independientemente de la teoría de responsabilidad (contractual, extracontractual o de otro tipo), incluso si el Licenciante ha sido informado de la posibilidad de dichos daños. Algunas jurisdicciones no permiten la limitación de responsabilidad por lesiones personales o daños incidentales o consecuentes, por lo que esta limitación puede no aplicarse a ti.",
+              "Excepto por las disposiciones obligatorias de la ley local con respecto a lesiones personales, la responsabilidad total del Licenciante por todos los daños no excederá de 1 dólar estadounidense (USD 1.00). Las limitaciones anteriores se aplicarán incluso si el remedio anterior no cumple su propósito esencial.",
+              "Para jurisdicciones como la Unión Europea, el Espacio Económico Europeo y el Reino Unido, esta cláusula de limitación de responsabilidad se aplicará estrictamente de conformidad con las leyes locales de protección al consumidor."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Disposiciones varias",
+            "paragraphs": [
+              "11.1 Legislación aplicable",
+              "Este Acuerdo y la relación entre usted y el Licenciante se regirán por las leyes de la Región Administrativa Especial de Hong Kong de la República Popular China, excluyendo las disposiciones de conflicto de leyes. La Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías no se aplicará a este Acuerdo.",
+              "11.2 Resolución de disputas",
+              "Cualquier disputa que surja de o en relación con este Acuerdo se resolverá primero mediante negociación amistosa. Si la negociación fracasa, usted y el Licenciante acuerdan someter la disputa a los tribunales con jurisdicción en la Región Administrativa Especial de Hong Kong de la República Popular China.",
+              "Si usted es residente de un estado miembro de la UE, esta cláusula de jurisdicción no afecta sus derechos legales bajo las leyes locales obligatorias de protección al consumidor.",
+              "11.3 Modificaciones del Acuerdo",
+              "El Licenciante tiene derecho a modificar este Acuerdo durante las pruebas del producto y la operación formal, y publicará las modificaciones a través de medios razonables, como anuncios dentro de la aplicación y el sitio web oficial. Una vez publicados, los términos modificados se convierten en parte efectiva de este Acuerdo y tienen el mismo efecto legal.",
+              "11.4 Relación de las partes",
+              "Usted y el Licenciante son sujetos civiles independientes. Este Acuerdo no constituye ninguna relación legal como agencia, sociedad, empleo, asociación o empresa conjunta. Apple Inc. y Google LLC son solo canales de distribución y pago para este Software y no participan en el desarrollo u operación de este Software, ni asumen ninguna responsabilidad legal por este Software o sus servicios.",
+              "11.5 Efectividad y terminación",
+              "Este Acuerdo entra en vigor en la fecha en que usted acepta los términos y registra una cuenta. Termina cuando el Licenciante termina los servicios o usted pierde el derecho a usar el Software. Después de la terminación, sus obligaciones y responsabilidades durante el período de uso permanecen en vigor.",
+              "11.6 Encabezados",
+              "Los encabezados de las secciones de este Acuerdo son solo por conveniencia y no afectan la interpretación o aplicación de los términos.",
+              "11.7 Declaración de derechos de autor y derechos",
+              "Los derechos de autor del texto de este Acuerdo pertenecen al Licenciante. El Licenciante tiene derecho a modificar el Acuerdo de conformidad con las leyes, regulaciones y necesidades comerciales, y tiene derecho a interpretarlo legalmente."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

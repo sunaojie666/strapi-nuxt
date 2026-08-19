@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Come creare una nuova stanza live",
+      "tag_1": "Mobile",
+      "tag_2": "Tutorial per principianti"
+    },
+    {
+      "title": "Capire le modalità di matting di VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Tutorial sulle funzionalità"
+    },
+    {
+      "title": "Come usare la funzione livelli di VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Funzionalità principale"
+    },
+    {
+      "title": "Conoscere VicastCam su desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial per principianti"
+    },
+    {
+      "title": "Come collegare iPhone a VicastCam in modalità wireless",
+      "tag_1": "iOS",
+      "tag_2": "Tutorial di connessione"
+    },
+    {
+      "title": "Come aggiungere e usare media locali",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial di utilizzo"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Community globale",
+        "title_main": "Live streaming che funziona ovunque",
+        "title_highlight": "Scelto da streamer in oltre 150 paesi",
+        "desc": "Serviamo oltre 150 paesi e regioni, aiutando innumerevoli streamer a crescere da principianti a creatori di contenuti live professionisti.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Paesi"
+          },
+          {
+            "number": "2000+",
+            "name": "Streamer attivi"
+          },
+          {
+            "number": "5000+",
+            "name": "Incremento di popolarità"
+          },
+          {
+            "number": "99.9%",
+            "name": "Stabilità"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "it",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Domande?",
+          "title_highlight": "Abbiamo le risposte.",
+          "description": "Trova le risposte alle domande più comuni su VicastCam qui sotto. Non trovi quello che cerchi? Contatta il nostro team.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Su quali piattaforme posso fare streaming con VicastCam?",
+              "answer": "VicastCam supporta lo streaming verso le principali piattaforme come YouTube, Twitch, TikTok, Facebook Live e Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "La rimozione dello sfondo di VicastCam richiede un green screen?",
+              "answer": "No. VicastCam utilizza la rimozione dello sfondo basata su AI, quindi puoi sostituire lo sfondo in tempo reale senza green screen."
+            },
+            {
+              "id": "q3",
+              "question": "Posso usare VicastCam sul mio telefono?",
+              "answer": "Sì. VicastCam è disponibile su iOS e Android, e tutte le funzionalità professionali sono disponibili su mobile."
+            },
+            {
+              "id": "q4",
+              "question": "Quanto è affidabile VicastCam?",
+              "answer": "VicastCam offre una stabilità del 99,9%, supportando streamer in tutto il mondo con streaming ininterrotto 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam supporta lo streaming multi-camera?",
+              "answer": "Sì. Puoi passare senza problemi tra più telecamere durante una live per ottenere una produzione professionale."
+            }
+          ],
+          "view_more": {
+            "text": "Mostra di più"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "FAQ VicastCam | Assistenza Android e iOS",
+          "description": "Trova le risposte alle domande più comuni su VicastCam per Android e iOS, inclusi configurazione dell'account, permessi dei media, connessioni di rete e problemi di visualizzazione dello streaming.",
+          "imageAlt": "FAQ VicastCam"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Assistenza VicastCam",
+          "titleHighlight": "Trova risposte in fretta",
+          "description": "Scegli i tutorial Android o iOS per vedere i problemi comuni e le soluzioni per il tuo dispositivo."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Categorie di domande",
+          "answerLabel": "Risposta",
+          "questionProgressTemplate": "{group} · Domanda {current} di {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Tutorial Android",
+            "count": "8 domande",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Quali sono le dimensioni consigliate per i media durante lo streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Dimensioni consigliate per i media durante lo streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Per gli sfondi delle live, consigliamo immagini a 1080 x 1920 pixel e video a 1080 x 1920 pixel.",
+                      "Importante: le sovrapposizioni a schermo intero devono avere un rapporto 9:16 per allinearsi perfettamente quando si passa tra modalità a schermo intero e 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Come posso eliminare il mio account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Accedi all'app VicastCam, poi vai su [Account - Icona in alto a destra - Gestione account - Elimina account - Invia richiesta di eliminazione]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informazioni sull'account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Una volta eliminato l'account, rimuoveremo definitivamente la tua email collegata, i record del dispositivo e altre informazioni di identità. Revocheremo anche le autorizzazioni di accesso di terze parti tramite Google e Apple. Dopo la revoca, non potrai più accedere rapidamente con quegli account di terze parti; se desideri usarli di nuovo, dovrai autorizzarli nuovamente."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Contenuti e media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tutti i media delle live, video, immagini e file di progetto sono memorizzati solo sul tuo dispositivo. La piattaforma non conserva alcun contenuto creativo nel cloud. Dopo l'eliminazione, le funzionalità di gestione dei media dell'app non funzioneranno più, quindi esegui il backup dei tuoi contenuti in anticipo utilizzando la funzione 'Esporta media'.",
+                      "Se disinstalli e reinstalli l'app, o cambi dispositivo senza prima esportare un backup, i tuoi media saranno irrecuperabili in modo permanente."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Vantaggi dell'abbonamento"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "I vantaggi del tuo abbonamento termineranno immediatamente dopo l'eliminazione dell'account. Se hai un abbonamento Google Play attivo, l'eliminazione dell'account dell'app non lo cancellerà automaticamente e potresti essere ancora addebitato. Vai su 'Pagamenti e abbonamenti - Abbonamenti' in Google Play per annullarlo manualmente."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Se hai domande, contatta il nostro team di supporto."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Perché non riesco ad accedere ai media del telefono quando aggiungo immagini o video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se la tua libreria foto appare vuota quando aggiungi media, puoi abilitare l'accesso alle foto come segue:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Apri le Impostazioni del telefono, scorri verso il basso per trovare VicastCam, tocca [Foto - Tutte le foto] per abilitare l'accesso.",
+                      "Android: Apri le Impostazioni del telefono, trova VicastCam in 'Permessi' o 'Gestione app', poi tocca [Permessi - Foto - Tutte le foto] per abilitare l'accesso.",
+                      "Se il problema persiste, prova a reinstallare l'app o contatta il nostro supporto online tramite la funzione di feedback."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Cosa devo fare se il display viene tagliato durante lo streaming dal computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se il display è incompleto durante lo streaming dal telefono tramite un'app di streaming companion o altro software, segui questi passaggi:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Apri VicastCam, tocca l'icona della fotocamera in basso per entrare nella pagina live, poi vai su [Menu a destra - Altre impostazioni - Proporzioni - 9:16].",
+                      "Dopo aver trasmesso allo streaming companion, prima adatta alla schermata, poi trascina l'immagine verso l'alto o il basso per riempire lo schermo."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: regola le proporzioni prima di aggiungere media e prima di iniziare lo streaming."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Cosa devo fare se una richiesta di rete fallisce?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se incontri errori di richiesta di rete, prova quanto segue:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Apri le Impostazioni del telefono, vai su [Permessi - VicastCam - Dati mobili e Wi-Fi] e attiva l'accesso alla rete.",
+                      "Disattiva la modalità di risparmio energetico e qualsiasi restrizione in background.",
+                      "Cambia rete, riavvia il telefono, attiva/disattiva la modalità aereo o aggiorna l'app.",
+                      "Se il problema persiste, fai uno screenshot dell'errore e contatta il nostro team di supporto."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Perché le sovrapposizioni da media online sfarfallano o diventano nere durante una live?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se le sovrapposizioni da media online sfarfallano o diventano nere durante una live, ecco cosa puoi fare:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Scarica e visualizza in anteprima tutti i media o le sovrapposizioni che intendi usare prima di andare in diretta per assicurarti che funzionino correttamente.",
+                      "Alcuni media integrati sono memorizzati su server. Scaricali prima dello streaming così sono pronti all'uso senza caricamenti durante la trasmissione.",
+                      "Caricare media a metà streaming consuma risorse di streaming, memoria e prestazioni, il che può causare lag. Su dispositivi di fascia bassa, può persino causare crash o schermate nere."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Importante"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pianifica e prova lo streaming in anticipo. Esercitati su ogni segmento per assicurarti che tutto funzioni senza intoppi prima di andare in diretta."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Cosa devo fare se alcuni tasti della tastiera sono coperti?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se alcuni tasti della tastiera virtuale sono coperti, prova quanto segue:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Se stai usando un telefono 16:9 più vecchio e alcuni tasti sono coperti, tocca il secondo pulsante in alto a sinistra della tastiera per abilitare la modalità a schermo intero.",
+                      "Se il layout della tastiera è disallineato, vai nelle impostazioni del telefono e imposta la dimensione del carattere su normale.",
+                      "Alcuni telefoni hanno una 'modalità senior' attivata; disattivarla dovrebbe ripristinare la tastiera."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "I problemi di visualizzazione sono solitamente causati da caratteri troppo grandi o da una scala del tema grande. Ripristinare questi valori standard dovrebbe risolvere il problema."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Cosa devo fare se il mio telefono Huawei continua a disconnettersi dalla multi-camera o dalla tastiera virtuale?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se riscontri disconnessioni con multi-camera o tastiera virtuale sui telefoni Huawei, segui questi passaggi:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Vai alle Impostazioni del telefono.",
+                      "Nella barra di ricerca in alto, digita 'Gestione avvio app'.",
+                      "Vai alla pagina di gestione avvio app e scorri verso il basso per trovare VicastCam.",
+                      "Disattiva l'interruttore a destra (l'icona diventa grigia) e nel popup abilita tutte e tre le opzioni (diventano blu)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Puoi anche fare riferimento al video tutorial 'Come prevenire disconnessioni con multi-camera e tastiera virtuale sui telefoni Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Tutorial iOS",
+            "count": "6 domande",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Quali sono le dimensioni consigliate per i media durante lo streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Dimensioni consigliate per i media durante lo streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Per gli sfondi delle live, consigliamo immagini a 1080 x 1920 pixel e video a 1080 x 1920 pixel.",
+                      "Importante: le sovrapposizioni a schermo intero devono avere un rapporto 9:16 per allinearsi perfettamente quando si passa tra modalità a schermo intero e 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Come posso eliminare il mio account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Accedi all'app VicastCam, poi vai su [Account - Icona in alto a destra - Gestione account - Elimina account - Invia richiesta di eliminazione]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informazioni sull'account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Una volta eliminato l'account, rimuoveremo definitivamente la tua email collegata, i record del dispositivo e altre informazioni di identità. Revocheremo anche le autorizzazioni di accesso di terze parti tramite Google e Apple. Dopo la revoca, non potrai più accedere rapidamente con quegli account di terze parti; se desideri usarli di nuovo, dovrai autorizzarli nuovamente."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Contenuti e media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tutti i media delle live, video, immagini e file di progetto sono memorizzati solo sul tuo dispositivo. La piattaforma non conserva alcun contenuto creativo nel cloud. Dopo l'eliminazione, le funzionalità di gestione dei media dell'app non funzioneranno più, quindi esegui il backup dei tuoi contenuti in anticipo utilizzando la funzione 'Esporta media'.",
+                      "Se disinstalli e reinstalli l'app, o cambi dispositivo senza prima esportare un backup, i tuoi media saranno irrecuperabili in modo permanente."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Vantaggi dell'abbonamento"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "I vantaggi del tuo abbonamento termineranno immediatamente dopo l'eliminazione dell'account. Poiché gli abbonamenti sono gestiti da Apple, la piattaforma non può elaborare rimborsi direttamente. Per richiedere un rimborso, invia una richiesta tramite i canali ufficiali di Apple (cronologia acquisti App Store). Prima di eliminare l'account, assicurati di annullare manualmente eventuali abbonamenti con rinnovo automatico per evitare addebiti futuri."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Se hai domande, contatta il nostro team di supporto."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Perché non riesco ad accedere ai media del telefono quando aggiungo immagini o video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se la tua libreria foto appare vuota quando aggiungi media, apri le Impostazioni del tuo iPhone, scorri verso il basso per trovare VicastCam e tocca [Foto - Tutte le foto] per abilitare l'accesso."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Cosa devo fare se il display viene tagliato durante lo streaming dal computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se il display è incompleto durante lo streaming dal telefono tramite un'app di streaming companion o altro software, segui questi passaggi:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Apri VicastCam, tocca l'icona della fotocamera in basso per entrare nella pagina live, poi vai su [Menu a destra - Altre impostazioni - Proporzioni - 9:16].",
+                      "Dopo aver trasmesso allo streaming companion, prima adatta alla schermata, poi trascina l'immagine verso l'alto o il basso per riempire lo schermo."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: regola le proporzioni prima di aggiungere media e prima di iniziare lo streaming."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Cosa devo fare se una richiesta di rete fallisce?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se incontri errori di richiesta di rete, prova quanto segue:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Apri le Impostazioni del telefono, vai su [Permessi - VicastCam - Dati mobili e Wi-Fi] e attiva l'accesso alla rete.",
+                      "Disattiva la modalità di risparmio energetico e qualsiasi restrizione in background.",
+                      "Cambia rete, riavvia il telefono, attiva/disattiva la modalità aereo o aggiorna l'app.",
+                      "Se il problema persiste, fai uno screenshot dell'errore e contatta il nostro team di supporto."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Perché le sovrapposizioni da media online sfarfallano o diventano nere durante una live?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se le sovrapposizioni da media online sfarfallano o diventano nere durante una live, ecco cosa puoi fare:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Scarica e visualizza in anteprima tutti i media o le sovrapposizioni che intendi usare prima di andare in diretta per assicurarti che funzionino correttamente.",
+                      "Alcuni media integrati sono memorizzati su server. Scaricali prima dello streaming così sono pronti all'uso senza caricamenti durante la trasmissione.",
+                      "Caricare media a metà streaming consuma risorse di streaming, memoria e prestazioni, il che può causare lag. Su dispositivi di fascia bassa, può persino causare crash o schermate nere."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Importante"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pianifica e prova lo streaming in anticipo. Esercitati su ogni segmento per assicurarti che tutto funzioni senza intoppi prima di andare in diretta. Prendi sul serio ogni streaming e otterrai i migliori risultati."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Centro tutorial",
+        "titleMain": "Inizia il tuo",
+        "titleHighlight": "percorso di apprendimento VicastCam",
+        "description": "Padroneggia il software e mettiti al passo rapidamente",
+        "buttonText": "Mostra di più"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Centro tutorial",
+          "titleMain": "Inizia il tuo",
+          "titleHighlight": "percorso di apprendimento VicastCam",
+          "descriptionMain": "Padroneggia il software",
+          "descriptionHighlight": "Mettiti al passo rapidamente"
+        },
+        "player": {
+          "sectionAriaLabel": "Elenco tutorial",
+          "catalogAriaLabel": "Catalogo tutorial",
+          "previousLabel": "Precedente",
+          "nextLabel": "Successivo",
+          "firstLessonText": "Questa è la prima lezione",
+          "lastLessonText": "Questa è l'ultima lezione",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Tutorial per principianti",
+            "count": "9 lezioni",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Crea la tua prima stanza live virtuale",
+                "description": "Crea e configura la tua prima stanza live virtuale da zero.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Capire la funzione immagine",
+                "description": "Impara le basi della funzione immagine e i suoi casi d'uso.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Come usare i livelli",
+                "description": "Padroneggia le basi del pannello dei livelli.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Come usare i livelli di sfondo",
+                "description": "Impara ad aggiungere e regolare i livelli di sfondo.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Come usare i livelli ritratto",
+                "description": "Impara a usare i livelli ritratto per creare effetti visivi.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Come usare i livelli immagine",
+                "description": "Impara ad aggiungere e modificare i livelli immagine.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Come usare i livelli video",
+                "description": "Impara ad aggiungere media video e configurare la riproduzione.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Come usare i livelli effetti",
+                "description": "Aggiungi livelli effetti alla tua live.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Come usare i livelli didascalia",
+                "description": "Crea didascalie e regola gli stili dei livelli didascalia.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Tutorial avanzati",
+            "count": "6 lezioni",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Come usare i livelli di movimento della fotocamera",
+                "description": "Usa i livelli di movimento della fotocamera per creare inquadrature più dinamiche.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Come usare la funzione percorso",
+                "description": "Controlla il percorso di movimento degli elementi con la funzione percorso.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Come usare i livelli multi-camera",
+                "description": "Configura i livelli multi-camera per passare rapidamente tra diverse viste.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Come usare la funzione controller",
+                "description": "Usa il controller per gestire la visuale della tua live.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Come usare la funzione audio",
+                "description": "Configura input, output e effetti di mixaggio audio.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Come usare la funzione backup",
+                "description": "Esegui il backup e ripristina configurazioni e media delle stanze live.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

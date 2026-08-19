@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "سبق مرکز",
+          "titleMain": "اپنا VicastCam",
+          "titleHighlight": "سیکھنے کا سفر شروع کریں",
+          "descriptionMain": "سافٹ ویئر کی ہر خصوصیت میں مہارت حاصل کریں",
+          "descriptionHighlight": "جلدی سے تیار ہو جائیں"
+        },
+        "player": {
+          "sectionAriaLabel": "سبق کی فہرست",
+          "catalogAriaLabel": "سبق کی فہرست",
+          "previousLabel": "پچھلا",
+          "nextLabel": "اگلا",
+          "firstLessonText": "آپ پہلے سبق پر ہیں",
+          "lastLessonText": "آپ آخری سبق پر ہیں",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "شروع کرنا",
+            "count": "11 اسباق",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "اپنا پہلا ورچوئل اسٹوڈیو بنائیں",
+                "description": "شروع سے اپنا پہلا ورچوئل اسٹوڈیو ترتیب دیں اور کنفیگر کریں۔",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "امیج ٹولز کو سمجھنا",
+                "description": "امیج ٹولز کی بنیادی باتیں اور ان کے عام استعمال کے طریقے جانیں۔",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "لیئرز کے ساتھ کام کرنا",
+                "description": "لیئرز پینل اور لیئرز کو مؤثر طریقے سے منظم کرنے کا طریقہ سیکھیں۔",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "بیک گراؤنڈ لیئرز کا استعمال",
+                "description": "اپنے سین کے لیے بیک گراؤنڈ لیئرز شامل کرنے اور ایڈجسٹ کرنے کا طریقہ سیکھیں۔",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "پورٹریٹ لیئرز کا استعمال",
+                "description": "اپنی لائیو پروڈکشن کو بہتر بنانے کے لیے پورٹریٹ لیئرز شامل کریں۔",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "امیج لیئرز کا استعمال",
+                "description": "اپنے اسٹوڈیو سیٹ اپ میں امیج لیئرز شامل کریں اور ان میں ترمیم کریں۔",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "ویڈیو لیئرز کا استعمال",
+                "description": "ویڈیو کلپس شامل کریں اور پلے بیک کی ترتیبات کو کنٹرول کریں۔",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "ایفیکٹ لیئرز کا استعمال",
+                "description": "ایفیکٹ لیئرز کے ساتھ اپنی لائیو اسٹریم پر بصری اثرات مرتب کریں۔",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "کیپشن لیئرز کا استعمال",
+                "description": "کیپشن بنائیں اور ان کی شکل و صورت کو اپنی مرضی کے مطابق بنائیں۔",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "ورچوئل اوتار کا استعمال",
+                "description": "ورچوئل اوتار کے انضمام سے اپنی اسٹریم کو زندہ کریں۔",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "سینز کا استعمال",
+                "description": "اسٹریم کے دوران مختلف سین لے آؤٹ کے درمیان آسانی سے سوئچ کریں۔",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "اعلیٰ ٹیوٹوریلز",
+            "count": "6 اسباق",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "کیمرہ موومنٹ لیئرز کا استعمال",
+                "description": "کیمرہ موومنٹ لیئرز کے ساتھ متحرک شاٹس بنائیں۔",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "پاتھ اینیمیشن کا استعمال",
+                "description": "ٹریجیکٹری فیچر کے ساتھ عناصر کی حرکت کے راستے کنٹرول کریں۔",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "ملٹی کیمرہ لیئرز کا استعمال",
+                "description": "تیز اینگل سوئچنگ کے لیے ملٹی کیمرہ لیئرز ترتیب دیں۔",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "کنٹرولر کا استعمال",
+                "description": "ایک ہی کنٹرول پینل سے اپنی پوری براڈکاسٹ کا انتظام کریں۔",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "آڈیو سیٹ اپ اور مکسنگ",
+                "description": "آڈیو ان پٹ، آؤٹ پٹ اور مکس کی ترتیبات کنفیگر کریں۔",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "بیک اپ اور بحالی",
+                "description": "اپنے اسٹوڈیو کی کنفیگریشن کا بیک اپ لیں اور ضرورت پڑنے پر اسے بحال کریں۔",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "کمپیوٹر سیٹ اپ",
+            "count": "7 اسباق",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "VicastCam کے ساتھ شروعات",
+                "description": "انٹرفیس اور بنیادی خصوصیات کا ایک جامع جائزہ۔",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "وائرڈ کنکشن – آئی فون",
+                "description": "وائرڈ کنکشن کا استعمال کرتے ہوئے اپنے آئی فون کو VicastCam سے منسلک کریں۔",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "وائرلیس کنکشن – آئی فون",
+                "description": "وائی فائی کے ذریعے اپنے آئی فون کو VicastCam سے منسلک کریں۔",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "وائرڈ کنکشن – اینڈرائیڈ",
+                "description": "وائرڈ کنکشن کا استعمال کرتے ہوئے اپنے اینڈرائیڈ ڈیوائس کو VicastCam سے منسلک کریں۔",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "وائرلیس کنکشن – اینڈرائیڈ",
+                "description": "وائی فائی کے ذریعے اپنے اینڈرائیڈ ڈیوائس کو VicastCam سے منسلک کریں۔",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "مقامی میڈیا شامل کرنا اور استعمال کرنا",
+                "description": "اپنے پروجیکٹس میں مقامی میڈیا فائلیں درآمد اور استعمال کریں۔",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "کنکشن کے بعد کیا کریں",
+                "description": "ڈیوائسز منسلک ہونے کے بعد اپنا اسٹریم شروع کریں۔",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

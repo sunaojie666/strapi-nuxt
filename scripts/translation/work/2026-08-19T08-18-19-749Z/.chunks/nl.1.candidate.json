@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Accountcentrum",
+    "description": "VicastCam Accountcentrum-pagina"
+  },
+  "common": {
+    "sidebarAriaLabel": "Accountnavigatie",
+    "defaultProfileName": "Gebruiker",
+    "emptyContent": "Geen inhoud",
+    "copyButtonLabel": "Kopiëren",
+    "monthSelectLabel": "Selecteer maand",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Gebruikersgegevens niet gevonden. Log opnieuw in.",
+    "paginationLabel": "Paginering",
+    "previousPageLabel": "Vorige pagina",
+    "nextPageLabel": "Volgende pagina",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Ga naar",
+      "unit": "pagina",
+      "ariaLabel": "Ga naar een specifieke pagina",
+      "buttonLabel": "Ga"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Accountcentrum",
+    "logout": "Uitloggen",
+    "profileAriaSuffix": "Accountmenu"
+  },
+  "sidebar": {
+    "ariaLabel": "Accountnavigatie",
+    "menus": {
+      "account": "Accountgegevens",
+      "membership": "Lidmaatschap",
+      "redeem": "Code inwisselen",
+      "purchaseHistory": "Aankoopgeschiedenis",
+      "team": "Mijn team",
+      "earnings": "Verdiensten"
+    }
+  },
+  "account": {
+    "ariaLabel": "Accountgegevens",
+    "profileTitle": "Accountgegevens",
+    "usernameLabel": "Gebruikersnaam",
+    "passwordLabel": "Wachtwoord",
+    "passwordMask": "********",
+    "defaultUsername": "Geen bijnaam ingesteld",
+    "emailLabel": "Gekoppeld e-mailadres",
+    "emailPlaceholder": "Voer je e-mailadres in",
+    "codePlaceholder": "Voer verificatiecode in",
+    "sendCodeButton": "Code ophalen",
+    "bindButton": "E-mailadres koppelen",
+    "alreadyBound": "Gekoppeld",
+    "unboundEmail": "Niet gekoppeld",
+    "emailBindTip": "Eenmaal gekoppeld, kan het e-mailadres niet meer worden gewijzigd. Controleer of het e-mailadres correct is.",
+    "emailRequired": "Voer een geldig e-mailadres in",
+    "codeRequired": "Voer de verificatiecode in",
+    "codeSent": "Verificatiecode verzonden. Controleer je e-mail.",
+    "bindSuccess": "E-mailadres succesvol gekoppeld",
+    "bindFailed": "E-mailadres koppelen mislukt. Controleer de code en probeer het opnieuw.",
+    "requestFailed": "Aanvraag mislukt. Probeer het later opnieuw.",
+    "inviteTitle": "Uitnodigingslink",
+    "inviteDescription": "Kopieer je persoonlijke uitnodigingslink. Wanneer vrienden zich registreren en een lidmaatschap aanschaffen, verdien jij beloningen.",
+    "emptyInviteLink": "Geen uitnodigingslink beschikbaar"
+  }
+}

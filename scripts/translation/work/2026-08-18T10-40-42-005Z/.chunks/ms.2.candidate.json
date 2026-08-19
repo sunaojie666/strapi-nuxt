@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Mula",
+      "count": "11 pelajaran",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Cipta Studio Maya Pertama Anda",
+          "description": "Sediakan dan konfigurasikan studio maya pertama anda dari awal.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Memahami Alat Imej",
+          "description": "Terokai asas alat imej dan kegunaan lazimnya.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Bekerja dengan Lapisan",
+          "description": "Kenali panel Lapisan dan cara mengurus lapisan dengan berkesan.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Menggunakan Lapisan Latar Belakang",
+          "description": "Pelajari cara menambah dan melaraskan lapisan latar belakang untuk adegan anda.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Menggunakan Lapisan Potret",
+          "description": "Tambah lapisan potret untuk memperkukuh produksi langsung anda.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Menggunakan Lapisan Imej",
+          "description": "Tambah dan edit lapisan imej dalam persediaan studio anda.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Menggunakan Lapisan Video",
+          "description": "Tambah klip video dan kawal tetapan main balik.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Menggunakan Lapisan Kesan",
+          "description": "Terapkan kesan visual pada strim langsung anda dengan lapisan kesan.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Menggunakan Lapisan Kapsyen",
+          "description": "Cipta kapsyen dan sesuaikan penampilannya.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Menggunakan Avatar Maya",
+          "description": "Hidupkan strim anda dengan integrasi avatar maya.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Menggunakan Adegan",
+          "description": "Tukar antara susun atur adegan yang berbeza dengan lancar semasa strim anda.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Tutorial Lanjutan",
+      "count": "6 pelajaran",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Menggunakan Lapisan Pergerakan Kamera",
+          "description": "Cipta rakaman dinamik dengan lapisan pergerakan kamera.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Menggunakan Animasi Laluan",
+          "description": "Kawal laluan pergerakan elemen dengan ciri trajektori.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Menggunakan Lapisan Berbilang Kamera",
+          "description": "Sediakan lapisan berbilang kamera untuk penukaran sudut pantas.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Menggunakan Pengawal",
+          "description": "Urus keseluruhan siaran anda dari satu panel kawalan.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Persediaan dan Adunan Audio",
+          "description": "Konfigurasikan input, output, dan tetapan adunan audio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Sandaran dan Pulihkan",
+          "description": "Sandarkan konfigurasi studio anda dan pulihkannya apabila perlu.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "User Agreement",
+        "updatedAt": "July 22, 2026",
+        "description": "This User License Agreement (\"Agreement\") is entered into between the Licensor and the user of this software (\"you\" or \"user\") and governs all your actions in downloading, installing, registering, logging in to, and using this software.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Licensor: Vicast International Limited",
+              "Official channels: VicastCam official website and authorized app stores (Apple App Store / Google Play Store)",
+              "Contact email: service@vicastcam.com",
+              "Last updated: July 22, 2026",
+              "Welcome to VicastCam (\"this Software\")!",
+              "VicastCam products are provided only to users outside mainland China. We do not actively promote the product to users in mainland China. If you are located in mainland China, please be aware that this product does not have the relevant operating qualifications in mainland China.",
+              "This User License Agreement (\"Agreement\") is entered into between the Licensor and the user of this software (\"you\" or \"user\") and governs all your actions in downloading, installing, registering, logging in to, and using this software.",
+              "By clicking the \"Agree\" button in this Software, you voluntarily accept all terms of this Agreement. If you do not accept them, the Licensor does not grant you the right to use the Software. Please immediately stop using and uninstall the Software. Your continued use of the Software constitutes your agreement to and acceptance of this Agreement and any subsequent revisions.",
+              "You confirm that you are at least 18 years old or have reached the legal age of majority in your jurisdiction (\"adult\"). Minors must use this Software with the explicit consent and under the supervision of their legal guardian, who shall bear guardianship responsibilities in accordance with the law."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Scope of Application",
+            "paragraphs": [
+              "1.1 Before using the Software, please read this Agreement carefully, especially the core clauses in bold, including disclaimers, governing law, and dispute resolution. If you do not agree with any term, please stop using the Software immediately.",
+              "1.2 This Software is primarily intended for adults. Minors must obtain the consent of their legal guardian before using this Software and must use it under the guardian's supervision. The guardian must fulfill guardianship duties in accordance with the law.",
+              "1.3 This Agreement includes platform rules such as announcements, activity rules, and in-app notifications published by this Software. All platform rules are an integral part of this Agreement and have the same legal effect as this Agreement.",
+              "1.4 By registering, logging in, or using this Software, you are deemed to have fully read, understood, and agreed to be bound by this Agreement.",
+              "1.5 All intellectual property rights in this Software and any rights not expressly granted to users are reserved by the Licensor."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 This Software and Related Services",
+            "paragraphs": [
+              "2.1 This Software is an auxiliary tool for live streaming scenarios, providing features such as live streaming, virtual scene setup, AI matting, face effects, and beauty filters. Specific services and features are subject to the actual product display.",
+              "2.2 You may only obtain the client through official channels (Apple App Store or Google Play Store). Any risks and losses arising from the use of unofficial versions shall be borne by you.",
+              "2.3 To use this Software, you need to prepare your own terminal device and network connection and bear the associated internet and data charges. Full functionality requires an internet connection.",
+              "2.4 The Licensor grants you a personal, non-commercial, non-transferable, revocable, non-exclusive license to use the Software. Without prior written authorization from the Licensor, you are prohibited from modifying, copying, distributing, mirroring, crawling, selling, or using the Software for commercial purposes.",
+              "2.5 The Licensor has the right to upgrade, adjust, suspend, or terminate part or all of the services based on product optimization, security maintenance, compliance operations, and other needs. You may choose whether to update the client; refusing to update may result in limited functionality. You have the right to uninstall the app at any time to terminate the service.",
+              "2.6 Purchases and Subscriptions",
+              "2.6.1 All paid features, purchases, and subscriptions within this Software are completed through the Apple App Store or Google Play payment system, and such transactions are also subject to the terms of service of the respective platform.",
+              "2.6.2 Subscription Rules",
+              "(1) Auto-renewal: Subscription services will be automatically charged at least 24 hours before the end of the current service period, and the platform system will send renewal reminders. You can view, manage, and cancel auto-renewal at any time by going to your device's \"Settings > Account > Subscriptions\" page (the path may vary by platform).",
+              "(2) Price changes: If we adjust subscription prices, we will provide notice at least 30 days before the new price takes effect through in-app announcements, the official website, or other reasonable means. Price changes will not affect the current subscription period already in effect. Where local law requires additional user consent, we will comply with the law.",
+              "(3) Free trial: If a free trial is offered, please turn off auto-renewal at least 24 hours before the trial period ends to avoid being charged.",
+              "2.6.3 Regional Refunds and Statutory Withdrawal Rights",
+              "(1) Users in the European Union, European Economic Area, and the United Kingdom: In accordance with local consumer protection laws, you have a 14-day statutory right of withdrawal without cause. See the VicastCam Refund Policy for details. Withdrawal and refund requests must be submitted through the official channel (App Store or Google Play) used for your purchase, and refunds are subject to platform rules and local law. If you have used the service during the 14-day cooling-off period, the refund will be calculated proportionally based on actual usage. Once the withdrawal takes effect, your paid usage rights will terminate immediately.",
+              "(2) One-time payment and lifetime services: If you explicitly confirm immediate activation of the service and waive the 14-day withdrawal right, the right of withdrawal without cause will no longer apply.",
+              "(3) All other regions: Refunds and after-sales issues are primarily governed by the official rules of the platform used for your purchase.",
+              "2.6.4 Paid Benefits Usage Rules",
+              "(1) Paid services and benefits are for personal use only.",
+              "(2) You are prohibited from providing paid benefits to third parties through gifting, lending, renting, reselling, or bulk sharing.",
+              "2.7 Fees, Membership, and Commercial Use Rules",
+              "2.7.1 The Licensor has the right to charge fees for the Software and related network services in accordance with the law. You are responsible for all costs of hardware, software, and network required for use, and you must pay the corresponding service fees on time.",
+              "2.7.2 You shall fulfill your tax obligations in accordance with the law and bear all taxes arising from the use of the services. You are prohibited from using paid services fraudulently.",
+              "2.7.3 We may adjust the membership system or terminate membership services based on legitimate operational needs. If an account is banned or terminated due to violations, paid fees will not be refunded.",
+              "2.7.4 If you need to use this Software for commercial purposes, you must apply to the Licensor in advance and obtain an official commercial use license.",
+              "2.7.5 You are prohibited from using this Software to disseminate pornographic or illegal content for profit."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Account Management",
+            "paragraphs": [
+              "3.1 You may register an account yourself or use a legitimate third-party platform account to log in. Third-party accounts must be verified with real-name information and comply with platform rules. You are responsible for safeguarding your account and password and for all actions taken under your account.",
+              "3.2 In accordance with network supervision and real-name registration requirements worldwide, you must provide true, accurate, and valid identity information and contact details (such as email) when registering. If the information is false or questionable, the Licensor has the right to require correction, restrict or terminate services. Some registration information cannot be modified for security verification purposes.",
+              "3.3 Some basic features may be used without logging in. Full functionality and paid services require registration, login, and identity verification.",
+              "3.4 Account information such as nickname, avatar, and bio must not impersonate others' names, trademarks, portraits, or other legal rights, and must not contain illegal, vulgar, or misleading content. The Licensor has the right to review account information and take measures such as resetting, restricting functions, or banning accounts for violations.",
+              "3.5 Accounts are for personal use only and may be logged in on devices you legally control. Gifting, lending, renting, transferring, or selling accounts is prohibited. If the user is found to be inconsistent with the registrant, the Licensor has the right to suspend or terminate services.",
+              "3.6 You are responsible for the security and confidentiality of your account and bear full legal responsibility for all operations, content, and actions under your account.",
+              "3.7 If your account is stolen or you forget your password, you can recover it through the official appeal channel.",
+              "3.7.1 If your account is stolen, information is leaked, or property is lost due to improper custody, device loss, or voluntary disclosure of account credentials, you shall bear full responsibility.",
+              "3.7.2 Account recovery services only verify information stored in the system and cannot determine the true identity of the user. You bear the related risks. If you notice any abnormal account activity, please contact official customer service immediately.",
+              "3.8 Account Cancellation and Data Processing",
+              "3.8.1 You can apply for account cancellation through the Software's \"Me > Settings > Account Management > Cancel Account\" or via the official email. Ownership verification is required before cancellation.",
+              "3.8.2 After account cancellation, a 30-day data buffer period is reserved (only for financial reconciliation, dispute resolution, and after-sales verification). After this period, permanent physical deletion will be executed, except for transaction records that must be retained as required by law.",
+              "3.8.3 After account cancellation, the account and data cannot be recovered. Obligations and liabilities incurred during your use are not exempted by cancellation."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 User Conduct",
+            "paragraphs": [
+              "4.1 You undertake to comply with global laws on network security, intellectual property, portrait rights, and privacy while using this Software, and to respect the legal rights of others. Unless permitted by law or authorized in writing by the Licensor, the following acts are prohibited:",
+              "4.1.1 Uploading or disseminating unauthorized personal information, trade secrets, or infringing content.",
+              "4.1.2 Using cheats, plugins, or third-party tools to interfere with or disrupt the normal operation of this Software.",
+              "4.1.3 Engaging in illegal network intrusion, data theft, virus dissemination, vulnerability scanning, forging network data packets, or other cyber attacks.",
+              "4.1.4 Mass malicious registration of accounts.",
+              "4.1.5 Reverse engineering, decompiling, disassembling, or attempting to crack the source code of this Software.",
+              "4.1.6 Creating or disseminating pornographic, violent, defamatory, or illegal content.",
+              "4.1.7 Promoting tobacco, alcohol, gambling, weapons, or prohibited items.",
+              "4.1.8 Secretly photographing, recording, or disseminating others' images, voices, or private information without authorization, infringing on their portrait or privacy rights.",
+              "4.1.9 Other acts that violate local laws, this Agreement, or platform rules.",
+              "4.1.10 If you violate this Agreement, the Licensor has the right to delete violating content without notice and impose penalties such as warnings, feature bans, device bans, or permanent account bans, depending on the severity. Violating users may submit appeals via the official email, and the Licensor has the final review authority.",
+              "4.2 When creating content with this Software, you are prohibited from using built-in materials, effects, or logos for third-party trademarks, logos, or commercial identifiers (except for your own copyrighted content).",
+              "4.3 You must not use this Software to publish or disseminate violent, pornographic, defamatory, doxxing, privacy-infringing, spam, or other content that violates laws or public order and good customs.",
+              "4.4 The Licensor has the right to supervise and review user behavior and may require rectification, delete content, suspend or terminate services upon discovering violations.",
+              "4.5 Special Feature Restrictions",
+              "4.5.1 Camera and Live Streaming: Before using the camera, live streaming, or screen recording features, you must obtain explicit consent from all persons being filmed or recorded. It is strictly prohibited to use this Software for secret photography, secret recording, illegal live streaming, or other illegal acts. You bear all related responsibilities.",
+              "4.5.2 AI Features: The intellectual property rights of the AI algorithms, models, effects, and visual materials in this Software belong to the Licensor or cooperating third parties. You may only use them for personal, non-commercial, legal creation. You are prohibited from creating deepfakes, fake audio/video, fraud, or illegal content.",
+              "4.5.3 Regional Compliance: You must strictly comply with the regulatory requirements of your country/region regarding live streaming, biometric data collection, and AI content.",
+              "4.6 If your violation causes losses to the Licensor, paid fees will not be refunded, and you must fully compensate the Licensor for all economic and reputational losses."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Personal Information Protection",
+            "paragraphs": [
+              "5.1 We strictly process your personal information in compliance with the EU GDPR, the UK Data Protection Act, the Hong Kong Personal Data (Privacy) Ordinance, and data protection regulations worldwide. In accordance with Article 27 of the GDPR, we have appointed local compliance representatives in the EU and the UK. For specific contact details, please refer to the \"GDPR and Data Protection\" document.",
+              "5.2 You agree that the Licensor may collect, use, and store personal information in accordance with this Agreement and the Privacy Policy. The Privacy Policy has the same legal effect as this Agreement.",
+              "5.3 We use security technologies such as encryption and anonymization to protect your personal information from leakage, tampering, and unauthorized access.",
+              "5.4 Without your explicit consent, we will not share your personal information with third parties, except in the following circumstances:",
+              "(1) You disclose it to third parties yourself;",
+              "(2) Required by national security, public safety, public health, and statutory judicial or administrative requirements;",
+              "(3) To protect the major legal rights and interests of this Software, other users, or third parties, and in compliance with legal provisions;",
+              "(4) Information obtained from legitimate public sources;",
+              "(5) Other circumstances stipulated by laws and regulations.",
+              "5.5 You have the legal right to inquire, correct, delete, and withdraw authorization regarding your personal information. For detailed rules on personal information, please refer to the Privacy Policy."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Complaints and Reports",
+            "paragraphs": [
+              "6.1 You may report violating content or complain about infringing acts through the client or the official contact email.",
+              "6.2 If your rights are infringed, you may submit proof of rights to file a complaint. The complained party may submit proof of ownership to appeal.",
+              "6.3 We generally complete the review and provide feedback within 15 working days. For complex cases, we will update you on the progress."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Handling of Breaches",
+            "paragraphs": [
+              "7.1 If you violate this Agreement, platform rules, or local laws and regulations, the Licensor may take measures such as warnings, feature restrictions, content deletion, service suspension, or permanent account bans. Any losses arising from such measures shall be borne by you, and deleted content and data will not be restored.",
+              "7.2 If suspected illegal or criminal activities are discovered, the Licensor will preserve evidence and report to law enforcement authorities and cooperate with investigations.",
+              "7.3 If your violation causes the Licensor to be claimed against by third parties, subject to administrative penalties, or suffer reputational or economic losses, you shall bear all losses of the Licensor."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Intellectual Property",
+            "paragraphs": [
+              "8.1 The intellectual property rights of the code, interface, text, images, audio/video, effects, trademarks, and logos of this Software belong to the Licensor.",
+              "8.2 The Licensor owns all rights to the legitimate data and information generated during the operation of the product.",
+              "8.3 Without explicit written authorization from the Licensor, you are prohibited from using, copying, imitating, or registering the \"VicastCam\" brand, trademarks, domain names, logos, etc. If you cause losses through unauthorized use, you shall bear full legal responsibility.",
+              "8.4 This Software includes software components distributed under open-source licenses and third-party licenses. You must strictly comply with the corresponding license terms when using such components."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Terms for Minors",
+            "paragraphs": [
+              "9.1 Minors must obtain explicit consent from their legal guardian before using this Software and must use it under the guardian's supervision. Guardians have the right to request restrictions on or cancellation of a minor user's account.",
+              "9.2 The Licensor carefully collects personal information of minor users. Guardians should guide minors to protect their personal privacy and network security.",
+              "9.3 Guardians should fulfill their guardianship duties in accordance with the law, guide minors to use the internet healthily, and prevent internet addiction.",
+              "9.4 Minors and their guardians are legally responsible for all actions and consequences of the minor's use.",
+              "9.5 Minors may not use the camera for live streaming or appear in videos alone, and may not publish illegal or vulgar content.",
+              "9.6 If the Licensor discovers that a minor is using the Software without guardian consent, it has the right to directly restrict or ban the corresponding account.",
+              "9.7 Guardians should properly keep payment accounts and passwords to avoid unauthorized charges by minors. If you have any questions, please contact official customer service."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Disclaimer",
+            "paragraphs": [
+              "10.1 You expressly acknowledge and agree that your use of this application is at your sole risk. To the maximum extent permitted by applicable law, this application and any services performed or provided by this application are provided \"as is\" and \"as available\" with all faults and without warranties of any kind, and the Licensor hereby disclaims all warranties and conditions with respect to this application and any services, whether express, implied, or statutory, including but not limited to the implied warranties and/or conditions of merchantability, satisfactory quality, fitness for a particular purpose, accuracy, quiet enjoyment, and non-infringement of third-party rights. No oral or written information or advice given by the Licensor or its authorized representatives shall create a warranty. If this application or services are found to be defective, you assume the entire cost of all necessary servicing, repair, or correction. Some jurisdictions do not allow the exclusion of implied warranties or limitations on applicable statutory rights of consumers, so the above exclusions and limitations may not apply to you.",
+              "10.2 The Licensor will use industry-standard security technologies to ensure stable operation of the services. To the extent permitted by laws and regulations, the Licensor shall not be liable for compensation for service interruptions or temporary data anomalies caused by force majeure, natural disasters, wars, government bans, network failures, system maintenance, hacker attacks, viruses, third-party service failures, device abnormalities, or other factors beyond the Licensor's control.",
+              "10.3 If services are suspended or terminated due to system maintenance, version upgrades, compliance rectification, or business adjustments, we will provide reasonable advance notice through in-app announcements and the official website.",
+              "10.4 If your device is damaged or data is lost due to your own operational errors, device failures, incorrect network settings, or improper use of this Software, you shall bear all losses.",
+              "10.5 We have the right to adjust service features, modify service content, or clean server data based on legitimate operations, system security, compliance rectification, and other reasons. We will not delete user data without cause.",
+              "10.6 Limitation of Liability",
+              "To the extent not prohibited by law, in no event shall the Licensor be liable for personal injury or any incidental, special, indirect, or consequential damages, including but not limited to loss of profits, loss of data, business interruption, or any other commercial damages or losses, arising out of or related to your use or inability to use the licensed application, regardless of the theory of liability (contract, tort, or otherwise), even if the Licensor has been advised of the possibility of such damages. Some jurisdictions do not allow the limitation of liability for personal injury or incidental or consequential damages, so this limitation may not apply to you.",
+              "Except for mandatory provisions of local law regarding personal injury, the total liability of the Licensor for all damages shall not exceed 1 US dollar (USD 1.00). The above limitations shall apply even if the above remedy fails its essential purpose.",
+              "For jurisdictions such as the European Union, European Economic Area, and the United Kingdom, this limitation of liability clause shall strictly apply in accordance with local consumer protection laws."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Miscellaneous",
+            "paragraphs": [
+              "11.1 Governing Law",
+              "This Agreement and the relationship between you and the Licensor shall be governed by the laws of the Hong Kong Special Administrative Region of the People's Republic of China, excluding conflict of law provisions. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.",
+              "11.2 Dispute Resolution",
+              "Any dispute arising out of or in connection with this Agreement shall first be resolved through friendly negotiation. If negotiation fails, you and the Licensor agree to submit the dispute to the courts with jurisdiction in the Hong Kong Special Administrative Region of the People's Republic of China.",
+              "If you are a resident of an EU member state, this jurisdiction clause does not affect your statutory rights under mandatory local consumer protection laws.",
+              "11.3 Amendments to the Agreement",
+              "The Licensor has the right to amend this Agreement during product testing and formal operation, and will publish amendments through reasonable means such as in-app announcements and the official website. Once published, amended terms become an effective part of this Agreement and have the same legal effect.",
+              "11.4 Relationship of the Parties",
+              "You and the Licensor are independent civil subjects. This Agreement does not constitute any legal relationship such as agency, partnership, employment, association, or joint venture. Apple Inc. and Google LLC are only distribution and payment channels for this Software and do not participate in the development or operation of this Software, nor do they bear any legal responsibility for this Software or its services.",
+              "11.5 Effectiveness and Termination",
+              "This Agreement takes effect on the date you agree to the terms and register an account. It terminates when the Licensor terminates the services or you lose the right to use the Software. After termination, your obligations and liabilities during the term of use remain in effect.",
+              "11.6 Headings",
+              "The headings of sections in this Agreement are for convenience only and do not affect the interpretation or application of the terms.",
+              "11.7 Copyright and Rights Statement",
+              "The copyright of this Agreement text belongs to the Licensor. The Licensor has the right to amend the Agreement in accordance with laws, regulations, and business needs, and has the right to interpret it lawfully."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

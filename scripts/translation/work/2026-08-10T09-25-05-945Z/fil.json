@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Hindi pa available ang pagbabayad",
+          "payment": {
+            "providerName": "Hindi pa live ang online payment",
+            "providerDescription": "Inaayos pa ang pagproseso ng pagbabayad. Ang pahinang ito ay nagpapakita lamang ng mga detalye ng order.",
+            "unavailableTitle": "Hindi pa available ang pagbabayad",
+            "unavailableDescription": "Iniintegrate pa namin ang opisyal na proseso ng pagbabayad at kumpirmasyon ng order. Hanggang sa ilunsad, hindi ka sisingilin ng pahinang ito o gagawa ng totoong order.",
+            "unavailableItems": [
+              "Walang third-party payment components na ilo-load",
+              "Walang impormasyon sa pagbabayad na isusumite",
+              "Walang totoong payment order na gagawin"
+            ],
+            "feedback": "Para bumili o mag-activate ng membership, mangyaring makipag-ugnayan sa business@vicastcam.com."
+          },
+          "summary": {
+            "title": "Buod ng Order",
+            "periodLabel": "Panahon ng Membership",
+            "paymentMethodLabel": "Paraan ng Pagbabayad",
+            "amountLabel": "Halagang Babayaran",
+            "submitLabel": "Hindi pa available",
+            "note": "Hindi pa available ang pagbabayad. Ang mga detalye ng order sa ibaba ay para sa pagkumpirma ng iyong plano.",
+            "unavailablePaymentMethod": "Hindi pa available",
+            "fallbackProductName": "Walang napiling plano",
+            "fallbackProductDescription": "Mangyaring bumalik sa homepage at pumili ng membership plan.",
+            "periodMonth": "1 buwan",
+            "periodYear": "1 taon",
+            "periodLife": "Habang-buhay",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "Checkout ng Subscription",
+            "description": "Pahina ng checkout ng subscription ng VicastCam."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "Buwanang Plano",
+              "description": "Kumuha ng buong buwan ng access pagkatapos mag-activate. Isang murang paraan upang subukan ito."
+            },
+            {
+              "type": "year",
+              "name": "Taunang Plano",
+              "description": "Kumuha ng buong taon ng access pagkatapos mag-activate. Mainam para sa pangmatagalang, matatag na paggamit."
+            },
+            {
+              "type": "life",
+              "name": "Habang-buhay na Plano",
+              "description": "Mag-activate nang isang beses at gamitin nang pangmatagalan. Tangkilikin ang mga benepisyo ng membership nang tuloy-tuloy."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "fil",
+        "multi_platform_section": {
+          "tag": "Suporta sa Multi-Platform",
+          "title_main": "Abot ang mga Nangungunang Live Streaming Platform sa Mundo",
+          "title_highlight": "Buksan ang Pandaigdigang Audience sa Isang Click",
+          "description": "Kumonekta sa mga pandaigdigang traffic source at bumuo ng bagong cross-border live streaming ecosystem."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Account Center",
+            "description": "Pahina ng account center ng VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Navigation ng account center",
+            "defaultProfileName": "User",
+            "emptyContent": "Walang laman",
+            "copyButtonLabel": "Kopyahin",
+            "monthSelectLabel": "Pumili ng buwan",
+            "yearSuffix": "y",
+            "monthSuffix": "mo",
+            "userMissing": "Hindi nahanap ang impormasyon ng user. Mangyaring mag-login muli.",
+            "paginationLabel": "Pagination",
+            "previousPageLabel": "Nakaraang pahina",
+            "nextPageLabel": "Susunod na pahina",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Pumunta sa",
+              "unit": "pahina",
+              "ariaLabel": "Pumunta sa isang partikular na pahina",
+              "buttonLabel": "Go"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Account Center",
+            "logout": "Mag-logout",
+            "profileAriaSuffix": "Menu ng account center"
+          },
+          "sidebar": {
+            "ariaLabel": "Navigation ng account center",
+            "menus": {
+              "account": "Impormasyon ng Account",
+              "membership": "Membership",
+              "redeem": "I-redeem ang Code",
+              "purchaseHistory": "Kasaysayan ng Pagbili",
+              "team": "Aking Team",
+              "earnings": "Mga Kita"
+            }
+          },
+          "account": {
+            "ariaLabel": "Impormasyon ng account",
+            "profileTitle": "Impormasyon ng Account",
+            "usernameLabel": "Username",
+            "passwordLabel": "Password",
+            "passwordMask": "********",
+            "defaultUsername": "Walang nakatakdang nickname",
+            "inviteTitle": "Invite Link",
+            "inviteDescription": "Kopyahin ang iyong personal na invite link. Kapag nag-sign up ang mga kaibigan at nag-activate ng membership, makakakuha ka ng mga reward.",
+            "emptyInviteLink": "Wala pang invite link"
+          },
+          "membership": {
+            "ariaLabel": "Membership",
+            "title": "Aking Membership",
+            "badgeAlt": "Badge ng membership",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Libreng User",
+            "activeVipName": "VIP Member",
+            "expirePrefix": "Mag-e-expire sa",
+            "emptyExpireDate": "Hindi pa naka-activate",
+            "activeStatus": "Aktibo",
+            "inactiveStatus": "Hindi pa naka-activate",
+            "compareTitle": "Ihambing ang mga Benepisyo ng Membership",
+            "compareHeaders": {
+              "feature": "Feature",
+              "normal": "Libre",
+              "month": "Buwanan",
+              "year": "Taunan",
+              "life": "Habang-buhay"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Buwanang Membership",
+                "subtitle": "Mainam para sa panandaliang paggamit",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/buwan",
+                "cta": "Magsimula",
+                "benefits": [
+                  "Mga pangunahing virtual camera features",
+                  "Virtual backgrounds at beautification",
+                  "Suporta sa multi-platform live streaming",
+                  "Standard updates"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Taunang Membership",
+                "subtitle": "Mas sulit para sa pangmatagalang paggamit",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/taon",
+                "cta": "Magsimula",
+                "benefits": [
+                  "Lahat ng benepisyo ng Monthly",
+                  "Lahat ng advanced features sa loob ng isang taon",
+                  "Priority feature updates",
+                  "Dedicated member support"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Habang-buhay na Membership",
+                "subtitle": "Magbayad nang isang beses, gamitin nang pangmatagalan",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/habang-buhay",
+                "cta": "Magsimula",
+                "benefits": [
+                  "Lahat ng benepisyo ng Yearly",
+                  "Advanced features magpakailanman",
+                  "Pangmatagalang updates",
+                  "Dedicated support channel"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Tagal ng membership",
+                "normal": "Libre magpakailanman",
+                "month": "30 araw",
+                "year": "365 araw",
+                "life": "Habang-buhay"
+              },
+              {
+                "feature": "Desktop virtual camera",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Custom virtual backgrounds",
+                "normal": "Isang set",
+                "month": "Walang limitasyon",
+                "year": "Walang limitasyon",
+                "life": "Walang limitasyon"
+              },
+              {
+                "feature": "Live streaming presets",
+                "normal": "cross",
+                "month": "Walang limitasyon",
+                "year": "Walang limitasyon",
+                "life": "Walang limitasyon"
+              },
+              {
+                "feature": "Official website assets",
+                "normal": "Limitado",
+                "month": "Walang limitasyon",
+                "year": "Walang limitasyon",
+                "life": "Walang limitasyon"
+              },
+              {
+                "feature": "Remote control via controller",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Live scene comparison mode",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene subtitles",
+                "normal": "Limitado",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene music",
+                "normal": "Limitado",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Multi-camera input",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Advanced beauty filters",
+                "normal": "Basic",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "AI smart green screen matting",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Dynamic motion trail animations",
+                "normal": "Limitado",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene camera motion effects",
+                "normal": "Limitado",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "VIP effects library",
+                "normal": "Limitado",
+                "month": "Walang limitasyon",
+                "year": "Walang limitasyon",
+                "life": "Walang limitasyon"
+              },
+              {
+                "feature": "Platform streaming",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "4K UHD output",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Promotion commission rate",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Referral rewards",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Support channel",
+                "normal": "Community self-service",
+                "month": "Standard queue",
+                "year": "Priority response",
+                "life": "Dedicated support"
+              },
+              {
+                "feature": "Early access to new features",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "I-redeem ang code",
+            "title": "I-redeem ang Code",
+            "tip": "Ilagay ang iyong membership redemption code. Ma-activate agad ang iyong mga benepisyo pagkatapos mag-redeem.",
+            "placeholder": "Ilagay ang redemption code",
+            "submitButton": "I-redeem Ngayon",
+            "agreementPrefix": "Sa pag-redeem, sumasang-ayon ka sa",
+            "userProtocolText": "Kasunduan ng User",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Nabigo ang pag-redeem. Pakisuri ang code at subukan muli."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Kasaysayan ng pagbili",
+            "title": "Kasaysayan ng Pagbili",
+            "tabTitle": "Mga Pagbili",
+            "exchangeTabTitle": "Mga Redemption",
+            "tableHeaders": {
+              "title": "Uri",
+              "date": "Petsa ng Pagbabayad",
+              "price": "Halaga",
+              "paymentMethod": "Paraan ng Pagbabayad",
+              "status": "Status",
+              "exchangeDate": "Petsa ng Redemption",
+              "exchangeCode": "Redemption Code"
+            },
+            "exchangeTableHeaders": {
+              "date": "Petsa ng Redemption",
+              "code": "Redemption Code"
+            },
+            "cardTypes": {
+              "month": "Buwanang Plano",
+              "year": "Taunang Plano",
+              "life": "Habang-buhay na Plano",
+              "default": "Membership"
+            },
+            "orderStatuses": {
+              "pending": "Nakabinbin",
+              "paid": "Bayad",
+              "closed": "Sarado",
+              "refunded": "Na-refund",
+              "unknown": "Hindi alam"
+            },
+            "secretLabels": {
+              "show": "Ipakita ang password",
+              "hide": "Itago ang password"
+            },
+            "secretMask": "******",
+            "emptyText": "Walang kasaysayan ng pagbili",
+            "exchangeEmptyText": "Walang kasaysayan ng redemption",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Bank card",
+              "creditcard": "Credit card",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Cryptocurrency",
+              "balance": "Balance",
+              "free": "Libre"
+            }
+          },
+          "team": {
+            "ariaLabel": "Aking team",
+            "title": "Aking Team",
+            "referrerLabel": "Ang Aking Referrer",
+            "levelOne": "Level 1 Members",
+            "levelTwo": "Level 2 Members",
+            "tableHeaders": {
+              "name": "Pangalan ng Miyembro",
+              "status": "Status ng Membership",
+              "joinedAt": "Sumali"
+            },
+            "memberStatus": {
+              "free": "Libreng User",
+              "vip": "VIP User"
+            },
+            "emptyMemberName": "Walang Pangalan na User",
+            "emptyReferrer": "Walang referrer",
+            "emptyTeam": "Wala pang team members",
+            "errors": {
+              "loadFail": "Nabigong i-load ang team members. Pakisubukan muli mamaya."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Mga kita",
+            "title": "Pangkalahatang Kita",
+            "commissionTitle": "Mga Detalye ng Komisyon",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Kabuuang Kita",
+                "desc": "Kabuuang komisyon na nakuha hanggang ngayon"
+              },
+              {
+                "key": "month",
+                "title": "Ngayong Buwan",
+                "desc": "Komisyon na nakuha ngayong buwan"
+              },
+              {
+                "key": "settling",
+                "title": "Nakabinbing Settlement",
+                "value": "0.00",
+                "desc": "Halagang naghihintay ng settlement"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Maaaring i-withdraw",
+                "desc": "Halagang kasalukuyang available para sa withdrawal",
+                "action": "I-withdraw"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Username",
+              "saleTime": "Oras ng Pagbebenta",
+              "goodsInfo": "Produkto",
+              "commission": "Komisyon"
+            },
+            "emptyCommission": "Walang mga tala ng komisyon",
+            "errors": {
+              "loadFail": "Nabigong i-load ang mga detalye ng komisyon. Pakisubukan muli mamaya."
+            },
+            "withdraw": {
+              "ariaLabel": "Kahilingan ng withdrawal",
+              "title": "Kahilingan ng Withdrawal",
+              "closeLabel": "Isara ang withdrawal dialog",
+              "balanceLabel": "Maaaring i-withdraw na Balanse",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Halaga ng Withdrawal",
+              "amountPlaceholder": "Ilagay ang halaga ng withdrawal",
+              "allButton": "Lahat",
+              "allAmountValue": "0.00",
+              "amountTip": "Pakisiguraduhing tama ang halaga. Ire-review nang manu-mano ang iyong kahilingan pagkatapos isumite.",
+              "methodLabel": "Paraan ng Withdrawal",
+              "methods": [
+                "Bank card",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Bank card",
+              "nameLabel": "Pangalan ng Recipient",
+              "namePlaceholder": "Ilagay ang pangalan ng recipient",
+              "defaultName": "",
+              "bankCardLabel": "Numero ng Account",
+              "bankCardPlaceholder": "Ilagay ang bank card number, PayPal email, o wallet address",
+              "remarkLabel": "Tandaan",
+              "remarkPlaceholder": "Opsyonal na karagdagang impormasyon",
+              "note": "Ang mga kahilingan ng withdrawal ay pinoproseso sa loob ng 1-3 business days.",
+              "cancelButton": "Kanselahin",
+              "submitButton": "Isumite ang Kahilingan"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Matagumpay ang pag-redeem",
+            "operationFailed": "Nabigo ang pag-redeem",
+            "invalidCard": "Hindi wastong redemption code",
+            "cardNotFound": "Hindi nahanap ang redemption code",
+            "cardDisabled": "Hindi pinagana ang redemption code",
+            "cardExpired": "Nag-expire ang redemption code"
+          },
+          "successMessage": "Matagumpay ang operasyon"
+        }
+      }
+    }
+  ]
+}

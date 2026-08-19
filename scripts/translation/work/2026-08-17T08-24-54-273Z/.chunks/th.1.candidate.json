@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "คำถามที่พบบ่อย VicastCam | ความช่วยเหลือสำหรับ Android และ iOS",
+    "description": "ค้นหาคำตอบสำหรับคำถามทั่วไปเกี่ยวกับ VicastCam สำหรับ Android และ iOS รวมถึงการตั้งค่าบัญชี สิทธิ์การเข้าถึงสื่อ การเชื่อมต่อเครือข่าย และปัญหาการสตรีมสด",
+    "imageAlt": "คำถามที่พบบ่อย VicastCam"
+  },
+  "hero": {
+    "eyebrow": "คำถามที่พบบ่อย",
+    "titleMain": "ความช่วยเหลือ VicastCam",
+    "titleHighlight": "ค้นหาคำตอบได้อย่างรวดเร็ว",
+    "description": "เลือกแพลตฟอร์มของคุณ (Android หรือ iOS) เพื่อดูคำถามทั่วไปและวิธีแก้ไขสำหรับอุปกรณ์ของคุณ"
+  },
+  "content": {
+    "sectionAriaLabel": "คำถามที่พบบ่อย",
+    "catalogAriaLabel": "หมวดหมู่คำถาม",
+    "answerLabel": "คำตอบ",
+    "questionProgressTemplate": "{group} · คำถามข้อที่ {current} จาก {total}"
+  }
+}

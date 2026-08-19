@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "مركز الحساب",
+    "description": "صفحة مركز الحساب في VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "تنقل الحساب",
+    "defaultProfileName": "مستخدم",
+    "emptyContent": "لا يوجد محتوى",
+    "copyButtonLabel": "نسخ",
+    "monthSelectLabel": "اختر الشهر",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "لم يتم العثور على معلومات المستخدم. يرجى تسجيل الدخول مرة أخرى.",
+    "paginationLabel": "ترقيم الصفحات",
+    "previousPageLabel": "الصفحة السابقة",
+    "nextPageLabel": "الصفحة التالية",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "الانتقال إلى",
+      "unit": "صفحة",
+      "ariaLabel": "الانتقال إلى صفحة محددة",
+      "buttonLabel": "انتقال"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "مركز الحساب",
+    "logout": "تسجيل الخروج",
+    "profileAriaSuffix": "قائمة الحساب"
+  },
+  "sidebar": {
+    "ariaLabel": "تنقل الحساب",
+    "menus": {
+      "account": "معلومات الحساب",
+      "membership": "العضوية",
+      "redeem": "استخدام رمز",
+      "purchaseHistory": "سجل المشتريات",
+      "team": "فريقي",
+      "earnings": "الأرباح"
+    }
+  },
+  "account": {
+    "ariaLabel": "معلومات الحساب",
+    "profileTitle": "معلومات الحساب",
+    "usernameLabel": "اسم المستخدم",
+    "passwordLabel": "كلمة المرور",
+    "passwordMask": "********",
+    "defaultUsername": "لم يتم تعيين اسم مستعار",
+    "emailLabel": "البريد الإلكتروني المرتبط",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "codePlaceholder": "أدخل رمز التحقق",
+    "sendCodeButton": "الحصول على الرمز",
+    "bindButton": "ربط البريد الإلكتروني",
+    "alreadyBound": "مرتبط",
+    "unboundEmail": "غير مرتبط",
+    "emailBindTip": "بمجرد الربط، لا يمكن تغيير البريد الإلكتروني. يرجى التأكد من صحة عنوان البريد الإلكتروني.",
+    "emailRequired": "يرجى إدخال بريد إلكتروني صحيح",
+    "codeRequired": "يرجى إدخال رمز التحقق",
+    "codeSent": "تم إرسال رمز التحقق. تحقق من بريدك الإلكتروني.",
+    "bindSuccess": "تم ربط البريد الإلكتروني بنجاح",
+    "bindFailed": "فشل ربط البريد الإلكتروني. تحقق من الرمز وحاول مرة أخرى.",
+    "requestFailed": "فشل الطلب. يرجى المحاولة لاحقًا.",
+    "inviteTitle": "رابط الدعوة",
+    "inviteDescription": "انسخ رابط الدعوة الشخصي الخاص بك. عندما يسجل الأصدقاء ويشترون عضوية، ستحصل على مكافآت.",
+    "emptyInviteLink": "لا يتوفر رابط دعوة"
+  }
+}

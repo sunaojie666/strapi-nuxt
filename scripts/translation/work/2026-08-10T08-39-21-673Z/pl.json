@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "pl",
+        "features_section": {
+          "title_tag": "Funkcje",
+          "title_main": "Kompletne rozwiązanie do transmisji na żywo",
+          "title_highlight": "dla profesjonalnych nadawców mobilnych",
+          "description": "Zintegruj kluczowe funkcje transmisji na żywo, aby tworzyć angażujące sceny w dowolnym miejscu i zapewnić profesjonalny obraz."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Screen casting i wirtualna kamera",
+            "desc": "Wykonaj screen casting ekranu telefonu na komputer i korzystaj z technologii wirtualnej kamery, aby tworzyć profesjonalne transmisje na żywo."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Obsługa wielu kamer",
+            "desc": "Przełączaj się między wieloma kamerami jednym dotknięciem podczas transmisji, aby uzyskać bogatsze perspektywy."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "Efekty 2D/3D",
+            "desc": "Dodawaj efektowne warstwy 2D/3D, aby stworzyć dynamiczny i angażujący pokój na żywo."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Multi-platform streaming",
+            "desc": "Streamuj na YouTube, Twitch, TikTok, Facebook Live i inne."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Wirtualny kontroler",
+            "desc": "Steruj transmisją zdalnie z dowolnego urządzenia: przełączaj sceny, wyciszaj dźwięk i dostosowuj efekty w czasie rzeczywistym."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Jednoczesny multi-platform streaming",
+            "desc": "Nadawaj na żywo jednocześnie na TikTok, YouTube, Twitch i Instagram z poziomu komputera."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Mobilne efekty zielonego ekranu i screen casting",
+      "top_badge": "Narzędzie do transmisji na żywo oparte na AI",
+      "hero_subtitle": "Napędzamy globalny ekosystem transmisji na żywo",
+      "hero_description_1": "VicastCam wykorzystuje zaawansowane AI matting, umożliwiając płynną zmianę wirtualnych tłów podczas transmisji, co zapewnia",
+      "hero_description_2": "wciągające doświadczenie podnoszące Twój profesjonalny wizerunek.",
+      "user_count_label": "Użytkownicy na świecie",
+      "rating_label": "Ocena w App Store",
+      "download_count_label": "Pobrania na świecie",
+      "app_store_url": "Pobierz z App Store",
+      "google_play_url": "Pobierz na Androida",
+      "desktop_client_url": "Pobierz na komputer",
+      "request_success": "Żądanie zakończone sukcesem",
+      "request_fail": "Żądanie nie powiodło się",
+      "request_loading": "Ładowanie"
+    }
+  ]
+}

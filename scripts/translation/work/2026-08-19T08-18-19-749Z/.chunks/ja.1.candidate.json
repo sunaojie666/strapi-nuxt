@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "アカウントセンター",
+    "description": "VicastCam アカウントセンターのページ"
+  },
+  "common": {
+    "sidebarAriaLabel": "アカウントナビゲーション",
+    "defaultProfileName": "ユーザー",
+    "emptyContent": "コンテンツがありません",
+    "copyButtonLabel": "コピー",
+    "monthSelectLabel": "月を選択",
+    "yearSuffix": "年",
+    "monthSuffix": "月",
+    "userMissing": "ユーザー情報が見つかりません。再度ログインしてください。",
+    "paginationLabel": "ページネーション",
+    "previousPageLabel": "前のページ",
+    "nextPageLabel": "次のページ",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "移動",
+      "unit": "ページ",
+      "ariaLabel": "特定のページに移動",
+      "buttonLabel": "移動"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "アカウントセンター",
+    "logout": "ログアウト",
+    "profileAriaSuffix": "アカウントメニュー"
+  },
+  "sidebar": {
+    "ariaLabel": "アカウントナビゲーション",
+    "menus": {
+      "account": "アカウント情報",
+      "membership": "メンバーシップ",
+      "redeem": "コード利用",
+      "purchaseHistory": "購入履歴",
+      "team": "マイチーム",
+      "earnings": "収益"
+    }
+  },
+  "account": {
+    "ariaLabel": "アカウント情報",
+    "profileTitle": "アカウント情報",
+    "usernameLabel": "ユーザー名",
+    "passwordLabel": "パスワード",
+    "passwordMask": "********",
+    "defaultUsername": "ニックネーム未設定",
+    "emailLabel": "連携メール",
+    "emailPlaceholder": "メールアドレスを入力",
+    "codePlaceholder": "認証コードを入力",
+    "sendCodeButton": "コードを取得",
+    "bindButton": "メールを連携",
+    "alreadyBound": "連携済み",
+    "unboundEmail": "未連携",
+    "emailBindTip": "連携後、メールアドレスは変更できません。メールアドレスが正しいことを確認してください。",
+    "emailRequired": "有効なメールアドレスを入力してください",
+    "codeRequired": "認証コードを入力してください",
+    "codeSent": "認証コードを送信しました。メールをご確認ください。",
+    "bindSuccess": "メールを連携しました",
+    "bindFailed": "メールの連携に失敗しました。コードを確認してもう一度お試しください。",
+    "requestFailed": "リクエストに失敗しました。後でもう一度お試しください。",
+    "inviteTitle": "招待リンク",
+    "inviteDescription": "個人の招待リンクをコピーして、友達が登録してメンバーシップを購入すると、報酬が得られます。",
+    "emptyInviteLink": "招待リンクがありません"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "購入履歴",
+    "title": "購入履歴",
+    "tabTitle": "購入",
+    "exchangeTabTitle": "交換",
+    "tableHeaders": {
+      "title": "種別",
+      "date": "支払い日時",
+      "price": "金額",
+      "paymentMethod": "支払い方法",
+      "status": "ステータス",
+      "exchangeDate": "交換日時",
+      "exchangeCode": "交換コード"
+    },
+    "exchangeTableHeaders": {
+      "date": "交換日時",
+      "code": "交換コード"
+    },
+    "cardTypes": {
+      "month": "月額カード",
+      "year": "年額カード",
+      "life": "永久カード",
+      "default": "メンバーシップカード"
+    },
+    "orderStatuses": {
+      "pending": "支払い待ち",
+      "paid": "支払い済み",
+      "closed": "クローズ",
+      "refunded": "返金済み",
+      "unknown": "不明"
+    },
+    "secretLabels": {
+      "show": "パスワードを表示",
+      "hide": "パスワードを隠す"
+    },
+    "secretMask": "******",
+    "emptyText": "購入記録はまだありません",
+    "exchangeEmptyText": "交換記録はまだありません",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "銀行カード",
+      "creditcard": "クレジットカード",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "暗号通貨",
+      "balance": "残高",
+      "free": "無料"
+    }
+  },
+  "team": {
+    "ariaLabel": "マイチーム",
+    "title": "マイチーム",
+    "referrerLabel": "紹介者",
+    "levelOne": "1級メンバー",
+    "levelTwo": "2級メンバー",
+    "tableHeaders": {
+      "name": "メンバー名",
+      "status": "メンバーシップステータス",
+      "joinedAt": "参加日時"
+    },
+    "memberStatus": {
+      "free": "無料ユーザー",
+      "vip": "VIPユーザー"
+    },
+    "emptyMemberName": "名前のないユーザー",
+    "emptyReferrer": "紹介者なし",
+    "emptyTeam": "チームメンバーはまだいません",
+    "errors": {
+      "loadFail": "チームメンバーの読み込みに失敗しました。後でもう一度お試しください。"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "収益センター",
+    "title": "収益概要",
+    "commissionTitle": "コミッション詳細",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "総収益",
+        "desc": "これまでの累計コミッション"
+      },
+      {
+        "key": "month",
+        "title": "今月",
+        "desc": "今月のコミッション"
+      },
+      {
+        "key": "settling",
+        "title": "未決済",
+        "value": "0.00",
+        "desc": "未決済の金額"
+      },
+      {
+        "key": "withdrawable",
+        "title": "引き出し可能",
+        "desc": "現在引き出し可能な金額",
+        "action": "引き出す"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "ユーザー名",
+      "saleTime": "販売日時",
+      "goodsInfo": "商品",
+      "commission": "コミッション"
+    },
+    "emptyCommission": "コミッション記録はまだありません",
+    "errors": {
+      "loadFail": "コミッション詳細の読み込みに失敗しました。後でもう一度お試しください。"
+    },
+    "withdraw": {
+      "ariaLabel": "引き出し申請",
+      "title": "引き出し申請",
+      "closeLabel": "引き出しダイアログを閉じる",
+      "balanceLabel": "引き出し可能残高",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "引き出し金額",
+      "amountPlaceholder": "引き出し金額を入力",
+      "allButton": "すべて",
+      "allAmountValue": "0.00",
+      "amountTip": "金額が正しいことを確認してください。送信後、申請は手動で審査されます。",
+      "methodLabel": "引き出し方法",
+      "methods": [
+        "銀行カード",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "銀行カード",
+      "nameLabel": "受取人名",
+      "namePlaceholder": "受取人名を入力",
+      "defaultName": "",
+      "bankCardLabel": "口座番号",
+      "bankCardPlaceholder": "銀行カード番号、PayPalメール、またはウォレットアドレスを入力",
+      "remarkLabel": "備考",
+      "remarkPlaceholder": "追加のメモがあれば入力",
+      "note": "引き出し申請は1〜3営業日以内に処理されます。",
+      "cancelButton": "キャンセル",
+      "submitButton": "申請を送信"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "交換に成功しました",
+    "operationFailed": "交換に失敗しました",
+    "invalidCard": "無効な交換コードです",
+    "cardNotFound": "交換コードが見つかりません",
+    "cardDisabled": "交換コードは無効です",
+    "cardExpired": "交換コードの有効期限が切れています"
+  },
+  "successMessage": "操作に成功しました"
+}

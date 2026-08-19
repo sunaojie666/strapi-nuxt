@@ -1,0 +1,146 @@
+{
+  "__chunk": [
+    {
+      "key": "ios",
+      "title": "iOS Tutorials",
+      "count": "6 questions",
+      "icon": "lucide:apple",
+      "questions": [
+        {
+          "id": "ios-media-size",
+          "title": "What are the recommended media sizes for live streaming?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Recommended media sizes for live streaming:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "For live stream backgrounds, we recommend images at 1080 x 1920 pixels and videos at 1080 x 1920 pixels.",
+                "Important: Full-screen overlays must use a 9:16 aspect ratio to ensure they align perfectly when switching between full-screen and 9:16 modes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-delete-account",
+          "title": "How do I delete my account?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Log in to the VicastCam app, then go to [Account - Top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+            },
+            {
+              "type": "heading",
+              "text": "Account Information"
+            },
+            {
+              "type": "paragraph",
+              "text": "Once your account is deleted, we will permanently remove your linked email, device records, and other identity information. We will also revoke third-party login authorizations via Google and Apple. After revocation, you will no longer be able to log in quickly using those third-party accounts; if you wish to use them again, you will need to re-authorize."
+            },
+            {
+              "type": "heading",
+              "text": "Content and Media"
+            },
+            {
+              "type": "list",
+              "items": [
+                "All live stream media, videos, images, and project files are stored only on your device. The platform does not retain any creative content in the cloud. After deletion, the app's media management features will no longer work, so please back up your content in advance using the 'Export Media' feature.",
+                "If you uninstall and reinstall the app, or switch devices without exporting a backup first, your media will be permanently unrecoverable."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Membership Benefits"
+            },
+            {
+              "type": "paragraph",
+              "text": "Your membership benefits will end immediately upon account deletion. Because subscriptions are managed by Apple, the platform cannot process refunds directly. To request a refund, please submit a request through Apple's official channels (App Store purchase history). Before deleting your account, be sure to manually cancel any auto-renewing subscriptions to avoid future charges."
+            },
+            {
+              "type": "paragraph",
+              "text": "If you have any questions, please contact our support team."
+            }
+          ]
+        },
+        {
+          "id": "ios-media-permission",
+          "title": "Why can't I access my phone's media when adding images or videos?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "If your photo library appears empty when adding media, open your iPhone's Settings, scroll down to find VicastCam, and tap [Photos - All Photos] to enable access."
+            }
+          ]
+        },
+        {
+          "id": "ios-screen-incomplete",
+          "title": "What should I do if the display is cut off when streaming from my computer?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "If the display is incomplete when streaming from your phone via a streaming companion or other software, follow these steps:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Open VicastCam, tap the camera icon at the bottom to enter the live page, then go to [Right menu - More Settings - Aspect Ratio - 9:16].",
+                "After casting to the streaming companion, first scale to fit, then drag the image up or down to fill the screen."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: Adjust the aspect ratio before adding media and before starting your stream."
+            }
+          ]
+        },
+        {
+          "id": "ios-network-failed",
+          "title": "What should I do if a network request fails?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "If you encounter network request failures, try the following:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Open your phone's Settings, go to [Permissions - VicastCam - Mobile Data & Wi-Fi] and turn on network access.",
+                "Turn off power-saving mode and any background restrictions.",
+                "Switch networks, restart your phone, toggle airplane mode, or update the app.",
+                "If the issue persists, take a screenshot of the error and contact our support team."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-asset-black-screen",
+          "title": "Why do overlays from online media flicker or go black during a live stream?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "If overlays from online media flicker or go black during a live stream, here's what you can do:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Download and preview any media or overlays you plan to use before going live to ensure they work properly.",
+                "Some built-in media is stored on servers. Download it before your stream so it's ready to use without loading during the broadcast.",
+                "Loading media mid-stream consumes streaming resources, memory, and performance, which can cause lag. On lower-end devices, it may even cause crashes or black screens."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Important"
+            },
+            {
+              "type": "paragraph",
+              "text": "Plan and rehearse your stream in advance. Practice each segment to ensure everything runs smoothly before going live. Take every stream seriously, and you'll get the best results."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

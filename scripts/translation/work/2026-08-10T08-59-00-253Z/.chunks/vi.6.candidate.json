@@ -1,0 +1,146 @@
+{
+  "__chunk": [
+    {
+      "key": "ios",
+      "title": "Hướng dẫn iOS",
+      "count": "6 câu hỏi",
+      "icon": "lucide:apple",
+      "questions": [
+        {
+          "id": "ios-media-size",
+          "title": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp là gì?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Kích thước phương tiện được khuyến nghị khi phát trực tiếp:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Đối với hình nền phát trực tiếp, chúng tôi khuyên dùng hình ảnh 1080 x 1920 pixel và video 1080 x 1920 pixel.",
+                "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo chúng khớp hoàn hảo khi chuyển đổi giữa chế độ toàn màn hình và 9:16."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-delete-account",
+          "title": "Làm cách nào để xóa tài khoản của tôi?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - Biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+            },
+            {
+              "type": "heading",
+              "text": "Thông tin tài khoản"
+            },
+            {
+              "type": "paragraph",
+              "text": "Khi tài khoản của bạn bị xóa, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và các thông tin nhận dạng khác của bạn. Chúng tôi cũng sẽ thu hồi ủy quyền đăng nhập của bên thứ ba qua Google và Apple. Sau khi thu hồi, bạn sẽ không thể đăng nhập nhanh bằng các tài khoản bên thứ ba đó; nếu muốn sử dụng lại, bạn cần cấp quyền lại."
+            },
+            {
+              "type": "heading",
+              "text": "Nội dung và phương tiện"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tất cả phương tiện phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn. Nền tảng không lưu giữ bất kỳ nội dung sáng tạo nào trên đám mây. Sau khi xóa, các tính năng quản lý phương tiện của ứng dụng sẽ không còn hoạt động, vì vậy vui lòng sao lưu nội dung của bạn trước bằng tính năng 'Xuất phương tiện'.",
+                "Nếu bạn gỡ cài đặt và cài đặt lại ứng dụng hoặc chuyển thiết bị mà không xuất bản sao lưu trước, phương tiện của bạn sẽ không thể khôi phục vĩnh viễn."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Quyền lợi thành viên"
+            },
+            {
+              "type": "paragraph",
+              "text": "Quyền lợi thành viên của bạn sẽ kết thúc ngay khi xóa tài khoản. Vì đăng ký do Apple quản lý, nền tảng không thể xử lý hoàn tiền trực tiếp. Để yêu cầu hoàn tiền, vui lòng gửi yêu cầu qua các kênh chính thức của Apple (lịch sử mua hàng trên App Store). Trước khi xóa tài khoản, hãy đảm bảo hủy thủ công mọi đăng ký tự gia hạn để tránh bị tính phí trong tương lai."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nếu bạn có thắc mắc, vui lòng liên hệ với nhóm hỗ trợ của chúng tôi."
+            }
+          ]
+        },
+        {
+          "id": "ios-media-permission",
+          "title": "Tại sao tôi không thể truy cập phương tiện trên điện thoại khi thêm hình ảnh hoặc video?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nếu thư viện ảnh của bạn trống khi thêm phương tiện, hãy mở Cài đặt trên iPhone, cuộn xuống để tìm VicastCam và chạm vào [Ảnh - Tất cả ảnh] để bật quyền truy cập."
+            }
+          ]
+        },
+        {
+          "id": "ios-screen-incomplete",
+          "title": "Tôi nên làm gì nếu màn hình bị cắt khi phát trực tiếp từ máy tính?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nếu màn hình không đầy đủ khi phát trực tiếp từ điện thoại qua ứng dụng phụ trợ phát trực tiếp hoặc phần mềm khác, hãy làm theo các bước sau:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Mở VicastCam, chạm vào biểu tượng camera ở cuối màn hình để vào trang phát trực tiếp, sau đó đi tới [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+                "Sau khi truyền tới ứng dụng phụ trợ, trước tiên hãy thu nhỏ để vừa khung hình, sau đó kéo hình ảnh lên hoặc xuống để lấp đầy màn hình."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Lưu ý: Điều chỉnh tỷ lệ khung hình trước khi thêm phương tiện và trước khi bắt đầu phát trực tiếp."
+            }
+          ]
+        },
+        {
+          "id": "ios-network-failed",
+          "title": "Tôi nên làm gì nếu yêu cầu mạng thất bại?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Mở Cài đặt trên điện thoại, đi tới [Quyền - VicastCam - Dữ liệu di động & Wi-Fi] và bật quyền truy cập mạng.",
+                "Tắt chế độ tiết kiệm pin và mọi hạn chế nền.",
+                "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng.",
+                "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ với nhóm hỗ trợ của chúng tôi."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ios-asset-black-screen",
+          "title": "Tại sao lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen trong khi phát trực tiếp?",
+          "answer": [
+            {
+              "type": "paragraph",
+              "text": "Nếu lớp phủ từ phương tiện trực tuyến bị nhấp nháy hoặc chuyển sang màu đen trong khi phát trực tiếp, đây là những gì bạn có thể làm:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tải xuống và xem trước mọi phương tiện hoặc lớp phủ bạn định sử dụng trước khi phát trực tiếp để đảm bảo chúng hoạt động bình thường.",
+                "Một số phương tiện tích hợp được lưu trữ trên máy chủ. Hãy tải xuống trước khi phát trực tiếp để sẵn sàng sử dụng mà không cần tải trong khi phát sóng.",
+                "Tải phương tiện trong khi phát trực tiếp tiêu tốn tài nguyên phát trực tiếp, bộ nhớ và hiệu suất, có thể gây lag. Trên các thiết bị cấu hình thấp, nó thậm chí có thể gây sự cố hoặc màn hình đen."
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Quan trọng"
+            },
+            {
+              "type": "paragraph",
+              "text": "Lên kế hoạch và diễn tập trước buổi phát trực tiếp của bạn. Thực hành từng phân đoạn để đảm bảo mọi thứ diễn ra suôn sẻ trước khi phát sóng. Hãy coi trọng mọi buổi phát trực tiếp và bạn sẽ đạt được kết quả tốt nhất."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

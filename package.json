@@ -10,6 +10,7 @@
     "dev": "strapi develop",
     "develop": "strapi develop",
     "start": "strapi start",
+    "translate:content": "node scripts/translation/run-content-translation.mjs",
     "strapi": "strapi",
     "upgrade": "npx @strapi/upgrade latest",
     "upgrade:dry": "npx @strapi/upgrade latest --dry"

@@ -1,0 +1,206 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "O VicastCam",
+          "titleMain": "Zespół odpowiedzialny za mobilny green screen i przesyłanie ekranu",
+          "titleHighlight": "",
+          "description": "Koncentrujemy się na mobilnym obrazowaniu, wirtualnej kamerze, współpracy przy przesyłaniu ekranu i łączności z wieloma platformami do transmisji na żywo, pomagając twórcom, edukatorom i firmom zamienić telefony w stabilne, wyraźne i łatwe do integracji profesjonalne narzędzia do transmisji na żywo.",
+          "primaryButtonText": "Skontaktuj się z działem sprzedaży",
+          "secondaryButtonText": "Zobacz SDK"
+        },
+        "innovation": {
+          "sectionTag": "Kluczowe atuty",
+          "titleMain": "Skupieni na innowacjach",
+          "titleHighlight": "Napędzamy przyszłość transmisji na żywo",
+          "description": "Od narzędzi mobilnych po możliwości platformy, VicastCam rozwija się na coraz większej liczbie urządzeń, platform i scenariuszy transmisji na żywo.",
+          "featureTag": "Kluczowe możliwości",
+          "featureTitle": "Globalne transmisje na żywo, którym ufa branża",
+          "featureDescription": "Nieustannie udoskonalamy doświadczenie produktu wokół mobilnych transmisji na żywo, wirtualnego obrazowania, współpracy przy przesyłaniu ekranu i łączności międzyplatformowej, przekształcając narzędzia do transmisji na żywo z pojedynczych funkcji w stabilne, integrowalne przepływy pracy.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Kraje i regiony",
+              "text": "Obsługujemy twórców i zespoły na całym świecie"
+            },
+            {
+              "value": "2000+",
+              "label": "Zgodne platformy",
+              "text": "Pokrywamy główne scenariusze transmisji na żywo, spotkań i treści"
+            },
+            {
+              "value": "500000+",
+              "label": "Łączna liczba użyć",
+              "text": "Stabilność i łatwość obsługi potwierdzane ciągłym użytkowaniem"
+            },
+            {
+              "value": "99.9%",
+              "label": "Dostępność",
+              "text": "Zapewniamy niezawodne przepływy pracy transmisji na żywo"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Plan rozwoju",
+          "titleMain": "Ciągły rozwój",
+          "titleHighlight": "Wokół globalnego ekosystemu transmisji na żywo",
+          "description": "Od narzędzi do transmisji na żywo po możliwości platformy, VicastCam rozwija się na coraz większej liczbie urządzeń, platform i scenariuszy transmisji na żywo.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Pogłębienie koncentracji na urządzeniach mobilnych i udoskonalenie podstawowych efektów green screenu",
+              "text": "Skupiliśmy się na podstawowych możliwościach mobilnych wirtualnych transmisji na żywo, wprowadzając ciągłe iteracje i optymalizując algorytmy wycinania tła green screen, aby rozwiązać problemy takie jak zniekształcenia krawędzi, słaba adaptacja do oświetlenia i opóźnienia przy wielu nakładkach. Ukończyliśmy pełen zestaw efektów wirtualnych, w tym naklejki, wymianę tła i zasłanianie pierwszego planu, ustanawiając lekkie podstawy mobilnych wirtualnych transmisji na żywo. Wystarczy telefon, aby twórcy mogli osiągnąć profesjonalne transmisje na żywo z green screenem."
+            },
+            {
+              "year": "2024",
+              "title": "Integracja przesyłania ekranu, rozwijanie podstawowej technologii wirtualnej kamery",
+              "text": "Rozszerzyliśmy łączność między urządzeniami, koncentrując się na przesyłaniu ekranu telefonu w wysokiej rozdzielczości i zsynchronizowanej transmisji między urządzeniami. Niezależnie opracowaliśmy uniwersalny sterownik wirtualnej kamery do przechwytywania i wyjścia w globalnym oprogramowaniu, umożliwiając kompatybilność z oprogramowaniem do transmisji na żywo, narzędziami do edycji i spotkaniami online. Zlikwidowaliśmy lukę między urządzeniami mobilnymi a komputerami stacjonarnymi, umożliwiając przesyłanie treści z telefonu na PC jednym dotknięciem i wielokanałowe pozycje wirtualnej kamery, wzbogacając produkcję transmisji na żywo."
+            },
+            {
+              "year": "2025",
+              "title": "Wprowadzenie profesjonalnego asystenta transmisji na żywo 3D na PC",
+              "text": "Dostarczyliśmy profesjonalną linię produktów do transmisji na żywo na komputery stacjonarne z kompletnym asystentem wirtualnych transmisji na żywo 3D. Wyposażony w wirtualne sceny 3D, sterowanie cyfrowym awatarem, przełączanie wielu kamer oraz oświetlenie i renderowanie w czasie rzeczywistym, służy komercyjnym transmisjom na żywo, wirtualnym prezentacjom w showroomach i transmisjom e-commerce na dużych ekranach. Udoskonaliliśmy wielowarstwowe komponowanie, napisy w czasie rzeczywistym i elementy interaktywne, aby sprostać potrzebom zespołów realizujących duże, wysokiej jakości profesjonalne transmisje na żywo."
+            },
+            {
+              "year": "2026",
+              "title": "Globalna ekspansja, budowa kompletnego ekosystemu transmisji na żywo",
+              "text": "Kompleksowo rozszerzyliśmy działalność na transmisje na żywo za granicą, dostosowując się do głównych platform zagranicznych do streamingu, transmisji o niskim opóźnieniu w sieciach międzynarodowych i wielojęzycznej lokalizacji. Zintegrowaliśmy trzy podstawowe produkty z poprzednich lat: mobilny green screen, wirtualną kamerę do przesyłania ekranu i transmisje na żywo 3D na PC, łącząc trzy linie biznesowe: indywidualnych twórców, komercyjne zastosowania dla firm i integrację SDK dla programistów. Ujednoliciliśmy sprzęt, oprogramowanie, wiele terminali oraz usługi krajowe i międzynarodowe, tworząc pełny łańcuch ekosystemu transmisji na żywo od produkcji, przez interoperacyjność między urządzeniami, po globalną dystrybucję."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Obserwuj nas",
+          "titleMain": "Skontaktuj się z nami",
+          "titleHighlight": "i kształtuj przyszłość transmisji na żywo",
+          "description": "Śledź nasze aktualizacje produktów, wskazówki dotyczące transmisji na żywo i inne nowości",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "Konto YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "Konto YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "Konto YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "Konto YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "Konto YouTube",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "O nas",
+          "description": "Poznaj zespół VicastCam, misję produktu i możliwości w zakresie wirtualnej kamery, ulepszania transmisji na żywo za pomocą AI i transmisji międzyplatformowych."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Centrum pobierania",
+            "title": "Pobierz VicastCam"
+          },
+          "platform": {
+            "title": "Wybierz swoją platformę",
+            "description": "VicastCam obsługuje systemy Windows, iOS i Android. Rozpocznij profesjonalne transmisje na żywo.",
+            "versionLabel": "Wersja",
+            "updatedAtLabel": "Zaktualizowano",
+            "sizeLabel": "Rozmiar pakietu",
+            "downloadAriaSuffix": "Pobierz",
+            "closeQrAriaPrefix": "Zamknij",
+            "closeQrAriaSuffix": "Kod QR pobierania",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Obsługuje Androida 8.0 i nowsze",
+                "actionLabel": "Pobierz teraz",
+                "qrTitle": "Zeskanuj, aby pobrać wersję na Androida",
+                "qrDescription": "Zeskanuj telefonem, aby pobrać"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Obsługuje system iOS 13.0 i nowsze",
+                "actionLabel": "App Store",
+                "qrTitle": "Zeskanuj, aby przejść do App Store",
+                "qrDescription": "Zeskanuj telefonem, aby pobrać wersję na iOS"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Zgodny z systemem Windows 10 i nowszymi",
+                "actionLabel": "Pobierz teraz",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Dlaczego warto wybrać VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Bezpieczny i niezawodny",
+                "text": "Wiele mechanizmów bezpieczeństwa chroni Twoje dane i konto."
+              },
+              {
+                "key": "updates",
+                "title": "Ciągłe aktualizacje",
+                "text": "Stale ulepszamy produkt, aby zapewnić bardziej stabilne doświadczenie."
+              },
+              {
+                "key": "support",
+                "title": "Profesjonalne wsparcie",
+                "text": "Całodobowe wsparcie techniczne z szybkim reagowaniem na Twoje problemy."
+              },
+              {
+                "key": "tutorial",
+                "title": "Samouczki wideo",
+                "text": "Szczegółowe samouczki wideo i przewodniki po funkcjach, które pomogą Ci szybko rozpocząć pracę."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Centrum pobierania",
+            "description": "Pobierz klienta VicastCam na systemy Windows, iOS i Android."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Berapa ukuran yang disarankan untuk aset live streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Ukuran yang disarankan untuk aset live streaming:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Untuk gambar latar live streaming, kami menyarankan 1080 x 1920 piksel; untuk video, kami juga menyarankan 1080 x 1920 piksel.",
+            "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar peralihan antara mode layar penuh dan 9:16 berjalan mulus tanpa pergeseran, sehingga hasilnya pas sempurna."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Mode output apa saja yang didukung untuk streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Streaming mendukung dua mode output: streaming 9:16 dan streaming layar penuh. Ikuti langkah-langkah berikut untuk memilih salah satunya di perangkat Android Anda:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Ikon menu di sisi kanan halaman live streaming Android",
+          "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Di Pengaturan Lainnya, temukan 'Rasio Aspek' dan pilih 'Layar Penuh' atau '9:16' sesuai kebutuhan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Opsi rasio aspek di Pengaturan Lainnya di Android",
+          "caption": "Langkah 2: Di 'Rasio Aspek', pilih 'Layar Penuh' atau '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Penjelasan kedua mode"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming 9:16: Rasio aspek output ditetapkan pada 9:16, sehingga platform live menerima gambar 9:16.",
+            "Streaming layar penuh: Menyiarkan seluruh layar ponsel apa adanya, mempertahankan konten asli tanpa memotong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Bagaimana cara menghapus akun saya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Silakan masuk ke aplikasi VicastCam, lalu buka [Akun - ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+        },
+        {
+          "type": "heading",
+          "text": "Informasi akun"
+        },
+        {
+          "type": "paragraph",
+          "text": "Setelah akun dihapus, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya, serta mencabut otorisasi login pihak ketiga melalui akun Google dan Apple. Setelah pencabutan, Anda tidak akan dapat lagi menggunakan akun pihak ketiga tersebut untuk login cepat; untuk menggunakan aplikasi lagi, Anda perlu memberikan otorisasi ulang dan menautkan ulang."
+        },
+        {
+          "type": "heading",
+          "text": "Konten dan aset"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Semua aset live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda; cloud tidak menyimpan aset kreatif apa pun. Setelah penghapusan, fitur manajemen aset di aplikasi tidak akan berfungsi lagi, jadi harap cadangkan aset Anda terlebih dahulu melalui 'Ekspor Aset'.",
+            "Jika Anda menghapus instalasi dan menginstal ulang, mengganti perangkat, atau gagal mengekspor cadangan sebelumnya, aset Anda tidak akan dapat dipulihkan secara permanen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Manfaat keanggotaan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Setelah akun dihapus, manfaat keanggotaan Anda akan berakhir segera. Jika Anda memiliki langganan Google Play aktif, menghapus akun aplikasi tidak akan membatalkan langganan secara otomatis, dan Anda mungkin akan terus dikenakan biaya. Silakan buka 'Pembayaran & langganan - Langganan' di Google Play untuk membatalkan secara manual."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan pelanggan kami."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Mengapa saya tidak bisa mengakses foto dan video di ponsel saat menambahkannya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika album foto Anda tampak kosong saat menambahkan aset, Anda dapat mengaktifkan izin akses foto sebagai berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Buka Pengaturan ponsel Anda, gulir ke bawah untuk menemukan VicastCam, ketuk [Foto - Semua Foto] untuk mengaktifkan akses.",
+            "Android: Buka Pengaturan ponsel Anda, temukan VicastCam di [Manajemen Izin] atau [Manajemen Aplikasi], lalu ketuk [Manajemen Izin - Foto - Semua Foto] untuk mengaktifkan akses.",
+            "Jika masalah berlanjut, coba hapus instalasi dan instal ulang aplikasi, atau hubungi dukungan online melalui fitur umpan balik."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Apa yang harus saya lakukan jika layar tidak tampil penuh saat streaming dari komputer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika layar tampak tidak lengkap saat streaming dari ponsel melalui aplikasi pendamping live streaming atau perangkat lunak lain, ikuti langkah-langkah berikut untuk menyesuaikan:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live streaming, lalu buka [Menu sisi kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+            "Setelah melakukan casting ke pendamping live streaming, pertama-tama sesuaikan layar dengan kanvas, lalu seret secara vertikal untuk mengisi layar."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Catatan: Sebelum memulai streaming, sesuaikan rasio aspek terlebih dahulu, lalu tambahkan aset Anda."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Apa yang harus saya lakukan jika permintaan jaringan gagal?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka Pengaturan ponsel Anda, buka [Manajemen Izin - VicastCam - Data Seluler dan Wi-Fi] dan aktifkan akses jaringan.",
+            "Matikan mode hemat daya dan batasan latar belakang apa pun di ponsel Anda.",
+            "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi ke versi terbaru.",
+            "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi dukungan pelanggan untuk bantuan."
+          ]
+        }
+      ]
+    }
+  ]
+}

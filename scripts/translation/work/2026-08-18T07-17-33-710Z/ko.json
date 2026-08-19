@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "결제 수단 선택",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "PayPal 잔액, 은행 카드 또는 신용 카드로 결제하세요",
+            "secureBadge": "안전한 결제",
+            "methodLabel": "결제 수단",
+            "accountLabel": "현재 계정",
+            "signInRequired": "구매를 계속하려면 로그인하세요",
+            "signInAction": "로그인",
+            "summaryHint": "PayPal 버튼을 클릭하여 결제를 완료하세요",
+            "trustItems": [
+              "결제는 PayPal에 의해 안전하게 처리됩니다",
+              "PayPal 잔액, 은행 카드, 신용 카드를 지원합니다",
+              "결제 성공 후 멤버십 혜택이 자동으로 활성화됩니다"
+            ],
+            "buttonPay": "PayPal로 결제",
+            "buttonPending": "주문 대기 중",
+            "buttonCreating": "주문 생성 중...",
+            "sdkLoading": "PayPal 불러오는 중...",
+            "sdkError": "PayPal을 불러오지 못했습니다. 네트워크를 확인하고 다시 시도하세요.",
+            "sdkIneligible": "이 환경에서는 PayPal 결제가 지원되지 않습니다",
+            "sdkMissingConfig": "PayPal이 구성되지 않았습니다. 관리자에게 문의하세요.",
+            "orderCreating": "결제 주문 생성 중...",
+            "orderCreateFailed": "주문 생성에 실패했습니다. 다시 시도하세요.",
+            "orderProcessing": "결제 결과를 확인하는 중입니다. 잠시 후 다시 확인해 주세요.",
+            "orderSuccess": "결제가 완료되었습니다. 멤버십 혜택이 활성화되었습니다.",
+            "orderFailed": "결제가 완료되지 않았습니다. 다시 시도하세요.",
+            "orderPending": "결제가 완료되지 않았습니다. 결제를 완료하고 다시 확인하세요.",
+            "orderExpired": "결제 주문이 만료되었습니다. 다시 시도하세요.",
+            "statusQueryFailed": "결제 상태 확인에 실패했습니다. 잠시 후 다시 시도하세요.",
+            "invalidPlan": "선택한 플랜이 유효하지 않습니다. 돌아가서 다시 선택하세요.",
+            "popupBlocked": "결제 창이 브라우저에 의해 차단되었습니다. 이 사이트의 팝업을 허용하고 다시 시도하세요.",
+            "popupOpened": "PayPal 결제 창이 열렸습니다. 창에서 결제를 완료하세요.",
+            "popupClosedChecking": "결제 창이 닫혔습니다. 결제 결과를 확인하는 중...",
+            "popupClosedFailed": "결제 창이 닫혔지만 주문이 완료되지 않았습니다. 다시 시도하세요."
+          },
+          "summary": {
+            "title": "주문 요약",
+            "periodLabel": "멤버십 기간",
+            "paymentMethodLabel": "결제 수단",
+            "amountLabel": "결제 금액",
+            "paymentMethod": "PayPal 온라인 결제",
+            "note": "결제 성공 후 멤버십 혜택이 현재 계정에 자동으로 부여됩니다.",
+            "periodMonth": "1개월",
+            "periodYear": "1년",
+            "periodLife": "평생",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "결제 결과 확인 중...",
+            "closeLabel": "닫기",
+            "iconAlt": "결제 결과",
+            "titlePrefix": "결제",
+            "successTitleHighlight": "성공!",
+            "failureTitleHighlight": "실패!",
+            "successDescription": "구매해 주셔서 감사합니다. 멤버십이 활성화되었습니다.",
+            "failureDescription": "결제를 완료하지 못했습니다. 다시 시도하거나 다른 결제 수단을 이용하세요.",
+            "orderNumber": "주문 번호",
+            "membershipType": "멤버십 유형",
+            "expiry": "만료일",
+            "orderStatus": "주문 상태",
+            "successStatus": "결제 완료",
+            "failureStatus": "미결제",
+            "successPrimaryAction": "멤버십 센터에서 보기",
+            "failurePrimaryAction": "결제 수단 변경",
+            "successSecondaryAction": "확인",
+            "failureSecondaryAction": "페이지로 돌아가기",
+            "copyOrderNumber": "주문 번호 복사",
+            "copied": "복사됨",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "구매 확인 | VicastCam",
+            "description": "VicastCam 멤버십 플랜을 확인하고 PayPal로 결제를 완료하세요."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "월간 멤버십",
+              "description": "VicastCam의 모든 멤버십 기능을 월 단위로 이용하세요",
+              "period": "1개월"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "연간 멤버십",
+              "description": "VicastCam의 모든 멤버십 기능을 1년 동안 이용하세요",
+              "period": "1년"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "평생 멤버십",
+              "description": "일회성 구매로 VicastCam 멤버십 기능을 장기간 이용하세요",
+              "period": "평생"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

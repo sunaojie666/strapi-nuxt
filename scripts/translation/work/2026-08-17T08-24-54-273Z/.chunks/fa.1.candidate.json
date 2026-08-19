@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "سوالات متداول VicastCam | راهنمای اندروید و iOS",
+    "description": "پاسخ سوالات رایج درباره VicastCam برای اندروید و iOS، از جمله تنظیم حساب، مجوزهای رسانه، اتصال شبکه و مشکلات پخش زنده را بیابید.",
+    "imageAlt": "سوالات متداول VicastCam"
+  },
+  "hero": {
+    "eyebrow": "سوالات متداول",
+    "titleMain": "راهنمای VicastCam",
+    "titleHighlight": "پاسخ‌ها را سریع بیابید",
+    "description": "پلتفرم خود (اندروید یا iOS) را انتخاب کنید تا سوالات و راه‌حل‌های رایج برای دستگاه خود را ببینید."
+  },
+  "content": {
+    "sectionAriaLabel": "سوالات متداول",
+    "catalogAriaLabel": "دسته‌بندی سوالات",
+    "answerLabel": "پاسخ",
+    "questionProgressTemplate": "{group} · سوال {current} از {total}"
+  }
+}

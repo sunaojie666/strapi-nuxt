@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Configuration de l'ordinateur",
+      "count": "7 leçons",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Premiers pas avec VicastCam",
+          "description": "Une vue d'ensemble de l'interface et des fonctionnalités principales.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Connexion filaire – iPhone",
+          "description": "Connectez votre iPhone à VicastCam à l'aide d'une connexion filaire.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Connexion sans fil – iPhone",
+          "description": "Connectez votre iPhone à VicastCam via Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Connexion filaire – Android",
+          "description": "Connectez votre appareil Android à VicastCam à l'aide d'une connexion filaire.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Connexion sans fil – Android",
+          "description": "Connectez votre appareil Android à VicastCam via Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Ajouter et utiliser des médias locaux",
+          "description": "Importez et utilisez des fichiers médias locaux dans vos projets.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Que faire après la connexion",
+          "description": "Mettez votre flux en route une fois vos appareils connectés.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

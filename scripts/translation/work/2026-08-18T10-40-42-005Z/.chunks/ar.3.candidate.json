@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "إعداد الكمبيوتر",
+      "count": "7 دروس",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "بدء استخدام VicastCam",
+          "description": "نظرة عامة عالية المستوى على الواجهة والميزات الأساسية.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "اتصال سلكي – iPhone",
+          "description": "قم بتوصيل iPhone الخاص بك بـ VicastCam باستخدام اتصال سلكي.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "اتصال لاسلكي – iPhone",
+          "description": "قم بتوصيل iPhone الخاص بك بـ VicastCam عبر Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "اتصال سلكي – Android",
+          "description": "قم بتوصيل جهاز Android الخاص بك بـ VicastCam باستخدام اتصال سلكي.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "اتصال لاسلكي – Android",
+          "description": "قم بتوصيل جهاز Android الخاص بك بـ VicastCam عبر Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "إضافة واستخدام الوسائط المحلية",
+          "description": "قم باستيراد واستخدام ملفات الوسائط المحلية في مشاريعك.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "ماذا تفعل بعد الاتصال",
+          "description": "شغّل البث الخاص بك بمجرد توصيل أجهزتك.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

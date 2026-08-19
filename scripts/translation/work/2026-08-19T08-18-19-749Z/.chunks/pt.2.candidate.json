@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Assinatura",
+    "title": "A Minha Assinatura",
+    "badgeAlt": "Distintivo de assinatura",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Utilizador gratuito",
+    "activeVipName": "Membro VIP",
+    "expirePrefix": "Expira em",
+    "emptyExpireDate": "Não ativada",
+    "activeStatus": "Ativa",
+    "inactiveStatus": "Inativa",
+    "compareTitle": "Comparar Planos",
+    "compareHeaders": {
+      "feature": "Funcionalidade",
+      "normal": "Grátis",
+      "month": "Mensal",
+      "year": "Anual",
+      "life": "Vitalício"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Mensal",
+        "subtitle": "Ideal para utilização a curto prazo",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/mês",
+        "cta": "Começar",
+        "benefits": [
+          "Funcionalidades principais de câmara virtual",
+          "Fundos virtuais e embelezamento",
+          "Transmissão em direto para várias plataformas",
+          "Atualizações padrão"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Anual",
+        "subtitle": "Melhor relação qualidade/preço para utilização a longo prazo",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/ano",
+        "cta": "Começar",
+        "benefits": [
+          "Tudo o que está incluído no plano Mensal",
+          "Todas as funcionalidades premium durante um ano",
+          "Atualizações prioritárias de funcionalidades",
+          "Apoio dedicado a membros"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Vitalício",
+        "subtitle": "Pague uma vez, use para sempre",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/vitalício",
+        "cta": "Começar",
+        "benefits": [
+          "Tudo o que está incluído no plano Anual",
+          "Funcionalidades premium para sempre",
+          "Atualizações a longo prazo",
+          "Canal de apoio exclusivo"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Duração da assinatura",
+        "normal": "Grátis para sempre",
+        "month": "30 dias",
+        "year": "365 dias",
+        "life": "Vitalício"
+      },
+      {
+        "feature": "Câmara virtual para desktop",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Fundos virtuais personalizados",
+        "normal": "1 conjunto",
+        "month": "Ilimitados",
+        "year": "Ilimitados",
+        "life": "Ilimitados"
+      },
+      {
+        "feature": "Predefinições de transmissão",
+        "normal": "Não",
+        "month": "Ilimitadas",
+        "year": "Ilimitadas",
+        "life": "Ilimitadas"
+      },
+      {
+        "feature": "Recursos oficiais",
+        "normal": "Limitados",
+        "month": "Ilimitados",
+        "year": "Ilimitados",
+        "life": "Ilimitados"
+      },
+      {
+        "feature": "Controlo remoto através do comando",
+        "normal": "Sim",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Modo de comparação de cenas",
+        "normal": "Sim",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Legendas de cena",
+        "normal": "Limitadas",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Música de cena",
+        "normal": "Limitada",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Entrada de várias câmaras",
+        "normal": "Não",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Filtros de beleza avançados",
+        "normal": "Básicos",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Recorte de ecrã verde com IA",
+        "normal": "Sim",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Animações de rastreamento de movimento",
+        "normal": "Limitadas",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Efeitos de câmara de cena",
+        "normal": "Limitados",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Biblioteca de efeitos VIP",
+        "normal": "Limitada",
+        "month": "Ilimitada",
+        "year": "Ilimitada",
+        "life": "Ilimitada"
+      },
+      {
+        "feature": "Transmissão para plataformas",
+        "normal": "Sim",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Saída 4K",
+        "normal": "Não",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      },
+      {
+        "feature": "Taxa de comissão por indicação",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Desconto para sub-afiliados",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Canal de apoio",
+        "normal": "Autosserviço da comunidade",
+        "month": "Fila padrão",
+        "year": "Resposta prioritária",
+        "life": "Apoio dedicado"
+      },
+      {
+        "feature": "Acesso antecipado a novas funcionalidades",
+        "normal": "Não",
+        "month": "Sim",
+        "year": "Sim",
+        "life": "Sim"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Resgatar Código",
+    "title": "Resgatar Código",
+    "tip": "Introduza o seu código de resgate de assinatura. A sua assinatura será ativada imediatamente após o resgate.",
+    "placeholder": "Introduza o código de resgate",
+    "submitButton": "Resgatar",
+    "agreementPrefix": "Ao resgatar, concorda com o",
+    "userProtocolText": "Acordo de Utilizador",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Falha no resgate. Verifique o código e tente novamente."
+    }
+  }
+}

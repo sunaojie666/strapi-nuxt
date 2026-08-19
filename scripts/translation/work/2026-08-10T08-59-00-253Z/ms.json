@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Cara Membuat Bilik Siaran Langsung Baharu",
+      "tag_1": "Mudah Alih",
+      "tag_2": "Tutorial Pemula"
+    },
+    {
+      "title": "Memahami Mod Pemotongan Latar VicastCam",
+      "tag_1": "Mudah Alih",
+      "tag_2": "Tutorial Ciri"
+    },
+    {
+      "title": "Cara Menggunakan Ciri Lapisan VicastCam",
+      "tag_1": "Mudah Alih",
+      "tag_2": "Ciri Teras"
+    },
+    {
+      "title": "Mengenali VicastCam pada Desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial Pemula"
+    },
+    {
+      "title": "Cara Menyambung iPhone ke VicastCam Secara Wayarles",
+      "tag_1": "iOS",
+      "tag_2": "Tutorial Sambungan"
+    },
+    {
+      "title": "Cara Menambah dan Menggunakan Media Tempatan",
+      "tag_1": "Desktop",
+      "tag_2": "Tutorial Penggunaan"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Komuniti Global",
+        "title_main": "Siaran Langsung yang Berfungsi di Mana-mana",
+        "title_highlight": "Dipercayai oleh Penstrim di 150+ Negara",
+        "desc": "Menyediakan perkhidmatan kepada lebih 150 negara dan wilayah, kami membantu ramai penstrim berkembang daripada pemula kepada pencipta kandungan langsung profesional.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Negara"
+          },
+          {
+            "number": "2000+",
+            "name": "Penstrim Aktif"
+          },
+          {
+            "number": "5000+",
+            "name": "Peningkatan Populariti"
+          },
+          {
+            "number": "99.9%",
+            "name": "Kestabilan"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "ms",
+        "faq_section": {
+          "tag": "Soalan Lazim",
+          "title_main": "Ada Soalan?",
+          "title_highlight": "Kami Ada Jawapannya.",
+          "description": "Cari jawapan kepada soalan lazim VicastCam di bawah. Tidak jumpa apa yang anda cari? Hubungi pasukan kami.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Platform mana yang boleh saya strim dengan VicastCam?",
+              "answer": "VicastCam menyokong penstriman ke platform utama seperti YouTube, Twitch, TikTok, Facebook Live, dan Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Adakah penyingkiran latar belakang VicastCam memerlukan skrin hijau?",
+              "answer": "Tidak. VicastCam menggunakan penyingkiran latar belakang berkuasa AI, jadi anda boleh menggantikan latar belakang anda secara masa nyata tanpa skrin hijau."
+            },
+            {
+              "id": "q3",
+              "question": "Bolehkah saya menggunakan VicastCam pada telefon saya?",
+              "answer": "Ya. VicastCam tersedia untuk iOS dan Android, dan semua ciri profesional tersedia pada mudah alih."
+            },
+            {
+              "id": "q4",
+              "question": "Seberapa boleh dipercayai VicastCam?",
+              "answer": "VicastCam menawarkan kestabilan 99.9%, menyokong penstrim di seluruh dunia dengan penstriman tanpa gangguan 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "Adakah VicastCam menyokong penstriman berbilang kamera?",
+              "answer": "Ya. Anda boleh bertukar dengan lancar antara pelbagai kamera semasa siaran langsung untuk mencapai produksi profesional."
+            }
+          ],
+          "view_more": {
+            "text": "Lihat Lagi"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "Soalan Lazim VicastCam | Bantuan Android & iOS",
+          "description": "Cari jawapan kepada soalan lazim VicastCam untuk Android dan iOS, termasuk penyediaan akaun, kebenaran media, sambungan rangkaian, dan isu paparan siaran langsung.",
+          "imageAlt": "Soalan Lazim VicastCam"
+        },
+        "hero": {
+          "eyebrow": "Soalan Lazim",
+          "titleMain": "Bantuan VicastCam",
+          "titleHighlight": "Cari Jawapan dengan Pantas",
+          "description": "Pilih tutorial Android atau iOS untuk melihat isu biasa dan penyelesaian untuk peranti anda."
+        },
+        "content": {
+          "sectionAriaLabel": "Soalan Lazim",
+          "catalogAriaLabel": "Kategori soalan",
+          "answerLabel": "Jawapan",
+          "questionProgressTemplate": "{group} · Soalan {current} daripada {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Tutorial Android",
+            "count": "8 soalan",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Apakah saiz media yang disyorkan untuk penstriman langsung?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Saiz media yang disyorkan untuk penstriman langsung:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk latar belakang siaran langsung, kami mengesyorkan imej pada 1080 x 1920 piksel dan video pada 1080 x 1920 piksel.",
+                      "Penting: Overlay skrin penuh mesti menggunakan nisbah aspek 9:16 untuk memastikan ia sejajar dengan sempurna apabila bertukar antara mod skrin penuh dan 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Bagaimana saya memadamkan akaun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log masuk ke aplikasi VicastCam, kemudian pergi ke [Akaun - Ikon kanan atas - Pengurusan Akaun - Padam Akaun - Hantar Permintaan Pemadaman]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Maklumat Akaun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akaun anda dipadamkan, kami akan mengeluarkan secara kekal e-mel yang dipautkan, rekod peranti, dan maklumat identiti lain. Kami juga akan menarik balik kebenaran log masuk pihak ketiga melalui Google dan Apple. Selepas penarikan balik, anda tidak akan dapat log masuk dengan cepat menggunakan akaun pihak ketiga tersebut; jika anda ingin menggunakannya semula, anda perlu memberi kebenaran semula."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Kandungan dan Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua media siaran langsung, video, imej, dan fail projek disimpan hanya pada peranti anda. Platform tidak menyimpan sebarang kandungan kreatif dalam awan. Selepas pemadaman, ciri pengurusan media aplikasi tidak akan berfungsi lagi, jadi sila sandarkan kandungan anda terlebih dahulu menggunakan ciri 'Eksport Media'.",
+                      "Jika anda menyahpasang dan memasang semula aplikasi, atau menukar peranti tanpa mengeksport sandaran terlebih dahulu, media anda akan hilang secara kekal dan tidak dapat dipulihkan."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Faedah Keahlian"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Faedah keahlian anda akan berakhir serta-merta selepas pemadaman akaun. Jika anda mempunyai langganan Google Play yang aktif, memadamkan akaun aplikasi anda tidak akan membatalkannya secara automatik, dan anda mungkin masih dicaj. Sila pergi ke 'Pembayaran & langganan - Langganan' di Google Play untuk membatalkan secara manual."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika anda mempunyai sebarang soalan, sila hubungi pasukan sokongan kami."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Mengapa saya tidak boleh mengakses media telefon saya apabila menambah imej atau video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika pustaka foto anda kelihatan kosong apabila menambah media, anda boleh membolehkan akses foto seperti berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Buka Tetapan telefon anda, tatal ke bawah untuk mencari VicastCam, ketik [Foto - Semua Foto] untuk membolehkan akses.",
+                      "Android: Buka Tetapan telefon anda, cari VicastCam di bawah 'Kebenaran' atau 'Pengurusan Aplikasi', kemudian ketik [Kebenaran - Foto - Semua Foto] untuk membolehkan akses.",
+                      "Jika isu berterusan, cuba pasang semula aplikasi atau hubungi sokongan dalam talian kami melalui ciri maklum balas."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Apa yang perlu saya lakukan jika paparan terpotong apabila menstrim dari komputer saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika paparan tidak lengkap apabila menstrim dari telefon anda melalui aplikasi penstriman atau perisian lain, ikuti langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketik ikon kamera di bahagian bawah untuk memasuki halaman langsung, kemudian pergi ke [Menu kanan - Tetapan Lanjut - Nisbah Aspek - 9:16].",
+                      "Selepas menayangkan ke aplikasi penstriman, mula-mula skala untuk muat, kemudian seret imej ke atas atau ke bawah untuk memenuhi skrin."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: Laraskan nisbah aspek sebelum menambah media dan sebelum memulakan siaran anda."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Apa yang perlu saya lakukan jika permintaan rangkaian gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika anda menghadapi kegagalan permintaan rangkaian, cuba perkara berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Tetapan telefon anda, pergi ke [Kebenaran - VicastCam - Data Mudah Alih & Wi-Fi] dan hidupkan akses rangkaian.",
+                      "Matikan mod penjimatan kuasa dan sebarang sekatan latar belakang.",
+                      "Tukar rangkaian, mulakan semula telefon anda, togol mod kapal terbang, atau kemas kini aplikasi.",
+                      "Jika isu berterusan, ambil tangkapan skrin ralat dan hubungi pasukan sokongan kami."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Mengapa overlay daripada media dalam talian berkelip atau menjadi hitam semasa siaran langsung?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika overlay daripada media dalam talian berkelip atau menjadi hitam semasa siaran langsung, ini yang boleh anda lakukan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Muat turun dan pratonton sebarang media atau overlay yang anda bercadang untuk digunakan sebelum siaran untuk memastikan ia berfungsi dengan baik.",
+                      "Sesetengah media terbina dalam disimpan pada pelayan. Muat turun sebelum siaran anda supaya ia sedia digunakan tanpa memuatkan semasa siaran.",
+                      "Memuatkan media semasa siaran menggunakan sumber penstriman, memori, dan prestasi, yang boleh menyebabkan ketinggalan. Pada peranti yang lebih rendah, ia mungkin menyebabkan ranap atau skrin hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Rancang dan berlatih siaran anda terlebih dahulu. Amalkan setiap segmen untuk memastikan semuanya berjalan lancar sebelum siaran."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Apa yang perlu saya lakukan jika sesetengah kekunci papan kekunci dilitupi?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika sesetengah kekunci papan kekunci maya dilitupi, cuba perkara berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Jika anda menggunakan telefon 16:9 yang lebih lama dan sesetengah kekunci dilitupi, ketik butang kedua di sudut kiri atas papan kekunci untuk membolehkan mod skrin penuh.",
+                      "Jika susun atur papan kekunci tidak sejajar, pergi ke tetapan telefon anda dan tetapkan saiz fon kepada normal.",
+                      "Sesetengah telefon mempunyai 'mod senior' yang diaktifkan; mematikannya sepatutnya memulihkan papan kekunci kepada normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Isu paparan biasanya disebabkan oleh fon yang terlalu besar atau skala tema yang besar. Menetapkan semula ini kepada standard sepatutnya menyelesaikan masalah."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Apa yang perlu saya lakukan jika telefon Huawei saya sentiasa terputus sambungan daripada berbilang kamera atau papan kekunci maya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika anda mengalami pemutusan sambungan dengan berbilang kamera atau papan kekunci maya pada telefon Huawei, ikuti langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pergi ke Tetapan telefon anda.",
+                      "Dalam bar carian di bahagian atas, taip 'Pengurusan pelancaran aplikasi'.",
+                      "Pergi ke halaman Pengurusan pelancaran aplikasi dan tatal ke bawah untuk mencari VicastCam.",
+                      "Matikan togol di sebelah kanan (ikon menjadi kelabu), dan dalam pop timbul, aktifkan ketiga-tiga pilihan (ia menjadi biru)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Anda juga boleh merujuk kepada tutorial video 'Cara mengelakkan pemutusan sambungan dengan berbilang kamera dan papan kekunci maya pada telefon Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Tutorial iOS",
+            "count": "6 soalan",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Apakah saiz media yang disyorkan untuk penstriman langsung?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Saiz media yang disyorkan untuk penstriman langsung:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk latar belakang siaran langsung, kami mengesyorkan imej pada 1080 x 1920 piksel dan video pada 1080 x 1920 piksel.",
+                      "Penting: Overlay skrin penuh mesti menggunakan nisbah aspek 9:16 untuk memastikan ia sejajar dengan sempurna apabila bertukar antara mod skrin penuh dan 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Bagaimana saya memadamkan akaun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log masuk ke aplikasi VicastCam, kemudian pergi ke [Akaun - Ikon kanan atas - Pengurusan Akaun - Padam Akaun - Hantar Permintaan Pemadaman]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Maklumat Akaun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akaun anda dipadamkan, kami akan mengeluarkan secara kekal e-mel yang dipautkan, rekod peranti, dan maklumat identiti lain. Kami juga akan menarik balik kebenaran log masuk pihak ketiga melalui Google dan Apple. Selepas penarikan balik, anda tidak akan dapat log masuk dengan cepat menggunakan akaun pihak ketiga tersebut; jika anda ingin menggunakannya semula, anda perlu memberi kebenaran semula."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Kandungan dan Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua media siaran langsung, video, imej, dan fail projek disimpan hanya pada peranti anda. Platform tidak menyimpan sebarang kandungan kreatif dalam awan. Selepas pemadaman, ciri pengurusan media aplikasi tidak akan berfungsi lagi, jadi sila sandarkan kandungan anda terlebih dahulu menggunakan ciri 'Eksport Media'.",
+                      "Jika anda menyahpasang dan memasang semula aplikasi, atau menukar peranti tanpa mengeksport sandaran terlebih dahulu, media anda akan hilang secara kekal dan tidak dapat dipulihkan."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Faedah Keahlian"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Faedah keahlian anda akan berakhir serta-merta selepas pemadaman akaun. Oleh kerana langganan diuruskan oleh Apple, platform tidak boleh memproses bayaran balik secara langsung. Untuk meminta bayaran balik, sila hantar permintaan melalui saluran rasmi Apple (sejarah pembelian App Store). Sebelum memadamkan akaun anda, pastikan anda membatalkan secara manual sebarang langganan auto-perbaharui untuk mengelakkan caj masa hadapan."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika anda mempunyai sebarang soalan, sila hubungi pasukan sokongan kami."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Mengapa saya tidak boleh mengakses media telefon saya apabila menambah imej atau video?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika pustaka foto anda kelihatan kosong apabila menambah media, buka Tetapan iPhone anda, tatal ke bawah untuk mencari VicastCam, dan ketik [Foto - Semua Foto] untuk membolehkan akses."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Apa yang perlu saya lakukan jika paparan terpotong apabila menstrim dari komputer saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika paparan tidak lengkap apabila menstrim dari telefon anda melalui aplikasi penstriman atau perisian lain, ikuti langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketik ikon kamera di bahagian bawah untuk memasuki halaman langsung, kemudian pergi ke [Menu kanan - Tetapan Lanjut - Nisbah Aspek - 9:16].",
+                      "Selepas menayangkan ke aplikasi penstriman, mula-mula skala untuk muat, kemudian seret imej ke atas atau ke bawah untuk memenuhi skrin."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: Laraskan nisbah aspek sebelum menambah media dan sebelum memulakan siaran anda."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Apa yang perlu saya lakukan jika permintaan rangkaian gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika anda menghadapi kegagalan permintaan rangkaian, cuba perkara berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Tetapan telefon anda, pergi ke [Kebenaran - VicastCam - Data Mudah Alih & Wi-Fi] dan hidupkan akses rangkaian.",
+                      "Matikan mod penjimatan kuasa dan sebarang sekatan latar belakang.",
+                      "Tukar rangkaian, mulakan semula telefon anda, togol mod kapal terbang, atau kemas kini aplikasi.",
+                      "Jika isu berterusan, ambil tangkapan skrin ralat dan hubungi pasukan sokongan kami."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Mengapa overlay daripada media dalam talian berkelip atau menjadi hitam semasa siaran langsung?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika overlay daripada media dalam talian berkelip atau menjadi hitam semasa siaran langsung, ini yang boleh anda lakukan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Muat turun dan pratonton sebarang media atau overlay yang anda bercadang untuk digunakan sebelum siaran untuk memastikan ia berfungsi dengan baik.",
+                      "Sesetengah media terbina dalam disimpan pada pelayan. Muat turun sebelum siaran anda supaya ia sedia digunakan tanpa memuatkan semasa siaran.",
+                      "Memuatkan media semasa siaran menggunakan sumber penstriman, memori, dan prestasi, yang boleh menyebabkan ketinggalan. Pada peranti yang lebih rendah, ia mungkin menyebabkan ranap atau skrin hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Rancang dan berlatih siaran anda terlebih dahulu. Amalkan setiap segmen untuk memastikan semuanya berjalan lancar sebelum siaran. Ambil setiap siaran dengan serius, dan anda akan mendapat hasil terbaik."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Pusat Tutorial",
+        "titleMain": "Mulakan Perjalanan",
+        "titleHighlight": "Pembelajaran VicastCam Anda",
+        "description": "Kuasai perisian dan cepat mahir",
+        "buttonText": "Lihat Lagi"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Pusat Tutorial",
+          "titleMain": "Mulakan Perjalanan",
+          "titleHighlight": "Pembelajaran VicastCam Anda",
+          "descriptionMain": "Kuasai perisian",
+          "descriptionHighlight": "Cepat mahir"
+        },
+        "player": {
+          "sectionAriaLabel": "Senarai tutorial",
+          "catalogAriaLabel": "Katalog tutorial",
+          "previousLabel": "Sebelumnya",
+          "nextLabel": "Seterusnya",
+          "firstLessonText": "Ini adalah pelajaran pertama",
+          "lastLessonText": "Ini adalah pelajaran terakhir",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Tutorial Pemula",
+            "count": "9 pelajaran",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Cipta Bilik Siaran Langsung Maya Pertama Anda",
+                "description": "Cipta dan konfigurasikan bilik siaran langsung maya pertama anda dari awal.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Memahami Ciri Imej",
+                "description": "Pelajari asas ciri imej dan kegunaannya.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Cara Menggunakan Lapisan",
+                "description": "Kuasai asas panel lapisan.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Cara Menggunakan Lapisan Latar Belakang",
+                "description": "Pelajari cara menambah dan melaraskan lapisan latar belakang.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Cara Menggunakan Lapisan Potret",
+                "description": "Pelajari cara menggunakan lapisan potret untuk mencipta kesan visual.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Cara Menggunakan Lapisan Imej",
+                "description": "Pelajari cara menambah dan mengedit lapisan imej.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Cara Menggunakan Lapisan Video",
+                "description": "Pelajari cara menambah media video dan mengkonfigurasi main balik.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Cara Menggunakan Lapisan Kesan",
+                "description": "Tambah lapisan kesan ke siaran langsung anda.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Cara Menggunakan Lapisan Kapsyen",
+                "description": "Cipta kapsyen dan laraskan gaya lapisan kapsyen.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Tutorial Lanjutan",
+            "count": "6 pelajaran",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Cara Menggunakan Lapisan Pergerakan Kamera",
+                "description": "Gunakan lapisan pergerakan kamera untuk mencipta rakaman yang lebih dinamik.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Cara Menggunakan Ciri Laluan",
+                "description": "Kawal laluan pergerakan elemen dengan ciri laluan.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Cara Menggunakan Lapisan Berbilang Kamera",
+                "description": "Konfigurasikan lapisan berbilang kamera untuk bertukar antara paparan yang berbeza dengan cepat.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Cara Menggunakan Ciri Pengawal",
+                "description": "Gunakan pengawal untuk menguruskan paparan siaran langsung anda.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Cara Menggunakan Ciri Audio",
+                "description": "Konfigurasikan input audio, output, dan kesan pencampuran.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Cara Menggunakan Ciri Sandaran",
+                "description": "Sandarkan dan pulihkan konfigurasi bilik siaran langsung dan media.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

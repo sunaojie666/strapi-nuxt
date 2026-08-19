@@ -1,0 +1,138 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.checkouts[0].data.checkout.payment.popupBlocked",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Replace 'navegador' with 'navegador' is correct, but 'Permita pop-ups' should be 'Permita pop-ups' is fine; however, 'navegador' is acceptable in European Portuguese, but 'browser' is more common. Actually, the issue is 'Permita pop-ups' is imperative, but in European Portuguese, the imperative for 'permitir' is 'Permite' (tu) or 'Permita' (você). Since the text uses 'o seu navegador' (você form), 'Permita' is correct. However, the phrase 'Permita pop-ups para este site' is slightly unnatural; better: 'Permita pop-ups neste site'. Also, 'navegador' is acceptable, but 'browser' is also used. I'll flag as minor style. Actually, the major issue is the use of 'navegador' which is not wrong, but 'browser' is more common in PT-PT. I'll change to 'browser' for naturalness."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.payment.popupBlocked",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Permita pop-ups para este site' to 'Permita pop-ups neste site' for more natural phrasing."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.payment.popupBlocked",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'browser' instead of 'navegador' for European Portuguese consumer-tech copy."
+    },
+    {
+      "path": "$.checkouts[0].data.checkout.payment.popupBlocked",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'A janela de pagamento foi bloqueada pelo seu navegador' is correct, but 'pelo seu navegador' could be 'pelo seu browser' for consistency."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Escolher método de pagamento",
+            "payment": {
+              "providerName": "PayPal",
+              "providerDescription": "Pague com o seu saldo PayPal, cartão bancário ou cartão de crédito",
+              "secureBadge": "Pagamento seguro",
+              "methodLabel": "Método de pagamento",
+              "accountLabel": "Conta atual",
+              "signInRequired": "Inicie sessão para continuar com a sua compra",
+              "signInAction": "Iniciar sessão",
+              "summaryHint": "Clique no botão PayPal para concluir o pagamento",
+              "trustItems": [
+                "Os pagamentos são processados com segurança pela PayPal",
+                "Suporta saldo PayPal, cartões bancários e cartões de crédito",
+                "Os benefícios de membro são ativados automaticamente após o pagamento bem-sucedido"
+              ],
+              "buttonPay": "Pagar com PayPal",
+              "buttonPending": "Encomenda pendente",
+              "buttonCreating": "A criar encomenda...",
+              "sdkLoading": "A carregar PayPal...",
+              "sdkError": "Falha ao carregar o PayPal. Verifique a sua ligação à Internet e tente novamente.",
+              "sdkIneligible": "O pagamento PayPal não é suportado neste ambiente",
+              "sdkMissingConfig": "O PayPal não está configurado. Contacte o administrador.",
+              "orderCreating": "A criar ordem de pagamento...",
+              "orderCreateFailed": "Falha ao criar a ordem. Tente novamente.",
+              "orderProcessing": "O resultado do pagamento ainda está a ser confirmado. Verifique novamente mais tarde.",
+              "orderSuccess": "Pagamento bem-sucedido. Os seus benefícios de membro foram ativados.",
+              "orderFailed": "O pagamento não foi bem-sucedido. Tente novamente.",
+              "orderPending": "O pagamento não está concluído. Conclua o pagamento e verifique novamente.",
+              "orderExpired": "A ordem de pagamento expirou. Tente novamente.",
+              "statusQueryFailed": "Falha ao verificar o estado do pagamento. Tente novamente mais tarde.",
+              "invalidPlan": "O plano selecionado é inválido. Volte atrás e escolha novamente.",
+              "popupBlocked": "A janela de pagamento foi bloqueada pelo seu browser. Permita pop-ups neste site e tente novamente.",
+              "popupOpened": "A janela de pagamento PayPal foi aberta. Conclua o pagamento na janela.",
+              "popupClosedChecking": "A janela de pagamento foi fechada. A confirmar o resultado do pagamento...",
+              "popupClosedFailed": "A janela de pagamento foi fechada, mas a ordem não está concluída. Tente novamente."
+            },
+            "summary": {
+              "title": "Resumo da encomenda",
+              "periodLabel": "Período de adesão",
+              "paymentMethodLabel": "Método de pagamento",
+              "amountLabel": "Montante devido",
+              "paymentMethod": "Pagamento online PayPal",
+              "note": "Após o pagamento bem-sucedido, os benefícios de membro serão atribuídos automaticamente à sua conta atual.",
+              "periodMonth": "1 mês",
+              "periodYear": "1 ano",
+              "periodLife": "Vitalício",
+              "emptyValue": "—"
+            },
+            "result": {
+              "checking": "A confirmar o resultado do pagamento...",
+              "closeLabel": "Fechar",
+              "iconAlt": "Resultado do pagamento",
+              "titlePrefix": "Pagamento",
+              "successTitleHighlight": "bem-sucedido!",
+              "failureTitleHighlight": "falhado!",
+              "successDescription": "Obrigado pela sua compra. A sua adesão foi ativada.",
+              "failureDescription": "Não foi possível concluir o pagamento. Tente novamente ou utilize outro método de pagamento.",
+              "orderNumber": "Número da encomenda",
+              "membershipType": "Tipo de adesão",
+              "expiry": "Data de validade",
+              "orderStatus": "Estado da encomenda",
+              "successStatus": "Pago",
+              "failureStatus": "Não pago",
+              "successPrimaryAction": "Ver no Centro de Membros",
+              "failurePrimaryAction": "Alterar método de pagamento",
+              "successSecondaryAction": "OK",
+              "failureSecondaryAction": "Voltar à página",
+              "copyOrderNumber": "Copiar número da encomenda",
+              "copied": "Copiado",
+              "emptyValue": "—"
+            },
+            "seo": {
+              "title": "Confirmar compra | VicastCam",
+              "description": "Confirme o seu plano de adesão VicastCam e conclua o pagamento via PayPal."
+            },
+            "plans": [
+              {
+                "id": "inapp_chips_month",
+                "type": "month",
+                "name": "Adesão mensal",
+                "description": "Desfrute de todas as funcionalidades de membro VicastCam numa base mensal",
+                "period": "1 mês"
+              },
+              {
+                "id": "inapp_chips_year",
+                "type": "year",
+                "name": "Adesão anual",
+                "description": "Desfrute de todas as funcionalidades de membro VicastCam durante um ano inteiro",
+                "period": "1 ano"
+              },
+              {
+                "id": "inapp_lifetime_vip",
+                "type": "life",
+                "name": "Adesão vitalícia",
+                "description": "Compra única, acesso de longo prazo às funcionalidades de membro VicastCam",
+                "period": "Vitalício"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

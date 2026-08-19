@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Membership",
+    "title": "My Membership",
+    "badgeAlt": "Membership badge",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Free User",
+    "activeVipName": "VIP Member",
+    "expirePrefix": "Expires",
+    "emptyExpireDate": "Not activated",
+    "activeStatus": "Active",
+    "inactiveStatus": "Inactive",
+    "compareTitle": "Compare Plans",
+    "compareHeaders": {
+      "feature": "Feature",
+      "normal": "Free",
+      "month": "Monthly",
+      "year": "Yearly",
+      "life": "Lifetime"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Monthly",
+        "subtitle": "Great for short-term use",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/month",
+        "cta": "Get Started",
+        "benefits": [
+          "Core virtual camera features",
+          "Virtual backgrounds & beautification",
+          "Multi-platform live streaming",
+          "Standard updates"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Yearly",
+        "subtitle": "Better value for long-term use",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/year",
+        "cta": "Get Started",
+        "benefits": [
+          "Everything in Monthly",
+          "All premium features for a year",
+          "Priority feature updates",
+          "Dedicated member support"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Lifetime",
+        "subtitle": "Pay once, use forever",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/lifetime",
+        "cta": "Get Started",
+        "benefits": [
+          "Everything in Yearly",
+          "Premium features forever",
+          "Long-term updates",
+          "Exclusive support channel"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Membership duration",
+        "normal": "Free forever",
+        "month": "30 days",
+        "year": "365 days",
+        "life": "Lifetime"
+      },
+      {
+        "feature": "Desktop virtual camera",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Custom virtual backgrounds",
+        "normal": "1 set",
+        "month": "Unlimited",
+        "year": "Unlimited",
+        "life": "Unlimited"
+      },
+      {
+        "feature": "Streaming presets",
+        "normal": "No",
+        "month": "Unlimited",
+        "year": "Unlimited",
+        "life": "Unlimited"
+      },
+      {
+        "feature": "Official assets",
+        "normal": "Limited",
+        "month": "Unlimited",
+        "year": "Unlimited",
+        "life": "Unlimited"
+      },
+      {
+        "feature": "Remote control via controller",
+        "normal": "Yes",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Scene comparison mode",
+        "normal": "Yes",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Scene captions",
+        "normal": "Limited",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Scene music",
+        "normal": "Limited",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Multi-camera input",
+        "normal": "No",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Advanced beauty filters",
+        "normal": "Basic",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "AI green screen matting",
+        "normal": "Yes",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Motion tracking animations",
+        "normal": "Limited",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Scene camera effects",
+        "normal": "Limited",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "VIP effects library",
+        "normal": "Limited",
+        "month": "Unlimited",
+        "year": "Unlimited",
+        "life": "Unlimited"
+      },
+      {
+        "feature": "Platform streaming",
+        "normal": "Yes",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "4K output",
+        "normal": "No",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      },
+      {
+        "feature": "Referral commission rate",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Sub-affiliate rebate",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Support channel",
+        "normal": "Community self-service",
+        "month": "Standard queue",
+        "year": "Priority response",
+        "life": "Dedicated support"
+      },
+      {
+        "feature": "Early access to new features",
+        "normal": "No",
+        "month": "Yes",
+        "year": "Yes",
+        "life": "Yes"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Redeem Code",
+    "title": "Redeem Code",
+    "tip": "Enter your membership redemption code. Your membership will be activated immediately after redemption.",
+    "placeholder": "Enter redemption code",
+    "submitButton": "Redeem",
+    "agreementPrefix": "By redeeming, you agree to the",
+    "userProtocolText": "User Agreement",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Redemption failed. Check the code and try again."
+    }
+  }
+}

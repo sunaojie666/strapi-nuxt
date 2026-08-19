@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Pomoc dla Androida i iOS",
+          "description": "Znajdź odpowiedzi na najczęstsze pytania dotyczące VicastCam dla Androida i iOS, w tym konfigurację konta, uprawnienia do multimediów, połączenia sieciowe i problemy z transmisją na żywo.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Pomoc VicastCam",
+          "titleHighlight": "Szybkie odpowiedzi",
+          "description": "Wybierz platformę (Android lub iOS), aby zobaczyć typowe pytania i rozwiązania dla Twojego urządzenia."
+        },
+        "content": {
+          "sectionAriaLabel": "Najczęściej zadawane pytania",
+          "catalogAriaLabel": "Kategorie pytań",
+          "answerLabel": "Odpowiedź",
+          "questionProgressTemplate": "{group} · Pytanie {current} z {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Poradniki dla Androida",
+            "count": "9 pytań",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Jakie są zalecane wymiary materiałów do transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zalecane wymiary materiałów do transmisji na żywo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "W przypadku obrazów tła transmisji na żywo zalecamy 1080 x 1920 pikseli; w przypadku filmów również zalecamy 1080 x 1920 pikseli.",
+                      "Ważne: Nakładki pełnoekranowe muszą mieć proporcje 9:16, aby zapewnić płynne przełączanie między trybem pełnoekranowym a 9:16 bez rozsunięcia, uzyskując idealne dopasowanie."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Jakie tryby wyjścia są obsługiwane podczas transmisji?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Transmisja obsługuje dwa tryby wyjścia: transmisję 9:16 i transmisję pełnoekranową. Aby wybrać jeden z nich na urządzeniu z Androidem, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, przejdź do strony transmisji na żywo i dotknij ikony menu po prawej stronie."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Ikona menu po prawej stronie strony transmisji na żywo w systemie Android",
+                    "caption": "Krok 1: Dotknij ikony menu po prawej stronie strony transmisji na żywo."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "W opcjach „Więcej ustawień” znajdź „Proporcje obrazu” i wybierz „Pełny ekran” lub „9:16” w zależności od potrzeb."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Opcje proporcji obrazu w „Więcej ustawień” na Androidzie",
+                    "caption": "Krok 2: W polu „Proporcje obrazu” wybierz „Pełny ekran” lub „9:16”."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Wyjaśnienie dwóch trybów"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Transmisja 9:16: Proporcje wyjścia są stałe i wynoszą 9:16, więc platforma transmisji na żywo otrzymuje obraz 9:16.",
+                      "Transmisja pełnoekranowa: Przesyła cały ekran telefonu w oryginalnej formie, zachowując natywną zawartość bez przycinania."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Jak usunąć konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zaloguj się w aplikacji VicastCam, a następnie przejdź do [Konto - ikona w prawym górnym rogu - Zarządzanie kontem - Usuń konto - Wyślij prośbę o usunięcie]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informacje o koncie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta trwale usuniemy powiązany adres e-mail, dane urządzenia i inne informacje identyfikujące, a także cofniemy autoryzację logowania przez konta Google i Apple. Po cofnięciu autoryzacji nie będziesz mógł używać tych kont do szybkiego logowania; aby ponownie korzystać z aplikacji, będziesz musiał ponownie autoryzować i powiązać konto."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Treści i zasoby"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Wszystkie materiały do transmisji, filmy, obrazy i pliki projektów są przechowywane wyłącznie na Twoim urządzeniu; chmura nie przechowuje żadnych zasobów kreatywnych. Po usunięciu funkcja zarządzania zasobami w aplikacji przestanie działać, dlatego przed usunięciem wykonaj kopię zapasową zasobów za pomocą opcji „Eksport zasobów”.",
+                      "Jeśli odinstalujesz i ponownie zainstalujesz aplikację, zmienisz urządzenie lub nie wykonasz kopii zapasowej wcześniej, Twoje zasoby zostaną trwale utracone."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Korzyści członkowskie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta Twoje korzyści członkowskie wygasną natychmiast. Jeśli masz aktywną subskrypcję w Google Play, usunięcie konta w aplikacji nie spowoduje automatycznego anulowania subskrypcji i możesz być nadal obciążany opłatami. Przejdź do sekcji „Płatności i subskrypcje - Subskrypcje” w Google Play, aby anulować ją ręcznie."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "W razie pytań skontaktuj się z naszym zespołem wsparcia."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Dlaczego nie mogę uzyskać dostępu do zdjęć i filmów w telefonie podczas ich dodawania?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli podczas dodawania zasobów Twoja galeria wydaje się pusta, możesz włączyć uprawnienia dostępu do zdjęć w następujący sposób:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Otwórz Ustawienia telefonu, przewiń w dół i znajdź VicastCam, dotknij [Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp.",
+                      "Android: Otwórz Ustawienia telefonu, znajdź VicastCam w sekcji [Zarządzanie uprawnieniami] lub [Zarządzanie aplikacjami], a następnie dotknij [Zarządzanie uprawnieniami - Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp.",
+                      "Jeśli problem nie ustąpi, spróbuj odinstalować i ponownie zainstalować aplikację lub skontaktuj się z pomocą online za pomocą funkcji opinii."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Co zrobić, gdy ekran nie jest w pełni wyświetlany podczas transmisji z komputera?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli podczas transmisji z telefonu za pomocą aplikacji towarzyszącej do transmisji na żywo lub innego oprogramowania ekran wydaje się niekompletny, wykonaj następujące czynności, aby to dostosować:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, dotknij ikony aparatu na dole, aby przejść do strony transmisji na żywo, a następnie przejdź do [Menu po prawej stronie - Więcej ustawień - Proporcje obrazu - 9:16].",
+                      "Po przesłaniu do aplikacji towarzyszącej najpierw dopasuj ekran do płótna, a następnie przeciągnij w pionie, aby wypełnić ekran."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Uwaga: Przed rozpoczęciem transmisji najpierw ustaw proporcje obrazu, a następnie dodaj zasoby."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Co zrobić, gdy żądanie sieciowe nie powiedzie się?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli napotkasz błędy żądań sieciowych, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz Ustawienia telefonu, przejdź do [Zarządzanie uprawnieniami - VicastCam - Dane mobilne i Wi-Fi] i włącz dostęp do sieci.",
+                      "Wyłącz tryb oszczędzania energii i wszelkie ograniczenia w tle na telefonie.",
+                      "Zmień sieć, uruchom ponownie telefon, włącz i wyłącz tryb samolotowy lub zaktualizuj aplikację do najnowszej wersji.",
+                      "Jeśli problem nie ustąpi, zrób zrzut ekranu błędu i skontaktuj się z pomocą techniczną."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Dlaczego zasoby sieciowe lub nakładki migoczą lub stają się czarne podczas transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli podczas transmisji na żywo występują migotania lub czarne ekrany po dodaniu zasobów sieciowych, oto jak sobie z tym poradzić:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pobierz i wyświetl podgląd wszystkich zasobów lub nakładek, które planujesz użyć podczas transmisji, z wyprzedzeniem i upewnij się, że działają poprawnie przed rozpoczęciem transmisji.",
+                      "Niektóre zasoby dołączone do oprogramowania są przechowywane na serwerach. Jeśli pobierzesz je przed rozpoczęciem transmisji, będziesz mógł ich używać bezpośrednio podczas transmisji bez ponownego ładowania.",
+                      "Ładowanie zasobów w trakcie transmisji zużywa zasoby strumieniowania, pamięć telefonu i wydajność, co może powodować opóźnienia; na słabszych telefonach może nawet prowadzić do awarii lub czarnych ekranów."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Ważna uwaga"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Przed rozpoczęciem transmisji na żywo dokładnie zaplanuj i przećwicz transmisję, aby upewnić się, że każdy element działa bez zarzutu, zanim zaczniesz."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Co zrobić, jeśli niektóre klawisze na klawiaturze są zasłonięte?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli niektóre klawisze na klawiaturze wirtualnej są zasłonięte, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Jeśli używasz starszego telefonu 16:9 jako pilota i niektóre klawisze są zasłonięte, dotknij drugiego przycisku w lewym górnym rogu klawiatury, aby włączyć tryb pełnoekranowy.",
+                      "Jeśli układ klawiatury jest nieprawidłowy, przejdź do ustawień telefonu i ustaw rozmiar czcionki na normalny.",
+                      "Niektóre telefony mają włączony tryb dla seniorów; wyłączenie go powinno przywrócić normalne wyświetlanie klawiatury."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Problemy z wyświetlaniem są zwykle spowodowane zbyt dużą czcionką lub zbyt dużym motywem interfejsu telefonu. Zresetowanie ich do standardowego trybu powinno rozwiązać problem."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Co zrobić, jeśli mój telefon Huawei ciągle rozłącza się z funkcją multi-kamera lub wirtualną klawiaturą?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli Twój telefon Huawei doświadcza rozłączeń z funkcją multi-kamera lub wirtualną klawiaturą, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Przejdź do ustawień telefonu.",
+                      "W pasku wyszukiwania u góry wpisz „Zarządzanie uruchamianiem aplikacji”.",
+                      "Przejdź do strony zarządzania uruchamianiem aplikacji, przewiń w dół i znajdź VicastCam.",
+                      "Wyłącz przełącznik po prawej stronie, aby ikona zmieniła kolor na szary; jednocześnie włącz wszystkie trzy opcje w wyskakującym oknie, aby zmieniły kolor na niebieski."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Możesz również zapoznać się z samouczkiem wideo „Jak zapobiegać rozłączaniu się z funkcją multi-kamera i wirtualną klawiaturą na telefonach Huawei”."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Poradniki iOS",
+            "count": "8 pytań",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Jakie są zalecane wymiary materiałów do transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zalecane wymiary materiałów do transmisji na żywo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "W przypadku obrazów tła na żywo zalecamy 1080 x 1920 pikseli; w przypadku filmów również zalecamy 1080 x 1920 pikseli.",
+                      "Ważne: Nakładki pełnoekranowe muszą mieć proporcje 9:16, aby idealnie pasowały podczas przełączania między trybem pełnoekranowym a 9:16, zapewniając płynne dopasowanie."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Jakie tryby wyjścia są obsługiwane podczas transmisji?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Transmisja obsługuje dwa tryby wyjścia: transmisję 9:16 i transmisję pełnoekranową. Aby wybrać tryb na urządzeniu Apple, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, przejdź do strony transmisji na żywo i dotknij ikony menu po prawej stronie."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Wpis menu po prawej stronie strony transmisji na żywo w Apple",
+                    "caption": "Krok 1: Dotknij ikony menu po prawej stronie strony transmisji na żywo."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "W Ustawieniach zaawansowanych znajdź opcję „Proporcje obrazu” i wybierz „Pełny ekran” lub „9:16” w zależności od potrzeb."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Opcje proporcji obrazu w Ustawieniach zaawansowanych na Apple",
+                    "caption": "Krok 2: W polu „Proporcje obrazu” wybierz „Pełny ekran” lub „9:16”."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "O dwóch trybach"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Transmisja 9:16: Proporcje wyjścia są stałe i wynoszą 9:16, więc platforma transmisyjna otrzymuje obraz 9:16.",
+                      "Transmisja pełnoekranowa: Przesyła cały ekran telefonu w oryginalnej formie, bez przycinania."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Jaka jest różnica między transmisją systemową a transmisją programową?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Urządzenia Apple oferują dwa tryby przechwytywania transmisji, które znacznie różnią się zasadami działania w tle. Aby wybrać tryb transmisji, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, przejdź do strony transmisji na żywo i dotknij ikony menu po prawej stronie."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Wpis menu po prawej stronie strony transmisji na żywo w Apple",
+                    "caption": "Krok 1: Dotknij ikony menu po prawej stronie strony transmisji na żywo."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "W Ustawieniach zaawansowanych znajdź opcję „Tryb transmisji” i wybierz „Transmisja systemowa” lub „Transmisja programowa” w zależności od potrzeb."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Opcje trybu transmisji w Ustawieniach zaawansowanych na Apple",
+                    "caption": "Krok 2: W polu „Tryb transmisji” wybierz „Transmisja systemowa” lub „Transmisja programowa”."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "O dwóch trybach"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Transmisja systemowa (nagrywanie ekranu ReplayKit): Wykorzystuje systemowe nagrywanie ekranu iOS do przechwytywania ekranu, co pozwala na ciągłą transmisję nawet wtedy, gdy aplikacja działa w tle. Możesz przełączać się do innych aplikacji i nadal przechwytywać dowolną zawartość ekranu bez przerywania transmisji.",
+                      "Transmisja programowa (bezpośrednie przechwytywanie na pierwszym planie): Aplikacja przechwytuje ekran bezpośrednio. Ze względu na ograniczenia systemu iOS aplikacja musi pozostać na pierwszym planie. Jeśli przełączysz się do innej aplikacji lub wrócisz do ekranu głównego, transmisja zostanie natychmiast zatrzymana."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Jak usunąć konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zaloguj się w aplikacji VicastCam, a następnie przejdź do [Konto - ikona w prawym górnym rogu - Zarządzanie kontem - Usuń konto - Wyślij prośbę o usunięcie]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informacje o koncie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta trwale usuniemy powiązany adres e-mail, dane urządzenia i inne informacje identyfikujące, a także cofniemy autoryzację logowania przez konta Google i Apple. Po cofnięciu autoryzacji nie będziesz mógł używać tych kont do szybkiego logowania w tej aplikacji. Aby ponownie korzystać z aplikacji, musisz ponownie autoryzować i powiązać swoje konto."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Treści i zasoby"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Wszystkie materiały do transmisji, filmy, obrazy i pliki projektów są przechowywane wyłącznie na Twoim urządzeniu. Chmura platformy nie przechowuje żadnych zasobów kreatywnych. Po usunięciu funkcja zarządzania zasobami nie będzie już dostępna. Przed usunięciem wykonaj kopię zapasową zasobów za pomocą opcji „Eksport zasobów”.",
+                      "Jeśli odinstalujesz i ponownie zainstalujesz aplikację, zmienisz urządzenie lub nie wyeksportujesz kopii zapasowej wcześniej, Twoje zasoby zostaną trwale utracone."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Korzyści członkowskie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta Twoje korzyści członkowskie wygasną natychmiast. Ponieważ subskrypcje są zarządzane przez Apple, platforma nie może przetwarzać zwrotów bezpośrednio. Aby poprosić o zwrot pieniędzy, złóż wniosek za pośrednictwem oficjalnych kanałów Apple (historia zakupów w App Store). Przed usunięciem konta pamiętaj o ręcznym anulowaniu automatycznego odnawiania, aby uniknąć przyszłych opłat."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "W razie pytań skontaktuj się z obsługą klienta."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Dlaczego nie mogę uzyskać dostępu do zdjęć i filmów w telefonie podczas ich dodawania?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli biblioteka zdjęć wydaje się pusta podczas dodawania zasobów, przejdź do Ustawień iPhone'a, przewiń w dół, znajdź VicastCam, dotknij [Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Co zrobić, gdy ekran nie jest w pełni wyświetlany podczas streamowania z komputera?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli podczas streamowania z telefonu przez aplikację towarzyszącą do transmisji na żywo lub inne oprogramowanie ekran nie jest w pełni wyświetlany, wykonaj następujące czynności, aby to dostosować:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, dotknij ikony aparatu na dole, aby przejść do strony transmisji na żywo, a następnie przejdź do [Menu po prawej - Więcej ustawień - Proporcje obrazu - 9:16].",
+                      "Po przesłaniu do aplikacji towarzyszącej transmisji na żywo najpierw dopasuj skalę, a następnie przeciągnij ekran w górę lub w dół, aby wypełnić cały ekran."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Uwaga: Przed rozpoczęciem transmisji najpierw dostosuj proporcje obrazu, a następnie dodaj swoje zasoby."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Co zrobić, gdy żądanie sieciowe nie powiedzie się?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli napotkasz błędy żądań sieciowych, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz Ustawienia telefonu, przejdź do [Zarządzanie uprawnieniami - VicastCam - Użyj danych komórkowych i Wi-Fi] i włącz dostęp do sieci.",
+                      "Wyłącz tryb oszczędzania energii i wszelkie ograniczenia w tle na telefonie.",
+                      "Zmień sieć, uruchom ponownie telefon, przełącz tryb samolotowy lub zaktualizuj aplikację do najnowszej wersji.",
+                      "Jeśli problem będzie się powtarzał, zrób zrzut ekranu błędu i skontaktuj się z obsługą klienta w celu uzyskania pomocy."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Dlaczego nakładki zasobów sieciowych migoczą lub stają się czarne podczas transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli podczas dodawania zasobów sieciowych w trakcie transmisji na żywo występuje migotanie lub czarny ekran, oto jak sobie z tym poradzić:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pobierz i podglądaj wszystkie zasoby i nakładki, które planujesz użyć podczas transmisji, z wyprzedzeniem. Upewnij się, że działają poprawnie przed rozpoczęciem transmisji.",
+                      "Niektóre zasoby dołączone do oprogramowania są przechowywane na serwerach. Pobierz je przed rozpoczęciem transmisji, aby móc z nich korzystać bezpośrednio podczas transmisji, bez ponownego ładowania.",
+                      "Ładowanie zasobów w trakcie transmisji zużywa zasoby strumieniowania, pamięć telefonu i wydajność, co może powodować opóźnienia. Na słabszych telefonach może nawet prowadzić do awarii lub czarnego ekranu."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Ważna uwaga"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Zaplanuj i przećwicz swoją transmisję z wyprzedzeniem. Przećwicz każdy segment, aby upewnić się, że wszystko działa płynnie przed rozpoczęciem transmisji. Traktuj każdą transmisję z troską, a Twoja transmisja odwdzięczy Ci się tym samym."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

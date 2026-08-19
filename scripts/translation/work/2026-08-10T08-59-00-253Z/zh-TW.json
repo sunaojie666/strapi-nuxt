@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "如何建立新的直播間",
+      "tag_1": "手機版",
+      "tag_2": "新手教學"
+    },
+    {
+      "title": "認識 VicastCam 的摳像模式",
+      "tag_1": "手機版",
+      "tag_2": "功能教學"
+    },
+    {
+      "title": "如何使用 VicastCam 的圖層功能",
+      "tag_1": "手機版",
+      "tag_2": "核心功能"
+    },
+    {
+      "title": "認識桌面版 VicastCam",
+      "tag_1": "桌面版",
+      "tag_2": "新手教學"
+    },
+    {
+      "title": "如何將 iPhone 無線連接至 VicastCam",
+      "tag_1": "iOS",
+      "tag_2": "連接教學"
+    },
+    {
+      "title": "如何新增與使用本機媒體",
+      "tag_1": "桌面版",
+      "tag_2": "使用教學"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "全球社群",
+        "title_main": "隨處可用的直播體驗",
+        "title_highlight": "超過 150 個國家的直播主信賴",
+        "desc": "我們服務超過 150 個國家與地區，協助無數直播主從新手成長為專業的直播內容創作者。",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "國家"
+          },
+          {
+            "number": "2000+",
+            "name": "活躍直播主"
+          },
+          {
+            "number": "5000+",
+            "name": "人氣提升"
+          },
+          {
+            "number": "99.9%",
+            "name": "穩定性"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "zh-TW",
+        "faq_section": {
+          "tag": "常見問題",
+          "title_main": "有問題嗎？",
+          "title_highlight": "我們有答案。",
+          "description": "在下方尋找 VicastCam 常見問題的解答。找不到你要的資訊嗎？請聯絡我們的團隊。",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "VicastCam 可以直播到哪些平台？",
+              "answer": "VicastCam 支援直播到主要平台，例如 YouTube、Twitch、TikTok、Facebook Live 和 Instagram。"
+            },
+            {
+              "id": "q2",
+              "question": "VicastCam 的背景移除需要綠幕嗎？",
+              "answer": "不需要。VicastCam 使用 AI 驅動的背景移除，你可以在沒有綠幕的情況下即時替換背景。"
+            },
+            {
+              "id": "q3",
+              "question": "我可以在手機上使用 VicastCam 嗎？",
+              "answer": "可以。VicastCam 提供 iOS 和 Android 版本，所有專業功能在手機上皆可使用。"
+            },
+            {
+              "id": "q4",
+              "question": "VicastCam 的穩定性如何？",
+              "answer": "VicastCam 提供 99.9% 的穩定性，支援全球直播主 24/7 不間斷直播。"
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam 支援多機位直播嗎？",
+              "answer": "支援。你可以在直播過程中流暢切換多個攝影機，實現專業級的製作效果。"
+            }
+          ],
+          "view_more": {
+            "text": "查看更多"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam 常見問題 | Android 與 iOS 協助",
+          "description": "尋找 VicastCam 在 Android 和 iOS 上的常見問題解答，包括帳號設定、媒體權限、網路連線和直播顯示問題。",
+          "imageAlt": "VicastCam 常見問題"
+        },
+        "hero": {
+          "eyebrow": "常見問題",
+          "titleMain": "VicastCam 協助中心",
+          "titleHighlight": "快速找到解答",
+          "description": "選擇 Android 或 iOS 教學，查看適用於你裝置的常見問題與解決方案。"
+        },
+        "content": {
+          "sectionAriaLabel": "常見問題",
+          "catalogAriaLabel": "問題分類",
+          "answerLabel": "解答",
+          "questionProgressTemplate": "{group} · 第 {current} 題，共 {total} 題"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android 教學",
+            "count": "8 個問題",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "直播時建議使用什麼媒體尺寸？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播時建議的媒體尺寸："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "直播背景建議使用 1080 x 1920 像素的圖片和 1080 x 1920 像素的影片。",
+                      "重要：全螢幕疊加層必須使用 9:16 的長寬比，以確保在全螢幕與 9:16 模式之間切換時能完美對齊。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "如何刪除我的帳號？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "登入 VicastCam App 後，前往 [帳號 - 右上角圖示 - 帳號管理 - 刪除帳號 - 提交刪除申請]。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "帳號資訊"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "帳號刪除後，我們將永久移除你綁定的電子郵件、裝置紀錄及其他身分資訊。我們也會撤銷透過 Google 和 Apple 的第三方登入授權。撤銷後，你將無法再使用這些第三方帳號快速登入；若想再次使用，需重新授權。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "內容與媒體"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "所有直播媒體、影片、圖片和專案檔僅儲存在你的裝置上。平台不會在雲端保留任何創作內容。刪除帳號後，App 的媒體管理功能將無法使用，請事先使用「匯出媒體」功能備份你的內容。",
+                      "如果你在匯出備份前解除安裝並重新安裝 App，或更換裝置，你的媒體將永久無法復原。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "會員權益"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "你的會員權益將在帳號刪除後立即終止。如果你有有效的 Google Play 訂閱，刪除 App 帳號不會自動取消訂閱，你可能仍會被扣款。請前往 Google Play 的「付款與訂閱 - 訂閱」手動取消。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "如有任何問題，請聯絡我們的支援團隊。"
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "為什麼新增圖片或影片時無法存取手機媒體？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果新增媒體時相簿顯示為空白，你可以依照以下步驟開啟照片存取權限："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS：開啟手機的「設定」，向下捲動找到 VicastCam，點選 [照片 - 所有照片] 以啟用存取權限。",
+                      "Android：開啟手機的「設定」，在「權限」或「應用程式管理」中找到 VicastCam，然後點選 [權限 - 照片 - 所有照片] 以啟用存取權限。",
+                      "如果問題仍然存在，請嘗試重新安裝 App，或透過回饋功能聯絡我們的線上支援。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "從電腦直播時畫面被裁切怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果透過直播助手或其他軟體從手機直播時畫面不完整，請依照以下步驟操作："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，點選底部的相機圖示進入直播頁面，然後前往 [右側選單 - 更多設定 - 長寬比 - 9:16]。",
+                      "投屏到直播助手後，先縮放至適合，再上下拖曳畫面以填滿螢幕。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注意：請在新增媒體和開始直播前調整長寬比。"
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "網路請求失敗怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果遇到網路請求失敗，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟手機的「設定」，前往 [權限 - VicastCam - 行動數據與 Wi-Fi] 並開啟網路存取權限。",
+                      "關閉省電模式和任何背景限制。",
+                      "切換網路、重新啟動手機、切換飛航模式，或更新 App。",
+                      "如果問題仍然存在，請截圖錯誤訊息並聯絡我們的支援團隊。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "為什麼直播時線上媒體的疊加層會閃爍或變黑？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果直播時線上媒體的疊加層閃爍或變黑，你可以這樣做："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "在開播前下載並預覽你計劃使用的任何媒體或疊加層，以確保它們正常運作。",
+                      "某些內建媒體儲存在伺服器上。請在直播前下載，以便在直播過程中無需載入即可使用。",
+                      "直播中載入媒體會消耗串流資源、記憶體和效能，可能導致延遲。在較低階的裝置上，甚至可能造成當機或黑畫面。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "請提前規劃並排練你的直播。練習每個環節，確保開播前一切順利。"
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "虛擬鍵盤部分按鍵被遮住怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果虛擬鍵盤的部分按鍵被遮住，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "如果你使用的是較舊的 16:9 手機，且部分按鍵被遮住，請點選鍵盤左上角的第二個按鈕以啟用全螢幕模式。",
+                      "如果鍵盤佈局錯位，請前往手機設定，將字型大小設為標準。",
+                      "有些手機啟用了「長者模式」；關閉它應該能讓鍵盤恢復正常。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "顯示問題通常是由過大的字型或大型主題縮放造成的。將這些重設為標準應該能解決問題。"
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "華為手機在多機位或虛擬鍵盤時一直斷線怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果你在華為手機上遇到多機位或虛擬鍵盤斷線的問題，請依照以下步驟操作："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "前往手機的「設定」。",
+                      "在頂部的搜尋列輸入「應用程式啟動管理」。",
+                      "前往「應用程式啟動管理」頁面，向下捲動找到 VicastCam。",
+                      "關閉右側的開關（圖示變灰），然後在彈出視窗中啟用所有三個選項（它們會變藍）。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "你也可以參考影片教學「如何防止華為手機在多機位和虛擬鍵盤時斷線」。"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS 教學",
+            "count": "6 個問題",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "直播時建議使用什麼媒體尺寸？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "直播時建議的媒體尺寸："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "直播背景建議使用 1080 x 1920 像素的圖片和 1080 x 1920 像素的影片。",
+                      "重要：全螢幕疊加層必須使用 9:16 的長寬比，以確保在全螢幕與 9:16 模式之間切換時能完美對齊。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "如何刪除我的帳號？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "登入 VicastCam App 後，前往 [帳號 - 右上角圖示 - 帳號管理 - 刪除帳號 - 提交刪除申請]。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "帳號資訊"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "帳號刪除後，我們將永久移除你綁定的電子郵件、裝置紀錄及其他身分資訊。我們也會撤銷透過 Google 和 Apple 的第三方登入授權。撤銷後，你將無法再使用這些第三方帳號快速登入；若想再次使用，需重新授權。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "內容與媒體"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "所有直播媒體、影片、圖片和專案檔僅儲存在你的裝置上。平台不會在雲端保留任何創作內容。刪除帳號後，App 的媒體管理功能將無法使用，請事先使用「匯出媒體」功能備份你的內容。",
+                      "如果你在匯出備份前解除安裝並重新安裝 App，或更換裝置，你的媒體將永久無法復原。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "會員權益"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "你的會員權益將在帳號刪除後立即終止。由於訂閱由 Apple 管理，平台無法直接處理退款。如需申請退款，請透過 Apple 官方管道（App Store 購買紀錄）提交申請。刪除帳號前，請務必手動取消任何自動續訂的訂閱，以避免日後被扣款。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "如有任何問題，請聯絡我們的支援團隊。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "為什麼新增圖片或影片時無法存取手機媒體？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果新增媒體時相簿顯示為空白，請開啟 iPhone 的「設定」，向下捲動找到 VicastCam，然後點選 [照片 - 所有照片] 以啟用存取權限。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "從電腦直播時畫面被裁切怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果透過直播助手或其他軟體從手機直播時畫面不完整，請依照以下步驟操作："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟 VicastCam，點選底部的相機圖示進入直播頁面，然後前往 [右側選單 - 更多設定 - 長寬比 - 9:16]。",
+                      "投屏到直播助手後，先縮放至適合，再上下拖曳畫面以填滿螢幕。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注意：請在新增媒體和開始直播前調整長寬比。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "網路請求失敗怎麼辦？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果遇到網路請求失敗，請嘗試以下方法："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "開啟手機的「設定」，前往 [權限 - VicastCam - 行動數據與 Wi-Fi] 並開啟網路存取權限。",
+                      "關閉省電模式和任何背景限制。",
+                      "切換網路、重新啟動手機、切換飛航模式，或更新 App。",
+                      "如果問題仍然存在，請截圖錯誤訊息並聯絡我們的支援團隊。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "為什麼直播時線上媒體的疊加層會閃爍或變黑？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "如果直播時線上媒體的疊加層閃爍或變黑，你可以這樣做："
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "在開播前下載並預覽你計劃使用的任何媒體或疊加層，以確保它們正常運作。",
+                      "某些內建媒體儲存在伺服器上。請在直播前下載，以便在直播過程中無需載入即可使用。",
+                      "直播中載入媒體會消耗串流資源、記憶體和效能，可能導致延遲。在較低階的裝置上，甚至可能造成當機或黑畫面。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "請提前規劃並排練你的直播。練習每個環節，確保開播前一切順利。認真對待每一次直播，你將獲得最佳效果。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "教學中心",
+        "titleMain": "開始你的 VicastCam",
+        "titleHighlight": "學習之旅",
+        "description": "掌握軟體，快速上手",
+        "buttonText": "查看更多"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "教學中心",
+          "titleMain": "開始你的 VicastCam",
+          "titleHighlight": "學習之旅",
+          "descriptionMain": "掌握軟體",
+          "descriptionHighlight": "快速上手"
+        },
+        "player": {
+          "sectionAriaLabel": "教學清單",
+          "catalogAriaLabel": "教學目錄",
+          "previousLabel": "上一課",
+          "nextLabel": "下一課",
+          "firstLessonText": "這是第一課",
+          "lastLessonText": "這是最後一課",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "新手教學",
+            "count": "9 堂課",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "建立你的第一個虛擬直播間",
+                "description": "從零開始建立並設定你的第一個虛擬直播間。",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "認識圖片功能",
+                "description": "學習圖片功能的基礎知識及其使用情境。",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "如何使用圖層",
+                "description": "掌握圖層面板的基礎操作。",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "如何使用背景圖層",
+                "description": "學習新增與調整背景圖層。",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "如何使用人像圖層",
+                "description": "學習使用人像圖層來創造視覺效果。",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "如何使用圖片圖層",
+                "description": "學習新增與編輯圖片圖層。",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "如何使用影片圖層",
+                "description": "學習新增影片媒體並設定播放。",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "如何使用特效圖層",
+                "description": "為你的直播新增特效圖層。",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "如何使用字幕圖層",
+                "description": "建立字幕並調整字幕圖層樣式。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "進階教學",
+            "count": "6 堂課",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "如何使用攝影機運動圖層",
+                "description": "使用攝影機運動圖層創造更具動態的畫面。",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "如何使用路徑功能",
+                "description": "使用路徑功能控制元素的移動路徑。",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "如何使用多機位圖層",
+                "description": "設定多機位圖層，快速切換不同視角。",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "如何使用控制器功能",
+                "description": "使用控制器管理你的直播畫面。",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "如何使用音訊功能",
+                "description": "設定音訊輸入、輸出與混音效果。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "如何使用備份功能",
+                "description": "備份與還原直播間設定和媒體。",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

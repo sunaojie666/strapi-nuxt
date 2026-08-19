@@ -1,0 +1,631 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'cross' to indicate not available; candidate translates as 'ไม่มี' (none), which is acceptable, but ensure consistency with other 'cross' entries. However, 'cross' is a symbol, not a word; consider using 'ไม่มี' consistently. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'check' to indicate included; candidate translates as 'มี' (have), which is acceptable. However, for consistency, consider using 'มี' for all 'check' entries. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'check' to indicate included; candidate translates as 'มี' (have), which is acceptable. However, for consistency, consider using 'มี' for all 'check' entries. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'check' to indicate included; candidate translates as 'มี' (have), which is acceptable. However, for consistency, consider using 'มี' for all 'check' entries. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'check' to indicate included; candidate translates as 'มี' (have), which is acceptable. However, for consistency, consider using 'มี' for all 'check' entries. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].normal",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "Source uses 'cross' to indicate not available; candidate translates as 'ไม่มี' (none), which is acceptable. However, for consistency, consider using 'ไม่มี' for all 'cross' entries. This is acceptable, so no change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'ไม่มี' for 'cross' entries to match the pattern used for other 'cross' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'มี' for 'check' entries to match the pattern used for other 'check' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'มี' for 'check' entries to match the pattern used for other 'check' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'มี' for 'check' entries to match the pattern used for other 'check' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'มี' for 'check' entries to match the pattern used for other 'check' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'ไม่มี' for 'cross' entries to match the pattern used for other 'cross' entries. However, this is a stylistic choice and not required."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'cross' as a symbol, but the candidate uses 'ไม่มี' which is a word. This is acceptable, but ensure consistency across all 'cross' entries. No change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'check' as a symbol, but the candidate uses 'มี' which is a word. This is acceptable, but ensure consistency across all 'check' entries. No change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'check' as a symbol, but the candidate uses 'มี' which is a word. This is acceptable, but ensure consistency across all 'check' entries. No change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'check' as a symbol, but the candidate uses 'มี' which is a word. This is acceptable, but ensure consistency across all 'check' entries. No change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'check' as a symbol, but the candidate uses 'มี' which is a word. This is acceptable, but ensure consistency across all 'check' entries. No change needed."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].normal",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The source uses 'cross' as a symbol, but the candidate uses 'ไม่มี' which is a word. This is acceptable, but ensure consistency across all 'cross' entries. No change needed."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "ยังไม่เปิดให้ชำระเงิน",
+            "payment": {
+              "providerName": "ระบบชำระเงินออนไลน์ยังไม่เปิดใช้งาน",
+              "providerDescription": "กำลังตั้งค่าระบบประมวลผลการชำระเงิน หน้านี้แสดงเฉพาะรายละเอียดคำสั่งซื้อเท่านั้น",
+              "unavailableTitle": "ยังไม่เปิดให้ชำระเงิน",
+              "unavailableDescription": "เรากำลังเชื่อมต่อระบบชำระเงินและการยืนยันคำสั่งซื้ออย่างเป็นทางการ จนกว่าจะเปิดตัว หน้านี้จะไม่เรียกเก็บเงินหรือสร้างคำสั่งซื้อจริง",
+              "unavailableItems": [
+                "จะไม่มีการโหลดส่วนประกอบการชำระเงินของบุคคลที่สาม",
+                "จะไม่มีการส่งข้อมูลการชำระเงิน",
+                "จะไม่มีการสร้างคำสั่งซื้อจริง"
+              ],
+              "feedback": "หากต้องการซื้อหรือเปิดใช้งานสมาชิก กรุณาติดต่อ business@vicastcam.com"
+            },
+            "summary": {
+              "title": "สรุปคำสั่งซื้อ",
+              "periodLabel": "ระยะเวลาสมาชิก",
+              "paymentMethodLabel": "วิธีการชำระเงิน",
+              "amountLabel": "ยอดที่ต้องชำระ",
+              "submitLabel": "ยังไม่เปิดให้ชำระเงิน",
+              "note": "ยังไม่เปิดให้ชำระเงิน รายละเอียดคำสั่งซื้อด้านล่างใช้สำหรับยืนยันแผนของคุณ",
+              "unavailablePaymentMethod": "ยังไม่เปิดให้ชำระเงิน",
+              "fallbackProductName": "ยังไม่ได้เลือกแผน",
+              "fallbackProductDescription": "กรุณากลับไปที่หน้าหลักและเลือกแผนสมาชิก",
+              "periodMonth": "1 เดือน",
+              "periodYear": "1 ปี",
+              "periodLife": "ตลอดชีพ",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "ชำระเงินสมาชิก",
+              "description": "หน้าชำระเงินสมาชิก VicastCam"
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "แผนรายเดือน",
+                "description": "รับสิทธิ์ใช้งานเต็มรูปแบบ 1 เดือนเมื่อเปิดใช้งาน เหมาะสำหรับทดลองใช้ในราคาประหยัด"
+              },
+              {
+                "type": "year",
+                "name": "แผนรายปี",
+                "description": "รับสิทธิ์ใช้งานเต็มรูปแบบ 1 ปีเมื่อเปิดใช้งาน เหมาะสำหรับการใช้งานระยะยาวอย่างต่อเนื่อง"
+              },
+              {
+                "type": "life",
+                "name": "แผนตลอดชีพ",
+                "description": "เปิดใช้งานครั้งเดียว ใช้ได้ยาวนาน รับสิทธิประโยชน์สมาชิกอย่างต่อเนื่อง"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "th",
+          "multi_platform_section": {
+            "tag": "รองรับหลายแพลตฟอร์ม",
+            "title_main": "เข้าถึงแพลตฟอร์มไลฟ์สตรีมชั้นนำของโลก",
+            "title_highlight": "ปลดล็อกผู้ชมทั่วโลกด้วยคลิกเดียว",
+            "description": "เชื่อมต่อแหล่งทราฟฟิกระดับโลก สร้างระบบนิเวศไลฟ์สตรีมข้ามพรมแดนใหม่"
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "ศูนย์บัญชี",
+              "description": "หน้าศูนย์บัญชี VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "เมนูศูนย์บัญชี",
+              "defaultProfileName": "ผู้ใช้",
+              "emptyContent": "ไม่มีเนื้อหา",
+              "copyButtonLabel": "คัดลอก",
+              "monthSelectLabel": "เลือกเดือน",
+              "yearSuffix": "ปี",
+              "monthSuffix": "เดือน",
+              "userMissing": "ไม่พบข้อมูลผู้ใช้ กรุณาเข้าสู่ระบบอีกครั้ง",
+              "paginationLabel": "การแบ่งหน้า",
+              "previousPageLabel": "หน้าก่อนหน้า",
+              "nextPageLabel": "หน้าถัดไป",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "ไปที่",
+                "unit": "หน้า",
+                "ariaLabel": "ไปยังหน้าที่ต้องการ",
+                "buttonLabel": "ไป"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "ศูนย์บัญชี",
+              "logout": "ออกจากระบบ",
+              "profileAriaSuffix": "เมนูศูนย์บัญชี"
+            },
+            "sidebar": {
+              "ariaLabel": "เมนูศูนย์บัญชี",
+              "menus": {
+                "account": "ข้อมูลบัญชี",
+                "membership": "สมาชิก",
+                "redeem": "แลกรหัส",
+                "purchaseHistory": "ประวัติการซื้อ",
+                "team": "ทีมของฉัน",
+                "earnings": "รายได้"
+              }
+            },
+            "account": {
+              "ariaLabel": "ข้อมูลบัญชี",
+              "profileTitle": "ข้อมูลบัญชี",
+              "usernameLabel": "ชื่อผู้ใช้",
+              "passwordLabel": "รหัสผ่าน",
+              "passwordMask": "********",
+              "defaultUsername": "ยังไม่ได้ตั้งชื่อเล่น",
+              "inviteTitle": "ลิงก์เชิญ",
+              "inviteDescription": "คัดลอกลิงก์เชิญส่วนตัวของคุณ เมื่อเพื่อนสมัครและเปิดใช้งานสมาชิก คุณจะได้รับรางวัล",
+              "emptyInviteLink": "ยังไม่มีลิงก์เชิญ"
+            },
+            "membership": {
+              "ariaLabel": "สมาชิก",
+              "title": "สมาชิกของฉัน",
+              "badgeAlt": "ป้ายสมาชิก",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "ผู้ใช้ทั่วไป",
+              "activeVipName": "สมาชิก VIP",
+              "expirePrefix": "หมดอายุ",
+              "emptyExpireDate": "ยังไม่เปิดใช้งาน",
+              "activeStatus": "ใช้งานอยู่",
+              "inactiveStatus": "ยังไม่เปิดใช้งาน",
+              "compareTitle": "เปรียบเทียบสิทธิประโยชน์สมาชิก",
+              "compareHeaders": {
+                "feature": "คุณสมบัติ",
+                "normal": "ฟรี",
+                "month": "รายเดือน",
+                "year": "รายปี",
+                "life": "ตลอดชีพ"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "สมาชิกรายเดือน",
+                  "subtitle": "เหมาะสำหรับการใช้งานระยะสั้น",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/เดือน",
+                  "cta": "เริ่มใช้งาน",
+                  "benefits": [
+                    "ฟีเจอร์กล้องเสมือนหลัก",
+                    "พื้นหลังเสมือนและการปรับความงาม",
+                    "รองรับการไลฟ์สตรีมหลายแพลตฟอร์ม",
+                    "อัปเดตมาตรฐาน"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "สมาชิกรายปี",
+                  "subtitle": "คุ้มค่ากว่าสำหรับการใช้งานระยะยาว",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/ปี",
+                  "cta": "เริ่มใช้งาน",
+                  "benefits": [
+                    "สิทธิประโยชน์ทั้งหมดของรายเดือน",
+                    "ฟีเจอร์ขั้นสูงทั้งหมดเป็นเวลา 1 ปี",
+                    "อัปเดตฟีเจอร์ก่อนใคร",
+                    "การสนับสนุนสมาชิกโดยเฉพาะ"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "สมาชิกตลอดชีพ",
+                  "subtitle": "จ่ายครั้งเดียว ใช้ได้ยาวนาน",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/ตลอดชีพ",
+                  "cta": "เริ่มใช้งาน",
+                  "benefits": [
+                    "สิทธิประโยชน์ทั้งหมดของรายปี",
+                    "ฟีเจอร์ขั้นสูงตลอดไป",
+                    "อัปเดตระยะยาว",
+                    "ช่องทางการสนับสนุนเฉพาะ"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "ระยะเวลาสมาชิก",
+                  "normal": "ฟรีตลอดไป",
+                  "month": "30 วัน",
+                  "year": "365 วัน",
+                  "life": "ตลอดชีพ"
+                },
+                {
+                  "feature": "กล้องเสมือนบนเดสก์ท็อป",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "พื้นหลังเสมือนที่กำหนดเอง",
+                  "normal": "1 ชุด",
+                  "month": "ไม่จำกัด",
+                  "year": "ไม่จำกัด",
+                  "life": "ไม่จำกัด"
+                },
+                {
+                  "feature": "พรีเซ็ตการไลฟ์สตรีม",
+                  "normal": "ไม่มี",
+                  "month": "ไม่จำกัด",
+                  "year": "ไม่จำกัด",
+                  "life": "ไม่จำกัด"
+                },
+                {
+                  "feature": "ทรัพยากรจากเว็บไซต์ทางการ",
+                  "normal": "จำกัด",
+                  "month": "ไม่จำกัด",
+                  "year": "ไม่จำกัด",
+                  "life": "ไม่จำกัด"
+                },
+                {
+                  "feature": "ควบคุมระยะไกลผ่านคอนโทรลเลอร์",
+                  "normal": "มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "โหมดเปรียบเทียบฉากสด",
+                  "normal": "มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "คำบรรยายฉาก",
+                  "normal": "จำกัด",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "เพลงประกอบฉาก",
+                  "normal": "จำกัด",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "อินพุตหลายกล้อง",
+                  "normal": "ไม่มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "ฟิลเตอร์ความงามขั้นสูง",
+                  "normal": "พื้นฐาน",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "AI ตัดพื้นหลังจอเขียวอัจฉริยะ",
+                  "normal": "มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "เอฟเฟกต์เคลื่อนไหวตามการเคลื่อนไหว",
+                  "normal": "จำกัด",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "เอฟเฟกต์การเคลื่อนไหวกล้องในฉาก",
+                  "normal": "จำกัด",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "คลังเอฟเฟกต์ VIP",
+                  "normal": "จำกัด",
+                  "month": "ไม่จำกัด",
+                  "year": "ไม่จำกัด",
+                  "life": "ไม่จำกัด"
+                },
+                {
+                  "feature": "สตรีมไปยังแพลตฟอร์ม",
+                  "normal": "มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "เอาต์พุต 4K UHD",
+                  "normal": "ไม่มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                },
+                {
+                  "feature": "อัตราคอมมิชชันโปรโมชัน",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "รางวัลการแนะนำ",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "ช่องทางการสนับสนุน",
+                  "normal": "ชุมชนบริการตนเอง",
+                  "month": "คิวมาตรฐาน",
+                  "year": "ตอบกลับลำดับแรก",
+                  "life": "การสนับสนุนเฉพาะ"
+                },
+                {
+                  "feature": "เข้าถึงฟีเจอร์ใหม่ก่อนใคร",
+                  "normal": "ไม่มี",
+                  "month": "มี",
+                  "year": "มี",
+                  "life": "มี"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "แลกรหัส",
+              "title": "แลกรหัส",
+              "tip": "ป้อนรหัสแลกสมาชิกของคุณ สิทธิประโยชน์จะถูกเปิดใช้งานทันทีหลังการแลก",
+              "placeholder": "ป้อนรหัสแลก",
+              "submitButton": "แลกเลย",
+              "agreementPrefix": "การแลกรหัสแสดงว่าคุณยอมรับ",
+              "userProtocolText": "ข้อตกลงผู้ใช้",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "การแลกไม่สำเร็จ กรุณาตรวจสอบรหัสและลองอีกครั้ง"
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "ประวัติการซื้อ",
+              "title": "ประวัติการซื้อ",
+              "tabTitle": "การซื้อ",
+              "exchangeTabTitle": "การแลก",
+              "tableHeaders": {
+                "title": "ประเภท",
+                "date": "วันที่ชำระเงิน",
+                "price": "จำนวนเงิน",
+                "paymentMethod": "วิธีการชำระเงิน",
+                "status": "สถานะ",
+                "exchangeDate": "วันที่แลก",
+                "exchangeCode": "รหัสแลก"
+              },
+              "exchangeTableHeaders": {
+                "date": "วันที่แลก",
+                "code": "รหัสแลก"
+              },
+              "cardTypes": {
+                "month": "แผนรายเดือน",
+                "year": "แผนรายปี",
+                "life": "แผนตลอดชีพ",
+                "default": "สมาชิก"
+              },
+              "orderStatuses": {
+                "pending": "รอดำเนินการ",
+                "paid": "ชำระแล้ว",
+                "closed": "ปิดแล้ว",
+                "refunded": "คืนเงินแล้ว",
+                "unknown": "ไม่ทราบ"
+              },
+              "secretLabels": {
+                "show": "แสดงรหัสผ่าน",
+                "hide": "ซ่อนรหัสผ่าน"
+              },
+              "secretMask": "******",
+              "emptyText": "ไม่มีประวัติการซื้อ",
+              "exchangeEmptyText": "ไม่มีประวัติการแลก",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "บัตรธนาคาร",
+                "creditcard": "บัตรเครดิต",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "สกุลเงินดิจิทัล",
+                "balance": "ยอดคงเหลือ",
+                "free": "ฟรี"
+              }
+            },
+            "team": {
+              "ariaLabel": "ทีมของฉัน",
+              "title": "ทีมของฉัน",
+              "referrerLabel": "ผู้แนะนำของฉัน",
+              "levelOne": "สมาชิกระดับ 1",
+              "levelTwo": "สมาชิกระดับ 2",
+              "tableHeaders": {
+                "name": "ชื่อสมาชิก",
+                "status": "สถานะสมาชิก",
+                "joinedAt": "เข้าร่วมเมื่อ"
+              },
+              "memberStatus": {
+                "free": "ผู้ใช้ทั่วไป",
+                "vip": "ผู้ใช้ VIP"
+              },
+              "emptyMemberName": "ผู้ใช้ที่ไม่มีชื่อ",
+              "emptyReferrer": "ไม่มีผู้แนะนำ",
+              "emptyTeam": "ยังไม่มีสมาชิกในทีม",
+              "errors": {
+                "loadFail": "ไม่สามารถโหลดสมาชิกทีมได้ กรุณาลองใหม่ในภายหลัง"
+              }
+            },
+            "earnings": {
+              "ariaLabel": "รายได้",
+              "title": "ภาพรวมรายได้",
+              "commissionTitle": "รายละเอียดคอมมิชชัน",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "รายได้ทั้งหมด",
+                  "desc": "คอมมิชชันสะสมจนถึงปัจจุบัน"
+                },
+                {
+                  "key": "month",
+                  "title": "เดือนนี้",
+                  "desc": "คอมมิชชันที่ได้รับในเดือนนี้"
+                },
+                {
+                  "key": "settling",
+                  "title": "รอการชำระ",
+                  "value": "0.00",
+                  "desc": "จำนวนเงินที่รอการชำระ"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "ถอนได้",
+                  "desc": "จำนวนเงินที่สามารถถอนได้ในขณะนี้",
+                  "action": "ถอนเงิน"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "ชื่อผู้ใช้",
+                "saleTime": "เวลาที่ขาย",
+                "goodsInfo": "สินค้า",
+                "commission": "คอมมิชชัน"
+              },
+              "emptyCommission": "ไม่มีบันทึกคอมมิชชัน",
+              "errors": {
+                "loadFail": "ไม่สามารถโหลดรายละเอียดคอมมิชชันได้ กรุณาลองใหม่ในภายหลัง"
+              },
+              "withdraw": {
+                "ariaLabel": "คำขอถอนเงิน",
+                "title": "คำขอถอนเงิน",
+                "closeLabel": "ปิดหน้าต่างถอนเงิน",
+                "balanceLabel": "ยอดคงเหลือที่ถอนได้",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "จำนวนเงินที่ถอน",
+                "amountPlaceholder": "ป้อนจำนวนเงินที่ถอน",
+                "allButton": "ทั้งหมด",
+                "allAmountValue": "0.00",
+                "amountTip": "กรุณาตรวจสอบจำนวนเงินให้ถูกต้อง คำขอของคุณจะถูกตรวจสอบโดยเจ้าหน้าที่หลังส่ง",
+                "methodLabel": "วิธีการถอนเงิน",
+                "methods": [
+                  "บัตรธนาคาร",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "บัตรธนาคาร",
+                "nameLabel": "ชื่อผู้รับ",
+                "namePlaceholder": "ป้อนชื่อผู้รับ",
+                "defaultName": "",
+                "bankCardLabel": "หมายเลขบัญชี",
+                "bankCardPlaceholder": "ป้อนหมายเลขบัตรธนาคาร อีเมล PayPal หรือที่อยู่กระเป๋าเงิน",
+                "remarkLabel": "หมายเหตุ",
+                "remarkPlaceholder": "ข้อมูลเพิ่มเติม (ไม่บังคับ)",
+                "note": "คำขอถอนเงินจะดำเนินการภายใน 1-3 วันทำการ",
+                "cancelButton": "ยกเลิก",
+                "submitButton": "ส่งคำขอ"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "แลกสำเร็จ",
+              "operationFailed": "แลกไม่สำเร็จ",
+              "invalidCard": "รหัสแลกไม่ถูกต้อง",
+              "cardNotFound": "ไม่พบรหัสแลก",
+              "cardDisabled": "รหัสแลกถูกปิดใช้งาน",
+              "cardExpired": "รหัสแลกหมดอายุ"
+            },
+            "successMessage": "ดำเนินการสำเร็จ"
+          }
+        }
+      }
+    ]
+  }
+}

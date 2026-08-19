@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Pembayaran belum tersedia",
+          "payment": {
+            "providerName": "Pembayaran dalam talian belum aktif",
+            "providerDescription": "Pemprosesan pembayaran sedang disediakan. Halaman ini hanya memaparkan butiran pesanan.",
+            "unavailableTitle": "Pembayaran belum tersedia",
+            "unavailableDescription": "Kami sedang mengintegrasikan proses pembayaran dan pengesahan pesanan rasmi. Sehingga pelancaran, halaman ini tidak akan mengenakan caj atau mencipta pesanan sebenar.",
+            "unavailableItems": [
+              "Tiada komponen pembayaran pihak ketiga akan dimuatkan",
+              "Tiada maklumat pembayaran akan dihantar",
+              "Tiada pesanan pembayaran sebenar akan dibuat"
+            ],
+            "feedback": "Untuk membeli atau mengaktifkan keahlian, sila hubungi business@vicastcam.com."
+          },
+          "summary": {
+            "title": "Ringkasan Pesanan",
+            "periodLabel": "Tempoh Keahlian",
+            "paymentMethodLabel": "Kaedah Pembayaran",
+            "amountLabel": "Jumlah Perlu Dibayar",
+            "submitLabel": "Belum tersedia",
+            "note": "Pembayaran belum tersedia. Butiran pesanan di bawah adalah untuk mengesahkan pelan anda.",
+            "unavailablePaymentMethod": "Belum tersedia",
+            "fallbackProductName": "Tiada pelan dipilih",
+            "fallbackProductDescription": "Sila kembali ke laman utama dan pilih pelan keahlian.",
+            "periodMonth": "1 bulan",
+            "periodYear": "1 tahun",
+            "periodLife": "Seumur hidup",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "Pembayaran Langganan",
+            "description": "Halaman pembayaran langganan VicastCam."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "Pelan Bulanan",
+              "description": "Dapatkan akses penuh selama sebulan selepas pengaktifan. Cara kos rendah untuk mencuba."
+            },
+            {
+              "type": "year",
+              "name": "Pelan Tahunan",
+              "description": "Dapatkan akses penuh selama setahun selepas pengaktifan. Sesuai untuk penggunaan jangka panjang dan stabil."
+            },
+            {
+              "type": "life",
+              "name": "Pelan Seumur Hidup",
+              "description": "Aktifkan sekali dan gunakan untuk jangka masa panjang. Nikmati faedah keahlian secara berterusan."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "ms",
+        "multi_platform_section": {
+          "tag": "Sokongan Pelbagai Platform",
+          "title_main": "Jangkau Platform Penstriman Terkemuka Dunia",
+          "title_highlight": "Buka Kunci Khalayak Global dengan Satu Klik",
+          "description": "Sambung ke sumber trafik global dan bina ekosistem penstriman rentas sempadan yang baharu."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Pusat Akaun",
+            "description": "Halaman pusat akaun VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Navigasi pusat akaun",
+            "defaultProfileName": "Pengguna",
+            "emptyContent": "Tiada kandungan",
+            "copyButtonLabel": "Salin",
+            "monthSelectLabel": "Pilih bulan",
+            "yearSuffix": "thn",
+            "monthSuffix": "bln",
+            "userMissing": "Maklumat pengguna tidak ditemui. Sila log masuk semula.",
+            "paginationLabel": "Penomboran halaman",
+            "previousPageLabel": "Halaman sebelumnya",
+            "nextPageLabel": "Halaman seterusnya",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Pergi ke",
+              "unit": "halaman",
+              "ariaLabel": "Pergi ke halaman tertentu",
+              "buttonLabel": "Pergi"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Pusat Akaun",
+            "logout": "Log keluar",
+            "profileAriaSuffix": "Menu pusat akaun"
+          },
+          "sidebar": {
+            "ariaLabel": "Navigasi pusat akaun",
+            "menus": {
+              "account": "Maklumat Akaun",
+              "membership": "Keahlian",
+              "redeem": "Tebus Kod",
+              "purchaseHistory": "Sejarah Pembelian",
+              "team": "Pasukan Saya",
+              "earnings": "Pendapatan"
+            }
+          },
+          "account": {
+            "ariaLabel": "Maklumat akaun",
+            "profileTitle": "Maklumat Akaun",
+            "usernameLabel": "Nama Pengguna",
+            "passwordLabel": "Kata Laluan",
+            "passwordMask": "********",
+            "defaultUsername": "Tiada nama panggilan ditetapkan",
+            "inviteTitle": "Pautan Jemputan",
+            "inviteDescription": "Salin pautan jemputan peribadi anda. Apabila rakan mendaftar dan mengaktifkan keahlian, anda akan menerima ganjaran.",
+            "emptyInviteLink": "Belum ada pautan jemputan"
+          },
+          "membership": {
+            "ariaLabel": "Keahlian",
+            "title": "Keahlian Saya",
+            "badgeAlt": "Lencana keahlian",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Pengguna Percuma",
+            "activeVipName": "Ahli VIP",
+            "expirePrefix": "Tamat",
+            "emptyExpireDate": "Belum diaktifkan",
+            "activeStatus": "Aktif",
+            "inactiveStatus": "Belum diaktifkan",
+            "compareTitle": "Bandingkan Faedah Keahlian",
+            "compareHeaders": {
+              "feature": "Ciri",
+              "normal": "Percuma",
+              "month": "Bulanan",
+              "year": "Tahunan",
+              "life": "Seumur Hidup"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Keahlian Bulanan",
+                "subtitle": "Sesuai untuk penggunaan jangka pendek",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/bulan",
+                "cta": "Mula",
+                "benefits": [
+                  "Ciri kamera maya teras",
+                  "Latar belakang maya dan kecantikan",
+                  "Sokongan penstriman pelbagai platform",
+                  "Kemas kini standard"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Keahlian Tahunan",
+                "subtitle": "Nilai lebih baik untuk penggunaan jangka panjang",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/tahun",
+                "cta": "Mula",
+                "benefits": [
+                  "Semua faedah Bulanan",
+                  "Semua ciri lanjutan selama setahun",
+                  "Kemas kini ciri keutamaan",
+                  "Sokongan ahli khusus"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Keahlian Seumur Hidup",
+                "subtitle": "Bayar sekali, gunakan untuk jangka panjang",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/seumur hidup",
+                "cta": "Mula",
+                "benefits": [
+                  "Semua faedah Tahunan",
+                  "Ciri lanjutan selama-lamanya",
+                  "Kemas kini jangka panjang",
+                  "Saluran sokongan khusus"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Tempoh keahlian",
+                "normal": "Percuma selama-lamanya",
+                "month": "30 hari",
+                "year": "365 hari",
+                "life": "Seumur hidup"
+              },
+              {
+                "feature": "Kamera maya desktop",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Latar belakang maya tersuai",
+                "normal": "Satu set",
+                "month": "Tanpa had",
+                "year": "Tanpa had",
+                "life": "Tanpa had"
+              },
+              {
+                "feature": "Pratetap penstriman langsung",
+                "normal": "cross",
+                "month": "Tanpa had",
+                "year": "Tanpa had",
+                "life": "Tanpa had"
+              },
+              {
+                "feature": "Aset laman web rasmi",
+                "normal": "Terhad",
+                "month": "Tanpa had",
+                "year": "Tanpa had",
+                "life": "Tanpa had"
+              },
+              {
+                "feature": "Kawalan jauh melalui pengawal",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Mod perbandingan adegan langsung",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Sari kata adegan",
+                "normal": "Terhad",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Muzik adegan",
+                "normal": "Terhad",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Input pelbagai kamera",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Penapis kecantikan lanjutan",
+                "normal": "Asas",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Pemotongan skrin hijau pintar AI",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Animasi jejak gerakan dinamik",
+                "normal": "Terhad",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Kesan gerakan kamera adegan",
+                "normal": "Terhad",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Perpustakaan kesan VIP",
+                "normal": "Terhad",
+                "month": "Tanpa had",
+                "year": "Tanpa had",
+                "life": "Tanpa had"
+              },
+              {
+                "feature": "Penstriman platform",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Output 4K UHD",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Kadar komisen promosi",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Ganjaran rujukan",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Saluran sokongan",
+                "normal": "Layan diri komuniti",
+                "month": "Barisan standard",
+                "year": "Respons keutamaan",
+                "life": "Sokongan khusus"
+              },
+              {
+                "feature": "Akses awal kepada ciri baharu",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Tebus kod",
+            "title": "Tebus Kod",
+            "tip": "Masukkan kod penebusan keahlian anda. Faedah anda akan diaktifkan serta-merta selepas penebusan.",
+            "placeholder": "Masukkan kod penebusan",
+            "submitButton": "Tebus Sekarang",
+            "agreementPrefix": "Dengan menebus, anda bersetuju dengan",
+            "userProtocolText": "Perjanjian Pengguna",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Penebusan gagal. Sila semak kod dan cuba lagi."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Sejarah pembelian",
+            "title": "Sejarah Pembelian",
+            "tabTitle": "Pembelian",
+            "exchangeTabTitle": "Penebusan",
+            "tableHeaders": {
+              "title": "Jenis",
+              "date": "Tarikh Pembayaran",
+              "price": "Jumlah",
+              "paymentMethod": "Kaedah Pembayaran",
+              "status": "Status",
+              "exchangeDate": "Tarikh Penebusan",
+              "exchangeCode": "Kod Penebusan"
+            },
+            "exchangeTableHeaders": {
+              "date": "Tarikh Penebusan",
+              "code": "Kod Penebusan"
+            },
+            "cardTypes": {
+              "month": "Pelan Bulanan",
+              "year": "Pelan Tahunan",
+              "life": "Pelan Seumur Hidup",
+              "default": "Keahlian"
+            },
+            "orderStatuses": {
+              "pending": "Menunggu",
+              "paid": "Dibayar",
+              "closed": "Ditutup",
+              "refunded": "Dibayar balik",
+              "unknown": "Tidak diketahui"
+            },
+            "secretLabels": {
+              "show": "Tunjukkan kata laluan",
+              "hide": "Sembunyikan kata laluan"
+            },
+            "secretMask": "******",
+            "emptyText": "Tiada sejarah pembelian",
+            "exchangeEmptyText": "Tiada sejarah penebusan",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Kad bank",
+              "creditcard": "Kad kredit",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Mata wang kripto",
+              "balance": "Baki",
+              "free": "Percuma"
+            }
+          },
+          "team": {
+            "ariaLabel": "Pasukan saya",
+            "title": "Pasukan Saya",
+            "referrerLabel": "Perujuk Saya",
+            "levelOne": "Ahli Tahap 1",
+            "levelTwo": "Ahli Tahap 2",
+            "tableHeaders": {
+              "name": "Nama Ahli",
+              "status": "Status Keahlian",
+              "joinedAt": "Sertai"
+            },
+            "memberStatus": {
+              "free": "Pengguna Percuma",
+              "vip": "Pengguna VIP"
+            },
+            "emptyMemberName": "Pengguna Tanpa Nama",
+            "emptyReferrer": "Tiada perujuk",
+            "emptyTeam": "Belum ada ahli pasukan",
+            "errors": {
+              "loadFail": "Gagal memuatkan ahli pasukan. Sila cuba lagi kemudian."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Pendapatan",
+            "title": "Ringkasan Pendapatan",
+            "commissionTitle": "Butiran Komisen",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Jumlah Pendapatan",
+                "desc": "Jumlah komisen yang diperoleh sehingga kini"
+              },
+              {
+                "key": "month",
+                "title": "Bulan Ini",
+                "desc": "Komisen yang diperoleh bulan ini"
+              },
+              {
+                "key": "settling",
+                "title": "Menunggu Penyelesaian",
+                "value": "0.00",
+                "desc": "Jumlah yang menunggu penyelesaian"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Boleh Dikeluarkan",
+                "desc": "Jumlah yang tersedia untuk pengeluaran",
+                "action": "Keluarkan"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Nama Pengguna",
+              "saleTime": "Masa Jualan",
+              "goodsInfo": "Produk",
+              "commission": "Komisen"
+            },
+            "emptyCommission": "Tiada rekod komisen",
+            "errors": {
+              "loadFail": "Gagal memuatkan butiran komisen. Sila cuba lagi kemudian."
+            },
+            "withdraw": {
+              "ariaLabel": "Permintaan pengeluaran",
+              "title": "Permintaan Pengeluaran",
+              "closeLabel": "Tutup dialog pengeluaran",
+              "balanceLabel": "Baki Boleh Dikeluarkan",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Jumlah Pengeluaran",
+              "amountPlaceholder": "Masukkan jumlah pengeluaran",
+              "allButton": "Semua",
+              "allAmountValue": "0.00",
+              "amountTip": "Sila sahkan jumlah adalah betul. Permintaan anda akan disemak secara manual selepas penghantaran.",
+              "methodLabel": "Kaedah Pengeluaran",
+              "methods": [
+                "Kad bank",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Kad bank",
+              "nameLabel": "Nama Penerima",
+              "namePlaceholder": "Masukkan nama penerima",
+              "defaultName": "",
+              "bankCardLabel": "Nombor Akaun",
+              "bankCardPlaceholder": "Masukkan nombor kad bank, e-mel PayPal, atau alamat dompet",
+              "remarkLabel": "Nota",
+              "remarkPlaceholder": "Maklumat tambahan (pilihan)",
+              "note": "Permintaan pengeluaran diproses dalam 1-3 hari perniagaan.",
+              "cancelButton": "Batal",
+              "submitButton": "Hantar Permintaan"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Penebusan berjaya",
+            "operationFailed": "Penebusan gagal",
+            "invalidCard": "Kod penebusan tidak sah",
+            "cardNotFound": "Kod penebusan tidak ditemui",
+            "cardDisabled": "Kod penebusan dilumpuhkan",
+            "cardExpired": "Kod penebusan telah tamat tempoh"
+          },
+          "successMessage": "Operasi berjaya"
+        }
+      }
+    }
+  ]
+}

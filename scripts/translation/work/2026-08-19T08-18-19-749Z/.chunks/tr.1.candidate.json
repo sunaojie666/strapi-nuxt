@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Hesap Merkezi",
+    "description": "VicastCam Hesap Merkezi sayfası"
+  },
+  "common": {
+    "sidebarAriaLabel": "Hesap navigasyonu",
+    "defaultProfileName": "Kullanıcı",
+    "emptyContent": "İçerik yok",
+    "copyButtonLabel": "Kopyala",
+    "monthSelectLabel": "Ay seçin",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Kullanıcı bilgisi bulunamadı. Lütfen tekrar giriş yapın.",
+    "paginationLabel": "Sayfalama",
+    "previousPageLabel": "Önceki sayfa",
+    "nextPageLabel": "Sonraki sayfa",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Git",
+      "unit": "sayfa",
+      "ariaLabel": "Belirli bir sayfaya git",
+      "buttonLabel": "Git"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Hesap Merkezi",
+    "logout": "Çıkış yap",
+    "profileAriaSuffix": "Hesap menüsü"
+  },
+  "sidebar": {
+    "ariaLabel": "Hesap navigasyonu",
+    "menus": {
+      "account": "Hesap Bilgileri",
+      "membership": "Üyelik",
+      "redeem": "Kod Kullan",
+      "purchaseHistory": "Satın Alma Geçmişi",
+      "team": "Ekibim",
+      "earnings": "Kazançlar"
+    }
+  },
+  "account": {
+    "ariaLabel": "Hesap Bilgileri",
+    "profileTitle": "Hesap Bilgileri",
+    "usernameLabel": "Kullanıcı adı",
+    "passwordLabel": "Şifre",
+    "passwordMask": "********",
+    "defaultUsername": "Takma ad ayarlanmamış",
+    "emailLabel": "Bağlı E-posta",
+    "emailPlaceholder": "E-postanızı girin",
+    "codePlaceholder": "Doğrulama kodunu girin",
+    "sendCodeButton": "Kod Gönder",
+    "bindButton": "E-postayı Bağla",
+    "alreadyBound": "Bağlandı",
+    "unboundEmail": "Bağlı değil",
+    "emailBindTip": "E-posta bağlandıktan sonra değiştirilemez. Lütfen e-posta adresinin doğru olduğundan emin olun.",
+    "emailRequired": "Geçerli bir e-posta girin",
+    "codeRequired": "Doğrulama kodunu girin",
+    "codeSent": "Doğrulama kodu gönderildi. E-postanızı kontrol edin.",
+    "bindSuccess": "E-posta başarıyla bağlandı",
+    "bindFailed": "E-posta bağlanamadı. Kodu kontrol edip tekrar deneyin.",
+    "requestFailed": "İstek başarısız oldu. Lütfen daha sonra tekrar deneyin.",
+    "inviteTitle": "Davet Bağlantısı",
+    "inviteDescription": "Kişisel davet bağlantınızı kopyalayın. Arkadaşlarınız kaydolup üyelik satın aldığında ödüller kazanırsınız.",
+    "emptyInviteLink": "Kullanılabilir davet bağlantısı yok"
+  }
+}

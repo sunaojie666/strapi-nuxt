@@ -1403,6 +1403,40 @@ export interface ApiSdkSdk extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiSocialSocial extends Struct.CollectionTypeSchema {
+  collectionName: 'socials';
+  info: {
+    displayName: '\u793E\u4EA4\u94FE\u63A5';
+    pluralName: 'socials';
+    singularName: 'social';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::social.social'>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiSoundcardSoundcard extends Struct.CollectionTypeSchema {
   collectionName: 'soundcards';
   info: {
@@ -2160,6 +2194,7 @@ declare module '@strapi/strapi' {
       'api::refund.refund': ApiRefundRefund;
       'api::safety.safety': ApiSafetySafety;
       'api::sdk.sdk': ApiSdkSdk;
+      'api::social.social': ApiSocialSocial;
       'api::soundcard.soundcard': ApiSoundcardSoundcard;
       'api::streamer.streamer': ApiStreamerStreamer;
       'api::team.team': ApiTeamTeam;

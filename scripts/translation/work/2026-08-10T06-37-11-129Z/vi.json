@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "vi",
+        "loginTitle1": "Đổi phông nền ảo chỉ với một cú nhấp chuột",
+        "loginTitle2": "Phát trực tiếp ấn tượng hơn",
+        "loginDes1": "Công cụ phát trực tiếp chuyên nghiệp được hỗ trợ bởi AI",
+        "loginDes2": "Phông nền ảo, tăng cường trực tiếp và phát đa nền tảng trở nên đơn giản",
+        "featureTitle1": "AI Tách nền",
+        "featureSubTitle1": "Thay phông nền theo thời gian thực",
+        "featureTitle2": "Phát đa nền tảng",
+        "featureSubTitle2": "Phát trực tiếp chỉ với một chạm",
+        "featureTitle3": "Camera ảo",
+        "featureSubTitle3": "Biến điện thoại thành webcam",
+        "loginBox": {
+          "loginPageTitle": "Đăng nhập / Đăng ký",
+          "codeLoginTab": "Đăng nhập bằng mã",
+          "pwdLoginTab": "Đăng nhập bằng mật khẩu",
+          "qrLoginTab": "Đăng nhập bằng mã QR",
+          "emailInputPlaceholder": "Nhập email để đăng nhập",
+          "pwdInputPlaceholder": "Nhập mật khẩu",
+          "verifyCodePlaceholder": "Nhập mã xác minh",
+          "getVerifyCodeText": "Lấy mã",
+          "loginBtnText": "Đăng nhập",
+          "qrLoginTip": "Quét mã bằng ứng dụng VicastCam để đăng nhập",
+          "qrWaitingTip": "Đang chờ xác nhận quét",
+          "agreeProtocolText": "Tôi đã đọc và đồng ý với Chính sách quyền riêng tư và Thỏa thuận người dùng",
+          "userProtocolText": "Thỏa thuận người dùng",
+          "privacyPolicyText": "Chính sách quyền riêng tư",
+          "agreeProtocolPrefix": "Tôi đã đọc và đồng ý với"
+        },
+        "toastBox": {
+          "closeToastLabel": "Đóng thông báo",
+          "requestLoading": "Đang tải",
+          "requestSuccess": "Yêu cầu thành công",
+          "requestFail": "Yêu cầu thất bại",
+          "passwordLoginNotReady": "Đăng nhập bằng mật khẩu chưa khả dụng",
+          "passwordRequired": "Vui lòng nhập mật khẩu",
+          "emailRequired": "Vui lòng nhập email để đăng nhập",
+          "verifyCodeRequired": "Vui lòng nhập mã xác minh",
+          "agreeProtocolRequired": "Vui lòng đọc và đồng ý với Chính sách quyền riêng tư và Thỏa thuận người dùng trước",
+          "qrcodeExpired": "Mã QR đã hết hạn. Vui lòng tạo mã mới."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "vi",
+        "hero_section": {
+          "tag": "Công cụ phát trực tiếp hỗ trợ AI",
+          "title_main": "Hiệu ứng phông xanh và chiếu màn hình từ điện thoại của bạn",
+          "title_highlight": "Nâng tầm phát trực tiếp trên toàn thế giới",
+          "description": "VicastCam sử dụng công nghệ AI tách nền tiên tiến để bạn có thể đổi phông nền ảo bất cứ lúc nào trong buổi phát, thêm hiệu ứng sống động và vẻ chuyên nghiệp cho các buổi phát trực tiếp của bạn.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Tải xuống"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Tải xuống"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam cung cấp cho nhà sáng tạo phông nền ảo, các công cụ tăng cường trực tiếp và công cụ đa nền tảng."
+          },
+          "columns": [
+            {
+              "title": "Sản phẩm",
+              "links": [
+                {
+                  "text": "Tính năng"
+                },
+                {
+                  "text": "Bảng giá"
+                },
+                {
+                  "text": "Tải xuống"
+                }
+              ]
+            },
+            {
+              "title": "Nhà phát triển",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Tài liệu API"
+                }
+              ]
+            },
+            {
+              "title": "Công ty",
+              "links": [
+                {
+                  "text": "Về chúng tôi"
+                },
+                {
+                  "text": "Chính sách quyền riêng tư"
+                },
+                {
+                  "text": "Thỏa thuận người dùng"
+                },
+                {
+                  "text": "Thỏa thuận thành viên"
+                }
+              ]
+            },
+            {
+              "title": "Hỗ trợ",
+              "links": [
+                {
+                  "text": "Video hướng dẫn"
+                },
+                {
+                  "text": "Câu hỏi thường gặp"
+                },
+                {
+                  "text": "Liên hệ chúng tôi"
+                }
+              ]
+            },
+            {
+              "title": "Đối tác",
+              "links": [
+                {
+                  "text": "Trở thành nhà phân phối"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Hợp tác kinh doanh"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Tính năng",
+      "nav_pricing": "Bảng giá",
+      "nav_faq": "Câu hỏi thường gặp",
+      "nav_auth": "Đăng nhập / Đăng ký",
+      "nav_team": "Đối tác"
+    }
+  ]
+}

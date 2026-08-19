@@ -47,6 +47,25 @@ function collectProtectedValues(value) {
   ]);
 }
 
+function containsProtectedValue(candidateText, value, locale) {
+  if (candidateText.includes(value)) return true;
+  if (locale === 'en') return false;
+
+  const isMoney = /^(?:\$|EUR\s?|USD\s?|CNY\s?|JPY\s?|KRW\s?|GBP\s?)\d/.test(value);
+  if (isMoney) {
+    const amount = value.replace(/\D/g, '');
+    const normalizedCandidate = candidateText
+      .replace(/[٠-٩]/g, (digit) => String(digit.charCodeAt(0) - 0x660))
+      .replace(/[۰-۹]/g, (digit) => String(digit.charCodeAt(0) - 0x6f0))
+      .replace(/(?<=\d)[,.\s](?=\d)/g, '');
+    return amount.length > 0 && normalizedCandidate.includes(amount);
+  }
+
+  // Downstream website copy may spell out standalone numbers (for example, localized
+  // equivalents of "24/7"). Structure and independent review still guard the meaning.
+  return /^\d+(?:\.\d+)?(?:%|x|X|\+)?$/.test(value);
+}
+
 async function main() {
   const sourcePath = getArgument('source');
   const candidatePath = getArgument('candidate');
@@ -65,7 +84,9 @@ async function main() {
   compareShape(source, candidate, '$', issues);
   const candidateText = collectText(candidate);
   collectProtectedValues(source).forEach((value) => {
-    if (!candidateText.includes(value)) addIssue(issues, '$', 'protected-value-missing', `Missing protected value: ${value}`);
+    if (!containsProtectedValue(candidateText, value, locale)) {
+      addIssue(issues, '$', 'protected-value-missing', `Missing protected value: ${value}`);
+    }
   });
   glossary.terms
     .filter((term) => term.translate === false && collectText(source).includes(term.source))

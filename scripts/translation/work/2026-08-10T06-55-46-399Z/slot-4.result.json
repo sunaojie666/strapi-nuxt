@@ -1,0 +1,24 @@
+{
+  "complete": true,
+  "slot": "4",
+  "results": [
+    {
+      "locale": "ja",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "review ja failed after 3 attempts: review ja returned invalid JSON: Unterminated string in JSON at position 26465 (line 21 column 25575)"
+    },
+    {
+      "locale": "hi",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "issueCount": 20,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-55-46-399Z\\hi.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    }
+  ]
+}

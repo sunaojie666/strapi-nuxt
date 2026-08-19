@@ -1,0 +1,249 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'AI matting' instead of 'AI matting' (which is correct) but ensure it is capitalized as 'AI Matting' to match source and glossary."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Avoid redundancy: 'Reemplazo de fondo en tiempo real con AI matting' repeats 'AI matting' from the title. Change to 'Reemplazo de fondo en tiempo real'."
+    },
+    {
+      "path": "$.logins[0].logins.featureTitle2",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'multi-platform streaming' instead of 'Multi-platform streaming' (which is correct) but ensure it is capitalized as 'Multi-Platform Streaming' to match source and glossary."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Simplify to 'Transmite en vivo con un toque' to avoid redundancy with the title."
+    },
+    {
+      "path": "$.logins[0].logins.featureTitle3",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'virtual camera' instead of 'Virtual camera' (which is correct) but ensure it is capitalized as 'Virtual Camera' to match source and glossary."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle3",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Convierte tu teléfono en una cámara virtual' to 'Convierte tu teléfono en una webcam' to match the source 'Turn your phone into a webcam' and use the common term 'webcam'."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'screen casting' as per glossary instead of 'screen casting' (which is correct) but ensure it is written as 'screen casting' (two words) and not 'screen casting' (which is correct). Actually, the candidate has 'screen casting' which is correct, but the glossary says 'screen casting' so it's fine. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'AI matting avanzado' to 'AI matting avanzado' (correct) but ensure it is 'AI matting' as per glossary. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.brand.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'multi-platform streaming' to 'streaming multiplataforma' for naturalness, but glossary says 'multi-platform streaming' so it's fine. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Documentación de la API' to 'Documentación de API' to match source 'API Docs' and common usage."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Colaboraciones' to 'Asociaciones' to match source 'Partnerships' and common Spain usage."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Hazte revendedor' to 'Conviértete en revendedor' for naturalness."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Consultas comerciales' to 'Consultas de negocio' to match source 'Business Inquiries'."
+    },
+    {
+      "path": "$.navigations[0].nav_team",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'Colaboraciones' to 'Asociaciones' to match source 'Partnerships'."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "es",
+          "loginTitle1": "Cambia tu fondo virtual al instante",
+          "loginTitle2": "Transmite con impacto",
+          "loginDes1": "Una herramienta profesional de streaming impulsada por IA",
+          "loginDes2": "Fondos virtuales, mejoras en vivo y streaming multiplataforma, todo sencillo",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "Reemplazo de fondo en tiempo real",
+          "featureTitle2": "Multi-Platform Streaming",
+          "featureSubTitle2": "Transmite en vivo con un toque",
+          "featureTitle3": "Virtual Camera",
+          "featureSubTitle3": "Convierte tu teléfono en una webcam",
+          "loginBox": {
+            "loginPageTitle": "Iniciar sesión / Registrarse",
+            "codeLoginTab": "Iniciar sesión con código",
+            "pwdLoginTab": "Iniciar sesión con contraseña",
+            "qrLoginTab": "Iniciar sesión con código QR",
+            "emailInputPlaceholder": "Introduce tu correo para iniciar sesión",
+            "pwdInputPlaceholder": "Introduce tu contraseña",
+            "verifyCodePlaceholder": "Introduce el código de verificación",
+            "getVerifyCodeText": "Solicitar código",
+            "loginBtnText": "Iniciar sesión",
+            "qrLoginTip": "Escanea con la app de VicastCam para iniciar sesión",
+            "qrWaitingTip": "Esperando confirmación del escaneo",
+            "agreeProtocolText": "He leído y acepto la Política de Privacidad y el Acuerdo de Usuario",
+            "userProtocolText": "Acuerdo de Usuario",
+            "privacyPolicyText": "Política de Privacidad",
+            "agreeProtocolPrefix": "He leído y acepto"
+          },
+          "toastBox": {
+            "closeToastLabel": "Cerrar notificación",
+            "requestLoading": "Cargando...",
+            "requestSuccess": "Solicitud completada",
+            "requestFail": "La solicitud ha fallado",
+            "passwordLoginNotReady": "El inicio con contraseña aún no está disponible",
+            "passwordRequired": "Introduce tu contraseña",
+            "emailRequired": "Introduce tu correo para iniciar sesión",
+            "verifyCodeRequired": "Introduce el código de verificación",
+            "agreeProtocolRequired": "Lee y acepta la Política de Privacidad y el Acuerdo de Usuario primero",
+            "qrcodeExpired": "El código QR ha caducado. Solicita uno nuevo."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "es",
+          "hero_section": {
+            "tag": "Herramienta de streaming impulsada por IA",
+            "title_main": "Efectos de croma y screen casting desde tu teléfono",
+            "title_highlight": "Impulsando el streaming en todo el mundo",
+            "description": "VicastCam utiliza AI matting avanzado para que cambies de fondo virtual en cualquier momento durante tu transmisión, añadiendo efectos inmersivos que te dan una presencia profesional en cualquier plataforma.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Descargar"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Descargar"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam ofrece a los creadores fondos virtuales, mejoras para streaming en vivo y herramientas para multi-platform streaming."
+            },
+            "columns": [
+              {
+                "title": "Producto",
+                "links": [
+                  {
+                    "text": "Funciones"
+                  },
+                  {
+                    "text": "Precios"
+                  },
+                  {
+                    "text": "Descargas"
+                  }
+                ]
+              },
+              {
+                "title": "Desarrolladores",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Documentación de API"
+                  }
+                ]
+              },
+              {
+                "title": "Empresa",
+                "links": [
+                  {
+                    "text": "Sobre nosotros"
+                  },
+                  {
+                    "text": "Política de Privacidad"
+                  },
+                  {
+                    "text": "Acuerdo de Usuario"
+                  },
+                  {
+                    "text": "Acuerdo de Membresía"
+                  }
+                ]
+              },
+              {
+                "title": "Soporte",
+                "links": [
+                  {
+                    "text": "Tutoriales en vídeo"
+                  },
+                  {
+                    "text": "Preguntas frecuentes"
+                  },
+                  {
+                    "text": "Contacto"
+                  }
+                ]
+              },
+              {
+                "title": "Asociaciones",
+                "links": [
+                  {
+                    "text": "Conviértete en revendedor"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Consultas de negocio"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Funciones",
+        "nav_pricing": "Precios",
+        "nav_faq": "Preguntas frecuentes",
+        "nav_auth": "Iniciar sesión / Registrarse",
+        "nav_team": "Asociaciones"
+      }
+    ]
+  }
+}

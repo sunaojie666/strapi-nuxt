@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Help voor Android en iOS",
+    "description": "Vind antwoorden op veelgestelde vragen over VicastCam voor Android en iOS, waaronder accountinstellingen, mediarechten, netwerkverbindingen en problemen met live streamen.",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "VicastCam Help",
+    "titleHighlight": "Vind snel antwoorden",
+    "description": "Kies je platform (Android of iOS) om veelgestelde vragen en oplossingen voor jouw apparaat te zien."
+  },
+  "content": {
+    "sectionAriaLabel": "Veelgestelde vragen",
+    "catalogAriaLabel": "Vraagcategorieën",
+    "answerLabel": "Antwoord",
+    "questionProgressTemplate": "{group} · Vraag {current} van {total}"
+  }
+}

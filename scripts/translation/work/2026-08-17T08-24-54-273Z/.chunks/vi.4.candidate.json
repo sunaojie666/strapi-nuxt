@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Tại sao tài nguyên mạng hoặc lớp phủ bị nhấp nháy hoặc chuyển sang màn hình đen khi phát trực tiếp?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn gặp tình trạng nhấp nháy hoặc màn hình đen khi thêm tài nguyên mạng trong lúc phát trực tiếp, đây là cách xử lý:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tải xuống và xem trước mọi tài nguyên hoặc lớp phủ bạn định sử dụng trong buổi phát trước, và xác nhận chúng hoạt động bình thường trước khi bắt đầu phát.",
+            "Một số tài nguyên đi kèm phần mềm được lưu trữ trên máy chủ. Nếu bạn tải chúng trước khi phát, bạn có thể sử dụng trực tiếp trong buổi phát mà không cần tải lại.",
+            "Tải tài nguyên giữa buổi phát tiêu tốn tài nguyên phát trực tiếp, bộ nhớ điện thoại và hiệu suất, có thể gây lag; trên điện thoại cấu hình thấp, thậm chí có thể dẫn đến treo hoặc màn hình đen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lưu ý quan trọng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trước khi phát trực tiếp, hãy lên kế hoạch và diễn tập kỹ lưỡng để đảm bảo mọi yếu tố hoạt động hoàn hảo trước khi bạn bắt đầu."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Tôi nên làm gì nếu một số phím trên bàn phím bị che khuất?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu một số phím trên bàn phím ảo bị che khuất, hãy thử các cách sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nếu bạn đang sử dụng điện thoại 16:9 cũ làm điều khiển từ xa và một số phím bị che, hãy chạm vào nút thứ hai ở góc trên bên trái của bàn phím để bật chế độ toàn màn hình.",
+            "Nếu bố cục bàn phím bị lệch, hãy vào Cài đặt điện thoại và đặt cỡ chữ về bình thường.",
+            "Một số điện thoại có chế độ người cao tuổi được bật; tắt nó sẽ khôi phục bàn phím hiển thị bình thường."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Các vấn đề hiển thị thường do cỡ chữ quá lớn hoặc giao diện chủ đề điện thoại quá lớn. Đặt lại chúng về chế độ tiêu chuẩn sẽ giải quyết được vấn đề."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Tôi nên làm gì nếu điện thoại Huawei của tôi liên tục ngắt kết nối với đa camera hoặc bàn phím ảo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu điện thoại Huawei của bạn gặp sự cố ngắt kết nối với đa camera hoặc bàn phím ảo, hãy làm theo các bước sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vào Cài đặt trên điện thoại của bạn.",
+            "Trong thanh tìm kiếm ở trên cùng, nhập 'Quản lý khởi động ứng dụng'.",
+            "Vào trang Quản lý khởi động ứng dụng, cuộn xuống để tìm VicastCam.",
+            "Tắt công tắc ở bên phải để biểu tượng chuyển sang màu xám; đồng thời, bật cả ba tùy chọn trong cửa sổ bật lên để chúng chuyển sang màu xanh."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bạn cũng có thể tham khảo video hướng dẫn 'Cách ngăn ngắt kết nối với đa camera và bàn phím ảo trên điện thoại Huawei'."
+        }
+      ]
+    }
+  ]
+}

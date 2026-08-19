@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "教學中心",
+          "titleMain": "開始您的 VicastCam",
+          "titleHighlight": "學習之旅",
+          "descriptionMain": "掌握軟體的所有功能",
+          "descriptionHighlight": "快速上手"
+        },
+        "player": {
+          "sectionAriaLabel": "教學清單",
+          "catalogAriaLabel": "教學目錄",
+          "previousLabel": "上一頁",
+          "nextLabel": "下一頁",
+          "firstLessonText": "您正在第一課",
+          "lastLessonText": "您正在最後一課",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "快速入門",
+            "count": "11 堂課",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "建立你的第一個虛擬攝影棚",
+                "description": "從零開始設定並配置你的第一個虛擬攝影棚。",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "認識影像工具",
+                "description": "探索影像工具的基礎操作與常見應用。",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "圖層操作",
+                "description": "熟悉圖層面板，學會有效管理圖層。",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "使用背景圖層",
+                "description": "學習為場景新增與調整背景圖層。",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "使用人像圖層",
+                "description": "加入人像圖層，提升你的直播製作。",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "使用圖片圖層",
+                "description": "在攝影棚設定中新增與編輯圖片圖層。",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "使用影片圖層",
+                "description": "新增影片片段並控制播放設定。",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "使用特效圖層",
+                "description": "透過特效圖層為直播套用視覺效果。",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "使用字幕圖層",
+                "description": "建立字幕並自訂外觀。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "使用虛擬角色",
+                "description": "整合虛擬角色，讓直播更生動。",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "使用場景",
+                "description": "直播中流暢切換不同場景版面。",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "進階教學",
+            "count": "6 堂課",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "使用攝影機移動圖層",
+                "description": "利用攝影機移動圖層打造動態運鏡。",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "使用路徑動畫",
+                "description": "透過軌跡功能控制元素移動路徑。",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "使用多機位圖層",
+                "description": "設定多機位圖層，快速切換拍攝角度。",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "使用控制器",
+                "description": "從單一控制面板管理整個直播。",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "音訊設定與混音",
+                "description": "配置音訊輸入、輸出與混音設定。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "備份與還原",
+                "description": "備份你的攝影棚設定，並在需要時還原。",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "電腦設定",
+            "count": "7 堂課",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "VicastCam 快速入門",
+                "description": "介面與核心功能的高階總覽。",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "有線連接 – iPhone",
+                "description": "使用有線連接將 iPhone 連接到 VicastCam。",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "無線連接 – iPhone",
+                "description": "透過 Wi-Fi 將 iPhone 連接到 VicastCam。",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "有線連接 – Android",
+                "description": "使用有線連接將 Android 裝置連接到 VicastCam。",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "無線連接 – Android",
+                "description": "透過 Wi-Fi 將 Android 裝置連接到 VicastCam。",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "新增與使用本機媒體",
+                "description": "在專案中匯入並使用本機媒體檔案。",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "連接後該做什麼",
+                "description": "裝置連接完成後，立即啟動你的直播。",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

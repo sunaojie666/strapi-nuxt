@@ -1,0 +1,17 @@
+{
+  "id": "0e0cb618-d2ff-4bd9-8a45-edde28dc624d",
+  "locale": "en",
+  "contentType": "support",
+  "status": "approved",
+  "score": 100,
+  "reviewer": "independent-deepseek-chat",
+  "model": "deepseek-chat",
+  "promptVersion": "1.0.0",
+  "runId": "2026-08-10T09-09-43-747Z",
+  "sourcePath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-09-43-747Z\\zh-CN.json",
+  "translationPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-09-43-747Z\\en.json",
+  "sourceHash": "1d6477ced4a121306a2036e2e68fd2925e22d0dcf6ac5d8d7298e83424b7de8c",
+  "translationHash": "8bbd40eb154660901d2032a7aedb2f33a45012ea4b1d5cd2f04fdd969f07a6b6",
+  "workflowVersion": "1.0.0",
+  "createdAt": "2026-08-10T09:09:43.757Z"
+}

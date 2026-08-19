@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Trung tâm hướng dẫn",
+    "titleMain": "Bắt đầu hành trình",
+    "titleHighlight": "học VicastCam",
+    "descriptionMain": "Làm chủ mọi tính năng của phần mềm",
+    "descriptionHighlight": "Nhanh chóng bắt đầu sử dụng"
+  },
+  "player": {
+    "sectionAriaLabel": "Danh sách hướng dẫn",
+    "catalogAriaLabel": "Danh mục hướng dẫn",
+    "previousLabel": "Trước",
+    "nextLabel": "Tiếp theo",
+    "firstLessonText": "Bạn đang ở bài học đầu tiên",
+    "lastLessonText": "Bạn đang ở bài học cuối cùng",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

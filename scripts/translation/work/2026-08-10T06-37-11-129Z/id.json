@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "id",
+        "loginTitle1": "Ganti Latar Virtual Anda dalam Satu Klik",
+        "loginTitle2": "Siaran dengan Dampak Lebih Besar",
+        "loginDes1": "Alat siaran langsung profesional yang didukung AI",
+        "loginDes2": "Latar virtual, peningkatan siaran, dan streaming multi-platform dibuat sederhana",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Penggantian latar belakang secara real-time",
+        "featureTitle2": "Siaran Multi-Platform",
+        "featureSubTitle2": "Siarkan langsung dengan satu ketukan",
+        "featureTitle3": "Kamera Virtual",
+        "featureSubTitle3": "Ubah ponsel Anda menjadi webcam",
+        "loginBox": {
+          "loginPageTitle": "Masuk / Daftar",
+          "codeLoginTab": "Masuk dengan Kode",
+          "pwdLoginTab": "Masuk dengan Kata Sandi",
+          "qrLoginTab": "Masuk dengan Kode QR",
+          "emailInputPlaceholder": "Masukkan email Anda untuk masuk",
+          "pwdInputPlaceholder": "Masukkan kata sandi Anda",
+          "verifyCodePlaceholder": "Masukkan kode verifikasi",
+          "getVerifyCodeText": "Dapatkan Kode",
+          "loginBtnText": "Masuk",
+          "qrLoginTip": "Pindai dengan aplikasi VicastCam untuk masuk",
+          "qrWaitingTip": "Menunggu konfirmasi pemindaian",
+          "agreeProtocolText": "Saya telah membaca dan menyetujui Kebijakan Privasi dan Perjanjian Pengguna",
+          "userProtocolText": "Perjanjian Pengguna",
+          "privacyPolicyText": "Kebijakan Privasi",
+          "agreeProtocolPrefix": "Saya telah membaca dan menyetujui"
+        },
+        "toastBox": {
+          "closeToastLabel": "Tutup notifikasi",
+          "requestLoading": "Memuat",
+          "requestSuccess": "Permintaan berhasil",
+          "requestFail": "Permintaan gagal",
+          "passwordLoginNotReady": "Masuk dengan kata sandi belum tersedia",
+          "passwordRequired": "Silakan masukkan kata sandi Anda",
+          "emailRequired": "Silakan masukkan email Anda untuk masuk",
+          "verifyCodeRequired": "Silakan masukkan kode verifikasi",
+          "agreeProtocolRequired": "Silakan baca dan setujui Kebijakan Privasi dan Perjanjian Pengguna terlebih dahulu",
+          "qrcodeExpired": "Kode QR telah kedaluwarsa. Silakan dapatkan yang baru."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "id",
+        "hero_section": {
+          "tag": "Alat siaran langsung bertenaga AI",
+          "title_main": "Efek green screen dan screen casting dari ponsel Anda",
+          "title_highlight": "Mendukung siaran langsung di seluruh dunia",
+          "description": "VicastCam menggunakan AI matting canggih untuk memungkinkan Anda mengganti latar virtual kapan saja selama siaran, menambahkan efek imersif dan tampilan profesional pada siaran langsung Anda.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Unduh"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Unduh"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam menyediakan alat latar virtual, peningkatan siaran, dan lintas platform bagi kreator."
+          },
+          "columns": [
+            {
+              "title": "Produk",
+              "links": [
+                {
+                  "text": "Fitur"
+                },
+                {
+                  "text": "Harga"
+                },
+                {
+                  "text": "Unduhan"
+                }
+              ]
+            },
+            {
+              "title": "Pengembang",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Dokumentasi API"
+                }
+              ]
+            },
+            {
+              "title": "Perusahaan",
+              "links": [
+                {
+                  "text": "Tentang Kami"
+                },
+                {
+                  "text": "Kebijakan Privasi"
+                },
+                {
+                  "text": "Perjanjian Pengguna"
+                },
+                {
+                  "text": "Perjanjian Keanggotaan"
+                }
+              ]
+            },
+            {
+              "title": "Dukungan",
+              "links": [
+                {
+                  "text": "Tutorial Video"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Hubungi Kami"
+                }
+              ]
+            },
+            {
+              "title": "Kemitraan",
+              "links": [
+                {
+                  "text": "Menjadi Reseller"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Pertanyaan Bisnis"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Fitur",
+      "nav_pricing": "Harga",
+      "nav_faq": "FAQ",
+      "nav_auth": "Masuk / Daftar",
+      "nav_team": "Kemitraan"
+    }
+  ]
+}

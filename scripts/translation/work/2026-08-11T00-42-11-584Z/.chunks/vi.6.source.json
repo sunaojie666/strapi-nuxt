@@ -1,0 +1,38 @@
+[
+  {
+    "key": "agreement-section-10",
+    "title": "10 Disclaimer",
+    "paragraphs": [
+      "10.1 You expressly acknowledge and agree that your use of this application is at your sole risk. To the maximum extent permitted by applicable law, this application and any services performed or provided by this application are provided \"as is\" and \"as available\" with all faults and without warranties of any kind, and the Licensor hereby disclaims all warranties and conditions with respect to this application and any services, whether express, implied, or statutory, including but not limited to the implied warranties and/or conditions of merchantability, satisfactory quality, fitness for a particular purpose, accuracy, quiet enjoyment, and non-infringement of third-party rights. No oral or written information or advice given by the Licensor or its authorized representatives shall create a warranty. If this application or services are found to be defective, you assume the entire cost of all necessary servicing, repair, or correction. Some jurisdictions do not allow the exclusion of implied warranties or limitations on applicable statutory rights of consumers, so the above exclusions and limitations may not apply to you.",
+      "10.2 The Licensor will use industry-standard security technologies to ensure stable operation of the services. To the extent permitted by laws and regulations, the Licensor shall not be liable for compensation for service interruptions or temporary data anomalies caused by force majeure, natural disasters, wars, government bans, network failures, system maintenance, hacker attacks, viruses, third-party service failures, device abnormalities, or other factors beyond the Licensor's control.",
+      "10.3 If services are suspended or terminated due to system maintenance, version upgrades, compliance rectification, or business adjustments, we will provide reasonable advance notice through in-app announcements and the official website.",
+      "10.4 If your device is damaged or data is lost due to your own operational errors, device failures, incorrect network settings, or improper use of this Software, you shall bear all losses.",
+      "10.5 We have the right to adjust service features, modify service content, or clean server data based on legitimate operations, system security, compliance rectification, and other reasons. We will not delete user data without cause.",
+      "10.6 Limitation of Liability",
+      "To the extent not prohibited by law, in no event shall the Licensor be liable for personal injury or any incidental, special, indirect, or consequential damages, including but not limited to loss of profits, loss of data, business interruption, or any other commercial damages or losses, arising out of or related to your use or inability to use the licensed application, regardless of the theory of liability (contract, tort, or otherwise), even if the Licensor has been advised of the possibility of such damages. Some jurisdictions do not allow the limitation of liability for personal injury or incidental or consequential damages, so this limitation may not apply to you.",
+      "Except for mandatory provisions of local law regarding personal injury, the total liability of the Licensor for all damages shall not exceed 1 US dollar (USD 1.00). The above limitations shall apply even if the above remedy fails its essential purpose.",
+      "For jurisdictions such as the European Union, European Economic Area, and the United Kingdom, this limitation of liability clause shall strictly apply in accordance with local consumer protection laws."
+    ]
+  },
+  {
+    "key": "agreement-section-11",
+    "title": "11 Miscellaneous",
+    "paragraphs": [
+      "11.1 Governing Law",
+      "This Agreement and the relationship between you and the Licensor shall be governed by the laws of the Hong Kong Special Administrative Region of the People's Republic of China, excluding conflict of law provisions. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.",
+      "11.2 Dispute Resolution",
+      "Any dispute arising out of or in connection with this Agreement shall first be resolved through friendly negotiation. If negotiation fails, you and the Licensor agree to submit the dispute to the courts with jurisdiction in the Hong Kong Special Administrative Region of the People's Republic of China.",
+      "If you are a resident of an EU member state, this jurisdiction clause does not affect your statutory rights under mandatory local consumer protection laws.",
+      "11.3 Amendments to the Agreement",
+      "The Licensor has the right to amend this Agreement during product testing and formal operation, and will publish amendments through reasonable means such as in-app announcements and the official website. Once published, amended terms become an effective part of this Agreement and have the same legal effect.",
+      "11.4 Relationship of the Parties",
+      "You and the Licensor are independent civil subjects. This Agreement does not constitute any legal relationship such as agency, partnership, employment, association, or joint venture. Apple Inc. and Google LLC are only distribution and payment channels for this Software and do not participate in the development or operation of this Software, nor do they bear any legal responsibility for this Software or its services.",
+      "11.5 Effectiveness and Termination",
+      "This Agreement takes effect on the date you agree to the terms and register an account. It terminates when the Licensor terminates the services or you lose the right to use the Software. After termination, your obligations and liabilities during the term of use remain in effect.",
+      "11.6 Headings",
+      "The headings of sections in this Agreement are for convenience only and do not affect the interpretation or application of the terms.",
+      "11.7 Copyright and Rights Statement",
+      "The copyright of this Agreement text belongs to the Licensor. The Licensor has the right to amend the Agreement in accordance with laws, regulations, and business needs, and has the right to interpret it lawfully."
+    ]
+  }
+]

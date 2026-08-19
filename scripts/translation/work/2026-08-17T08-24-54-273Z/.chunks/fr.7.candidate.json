@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Que faire si l'écran n'est pas entièrement affiché lors du streaming depuis un ordinateur ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si l'écran n'est pas entièrement affiché lors du streaming depuis votre téléphone via une application compagnon de streaming ou un autre logiciel, suivez ces étapes pour ajuster :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez VicastCam, appuyez sur l'icône de la caméra en bas pour accéder à la page de streaming, puis allez dans [Menu de droite - Paramètres supplémentaires - Format d'image - 9:16].",
+            "Après avoir diffusé vers le compagnon de streaming, effectuez d'abord un zoom pour adapter, puis faites glisser l'écran vers le haut ou le bas pour remplir tout l'écran."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Remarque : Avant de commencer votre streaming, ajustez d'abord le format d'image, puis ajoutez vos éléments."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Que faire si une requête réseau échoue ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si vous rencontrez des échecs de requête réseau, essayez ce qui suit :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez les réglages de votre téléphone, allez dans [Gestion des autorisations - VicastCam - Utiliser les données cellulaires et le Wi-Fi] et activez l'accès réseau.",
+            "Désactivez le mode d'économie d'énergie et toute restriction en arrière-plan sur votre téléphone.",
+            "Changez de réseau, redémarrez votre téléphone, activez le mode avion ou mettez à jour l'application vers la dernière version.",
+            "Si le problème persiste, prenez une capture d'écran de l'erreur et contactez le support client pour obtenir de l'aide."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Pourquoi les superpositions d'éléments réseau scintillent-elles ou deviennent-elles noires pendant un streaming en direct ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si vous rencontrez des scintillements ou des écrans noirs lors de l'ajout d'éléments réseau pendant un streaming en direct, voici comment gérer cela :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Téléchargez et prévisualisez à l'avance tous les éléments et superpositions que vous prévoyez d'utiliser pendant le streaming. Assurez-vous qu'ils fonctionnent correctement avant de passer en direct.",
+            "Certains éléments inclus avec le logiciel sont stockés sur des serveurs. Téléchargez-les avant de commencer votre streaming afin de pouvoir les utiliser directement pendant le streaming sans rechargement.",
+            "Charger des éléments en cours de streaming consomme des ressources de streaming, de la mémoire du téléphone et des performances, ce qui peut provoquer des ralentissements. Sur les téléphones bas de gamme, cela peut même entraîner des plantages ou des écrans noirs."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Remarque importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planifiez et répétez votre streaming à l'avance. Entraînez-vous sur chaque segment pour vous assurer que tout se déroule sans accroc avant de passer en direct. Traitez chaque streaming avec soin, et votre streaming vous récompensera en retour."
+        }
+      ]
+    }
+  ]
+}

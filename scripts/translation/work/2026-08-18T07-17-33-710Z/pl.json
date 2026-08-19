@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Wybierz metodę płatności",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Zapłać saldem PayPal, kartą bankową lub kartą kredytową",
+            "secureBadge": "Bezpieczna płatność",
+            "methodLabel": "Metoda płatności",
+            "accountLabel": "Konto bieżące",
+            "signInRequired": "Zaloguj się, aby kontynuować zakup",
+            "signInAction": "Zaloguj się",
+            "summaryHint": "Kliknij przycisk PayPal, aby dokończyć płatność",
+            "trustItems": [
+              "Płatności są bezpiecznie przetwarzane przez PayPal",
+              "Obsługuje saldo PayPal, karty bankowe i karty kredytowe",
+              "Korzyści członkowskie są aktywowane automatycznie po udanej płatności"
+            ],
+            "buttonPay": "Zapłać przez PayPal",
+            "buttonPending": "Zamówienie oczekuje",
+            "buttonCreating": "Tworzenie zamówienia...",
+            "sdkLoading": "Ładowanie PayPal...",
+            "sdkError": "Nie udało się załadować PayPal. Sprawdź sieć i spróbuj ponownie.",
+            "sdkIneligible": "Płatność PayPal nie jest obsługiwana w tym środowisku",
+            "sdkMissingConfig": "PayPal nie jest skonfigurowany. Skontaktuj się z administratorem.",
+            "orderCreating": "Tworzenie zamówienia płatności...",
+            "orderCreateFailed": "Nie udało się utworzyć zamówienia. Spróbuj ponownie.",
+            "orderProcessing": "Wynik płatności jest nadal potwierdzany. Sprawdź ponownie później.",
+            "orderSuccess": "Płatność zakończona sukcesem. Twoje korzyści członkowskie zostały aktywowane.",
+            "orderFailed": "Płatność nie powiodła się. Spróbuj ponownie.",
+            "orderPending": "Płatność nie została zakończona. Dokończ płatność i sprawdź ponownie.",
+            "orderExpired": "Zamówienie płatności wygasło. Spróbuj ponownie.",
+            "statusQueryFailed": "Nie udało się sprawdzić statusu płatności. Spróbuj ponownie później.",
+            "invalidPlan": "Wybrany plan jest nieprawidłowy. Wróć i wybierz ponownie.",
+            "popupBlocked": "Okno płatności zostało zablokowane przez przeglądarkę. Zezwól na wyskakujące okna dla tej witryny i spróbuj ponownie.",
+            "popupOpened": "Okno płatności PayPal zostało otwarte. Dokończ płatność w oknie.",
+            "popupClosedChecking": "Okno płatności zostało zamknięte. Potwierdzanie wyniku płatności...",
+            "popupClosedFailed": "Okno płatności zostało zamknięte, ale zamówienie nie jest zakończone. Spróbuj ponownie."
+          },
+          "summary": {
+            "title": "Podsumowanie zamówienia",
+            "periodLabel": "Okres członkostwa",
+            "paymentMethodLabel": "Metoda płatności",
+            "amountLabel": "Kwota do zapłaty",
+            "paymentMethod": "Płatność online PayPal",
+            "note": "Po udanej płatności korzyści członkowskie zostaną automatycznie przyznane na Twoje konto bieżące.",
+            "periodMonth": "1 miesiąc",
+            "periodYear": "1 rok",
+            "periodLife": "Dożywotnio",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Potwierdzanie wyniku płatności...",
+            "closeLabel": "Zamknij",
+            "iconAlt": "Wynik płatności",
+            "titlePrefix": "Płatność",
+            "successTitleHighlight": "zakończona sukcesem!",
+            "failureTitleHighlight": "nieudana!",
+            "successDescription": "Dziękujemy za zakup. Twoje członkostwo zostało aktywowane.",
+            "failureDescription": "Nie udało się zrealizować płatności. Spróbuj ponownie lub użyj innej metody płatności.",
+            "orderNumber": "Numer zamówienia",
+            "membershipType": "Typ członkostwa",
+            "expiry": "Data wygaśnięcia",
+            "orderStatus": "Status zamówienia",
+            "successStatus": "Opłacone",
+            "failureStatus": "Nieopłacone",
+            "successPrimaryAction": "Zobacz w Centrum członkowskim",
+            "failurePrimaryAction": "Zmień metodę płatności",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Wróć do strony",
+            "copyOrderNumber": "Kopiuj numer zamówienia",
+            "copied": "Skopiowano",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Potwierdź zakup | VicastCam",
+            "description": "Potwierdź plan członkostwa VicastCam i dokończ płatność przez PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Członkostwo miesięczne",
+              "description": "Korzystaj ze wszystkich funkcji członkowskich VicastCam w cyklu miesięcznym",
+              "period": "1 miesiąc"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Członkostwo roczne",
+              "description": "Korzystaj ze wszystkich funkcji członkowskich VicastCam przez cały rok",
+              "period": "1 rok"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Członkostwo dożywotnie",
+              "description": "Jednorazowy zakup, długoterminowy dostęp do funkcji członkowskich VicastCam",
+              "period": "Dożywotnio"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

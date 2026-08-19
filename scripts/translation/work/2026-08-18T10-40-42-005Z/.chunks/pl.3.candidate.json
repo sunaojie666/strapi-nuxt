@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Konfiguracja komputera",
+      "count": "7 lekcji",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Pierwsze kroki z VicastCam",
+          "description": "Ogólny przegląd interfejsu i kluczowych funkcji.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Połączenie przewodowe – iPhone",
+          "description": "Podłącz iPhone'a do VicastCam za pomocą połączenia przewodowego.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Połączenie bezprzewodowe – iPhone",
+          "description": "Podłącz iPhone'a do VicastCam przez Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Połączenie przewodowe – Android",
+          "description": "Podłącz urządzenie z Androidem do VicastCam za pomocą połączenia przewodowego.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Połączenie bezprzewodowe – Android",
+          "description": "Podłącz urządzenie z Androidem do VicastCam przez Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Dodawanie i korzystanie z plików lokalnych",
+          "description": "Importuj i używaj lokalnych plików multimedialnych w swoich projektach.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Co zrobić po połączeniu",
+          "description": "Uruchom transmisję po podłączeniu urządzeń.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

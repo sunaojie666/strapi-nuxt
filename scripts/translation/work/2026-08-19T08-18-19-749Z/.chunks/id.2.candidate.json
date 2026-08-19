@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Keanggotaan",
+    "title": "Keanggotaan Saya",
+    "badgeAlt": "Lencana keanggotaan",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Pengguna Gratis",
+    "activeVipName": "Anggota VIP",
+    "expirePrefix": "Berakhir",
+    "emptyExpireDate": "Belum diaktifkan",
+    "activeStatus": "Aktif",
+    "inactiveStatus": "Nonaktif",
+    "compareTitle": "Bandingkan Paket",
+    "compareHeaders": {
+      "feature": "Fitur",
+      "normal": "Gratis",
+      "month": "Bulanan",
+      "year": "Tahunan",
+      "life": "Seumur Hidup"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Bulanan",
+        "subtitle": "Cocok untuk penggunaan jangka pendek",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/bulan",
+        "cta": "Mulai",
+        "benefits": [
+          "Fitur kamera virtual inti",
+          "Latar belakang virtual & percantik",
+          "Streaming langsung multi-platform",
+          "Pembaruan standar"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Tahunan",
+        "subtitle": "Lebih hemat untuk penggunaan jangka panjang",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/tahun",
+        "cta": "Mulai",
+        "benefits": [
+          "Semua fitur paket Bulanan",
+          "Semua fitur premium selama satu tahun",
+          "Pembaruan fitur prioritas",
+          "Dukungan anggota khusus"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Seumur Hidup",
+        "subtitle": "Bayar sekali, gunakan selamanya",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/seumur hidup",
+        "cta": "Mulai",
+        "benefits": [
+          "Semua fitur paket Tahunan",
+          "Fitur premium selamanya",
+          "Pembaruan jangka panjang",
+          "Saluran dukungan eksklusif"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Durasi keanggotaan",
+        "normal": "Gratis selamanya",
+        "month": "30 hari",
+        "year": "365 hari",
+        "life": "Seumur hidup"
+      },
+      {
+        "feature": "Kamera virtual desktop",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Latar belakang virtual kustom",
+        "normal": "1 set",
+        "month": "Tak terbatas",
+        "year": "Tak terbatas",
+        "life": "Tak terbatas"
+      },
+      {
+        "feature": "Prasetel streaming",
+        "normal": "Tidak",
+        "month": "Tak terbatas",
+        "year": "Tak terbatas",
+        "life": "Tak terbatas"
+      },
+      {
+        "feature": "Aset resmi",
+        "normal": "Terbatas",
+        "month": "Tak terbatas",
+        "year": "Tak terbatas",
+        "life": "Tak terbatas"
+      },
+      {
+        "feature": "Kontrol jarak jauh via pengontrol",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Mode perbandingan adegan",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Teks pada adegan",
+        "normal": "Terbatas",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Musik pada adegan",
+        "normal": "Terbatas",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Input multi-kamera",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Filter kecantikan lanjutan",
+        "normal": "Dasar",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "AI green screen matting",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Animasi pelacakan gerakan",
+        "normal": "Terbatas",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Efek kamera adegan",
+        "normal": "Terbatas",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Pustaka efek VIP",
+        "normal": "Terbatas",
+        "month": "Tak terbatas",
+        "year": "Tak terbatas",
+        "life": "Tak terbatas"
+      },
+      {
+        "feature": "Streaming platform",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Output 4K",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Tingkat komisi referensi",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Potongan harga sub-afiliasi",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Saluran dukungan",
+        "normal": "Layanan mandiri komunitas",
+        "month": "Antrian standar",
+        "year": "Respons prioritas",
+        "life": "Dukungan khusus"
+      },
+      {
+        "feature": "Akses awal ke fitur baru",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Tukarkan Kode",
+    "title": "Tukarkan Kode",
+    "tip": "Masukkan kode penukaran keanggotaan Anda. Keanggotaan Anda akan langsung aktif setelah penukaran.",
+    "placeholder": "Masukkan kode penukaran",
+    "submitButton": "Tukarkan",
+    "agreementPrefix": "Dengan menukarkan, Anda menyetujui",
+    "userProtocolText": "Perjanjian Pengguna",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Penukaran gagal. Periksa kode dan coba lagi."
+    }
+  }
+}

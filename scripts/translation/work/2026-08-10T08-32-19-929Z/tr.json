@@ -1,0 +1,206 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "VicastCam Hakkında",
+          "titleMain": "Mobil yeşil ekran ve ekran yansıtma teknolojisinin arkasındaki ekip",
+          "titleHighlight": "",
+          "description": "Mobil görüntüleme, sanal kamera, ekran yansıtma iş birliği ve çok platformlu canlı yayın bağlantısına odaklanıyoruz; içerik üreticilerinin, eğitimcilerin ve işletmelerin telefonlarını istikrarlı, net ve entegrasyonu kolay profesyonel canlı yayın araçlarına dönüştürmelerine yardımcı oluyoruz.",
+          "primaryButtonText": "Satış ile İletişime Geçin",
+          "secondaryButtonText": "SDK'yi Görüntüle"
+        },
+        "innovation": {
+          "sectionTag": "Temel Güçlü Yönler",
+          "titleMain": "İnovasyona Odaklı",
+          "titleHighlight": "Canlı Yayının Geleceğini Şekillendiriyoruz",
+          "description": "Mobil araçlardan platform yeteneklerine, VicastCam daha fazla cihaz, platform ve canlı yayın senaryosuna yayılıyor.",
+          "featureTag": "Temel Yetenekler",
+          "featureTitle": "Küresel canlı yayın, sektörün güvendiği",
+          "featureDescription": "Mobil canlı yayın, sanal görüntüleme, ekran yansıtma iş birliği ve çapraz platform bağlantısı etrafında ürün deneyimini sürekli iyileştiriyor; canlı yayın araçlarını tek nokta yeteneklerinden istikrarlı, entegre edilebilir iş akışlarına dönüştürüyoruz.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Ülke ve bölge",
+              "text": "Dünya genelinde içerik üreticilerine ve ekiplere hizmet veriyoruz"
+            },
+            {
+              "value": "2000+",
+              "label": "Uyumlu platform",
+              "text": "Başlıca canlı yayın, toplantı ve içerik senaryolarını kapsar"
+            },
+            {
+              "value": "500000+",
+              "label": "Toplam kullanım",
+              "text": "İstikrar ve kullanım kolaylığı sürekli doğrulanmıştır"
+            },
+            {
+              "value": "99.9%",
+              "label": "Çalışma süresi",
+              "text": "Güvenilir canlı yayın iş akışları sağlar"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Yol Haritası",
+          "titleMain": "Sürekli Gelişim",
+          "titleHighlight": "Küresel Canlı Yayın Ekosistemi Çevresinde",
+          "description": "Canlı yayın araçlarından platform yeteneklerine, VicastCam daha fazla cihaz, platform ve canlı yayın senaryosuna yayılıyor.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Mobil odak derinleştirildi ve temel yeşil ekran efektleri iyileştirildi",
+              "text": "Mobil sanal canlı yayının temel yeteneklerine odaklanıldı; yeşil ekran matting algoritmaları sürekli yinelendi ve optimize edilerek kenar bozulması, zayıf ışık adaptasyonu ve çoklu katmanlarda gecikme gibi sorunlar çözüldü. Çıkartmalar, arka plan değiştirme ve ön plan maskeleme dahil tam bir sanal efekt paketi tamamlandı ve hafif bir mobil sanal canlı yayın temeli oluşturuldu. Sadece bir telefonla içerik üreticileri profesyonel yeşil ekran canlı yayını elde edebilir."
+            },
+            {
+              "year": "2024",
+              "title": "Ekran yansıtma bağlantısı kuruldu, temel sanal kamera teknolojisi geliştirildi",
+              "text": "Cihazlar arası bağlantı genişletildi; yüksek çözünürlüklü telefon ekran yansıtma ve cihazlar arası senkronize iletim üzerine odaklanıldı. Küresel yazılım yakalama ve çıkışı için evrensel bir sanal kamera sürücüsü bağımsız olarak geliştirildi; canlı yayın yazılımları, düzenleme araçları ve çevrimiçi toplantılarla uyumluluk sağlandı. Mobil ve masaüstü arasındaki boşluk kapatıldı; telefon içeriğinin PC'ye tek dokunuşla yansıtılması ve çoklu çıkışlı sanal kamera konumları sağlanarak canlı yayın prodüksiyonu zenginleştirildi."
+            },
+            {
+              "year": "2025",
+              "title": "PC profesyonel 3D canlı yayın asistanı piyasaya sürüldü",
+              "text": "Tam 3D sanal canlı yayın asistanına sahip profesyonel masaüstü canlı yayın ürün serisi sunuldu. 3D sanal sahneler, dijital insan sürüşü, çoklu kamera geçişi ve gerçek zamanlı aydınlatma ve render ile donatılan ürün; ticari canlı yayın, showroom'larda sanal sunumlar ve büyük ekran e-ticaret canlı yayınına hizmet ediyor. Çok katmanlı kompozisyon, gerçek zamanlı altyazılar ve etkileşimli bileşenler geliştirilerek büyük ölçekli, yüksek kaliteli profesyonel canlı yayınlar sunan ekiplerin ihtiyaçları karşılandı."
+            },
+            {
+              "year": "2026",
+              "title": "Küresel genişleme, eksiksiz canlı yayın ekosistemi oluşturma",
+              "text": "Denizaşırı canlı yayına kapsamlı şekilde genişlendi; başlıca denizaşırı platformlara yayın, uluslararası ağlarda düşük gecikmeli iletim ve çok dilli yerelleştirme için uyum sağlandı. Önceki yılların üç temel ürünü entegre edildi: mobil yeşil ekran, ekran yansıtma sanal kamerası ve PC 3D canlı yayın; bireysel içerik üreticileri, kurumsal ticari kullanım ve geliştirici SDK entegrasyonu olmak üzere üç iş hattı birbirine bağlandı. Donanım, yazılım, çoklu uç ve yurt içi ve yurt dışı hizmetler birleştirilerek üretimden cihazlar arası birlikte çalışabilirliğe ve küresel dağıtıma kadar tam zincirli bir canlı yayın ekosistemi tamamlandı."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Bizi Takip Edin",
+          "titleMain": "İletişime Geçin",
+          "titleHighlight": "ve Canlı Yayının Geleceğini Şekillendirin",
+          "description": "Ürün güncellemelerimizi, canlı yayın ipuçlarımızı ve diğer haberleri takip edin",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube hesabı",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube hesabı",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube hesabı",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube hesabı",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube hesabı",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "Hakkımızda",
+          "description": "VicastCam ekibi, ürün misyonu ve sanal kamera, AI canlı yayın geliştirme ve çapraz platform yayıncılık yetenekleri hakkında bilgi edinin."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "İndirme Merkezi",
+            "title": "VicastCam'i İndir"
+          },
+          "platform": {
+            "title": "Platformunuzu seçin",
+            "description": "VicastCam Windows, iOS ve Android'i destekler. Profesyonel canlı yayına başlayın.",
+            "versionLabel": "Sürüm",
+            "updatedAtLabel": "Güncellenme",
+            "sizeLabel": "Paket Boyutu",
+            "downloadAriaSuffix": "İndir",
+            "closeQrAriaPrefix": "Kapat",
+            "closeQrAriaSuffix": "İndirme QR Kodu",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Android 8.0 ve üzerini destekler",
+                "actionLabel": "Şimdi İndir",
+                "qrTitle": "Android sürümünü indirmek için tarayın",
+                "qrDescription": "Telefonunuzla tarayıp indirin"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "iOS 13.0 ve üzerini destekler",
+                "actionLabel": "App Store",
+                "qrTitle": "App Store'a gitmek için tarayın",
+                "qrDescription": "Telefonunuzla tarayıp iOS sürümünü indirin"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Windows 10 ve üzeriyle uyumludur",
+                "actionLabel": "Şimdi İndir",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Neden VicastCam?",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Güvenli ve güvenilir",
+                "text": "Birden fazla güvenlik mekanizması verilerinizi ve hesabınızı korur."
+              },
+              {
+                "key": "updates",
+                "title": "Sürekli güncellemeler",
+                "text": "Daha istikrarlı bir deneyim sunmak için ürünü sürekli iyileştiriyoruz."
+              },
+              {
+                "key": "support",
+                "title": "Profesyonel destek",
+                "text": "Sorunlarınıza hızlı yanıt veren 7/24 teknik destek."
+              },
+              {
+                "key": "tutorial",
+                "title": "Video eğitimleri",
+                "text": "Hızlı başlamanıza yardımcı olacak ayrıntılı video eğitimleri ve özellik kılavuzları."
+              }
+            ]
+          },
+          "seo": {
+            "title": "İndirme Merkezi",
+            "description": "VicastCam istemcisini Windows, iOS ve Android için indirin."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Diffusez avec plus d'impact' is acceptable, but for a more natural French CTA, 'Diffusez avec plus d'impact' is fine. No change required."
+    },
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'AI matting' instead of 'Détourage IA' to maintain consistency with product terminology."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'AI matting' in the subtitle: 'Remplacement d'arrière-plan en temps réel' is fine, but consider 'Détourage IA en temps réel' to align with glossary."
+    },
+    {
+      "path": "$.logins[0].logins.featureTitle2",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'multi-platform streaming' instead of 'Streaming multi-plateformes' to match glossary."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Diffusez en direct en un geste' is acceptable, but 'Diffusez en direct en un clic' might be more consistent with the one-click theme. No change required."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'J'ai lu et j'accepte la politique de confidentialité et les conditions d'utilisation' is correct, but consider adding 'les' before 'conditions' for parallel structure: 'la politique de confidentialité et les conditions d'utilisation' is fine."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider a more natural French phrasing: 'Donner plus de puissance au streaming dans le monde entier' is acceptable, but 'Autonomiser le streaming dans le monde entier' might be more direct. No change required."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'ajoutant des effets immersifs et un aspect professionnel à vos directs' is correct, but consider 'à vos diffusions en direct' for clarity. No change required."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Documentation API' instead of 'Documentation de l'API' for a more concise and common French tech style. No change required."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Demandes commerciales' instead of 'Contact commercial' for a more formal and clear label. No change required."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "fr",
+          "loginTitle1": "Changez votre arrière-plan virtuel en un clic",
+          "loginTitle2": "Diffusez avec plus d'impact",
+          "loginDes1": "Un outil de streaming professionnel propulsé par l'IA",
+          "loginDes2": "Arrière-plans virtuels, améliorations en direct et streaming multi-plateformes simplifiés",
+          "featureTitle1": "Détourage IA",
+          "featureSubTitle1": "Remplacement d'arrière-plan en temps réel",
+          "featureTitle2": "Streaming multi-plateformes",
+          "featureSubTitle2": "Diffusez en direct en un geste",
+          "featureTitle3": "Caméra virtuelle",
+          "featureSubTitle3": "Transformez votre téléphone en webcam",
+          "loginBox": {
+            "loginPageTitle": "Connexion / Inscription",
+            "codeLoginTab": "Connexion par code",
+            "pwdLoginTab": "Connexion par mot de passe",
+            "qrLoginTab": "Connexion par QR code",
+            "emailInputPlaceholder": "Saisissez votre e-mail pour vous connecter",
+            "pwdInputPlaceholder": "Saisissez votre mot de passe",
+            "verifyCodePlaceholder": "Saisissez le code de vérification",
+            "getVerifyCodeText": "Obtenir le code",
+            "loginBtnText": "Se connecter",
+            "qrLoginTip": "Scannez avec l'application VicastCam pour vous connecter",
+            "qrWaitingTip": "En attente de confirmation du scan",
+            "agreeProtocolText": "J'ai lu et j'accepte la politique de confidentialité et les conditions d'utilisation",
+            "userProtocolText": "Conditions d'utilisation",
+            "privacyPolicyText": "Politique de confidentialité",
+            "agreeProtocolPrefix": "J'ai lu et j'accepte"
+          },
+          "toastBox": {
+            "closeToastLabel": "Fermer la notification",
+            "requestLoading": "Chargement",
+            "requestSuccess": "Requête réussie",
+            "requestFail": "Échec de la requête",
+            "passwordLoginNotReady": "La connexion par mot de passe n'est pas encore disponible",
+            "passwordRequired": "Veuillez saisir votre mot de passe",
+            "emailRequired": "Veuillez saisir votre e-mail pour vous connecter",
+            "verifyCodeRequired": "Veuillez saisir le code de vérification",
+            "agreeProtocolRequired": "Veuillez d'abord lire et accepter la politique de confidentialité et les conditions d'utilisation",
+            "qrcodeExpired": "Le code QR a expiré. Veuillez en générer un nouveau."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "fr",
+          "hero_section": {
+            "tag": "Outil de streaming propulsé par l'IA",
+            "title_main": "Effets d'écran vert et diffusion d'écran depuis votre téléphone",
+            "title_highlight": "Donner plus de puissance au streaming dans le monde entier",
+            "description": "VicastCam utilise un détourage IA avancé pour vous permettre de changer d'arrière-plan virtuel à tout moment pendant votre diffusion, ajoutant des effets immersifs et un aspect professionnel à vos directs.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Télécharger"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Télécharger"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam fournit aux créateurs des arrière-plans virtuels, des améliorations en direct et des outils multi-plateformes."
+            },
+            "columns": [
+              {
+                "title": "Produit",
+                "links": [
+                  {
+                    "text": "Fonctionnalités"
+                  },
+                  {
+                    "text": "Tarifs"
+                  },
+                  {
+                    "text": "Téléchargements"
+                  }
+                ]
+              },
+              {
+                "title": "Développeurs",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Documentation de l'API"
+                  }
+                ]
+              },
+              {
+                "title": "Entreprise",
+                "links": [
+                  {
+                    "text": "À propos"
+                  },
+                  {
+                    "text": "Politique de confidentialité"
+                  },
+                  {
+                    "text": "Conditions d'utilisation"
+                  },
+                  {
+                    "text": "Accord d'adhésion"
+                  }
+                ]
+              },
+              {
+                "title": "Assistance",
+                "links": [
+                  {
+                    "text": "Tutoriels vidéo"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Contactez-nous"
+                  }
+                ]
+              },
+              {
+                "title": "Partenariats",
+                "links": [
+                  {
+                    "text": "Devenir revendeur"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Contact commercial"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Fonctionnalités",
+        "nav_pricing": "Tarifs",
+        "nav_faq": "FAQ",
+        "nav_auth": "Connexion / Inscription",
+        "nav_team": "Partenariats"
+      }
+    ]
+  }
+}

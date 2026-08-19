@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Jak utworzyć nowy pokój na żywo",
+      "tag_1": "Mobile",
+      "tag_2": "Poradnik dla początkujących"
+    },
+    {
+      "title": "Zrozumienie trybów matowania w VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Poradnik funkcji"
+    },
+    {
+      "title": "Jak korzystać z funkcji warstw w VicastCam",
+      "tag_1": "Mobile",
+      "tag_2": "Kluczowa funkcja"
+    },
+    {
+      "title": "Poznaj VicastCam na komputerze",
+      "tag_1": "Desktop",
+      "tag_2": "Poradnik dla początkujących"
+    },
+    {
+      "title": "Jak połączyć iPhone'a z VicastCam bezprzewodowo",
+      "tag_1": "iOS",
+      "tag_2": "Poradnik połączenia"
+    },
+    {
+      "title": "Jak dodać i używać lokalnych multimediów",
+      "tag_1": "Desktop",
+      "tag_2": "Poradnik użytkowania"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Globalna społeczność",
+        "title_main": "Transmisje na żywo, które działają wszędzie",
+        "title_highlight": "Zaufane przez streamerów w ponad 150 krajach",
+        "desc": "Obsługując ponad 150 krajów i regionów, pomagamy niezliczonym streamerom rozwinąć się od początkujących do profesjonalnych twórców treści na żywo.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Kraje"
+          },
+          {
+            "number": "2000+",
+            "name": "Aktywni streamerzy"
+          },
+          {
+            "number": "5000+",
+            "name": "Wzrost popularności"
+          },
+          {
+            "number": "99.9%",
+            "name": "Stabilność"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "pl",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Masz pytania?",
+          "title_highlight": "Mamy odpowiedzi.",
+          "description": "Poniżej znajdziesz odpowiedzi na najczęstsze pytania dotyczące VicastCam. Nie znalazłeś tego, czego szukasz? Skontaktuj się z naszym zespołem.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Na które platformy mogę transmitować za pomocą VicastCam?",
+              "answer": "VicastCam obsługuje transmisję na główne platformy, takie jak YouTube, Twitch, TikTok, Facebook Live i Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Czy usuwanie tła w VicastCam wymaga zielonego ekranu?",
+              "answer": "Nie. VicastCam wykorzystuje usuwanie tła oparte na AI, więc możesz zmieniać tło w czasie rzeczywistym bez zielonego ekranu."
+            },
+            {
+              "id": "q3",
+              "question": "Czy mogę używać VicastCam na telefonie?",
+              "answer": "Tak. VicastCam jest dostępny na iOS i Androida, a wszystkie profesjonalne funkcje są dostępne na urządzeniach mobilnych."
+            },
+            {
+              "id": "q4",
+              "question": "Jak niezawodny jest VicastCam?",
+              "answer": "VicastCam oferuje 99,9% stabilności, wspierając streamerów na całym świecie dzięki nieprzerwanej transmisji 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "Czy VicastCam obsługuje transmisję z wielu kamer?",
+              "answer": "Tak. Możesz płynnie przełączać się między wieloma kamerami podczas transmisji na żywo, aby uzyskać profesjonalną produkcję."
+            }
+          ],
+          "view_more": {
+            "text": "Zobacz więcej"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Pomoc dla Androida i iOS",
+          "description": "Znajdź odpowiedzi na najczęstsze pytania dotyczące VicastCam dla Androida i iOS, w tym konfigurację konta, uprawnienia do multimediów, połączenia sieciowe i problemy z wyświetlaniem transmisji na żywo.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Pomoc VicastCam",
+          "titleHighlight": "Szybkie znajdowanie odpowiedzi",
+          "description": "Wybierz poradniki dla Androida lub iOS, aby zobaczyć typowe problemy i rozwiązania dla Twojego urządzenia."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Kategorie pytań",
+          "answerLabel": "Odpowiedź",
+          "questionProgressTemplate": "{group} · Pytanie {current} z {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Poradniki dla Androida",
+            "count": "8 pytań",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Jakie rozmiary multimediów są zalecane do transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zalecane rozmiary multimediów do transmisji na żywo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Do teł transmisji na żywo zalecamy obrazy o rozdzielczości 1080 x 1920 pikseli oraz filmy o rozdzielczości 1080 x 1920 pikseli.",
+                      "Ważne: Nakładki pełnoekranowe muszą mieć proporcje 9:16, aby idealnie pasowały podczas przełączania między trybem pełnoekranowym a 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Jak usunąć konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zaloguj się do aplikacji VicastCam, a następnie przejdź do [Konto - ikona w prawym górnym rogu - Zarządzanie kontem - Usuń konto - Wyślij prośbę o usunięcie]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informacje o koncie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta trwale usuniemy powiązany adres e-mail, dane urządzenia i inne informacje identyfikujące. Odwołamy również autoryzacje logowania przez strony trzecie (Google i Apple). Po odwołaniu nie będziesz mógł szybko logować się za pomocą tych kont; jeśli chcesz z nich ponownie korzystać, musisz ponownie udzielić autoryzacji."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Treści i multimedia"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Wszystkie multimedia transmisji na żywo, filmy, obrazy i pliki projektów są przechowywane wyłącznie na Twoim urządzeniu. Platforma nie przechowuje żadnych treści kreatywnych w chmurze. Po usunięciu funkcje zarządzania multimediami w aplikacji przestaną działać, dlatego przed usunięciem wykonaj kopię zapasową treści za pomocą funkcji „Eksportuj multimedia”.",
+                      "Jeśli odinstalujesz i ponownie zainstalujesz aplikację lub zmienisz urządzenie bez wcześniejszego wyeksportowania kopii zapasowej, Twoje multimedia zostaną trwale utracone."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Korzyści członkowskie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Twoje korzyści członkowskie zakończą się natychmiast po usunięciu konta. Jeśli masz aktywną subskrypcję w Google Play, usunięcie konta w aplikacji nie anuluje jej automatycznie i możesz nadal być obciążany opłatami. Przejdź do Google Play, sekcja „Płatności i subskrypcje - Subskrypcje”, aby anulować ją ręcznie."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli masz jakiekolwiek pytania, skontaktuj się z naszym zespołem wsparcia."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Dlaczego nie mogę uzyskać dostępu do multimediów w telefonie podczas dodawania obrazów lub filmów?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli biblioteka zdjęć wydaje się pusta podczas dodawania multimediów, możesz włączyć dostęp do zdjęć w następujący sposób:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Otwórz Ustawienia telefonu, przewiń w dół i znajdź VicastCam, dotknij [Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp.",
+                      "Android: Otwórz Ustawienia telefonu, znajdź VicastCam w sekcji „Uprawnienia” lub „Zarządzanie aplikacjami”, a następnie dotknij [Uprawnienia - Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp.",
+                      "Jeśli problem nadal występuje, spróbuj ponownie zainstalować aplikację lub skontaktuj się z naszym wsparciem online za pomocą funkcji opinii."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Co zrobić, gdy obraz jest przycięty podczas transmisji z komputera?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli obraz jest niekompletny podczas transmisji z telefonu przez aplikację towarzyszącą lub inne oprogramowanie, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, dotknij ikony aparatu na dole, aby wejść na stronę transmisji, a następnie przejdź do [Prawy menu - Więcej ustawień - Proporcje - 9:16].",
+                      "Po przesłaniu do aplikacji towarzyszącej najpierw dopasuj skalę, a następnie przeciągnij obraz w górę lub w dół, aby wypełnić ekran."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Uwaga: Dostosuj proporcje przed dodaniem multimediów i przed rozpoczęciem transmisji."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Co zrobić, gdy żądanie sieciowe nie powiedzie się?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli napotkasz błędy żądań sieciowych, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz Ustawienia telefonu, przejdź do [Uprawnienia - VicastCam - Dane mobilne i Wi-Fi] i włącz dostęp do sieci.",
+                      "Wyłącz tryb oszczędzania energii i wszelkie ograniczenia w tle.",
+                      "Zmień sieć, uruchom ponownie telefon, przełącz tryb samolotowy lub zaktualizuj aplikację.",
+                      "Jeśli problem nadal występuje, zrób zrzut ekranu błędu i skontaktuj się z naszym zespołem wsparcia."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Dlaczego nakładki z multimediów online migoczą lub robią się czarne podczas transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli nakładki z multimediów online migoczą lub robią się czarne podczas transmisji na żywo, oto co możesz zrobić:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pobierz i podglądaj multimedia lub nakładki, których planujesz użyć przed rozpoczęciem transmisji, aby upewnić się, że działają poprawnie.",
+                      "Niektóre wbudowane multimedia są przechowywane na serwerach. Pobierz je przed transmisją, aby były gotowe do użycia bez ładowania podczas transmisji.",
+                      "Ładowanie multimediów w trakcie transmisji zużywa zasoby transmisji, pamięć i wydajność, co może powodować opóźnienia. Na słabszych urządzeniach może nawet prowadzić do awarii lub czarnych ekranów."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Ważne"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Zaplanuj i przećwicz transmisję z wyprzedzeniem. Przećwicz każdy segment, aby upewnić się, że wszystko działa płynnie przed rozpoczęciem transmisji."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Co zrobić, gdy niektóre klawisze klawiatury są zasłonięte?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli niektóre klawisze wirtualnej klawiatury są zasłonięte, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Jeśli używasz starszego telefonu 16:9 i niektóre klawisze są zasłonięte, dotknij drugiego przycisku w lewym górnym rogu klawiatury, aby włączyć tryb pełnoekranowy.",
+                      "Jeśli układ klawiatury jest nieprawidłowy, przejdź do ustawień telefonu i ustaw rozmiar czcionki na normalny.",
+                      "Niektóre telefony mają włączony „tryb seniora”; wyłączenie go powinno przywrócić normalną klawiaturę."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Problemy z wyświetlaniem są zwykle spowodowane zbyt dużą czcionką lub dużym motywem. Zresetowanie ich do standardowych powinno rozwiązać problem."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Co zrobić, gdy telefon Huawei ciągle rozłącza się z funkcją wielu kamer lub wirtualną klawiaturą?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli doświadczasz rozłączeń z funkcją wielu kamer lub wirtualną klawiaturą na telefonach Huawei, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Przejdź do Ustawień telefonu.",
+                      "W pasku wyszukiwania na górze wpisz „Zarządzanie uruchamianiem aplikacji”.",
+                      "Przejdź do strony Zarządzanie uruchamianiem aplikacji i przewiń w dół, aby znaleźć VicastCam.",
+                      "Wyłącz przełącznik po prawej stronie (ikona zmieni kolor na szary), a w wyskakującym oknie włącz wszystkie trzy opcje (zmienią kolor na niebieski)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Możesz również zapoznać się z samouczkiem wideo „Jak zapobiec rozłączaniu się z funkcją wielu kamer i wirtualną klawiaturą na telefonach Huawei”."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Poradniki dla iOS",
+            "count": "6 pytań",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Jakie rozmiary multimediów są zalecane do transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zalecane rozmiary multimediów do transmisji na żywo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Do teł transmisji na żywo zalecamy obrazy o rozdzielczości 1080 x 1920 pikseli oraz filmy o rozdzielczości 1080 x 1920 pikseli.",
+                      "Ważne: Nakładki pełnoekranowe muszą mieć proporcje 9:16, aby idealnie pasowały podczas przełączania między trybem pełnoekranowym a 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Jak usunąć konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Zaloguj się do aplikacji VicastCam, a następnie przejdź do [Konto - ikona w prawym górnym rogu - Zarządzanie kontem - Usuń konto - Wyślij prośbę o usunięcie]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informacje o koncie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Po usunięciu konta trwale usuniemy powiązany adres e-mail, dane urządzenia i inne informacje identyfikujące. Odwołamy również autoryzacje logowania przez strony trzecie (Google i Apple). Po odwołaniu nie będziesz mógł szybko logować się za pomocą tych kont; jeśli chcesz z nich ponownie korzystać, musisz ponownie udzielić autoryzacji."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Treści i multimedia"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Wszystkie multimedia transmisji na żywo, filmy, obrazy i pliki projektów są przechowywane wyłącznie na Twoim urządzeniu. Platforma nie przechowuje żadnych treści kreatywnych w chmurze. Po usunięciu funkcje zarządzania multimediami w aplikacji przestaną działać, dlatego przed usunięciem wykonaj kopię zapasową treści za pomocą funkcji „Eksportuj multimedia”.",
+                      "Jeśli odinstalujesz i ponownie zainstalujesz aplikację lub zmienisz urządzenie bez wcześniejszego wyeksportowania kopii zapasowej, Twoje multimedia zostaną trwale utracone."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Korzyści członkowskie"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Twoje korzyści członkowskie zakończą się natychmiast po usunięciu konta. Ponieważ subskrypcje są zarządzane przez Apple, platforma nie może przetwarzać zwrotów bezpośrednio. Aby poprosić o zwrot pieniędzy, złóż wniosek za pośrednictwem oficjalnych kanałów Apple (historia zakupów w App Store). Przed usunięciem konta pamiętaj o ręcznym anulowaniu subskrypcji z automatycznym odnawianiem, aby uniknąć przyszłych opłat."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli masz jakiekolwiek pytania, skontaktuj się z naszym zespołem wsparcia."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Dlaczego nie mogę uzyskać dostępu do multimediów w telefonie podczas dodawania obrazów lub filmów?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli biblioteka zdjęć wydaje się pusta podczas dodawania multimediów, otwórz Ustawienia iPhone'a, przewiń w dół i znajdź VicastCam, a następnie dotknij [Zdjęcia - Wszystkie zdjęcia], aby włączyć dostęp."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Co zrobić, gdy obraz jest przycięty podczas transmisji z komputera?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli obraz jest niekompletny podczas transmisji z telefonu przez aplikację towarzyszącą lub inne oprogramowanie, wykonaj następujące kroki:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz VicastCam, dotknij ikony aparatu na dole, aby wejść na stronę transmisji, a następnie przejdź do [Prawy menu - Więcej ustawień - Proporcje - 9:16].",
+                      "Po przesłaniu do aplikacji towarzyszącej najpierw dopasuj skalę, a następnie przeciągnij obraz w górę lub w dół, aby wypełnić ekran."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Uwaga: Dostosuj proporcje przed dodaniem multimediów i przed rozpoczęciem transmisji."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Co zrobić, gdy żądanie sieciowe nie powiedzie się?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli napotkasz błędy żądań sieciowych, spróbuj wykonać następujące czynności:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Otwórz Ustawienia telefonu, przejdź do [Uprawnienia - VicastCam - Dane mobilne i Wi-Fi] i włącz dostęp do sieci.",
+                      "Wyłącz tryb oszczędzania energii i wszelkie ograniczenia w tle.",
+                      "Zmień sieć, uruchom ponownie telefon, przełącz tryb samolotowy lub zaktualizuj aplikację.",
+                      "Jeśli problem nadal występuje, zrób zrzut ekranu błędu i skontaktuj się z naszym zespołem wsparcia."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Dlaczego nakładki z multimediów online migoczą lub robią się czarne podczas transmisji na żywo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jeśli nakładki z multimediów online migoczą lub robią się czarne podczas transmisji na żywo, oto co możesz zrobić:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pobierz i podglądaj multimedia lub nakładki, których planujesz użyć przed rozpoczęciem transmisji, aby upewnić się, że działają poprawnie.",
+                      "Niektóre wbudowane multimedia są przechowywane na serwerach. Pobierz je przed transmisją, aby były gotowe do użycia bez ładowania podczas transmisji.",
+                      "Ładowanie multimediów w trakcie transmisji zużywa zasoby transmisji, pamięć i wydajność, co może powodować opóźnienia. Na słabszych urządzeniach może nawet prowadzić do awarii lub czarnych ekranów."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Ważne"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Zaplanuj i przećwicz transmisję z wyprzedzeniem. Przećwicz każdy segment, aby upewnić się, że wszystko działa płynnie przed rozpoczęciem transmisji. Traktuj każdą transmisję poważnie, a osiągniesz najlepsze wyniki."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Centrum poradników",
+        "titleMain": "Rozpocznij swoją",
+        "titleHighlight": "przygodę z VicastCam",
+        "description": "Opanuj oprogramowanie i szybko nabierz wprawy",
+        "buttonText": "Zobacz więcej"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Centrum poradników",
+          "titleMain": "Rozpocznij swoją",
+          "titleHighlight": "przygodę z VicastCam",
+          "descriptionMain": "Opanuj oprogramowanie",
+          "descriptionHighlight": "Szybko nabierz wprawy"
+        },
+        "player": {
+          "sectionAriaLabel": "Lista poradników",
+          "catalogAriaLabel": "Katalog poradników",
+          "previousLabel": "Poprzedni",
+          "nextLabel": "Następny",
+          "firstLessonText": "To pierwsza lekcja",
+          "lastLessonText": "To ostatnia lekcja",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Poradniki dla początkujących",
+            "count": "9 lekcji",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Utwórz swój pierwszy wirtualny pokój na żywo",
+                "description": "Utwórz i skonfiguruj swój pierwszy wirtualny pokój na żywo od podstaw.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Zrozumienie funkcji obrazu",
+                "description": "Poznaj podstawy funkcji obrazu i jej zastosowania.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Jak korzystać z warstw",
+                "description": "Opanuj podstawy panelu warstw.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Jak korzystać z warstw tła",
+                "description": "Naucz się dodawać i dostosowywać warstwy tła.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Jak korzystać z warstw portretowych",
+                "description": "Naucz się używać warstw portretowych do tworzenia efektów wizualnych.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Jak korzystać z warstw obrazu",
+                "description": "Naucz się dodawać i edytować warstwy obrazu.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Jak korzystać z warstw wideo",
+                "description": "Naucz się dodawać multimedia wideo i konfigurować odtwarzanie.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Jak korzystać z warstw efektów",
+                "description": "Dodawaj warstwy efektów do swojej transmisji na żywo.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Jak korzystać z warstw napisów",
+                "description": "Twórz napisy i dostosowuj style warstw napisów.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Poradniki zaawansowane",
+            "count": "6 lekcji",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Jak korzystać z warstw ruchu kamery",
+                "description": "Użyj warstw ruchu kamery, aby tworzyć bardziej dynamiczne ujęcia.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Jak korzystać z funkcji ścieżki",
+                "description": "Kontroluj ścieżkę ruchu elementów za pomocą funkcji ścieżki.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Jak korzystać z warstw wielu kamer",
+                "description": "Skonfiguruj warstwy wielu kamer, aby szybko przełączać się między różnymi widokami.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Jak korzystać z funkcji kontrolera",
+                "description": "Użyj kontrolera do zarządzania widokiem transmisji na żywo.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Jak korzystać z funkcji audio",
+                "description": "Skonfiguruj wejście, wyjście i efekty miksowania audio.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Jak korzystać z funkcji kopii zapasowej",
+                "description": "Twórz kopie zapasowe i przywracaj konfiguracje pokoju na żywo oraz multimedia.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

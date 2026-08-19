@@ -1,0 +1,207 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'AI-маттинг' consistently. The source uses 'AI Matting', and the glossary specifies 'AI matting' => 'AI-маттинг'. The candidate uses 'AI-маттинг' in featureTitle1, but in the description it uses 'AI-маттинг' as well. However, the glossary term is 'AI-маттинг', so ensure it is used consistently. The candidate already uses 'AI-маттинг' in featureTitle1 and description, so no change needed. But the glossary also lists 'AI' => 'AI', so 'AI-маттинг' is correct. No issue."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider rephrasing for naturalness: 'Виртуальные фоны, улучшения в реальном времени и мультиплатформенный стриминг — просто' is acceptable but could be more natural as 'Виртуальные фоны, улучшения в реальном времени и мультиплатформенный стриминг — всё просто' or '... — это просто'. However, it is not a critical issue."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'Я прочитал(а) и согласен(на)' is awkward. Better: 'Я прочитал(а) и принимаю' or 'Я ознакомился(лась) и согласен(на)'. The current form is grammatically correct but stylistically clunky. Suggest 'Я прочитал(а) и принимаю условия Политики конфиденциальности и Пользовательского соглашения'."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.agreeProtocolRequired",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'Сначала прочитайте и примите' is imperative and direct, which is fine. However, it might be more natural to say 'Пожалуйста, прочитайте и примите...' or 'Необходимо прочитать и принять...'. The current is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'Расширяя возможности стриминга по всему миру' is a literal translation of 'Empowering live streaming worldwide'. It is acceptable but could be more natural: 'Даём возможности для стриминга по всему миру' or 'Усиливая стриминг по всему миру'. However, it is not a critical issue."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The title 'Партнёрство' is singular, but the source 'Partnerships' is plural. In Russian, it is common to use singular for such headings, but 'Партнёрства' might be more accurate. However, 'Партнёрство' is acceptable as a section title."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Деловые запросы' is a literal translation of 'Business Inquiries'. A more natural Russian would be 'Коммерческие запросы' or 'Запросы от бизнеса'. However, it is acceptable."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "ru",
+          "loginTitle1": "Меняйте виртуальный фон в один клик",
+          "loginTitle2": "Стримьте с большим эффектом",
+          "loginDes1": "Профессиональный инструмент для стриминга на базе AI",
+          "loginDes2": "Виртуальные фоны, улучшения в реальном времени и мультиплатформенный стриминг — просто",
+          "featureTitle1": "AI-маттинг",
+          "featureSubTitle1": "Замена фона в реальном времени",
+          "featureTitle2": "Мультиплатформенный стриминг",
+          "featureSubTitle2": "Начните эфир одним касанием",
+          "featureTitle3": "Виртуальная камера",
+          "featureSubTitle3": "Превратите телефон в веб-камеру",
+          "loginBox": {
+            "loginPageTitle": "Вход / Регистрация",
+            "codeLoginTab": "Вход по коду",
+            "pwdLoginTab": "Вход по паролю",
+            "qrLoginTab": "Вход по QR-коду",
+            "emailInputPlaceholder": "Введите email для входа",
+            "pwdInputPlaceholder": "Введите пароль",
+            "verifyCodePlaceholder": "Введите проверочный код",
+            "getVerifyCodeText": "Получить код",
+            "loginBtnText": "Войти",
+            "qrLoginTip": "Отсканируйте код в приложении VicastCam для входа",
+            "qrWaitingTip": "Ожидание подтверждения сканирования",
+            "agreeProtocolText": "Я прочитал(а) и принимаю Политику конфиденциальности и Пользовательское соглашение",
+            "userProtocolText": "Пользовательское соглашение",
+            "privacyPolicyText": "Политика конфиденциальности",
+            "agreeProtocolPrefix": "Я прочитал(а) и принимаю"
+          },
+          "toastBox": {
+            "closeToastLabel": "Закрыть уведомление",
+            "requestLoading": "Загрузка",
+            "requestSuccess": "Запрос выполнен",
+            "requestFail": "Запрос не выполнен",
+            "passwordLoginNotReady": "Вход по паролю пока недоступен",
+            "passwordRequired": "Введите пароль",
+            "emailRequired": "Введите email для входа",
+            "verifyCodeRequired": "Введите проверочный код",
+            "agreeProtocolRequired": "Пожалуйста, прочитайте и примите Политику конфиденциальности и Пользовательское соглашение",
+            "qrcodeExpired": "QR-код истёк. Получите новый."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "ru",
+          "hero_section": {
+            "tag": "Инструмент для стриминга на базе AI",
+            "title_main": "Эффекты хромакея и трансляция экрана с телефона",
+            "title_highlight": "Расширяя возможности стриминга по всему миру",
+            "description": "VicastCam использует продвинутый AI-маттинг, позволяя менять виртуальный фон в любой момент стрима, добавляя захватывающие эффекты и профессиональный вид вашим трансляциям.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Скачать"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Скачать"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam предоставляет создателям виртуальные фоны, улучшения для трансляций и кросс-платформенные инструменты."
+            },
+            "columns": [
+              {
+                "title": "Продукт",
+                "links": [
+                  {
+                    "text": "Возможности"
+                  },
+                  {
+                    "text": "Цены"
+                  },
+                  {
+                    "text": "Загрузки"
+                  }
+                ]
+              },
+              {
+                "title": "Разработчикам",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Документация API"
+                  }
+                ]
+              },
+              {
+                "title": "Компания",
+                "links": [
+                  {
+                    "text": "О нас"
+                  },
+                  {
+                    "text": "Политика конфиденциальности"
+                  },
+                  {
+                    "text": "Пользовательское соглашение"
+                  },
+                  {
+                    "text": "Соглашение о членстве"
+                  }
+                ]
+              },
+              {
+                "title": "Поддержка",
+                "links": [
+                  {
+                    "text": "Видеоуроки"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Связаться с нами"
+                  }
+                ]
+              },
+              {
+                "title": "Партнёрство",
+                "links": [
+                  {
+                    "text": "Стать реселлером"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Деловые запросы"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Возможности",
+        "nav_pricing": "Цены",
+        "nav_faq": "FAQ",
+        "nav_auth": "Вход / Регистрация",
+        "nav_team": "Партнёрство"
+      }
+    ]
+  }
+}

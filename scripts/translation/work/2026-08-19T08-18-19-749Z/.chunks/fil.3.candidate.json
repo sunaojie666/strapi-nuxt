@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Kasaysayan ng pagbili",
+    "title": "Kasaysayan ng pagbili",
+    "tabTitle": "Mga Pagbili",
+    "exchangeTabTitle": "Mga Pag-redeem",
+    "tableHeaders": {
+      "title": "Uri",
+      "date": "Oras ng pagbabayad",
+      "price": "Halaga",
+      "paymentMethod": "Paraan ng pagbabayad",
+      "status": "Katayuan",
+      "exchangeDate": "Oras ng pag-redeem",
+      "exchangeCode": "Redemption code"
+    },
+    "exchangeTableHeaders": {
+      "date": "Oras ng pag-redeem",
+      "code": "Redemption code"
+    },
+    "cardTypes": {
+      "month": "Buwanang card",
+      "year": "Taunang card",
+      "life": "Lifetime card",
+      "default": "Membership card"
+    },
+    "orderStatuses": {
+      "pending": "Naghihintay ng pagbabayad",
+      "paid": "Bayad na",
+      "closed": "Sarado",
+      "refunded": "Na-refund",
+      "unknown": "Hindi alam"
+    },
+    "secretLabels": {
+      "show": "Ipakita ang password",
+      "hide": "Itago ang password"
+    },
+    "secretMask": "******",
+    "emptyText": "Wala pang mga tala ng pagbili",
+    "exchangeEmptyText": "Wala pang mga tala ng pag-redeem",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Bank card",
+      "creditcard": "Credit card",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Cryptocurrency",
+      "balance": "Balance",
+      "free": "Libre"
+    }
+  },
+  "team": {
+    "ariaLabel": "Aking team",
+    "title": "Aking team",
+    "referrerLabel": "Ang nag-refer sa akin",
+    "levelOne": "Mga miyembro ng Level 1",
+    "levelTwo": "Mga miyembro ng Level 2",
+    "tableHeaders": {
+      "name": "Pangalan ng miyembro",
+      "status": "Katayuan ng membership",
+      "joinedAt": "Oras ng pagsali"
+    },
+    "memberStatus": {
+      "free": "Libreng user",
+      "vip": "VIP user"
+    },
+    "emptyMemberName": "User na walang pangalan",
+    "emptyReferrer": "Walang nag-refer",
+    "emptyTeam": "Wala pang mga miyembro ng team",
+    "errors": {
+      "loadFail": "Hindi ma-load ang mga miyembro ng team. Pakisubukan muli mamaya."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Earnings center",
+    "title": "Pangkalahatang kita",
+    "commissionTitle": "Mga detalye ng komisyon",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Kabuuang kita",
+        "desc": "Kabuuang komisyon na nakuha hanggang ngayon"
+      },
+      {
+        "key": "month",
+        "title": "Ngayong buwan",
+        "desc": "Komisyon na nakuha ngayong buwan"
+      },
+      {
+        "key": "settling",
+        "title": "Nakabinbing settlement",
+        "value": "0.00",
+        "desc": "Halagang nakabinbing settlement"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Pwedeng i-withdraw",
+        "desc": "Halagang kasalukuyang available para i-withdraw",
+        "action": "I-withdraw"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Username",
+      "saleTime": "Oras ng pagbebenta",
+      "goodsInfo": "Produkto",
+      "commission": "Komisyon"
+    },
+    "emptyCommission": "Wala pang mga tala ng komisyon",
+    "errors": {
+      "loadFail": "Hindi ma-load ang mga detalye ng komisyon. Pakisubukan muli mamaya."
+    },
+    "withdraw": {
+      "ariaLabel": "Kahilingan ng withdrawal",
+      "title": "Kahilingan ng withdrawal",
+      "closeLabel": "Isara ang dialog ng withdrawal",
+      "balanceLabel": "Withdrawable balance",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Halaga ng withdrawal",
+      "amountPlaceholder": "Ilagay ang halaga ng withdrawal",
+      "allButton": "Lahat",
+      "allAmountValue": "0.00",
+      "amountTip": "Pakisiguraduhing tama ang halaga. Ang iyong kahilingan ay susuriin nang manu-mano pagkatapos isumite.",
+      "methodLabel": "Paraan ng withdrawal",
+      "methods": [
+        "Bank card",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Bank card",
+      "nameLabel": "Pangalan ng receiver",
+      "namePlaceholder": "Ilagay ang pangalan ng receiver",
+      "defaultName": "",
+      "bankCardLabel": "Numero ng account",
+      "bankCardPlaceholder": "Ilagay ang bank card number, PayPal email, o wallet address",
+      "remarkLabel": "Mga remarks",
+      "remarkPlaceholder": "Magdagdag ng karagdagang mga tala",
+      "note": "Ang mga kahilingan ng withdrawal ay pinoproseso sa loob ng 1-3 business days.",
+      "cancelButton": "Kanselahin",
+      "submitButton": "Isumite ang kahilingan"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Matagumpay ang pag-redeem",
+    "operationFailed": "Nabigo ang pag-redeem",
+    "invalidCard": "Invalid na redemption code",
+    "cardNotFound": "Hindi nahanap ang redemption code",
+    "cardDisabled": "Hindi pinagana ang redemption code",
+    "cardExpired": "Nag-expire na ang redemption code"
+  },
+  "successMessage": "Matagumpay ang operasyon"
+}

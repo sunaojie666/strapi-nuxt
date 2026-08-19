@@ -1,0 +1,162 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Trung tâm hướng dẫn",
+          "titleMain": "Bắt đầu hành trình",
+          "titleHighlight": "học VicastCam",
+          "descriptionMain": "Làm chủ phần mềm",
+          "descriptionHighlight": "Nhanh chóng nắm bắt"
+        },
+        "player": {
+          "sectionAriaLabel": "Danh sách bài hướng dẫn",
+          "catalogAriaLabel": "Danh mục bài hướng dẫn",
+          "previousLabel": "Trước",
+          "nextLabel": "Tiếp theo",
+          "firstLessonText": "Đây là bài học đầu tiên",
+          "lastLessonText": "Đây là bài học cuối cùng",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Hướng dẫn cơ bản",
+            "count": "9 bài học",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Tạo phòng livestream ảo đầu tiên của bạn",
+                "description": "Tạo và cấu hình phòng livestream ảo đầu tiên từ đầu.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Hiểu về tính năng Hình ảnh",
+                "description": "Tìm hiểu những điều cơ bản về tính năng hình ảnh và các trường hợp sử dụng.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Cách sử dụng Layer",
+                "description": "Nắm vững những điều cơ bản về bảng layer.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Cách sử dụng Layer nền",
+                "description": "Học cách thêm và điều chỉnh layer nền.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Cách sử dụng Layer chân dung",
+                "description": "Học cách sử dụng layer chân dung để tạo hiệu ứng hình ảnh.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Cách sử dụng Layer hình ảnh",
+                "description": "Học cách thêm và chỉnh sửa layer hình ảnh.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Cách sử dụng Layer video",
+                "description": "Học cách thêm video và cấu hình phát lại.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Cách sử dụng Layer hiệu ứng",
+                "description": "Thêm layer hiệu ứng vào luồng phát trực tiếp của bạn.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Cách sử dụng Layer phụ đề",
+                "description": "Tạo phụ đề và điều chỉnh kiểu dáng của layer phụ đề.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Hướng dẫn nâng cao",
+            "count": "6 bài học",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Cách sử dụng Layer chuyển động camera",
+                "description": "Sử dụng layer chuyển động camera để tạo các góc quay sống động hơn.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Cách sử dụng tính năng Đường dẫn",
+                "description": "Điều khiển đường di chuyển của các thành phần bằng tính năng đường dẫn.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Cách sử dụng Layer đa camera",
+                "description": "Cấu hình layer đa camera để chuyển đổi giữa các góc nhìn khác nhau một cách nhanh chóng.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Cách sử dụng tính năng Bộ điều khiển",
+                "description": "Sử dụng bộ điều khiển để quản lý chế độ xem livestream của bạn.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Cách sử dụng tính năng Âm thanh",
+                "description": "Cấu hình đầu vào, đầu ra và hiệu ứng trộn âm thanh.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Cách sử dụng tính năng Sao lưu",
+                "description": "Sao lưu và khôi phục cấu hình phòng livestream và phương tiện.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

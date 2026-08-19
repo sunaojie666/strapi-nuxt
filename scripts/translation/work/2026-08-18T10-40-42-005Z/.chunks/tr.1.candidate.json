@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Eğitim Merkezi",
+    "titleMain": "VicastCam Öğrenme",
+    "titleHighlight": "Yolculuğunuza Başlayın",
+    "descriptionMain": "Yazılımın tüm özelliklerine hakim olun",
+    "descriptionHighlight": "Hızlıca kurun ve kullanmaya başlayın"
+  },
+  "player": {
+    "sectionAriaLabel": "Eğitim Listesi",
+    "catalogAriaLabel": "Eğitim Kataloğu",
+    "previousLabel": "Önceki",
+    "nextLabel": "Sonraki",
+    "firstLessonText": "İlk derstesiniz",
+    "lastLessonText": "Son derstesiniz",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

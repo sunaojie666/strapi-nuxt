@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "tr",
+        "features_section": {
+          "title_tag": "Özellikler",
+          "title_main": "Profesyonel mobil yayıncılar için",
+          "title_highlight": "tümleşik canlı yayın çözümü",
+          "description": "Temel canlı yayın yeteneklerini entegre ederek her yerde etkileyici sahneler oluşturun ve profesyonel bir görsel deneyim sunun."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Ekran Yansıtma ve Sanal Kamera",
+            "desc": "Telefonunuzu PC'nize yansıtın ve sanal kamera teknolojisiyle profesyonel canlı yayınlar oluşturun."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Çoklu Kamera Desteği",
+            "desc": "Canlı yayın sırasında tek dokunuşla birden fazla kamera açısı arasında geçiş yaparak daha zengin perspektifler elde edin."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D Efektler",
+            "desc": "Dinamik ve ilgi çekici bir yayın odası oluşturmak için etkileyici 2D/3D efekt katmanları ekleyin."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Çoklu Platform Yayını",
+            "desc": "YouTube, Twitch, TikTok, Facebook Live ve daha fazlasına yayın yapın."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Sanal Kontrolcü",
+            "desc": "Canlı yayınınızı herhangi bir cihazdan uzaktan kontrol edin: sahneleri değiştirin, sesi kapatın ve efektleri gerçek zamanlı ayarlayın."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Eşzamanlı Çoklu Platform Yayını",
+            "desc": "PC'nizden aynı anda TikTok, YouTube, Twitch ve Instagram'da canlı yayına geçin."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Mobil Yeşil Ekran Efektleri ve Ekran Yansıtma",
+      "top_badge": "AI Destekli Canlı Yayın Aracı",
+      "hero_subtitle": "Küresel canlı yayın ekosistemini güçlendiriyor",
+      "hero_description_1": "VicastCam, gelişmiş AI matting ile canlı yayınlar sırasında sanal arka planları sorunsuz bir şekilde değiştirmenizi sağlar ve",
+      "hero_description_2": "profesyonel imajınızı yükselten sürükleyici bir deneyim sunar.",
+      "user_count_label": "Küresel Kullanıcılar",
+      "rating_label": "App Store Puanı",
+      "download_count_label": "Küresel İndirmeler",
+      "app_store_url": "App Store'dan İndir",
+      "google_play_url": "Android'den İndir",
+      "desktop_client_url": "Masaüstü İstemcisini İndir",
+      "request_success": "İstek başarılı",
+      "request_fail": "İstek başarısız",
+      "request_loading": "Yükleniyor"
+    }
+  ]
+}

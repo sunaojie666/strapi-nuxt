@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Adhésion",
+    "title": "Mon adhésion",
+    "badgeAlt": "Badge d'adhésion",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Utilisateur gratuit",
+    "activeVipName": "Membre VIP",
+    "expirePrefix": "Expire le",
+    "emptyExpireDate": "Non activée",
+    "activeStatus": "Active",
+    "inactiveStatus": "Inactive",
+    "compareTitle": "Comparer les offres",
+    "compareHeaders": {
+      "feature": "Fonctionnalité",
+      "normal": "Gratuit",
+      "month": "Mensuel",
+      "year": "Annuel",
+      "life": "À vie"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Mensuel",
+        "subtitle": "Idéal pour une utilisation ponctuelle",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/mois",
+        "cta": "Commencer",
+        "benefits": [
+          "Fonctionnalités essentielles de caméra virtuelle",
+          "Arrière-plans virtuels et embellissement",
+          "Streaming multi-plateformes",
+          "Mises à jour standard"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Annuel",
+        "subtitle": "Meilleur rapport qualité-prix pour une utilisation durable",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/an",
+        "cta": "Commencer",
+        "benefits": [
+          "Tout le plan Mensuel",
+          "Toutes les fonctionnalités premium pendant un an",
+          "Mises à jour prioritaires",
+          "Assistance dédiée aux membres"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "À vie",
+        "subtitle": "Payez une fois, utilisez pour toujours",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/à vie",
+        "cta": "Commencer",
+        "benefits": [
+          "Tout le plan Annuel",
+          "Fonctionnalités premium à vie",
+          "Mises à jour à long terme",
+          "Canal d'assistance exclusif"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Durée de l'adhésion",
+        "normal": "Gratuit à vie",
+        "month": "30 jours",
+        "year": "365 jours",
+        "life": "À vie"
+      },
+      {
+        "feature": "Caméra virtuelle pour ordinateur",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Arrière-plans virtuels personnalisés",
+        "normal": "1 ensemble",
+        "month": "Illimité",
+        "year": "Illimité",
+        "life": "Illimité"
+      },
+      {
+        "feature": "Préréglages de streaming",
+        "normal": "Non",
+        "month": "Illimité",
+        "year": "Illimité",
+        "life": "Illimité"
+      },
+      {
+        "feature": "Ressources officielles",
+        "normal": "Limitées",
+        "month": "Illimitées",
+        "year": "Illimitées",
+        "life": "Illimitées"
+      },
+      {
+        "feature": "Contrôle à distance via la télécommande",
+        "normal": "Oui",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Mode comparaison de scènes",
+        "normal": "Oui",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Sous-titres de scène",
+        "normal": "Limités",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Musique de scène",
+        "normal": "Limitée",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Entrée multi-caméras",
+        "normal": "Non",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Filtres de beauté avancés",
+        "normal": "Basiques",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Détourage par écran vert IA",
+        "normal": "Oui",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Animations de suivi de mouvement",
+        "normal": "Limitées",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Effets de caméra de scène",
+        "normal": "Limités",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Bibliothèque d'effets VIP",
+        "normal": "Limitée",
+        "month": "Illimitée",
+        "year": "Illimitée",
+        "life": "Illimitée"
+      },
+      {
+        "feature": "Streaming multi-plateformes",
+        "normal": "Oui",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Sortie 4K",
+        "normal": "Non",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      },
+      {
+        "feature": "Taux de commission de parrainage",
+        "normal": "5 %",
+        "month": "40 %",
+        "year": "40 %",
+        "life": "40 %"
+      },
+      {
+        "feature": "Ristourne sous-affilié",
+        "normal": "1 %",
+        "month": "7 %",
+        "year": "7 %",
+        "life": "7 %"
+      },
+      {
+        "feature": "Canal d'assistance",
+        "normal": "Auto-assistance communautaire",
+        "month": "File standard",
+        "year": "Réponse prioritaire",
+        "life": "Assistance dédiée"
+      },
+      {
+        "feature": "Accès anticipé aux nouvelles fonctionnalités",
+        "normal": "Non",
+        "month": "Oui",
+        "year": "Oui",
+        "life": "Oui"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Échanger un code",
+    "title": "Échanger un code",
+    "tip": "Saisissez votre code d'activation d'adhésion. Votre adhésion sera activée immédiatement après l'échange.",
+    "placeholder": "Saisissez le code d'activation",
+    "submitButton": "Échanger",
+    "agreementPrefix": "En échangeant, vous acceptez les",
+    "userProtocolText": "Conditions d'utilisation",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Échec de l'échange. Vérifiez le code et réessayez."
+    }
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "مركز الحساب",
+            "description": "صفحة مركز الحساب في VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "تنقل الحساب",
+            "defaultProfileName": "مستخدم",
+            "emptyContent": "لا يوجد محتوى",
+            "copyButtonLabel": "نسخ",
+            "monthSelectLabel": "اختر الشهر",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "لم يتم العثور على معلومات المستخدم. يرجى تسجيل الدخول مرة أخرى.",
+            "paginationLabel": "ترقيم الصفحات",
+            "previousPageLabel": "الصفحة السابقة",
+            "nextPageLabel": "الصفحة التالية",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "الانتقال إلى",
+              "unit": "صفحة",
+              "ariaLabel": "الانتقال إلى صفحة محددة",
+              "buttonLabel": "انتقال"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "مركز الحساب",
+            "logout": "تسجيل الخروج",
+            "profileAriaSuffix": "قائمة الحساب"
+          },
+          "sidebar": {
+            "ariaLabel": "تنقل الحساب",
+            "menus": {
+              "account": "معلومات الحساب",
+              "membership": "العضوية",
+              "redeem": "استخدام رمز",
+              "purchaseHistory": "سجل المشتريات",
+              "team": "فريقي",
+              "earnings": "الأرباح"
+            }
+          },
+          "account": {
+            "ariaLabel": "معلومات الحساب",
+            "profileTitle": "معلومات الحساب",
+            "usernameLabel": "اسم المستخدم",
+            "passwordLabel": "كلمة المرور",
+            "passwordMask": "********",
+            "defaultUsername": "لم يتم تعيين اسم مستعار",
+            "emailLabel": "البريد الإلكتروني المرتبط",
+            "emailPlaceholder": "أدخل بريدك الإلكتروني",
+            "codePlaceholder": "أدخل رمز التحقق",
+            "sendCodeButton": "الحصول على الرمز",
+            "bindButton": "ربط البريد الإلكتروني",
+            "alreadyBound": "مرتبط",
+            "unboundEmail": "غير مرتبط",
+            "emailBindTip": "بمجرد الربط، لا يمكن تغيير البريد الإلكتروني. يرجى التأكد من صحة عنوان البريد الإلكتروني.",
+            "emailRequired": "يرجى إدخال بريد إلكتروني صحيح",
+            "codeRequired": "يرجى إدخال رمز التحقق",
+            "codeSent": "تم إرسال رمز التحقق. تحقق من بريدك الإلكتروني.",
+            "bindSuccess": "تم ربط البريد الإلكتروني بنجاح",
+            "bindFailed": "فشل ربط البريد الإلكتروني. تحقق من الرمز وحاول مرة أخرى.",
+            "requestFailed": "فشل الطلب. يرجى المحاولة لاحقًا.",
+            "inviteTitle": "رابط الدعوة",
+            "inviteDescription": "انسخ رابط الدعوة الشخصي الخاص بك. عندما يسجل الأصدقاء ويشترون عضوية، ستحصل على مكافآت.",
+            "emptyInviteLink": "لا يتوفر رابط دعوة"
+          },
+          "membership": {
+            "ariaLabel": "العضوية",
+            "title": "عضويتي",
+            "badgeAlt": "شارة العضوية",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "مستخدم مجاني",
+            "activeVipName": "عضو VIP",
+            "expirePrefix": "تنتهي في",
+            "emptyExpireDate": "غير مفعلة",
+            "activeStatus": "نشطة",
+            "inactiveStatus": "غير نشطة",
+            "compareTitle": "قارن الخطط",
+            "compareHeaders": {
+              "feature": "الميزة",
+              "normal": "مجاني",
+              "month": "شهري",
+              "year": "سنوي",
+              "life": "مدى الحياة"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "شهري",
+                "subtitle": "مثالي للاستخدام قصير المدى",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/شهرياً",
+                "cta": "ابدأ الآن",
+                "benefits": [
+                  "ميزات الكاميرا الافتراضية الأساسية",
+                  "خلفيات افتراضية وتحسين المظهر",
+                  "بث مباشر متعدد المنصات",
+                  "تحديثات قياسية"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "سنوي",
+                "subtitle": "قيمة أفضل للاستخدام طويل المدى",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/سنوياً",
+                "cta": "ابدأ الآن",
+                "benefits": [
+                  "كل مزايا الخطة الشهرية",
+                  "جميع الميزات المميزة لمدة عام",
+                  "تحديثات الميزات ذات الأولوية",
+                  "دعم أعضاء مخصص"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "مدى الحياة",
+                "subtitle": "ادفع مرة واحدة واستخدم للأبد",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/مدى الحياة",
+                "cta": "ابدأ الآن",
+                "benefits": [
+                  "كل مزايا الخطة السنوية",
+                  "ميزات مميزة للأبد",
+                  "تحديثات طويلة المدى",
+                  "قناة دعم حصرية"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "مدة العضوية",
+                "normal": "مجاني للأبد",
+                "month": "30 يوم",
+                "year": "365 يوم",
+                "life": "مدى الحياة"
+              },
+              {
+                "feature": "كاميرا افتراضية لسطح المكتب",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "خلفيات افتراضية مخصصة",
+                "normal": "مجموعة واحدة",
+                "month": "غير محدود",
+                "year": "غير محدود",
+                "life": "غير محدود"
+              },
+              {
+                "feature": "إعدادات البث المسبقة",
+                "normal": "لا",
+                "month": "غير محدود",
+                "year": "غير محدود",
+                "life": "غير محدود"
+              },
+              {
+                "feature": "الأصول الرسمية",
+                "normal": "محدودة",
+                "month": "غير محدود",
+                "year": "غير محدود",
+                "life": "غير محدود"
+              },
+              {
+                "feature": "التحكم عن بعد عبر وحدة التحكم",
+                "normal": "نعم",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "وضع مقارنة المشاهد",
+                "normal": "نعم",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "ترجمات المشاهد",
+                "normal": "محدودة",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "موسيقى المشاهد",
+                "normal": "محدودة",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "إدخال كاميرات متعددة",
+                "normal": "لا",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "فلاتر تجميل متقدمة",
+                "normal": "أساسية",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "قص الشاشة الخضراء بالذكاء الاصطناعي",
+                "normal": "نعم",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "رسوم متحركة لتتبع الحركة",
+                "normal": "محدودة",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "تأثيرات كاميرا المشهد",
+                "normal": "محدودة",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "مكتبة تأثيرات VIP",
+                "normal": "محدودة",
+                "month": "غير محدود",
+                "year": "غير محدود",
+                "life": "غير محدود"
+              },
+              {
+                "feature": "البث عبر المنصات",
+                "normal": "نعم",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "إخراج 4K",
+                "normal": "لا",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              },
+              {
+                "feature": "نسبة عمولة الإحالة",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "خصم العمولة الفرعية",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "قناة الدعم",
+                "normal": "خدمة ذاتية للمجتمع",
+                "month": "طابور قياسي",
+                "year": "استجابة ذات أولوية",
+                "life": "دعم مخصص"
+              },
+              {
+                "feature": "وصول مبكر للميزات الجديدة",
+                "normal": "لا",
+                "month": "نعم",
+                "year": "نعم",
+                "life": "نعم"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "استرداد الرمز",
+            "title": "استرداد الرمز",
+            "tip": "أدخل رمز استرداد العضوية الخاص بك. سيتم تفعيل عضويتك فور الاسترداد.",
+            "placeholder": "أدخل رمز الاسترداد",
+            "submitButton": "استرداد",
+            "agreementPrefix": "باسترداد الرمز، فإنك توافق على",
+            "userProtocolText": "اتفاقية المستخدم",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "فشل الاسترداد. تحقق من الرمز وحاول مرة أخرى."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "سجل المشتريات",
+            "title": "سجل المشتريات",
+            "tabTitle": "المشتريات",
+            "exchangeTabTitle": "الاستبدالات",
+            "tableHeaders": {
+              "title": "النوع",
+              "date": "وقت الدفع",
+              "price": "المبلغ",
+              "paymentMethod": "طريقة الدفع",
+              "status": "الحالة",
+              "exchangeDate": "وقت الاستبدال",
+              "exchangeCode": "رمز الاستبدال"
+            },
+            "exchangeTableHeaders": {
+              "date": "وقت الاستبدال",
+              "code": "رمز الاستبدال"
+            },
+            "cardTypes": {
+              "month": "بطاقة شهرية",
+              "year": "بطاقة سنوية",
+              "life": "بطاقة مدى الحياة",
+              "default": "بطاقة عضوية"
+            },
+            "orderStatuses": {
+              "pending": "في انتظار الدفع",
+              "paid": "مدفوع",
+              "closed": "مغلق",
+              "refunded": "مسترد",
+              "unknown": "غير معروف"
+            },
+            "secretLabels": {
+              "show": "إظهار كلمة المرور",
+              "hide": "إخفاء كلمة المرور"
+            },
+            "secretMask": "******",
+            "emptyText": "لا توجد سجلات شراء بعد",
+            "exchangeEmptyText": "لا توجد سجلات استبدال بعد",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "بطاقة بنكية",
+              "creditcard": "بطاقة ائتمان",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "عملة رقمية",
+              "balance": "الرصيد",
+              "free": "مجاني"
+            }
+          },
+          "team": {
+            "ariaLabel": "فريقي",
+            "title": "فريقي",
+            "referrerLabel": "الشخص الذي أحالني",
+            "levelOne": "أعضاء المستوى 1",
+            "levelTwo": "أعضاء المستوى 2",
+            "tableHeaders": {
+              "name": "اسم العضو",
+              "status": "حالة العضوية",
+              "joinedAt": "وقت الانضمام"
+            },
+            "memberStatus": {
+              "free": "مستخدم مجاني",
+              "vip": "مستخدم VIP"
+            },
+            "emptyMemberName": "مستخدم بدون اسم",
+            "emptyReferrer": "لا يوجد مُحيل",
+            "emptyTeam": "لا يوجد أعضاء في الفريق بعد",
+            "errors": {
+              "loadFail": "فشل تحميل أعضاء الفريق. يرجى المحاولة لاحقًا."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "مركز الأرباح",
+            "title": "نظرة عامة على الأرباح",
+            "commissionTitle": "تفاصيل العمولات",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "إجمالي الأرباح",
+                "desc": "إجمالي العمولات المكتسبة حتى الآن"
+              },
+              {
+                "key": "month",
+                "title": "هذا الشهر",
+                "desc": "العمولات المكتسبة هذا الشهر"
+              },
+              {
+                "key": "settling",
+                "title": "قيد التسوية",
+                "value": "0.00",
+                "desc": "المبلغ قيد التسوية"
+              },
+              {
+                "key": "withdrawable",
+                "title": "قابل للسحب",
+                "desc": "المبلغ المتاح للسحب حاليًا",
+                "action": "سحب"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "اسم المستخدم",
+              "saleTime": "وقت البيع",
+              "goodsInfo": "المنتج",
+              "commission": "العمولة"
+            },
+            "emptyCommission": "لا توجد سجلات عمولات بعد",
+            "errors": {
+              "loadFail": "فشل تحميل تفاصيل العمولات. يرجى المحاولة لاحقًا."
+            },
+            "withdraw": {
+              "ariaLabel": "طلب سحب",
+              "title": "طلب سحب",
+              "closeLabel": "إغلاق نافذة السحب",
+              "balanceLabel": "الرصيد القابل للسحب",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "مبلغ السحب",
+              "amountPlaceholder": "أدخل مبلغ السحب",
+              "allButton": "الكل",
+              "allAmountValue": "0.00",
+              "amountTip": "يرجى التأكد من صحة المبلغ. سيتم مراجعة طلبك يدويًا بعد الإرسال.",
+              "methodLabel": "طريقة السحب",
+              "methods": [
+                "بطاقة بنكية",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "بطاقة بنكية",
+              "nameLabel": "اسم المستلم",
+              "namePlaceholder": "أدخل اسم المستلم",
+              "defaultName": "",
+              "bankCardLabel": "رقم الحساب",
+              "bankCardPlaceholder": "أدخل رقم البطاقة البنكية أو بريد PayPal الإلكتروني أو عنوان المحفظة",
+              "remarkLabel": "ملاحظات",
+              "remarkPlaceholder": "أضف أي ملاحظات إضافية",
+              "note": "تتم معالجة طلبات السحب خلال 1-3 أيام عمل.",
+              "cancelButton": "إلغاء",
+              "submitButton": "إرسال الطلب"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "تم الاستبدال بنجاح",
+            "operationFailed": "فشل الاستبدال",
+            "invalidCard": "رمز الاستبدال غير صالح",
+            "cardNotFound": "رمز الاستبدال غير موجود",
+            "cardDisabled": "رمز الاستبدال معطل",
+            "cardExpired": "انتهت صلاحية رمز الاستبدال"
+          },
+          "successMessage": "تمت العملية بنجاح"
+        }
+      }
+    }
+  ]
+}

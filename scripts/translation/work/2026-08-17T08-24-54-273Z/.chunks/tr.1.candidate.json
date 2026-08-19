@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam SSS | Android ve iOS için Yardım",
+    "description": "Android ve iOS için VicastCam hakkında sık sorulan soruların yanıtları: hesap kurulumu, medya izinleri, ağ bağlantıları ve canlı yayın sorunları.",
+    "imageAlt": "VicastCam SSS"
+  },
+  "hero": {
+    "eyebrow": "SSS",
+    "titleMain": "VicastCam Yardım",
+    "titleHighlight": "Hızlı Yanıtlar",
+    "description": "Cihazınıza uygun platformu (Android veya iOS) seçin ve sık sorulan sorular ile çözümleri görün."
+  },
+  "content": {
+    "sectionAriaLabel": "Sık sorulan sorular",
+    "catalogAriaLabel": "Soru kategorileri",
+    "answerLabel": "Yanıt",
+    "questionProgressTemplate": "{group} · Soru {current} / {total}"
+  }
+}

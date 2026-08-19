@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Berapa ukuran yang disarankan untuk aset live streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Ukuran yang disarankan untuk aset live streaming:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Untuk gambar latar live, kami menyarankan 1080 x 1920 piksel; untuk video, kami juga menyarankan 1080 x 1920 piksel.",
+            "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar sejajar sempurna saat beralih antara mode layar penuh dan 9:16, memberikan tampilan yang mulus."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Mode output apa saja yang didukung untuk streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Streaming mendukung dua mode output: streaming 9:16 dan streaming layar penuh. Ikuti langkah-langkah berikut untuk memilih mode di perangkat Apple Anda:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Entri menu di sisi kanan halaman live streaming Apple",
+          "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Di Pengaturan Lainnya, temukan 'Rasio Aspek' dan pilih 'Layar Penuh' atau '9:16' sesuai kebutuhan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Opsi rasio aspek di Pengaturan Lainnya di Apple",
+          "caption": "Langkah 2: Di 'Rasio Aspek', pilih 'Layar Penuh' atau '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Tentang kedua mode"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming 9:16: Rasio aspek output tetap 9:16, sehingga platform live menerima gambar 9:16.",
+            "Streaming layar penuh: Mengalirkan seluruh layar ponsel apa adanya, mempertahankan konten asli tanpa memotong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Apa perbedaan antara Streaming Sistem dan Streaming Perangkat Lunak?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Perangkat Apple menawarkan dua mode penangkapan streaming, yang berbeda signifikan dalam aturan operasi latar belakang. Ikuti langkah-langkah berikut untuk memilih mode streaming:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Entri menu di sisi kanan halaman live streaming Apple",
+          "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Di Pengaturan Lainnya, temukan 'Mode Streaming' dan pilih 'Streaming Sistem' atau 'Streaming Perangkat Lunak' sesuai kebutuhan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Opsi mode streaming di Pengaturan Lainnya di Apple",
+          "caption": "Langkah 2: Di 'Mode Streaming', pilih 'Streaming Sistem' atau 'Streaming Perangkat Lunak'."
+        },
+        {
+          "type": "heading",
+          "text": "Tentang kedua mode"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming Sistem (perekaman layar ReplayKit): Menggunakan perekaman layar sistem iOS untuk menangkap layar, memungkinkan streaming berlanjut bahkan saat aplikasi berada di latar belakang. Anda dapat beralih ke aplikasi lain dan tetap menangkap konten layar apa pun tanpa mengganggu streaming.",
+            "Streaming Perangkat Lunak (penangkapan langsung di latar depan): Aplikasi menangkap layar secara langsung. Karena keterbatasan sistem iOS, aplikasi harus tetap di latar depan. Jika Anda beralih ke aplikasi lain atau kembali ke layar beranda, streaming akan berhenti segera."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Bagaimana cara menghapus akun saya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Silakan masuk ke aplikasi VicastCam, lalu buka [Akun - ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+        },
+        {
+          "type": "heading",
+          "text": "Informasi akun"
+        },
+        {
+          "type": "paragraph",
+          "text": "Setelah penghapusan akun, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya, serta mencabut otorisasi login pihak ketiga melalui akun Google dan Apple. Setelah pencabutan, Anda tidak akan dapat lagi menggunakan akun pihak ketiga tersebut untuk masuk cepat ke aplikasi ini. Untuk menggunakan aplikasi lagi, Anda perlu memberikan otorisasi ulang dan menautkan akun."
+        },
+        {
+          "type": "heading",
+          "text": "Konten dan aset"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Semua aset live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda. Cloud platform tidak menyimpan aset kreatif apa pun. Setelah penghapusan, fitur manajemen aset tidak akan tersedia lagi. Harap cadangkan aset Anda terlebih dahulu menggunakan 'Ekspor Aset'.",
+            "Jika Anda menghapus instalasi dan menginstal ulang aplikasi, mengganti perangkat, atau gagal mengekspor cadangan sebelumnya, aset Anda akan hilang secara permanen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Manfaat keanggotaan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Setelah penghapusan akun, manfaat keanggotaan Anda akan berakhir segera. Karena layanan langganan dikelola oleh Apple, platform tidak dapat memproses pengembalian dana secara langsung. Untuk meminta pengembalian dana, silakan ajukan permintaan melalui saluran resmi Apple (riwayat pembelian App Store). Sebelum menghapus akun, pastikan untuk membatalkan perpanjangan otomatis secara manual untuk menghindari biaya di masa mendatang."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jika Anda memiliki pertanyaan, silakan hubungi dukungan pelanggan."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Mengapa saya tidak bisa mengakses foto dan video di ponsel saat menambahkannya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika pustaka foto Anda tampak kosong saat menambahkan aset, buka Pengaturan iPhone Anda, gulir ke bawah untuk menemukan VicastCam, ketuk [Foto - Semua Foto] untuk mengaktifkan akses."
+        }
+      ]
+    }
+  ]
+}

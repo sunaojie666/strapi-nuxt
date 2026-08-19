@@ -1,0 +1,36 @@
+{
+  "complete": true,
+  "slot": "6",
+  "results": [
+    {
+      "locale": "fil",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "needs-human-review",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T07-29-16-676Z\\fil.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fr",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "needs-human-review",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T07-29-16-676Z\\fr.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "validate-localization.mjs exited with 2: "
+    }
+  ]
+}

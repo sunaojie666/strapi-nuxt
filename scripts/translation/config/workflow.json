@@ -8,8 +8,8 @@
     "other locale draft",
     "other locale machine-reviewed",
     "other locale approved",
-    "Strapi draft sync",
-    "manual publish"
+    "Strapi sync and publish",
+    "published"
   ],
   "statuses": ["draft", "machine-reviewed", "needs-human-review", "approved", "rejected", "published"],
   "englishMaster": {
@@ -73,8 +73,8 @@
     "redactBeforeRemoteModelCall": ["customer personal data", "private contact data", "secrets", "tokens"],
     "cacheBySourceHash": true,
     "perLocaleFailureIsolated": true,
-    "writeToStrapiDraftOnly": true,
-    "publishRequiresExplicitHumanAction": true
+    "writeToStrapiDraftOnly": false,
+    "publishRequiresExplicitHumanAction": false
   },
   "rollback": {
     "keepSourceAndTranslationSnapshots": true,

@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "¿Por qué los recursos de red o las superposiciones parpadean o se ponen en negro durante una transmisión en vivo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si experimentas parpadeos o pantallas negras al añadir recursos de red durante una transmisión en vivo, así puedes solucionarlo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Descarga y previsualiza cualquier recurso o superposición que planees usar durante la transmisión con antelación, y confirma que funcionan correctamente antes de empezar a transmitir.",
+            "Algunos recursos incluidos con el software se almacenan en servidores. Si los descargas antes de transmitir, podrás usarlos directamente durante la transmisión sin tener que recargarlos.",
+            "Cargar recursos a mitad de la transmisión consume recursos de streaming, memoria del teléfono y rendimiento, lo que puede causar retrasos; en teléfonos de gama baja, incluso puede provocar bloqueos o pantallas negras."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Antes de transmitir, planifica y ensaya tu transmisión a fondo para asegurarte de que cada elemento funcione perfectamente antes de comenzar."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "¿Qué debo hacer si algunas teclas del teclado están cubiertas?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si algunas teclas del teclado virtual están cubiertas, prueba lo siguiente:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Si estás usando un teléfono antiguo con relación de aspecto 16:9 como control remoto y algunas teclas están cubiertas, toca el segundo botón en la esquina superior izquierda del teclado para activar el modo de pantalla completa.",
+            "Si la distribución del teclado está desalineada, ve a los Ajustes de tu teléfono y establece el tamaño de fuente en normal.",
+            "Algunos teléfonos tienen activado el modo de uso básico; desactivarlo debería restaurar la visualización normal del teclado."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Los problemas de visualización suelen deberse a fuentes demasiado grandes o a un tema de interfaz del teléfono demasiado grande. Restablecer estos ajustes al modo estándar debería resolver el problema."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "¿Qué debo hacer si mi teléfono Huawei se desconecta constantemente de la multicámara o del teclado virtual?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si tu teléfono Huawei experimenta desconexiones con la multicámara o el teclado virtual, sigue estos pasos:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ve a los Ajustes de tu teléfono.",
+            "En la barra de búsqueda de la parte superior, escribe 'Gestión de inicio de aplicaciones'.",
+            "Ve a la página de Gestión de inicio de aplicaciones, desplázate hacia abajo hasta encontrar VicastCam.",
+            "Desactiva el interruptor de la derecha para que el icono se ponga gris; al mismo tiempo, activa las tres opciones de la ventana emergente para que se pongan azules."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "También puedes consultar el tutorial en vídeo 'Cómo evitar desconexiones con la multicámara y el teclado virtual en teléfonos Huawei'."
+        }
+      ]
+    }
+  ]
+}

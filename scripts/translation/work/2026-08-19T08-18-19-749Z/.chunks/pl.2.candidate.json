@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Członkostwo",
+    "title": "Moje członkostwo",
+    "badgeAlt": "Odznaka członkostwa",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Użytkownik bezpłatny",
+    "activeVipName": "Członek VIP",
+    "expirePrefix": "Wygasa",
+    "emptyExpireDate": "Nieaktywowane",
+    "activeStatus": "Aktywne",
+    "inactiveStatus": "Nieaktywne",
+    "compareTitle": "Porównaj plany",
+    "compareHeaders": {
+      "feature": "Funkcja",
+      "normal": "Bezpłatny",
+      "month": "Miesięczny",
+      "year": "Roczny",
+      "life": "Dożywotni"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Miesięczny",
+        "subtitle": "Idealny do krótkotrwałego użytkowania",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/miesiąc",
+        "cta": "Rozpocznij",
+        "benefits": [
+          "Podstawowe funkcje wirtualnej kamery",
+          "Wirtualne tła i upiększanie",
+          "Transmisja na żywo na wiele platform",
+          "Standardowe aktualizacje"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Roczny",
+        "subtitle": "Lepsza wartość przy długotrwałym użytkowaniu",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/rok",
+        "cta": "Rozpocznij",
+        "benefits": [
+          "Wszystko z planu miesięcznego",
+          "Wszystkie funkcje premium przez rok",
+          "Priorytetowe aktualizacje funkcji",
+          "Dedykowane wsparcie dla członków"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Dożywotni",
+        "subtitle": "Zapłać raz, używaj na zawsze",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/dożywotnio",
+        "cta": "Rozpocznij",
+        "benefits": [
+          "Wszystko z planu rocznego",
+          "Funkcje premium na zawsze",
+          "Długoterminowe aktualizacje",
+          "Ekskluzywny kanał wsparcia"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Czas trwania członkostwa",
+        "normal": "Bezpłatnie na zawsze",
+        "month": "30 dni",
+        "year": "365 dni",
+        "life": "Dożywotnio"
+      },
+      {
+        "feature": "Wirtualna kamera na komputer",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Niestandardowe wirtualne tła",
+        "normal": "1 zestaw",
+        "month": "Bez ograniczeń",
+        "year": "Bez ograniczeń",
+        "life": "Bez ograniczeń"
+      },
+      {
+        "feature": "Presety transmisji",
+        "normal": "Nie",
+        "month": "Bez ograniczeń",
+        "year": "Bez ograniczeń",
+        "life": "Bez ograniczeń"
+      },
+      {
+        "feature": "Oficjalne zasoby",
+        "normal": "Ograniczone",
+        "month": "Bez ograniczeń",
+        "year": "Bez ograniczeń",
+        "life": "Bez ograniczeń"
+      },
+      {
+        "feature": "Zdalne sterowanie kontrolerem",
+        "normal": "Tak",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Tryb porównania scen",
+        "normal": "Tak",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Napisy scen",
+        "normal": "Ograniczone",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Muzyka scen",
+        "normal": "Ograniczona",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Wejście z wielu kamer",
+        "normal": "Nie",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Zaawansowane filtry upiększające",
+        "normal": "Podstawowe",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "AI matting zielonego ekranu",
+        "normal": "Tak",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Animacje śledzenia ruchu",
+        "normal": "Ograniczone",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Efekty kamery scen",
+        "normal": "Ograniczone",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Biblioteka efektów VIP",
+        "normal": "Ograniczona",
+        "month": "Bez ograniczeń",
+        "year": "Bez ograniczeń",
+        "life": "Bez ograniczeń"
+      },
+      {
+        "feature": "Transmisja na platformy",
+        "normal": "Tak",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Wyjście 4K",
+        "normal": "Nie",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      },
+      {
+        "feature": "Stawka prowizji poleconego",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Rabat dla podafiliatów",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Kanał wsparcia",
+        "normal": "Społeczność samoobsługowa",
+        "month": "Standardowa kolejka",
+        "year": "Priorytetowa odpowiedź",
+        "life": "Dedykowane wsparcie"
+      },
+      {
+        "feature": "Wczesny dostęp do nowych funkcji",
+        "normal": "Nie",
+        "month": "Tak",
+        "year": "Tak",
+        "life": "Tak"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Zrealizuj kod",
+    "title": "Zrealizuj kod",
+    "tip": "Wprowadź kod do realizacji członkostwa. Twoje członkostwo zostanie aktywowane natychmiast po realizacji.",
+    "placeholder": "Wprowadź kod",
+    "submitButton": "Zrealizuj",
+    "agreementPrefix": "Realizując kod, akceptujesz",
+    "userProtocolText": "Umowę użytkownika",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Realizacja nie powiodła się. Sprawdź kod i spróbuj ponownie."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__chunk": [
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Phải làm gì nếu điện thoại Huawei của tôi liên tục mất kết nối với đa camera hoặc bàn phím ảo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn gặp sự cố mất kết nối với đa camera hoặc bàn phím ảo trên điện thoại Huawei, hãy làm theo các bước sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vào Cài đặt trên điện thoại của bạn.",
+            "Trong thanh tìm kiếm ở phía trên, nhập 'Quản lý khởi động ứng dụng'.",
+            "Vào trang Quản lý khởi động ứng dụng và cuộn xuống để tìm VicastCam.",
+            "Tắt công tắc ở bên phải (biểu tượng chuyển sang màu xám), và trong cửa sổ bật lên, bật cả ba tùy chọn (chúng chuyển sang màu xanh)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bạn cũng có thể tham khảo video hướng dẫn 'Cách ngăn mất kết nối với đa camera và bàn phím ảo trên điện thoại Huawei'."
+        }
+      ]
+    }
+  ]
+}

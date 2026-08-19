@@ -1,0 +1,775 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.forms[0].data.multi_platform_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use sentence case: 'Bereik 's werelds toonaangevende live streaming platforms'"
+    },
+    {
+      "path": "$.forms[0].data.multi_platform_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use sentence case: 'Ontgrendel een wereldwijd publiek met één klik'"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].feature",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Translate 'Live streaming presets' to 'Live streaming-voorinstellingen'"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].feature",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Translate 'AI smart green screen matting' to 'AI slimme green screen-uitsnede'"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[3].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'kruis' with 'Niet beschikbaar' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[5].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[6].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[7].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[8].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[10].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[11].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[15].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'kruis' with 'Niet beschikbaar' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].month",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].year",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[19].life",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'vinkje' with 'Inbegrepen' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[9].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'kruis' with 'Niet beschikbaar' for clarity"
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[16].normal",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'kruis' with 'Niet beschikbaar' for clarity"
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Betaling nog niet beschikbaar",
+            "payment": {
+              "providerName": "Online betaling nog niet actief",
+              "providerDescription": "De betalingsverwerking wordt opgezet. Deze pagina toont alleen bestelgegevens.",
+              "unavailableTitle": "Betaling nog niet beschikbaar",
+              "unavailableDescription": "We integreren het officiële betalings- en orderbevestigingsproces. Tot de lancering wordt er op deze pagina geen betaling uitgevoerd of een echte bestelling geplaatst.",
+              "unavailableItems": [
+                "Er worden geen externe betalingscomponenten geladen",
+                "Er worden geen betalingsgegevens verzonden",
+                "Er wordt geen echte betalingsorder aangemaakt"
+              ],
+              "feedback": "Neem voor aankoop of activatie van een lidmaatschap contact op via business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Bestellingsoverzicht",
+              "periodLabel": "Lidmaatschapsperiode",
+              "paymentMethodLabel": "Betaalmethode",
+              "amountLabel": "Te betalen bedrag",
+              "submitLabel": "Nog niet beschikbaar",
+              "note": "Betaling is nog niet beschikbaar. De onderstaande bestelgegevens dienen ter bevestiging van je abonnement.",
+              "unavailablePaymentMethod": "Nog niet beschikbaar",
+              "fallbackProductName": "Geen abonnement geselecteerd",
+              "fallbackProductDescription": "Ga terug naar de homepage en selecteer een lidmaatschapsplan.",
+              "periodMonth": "1 maand",
+              "periodYear": "1 jaar",
+              "periodLife": "Levenslang",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Abonnement Afrekenen",
+              "description": "VicastCam abonnement afrekenpagina."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Maandabonnement",
+                "description": "Krijg een volledige maand toegang na activatie. Een voordelige manier om het uit te proberen."
+              },
+              {
+                "type": "year",
+                "name": "Jaarabonnement",
+                "description": "Krijg een volledig jaar toegang na activatie. Ideaal voor langdurig, stabiel gebruik."
+              },
+              {
+                "type": "life",
+                "name": "Levenslang abonnement",
+                "description": "Activeer eenmalig en gebruik het op lange termijn. Geniet continu van lidmaatschapsvoordelen."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "nl",
+          "multi_platform_section": {
+            "tag": "Ondersteuning voor meerdere platforms",
+            "title_main": "Bereik 's werelds toonaangevende live streaming platforms",
+            "title_highlight": "Ontgrendel een wereldwijd publiek met één klik",
+            "description": "Verbind met wereldwijde verkeersbronnen en bouw een nieuw grensoverschrijdend live streaming ecosysteem."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Accountcentrum",
+              "description": "VicastCam accountcentrum pagina"
+            },
+            "common": {
+              "sidebarAriaLabel": "Accountcentrum navigatie",
+              "defaultProfileName": "Gebruiker",
+              "emptyContent": "Geen inhoud",
+              "copyButtonLabel": "Kopiëren",
+              "monthSelectLabel": "Selecteer maand",
+              "yearSuffix": "j",
+              "monthSuffix": "m",
+              "userMissing": "Gebruikersinformatie niet gevonden. Log opnieuw in.",
+              "paginationLabel": "Paginering",
+              "previousPageLabel": "Vorige pagina",
+              "nextPageLabel": "Volgende pagina",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Ga naar",
+                "unit": "pagina",
+                "ariaLabel": "Ga naar een specifieke pagina",
+                "buttonLabel": "Ga"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Accountcentrum",
+              "logout": "Uitloggen",
+              "profileAriaSuffix": "Accountcentrum menu"
+            },
+            "sidebar": {
+              "ariaLabel": "Accountcentrum navigatie",
+              "menus": {
+                "account": "Accountgegevens",
+                "membership": "Lidmaatschap",
+                "redeem": "Code inwisselen",
+                "purchaseHistory": "Aankoopgeschiedenis",
+                "team": "Mijn team",
+                "earnings": "Verdiensten"
+              }
+            },
+            "account": {
+              "ariaLabel": "Accountgegevens",
+              "profileTitle": "Accountgegevens",
+              "usernameLabel": "Gebruikersnaam",
+              "passwordLabel": "Wachtwoord",
+              "passwordMask": "********",
+              "defaultUsername": "Geen bijnaam ingesteld",
+              "inviteTitle": "Uitnodigingslink",
+              "inviteDescription": "Kopieer je persoonlijke uitnodigingslink. Wanneer vrienden zich aanmelden en een lidmaatschap activeren, verdien jij beloningen.",
+              "emptyInviteLink": "Nog geen uitnodigingslink"
+            },
+            "membership": {
+              "ariaLabel": "Lidmaatschap",
+              "title": "Mijn lidmaatschap",
+              "badgeAlt": "Lidmaatschap badge",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Gratis gebruiker",
+              "activeVipName": "VIP-lid",
+              "expirePrefix": "Verloopt op",
+              "emptyExpireDate": "Niet geactiveerd",
+              "activeStatus": "Actief",
+              "inactiveStatus": "Niet geactiveerd",
+              "compareTitle": "Vergelijk lidmaatschapsvoordelen",
+              "compareHeaders": {
+                "feature": "Functie",
+                "normal": "Gratis",
+                "month": "Maandelijks",
+                "year": "Jaarlijks",
+                "life": "Levenslang"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Maandlidmaatschap",
+                  "subtitle": "Geschikt voor kort gebruik",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/maand",
+                  "cta": "Aan de slag",
+                  "benefits": [
+                    "Kernfuncties van de virtuele camera",
+                    "Virtuele achtergronden en verfraaiing",
+                    "Ondersteuning voor live streaming op meerdere platforms",
+                    "Standaard updates"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Jaarlidmaatschap",
+                  "subtitle": "Betere waarde voor langdurig gebruik",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/jaar",
+                  "cta": "Aan de slag",
+                  "benefits": [
+                    "Alle voordelen van het maandabonnement",
+                    "Alle geavanceerde functies voor een jaar",
+                    "Prioriteit bij functie-updates",
+                    "Toegewijde ledenondersteuning"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Levenslang lidmaatschap",
+                  "subtitle": "Betaal eenmalig, gebruik op lange termijn",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/levenslang",
+                  "cta": "Aan de slag",
+                  "benefits": [
+                    "Alle voordelen van het jaarabonnement",
+                    "Geavanceerde functies voor altijd",
+                    "Langdurige updates",
+                    "Toegewijd ondersteuningskanaal"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Lidmaatschapsduur",
+                  "normal": "Gratis voor altijd",
+                  "month": "30 dagen",
+                  "year": "365 dagen",
+                  "life": "Levenslang"
+                },
+                {
+                  "feature": "Desktop virtuele camera",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Aangepaste virtuele achtergronden",
+                  "normal": "Eén set",
+                  "month": "Onbeperkt",
+                  "year": "Onbeperkt",
+                  "life": "Onbeperkt"
+                },
+                {
+                  "feature": "Live streaming-voorinstellingen",
+                  "normal": "Niet beschikbaar",
+                  "month": "Onbeperkt",
+                  "year": "Onbeperkt",
+                  "life": "Onbeperkt"
+                },
+                {
+                  "feature": "Officiële website assets",
+                  "normal": "Beperkt",
+                  "month": "Onbeperkt",
+                  "year": "Onbeperkt",
+                  "life": "Onbeperkt"
+                },
+                {
+                  "feature": "Bediening op afstand via controller",
+                  "normal": "Inbegrepen",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Live scene-vergelijking",
+                  "normal": "Inbegrepen",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Scène-ondertitels",
+                  "normal": "Beperkt",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Scènemuziek",
+                  "normal": "Beperkt",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Meerdere camera-ingangen",
+                  "normal": "Niet beschikbaar",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Geavanceerde schoonheidsfilters",
+                  "normal": "Basis",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "AI slimme green screen-uitsnede",
+                  "normal": "Inbegrepen",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Dynamische bewegingsspoor-animaties",
+                  "normal": "Beperkt",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Scène camera-bewegingseffecten",
+                  "normal": "Beperkt",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "VIP-effectenbibliotheek",
+                  "normal": "Beperkt",
+                  "month": "Onbeperkt",
+                  "year": "Onbeperkt",
+                  "life": "Onbeperkt"
+                },
+                {
+                  "feature": "Platform streaming",
+                  "normal": "Inbegrepen",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "4K UHD-uitvoer",
+                  "normal": "Niet beschikbaar",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                },
+                {
+                  "feature": "Promotiecommissiepercentage",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Verwijzingsbeloningen",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Ondersteuningskanaal",
+                  "normal": "Community zelfbediening",
+                  "month": "Standaard wachtrij",
+                  "year": "Prioritaire respons",
+                  "life": "Toegewijde ondersteuning"
+                },
+                {
+                  "feature": "Vroege toegang tot nieuwe functies",
+                  "normal": "Niet beschikbaar",
+                  "month": "Inbegrepen",
+                  "year": "Inbegrepen",
+                  "life": "Inbegrepen"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Code inwisselen",
+              "title": "Code inwisselen",
+              "tip": "Voer je lidmaatschapsinwisselcode in. Je voordelen worden direct geactiveerd na het inwisselen.",
+              "placeholder": "Voer inwisselcode in",
+              "submitButton": "Nu inwisselen",
+              "agreementPrefix": "Door in te wisselen ga je akkoord met de",
+              "userProtocolText": "Gebruikersovereenkomst",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "Inwisselen mislukt. Controleer de code en probeer het opnieuw."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Aankoopgeschiedenis",
+              "title": "Aankoopgeschiedenis",
+              "tabTitle": "Aankopen",
+              "exchangeTabTitle": "Inwisselingen",
+              "tableHeaders": {
+                "title": "Type",
+                "date": "Betalingsdatum",
+                "price": "Bedrag",
+                "paymentMethod": "Betaalmethode",
+                "status": "Status",
+                "exchangeDate": "Inwisseldatum",
+                "exchangeCode": "Inwisselcode"
+              },
+              "exchangeTableHeaders": {
+                "date": "Inwisseldatum",
+                "code": "Inwisselcode"
+              },
+              "cardTypes": {
+                "month": "Maandabonnement",
+                "year": "Jaarabonnement",
+                "life": "Levenslang abonnement",
+                "default": "Lidmaatschap"
+              },
+              "orderStatuses": {
+                "pending": "In behandeling",
+                "paid": "Betaald",
+                "closed": "Gesloten",
+                "refunded": "Terugbetaald",
+                "unknown": "Onbekend"
+              },
+              "secretLabels": {
+                "show": "Toon wachtwoord",
+                "hide": "Verberg wachtwoord"
+              },
+              "secretMask": "******",
+              "emptyText": "Geen aankoopgeschiedenis",
+              "exchangeEmptyText": "Geen inwisselgeschiedenis",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Bankkaart",
+                "creditcard": "Creditcard",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Cryptovaluta",
+                "balance": "Saldo",
+                "free": "Gratis"
+              }
+            },
+            "team": {
+              "ariaLabel": "Mijn team",
+              "title": "Mijn team",
+              "referrerLabel": "Mijn verwijzer",
+              "levelOne": "Niveau 1-leden",
+              "levelTwo": "Niveau 2-leden",
+              "tableHeaders": {
+                "name": "Lidnaam",
+                "status": "Lidmaatschapsstatus",
+                "joinedAt": "Lid geworden"
+              },
+              "memberStatus": {
+                "free": "Gratis gebruiker",
+                "vip": "VIP-gebruiker"
+              },
+              "emptyMemberName": "Naamloze gebruiker",
+              "emptyReferrer": "Geen verwijzer",
+              "emptyTeam": "Nog geen teamleden",
+              "errors": {
+                "loadFail": "Teamleden laden mislukt. Probeer het later opnieuw."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Verdiensten",
+              "title": "Verdienstenoverzicht",
+              "commissionTitle": "Commissiedetails",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Totale verdiensten",
+                  "desc": "Totale commissie tot nu toe verdiend"
+                },
+                {
+                  "key": "month",
+                  "title": "Deze maand",
+                  "desc": "Commissie verdiend deze maand"
+                },
+                {
+                  "key": "settling",
+                  "title": "In afwachting van afwikkeling",
+                  "value": "0.00",
+                  "desc": "Bedrag dat nog afgewikkeld moet worden"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Opneembaar",
+                  "desc": "Bedrag dat momenteel beschikbaar is voor opname",
+                  "action": "Opnemen"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Gebruikersnaam",
+                "saleTime": "Verkoopdatum",
+                "goodsInfo": "Product",
+                "commission": "Commissie"
+              },
+              "emptyCommission": "Geen commissierecords",
+              "errors": {
+                "loadFail": "Commissiedetails laden mislukt. Probeer het later opnieuw."
+              },
+              "withdraw": {
+                "ariaLabel": "Opnameverzoek",
+                "title": "Opnameverzoek",
+                "closeLabel": "Sluit opnamedialoog",
+                "balanceLabel": "Opneembaar saldo",
+                "balanceValue": "$ 0.00",
+                "amountLabel": "Opnamebedrag",
+                "amountPlaceholder": "Voer opnamebedrag in",
+                "allButton": "Alles",
+                "allAmountValue": "0.00",
+                "amountTip": "Controleer of het bedrag correct is. Je verzoek wordt na indiening handmatig beoordeeld.",
+                "methodLabel": "Opnamemethode",
+                "methods": [
+                  "Bankkaart",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Bankkaart",
+                "nameLabel": "Naam ontvanger",
+                "namePlaceholder": "Voer naam ontvanger in",
+                "defaultName": "",
+                "bankCardLabel": "Rekeningnummer",
+                "bankCardPlaceholder": "Voer bankkaartnummer, PayPal-e-mail of walletadres in",
+                "remarkLabel": "Opmerking",
+                "remarkPlaceholder": "Optionele aanvullende informatie",
+                "note": "Opnameverzoeken worden binnen 1-3 werkdagen verwerkt.",
+                "cancelButton": "Annuleren",
+                "submitButton": "Verzoek indienen"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Inwisselen geslaagd",
+              "operationFailed": "Inwisselen mislukt",
+              "invalidCard": "Ongeldige inwisselcode",
+              "cardNotFound": "Inwisselcode niet gevonden",
+              "cardDisabled": "Inwisselcode uitgeschakeld",
+              "cardExpired": "Inwisselcode verlopen"
+            },
+            "successMessage": "Bewerking geslaagd"
+          }
+        }
+      }
+    ]
+  }
+}

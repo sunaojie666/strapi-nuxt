@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Centrum konta",
+            "description": "Strona Centrum konta VicastCam"
+          },
+          "common": {
+            "sidebarAriaLabel": "Nawigacja konta",
+            "defaultProfileName": "Użytkownik",
+            "emptyContent": "Brak treści",
+            "copyButtonLabel": "Kopiuj",
+            "monthSelectLabel": "Wybierz miesiąc",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "Nie znaleziono informacji o użytkowniku. Zaloguj się ponownie.",
+            "paginationLabel": "Paginacja",
+            "previousPageLabel": "Poprzednia strona",
+            "nextPageLabel": "Następna strona",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Przejdź do",
+              "unit": "strony",
+              "ariaLabel": "Przejdź do określonej strony",
+              "buttonLabel": "Przejdź"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Centrum konta",
+            "logout": "Wyloguj się",
+            "profileAriaSuffix": "Menu konta"
+          },
+          "sidebar": {
+            "ariaLabel": "Nawigacja konta",
+            "menus": {
+              "account": "Informacje o koncie",
+              "membership": "Członkostwo",
+              "redeem": "Kod realizacji",
+              "purchaseHistory": "Historia zakupów",
+              "team": "Mój zespół",
+              "earnings": "Zarobki"
+            }
+          },
+          "account": {
+            "ariaLabel": "Informacje o koncie",
+            "profileTitle": "Informacje o koncie",
+            "usernameLabel": "Nazwa użytkownika",
+            "passwordLabel": "Hasło",
+            "passwordMask": "********",
+            "defaultUsername": "Brak pseudonimu",
+            "emailLabel": "Powiązany e-mail",
+            "emailPlaceholder": "Wpisz swój e-mail",
+            "codePlaceholder": "Wpisz kod weryfikacyjny",
+            "sendCodeButton": "Wyślij kod",
+            "bindButton": "Powiąż e-mail",
+            "alreadyBound": "Powiązano",
+            "unboundEmail": "Nie powiązano",
+            "emailBindTip": "Po powiązaniu e-mail nie można go zmienić. Upewnij się, że adres e-mail jest poprawny.",
+            "emailRequired": "Podaj poprawny adres e-mail",
+            "codeRequired": "Podaj kod weryfikacyjny",
+            "codeSent": "Kod weryfikacyjny wysłany. Sprawdź swoją skrzynkę e-mail.",
+            "bindSuccess": "E-mail powiązany pomyślnie",
+            "bindFailed": "Nie udało się powiązać e-maila. Sprawdź kod i spróbuj ponownie.",
+            "requestFailed": "Żądanie nie powiodło się. Spróbuj ponownie później.",
+            "inviteTitle": "Link zaproszeniowy",
+            "inviteDescription": "Skopiuj swój osobisty link zaproszeniowy. Gdy znajomi zarejestrują się i wykupią członkostwo, otrzymasz nagrody.",
+            "emptyInviteLink": "Brak dostępnego linku zaproszeniowego"
+          },
+          "membership": {
+            "ariaLabel": "Członkostwo",
+            "title": "Moje członkostwo",
+            "badgeAlt": "Odznaka członkostwa",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Użytkownik bezpłatny",
+            "activeVipName": "Członek VIP",
+            "expirePrefix": "Wygasa",
+            "emptyExpireDate": "Nieaktywowane",
+            "activeStatus": "Aktywne",
+            "inactiveStatus": "Nieaktywne",
+            "compareTitle": "Porównaj plany",
+            "compareHeaders": {
+              "feature": "Funkcja",
+              "normal": "Bezpłatny",
+              "month": "Miesięczny",
+              "year": "Roczny",
+              "life": "Dożywotni"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Miesięczny",
+                "subtitle": "Idealny do krótkotrwałego użytkowania",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/miesiąc",
+                "cta": "Rozpocznij",
+                "benefits": [
+                  "Podstawowe funkcje wirtualnej kamery",
+                  "Wirtualne tła i upiększanie",
+                  "Transmisja na żywo na wiele platform",
+                  "Standardowe aktualizacje"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Roczny",
+                "subtitle": "Lepsza wartość przy długotrwałym użytkowaniu",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/rok",
+                "cta": "Rozpocznij",
+                "benefits": [
+                  "Wszystko z planu miesięcznego",
+                  "Wszystkie funkcje premium przez rok",
+                  "Priorytetowe aktualizacje funkcji",
+                  "Dedykowane wsparcie dla członków"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Dożywotni",
+                "subtitle": "Zapłać raz, używaj na zawsze",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/dożywotnio",
+                "cta": "Rozpocznij",
+                "benefits": [
+                  "Wszystko z planu rocznego",
+                  "Funkcje premium na zawsze",
+                  "Długoterminowe aktualizacje",
+                  "Ekskluzywny kanał wsparcia"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Czas trwania członkostwa",
+                "normal": "Bezpłatnie na zawsze",
+                "month": "30 dni",
+                "year": "365 dni",
+                "life": "Dożywotnio"
+              },
+              {
+                "feature": "Wirtualna kamera na komputer",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Niestandardowe wirtualne tła",
+                "normal": "1 zestaw",
+                "month": "Bez ograniczeń",
+                "year": "Bez ograniczeń",
+                "life": "Bez ograniczeń"
+              },
+              {
+                "feature": "Presety transmisji",
+                "normal": "Nie",
+                "month": "Bez ograniczeń",
+                "year": "Bez ograniczeń",
+                "life": "Bez ograniczeń"
+              },
+              {
+                "feature": "Oficjalne zasoby",
+                "normal": "Ograniczone",
+                "month": "Bez ograniczeń",
+                "year": "Bez ograniczeń",
+                "life": "Bez ograniczeń"
+              },
+              {
+                "feature": "Zdalne sterowanie kontrolerem",
+                "normal": "Tak",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Tryb porównania scen",
+                "normal": "Tak",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Napisy scen",
+                "normal": "Ograniczone",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Muzyka scen",
+                "normal": "Ograniczona",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Wejście z wielu kamer",
+                "normal": "Nie",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Zaawansowane filtry upiększające",
+                "normal": "Podstawowe",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "AI matting zielonego ekranu",
+                "normal": "Tak",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Animacje śledzenia ruchu",
+                "normal": "Ograniczone",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Efekty kamery scen",
+                "normal": "Ograniczone",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Biblioteka efektów VIP",
+                "normal": "Ograniczona",
+                "month": "Bez ograniczeń",
+                "year": "Bez ograniczeń",
+                "life": "Bez ograniczeń"
+              },
+              {
+                "feature": "Transmisja na platformy",
+                "normal": "Tak",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Wyjście 4K",
+                "normal": "Nie",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              },
+              {
+                "feature": "Stawka prowizji poleconego",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Rabat dla podafiliatów",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Kanał wsparcia",
+                "normal": "Społeczność samoobsługowa",
+                "month": "Standardowa kolejka",
+                "year": "Priorytetowa odpowiedź",
+                "life": "Dedykowane wsparcie"
+              },
+              {
+                "feature": "Wczesny dostęp do nowych funkcji",
+                "normal": "Nie",
+                "month": "Tak",
+                "year": "Tak",
+                "life": "Tak"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Zrealizuj kod",
+            "title": "Zrealizuj kod",
+            "tip": "Wprowadź kod do realizacji członkostwa. Twoje członkostwo zostanie aktywowane natychmiast po realizacji.",
+            "placeholder": "Wprowadź kod",
+            "submitButton": "Zrealizuj",
+            "agreementPrefix": "Realizując kod, akceptujesz",
+            "userProtocolText": "Umowę użytkownika",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Realizacja nie powiodła się. Sprawdź kod i spróbuj ponownie."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Historia zakupów",
+            "title": "Historia zakupów",
+            "tabTitle": "Zakupy",
+            "exchangeTabTitle": "Wymiany",
+            "tableHeaders": {
+              "title": "Typ",
+              "date": "Czas płatności",
+              "price": "Kwota",
+              "paymentMethod": "Metoda płatności",
+              "status": "Status",
+              "exchangeDate": "Czas wymiany",
+              "exchangeCode": "Kod wymiany"
+            },
+            "exchangeTableHeaders": {
+              "date": "Czas wymiany",
+              "code": "Kod wymiany"
+            },
+            "cardTypes": {
+              "month": "Karnet miesięczny",
+              "year": "Karnet roczny",
+              "life": "Karnet dożywotni",
+              "default": "Karnet członkowski"
+            },
+            "orderStatuses": {
+              "pending": "Oczekuje na płatność",
+              "paid": "Opłacono",
+              "closed": "Zamknięto",
+              "refunded": "Zwrócono",
+              "unknown": "Nieznany"
+            },
+            "secretLabels": {
+              "show": "Pokaż hasło",
+              "hide": "Ukryj hasło"
+            },
+            "secretMask": "******",
+            "emptyText": "Brak rekordów zakupów",
+            "exchangeEmptyText": "Brak rekordów wymian",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Karta bankowa",
+              "creditcard": "Karta kredytowa",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Kryptowaluta",
+              "balance": "Saldo",
+              "free": "Bezpłatnie"
+            }
+          },
+          "team": {
+            "ariaLabel": "Mój zespół",
+            "title": "Mój zespół",
+            "referrerLabel": "Mój polecający",
+            "levelOne": "Członkowie poziomu 1",
+            "levelTwo": "Członkowie poziomu 2",
+            "tableHeaders": {
+              "name": "Nazwa członka",
+              "status": "Status członkostwa",
+              "joinedAt": "Data dołączenia"
+            },
+            "memberStatus": {
+              "free": "Użytkownik bezpłatny",
+              "vip": "Użytkownik VIP"
+            },
+            "emptyMemberName": "Użytkownik bez nazwy",
+            "emptyReferrer": "Brak polecającego",
+            "emptyTeam": "Brak członków zespołu",
+            "errors": {
+              "loadFail": "Nie udało się załadować członków zespołu. Spróbuj ponownie później."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Centrum zarobków",
+            "title": "Przegląd zarobków",
+            "commissionTitle": "Szczegóły prowizji",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Łączne zarobki",
+                "desc": "Łączna prowizja zarobiona do tej pory"
+              },
+              {
+                "key": "month",
+                "title": "Ten miesiąc",
+                "desc": "Prowizja zarobiona w tym miesiącu"
+              },
+              {
+                "key": "settling",
+                "title": "Oczekujące na rozliczenie",
+                "value": "0.00",
+                "desc": "Kwota oczekująca na rozliczenie"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Do wypłaty",
+                "desc": "Kwota aktualnie dostępna do wypłaty",
+                "action": "Wypłać"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Nazwa użytkownika",
+              "saleTime": "Czas sprzedaży",
+              "goodsInfo": "Produkt",
+              "commission": "Prowizja"
+            },
+            "emptyCommission": "Brak rekordów prowizji",
+            "errors": {
+              "loadFail": "Nie udało się załadować szczegółów prowizji. Spróbuj ponownie później."
+            },
+            "withdraw": {
+              "ariaLabel": "Wniosek o wypłatę",
+              "title": "Wniosek o wypłatę",
+              "closeLabel": "Zamknij okno wypłaty",
+              "balanceLabel": "Saldo do wypłaty",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Kwota wypłaty",
+              "amountPlaceholder": "Wpisz kwotę wypłaty",
+              "allButton": "Wszystko",
+              "allAmountValue": "0.00",
+              "amountTip": "Sprawdź poprawność kwoty. Po przesłaniu wniosek zostanie zweryfikowany ręcznie.",
+              "methodLabel": "Metoda wypłaty",
+              "methods": [
+                "Karta bankowa",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Karta bankowa",
+              "nameLabel": "Nazwa odbiorcy",
+              "namePlaceholder": "Wpisz nazwę odbiorcy",
+              "defaultName": "",
+              "bankCardLabel": "Numer konta",
+              "bankCardPlaceholder": "Wpisz numer karty bankowej, e-mail PayPal lub adres portfela",
+              "remarkLabel": "Uwagi",
+              "remarkPlaceholder": "Dodaj dodatkowe notatki",
+              "note": "Wnioski o wypłatę są przetwarzane w ciągu 1-3 dni roboczych.",
+              "cancelButton": "Anuluj",
+              "submitButton": "Wyślij wniosek"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Wymiana zakończona sukcesem",
+            "operationFailed": "Wymiana nie powiodła się",
+            "invalidCard": "Nieprawidłowy kod wymiany",
+            "cardNotFound": "Nie znaleziono kodu wymiany",
+            "cardDisabled": "Kod wymiany jest wyłączony",
+            "cardExpired": "Kod wymiany wygasł"
+          },
+          "successMessage": "Operacja zakończona sukcesem"
+        }
+      }
+    }
+  ]
+}

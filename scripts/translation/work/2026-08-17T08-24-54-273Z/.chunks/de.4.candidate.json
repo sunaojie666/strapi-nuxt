@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Warum flackern Netzwerk-Assets oder Overlays während eines Live-Streams oder werden schwarz?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn beim Hinzufügen von Netzwerk-Assets während eines Live-Streams Flackern oder schwarze Bildschirme auftreten, gehen Sie wie folgt vor:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Laden Sie alle Assets oder Overlays, die Sie während des Streams verwenden möchten, im Voraus herunter und testen Sie sie, um sicherzustellen, dass sie einwandfrei funktionieren, bevor Sie live gehen.",
+            "Einige im Lieferumfang enthaltene Assets werden auf Servern gespeichert. Wenn Sie sie vor dem Livegang herunterladen, können Sie sie während des Streams direkt verwenden, ohne sie erneut laden zu müssen.",
+            "Das Laden von Assets während des Streams verbraucht Streaming-Ressourcen, Telefonspeicher und Leistung, was zu Verzögerungen führen kann; bei leistungsschwächeren Telefonen kann es sogar zu Abstürzen oder schwarzen Bildschirmen kommen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Wichtiger Hinweis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planen und proben Sie Ihren Stream gründlich, bevor Sie live gehen, um sicherzustellen, dass jedes Element einwandfrei funktioniert, bevor Sie starten."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Was kann ich tun, wenn einige Tasten der Tastatur verdeckt sind?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn einige Tasten der virtuellen Tastatur verdeckt sind, versuchen Sie Folgendes:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Wenn Sie ein älteres 16:9-Telefon als Fernbedienung verwenden und einige Tasten verdeckt sind, tippen Sie auf die zweite Schaltfläche in der oberen linken Ecke der Tastatur, um den Vollbildmodus zu aktivieren.",
+            "Wenn das Tastaturlayout nicht ausgerichtet ist, gehen Sie zu den Einstellungen Ihres Telefons und setzen Sie die Schriftgröße auf Normal.",
+            "Einige Telefone haben einen Seniorenmodus aktiviert; das Deaktivieren sollte die Tastatur wieder normal anzeigen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Anzeigeprobleme werden normalerweise durch zu große Schriftarten oder eine zu große Telefon-Theme-Oberfläche verursacht. Das Zurücksetzen auf den Standardmodus sollte das Problem beheben."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Was kann ich tun, wenn sich mein Huawei-Telefon ständig von der Multi-Kamera oder der virtuellen Tastatur trennt?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn bei Ihrem Huawei-Telefon Verbindungsabbrüche mit der Multi-Kamera oder der virtuellen Tastatur auftreten, befolgen Sie diese Schritte:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Gehen Sie zu den Einstellungen Ihres Telefons.",
+            "Geben Sie in der Suchleiste oben \"App-Startverwaltung\" ein.",
+            "Gehen Sie zur Seite \"App-Startverwaltung\", scrollen Sie nach unten und finden Sie VicastCam.",
+            "Schalten Sie den Schalter rechts aus, sodass das Symbol grau wird; aktivieren Sie gleichzeitig alle drei Optionen im Popup, sodass sie blau werden."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sie können sich auch das Video-Tutorial \"So verhindern Sie Verbindungsabbrüche mit Multi-Kamera und virtueller Tastatur auf Huawei-Telefonen\" ansehen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Hilfe für Android und iOS",
+          "description": "Finden Sie Antworten auf häufige Fragen zu VicastCam für Android und iOS, einschließlich Kontoeinrichtung, Medienberechtigungen, Netzwerkverbindungen und Problemen beim Live-Streaming.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCam Hilfe",
+          "titleHighlight": "Schnelle Antworten finden",
+          "description": "Wählen Sie Ihre Plattform (Android oder iOS), um häufige Fragen und Lösungen für Ihr Gerät zu sehen."
+        },
+        "content": {
+          "sectionAriaLabel": "Häufig gestellte Fragen",
+          "catalogAriaLabel": "Fragekategorien",
+          "answerLabel": "Antwort",
+          "questionProgressTemplate": "{group} · Frage {current} von {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android-Anleitungen",
+            "count": "9 Fragen",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Welche Abmessungen werden für Live-Stream-Assets empfohlen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Empfohlene Abmessungen für Live-Stream-Assets:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Für Live-Stream-Hintergrundbilder empfehlen wir 1080 x 1920 Pixel; für Videos empfehlen wir ebenfalls 1080 x 1920 Pixel.",
+                      "Wichtig: Vollbild-Overlays müssen ein Seitenverhältnis von 9:16 haben, um ein nahtloses Umschalten zwischen Vollbild- und 9:16-Modus ohne Versatz zu gewährleisten und einen perfekt passenden Effekt zu erzielen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Welche Ausgabemodi werden für das Streaming unterstützt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Beim Streaming werden zwei Ausgabemodi unterstützt: 9:16-Streaming und Vollbild-Streaming. Befolgen Sie diese Schritte, um auf Ihrem Android-Gerät einen Modus auszuwählen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie VicastCam, gehen Sie zur Live-Streaming-Seite und tippen Sie auf das Menüsymbol auf der rechten Seite."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Menüeintrag auf der rechten Seite der Android-Live-Streaming-Seite",
+                    "caption": "Schritt 1: Tippen Sie auf das Menüsymbol auf der rechten Seite der Live-Streaming-Seite."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Suchen Sie unter „Weitere Einstellungen“ die Option „Seitenverhältnis“ und wählen Sie je nach Bedarf „Vollbild“ oder „9:16“."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Seitenverhältnis-Optionen unter „Weitere Einstellungen“ auf Android",
+                    "caption": "Schritt 2: Wählen Sie unter „Seitenverhältnis“ die Option „Vollbild“ oder „9:16“."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Erläuterung der beiden Modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16-Streaming: Das Ausgabe-Seitenverhältnis ist fest auf 9:16 eingestellt, sodass die Live-Plattform ein 9:16-Bild erhält.",
+                      "Vollbild-Streaming: Streamt den gesamten Telefonbildschirm unverändert und bewahrt den nativen Inhalt ohne Zuschneiden."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Wie lösche ich mein Konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Bitte melden Sie sich in der VicastCam-App an und gehen Sie dann zu [Konto – Symbol oben rechts – Kontoverwaltung – Konto löschen – Löschanfrage senden]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Kontoinformationen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nach der Kontolöschung löschen wir dauerhaft Ihre verknüpfte E-Mail-Adresse, Gerätedatensätze und andere Identitätsinformationen und widerrufen Ihre Drittanbieter-Login-Autorisierung über Google- und Apple-Konten. Nach dem Widerruf können Sie diese Drittanbieter-Konten nicht mehr für die Schnellanmeldung verwenden. Um die App erneut zu nutzen, müssen Sie die Autorisierung und Verknüpfung erneut vornehmen."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Inhalte und Assets"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Alle Live-Stream-Assets, Videos, Bilder und Projektdateien werden nur auf Ihrem Gerät gespeichert; die Cloud speichert keine kreativen Assets. Nach der Löschung funktioniert die Asset-Verwaltungsfunktion in der App nicht mehr. Bitte sichern Sie Ihre Assets daher vorab über „Asset-Export“.",
+                      "Wenn Sie die App deinstallieren und neu installieren, das Gerät wechseln oder vorab kein Backup exportieren, sind Ihre Assets dauerhaft unwiederbringlich verloren."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mitgliedschaftsvorteile"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nach der Kontolöschung enden Ihre Mitgliedschaftsvorteile sofort. Wenn Sie ein aktives Google-Play-Abonnement haben, wird das Löschen Ihres App-Kontos das Abonnement nicht automatisch kündigen, und es können weiterhin Gebühren anfallen. Bitte kündigen Sie manuell unter „Zahlungen & Abonnements – Abonnements“ in Google Play."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Sie Fragen haben, wenden Sie sich bitte an unser Kundensupport-Team."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Warum kann ich beim Hinzufügen nicht auf meine Fotos und Videos zugreifen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Ihre Fotoalben beim Hinzufügen von Assets leer erscheinen, können Sie den Foto-Zugriff wie folgt aktivieren:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Öffnen Sie die Einstellungen Ihres Telefons, scrollen Sie nach unten zu VicastCam, tippen Sie auf [Fotos – Alle Fotos], um den Zugriff zu aktivieren.",
+                      "Android: Öffnen Sie die Einstellungen Ihres Telefons, finden Sie VicastCam unter [Berechtigungsverwaltung] oder [App-Verwaltung], und tippen Sie dann auf [Berechtigungsverwaltung – Fotos – Alle Fotos], um den Zugriff zu aktivieren.",
+                      "Wenn das Problem weiterhin besteht, versuchen Sie, die App zu deinstallieren und neu zu installieren, oder kontaktieren Sie den Online-Support über die Feedback-Funktion."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Was soll ich tun, wenn der Bildschirm beim Streamen vom Computer nicht vollständig angezeigt wird?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn der Bildschirm beim Streamen von Ihrem Telefon über eine Live-Streaming-Begleit-App oder andere Software unvollständig erscheint, befolgen Sie diese Schritte zur Anpassung:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie VicastCam, tippen Sie auf das Kamerasymbol unten, um zur Live-Streaming-Seite zu gelangen, und gehen Sie dann zu [Rechtes Menü – Weitere Einstellungen – Seitenverhältnis – 9:16].",
+                      "Passen Sie nach dem Übertragen an die Live-Streaming-Begleit-App zuerst den Bildschirm an die Leinwand an und ziehen Sie ihn dann vertikal, um den Bildschirm auszufüllen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hinweis: Passen Sie das Seitenverhältnis vor dem Start Ihres Streams an, und fügen Sie dann Ihre Assets hinzu."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Was soll ich tun, wenn eine Netzwerkanfrage fehlschlägt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Netzwerkanfragen fehlschlagen, versuchen Sie Folgendes:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie die Einstellungen Ihres Telefons, gehen Sie zu [Berechtigungsverwaltung – VicastCam – Mobile Daten und WLAN] und aktivieren Sie den Netzwerkzugriff.",
+                      "Deaktivieren Sie den Energiesparmodus und alle Hintergrundbeschränkungen auf Ihrem Telefon.",
+                      "Wechseln Sie das Netzwerk, starten Sie Ihr Telefon neu, aktivieren Sie den Flugmodus oder aktualisieren Sie die App auf die neueste Version.",
+                      "Wenn das Problem weiterhin besteht, machen Sie einen Screenshot des Fehlers und wenden Sie sich an den Kundensupport."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Warum flackern Netzwerk-Assets oder Overlays während eines Live-Streams oder werden schwarz?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn beim Hinzufügen von Netzwerk-Assets während eines Live-Streams Flackern oder schwarze Bildschirme auftreten, gehen Sie wie folgt vor:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Laden Sie alle Assets oder Overlays, die Sie während des Streams verwenden möchten, vorab herunter und testen Sie sie, um sicherzustellen, dass sie einwandfrei funktionieren, bevor Sie live gehen.",
+                      "Einige im Lieferumfang enthaltene Assets werden auf Servern gespeichert. Wenn Sie sie vor dem Livegang herunterladen, können Sie sie während des Streams direkt verwenden, ohne sie erneut laden zu müssen.",
+                      "Das Laden von Assets während des Streams verbraucht Streaming-Ressourcen, Telefonspeicher und Leistung, was zu Verzögerungen führen kann; bei schwächeren Telefonen kann es sogar zu Abstürzen oder schwarzen Bildschirmen kommen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Wichtiger Hinweis"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planen und proben Sie Ihren Stream gründlich, bevor Sie live gehen, um sicherzustellen, dass jedes Element einwandfrei funktioniert, bevor Sie starten."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Was kann ich tun, wenn einige Tasten der Tastatur verdeckt sind?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn einige Tasten der virtuellen Tastatur verdeckt sind, versuchen Sie Folgendes:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Wenn Sie ein älteres 16:9-Telefon als Fernbedienung verwenden und einige Tasten verdeckt sind, tippen Sie auf die zweite Schaltfläche in der oberen linken Ecke der Tastatur, um den Vollbildmodus zu aktivieren.",
+                      "Wenn das Tastaturlayout nicht ausgerichtet ist, gehen Sie zu den Einstellungen Ihres Telefons und stellen Sie die Schriftgröße auf Normal ein.",
+                      "Bei einigen Telefonen ist der Seniorenmodus aktiviert; wenn Sie ihn deaktivieren, sollte die Tastatur wieder normal angezeigt werden."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Anzeigeprobleme werden in der Regel durch zu große Schriftarten oder eine zu große Telefon-Theme-Oberfläche verursacht. Wenn Sie diese auf den Standardmodus zurücksetzen, sollte das Problem behoben sein."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Was kann ich tun, wenn sich mein Huawei-Telefon ständig von der Multi-Kamera oder der virtuellen Tastatur trennt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn bei Ihrem Huawei-Telefon Verbindungsabbrüche mit der Multi-Kamera oder der virtuellen Tastatur auftreten, befolgen Sie diese Schritte:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Gehen Sie zu den Einstellungen Ihres Telefons.",
+                      "Geben Sie in der Suchleiste oben \"App-Startverwaltung\" ein.",
+                      "Gehen Sie zur Seite \"App-Startverwaltung\", scrollen Sie nach unten und finden Sie VicastCam.",
+                      "Schalten Sie den Schalter auf der rechten Seite aus, sodass das Symbol grau wird; aktivieren Sie gleichzeitig alle drei Optionen im Popup, sodass sie blau werden."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sie können sich auch das Video-Tutorial \"So verhindern Sie Verbindungsabbrüche mit Multi-Kamera und virtueller Tastatur auf Huawei-Telefonen\" ansehen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS-Anleitungen",
+            "count": "8 Fragen",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Welche Abmessungen werden für Live-Streaming-Assets empfohlen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Empfohlene Abmessungen für Live-Streaming-Assets:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Für Live-Hintergrundbilder empfehlen wir 1080 x 1920 Pixel; für Videos empfehlen wir ebenfalls 1080 x 1920 Pixel.",
+                      "Wichtig: Vollbild-Overlays müssen ein Seitenverhältnis von 9:16 verwenden, um sicherzustellen, dass sie beim Wechsel zwischen Vollbild- und 9:16-Modus perfekt ausgerichtet sind und nahtlos passen."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Welche Ausgabemodi werden für das Streaming unterstützt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Beim Streaming werden zwei Ausgabemodi unterstützt: 9:16-Streaming und Vollbild-Streaming. Führen Sie die folgenden Schritte aus, um den Modus auf Ihrem Apple-Gerät auszuwählen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie VicastCam, gehen Sie zur Live-Streaming-Seite und tippen Sie auf das Menüsymbol auf der rechten Seite."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Menüeintrag auf der rechten Seite der Apple-Live-Streaming-Seite",
+                    "caption": "Schritt 1: Tippen Sie auf das Menüsymbol auf der rechten Seite der Live-Streaming-Seite."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Suchen Sie unter „Weitere Einstellungen“ die Option „Seitenverhältnis“ und wählen Sie je nach Bedarf „Vollbild“ oder „9:16“."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Optionen für das Seitenverhältnis unter „Weitere Einstellungen“ auf Apple",
+                    "caption": "Schritt 2: Wählen Sie unter „Seitenverhältnis“ die Option „Vollbild“ oder „9:16“."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Über die beiden Modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16-Streaming: Das Ausgabe-Seitenverhältnis ist fest auf 9:16 eingestellt, sodass die Live-Plattform ein 9:16-Bild erhält.",
+                      "Vollbild-Streaming: Streamt den gesamten Telefonbildschirm unverändert und erhält den nativen Inhalt ohne Zuschneiden."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Was ist der Unterschied zwischen System-Streaming und Software-Streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Apple-Geräte bieten zwei Streaming-Erfassungsmodi, die sich erheblich in den Regeln für den Hintergrundbetrieb unterscheiden. Führen Sie die folgenden Schritte aus, um einen Streaming-Modus auszuwählen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie VicastCam, gehen Sie zur Live-Streaming-Seite und tippen Sie auf das Menüsymbol auf der rechten Seite."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Menüeintrag auf der rechten Seite der Apple-Live-Streaming-Seite",
+                    "caption": "Schritt 1: Tippen Sie auf das Menüsymbol auf der rechten Seite der Live-Streaming-Seite."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Suchen Sie unter „Weitere Einstellungen“ die Option „Streaming-Modus“ und wählen Sie je nach Bedarf „System-Streaming“ oder „Software-Streaming“."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Optionen für den Streaming-Modus unter „Weitere Einstellungen“ auf Apple",
+                    "caption": "Schritt 2: Wählen Sie unter „Streaming-Modus“ die Option „System-Streaming“ oder „Software-Streaming“."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Über die beiden Modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "System-Streaming (ReplayKit-Bildschirmaufnahme): Verwendet die iOS-Systembildschirmaufnahme, um den Bildschirm zu erfassen, und ermöglicht kontinuierliches Streaming, auch wenn die App im Hintergrund läuft. Sie können zu anderen Apps wechseln und weiterhin beliebige Bildschirminhalte erfassen, ohne den Stream zu unterbrechen.",
+                      "Software-Streaming (direkte Erfassung im Vordergrund): Die App erfasst den Bildschirm direkt. Aufgrund von iOS-Systemeinschränkungen muss die App im Vordergrund bleiben. Wenn Sie zu einer anderen App wechseln oder zum Home-Bildschirm zurückkehren, wird das Streaming sofort beendet."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Wie lösche ich mein Konto?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Bitte melden Sie sich in der VicastCam-App an und gehen Sie dann zu [Konto – Symbol oben rechts – Kontoverwaltung – Konto löschen – Löschanfrage senden]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Kontoinformationen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nach der Kontolöschung löschen wir dauerhaft Ihre verknüpfte E-Mail-Adresse, Gerätedatensätze und andere Identitätsinformationen und widerrufen Ihre Drittanbieter-Login-Autorisierung über Google- und Apple-Konten. Nach dem Widerruf können Sie diese Drittanbieter-Konten nicht mehr für die schnelle Anmeldung in dieser App verwenden. Um die App erneut zu nutzen, müssen Sie die Autorisierung und Verknüpfung erneut vornehmen."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Inhalte und Assets"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Alle Live-Streaming-Assets, Videos, Bilder und Projektdateien werden nur auf Ihrem Gerät gespeichert. Die Plattform-Cloud speichert keine kreativen Assets. Nach der Löschung ist die Asset-Verwaltungsfunktion nicht mehr verfügbar. Bitte sichern Sie Ihre Assets vorab mit „Asset-Export“.",
+                      "Wenn Sie die App deinstallieren und neu installieren, das Gerät wechseln oder keinen Backup-Export im Voraus durchführen, gehen Ihre Assets dauerhaft verloren."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mitgliedschaftsvorteile"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nach der Kontolöschung enden Ihre Mitgliedschaftsvorteile sofort. Da Abonnementdienste von Apple verwaltet werden, kann die Plattform keine Rückerstattungen direkt bearbeiten. Um eine Rückerstattung zu beantragen, reichen Sie bitte eine Anfrage über die offiziellen Kanäle von Apple ein (App-Store-Kaufverlauf). Bevor Sie Ihr Konto löschen, stellen Sie sicher, dass Sie die automatische Verlängerung manuell deaktivieren, um zukünftige Gebühren zu vermeiden."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Sie Fragen haben, kontaktieren Sie bitte den Kundensupport."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Warum kann ich beim Hinzufügen nicht auf meine Fotos und Videos zugreifen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Ihre Fotomediathek beim Hinzufügen von Assets leer erscheint, gehen Sie zu den Einstellungen Ihres iPhones, scrollen Sie nach unten zu VicastCam und tippen Sie auf [Fotos – Alle Fotos], um den Zugriff zu aktivieren."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Was tun, wenn der Bildschirm beim Streamen vom Computer nicht vollständig angezeigt wird?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn der Bildschirm beim Streamen von Ihrem Telefon über eine Live-Streaming-Begleit-App oder andere Software nicht vollständig angezeigt wird, befolgen Sie diese Schritte zur Anpassung:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie VicastCam, tippen Sie auf das Kamerasymbol unten, um zur Live-Streaming-Seite zu gelangen, und gehen Sie dann zu [Rechtes Menü - Weitere Einstellungen - Seitenverhältnis - 9:16].",
+                      "Nach dem Übertragen an die Live-Streaming-Begleit-App skalieren Sie zuerst auf die passende Größe und ziehen Sie dann den Bildschirm nach oben oder unten, um den gesamten Bildschirm auszufüllen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hinweis: Passen Sie vor dem Start Ihres Streams zuerst das Seitenverhältnis an und fügen Sie dann Ihre Assets hinzu."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Was tun, wenn eine Netzwerkanfrage fehlschlägt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn Netzwerkanfragen fehlschlagen, versuchen Sie Folgendes:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Öffnen Sie die Einstellungen Ihres Telefons, gehen Sie zu [Berechtigungsverwaltung - VicastCam - Mobile Daten und WLAN verwenden] und aktivieren Sie den Netzwerkzugriff.",
+                      "Deaktivieren Sie den Energiesparmodus und alle Hintergrundbeschränkungen auf Ihrem Telefon.",
+                      "Wechseln Sie das Netzwerk, starten Sie Ihr Telefon neu, aktivieren Sie den Flugmodus oder aktualisieren Sie die App auf die neueste Version.",
+                      "Wenn das Problem weiterhin besteht, machen Sie einen Screenshot des Fehlers und wenden Sie sich an den Kundensupport."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Warum flackern Netzwerk-Asset-Overlays während eines Live-Streams oder werden schwarz?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Wenn beim Hinzufügen von Netzwerk-Assets während eines Live-Streams Flackern oder schwarze Bildschirme auftreten, gehen Sie wie folgt vor:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Laden Sie alle Assets und Overlays, die Sie während des Streams verwenden möchten, im Voraus herunter und testen Sie sie. Stellen Sie sicher, dass sie einwandfrei funktionieren, bevor Sie live gehen.",
+                      "Einige in der Software enthaltene Assets werden auf Servern gespeichert. Laden Sie sie vor dem Start Ihres Streams herunter, damit Sie sie während des Streams direkt verwenden können, ohne sie erneut laden zu müssen.",
+                      "Das Laden von Assets während des Streams verbraucht Streaming-Ressourcen, Telefonspeicher und Leistung, was zu Verzögerungen führen kann. Auf schwächeren Telefonen kann dies sogar zu Abstürzen oder schwarzen Bildschirmen führen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Wichtiger Hinweis"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planen und proben Sie Ihren Stream im Voraus. Üben Sie jeden Abschnitt, um sicherzustellen, dass alles reibungslos läuft, bevor Sie live gehen. Behandeln Sie jeden Stream mit Sorgfalt, und Ihr Stream wird es Ihnen danken."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "ट्यूटोरियल सेंटर",
+          "titleMain": "VicastCam सीखने की",
+          "titleHighlight": "यात्रा शुरू करें",
+          "descriptionMain": "सॉफ़्टवेयर में महारत हासिल करें",
+          "descriptionHighlight": "जल्दी से सीखें"
+        },
+        "player": {
+          "sectionAriaLabel": "ट्यूटोरियल सूची",
+          "catalogAriaLabel": "ट्यूटोरियल कैटलॉग",
+          "previousLabel": "पिछला",
+          "nextLabel": "अगला",
+          "firstLessonText": "यह पहला पाठ है",
+          "lastLessonText": "यह आखिरी पाठ है",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "शुरुआती ट्यूटोरियल",
+            "count": "9 पाठ",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "अपना पहला वर्चुअल लाइव रूम बनाएं",
+                "description": "शुरू से अपना पहला वर्चुअल लाइव रूम बनाएं और कॉन्फ़िगर करें।",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "इमेज फीचर को समझना",
+                "description": "इमेज फीचर की मूल बातें और इसके उपयोग के मामलों को जानें।",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "लेयर्स का उपयोग कैसे करें",
+                "description": "लेयर्स पैनल की मूल बातें सीखें।",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "बैकग्राउंड लेयर्स का उपयोग कैसे करें",
+                "description": "बैकग्राउंड लेयर्स जोड़ना और समायोजित करना सीखें।",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "पोर्ट्रेट लेयर्स का उपयोग कैसे करें",
+                "description": "विज़ुअल इफेक्ट बनाने के लिए पोर्ट्रेट लेयर्स का उपयोग करना सीखें।",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "इमेज लेयर्स का उपयोग कैसे करें",
+                "description": "इमेज लेयर्स जोड़ना और संपादित करना सीखें।",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "वीडियो लेयर्स का उपयोग कैसे करें",
+                "description": "वीडियो मीडिया जोड़ना और प्लेबैक कॉन्फ़िगर करना सीखें।",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "इफेक्ट लेयर्स का उपयोग कैसे करें",
+                "description": "अपने लाइव स्ट्रीम में इफेक्ट लेयर्स जोड़ें।",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "कैप्शन लेयर्स का उपयोग कैसे करें",
+                "description": "कैप्शन बनाएं और कैप्शन लेयर स्टाइल समायोजित करें।",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "उन्नत ट्यूटोरियल",
+            "count": "6 पाठ",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "कैमरा मूवमेंट लेयर्स का उपयोग कैसे करें",
+                "description": "अधिक डायनामिक शॉट्स बनाने के लिए कैमरा मूवमेंट लेयर्स का उपयोग करें।",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "पाथ फीचर का उपयोग कैसे करें",
+                "description": "पाथ फीचर के साथ तत्वों के मूवमेंट पथ को नियंत्रित करें।",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "मल्टी-कैमरा लेयर्स का उपयोग कैसे करें",
+                "description": "विभिन्न दृश्यों के बीच तेज़ी से स्विच करने के लिए मल्टी-कैमरा लेयर्स कॉन्फ़िगर करें।",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "कंट्रोलर फीचर का उपयोग कैसे करें",
+                "description": "अपने लाइव स्ट्रीम व्यू को प्रबंधित करने के लिए कंट्रोलर का उपयोग करें।",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "ऑडियो फीचर का उपयोग कैसे करें",
+                "description": "ऑडियो इनपुट, आउटपुट और मिक्सिंग इफेक्ट कॉन्फ़िगर करें।",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "बैकअप फीचर का उपयोग कैसे करें",
+                "description": "लाइव रूम कॉन्फ़िगरेशन और मीडिया का बैकअप और पुनर्स्थापना करें।",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

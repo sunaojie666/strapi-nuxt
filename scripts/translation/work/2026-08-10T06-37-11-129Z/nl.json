@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "nl",
+        "loginTitle1": "Verander je virtuele achtergrond in één klik",
+        "loginTitle2": "Stream met meer impact",
+        "loginDes1": "Een professionele livestreamtool, aangedreven door AI",
+        "loginDes2": "Virtuele achtergronden, live verbeteringen en multi-platform streaming, eenvoudig gemaakt",
+        "featureTitle1": "AI-matting",
+        "featureSubTitle1": "Real-time achtergrondvervanging",
+        "featureTitle2": "Multi-platform streaming",
+        "featureSubTitle2": "Ga live met één tik",
+        "featureTitle3": "Virtuele camera",
+        "featureSubTitle3": "Verander je telefoon in een webcam",
+        "loginBox": {
+          "loginPageTitle": "Inloggen / Registreren",
+          "codeLoginTab": "Inloggen met code",
+          "pwdLoginTab": "Inloggen met wachtwoord",
+          "qrLoginTab": "Inloggen met QR-code",
+          "emailInputPlaceholder": "Voer je e-mailadres in om in te loggen",
+          "pwdInputPlaceholder": "Voer je wachtwoord in",
+          "verifyCodePlaceholder": "Voer de verificatiecode in",
+          "getVerifyCodeText": "Code ophalen",
+          "loginBtnText": "Inloggen",
+          "qrLoginTip": "Scan met de VicastCam-app om in te loggen",
+          "qrWaitingTip": "Wachten op scanbevestiging",
+          "agreeProtocolText": "Ik heb het privacybeleid en de gebruikersovereenkomst gelezen en ga ermee akkoord",
+          "userProtocolText": "Gebruikersovereenkomst",
+          "privacyPolicyText": "Privacybeleid",
+          "agreeProtocolPrefix": "Ik heb gelezen en ga akkoord met"
+        },
+        "toastBox": {
+          "closeToastLabel": "Melding sluiten",
+          "requestLoading": "Laden",
+          "requestSuccess": "Verzoek succesvol",
+          "requestFail": "Verzoek mislukt",
+          "passwordLoginNotReady": "Inloggen met wachtwoord is nog niet beschikbaar",
+          "passwordRequired": "Voer je wachtwoord in",
+          "emailRequired": "Voer je e-mailadres in om in te loggen",
+          "verifyCodeRequired": "Voer de verificatiecode in",
+          "agreeProtocolRequired": "Lees eerst het privacybeleid en de gebruikersovereenkomst en ga ermee akkoord",
+          "qrcodeExpired": "De QR-code is verlopen. Vraag een nieuwe aan."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "nl",
+        "hero_section": {
+          "tag": "AI-gestuurde livestreamtool",
+          "title_main": "Groene-schermeffecten en schermcasten vanaf je telefoon",
+          "title_highlight": "Livestreaming wereldwijd versterken",
+          "description": "VicastCam gebruikt geavanceerde AI-matting om tijdens je stream op elk moment van virtuele achtergrond te wisselen, met meeslepende effecten en een professionele uitstraling voor je live-uitzendingen.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Downloaden"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Downloaden"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam biedt creators virtuele achtergronden, live verbeteringen en cross-platform tools."
+          },
+          "columns": [
+            {
+              "title": "Product",
+              "links": [
+                {
+                  "text": "Functies"
+                },
+                {
+                  "text": "Prijzen"
+                },
+                {
+                  "text": "Downloads"
+                }
+              ]
+            },
+            {
+              "title": "Ontwikkelaars",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API-documentatie"
+                }
+              ]
+            },
+            {
+              "title": "Bedrijf",
+              "links": [
+                {
+                  "text": "Over ons"
+                },
+                {
+                  "text": "Privacybeleid"
+                },
+                {
+                  "text": "Gebruikersovereenkomst"
+                },
+                {
+                  "text": "Lidmaatschapsovereenkomst"
+                }
+              ]
+            },
+            {
+              "title": "Ondersteuning",
+              "links": [
+                {
+                  "text": "Videotutorials"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Contact opnemen"
+                }
+              ]
+            },
+            {
+              "title": "Partnerschappen",
+              "links": [
+                {
+                  "text": "Word reseller"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Zakelijke aanvragen"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Functies",
+      "nav_pricing": "Prijzen",
+      "nav_faq": "FAQ",
+      "nav_auth": "Inloggen / Registreren",
+      "nav_team": "Partnerschappen"
+    }
+  ]
+}

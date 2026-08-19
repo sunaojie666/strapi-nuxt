@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "انتخاب روش پرداخت",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "پرداخت با موجودی PayPal، کارت بانکی یا کارت اعتباری",
+            "secureBadge": "پرداخت امن",
+            "methodLabel": "روش پرداخت",
+            "accountLabel": "حساب فعلی",
+            "signInRequired": "برای ادامه خرید لطفاً وارد شوید",
+            "signInAction": "ورود",
+            "summaryHint": "برای تکمیل پرداخت، روی دکمه PayPal کلیک کنید",
+            "trustItems": [
+              "پرداختها بهصورت امن توسط PayPal انجام میشوند",
+              "پشتیبانی از موجودی PayPal، کارتهای بانکی و کارتهای اعتباری",
+              "پس از پرداخت موفق، مزایای عضویت بهصورت خودکار فعال میشوند"
+            ],
+            "buttonPay": "پرداخت با PayPal",
+            "buttonPending": "در انتظار سفارش",
+            "buttonCreating": "در حال ایجاد سفارش...",
+            "sdkLoading": "در حال بارگذاری PayPal...",
+            "sdkError": "بارگذاری PayPal ناموفق بود. لطفاً اتصال شبکه را بررسی و دوباره تلاش کنید.",
+            "sdkIneligible": "پرداخت PayPal در این محیط پشتیبانی نمیشود",
+            "sdkMissingConfig": "PayPal پیکربندی نشده است. لطفاً با مدیر تماس بگیرید.",
+            "orderCreating": "در حال ایجاد سفارش پرداخت...",
+            "orderCreateFailed": "ایجاد سفارش ناموفق بود. لطفاً دوباره تلاش کنید.",
+            "orderProcessing": "نتیجه پرداخت هنوز در حال تأیید است. لطفاً بعداً دوباره بررسی کنید.",
+            "orderSuccess": "پرداخت موفق بود. مزایای عضویت شما فعال شده است.",
+            "orderFailed": "پرداخت ناموفق بود. لطفاً دوباره تلاش کنید.",
+            "orderPending": "پرداخت کامل نشده است. لطفاً پرداخت را تکمیل و دوباره بررسی کنید.",
+            "orderExpired": "سفارش پرداخت منقضی شده است. لطفاً دوباره تلاش کنید.",
+            "statusQueryFailed": "بررسی وضعیت پرداخت ناموفق بود. لطفاً بعداً دوباره تلاش کنید.",
+            "invalidPlan": "طرح انتخابی نامعتبر است. لطفاً برگردید و دوباره انتخاب کنید.",
+            "popupBlocked": "پنجره پرداخت توسط مرورگر شما مسدود شد. لطفاً برای این سایت پنجرههای بازشو را مجاز کنید و دوباره تلاش کنید.",
+            "popupOpened": "پنجره پرداخت PayPal باز شده است. لطفاً پرداخت را در پنجره تکمیل کنید.",
+            "popupClosedChecking": "پنجره پرداخت بسته شد. در حال تأیید نتیجه پرداخت...",
+            "popupClosedFailed": "پنجره پرداخت بسته شد، اما سفارش تکمیل نشده است. لطفاً دوباره تلاش کنید."
+          },
+          "summary": {
+            "title": "خلاصه سفارش",
+            "periodLabel": "دوره عضویت",
+            "paymentMethodLabel": "روش پرداخت",
+            "amountLabel": "مبلغ قابل پرداخت",
+            "paymentMethod": "پرداخت آنلاین PayPal",
+            "note": "پس از پرداخت موفق، مزایای عضویت بهصورت خودکار به حساب فعلی شما اعطا میشود.",
+            "periodMonth": "۱ ماه",
+            "periodYear": "۱ سال",
+            "periodLife": "مادامالعمر",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "در حال تأیید نتیجه پرداخت...",
+            "closeLabel": "بستن",
+            "iconAlt": "نتیجه پرداخت",
+            "titlePrefix": "پرداخت",
+            "successTitleHighlight": "موفق!",
+            "failureTitleHighlight": "ناموفق!",
+            "successDescription": "از خرید شما سپاسگزاریم. عضویت شما فعال شده است.",
+            "failureDescription": "پرداخت شما تکمیل نشد. لطفاً دوباره تلاش کنید یا از روش پرداخت دیگری استفاده کنید.",
+            "orderNumber": "شماره سفارش",
+            "membershipType": "نوع عضویت",
+            "expiry": "تاریخ انقضا",
+            "orderStatus": "وضعیت سفارش",
+            "successStatus": "پرداخت شده",
+            "failureStatus": "پرداخت نشده",
+            "successPrimaryAction": "مشاهده در مرکز عضویت",
+            "failurePrimaryAction": "تغییر روش پرداخت",
+            "successSecondaryAction": "باشه",
+            "failureSecondaryAction": "بازگشت به صفحه",
+            "copyOrderNumber": "کپی شماره سفارش",
+            "copied": "کپی شد",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "تأیید خرید | VicastCam",
+            "description": "طرح عضویت VicastCam خود را تأیید و پرداخت را از طریق PayPal انجام دهید."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "عضویت ماهانه",
+              "description": "از تمام ویژگیهای عضویت VicastCam بهصورت ماهانه بهرهمند شوید",
+              "period": "۱ ماه"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "عضویت سالانه",
+              "description": "برای یک سال کامل از تمام ویژگیهای عضویت VicastCam بهرهمند شوید",
+              "period": "۱ سال"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "عضویت مادامالعمر",
+              "description": "خرید یکباره، دسترسی طولانیمدت به ویژگیهای عضویت VicastCam",
+              "period": "مادامالعمر"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

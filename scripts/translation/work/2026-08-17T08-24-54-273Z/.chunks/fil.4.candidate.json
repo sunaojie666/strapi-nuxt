@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Bakit kumukutitap o nagiging black screen ang mga network asset o overlay habang nagli-live stream?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung nakakaranas ka ng pagkutitap o black screen kapag nagdadagdag ng network asset habang nagli-live stream, narito ang dapat mong gawin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "I-download at i-preview nang maaga ang mga asset o overlay na balak mong gamitin sa stream, at tiyaking gumagana ang mga ito bago ka mag-live.",
+            "Ang ilang asset na kasama sa software ay naka-imbak sa mga server. Kung i-download mo ang mga ito bago mag-live, magagamit mo agad ang mga ito sa stream nang hindi na kailangang i-reload.",
+            "Ang pag-load ng asset habang nag-stream ay kumukonsumo ng streaming resources, memorya ng phone, at performance, na maaaring magdulot ng lag; sa mga lower-end phone, maaari pa itong magdulot ng crash o black screen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mahalagang paalala"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bago mag-live, planuhin at i-rehearse nang mabuti ang iyong stream upang matiyak na maayos ang lahat ng elemento bago ka magsimula."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Ano ang gagawin ko kung natatakpan ang ilang key sa keyboard?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung natatakpan ang ilang key sa virtual keyboard, subukan ang mga sumusunod:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Kung gumagamit ka ng mas lumang 16:9 phone bilang remote, at natatakpan ang ilang key, i-tap ang pangalawang button sa kaliwang sulok sa itaas ng keyboard upang paganahin ang full-screen operation mode.",
+            "Kung hindi maayos ang pagkakaayos ng keyboard, pumunta sa Settings ng iyong phone at itakda ang font size sa normal.",
+            "Ang ilang phone ay may naka-enable na elderly mode; ang pag-off nito ay dapat maibalik sa normal ang display ng keyboard."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ang mga isyu sa display ay karaniwang sanhi ng masyadong malaking font o masyadong malaking theme interface ng phone. Ang pag-reset ng mga ito sa standard mode ay dapat malutas ang problema."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Ano ang gagawin ko kung paulit-ulit na nadidisconnect ang Huawei phone ko sa multi-camera o virtual keyboard?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung nakakaranas ang iyong Huawei phone ng disconnection sa multi-camera o virtual keyboard, sundin ang mga hakbang na ito:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pumunta sa Settings ng iyong phone.",
+            "Sa search bar sa itaas, i-type ang 'App launch management'.",
+            "Pumunta sa App launch management page, mag-scroll pababa upang mahanap ang VicastCam.",
+            "I-off ang toggle sa kanan upang maging gray ang icon; sabay na i-enable ang lahat ng tatlong opsyon sa popup upang maging blue ang mga ito."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Maaari mo ring panoorin ang video tutorial na 'Paano maiwasan ang disconnection sa multi-camera at virtual keyboard sa mga Huawei phone'."
+        }
+      ]
+    }
+  ]
+}

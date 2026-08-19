@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Quelles sont les dimensions recommandées pour les éléments de streaming en direct ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensions recommandées pour les éléments de streaming en direct :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour les images d'arrière-plan en direct, nous recommandons 1080 x 1920 pixels ; pour les vidéos, nous recommandons également 1080 x 1920 pixels.",
+            "Important : les superpositions plein écran doivent utiliser un format 9:16 pour garantir un alignement parfait lors du passage entre les modes plein écran et 9:16, offrant ainsi un ajustement fluide."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Quels modes de sortie sont pris en charge pour le streaming ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Le streaming prend en charge deux modes de sortie : le streaming 9:16 et le streaming plein écran. Suivez ces étapes pour sélectionner le mode sur votre appareil Apple :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez VicastCam, accédez à la page de streaming en direct, puis appuyez sur l'icône de menu sur le côté droit."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Entrée de menu sur le côté droit de la page de streaming en direct Apple",
+          "caption": "Étape 1 : Appuyez sur l'icône de menu sur le côté droit de la page de streaming en direct."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dans Paramètres supplémentaires, recherchez « Format d'image » et sélectionnez « Plein écran » ou « 9:16 » selon vos besoins."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Options de format d'image dans Paramètres supplémentaires sur Apple",
+          "caption": "Étape 2 : Dans « Format d'image », sélectionnez « Plein écran » ou « 9:16 »."
+        },
+        {
+          "type": "heading",
+          "text": "À propos des deux modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming 9:16 : le format de sortie est fixé à 9:16, la plateforme de diffusion reçoit donc une image 9:16.",
+            "Streaming plein écran : diffuse l'écran du téléphone tel quel, en préservant le contenu natif sans recadrage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Quelle est la différence entre le streaming système et le streaming logiciel ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Les appareils Apple offrent deux modes de capture de streaming, qui diffèrent considérablement en ce qui concerne les règles de fonctionnement en arrière-plan. Suivez ces étapes pour choisir un mode de streaming :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ouvrez VicastCam, accédez à la page de streaming en direct, puis appuyez sur l'icône de menu sur le côté droit."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Entrée de menu sur le côté droit de la page de streaming en direct Apple",
+          "caption": "Étape 1 : Appuyez sur l'icône de menu sur le côté droit de la page de streaming en direct."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dans Paramètres supplémentaires, recherchez « Mode de streaming » et sélectionnez « Streaming système » ou « Streaming logiciel » selon vos besoins."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Options de mode de streaming dans Paramètres supplémentaires sur Apple",
+          "caption": "Étape 2 : Dans « Mode de streaming », sélectionnez « Streaming système » ou « Streaming logiciel »."
+        },
+        {
+          "type": "heading",
+          "text": "À propos des deux modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming système (enregistrement d'écran ReplayKit) : utilise l'enregistrement d'écran du système iOS pour capturer l'écran, permettant un streaming continu même lorsque l'application est en arrière-plan. Vous pouvez passer à d'autres applications et capturer toujours le contenu de l'écran sans interrompre le streaming.",
+            "Streaming logiciel (capture directe au premier plan) : l'application capture l'écran directement. En raison des limitations du système iOS, l'application doit rester au premier plan. Si vous passez à une autre application ou revenez à l'écran d'accueil, le streaming s'arrête immédiatement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Comment supprimer mon compte ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Veuillez vous connecter à l'application VicastCam, puis accédez à [Compte - icône en haut à droite - Gestion du compte - Supprimer le compte - Soumettre la demande de suppression]."
+        },
+        {
+          "type": "heading",
+          "text": "Informations du compte"
+        },
+        {
+          "type": "paragraph",
+          "text": "Après la suppression du compte, nous supprimerons définitivement votre e-mail associé, les enregistrements de l'appareil et d'autres informations d'identité, et révoquerons votre autorisation de connexion tierce via les comptes Google et Apple. Après la révocation, vous ne pourrez plus utiliser ces comptes tiers pour vous connecter rapidement à cette application. Pour utiliser à nouveau l'application, vous devrez réautoriser et lier votre compte."
+        },
+        {
+          "type": "heading",
+          "text": "Contenu et éléments"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tous les éléments de streaming en direct, vidéos, images et fichiers de projet sont stockés uniquement sur votre appareil. Le cloud de la plateforme ne conserve aucun élément créatif. Après la suppression, la fonction de gestion des éléments ne sera plus disponible. Veuillez sauvegarder vos éléments à l'avance en utilisant « Exportation des éléments ».",
+            "Si vous désinstallez puis réinstallez l'application, changez d'appareil ou ne parvenez pas à exporter une sauvegarde à l'avance, vos éléments seront définitivement perdus."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Avantages de l'adhésion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Après la suppression du compte, vos avantages d'adhésion prendront fin immédiatement. Étant donné que les services d'abonnement sont gérés par Apple, la plateforme ne peut pas traiter les remboursements directement. Pour demander un remboursement, veuillez soumettre une demande via les canaux officiels d'Apple (historique des achats sur l'App Store). Avant de supprimer votre compte, assurez-vous d'annuler manuellement le renouvellement automatique pour éviter des frais futurs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si vous avez des questions, veuillez contacter le support client."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Pourquoi ne puis-je pas accéder aux photos et vidéos de mon téléphone lors de l'ajout ?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Si votre bibliothèque de photos semble vide lors de l'ajout d'éléments, accédez aux Réglages de votre iPhone, faites défiler jusqu'à VicastCam, appuyez sur [Photos - Toutes les photos] pour activer l'accès."
+        }
+      ]
+    }
+  ]
+}

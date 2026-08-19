@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam SSS | Android ve iOS için Yardım",
+          "description": "Android ve iOS için VicastCam hakkında sık sorulan soruların yanıtları: hesap kurulumu, medya izinleri, ağ bağlantıları ve canlı yayın sorunları.",
+          "imageAlt": "VicastCam SSS"
+        },
+        "hero": {
+          "eyebrow": "SSS",
+          "titleMain": "VicastCam Yardım",
+          "titleHighlight": "Hızlı Yanıtlar",
+          "description": "Cihazınıza uygun platformu (Android veya iOS) seçin ve sık sorulan sorular ile çözümleri görün."
+        },
+        "content": {
+          "sectionAriaLabel": "Sık sorulan sorular",
+          "catalogAriaLabel": "Soru kategorileri",
+          "answerLabel": "Yanıt",
+          "questionProgressTemplate": "{group} · Soru {current} / {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android Eğitimleri",
+            "count": "9 soru",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Canlı yayın öğeleri için önerilen boyutlar nelerdir?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Canlı yayın öğeleri için önerilen boyutlar:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Canlı yayın arka plan görselleri için 1080 x 1920 piksel öneriyoruz; videolar için de 1080 x 1920 piksel öneriyoruz.",
+                      "Önemli: Tam ekran kaplamalar 9:16 en-boy oranını kullanmalıdır. Böylece tam ekran ve 9:16 modları arasında hizasız geçiş olmaz ve kusursuz bir uyum elde edilir."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Yayın için hangi çıkış modları destekleniyor?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Yayın iki çıkış modunu destekler: 9:16 yayın ve tam ekran yayın. Android cihazınızda birini seçmek için şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam'i açın, canlı yayın sayfasına gidin ve sağ taraftaki menü simgesine dokunun."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Android canlı yayın sayfasının sağ tarafındaki menü girişi",
+                    "caption": "Adım 1: Canlı yayın sayfasının sağ tarafındaki menü simgesine dokunun."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Diğer Ayarlar'da 'En-Boy Oranı'nı bulun ve ihtiyacınıza göre 'Tam Ekran' veya '9:16' seçin."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Android'de Diğer Ayarlar'daki en-boy oranı seçenekleri",
+                    "caption": "Adım 2: 'En-Boy Oranı'nda 'Tam Ekran' veya '9:16'yı seçin."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "İki modun açıklaması"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 yayın: Çıkış en-boy oranı sabit olarak 9:16'dır, böylece yayın platformu 9:16 görüntü alır.",
+                      "Tam ekran yayın: Telefon ekranının tamamını olduğu gibi iletir, yerel içeriği kırpmadan korur."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Hesabımı nasıl silebilirim?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Lütfen VicastCam uygulamasına giriş yapın, ardından [Hesap - sağ üst simge - Hesap Yönetimi - Hesabı Sil - Silme Talebi Gönder] adımlarını izleyin."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Hesap bilgileri"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hesap silindikten sonra bağlı e-postanızı, cihaz kayıtlarınızı ve diğer kimlik bilgilerinizi kalıcı olarak sileceğiz ve Google ve Apple hesapları aracılığıyla yaptığınız üçüncü taraf giriş yetkilendirmesini iptal edeceğiz. Yetkilendirme iptal edildikten sonra bu üçüncü taraf hesaplarla hızlı giriş yapamazsınız; uygulamayı tekrar kullanmak için yeniden yetkilendirme ve bağlama yapmanız gerekecektir."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "İçerik ve öğeler"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tüm canlı yayın öğeleri, videolar, görseller ve proje dosyaları yalnızca cihazınızda saklanır; bulut hiçbir yaratıcı öğeyi tutmaz. Silme işleminden sonra uygulamadaki öğe yönetimi özelliği çalışmaz, bu nedenle öğelerinizi önceden 'Öğe Dışa Aktar' ile yedekleyin.",
+                      "Uygulamayı kaldırıp yeniden kurarsanız, cihaz değiştirirseniz veya önceden yedek almayı unutursanız, öğeleriniz kalıcı olarak kurtarılamaz."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Üyelik avantajları"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hesap silindikten sonra üyelik avantajlarınız anında sona erer. Aktif bir Google Play aboneliğiniz varsa, uygulama hesabınızı silmek aboneliği otomatik olarak iptal etmez ve ücretlendirilmeye devam edebilirsiniz. Lütfen Google Play'in 'Ödemeler ve abonelikler - Abonelikler' bölümünden manuel olarak iptal edin."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Herhangi bir sorunuz varsa, lütfen müşteri destek ekibimizle iletişime geçin."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Öğe eklerken telefonumdaki fotoğraflara ve videolara neden erişemiyorum?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Öğe eklerken fotoğraf albümünüz boş görünüyorsa, fotoğraf erişim izinlerini şu şekilde etkinleştirebilirsiniz:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Telefonunuzun Ayarlar'ını açın, VicastCam'i bulmak için aşağı kaydırın, [Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunarak erişimi etkinleştirin.",
+                      "Android: Telefonunuzun Ayarlar'ını açın, [İzin Yönetimi] veya [Uygulama Yönetimi] altında VicastCam'i bulun, ardından [İzin Yönetimi - Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunarak erişimi etkinleştirin.",
+                      "Sorun devam ederse, uygulamayı kaldırıp yeniden kurmayı deneyin veya geri bildirim özelliği aracılığıyla çevrimiçi destekle iletişime geçin."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Bilgisayardan yayın yaparken ekran tam görüntülenmiyorsa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Telefonunuzdan canlı yayın yardımcı uygulaması veya başka bir yazılım aracılığıyla yayın yaparken ekran eksik görünüyorsa, ayarlamak için şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam'i açın, canlı yayın sayfasına girmek için alttaki kamera simgesine dokunun, ardından [Sağ menü - Diğer Ayarlar - En-Boy Oranı - 9:16] seçeneğine gidin.",
+                      "Canlı yayın yardımcısına yansıttıktan sonra, önce ekranı tuval üzerine sığdırın, ardından ekranı doldurmak için dikey olarak sürükleyin."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Not: Yayına başlamadan önce, önce en-boy oranını ayarlayın, ardından öğelerinizi ekleyin."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Ağ isteği başarısız olursa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ağ isteği hatalarıyla karşılaşırsanız, şunları deneyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Telefonunuzun Ayarlar'ını açın, [İzin Yönetimi - VicastCam - Mobil Veri ve Wi-Fi] bölümüne gidin ve ağ erişimini etkinleştirin.",
+                      "Telefonunuzdaki güç tasarrufu modunu ve arka plan kısıtlamalarını kapatın.",
+                      "Ağ değiştirin, telefonunuzu yeniden başlatın, uçak modunu açıp kapatın veya uygulamayı en son sürüme güncelleyin.",
+                      "Sorun devam ederse, hatanın ekran görüntüsünü alın ve yardım için müşteri desteğiyle iletişime geçin."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Canlı yayında ağ varlıkları veya katmanlar neden titriyor ya da siyah ekran oluyor?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Canlı yayın sırasında ağ varlıkları eklerken titreme veya siyah ekran sorunu yaşıyorsanız, şu şekilde çözebilirsiniz:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Yayında kullanmayı planladığınız varlıkları veya katmanları önceden indirip önizleyin ve yayına başlamadan önce düzgün çalıştıklarından emin olun.",
+                      "Yazılımla birlikte gelen bazı varlıklar sunucularda saklanır. Bunları yayına başlamadan önce indirirseniz, yayın sırasında yeniden yüklemeden doğrudan kullanabilirsiniz.",
+                      "Yayın sırasında varlık yüklemek, yayın kaynaklarını, telefon belleğini ve performansı tüketir; bu da gecikmeye neden olabilir; düşük donanımlı telefonlarda çökme veya siyah ekran sorunlarına bile yol açabilir."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Önemli not"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Yayına başlamadan önce, her öğenin kusursuz çalıştığından emin olmak için yayınınızı iyice planlayın ve prova yapın."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Klavyede bazı tuşlar kapanırsa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Sanal klavyede bazı tuşlar kapanıyorsa, şunları deneyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Uzaktan kumanda olarak eski bir 16:9 telefon kullanıyorsanız ve bazı tuşlar kapanıyorsa, klavyenin sol üst köşesindeki ikinci düğmeye dokunarak tam ekran çalışma modunu etkinleştirin.",
+                      "Klavye düzeni hizalı değilse, telefonunuzun Ayarlar bölümüne gidin ve yazı tipi boyutunu normal olarak ayarlayın.",
+                      "Bazı telefonlarda yaşlı modu etkindir; bunu kapatmak klavyenin normal görünümüne dönmesini sağlamalıdır."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Görüntü sorunları genellikle büyük yazı tiplerinden veya büyük telefon teması arayüzünden kaynaklanır. Bunları standart moda sıfırlamak sorunu çözmelidir."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Huawei telefonum çoklu kamera veya sanal klavyeden sürekli bağlantı koparıyorsa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Huawei telefonunuz çoklu kamera veya sanal klavye ile bağlantı koparma sorunu yaşıyorsa, şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Telefonunuzun Ayarlar bölümüne gidin.",
+                      "Üstteki arama çubuğuna 'Uygulama başlatma yönetimi' yazın.",
+                      "Uygulama başlatma yönetimi sayfasına gidin, aşağı kaydırarak VicastCam'i bulun.",
+                      "Sağdaki anahtarı kapatın, böylece simge gri olur; aynı zamanda açılır penceredeki üç seçeneğin de mavi olması için hepsini etkinleştirin."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Ayrıca 'Huawei telefonlarda çoklu kamera ve sanal klavye bağlantı kopmalarını önleme' video eğitimine de başvurabilirsiniz."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS Eğitimleri",
+            "count": "8 soru",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Canlı yayın varlıkları için önerilen boyutlar nelerdir?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Canlı yayın varlıkları için önerilen boyutlar:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Canlı yayın arka plan görselleri için 1080 x 1920 piksel öneriyoruz; videolar için de 1080 x 1920 piksel öneriyoruz.",
+                      "Önemli: Tam ekran katmanlar 9:16 en-boy oranını kullanmalıdır. Böylece tam ekran ve 9:16 modları arasında geçiş yaparken kusursuz bir uyum sağlanır."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Yayın için hangi çıkış modları destekleniyor?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Yayın iki çıkış modunu destekler: 9:16 yayın ve tam ekran yayın. Apple cihazınızda modu seçmek için şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam'i açın, canlı yayın sayfasına gidin ve sağdaki menü simgesine dokunun."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Apple canlı yayın sayfasının sağındaki menü girişi",
+                    "caption": "Adım 1: Canlı yayın sayfasının sağındaki menü simgesine dokunun."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Diğer Ayarlar'da 'En-Boy Oranı'nı bulun ve ihtiyaca göre 'Tam Ekran' veya '9:16' seçin."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Apple'da Diğer Ayarlar'daki en-boy oranı seçenekleri",
+                    "caption": "Adım 2: 'En-Boy Oranı'nda 'Tam Ekran' veya '9:16' seçin."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "İki mod hakkında"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 yayın: Çıkış en-boy oranı sabit olarak 9:16'dır, böylece yayın platformu 9:16 görüntü alır.",
+                      "Tam ekran yayın: Telefon ekranının tamamını olduğu gibi iletir, içeriği kırpmadan doğal haliyle korur."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Sistem Yayını ile Yazılım Yayını arasındaki fark nedir?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Apple cihazlar, arka plan çalışma kuralları açısından önemli ölçüde farklılık gösteren iki yayın yakalama modu sunar. Bir yayın modu seçmek için şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam'i açın, canlı yayın sayfasına gidin ve sağdaki menü simgesine dokunun."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Apple canlı yayın sayfasının sağındaki menü girişi",
+                    "caption": "Adım 1: Canlı yayın sayfasının sağındaki menü simgesine dokunun."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Diğer Ayarlar'da 'Yayın Modu'nu bulun ve ihtiyaca göre 'Sistem Yayını' veya 'Yazılım Yayını' seçin."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Apple'da Diğer Ayarlar'daki yayın modu seçenekleri",
+                    "caption": "Adım 2: 'Yayın Modu'nda 'Sistem Yayını' veya 'Yazılım Yayını' seçin."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "İki mod hakkında"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Sistem Yayını (ReplayKit ekran kaydı): Ekranı yakalamak için iOS sistem ekran kaydını kullanır ve uygulama arka planda olsa bile kesintisiz yayına devam eder. Diğer uygulamalara geçebilir ve yayını kesintiye uğratmadan herhangi bir ekran içeriğini yakalamaya devam edebilirsiniz.",
+                      "Yazılım Yayını (ön planda doğrudan yakalama): Uygulama ekranı doğrudan yakalar. iOS sistem kısıtlamaları nedeniyle uygulamanın ön planda kalması gerekir. Başka bir uygulamaya geçerseniz veya ana ekrana dönerseniz yayın anında durur."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Hesabımı nasıl silebilirim?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Lütfen VicastCam uygulamasına giriş yapın, ardından [Hesap - sağ üst simge - Hesap Yönetimi - Hesabı Sil - Silme Talebi Gönder] adımlarını izleyin."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Hesap bilgileri"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hesap silindikten sonra bağlı e-postanızı, cihaz kayıtlarınızı ve diğer kimlik bilgilerinizi kalıcı olarak sileceğiz ve Google ve Apple hesapları üzerinden üçüncü taraf giriş yetkilendirmenizi iptal edeceğiz. İptal sonrasında bu üçüncü taraf hesapları kullanarak bu uygulamaya hızlı giriş yapamazsınız. Uygulamayı tekrar kullanmak için yeniden yetkilendirme yapmanız ve hesabınızı bağlamanız gerekecektir."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "İçerik ve varlıklar"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tüm canlı yayın varlıkları, videolar, görseller ve proje dosyaları yalnızca cihazınızda saklanır. Platform bulutu hiçbir yaratıcı varlığı saklamaz. Silme işleminden sonra varlık yönetimi özelliği artık kullanılamaz. Lütfen varlıklarınızı önceden 'Varlık Dışa Aktarma' ile yedekleyin.",
+                      "Uygulamayı kaldırıp yeniden kurarsanız, cihaz değiştirirseniz veya önceden yedek almayı unutursanız varlıklarınız kalıcı olarak kaybolur."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Üyelik avantajları"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hesap silindikten sonra üyelik avantajlarınız anında sona erer. Abonelik hizmetleri Apple tarafından yönetildiğinden platform doğrudan geri ödeme işlemi yapamaz. Geri ödeme talebi için lütfen Apple'ın resmi kanallarından (App Store satın alma geçmişi) başvurun. Hesabınızı silmeden önce gelecekteki ücretleri önlemek için otomatik yenilemeyi manuel olarak iptal ettiğinizden emin olun."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sorularınız varsa lütfen müşteri desteğiyle iletişime geçin."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Varlık eklerken telefonumdaki fotoğraf ve videolara neden erişemiyorum?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Varlık eklerken fotoğraf kitaplığınız boş görünüyorsa iPhone'unuzun Ayarlar bölümüne gidin, VicastCam'i bulmak için aşağı kaydırın ve erişimi etkinleştirmek için [Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunun."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Bilgisayardan yayın yaparken ekran tam görünmüyorsa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Telefonunuzdan bir canlı yayın yardımcı uygulaması veya başka bir yazılım aracılığıyla yayın yaparken ekran tam görünmüyorsa, ayarlamak için şu adımları izleyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCam'i açın, canlı yayın sayfasına girmek için alttaki kamera simgesine dokunun, ardından [Sağ menü - Diğer Ayarlar - En Boy Oranı - 9:16] bölümüne gidin.",
+                      "Canlı yayın yardımcısına yansıttıktan sonra önce sığdırmak için ölçekleyin, ardından ekranı yukarı veya aşağı sürükleyerek tüm ekranı doldurun."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Not: Yayınınıza başlamadan önce önce en boy oranını ayarlayın, ardından içeriklerinizi ekleyin."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Ağ isteği başarısız olursa ne yapmalıyım?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ağ isteği hatalarıyla karşılaşırsanız şunları deneyin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Telefonunuzun Ayarlar bölümünü açın, [İzin Yönetimi - VicastCam - Hücresel Veri ve Wi-Fi] bölümüne giderek ağ erişimini etkinleştirin.",
+                      "Telefonunuzdaki güç tasarrufu modunu ve arka plan kısıtlamalarını kapatın.",
+                      "Ağ değiştirin, telefonunuzu yeniden başlatın, uçak modunu açıp kapatın veya uygulamayı en son sürüme güncelleyin.",
+                      "Sorun devam ederse, hatanın ekran görüntüsünü alın ve müşteri desteğine başvurun."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Canlı yayın sırasında ağ içerik katmanları neden titriyor veya siyah ekran oluyor?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Canlı yayın sırasında ağ içerikleri eklerken titreme veya siyah ekran sorunu yaşıyorsanız, şu şekilde çözebilirsiniz:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Yayında kullanmayı planladığınız içerikleri ve katmanları önceden indirip önizleyin. Yayına çıkmadan önce düzgün çalıştıklarından emin olun.",
+                      "Yazılımla birlikte gelen bazı içerikler sunucularda saklanır. Yayınınıza başlamadan önce bunları indirin, böylece yayın sırasında yeniden yüklemeden doğrudan kullanabilirsiniz.",
+                      "Yayın sırasında içerik yüklemek, yayın kaynaklarını, telefon belleğini ve performansı tüketir ve bu da gecikmeye neden olabilir. Düşük donanımlı telefonlarda çökme veya siyah ekran sorunlarına bile yol açabilir."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Önemli not"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Yayınınızı önceden planlayın ve prova yapın. Yayına çıkmadan önce her bölümün sorunsuz çalıştığından emin olmak için pratik yapın. Her yayına özen gösterin, yayınınız da size karşılığını verecektir."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

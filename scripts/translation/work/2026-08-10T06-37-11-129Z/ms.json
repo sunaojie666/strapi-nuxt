@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "ms",
+        "loginTitle1": "Tukar Latar Belakang Maya Anda dengan Satu Klik",
+        "loginTitle2": "Strim dengan Lebih Berimpak",
+        "loginDes1": "Alat penstriman langsung profesional dikuasakan AI",
+        "loginDes2": "Latar belakang maya, penambahbaikan langsung, dan penstriman berbilang platform dibuat mudah",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Penggantian latar belakang masa nyata",
+        "featureTitle2": "Penstriman Berbilang Platform",
+        "featureSubTitle2": "Siarkan langsung dengan satu sentuhan",
+        "featureTitle3": "Kamera Maya",
+        "featureSubTitle3": "Jadikan telefon anda webcam",
+        "loginBox": {
+          "loginPageTitle": "Log Masuk / Daftar",
+          "codeLoginTab": "Log Masuk dengan Kod",
+          "pwdLoginTab": "Log Masuk dengan Kata Laluan",
+          "qrLoginTab": "Log Masuk dengan Kod QR",
+          "emailInputPlaceholder": "Masukkan e-mel anda untuk log masuk",
+          "pwdInputPlaceholder": "Masukkan kata laluan anda",
+          "verifyCodePlaceholder": "Masukkan kod pengesahan",
+          "getVerifyCodeText": "Hantar Kod",
+          "loginBtnText": "Log Masuk",
+          "qrLoginTip": "Imbas dengan aplikasi VicastCam untuk log masuk",
+          "qrWaitingTip": "Menunggu pengesahan imbasan",
+          "agreeProtocolText": "Saya telah membaca dan bersetuju dengan Dasar Privasi dan Perjanjian Pengguna",
+          "userProtocolText": "Perjanjian Pengguna",
+          "privacyPolicyText": "Dasar Privasi",
+          "agreeProtocolPrefix": "Saya telah membaca dan bersetuju dengan"
+        },
+        "toastBox": {
+          "closeToastLabel": "Tutup pemberitahuan",
+          "requestLoading": "Sila tunggu",
+          "requestSuccess": "Permintaan berjaya",
+          "requestFail": "Permintaan gagal",
+          "passwordLoginNotReady": "Log masuk kata laluan belum tersedia",
+          "passwordRequired": "Sila masukkan kata laluan anda",
+          "emailRequired": "Sila masukkan e-mel anda untuk log masuk",
+          "verifyCodeRequired": "Sila masukkan kod pengesahan",
+          "agreeProtocolRequired": "Sila baca dan bersetuju dengan Dasar Privasi dan Perjanjian Pengguna terlebih dahulu",
+          "qrcodeExpired": "Kod QR telah tamat tempoh. Sila dapatkan kod baharu."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "ms",
+        "hero_section": {
+          "tag": "Alat penstriman langsung dikuasakan AI",
+          "title_main": "Kesan skrin hijau dan perkongsian skrin dari telefon anda",
+          "title_highlight": "Memperkasakan penstriman langsung di seluruh dunia",
+          "description": "VicastCam menggunakan AI matting canggih untuk membolehkan anda menukar latar belakang maya pada bila-bila masa semasa strim, menambah kesan imersif dan penampilan profesional pada siaran langsung anda.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Muat Turun"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Muat Turun"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam menyediakan pencipta dengan latar belakang maya, penambahbaikan langsung, dan alat merentas platform."
+          },
+          "columns": [
+            {
+              "title": "Produk",
+              "links": [
+                {
+                  "text": "Ciri"
+                },
+                {
+                  "text": "Harga"
+                },
+                {
+                  "text": "Muat Turun"
+                }
+              ]
+            },
+            {
+              "title": "Pembangun",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Dokumentasi API"
+                }
+              ]
+            },
+            {
+              "title": "Syarikat",
+              "links": [
+                {
+                  "text": "Tentang Kami"
+                },
+                {
+                  "text": "Dasar Privasi"
+                },
+                {
+                  "text": "Perjanjian Pengguna"
+                },
+                {
+                  "text": "Perjanjian Keahlian"
+                }
+              ]
+            },
+            {
+              "title": "Sokongan",
+              "links": [
+                {
+                  "text": "Tutorial Video"
+                },
+                {
+                  "text": "Soalan Lazim"
+                },
+                {
+                  "text": "Hubungi Kami"
+                }
+              ]
+            },
+            {
+              "title": "Rakan Kongsi",
+              "links": [
+                {
+                  "text": "Jadi Pengedar"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Pertanyaan Perniagaan"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Ciri",
+      "nav_pricing": "Harga",
+      "nav_faq": "Soalan Lazim",
+      "nav_auth": "Log Masuk / Daftar",
+      "nav_team": "Rakan Kongsi"
+    }
+  ]
+}

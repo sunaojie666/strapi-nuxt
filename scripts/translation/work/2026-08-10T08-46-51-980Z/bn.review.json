@@ -1,0 +1,494 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.teams[0].data.hero.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'গ্লোবাল' instead of 'গ্লোবাল' for consistency with the rest of the document."
+    },
+    {
+      "path": "$.teams[0].data.hero.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ইউনিফাইড ইউএসডি সেটেলমেন্ট' to 'ইউনিফাইড ইউএসডি সেটেলমেন্ট' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'স্থিতিশীল রূপান্তর' to 'স্থিতিশীল রূপান্তর' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'তাৎক্ষণিক' to 'তাৎক্ষণিক' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[2].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'AI ইফেক্ট' to 'AI ইফেক্ট' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'দীর্ঘমেয়াদী' to 'দীর্ঘমেয়াদী' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ইউনিফাইড ইউএসডি সেটেলমেন্ট' to 'ইউনিফাইড ইউএসডি সেটেলমেন্ট' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[1]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'তাৎক্ষণিক' to 'তাৎক্ষণিক' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[2]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'দীর্ঘমেয়াদী' to 'দীর্ঘমেয়াদী' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.support.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ম্যাটেরিয়াল' to 'ম্যাটেরিয়াল' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.support.items[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'তাৎক্ষণিকভাবে' to 'তাৎক্ষণিকভাবে' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.support.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'বিদেশি' to 'বিদেশি' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.support.items[3].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'অগ্রিম' to 'অগ্রিম' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.plans.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'টেকনোলজি' to 'টেকনোলজি' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ক্রস-বর্ডার' to 'ক্রস-বর্ডার' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কাস্টমাইজ করুন' to 'কাস্টমাইজ করুন' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[2].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'এন্টারপ্রাইজ' to 'এন্টারপ্রাইজ' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কার্যদিবসের' to 'কার্যদিবসের' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'যোগাযোগের নাম' to 'যোগাযোগের নাম' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[1].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কোম্পানির নাম' to 'কোম্পানির নাম' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[2].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ইমেইল' to 'ইমেইল' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[3].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'WhatsApp/ফোন' to 'WhatsApp/ফোন' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[4].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ব্যবসার ধরন' to 'ব্যবসার ধরন' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[5].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'প্রাথমিক অঞ্চল' to 'প্রাথমিক অঞ্চল' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[6].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'পদ' to 'পদ' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[7].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'আনুমানিক ত্রৈমাসিক ক্রয় বাজেট' to 'আনুমানিক ত্রৈমাসিক ক্রয় বাজেট' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'দেশ' to 'দেশ' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[9].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কোম্পানির ওয়েবসাইট' to 'কোম্পানির ওয়েবসাইট' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.intentLabel",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'অংশীদারিত্বের উদ্দেশ্য' to 'অংশীদারিত্বের উদ্দেশ্য' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.note",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'বাধ্যতামূলক' to 'বাধ্যতামূলক' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.application.submitLabel",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'অংশীদারিত্বের তথ্য জমা দিন' to 'অংশীদারিত্বের তথ্য জমা দিন' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'তাৎক্ষণিক' to 'তাৎক্ষণিক' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ব্যবসায়িক ইমেইল' to 'ব্যবসায়িক ইমেইল' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[1].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'হংকং হটলাইন' to 'হংকং হটলাইন' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[2].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কাজের সময়' to 'কাজের সময়' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.note",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'জরুরি' to 'জরুরি' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.qr.label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'WhatsApp-এ' to 'WhatsApp-এ' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.contact.qr.alt",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam ব্যবসায়িক যোগাযোগ QR কোড' to 'VicastCam ব্যবসায়িক যোগাযোগ QR কোড' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.seo.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam ব্যবসায়িক অংশীদারিত্ব' to 'VicastCam ব্যবসায়িক অংশীদারিত্ব' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.seo.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'গ্লোবাল' to 'গ্লোবাল' (remove the extra space) for correct spelling."
+    },
+    {
+      "path": "$.teams[0].data.seo.imageAlt",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam গ্লোবাল পার্টনার প্রোগ্রাম' to 'VicastCam গ্লোবাল পার্টনার প্রোগ্রাম' (remove the extra space) for correct spelling."
+    }
+  ],
+  "revisedContent": {
+    "teams": [
+      {
+        "data": {
+          "locale": "bn",
+          "slug": "team",
+          "pageName": "ব্যবসায়িক অংশীদারিত্ব",
+          "hero": {
+            "eyebrow": "ব্যবসায়িক অংশীদারিত্ব",
+            "title": "VicastCam গ্লোবাল এজেন্সি পার্টনারশিপ প্রোগ্রাম",
+            "highlight": "আমাদের সাথে যোগ দিন",
+            "description": "একটি পেশাদার ভার্চুয়াল ক্যামেরা লাইভ স্ট্রিমিং টুল, বিশ্বব্যাপী চ্যানেল অংশীদারদের জন্য উন্মুক্ত। ইউনিফাইড ইউএসডি সেটেলমেন্ট, আঞ্চলিক এক্সক্লুসিভিটি এবং সম্পূর্ণ ফানেল মার্কেটিং সাপোর্ট।",
+            "actions": {
+              "primary": "এখনই আবেদন করুন",
+              "secondary": "আরও জানুন"
+            }
+          },
+          "advantages": {
+            "eyebrow": "কেন অংশীদার হবেন",
+            "titlePrefix": "কেন",
+            "titleHighlight": "আমাদের সাথে অংশীদার হবেন",
+            "description": "বিক্রি করা সহজ, ঝুঁকি কম, এবং মার্জিন বেশি—VicastCam এই তিনটিই নিশ্চিত করে।",
+            "items": [
+              {
+                "title": "বিশাল ক্রিয়েটর মার্কেট",
+                "description": "লাইভ স্ট্রিমিং, ই-কমার্স, শর্ট ভিডিও এবং কনটেন্ট ক্রিয়েশন কভার করে, বিশ্বব্যাপী ক্রিয়েটরদের চাহিদা ক্রমাগত বাড়ছে, যা একটি বড় বাজার এবং স্থিতিশীল রূপান্তর নিশ্চিত করে।",
+                "image": "/images/team/advantage-creators-bg.png"
+              },
+              {
+                "title": "শূন্য ইনভেন্টরি, অনলাইন ডেলিভারি",
+                "description": "খাঁটি সফটওয়্যার লাইসেন্সিং, অ্যাক্টিভেশন কোডের তাৎক্ষণিক ক্লাউড ডেলিভারি। কোনো স্টক নেই, কোনো লজিস্টিক নেই, খরচ কম, ব্যাচ ডেলিভারি এবং দ্রুত অ্যাক্টিভেশন সমর্থন করে।",
+                "image": "/images/team/advantage-inventory-bg.png"
+              },
+              {
+                "title": "সম্পূর্ণ ফিচার-সমৃদ্ধ প্রতিযোগিতামূলক সুবিধা",
+                "description": "গ্রিন স্ক্রিন ম্যাটিং, ভার্চুয়াল ব্যাকগ্রাউন্ড, মাল্টি-প্ল্যাটফর্ম স্ট্রিমিং এবং AI ইফেক্ট—সব এক জায়গায়। সম্পূর্ণ ফিচার যা প্রদর্শন, বিক্রি এবং রিনিউ করা সহজ।",
+                "image": "/images/team/advantage-competition-bg.png"
+              }
+            ]
+          },
+          "rules": {
+            "eyebrow": "অংশীদারিত্বের নিয়ম",
+            "titlePrefix": "যোগ্যতা",
+            "titleHighlight": "এবং সেটেলমেন্ট",
+            "description": "প্রতিটি অংশীদারের মানসিক শান্তির জন্য স্বচ্ছ, ন্যায্য এবং অনুমানযোগ্য এজেন্সি নীতি।",
+            "agentLevelTitle": "এজেন্ট লেভেল",
+            "agentLevels": [
+              {
+                "title": "স্ট্যান্ডার্ড এজেন্ট",
+                "description": "প্রাথমিক অর্ডার $30,000 USD দীর্ঘমেয়াদী বিতরণ অধিকার, স্তরভিত্তিক ডিসকাউন্ট এবং স্ট্যান্ডার্ড চ্যানেল সাপোর্ট প্রদান করে।",
+                "icon": "/images/team/rule-standard-agent-icon.png"
+              },
+              {
+                "title": "আঞ্চলিক এক্সক্লুসিভ এজেন্ট",
+                "description": "ত্রৈমাসিক ক্রয় লক্ষ্যমাত্রা পূরণ করে একটি একক অঞ্চলের জন্য এক্সক্লুসিভ বিতরণ অধিকার অর্জন করুন, সেই এলাকায় অন্য কোনো চ্যানেল অনুমোদিত থাকবে না।",
+                "icon": "/images/team/rule-exclusive-agent-icon.png"
+              }
+            ],
+            "settlementTitle": "সাপ্লাই এবং সেটেলমেন্ট",
+            "settlementRules": [
+              "ইউনিফাইড ইউএসডি সেটেলমেন্ট, HSBC হংকং কর্পোরেট অ্যাকাউন্টের মাধ্যমে পেমেন্ট সমর্থন করে",
+              "ব্যাচ অ্যাক্টিভেশন কোড ক্লাউডের মাধ্যমে তাৎক্ষণিক ডেলিভারি, দ্রুত গ্রাহক ডেলিভারির জন্য",
+              "দীর্ঘমেয়াদী অংশীদাররা স্তরভিত্তিক মূল্য উপভোগ করেন; উচ্চ ক্রয় ভলিউম ইউনিট খরচ কমায়"
+            ]
+          },
+          "support": {
+            "eyebrow": "চ্যানেল সাপোর্ট",
+            "titlePrefix": "চারটি স্তম্ভ",
+            "titleHighlight": "সাপোর্টের",
+            "description": "ম্যাটেরিয়াল এবং টেকনিক্যাল সাপোর্ট থেকে ব্র্যান্ড অথরাইজেশন এবং নতুন ফিচারে অগ্রিম অ্যাক্সেস—আমরা সম্পূর্ণ ফানেল সাপোর্ট প্রদান করি।",
+            "items": [
+              {
+                "title": "সম্পূর্ণ মার্কেটিং ম্যাটেরিয়াল",
+                "description": "ওয়েবসাইট ব্যানার, শর্ট ভিডিও, Reddit/Facebook বিজ্ঞাপন কপি এবং প্রোডাক্ট রিভিউ ম্যাটেরিয়াল তাৎক্ষণিকভাবে অ্যাক্সেস করুন।",
+                "image": "/images/team/support-marketing-materials-bg.png"
+              },
+              {
+                "title": "নিবেদিত ইংরেজি টেকনিক্যাল সাপোর্ট",
+                "description": "SDK ডিবাগিং, লাইভ স্ট্রিমিং ফিচারের আফটার-সেলস এবং গ্রাহক সমস্যা সমাধানের জন্য বিদেশি টেকনিক্যাল বিশেষজ্ঞ।",
+                "image": "/images/team/support-technical-service-bg.png"
+              },
+              {
+                "title": "অফিসিয়াল ব্র্যান্ড অথরাইজেশন",
+                "description": "আঞ্চলিক অনলাইন এবং অফলাইন প্রচারের জন্য VicastCam ট্রেডমার্ক এবং প্রোডাক্ট ইমেজ ব্যবহার করুন।",
+                "image": "/images/team/support-brand-authorization-bg.png"
+              },
+              {
+                "title": "প্রায়োরিটি বিটা অ্যাক্সেস",
+                "description": "এজেন্টরা সব AI ইফেক্ট, স্ট্রিমিং আপডেট এবং নতুন ফিচার পরীক্ষা ও বিক্রি করার জন্য অগ্রিম অ্যাক্সেস পান।",
+                "image": "/images/team/support-priority-beta-bg.png"
+              }
+            ]
+          },
+          "plans": {
+            "eyebrow": "অংশীদারিত্ব মডেল",
+            "titlePrefix": "নমনীয়",
+            "titleHighlight": "অংশীদারিত্ব মডেল",
+            "description": "আপনি চ্যানেল, টেকনোলজি ভেন্ডর বা এন্টারপ্রাইজ সার্ভিস প্রোভাইডার যাই হোন না কেন, আমাদের কাছে আপনার জন্য উপযুক্ত একটি মডেল আছে।",
+            "items": [
+              {
+                "title": "চ্যানেল এজেন্সি (প্রস্তাবিত)",
+                "description": "ক্রস-বর্ডার সফটওয়্যার স্টোর, লাইভ স্ট্রিমিং ইকুইপমেন্ট শপ, বিদেশি MCN এবং ক্রস-বর্ডার ই-কমার্স টিমের জন্য স্কেলে সফটওয়্যার লাইসেন্স বিতরণ করতে।",
+                "image": "/images/team/plan-channel-agent-bg.png"
+              },
+              {
+                "title": "OEM হোয়াইট-লেবেল SDK",
+                "description": "VicastCam ব্র্যান্ডিং সম্পূর্ণ সরান, লোগো, সফটওয়্যার নাম এবং UI কাস্টমাইজ করুন এবং আপনার নিজস্ব ব্র্যান্ডে বিক্রি করুন।",
+                "image": "/images/team/plan-oem-sdk-bg.png"
+              },
+              {
+                "title": "এন্টারপ্রাইজ কাস্টমাইজেশন",
+                "description": "লাইভ স্ট্রিমিং সার্ভিস প্রোভাইডার, শিক্ষা প্রতিষ্ঠান এবং সরকার/এন্টারপ্রাইজ মিটিং প্রকল্পের জন্য, কাস্টম ফিচার এবং প্রাইভেট ডিপ্লয়মেন্ট অপশন সহ।",
+                "image": "/images/team/plan-enterprise-custom-bg.png"
+              }
+            ]
+          },
+          "application": {
+            "eyebrow": "আবেদন",
+            "titlePrefix": "ফর্ম পূরণ করুন",
+            "titleHighlight": "অনলাইনে আবেদন করতে",
+            "description": "নিচের তথ্য পূরণ করুন, আমরা ১-৩ কার্যদিবসের মধ্যে যোগাযোগ করব।",
+            "fields": [
+              {
+                "name": "contactName",
+                "label": "যোগাযোগের নাম",
+                "placeholder": "আপনার নাম লিখুন"
+              },
+              {
+                "name": "companyName",
+                "label": "কোম্পানির নাম",
+                "placeholder": "আপনার কোম্পানির নাম লিখুন"
+              },
+              {
+                "name": "email",
+                "label": "ইমেইল",
+                "placeholder": "আপনার ইমেইল লিখুন"
+              },
+              {
+                "name": "phone",
+                "label": "WhatsApp/ফোন",
+                "placeholder": "+852 XXXXXXXX"
+              },
+              {
+                "name": "businessType",
+                "label": "ব্যবসার ধরন",
+                "placeholder": "ব্যবসার ধরন নির্বাচন করুন",
+                "options": [
+                  "চ্যানেল এজেন্সি",
+                  "OEM হোয়াইট-লেবেল SDK",
+                  "এন্টারপ্রাইজ কাস্টমাইজেশন",
+                  "অন্যান্য"
+                ]
+              },
+              {
+                "name": "region",
+                "label": "প্রাথমিক অঞ্চল",
+                "placeholder": "যেমন: উত্তর আমেরিকা/ইউরোপ/দক্ষিণ-পূর্ব এশিয়া"
+              },
+              {
+                "name": "position",
+                "label": "পদ",
+                "placeholder": "আপনার পদ লিখুন"
+              },
+              {
+                "name": "budget",
+                "label": "আনুমানিক ত্রৈমাসিক ক্রয় বাজেট",
+                "placeholder": "আপনার বাজেট লিখুন"
+              },
+              {
+                "name": "country",
+                "label": "দেশ",
+                "placeholder": "দেশ/অঞ্চল নির্বাচন করুন",
+                "options": [
+                  "চীন",
+                  "মার্কিন যুক্তরাষ্ট্র",
+                  "ইন্দোনেশিয়া",
+                  "মালয়েশিয়া",
+                  "থাইল্যান্ড",
+                  "ভিয়েতনাম",
+                  "ফিলিপাইন",
+                  "স্পেন",
+                  "পর্তুগাল",
+                  "সৌদি আরব",
+                  "জাপান",
+                  "তুরস্ক",
+                  "ইতালি",
+                  "জার্মানি",
+                  "ফ্রান্স",
+                  "দক্ষিণ কোরিয়া",
+                  "রাশিয়া",
+                  "পোল্যান্ড",
+                  "নেদারল্যান্ডস",
+                  "ভারত",
+                  "পাকিস্তান",
+                  "বাংলাদেশ",
+                  "ইরান",
+                  "অন্যান্য"
+                ]
+              },
+              {
+                "name": "website",
+                "label": "কোম্পানির ওয়েবসাইট",
+                "placeholder": "https://xxxxxxxx.com"
+              }
+            ],
+            "intentLabel": "অংশীদারিত্বের উদ্দেশ্য",
+            "intentPlaceholder": "আপনার ব্যবসায়িক মডেল, টার্গেট মার্কেট এবং পছন্দসই অংশীদারিত্ব পদ্ধতি সংক্ষেপে বর্ণনা করুন...",
+            "note": "*বাধ্যতামূলক ক্ষেত্র। আপনার তথ্য গোপন রাখা হয় এবং শুধুমাত্র অংশীদারিত্ব যোগাযোগের জন্য ব্যবহৃত হয়।",
+            "submitLabel": "অংশীদারিত্বের তথ্য জমা দিন"
+          },
+          "contact": {
+            "title": "তাৎক্ষণিক ব্যবসায়িক যোগাযোগ",
+            "items": [
+              {
+                "label": "ব্যবসায়িক ইমেইল",
+                "value": "business@vicastcam.com"
+              },
+              {
+                "label": "হংকং হটলাইন",
+                "value": "+852 46405342"
+              },
+              {
+                "label": "কাজের সময়",
+                "value": "GMT+8, সোমবার থেকে শুক্রবার, ৯:০০-১৮:০০"
+              }
+            ],
+            "note": "জরুরি ব্যবসায়িক প্রয়োজনে, WhatsApp বা ইমেইলের মাধ্যমে সরাসরি আমাদের সাথে যোগাযোগ করুন।",
+            "qr": {
+              "label": "WhatsApp-এ আমাদের সাথে যোগাযোগ করতে স্ক্যান করুন",
+              "alt": "VicastCam ব্যবসায়িক যোগাযোগ QR কোড"
+            }
+          },
+          "seo": {
+            "title": "VicastCam ব্যবসায়িক অংশীদারিত্ব",
+            "description": "চ্যানেল এজেন্সি, OEM হোয়াইট-লেবেল SDK এবং এন্টারপ্রাইজ কাস্টমাইজেশন সাপোর্টের জন্য VicastCam গ্লোবাল পার্টনার প্রোগ্রামে যোগ দিন।",
+            "image": "/images/team/partner-plan-hero-bg.png",
+            "imageAlt": "VicastCam গ্লোবাল পার্টনার প্রোগ্রাম"
+          }
+        }
+      }
+    ]
+  }
+}

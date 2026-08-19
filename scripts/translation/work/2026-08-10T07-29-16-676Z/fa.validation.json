@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "locale": "fa",
+  "contentType": "marketing",
+  "sourceHash": "56239390aa061047d36d4691702a4a04c7a1727b7342f63a50ce1bad72ed6051",
+  "translationHash": "7227056fb31387ebe287ab54b63d0473517e31a9c3afe69d9bb6f83ec5452aad",
+  "status": "rejected",
+  "requiresHumanReview": true,
+  "issues": [
+    {
+      "path": "$",
+      "code": "protected-value-missing",
+      "severity": "error",
+      "message": "Missing protected value: $30,000"
+    }
+  ],
+  "checkedAt": "2026-08-10T08:15:11.240Z"
+}

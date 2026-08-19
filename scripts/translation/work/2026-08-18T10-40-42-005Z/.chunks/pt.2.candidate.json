@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Primeiros Passos",
+      "count": "11 lições",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Criar o Seu Primeiro Estúdio Virtual",
+          "description": "Configure e personalize o seu primeiro estúdio virtual a partir do zero.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Compreender as Ferramentas de Imagem",
+          "description": "Explore os fundamentos das ferramentas de imagem e os seus casos de uso comuns.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Trabalhar com Camadas",
+          "description": "Conheça o painel Camadas e como gerir camadas de forma eficaz.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Utilizar Camadas de Fundo",
+          "description": "Aprenda a adicionar e ajustar camadas de fundo para a sua cena.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Utilizar Camadas de Retrato",
+          "description": "Adicione camadas de retrato para melhorar a sua produção ao vivo.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Utilizar Camadas de Imagem",
+          "description": "Adicione e edite camadas de imagem na configuração do seu estúdio.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Utilizar Camadas de Vídeo",
+          "description": "Adicione clipes de vídeo e controle as definições de reprodução.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Utilizar Camadas de Efeitos",
+          "description": "Aplique efeitos visuais à sua transmissão ao vivo com camadas de efeitos.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Utilizar Camadas de Legendas",
+          "description": "Crie legendas e personalize a sua aparência.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Utilizar Avatares Virtuais",
+          "description": "Dê vida à sua transmissão com a integração de avatares virtuais.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Utilizar Cenas",
+          "description": "Alterne entre diferentes layouts de cena sem interrupções durante a transmissão.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Tutoriais Avançados",
+      "count": "6 lições",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Utilizar Camadas de Movimento de Câmara",
+          "description": "Crie planos dinâmicos com camadas de movimento de câmara.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Utilizar Animação de Trajetória",
+          "description": "Controle os trajetos de movimento dos elementos com a funcionalidade de trajetória.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Utilizar Camadas Multi-Câmara",
+          "description": "Configure camadas multi-câmara para alternar rapidamente entre ângulos.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Utilizar o Controlador",
+          "description": "Gira toda a sua transmissão a partir de um único painel de controlo.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Configuração e Mistura de Áudio",
+          "description": "Configure entradas, saídas e definições de mistura de áudio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Cópia de Segurança e Restauro",
+          "description": "Faça uma cópia de segurança da configuração do seu estúdio e restaure-a quando necessário.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

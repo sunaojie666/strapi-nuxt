@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Pusat Akaun",
+    "description": "Halaman Pusat Akaun VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Navigasi akaun",
+    "defaultProfileName": "Pengguna",
+    "emptyContent": "Tiada kandungan",
+    "copyButtonLabel": "Salin",
+    "monthSelectLabel": "Pilih bulan",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Maklumat pengguna tidak dijumpai. Sila log masuk semula.",
+    "paginationLabel": "Penomboran halaman",
+    "previousPageLabel": "Halaman sebelumnya",
+    "nextPageLabel": "Halaman seterusnya",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Pergi ke",
+      "unit": "halaman",
+      "ariaLabel": "Pergi ke halaman tertentu",
+      "buttonLabel": "Pergi"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Pusat Akaun",
+    "logout": "Log keluar",
+    "profileAriaSuffix": "Menu akaun"
+  },
+  "sidebar": {
+    "ariaLabel": "Navigasi akaun",
+    "menus": {
+      "account": "Maklumat Akaun",
+      "membership": "Keahlian",
+      "redeem": "Tebus Kod",
+      "purchaseHistory": "Sejarah Pembelian",
+      "team": "Pasukan Saya",
+      "earnings": "Pendapatan"
+    }
+  },
+  "account": {
+    "ariaLabel": "Maklumat Akaun",
+    "profileTitle": "Maklumat Akaun",
+    "usernameLabel": "Nama Pengguna",
+    "passwordLabel": "Kata Laluan",
+    "passwordMask": "********",
+    "defaultUsername": "Tiada nama panggilan ditetapkan",
+    "emailLabel": "E-mel Dipautkan",
+    "emailPlaceholder": "Masukkan e-mel anda",
+    "codePlaceholder": "Masukkan kod pengesahan",
+    "sendCodeButton": "Dapatkan Kod",
+    "bindButton": "Pautkan E-mel",
+    "alreadyBound": "Dipautkan",
+    "unboundEmail": "Belum dipautkan",
+    "emailBindTip": "Setelah dipautkan, e-mel tidak boleh ditukar. Sila sahkan alamat e-mel adalah betul.",
+    "emailRequired": "Sila masukkan e-mel yang sah",
+    "codeRequired": "Sila masukkan kod pengesahan",
+    "codeSent": "Kod pengesahan telah dihantar. Semak e-mel anda.",
+    "bindSuccess": "E-mel berjaya dipautkan",
+    "bindFailed": "Gagal memautkan e-mel. Semak kod dan cuba lagi.",
+    "requestFailed": "Permintaan gagal. Sila cuba lagi kemudian.",
+    "inviteTitle": "Pautan Jemputan",
+    "inviteDescription": "Salin pautan jemputan peribadi anda. Apabila rakan mendaftar dan membeli keahlian, anda akan menerima ganjaran.",
+    "emptyInviteLink": "Tiada pautan jemputan tersedia"
+  }
+}

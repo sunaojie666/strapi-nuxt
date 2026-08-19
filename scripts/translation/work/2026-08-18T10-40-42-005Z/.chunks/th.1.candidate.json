@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "ศูนย์บทเรียน",
+    "titleMain": "เริ่มต้นเส้นทาง",
+    "titleHighlight": "การเรียนรู้ VicastCam",
+    "descriptionMain": "เรียนรู้ทุกฟีเจอร์ของซอฟต์แวร์",
+    "descriptionHighlight": "เริ่มใช้งานได้อย่างรวดเร็ว"
+  },
+  "player": {
+    "sectionAriaLabel": "รายการบทเรียน",
+    "catalogAriaLabel": "สารบัญบทเรียน",
+    "previousLabel": "ก่อนหน้า",
+    "nextLabel": "ถัดไป",
+    "firstLessonText": "คุณอยู่ที่บทเรียนแรก",
+    "lastLessonText": "คุณอยู่ที่บทเรียนสุดท้าย",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

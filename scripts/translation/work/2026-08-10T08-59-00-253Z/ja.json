@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "新しいライブルームの作成方法",
+      "tag_1": "モバイル",
+      "tag_2": "初心者向けチュートリアル"
+    },
+    {
+      "title": "VicastCamのマットモードを理解する",
+      "tag_1": "モバイル",
+      "tag_2": "機能チュートリアル"
+    },
+    {
+      "title": "VicastCamのレイヤー機能の使い方",
+      "tag_1": "モバイル",
+      "tag_2": "コア機能"
+    },
+    {
+      "title": "デスクトップ版VicastCamを始めよう",
+      "tag_1": "デスクトップ",
+      "tag_2": "初心者向けチュートリアル"
+    },
+    {
+      "title": "iPhoneをVicastCamにワイヤレス接続する方法",
+      "tag_1": "iOS",
+      "tag_2": "接続チュートリアル"
+    },
+    {
+      "title": "ローカルメディアの追加と使用方法",
+      "tag_1": "デスクトップ",
+      "tag_2": "使い方チュートリアル"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "グローバルコミュニティ",
+        "title_main": "どこでも使えるライブ配信",
+        "title_highlight": "150以上の国で配信者に信頼されています",
+        "desc": "150以上の国と地域で、数多くの配信者が初心者からプロのライブコンテンツクリエイターへと成長するのを支援してきました。",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "対応国"
+          },
+          {
+            "number": "2000+",
+            "name": "アクティブ配信者"
+          },
+          {
+            "number": "5000+",
+            "name": "人気上昇"
+          },
+          {
+            "number": "99.9%",
+            "name": "安定性"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "ja",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "ご質問は？",
+          "title_highlight": "解決策をご用意しています。",
+          "description": "VicastCamに関するよくある質問の回答をご覧ください。お探しの情報がない場合は、サポートチームにお問い合わせください。",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "VicastCamで配信できるプラットフォームは？",
+              "answer": "VicastCamは、YouTube、Twitch、TikTok、Facebook Live、Instagramなどの主要プラットフォームへの配信に対応しています。"
+            },
+            {
+              "id": "q2",
+              "question": "VicastCamの背景除去にはグリーンバックが必要ですか？",
+              "answer": "いいえ。VicastCamはAIによる背景除去機能を搭載しているため、グリーンバックなしでリアルタイムに背景を変更できます。"
+            },
+            {
+              "id": "q3",
+              "question": "スマートフォンでVicastCamを使用できますか？",
+              "answer": "はい。VicastCamはiOSとAndroidに対応しており、プロフェッショナルな機能はすべてモバイルでも利用できます。"
+            },
+            {
+              "id": "q4",
+              "question": "VicastCamの信頼性はどのくらいですか？",
+              "answer": "VicastCamは99.9%の安定性を提供し、世界中の配信者を24時間365日途切れることのない配信でサポートします。"
+            },
+            {
+              "id": "q5",
+              "question": "VicastCamはマルチカメラ配信に対応していますか？",
+              "answer": "はい。ライブ配信中に複数のカメラをシームレスに切り替えて、プロフェッショナルな映像制作を実現できます。"
+            }
+          ],
+          "view_more": {
+            "text": "もっと見る"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Android & iOS ヘルプ",
+          "description": "AndroidおよびiOS向けVicastCamのよくある質問への回答をご覧いただけます。アカウント設定、メディア権限、ネットワーク接続、ライブ配信の表示問題など。",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCamヘルプ",
+          "titleHighlight": "すぐに解決策を見つける",
+          "description": "AndroidまたはiOSのチュートリアルを選択して、お使いのデバイスでよくある問題と解決策を確認してください。"
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "質問カテゴリ",
+          "answerLabel": "回答",
+          "questionProgressTemplate": "{group} · 質問 {current} / {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Androidチュートリアル",
+            "count": "8件の質問",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "ライブ配信におすすめのメディアサイズは？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ライブ配信におすすめのメディアサイズは以下の通りです。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "ライブ配信の背景には、画像は1080×1920ピクセル、動画は1080×1920ピクセルを推奨します。",
+                      "重要: 全画面オーバーレイは9:16のアスペクト比を使用してください。全画面モードと9:16モードを切り替える際に、完全に整列するようにするためです。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "アカウントを削除するにはどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "VicastCamアプリにログインし、[アカウント - 右上のアイコン - アカウント管理 - アカウント削除 - 削除リクエストを送信] の順に進みます。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "アカウント情報"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "アカウントが削除されると、関連付けられたメールアドレス、デバイス記録、その他の個人情報は完全に削除されます。また、GoogleおよびAppleによるサードパーティログインの認可も取り消されます。取り消し後、これらのサードパーティアカウントを使用したクイックログインはできなくなります。再度使用する場合は、再認可が必要です。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "コンテンツとメディア"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "すべてのライブ配信メディア、動画、画像、プロジェクトファイルは、お使いのデバイスにのみ保存されます。プラットフォームはクリエイティブコンテンツをクラウドに保持しません。削除後、アプリのメディア管理機能は使用できなくなりますので、事前に「メディアを書き出す」機能を使用してコンテンツをバックアップしてください。",
+                      "バックアップを書き出さずにアプリをアンインストールして再インストールしたり、デバイスを変更したりすると、メディアは完全に復元できなくなります。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "メンバーシップ特典"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "メンバーシップ特典はアカウント削除と同時に終了します。Google Playの定期購入が有効な場合、アプリのアカウントを削除しても自動的に解約されず、引き続き請求される可能性があります。Google Playの「お支払いと定期購入 - 定期購入」から手動で解約してください。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "ご不明な点がある場合は、サポートチームにお問い合わせください。"
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "画像や動画を追加する際に、スマートフォンのメディアにアクセスできないのはなぜですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "メディアを追加する際にフォトライブラリが空に見える場合は、次のように写真へのアクセスを許可してください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: スマートフォンの設定を開き、下にスクロールしてVicastCamを見つけ、[写真 - すべての写真] をタップしてアクセスを許可します。",
+                      "Android: スマートフォンの設定を開き、「権限」または「アプリ管理」でVicastCamを見つけ、[権限 - 写真 - すべての写真] をタップしてアクセスを許可します。",
+                      "問題が解決しない場合は、アプリを再インストールするか、フィードバック機能からオンラインサポートにお問い合わせください。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "パソコンから配信する際に画面が切れて表示される場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "スマートフォンから配信アプリや他のソフトウェアを介して配信する際に、表示が不完全な場合は、次の手順に従ってください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCamを開き、下部のカメラアイコンをタップしてライブページに入り、[右側メニュー - その他の設定 - アスペクト比 - 9:16] の順に進みます。",
+                      "配信アプリにキャストした後、まずフィットするようにスケールし、次に画像を上下にドラッグして画面を埋めます。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注: アスペクト比は、メディアを追加する前と配信を開始する前に調整してください。"
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "ネットワークリクエストが失敗する場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ネットワークリクエストの失敗が発生した場合は、次のことを試してください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "スマートフォンの設定を開き、[権限 - VicastCam - モバイルデータとWi-Fi] に移動して、ネットワークアクセスをオンにします。",
+                      "省電力モードとバックグラウンド制限をオフにします。",
+                      "ネットワークを切り替え、スマートフォンを再起動し、機内モードを切り替えるか、アプリを更新します。",
+                      "問題が解決しない場合は、エラーのスクリーンショットを撮ってサポートチームにお問い合わせください。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "ライブ配信中にオンラインメディアのオーバーレイがちらついたり、黒くなったりするのはなぜですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ライブ配信中にオンラインメディアのオーバーレイがちらついたり、黒くなったりする場合は、次のことができます。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "配信前に、使用予定のメディアやオーバーレイをダウンロードしてプレビューし、正常に動作することを確認してください。",
+                      "一部の内蔵メディアはサーバーに保存されています。配信前にダウンロードして、配信中に読み込むことなく使用できるようにしてください。",
+                      "配信中にメディアを読み込むと、配信リソース、メモリ、パフォーマンスを消費し、遅延を引き起こす可能性があります。低スペックのデバイスでは、クラッシュや黒い画面が発生することもあります。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "事前に配信を計画し、リハーサルを行ってください。各セグメントを練習して、配信前にすべてがスムーズに動作することを確認してください。"
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "キーボードの一部のキーが隠れてしまう場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "仮想キーボードの一部のキーが隠れてしまう場合は、次のことを試してください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "古い16:9のスマートフォンを使用していて一部のキーが隠れている場合は、キーボードの左上にある2番目のボタンをタップして全画面モードを有効にします。",
+                      "キーボードのレイアウトがずれている場合は、スマートフォンの設定でフォントサイズを標準に設定します。",
+                      "一部のスマートフォンでは「シニアモード」が有効になっている場合があります。オフにするとキーボードが正常に戻ります。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "表示の問題は通常、フォントサイズが大きすぎるか、テーマのスケールが大きいことが原因です。これらを標準にリセットすると問題が解決するはずです。"
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Huaweiスマートフォンでマルチカメラや仮想キーボードが頻繁に切断される場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Huaweiスマートフォンでマルチカメラや仮想キーボードの切断が発生する場合は、次の手順に従ってください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "スマートフォンの設定を開きます。",
+                      "上部の検索バーに「アプリ起動管理」と入力します。",
+                      "アプリ起動管理ページに移動し、下にスクロールしてVicastCamを見つけます。",
+                      "右側のトグルをオフにし（アイコンがグレーになります）、ポップアップで3つのオプションをすべて有効にします（青くなります）。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "ビデオチュートリアル「Huaweiスマートフォンでマルチカメラと仮想キーボードの切断を防ぐ方法」も参照できます。"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOSチュートリアル",
+            "count": "6件の質問",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "ライブ配信におすすめのメディアサイズは？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ライブ配信におすすめのメディアサイズは以下の通りです。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "ライブ配信の背景には、画像は1080×1920ピクセル、動画は1080×1920ピクセルを推奨します。",
+                      "重要: 全画面オーバーレイは9:16のアスペクト比を使用してください。全画面モードと9:16モードを切り替える際に、完全に整列するようにするためです。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "アカウントを削除するにはどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "VicastCamアプリにログインし、[アカウント - 右上のアイコン - アカウント管理 - アカウント削除 - 削除リクエストを送信] の順に進みます。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "アカウント情報"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "アカウントが削除されると、関連付けられたメールアドレス、デバイス記録、その他の個人情報は完全に削除されます。また、GoogleおよびAppleによるサードパーティログインの認可も取り消されます。取り消し後、これらのサードパーティアカウントを使用したクイックログインはできなくなります。再度使用する場合は、再認可が必要です。"
+                  },
+                  {
+                    "type": "heading",
+                    "text": "コンテンツとメディア"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "すべてのライブ配信メディア、動画、画像、プロジェクトファイルは、お使いのデバイスにのみ保存されます。プラットフォームはクリエイティブコンテンツをクラウドに保持しません。削除後、アプリのメディア管理機能は使用できなくなりますので、事前に「メディアを書き出す」機能を使用してコンテンツをバックアップしてください。",
+                      "バックアップを書き出さずにアプリをアンインストールして再インストールしたり、デバイスを変更したりすると、メディアは完全に復元できなくなります。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "メンバーシップ特典"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "メンバーシップ特典はアカウント削除と同時に終了します。サブスクリプションはAppleが管理しているため、プラットフォームが直接返金を処理することはできません。返金をリクエストするには、Appleの公式チャネル（App Storeの購入履歴）から申請してください。アカウントを削除する前に、自動更新のサブスクリプションを手動で解約して、今後の請求を防いでください。"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "ご不明な点がある場合は、サポートチームにお問い合わせください。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "画像や動画を追加する際に、スマートフォンのメディアにアクセスできないのはなぜですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "メディアを追加する際にフォトライブラリが空に見える場合は、iPhoneの設定を開き、下にスクロールしてVicastCamを見つけ、[写真 - すべての写真] をタップしてアクセスを許可してください。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "パソコンから配信する際に画面が切れて表示される場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "スマートフォンから配信アプリや他のソフトウェアを介して配信する際に、表示が不完全な場合は、次の手順に従ってください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "VicastCamを開き、下部のカメラアイコンをタップしてライブページに入り、[右側メニュー - その他の設定 - アスペクト比 - 9:16] の順に進みます。",
+                      "配信アプリにキャストした後、まずフィットするようにスケールし、次に画像を上下にドラッグして画面を埋めます。"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "注: アスペクト比は、メディアを追加する前と配信を開始する前に調整してください。"
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "ネットワークリクエストが失敗する場合はどうすればよいですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ネットワークリクエストの失敗が発生した場合は、次のことを試してください。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "スマートフォンの設定を開き、[権限 - VicastCam - モバイルデータとWi-Fi] に移動して、ネットワークアクセスをオンにします。",
+                      "省電力モードとバックグラウンド制限をオフにします。",
+                      "ネットワークを切り替え、スマートフォンを再起動し、機内モードを切り替えるか、アプリを更新します。",
+                      "問題が解決しない場合は、エラーのスクリーンショットを撮ってサポートチームにお問い合わせください。"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "ライブ配信中にオンラインメディアのオーバーレイがちらついたり、黒くなったりするのはなぜですか？",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "ライブ配信中にオンラインメディアのオーバーレイがちらついたり、黒くなったりする場合は、次のことができます。"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "配信前に、使用予定のメディアやオーバーレイをダウンロードしてプレビューし、正常に動作することを確認してください。",
+                      "一部の内蔵メディアはサーバーに保存されています。配信前にダウンロードして、配信中に読み込むことなく使用できるようにしてください。",
+                      "配信中にメディアを読み込むと、配信リソース、メモリ、パフォーマンスを消費し、遅延を引き起こす可能性があります。低スペックのデバイスでは、クラッシュや黒い画面が発生することもあります。"
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "重要"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "事前に配信を計画し、リハーサルを行ってください。各セグメントを練習して、配信前にすべてがスムーズに動作することを確認してください。すべての配信を真剣に取り組むことで、最高の結果が得られます。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "チュートリアルセンター",
+        "titleMain": "VicastCamの",
+        "titleHighlight": "学習を始めましょう",
+        "description": "ソフトウェアをマスターして、すぐに使いこなせます",
+        "buttonText": "もっと見る"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "チュートリアルセンター",
+          "titleMain": "VicastCamの",
+          "titleHighlight": "学習を始めましょう",
+          "descriptionMain": "ソフトウェアをマスター",
+          "descriptionHighlight": "すぐに使いこなす"
+        },
+        "player": {
+          "sectionAriaLabel": "チュートリアルリスト",
+          "catalogAriaLabel": "チュートリアルカタログ",
+          "previousLabel": "前へ",
+          "nextLabel": "次へ",
+          "firstLessonText": "これは最初のレッスンです",
+          "lastLessonText": "これは最後のレッスンです",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "初心者向けチュートリアル",
+            "count": "9レッスン",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "最初の仮想ライブルームを作成する",
+                "description": "最初の仮想ライブルームをゼロから作成して設定します。",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "画像機能を理解する",
+                "description": "画像機能の基本とそのユースケースを学びます。",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "レイヤーの使用方法",
+                "description": "レイヤーパネルの基本をマスターします。",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "背景レイヤーの使用方法",
+                "description": "背景レイヤーの追加と調整方法を学びます。",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "ポートレートレイヤーの使用方法",
+                "description": "ポートレートレイヤーを使用して視覚効果を作成する方法を学びます。",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "画像レイヤーの使用方法",
+                "description": "画像レイヤーの追加と編集方法を学びます。",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "動画レイヤーの使用方法",
+                "description": "動画メディアの追加と再生設定を学びます。",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "エフェクトレイヤーの使用方法",
+                "description": "ライブ配信にエフェクトレイヤーを追加します。",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "キャプションレイヤーの使用方法",
+                "description": "キャプションを作成し、キャプションレイヤーのスタイルを調整します。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "上級者向けチュートリアル",
+            "count": "6レッスン",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "カメラ移動レイヤーの使用方法",
+                "description": "カメラ移動レイヤーを使用して、よりダイナミックなショットを作成します。",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "パス機能の使用方法",
+                "description": "パス機能を使用して要素の移動パスを制御します。",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "マルチカメラレイヤーの使用方法",
+                "description": "マルチカメラレイヤーを設定して、異なるビューをすばやく切り替えます。",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "コントローラー機能の使用方法",
+                "description": "コントローラーを使用してライブ配信ビューを管理します。",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "オーディオ機能の使用方法",
+                "description": "オーディオ入力、出力、ミキシングエフェクトを設定します。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "バックアップ機能の使用方法",
+                "description": "ライブルームの設定とメディアをバックアップおよび復元します。",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

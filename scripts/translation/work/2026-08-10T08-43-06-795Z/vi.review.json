@@ -1,0 +1,249 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[2]",
+      "category": "literal_translation",
+      "severity": "major",
+      "instruction": "Replace 'chất liệu nền trực tiếp' with 'hình nền trực tiếp' or 'background trực tiếp' for natural Vietnamese."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[3]",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Change 'chiếu màn hình PC' to 'chiếu màn hình PC' is acceptable, but consider 'phát trực tiếp chiếu màn hình PC' for consistency; however, the main issue is 'chiếu màn hình' is not a common collocation. Use 'chiếu màn hình máy tính' or 'screen casting PC'."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[4]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Hiệu ứng làm đẹp tự nhiên được tích hợp sẵn' for smoother flow, but current is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'cách dùng thử với chi phí thấp' is awkward. Suggest 'một cách dùng thử với chi phí thấp' or 'giúp bạn dùng thử với chi phí thấp'."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[1]",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Change 'Phát trực tiếp chiếu màn hình PC' to 'Phát trực tiếp với chiếu màn hình PC' or 'Phát trực tiếp màn hình PC' for natural Vietnamese."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[2]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider 'Chất lượng phát trực tiếp HD' is fine, but 'Chất lượng HD khi phát trực tiếp' might be more natural."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'Tiết kiệm nhất với ưu đãi theo năm' is acceptable, but 'Tiết kiệm nhất khi thanh toán theo năm' might be clearer."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'lý tưởng cho người sáng tạo lâu dài' is fine, but 'lý tưởng cho những người sáng tạo lâu dài' is more natural."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "Bảng giá",
+            "titleMain": "Chọn gói",
+            "titleHighlight": "phù hợp với bạn",
+            "description": "Dùng thử miễn phí hoặc chọn gói khác",
+            "priceAltSuffix": "Giá",
+            "freePlanMessage": "Người dùng miễn phí không cần mua",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "Miễn phí",
+                "description": "Tải và đăng ký miễn phí, có sẵn các tính năng cơ bản.",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/tháng",
+                "priceNote": "",
+                "cta": "Bắt đầu",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "Tạo với một cảnh duy nhất",
+                  "Tự do sắp xếp tối đa bốn lớp",
+                  "Truy cập nhiều hình nền trực tiếp",
+                  "Chất lượng cơ bản cho chiếu màn hình PC",
+                  "Hiệu ứng làm đẹp tự nhiên tích hợp"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Theo tháng",
+                "description": "Kích hoạt và tận hưởng quyền truy cập trọn tháng, một cách dùng thử với chi phí thấp.",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/tháng",
+                "priceNote": "Truy cập 30 ngày",
+                "cta": "Mua",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Theo năm",
+                "description": "Tiết kiệm nhất với ưu đãi theo năm.",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/năm",
+                "priceNote": "Truy cập 365 ngày",
+                "cta": "Mua",
+                "badgeText": "Phổ biến nhất",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Trọn đời",
+                "description": "Thanh toán một lần cho quyền truy cập trọn đời, lý tưởng cho những người sáng tạo lâu dài.",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "Truy cập trọn đời",
+                "cta": "Mua",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Theo tháng",
+                  "subtitle": "Kích hoạt và tận hưởng quyền truy cập trọn tháng, một cách dùng thử với chi phí thấp.",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/tháng",
+                  "cta": "Mua",
+                  "benefits": [
+                    "Tất cả tính năng trên di động",
+                    "Phát trực tiếp với chiếu màn hình PC",
+                    "Chất lượng phát trực tiếp HD",
+                    "Hiệu ứng làm đẹp nâng cao",
+                    "Hiệu ứng phát trực tiếp độc quyền"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Theo năm",
+                  "subtitle": "Tiết kiệm nhất với ưu đãi theo năm.",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/năm",
+                  "cta": "Mua",
+                  "benefits": [
+                    "Tất cả tính năng trên di động",
+                    "Phát trực tiếp với chiếu màn hình PC",
+                    "Chất lượng phát trực tiếp HD",
+                    "Hiệu ứng làm đẹp nâng cao",
+                    "Hiệu ứng phát trực tiếp độc quyền"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Trọn đời",
+                  "subtitle": "Thanh toán một lần cho quyền truy cập trọn đời, lý tưởng cho những người sáng tạo lâu dài.",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "Mua",
+                  "benefits": [
+                    "Tất cả tính năng trên di động",
+                    "Phát trực tiếp với chiếu màn hình PC",
+                    "Chất lượng phát trực tiếp HD",
+                    "Hiệu ứng làm đẹp nâng cao",
+                    "Hiệu ứng phát trực tiếp độc quyền"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "Marcus Johnson",
+        "username": "@Musk",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      },
+      {
+        "name": "Marcus Johnson",
+        "username": "echo",
+        "followers": "100k",
+        "location": "Dubai, UAE"
+      }
+    ]
+  }
+}

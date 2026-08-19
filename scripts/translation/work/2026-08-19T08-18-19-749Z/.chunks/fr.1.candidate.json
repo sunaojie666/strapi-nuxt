@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Centre du compte",
+    "description": "Page du centre du compte VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Navigation du compte",
+    "defaultProfileName": "Utilisateur",
+    "emptyContent": "Aucun contenu",
+    "copyButtonLabel": "Copier",
+    "monthSelectLabel": "Sélectionner le mois",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Informations utilisateur introuvables. Veuillez vous reconnecter.",
+    "paginationLabel": "Pagination",
+    "previousPageLabel": "Page précédente",
+    "nextPageLabel": "Page suivante",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Aller à",
+      "unit": "page",
+      "ariaLabel": "Aller à une page spécifique",
+      "buttonLabel": "Aller"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Centre du compte",
+    "logout": "Se déconnecter",
+    "profileAriaSuffix": "Menu du compte"
+  },
+  "sidebar": {
+    "ariaLabel": "Navigation du compte",
+    "menus": {
+      "account": "Informations du compte",
+      "membership": "Abonnement",
+      "redeem": "Code d'échange",
+      "purchaseHistory": "Historique des achats",
+      "team": "Mon équipe",
+      "earnings": "Revenus"
+    }
+  },
+  "account": {
+    "ariaLabel": "Informations du compte",
+    "profileTitle": "Informations du compte",
+    "usernameLabel": "Nom d'utilisateur",
+    "passwordLabel": "Mot de passe",
+    "passwordMask": "********",
+    "defaultUsername": "Aucun pseudonyme défini",
+    "emailLabel": "E-mail lié",
+    "emailPlaceholder": "Saisissez votre e-mail",
+    "codePlaceholder": "Saisissez le code de vérification",
+    "sendCodeButton": "Obtenir le code",
+    "bindButton": "Lier l'e-mail",
+    "alreadyBound": "Lié",
+    "unboundEmail": "Non lié",
+    "emailBindTip": "Une fois lié, l'e-mail ne peut plus être modifié. Veuillez vérifier que l'adresse e-mail est correcte.",
+    "emailRequired": "Veuillez saisir un e-mail valide",
+    "codeRequired": "Veuillez saisir le code de vérification",
+    "codeSent": "Code de vérification envoyé. Consultez votre e-mail.",
+    "bindSuccess": "E-mail lié avec succès",
+    "bindFailed": "Échec de la liaison de l'e-mail. Vérifiez le code et réessayez.",
+    "requestFailed": "Échec de la requête. Veuillez réessayer plus tard.",
+    "inviteTitle": "Lien d'invitation",
+    "inviteDescription": "Copiez votre lien d'invitation personnel. Lorsque des amis s'inscrivent et achètent un abonnement, vous gagnez des récompenses.",
+    "emptyInviteLink": "Aucun lien d'invitation disponible"
+  }
+}

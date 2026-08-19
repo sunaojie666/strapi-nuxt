@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Apa yang harus saya lakukan jika layar tidak tampil penuh saat streaming dari komputer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika layar tidak tampil penuh saat streaming dari ponsel melalui aplikasi pendamping live streaming atau perangkat lunak lain, ikuti langkah-langkah berikut untuk menyesuaikan:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live streaming, lalu buka [Menu Kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+            "Setelah melakukan casting ke pendamping live streaming, pertama-tama sesuaikan skala agar pas, lalu seret layar ke atas atau ke bawah untuk mengisi seluruh layar."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Catatan: Sebelum memulai streaming, atur rasio aspek terlebih dahulu, lalu tambahkan aset Anda."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Apa yang harus saya lakukan jika permintaan jaringan gagal?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka Pengaturan ponsel Anda, masuk ke [Manajemen Izin - VicastCam - Gunakan Data Seluler dan Wi-Fi] dan aktifkan akses jaringan.",
+            "Matikan mode hemat daya dan batasan latar belakang apa pun di ponsel Anda.",
+            "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi ke versi terbaru.",
+            "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi dukungan pelanggan untuk bantuan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Mengapa overlay aset jaringan berkedip atau menjadi hitam selama live streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika Anda mengalami kedipan atau layar hitam saat menambahkan aset jaringan selama live streaming, berikut cara mengatasinya:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Unduh dan pratinjau semua aset dan overlay yang akan Anda gunakan selama streaming sebelumnya. Pastikan semuanya berfungsi dengan baik sebelum memulai live.",
+            "Beberapa aset yang disertakan dengan perangkat lunak disimpan di server. Unduh sebelum memulai streaming sehingga Anda dapat menggunakannya secara langsung selama streaming tanpa memuat ulang.",
+            "Memuat aset di tengah streaming mengonsumsi sumber daya streaming, memori ponsel, dan kinerja, yang dapat menyebabkan lag. Pada ponsel kelas bawah, hal ini bahkan dapat menyebabkan crash atau layar hitam."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Catatan penting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rencanakan dan latih streaming Anda sebelumnya. Latih setiap segmen untuk memastikan semuanya berjalan lancar sebelum memulai live. Perlakukan setiap streaming dengan serius, dan streaming Anda akan memberi imbalan sebagai balasannya."
+        }
+      ]
+    }
+  ]
+}

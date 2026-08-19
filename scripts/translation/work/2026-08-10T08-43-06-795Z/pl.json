@@ -1,0 +1,195 @@
+{
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Cennik",
+          "titleMain": "Wybierz plan",
+          "titleHighlight": "dopasowany do Ciebie",
+          "description": "Wypróbuj za darmo lub wybierz inny plan",
+          "priceAltSuffix": "Cena",
+          "freePlanMessage": "Użytkownicy darmowi nie muszą nic kupować",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Darmowy",
+              "description": "Darmowe pobranie i rejestracja, z podstawowymi funkcjami dostępnymi bez kosztów.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/miesiąc",
+              "priceNote": "",
+              "cta": "Zacznij",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Twórz z pojedynczą sceną",
+                "Dowolnie układaj do czterech warstw",
+                "Dostęp do różnorodnych materiałów tła na żywo",
+                "Podstawowa jakość podczas przesyłania ekranu z PC",
+                "Wbudowane naturalne efekty upiększające"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Miesięczny",
+              "description": "Aktywuj i ciesz się pełnym miesiącem dostępu – tani sposób na wypróbowanie.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/miesiąc",
+              "priceNote": "Dostęp na 30 dni",
+              "cta": "Kup",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Wszystkie funkcje mobilne",
+                "Przesyłanie ekranu PC na żywo",
+                "Jakość HD podczas przesyłania na żywo",
+                "Zaawansowane efekty upiększające",
+                "Ekskluzywne efekty do transmisji na żywo"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Roczny",
+              "description": "Najlepsza wartość z rocznymi oszczędnościami.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/rok",
+              "priceNote": "Dostęp na 365 dni",
+              "cta": "Kup",
+              "badgeText": "Najpopularniejszy",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Wszystkie funkcje mobilne",
+                "Przesyłanie ekranu PC na żywo",
+                "Jakość HD podczas przesyłania na żywo",
+                "Zaawansowane efekty upiększające",
+                "Ekskluzywne efekty do transmisji na żywo"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Dożywotni",
+              "description": "Jednorazowy zakup z dożywotnim dostępem, idealny dla długoterminowych twórców.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Dostęp dożywotni",
+              "cta": "Kup",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Wszystkie funkcje mobilne",
+                "Przesyłanie ekranu PC na żywo",
+                "Jakość HD podczas przesyłania na żywo",
+                "Zaawansowane efekty upiększające",
+                "Ekskluzywne efekty do transmisji na żywo"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Miesięczny",
+                "subtitle": "Aktywuj i ciesz się pełnym miesiącem dostępu – tani sposób na wypróbowanie.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/miesiąc",
+                "cta": "Kup",
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Roczny",
+                "subtitle": "Najlepsza wartość z rocznymi oszczędnościami.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/rok",
+                "cta": "Kup",
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Dożywotni",
+                "subtitle": "Jednorazowy zakup z dożywotnim dostępem, idealny dla długoterminowych twórców.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Kup",
+                "benefits": [
+                  "Wszystkie funkcje mobilne",
+                  "Przesyłanie ekranu PC na żywo",
+                  "Jakość HD podczas przesyłania na żywo",
+                  "Zaawansowane efekty upiększające",
+                  "Ekskluzywne efekty do transmisji na żywo"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100 tys.",
+      "location": "Dubaj, ZEA"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50 tys.",
+      "location": "Dubaj, ZEA"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50 tys.",
+      "location": "Dubaj, ZEA"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100 tys.",
+      "location": "Dubaj, ZEA"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100 tys.",
+      "location": "Dubaj, ZEA"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "ट्यूटोरियल सेंटर",
+    "titleMain": "अपनी VicastCam",
+    "titleHighlight": "सीखने की यात्रा शुरू करें",
+    "descriptionMain": "सॉफ्टवेयर की हर सुविधा में महारत हासिल करें",
+    "descriptionHighlight": "जल्दी से शुरू करें और चालू हो जाएं"
+  },
+  "player": {
+    "sectionAriaLabel": "ट्यूटोरियल सूची",
+    "catalogAriaLabel": "ट्यूटोरियल कैटलॉग",
+    "previousLabel": "पिछला",
+    "nextLabel": "अगला",
+    "firstLessonText": "आप पहले पाठ पर हैं",
+    "lastLessonText": "आप आखिरी पाठ पर हैं",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

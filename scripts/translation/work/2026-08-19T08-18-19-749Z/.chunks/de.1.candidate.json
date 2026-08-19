@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Kontozentrum",
+    "description": "VicastCam Kontozentrum Seite"
+  },
+  "common": {
+    "sidebarAriaLabel": "Kontonavigation",
+    "defaultProfileName": "Benutzer",
+    "emptyContent": "Kein Inhalt",
+    "copyButtonLabel": "Kopieren",
+    "monthSelectLabel": "Monat auswählen",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Benutzerinformationen nicht gefunden. Bitte melden Sie sich erneut an.",
+    "paginationLabel": "Seitennummerierung",
+    "previousPageLabel": "Vorherige Seite",
+    "nextPageLabel": "Nächste Seite",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Gehe zu",
+      "unit": "Seite",
+      "ariaLabel": "Zu einer bestimmten Seite gehen",
+      "buttonLabel": "Los"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Kontozentrum",
+    "logout": "Abmelden",
+    "profileAriaSuffix": "Kontomenü"
+  },
+  "sidebar": {
+    "ariaLabel": "Kontonavigation",
+    "menus": {
+      "account": "Kontoinformationen",
+      "membership": "Mitgliedschaft",
+      "redeem": "Code einlösen",
+      "purchaseHistory": "Kaufverlauf",
+      "team": "Mein Team",
+      "earnings": "Einnahmen"
+    }
+  },
+  "account": {
+    "ariaLabel": "Kontoinformationen",
+    "profileTitle": "Kontoinformationen",
+    "usernameLabel": "Benutzername",
+    "passwordLabel": "Passwort",
+    "passwordMask": "********",
+    "defaultUsername": "Kein Spitzname festgelegt",
+    "emailLabel": "Verknüpfte E-Mail",
+    "emailPlaceholder": "E-Mail eingeben",
+    "codePlaceholder": "Verifizierungscode eingeben",
+    "sendCodeButton": "Code anfordern",
+    "bindButton": "E-Mail verknüpfen",
+    "alreadyBound": "Verknüpft",
+    "unboundEmail": "Nicht verknüpft",
+    "emailBindTip": "Nach der Verknüpfung kann die E-Mail nicht mehr geändert werden. Bitte bestätigen Sie, dass die E-Mail-Adresse korrekt ist.",
+    "emailRequired": "Bitte geben Sie eine gültige E-Mail ein",
+    "codeRequired": "Bitte geben Sie den Verifizierungscode ein",
+    "codeSent": "Verifizierungscode gesendet. Überprüfen Sie Ihre E-Mail.",
+    "bindSuccess": "E-Mail erfolgreich verknüpft",
+    "bindFailed": "E-Mail-Verknüpfung fehlgeschlagen. Überprüfen Sie den Code und versuchen Sie es erneut.",
+    "requestFailed": "Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut.",
+    "inviteTitle": "Einladungslink",
+    "inviteDescription": "Kopieren Sie Ihren persönlichen Einladungslink. Wenn Freunde sich registrieren und eine Mitgliedschaft erwerben, erhalten Sie Belohnungen.",
+    "emptyInviteLink": "Kein Einladungslink verfügbar"
+  }
+}

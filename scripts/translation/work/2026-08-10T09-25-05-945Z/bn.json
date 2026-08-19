@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "পেমেন্ট এখনও উপলব্ধ নয়",
+          "payment": {
+            "providerName": "অনলাইন পেমেন্ট চালু হয়নি",
+            "providerDescription": "পেমেন্ট প্রক্রিয়াকরণ সেট আপ করা হচ্ছে। এই পৃষ্ঠাটি শুধুমাত্র অর্ডারের বিবরণ দেখায়।",
+            "unavailableTitle": "পেমেন্ট এখনও উপলব্ধ নয়",
+            "unavailableDescription": "আমরা অফিসিয়াল পেমেন্ট এবং অর্ডার নিশ্চিতকরণ প্রক্রিয়া সংহত করছি। লঞ্চ না হওয়া পর্যন্ত, এই পৃষ্ঠাটি আপনাকে চার্জ করবে না বা প্রকৃত অর্ডার তৈরি করবে না।",
+            "unavailableItems": [
+              "কোনো তৃতীয় পক্ষের পেমেন্ট উপাদান লোড হবে না",
+              "কোনো পেমেন্ট তথ্য জমা দেওয়া হবে না",
+              "কোনো প্রকৃত পেমেন্ট অর্ডার তৈরি হবে না"
+            ],
+            "feedback": "মেম্বারশিপ কেনা বা সক্রিয় করতে, অনুগ্রহ করে business@vicastcam.com-এ যোগাযোগ করুন।"
+          },
+          "summary": {
+            "title": "অর্ডার সারাংশ",
+            "periodLabel": "মেম্বারশিপ সময়কাল",
+            "paymentMethodLabel": "পেমেন্ট পদ্ধতি",
+            "amountLabel": "বকেয়া পরিমাণ",
+            "submitLabel": "এখনও উপলব্ধ নয়",
+            "note": "পেমেন্ট এখনও উপলব্ধ নয়। নীচের অর্ডারের বিবরণ আপনার প্ল্যান নিশ্চিত করার জন্য।",
+            "unavailablePaymentMethod": "এখনও উপলব্ধ নয়",
+            "fallbackProductName": "কোনো প্ল্যান নির্বাচন করা হয়নি",
+            "fallbackProductDescription": "অনুগ্রহ করে হোমপেজে ফিরে যান এবং একটি মেম্বারশিপ প্ল্যান নির্বাচন করুন।",
+            "periodMonth": "1 মাস",
+            "periodYear": "1 বছর",
+            "periodLife": "আজীবন",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "সাবস্ক্রিপশন চেকআউট",
+            "description": "VicastCam সাবস্ক্রিপশন চেকআউট পৃষ্ঠা।"
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "মাসিক প্ল্যান",
+              "description": "সক্রিয়করণের পরে একটি পূর্ণ মাসের অ্যাক্সেস পান। এটি চেষ্টা করার একটি কম খরচের উপায়।"
+            },
+            {
+              "type": "year",
+              "name": "বার্ষিক প্ল্যান",
+              "description": "সক্রিয়করণের পরে একটি পূর্ণ বছরের অ্যাক্সেস পান। দীর্ঘমেয়াদী, স্থিতিশীল ব্যবহারের জন্য আদর্শ।"
+            },
+            {
+              "type": "life",
+              "name": "আজীবন প্ল্যান",
+              "description": "একবার সক্রিয় করুন এবং দীর্ঘমেয়াদে ব্যবহার করুন। ক্রমাগত মেম্বারশিপ সুবিধা উপভোগ করুন।"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "bn",
+        "multi_platform_section": {
+          "tag": "মাল্টি-প্ল্যাটফর্ম সাপোর্ট",
+          "title_main": "বিশ্বের শীর্ষস্থানীয় লাইভ স্ট্রিমিং প্ল্যাটফর্মগুলিতে পৌঁছান",
+          "title_highlight": "এক ক্লিকে বিশ্বব্যাপী দর্শকদের সাথে সংযোগ করুন",
+          "description": "বৈশ্বিক ট্রাফিক উৎসের সাথে সংযোগ করুন এবং একটি নতুন ক্রস-বর্ডার লাইভ স্ট্রিমিং ইকোসিস্টেম তৈরি করুন।"
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "অ্যাকাউন্ট সেন্টার",
+            "description": "VicastCam অ্যাকাউন্ট সেন্টার পৃষ্ঠা"
+          },
+          "common": {
+            "sidebarAriaLabel": "অ্যাকাউন্ট সেন্টার নেভিগেশন",
+            "defaultProfileName": "ব্যবহারকারী",
+            "emptyContent": "কোনো বিষয়বস্তু নেই",
+            "copyButtonLabel": "কপি করুন",
+            "monthSelectLabel": "মাস নির্বাচন করুন",
+            "yearSuffix": "বছর",
+            "monthSuffix": "মাস",
+            "userMissing": "ব্যবহারকারীর তথ্য পাওয়া যায়নি। অনুগ্রহ করে আবার লগ ইন করুন।",
+            "paginationLabel": "পেজিনেশন",
+            "previousPageLabel": "আগের পৃষ্ঠা",
+            "nextPageLabel": "পরের পৃষ্ঠা",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "যান",
+              "unit": "পৃষ্ঠা",
+              "ariaLabel": "একটি নির্দিষ্ট পৃষ্ঠায় যান",
+              "buttonLabel": "যান"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "অ্যাকাউন্ট সেন্টার",
+            "logout": "লগ আউট",
+            "profileAriaSuffix": "অ্যাকাউন্ট সেন্টার মেনু"
+          },
+          "sidebar": {
+            "ariaLabel": "অ্যাকাউন্ট সেন্টার নেভিগেশন",
+            "menus": {
+              "account": "অ্যাকাউন্ট তথ্য",
+              "membership": "মেম্বারশিপ",
+              "redeem": "রিডিম কোড",
+              "purchaseHistory": "ক্রয়ের ইতিহাস",
+              "team": "আমার টিম",
+              "earnings": "আয়"
+            }
+          },
+          "account": {
+            "ariaLabel": "অ্যাকাউন্ট তথ্য",
+            "profileTitle": "অ্যাকাউন্ট তথ্য",
+            "usernameLabel": "ব্যবহারকারীর নাম",
+            "passwordLabel": "পাসওয়ার্ড",
+            "passwordMask": "********",
+            "defaultUsername": "কোনো ডাকনাম সেট করা নেই",
+            "inviteTitle": "আমন্ত্রণ লিংক",
+            "inviteDescription": "আপনার ব্যক্তিগত আমন্ত্রণ লিংক কপি করুন। যখন বন্ধুরা সাইন আপ করে এবং মেম্বারশিপ সক্রিয় করে, আপনি পুরস্কার পাবেন।",
+            "emptyInviteLink": "এখনও কোনো আমন্ত্রণ লিংক নেই"
+          },
+          "membership": {
+            "ariaLabel": "মেম্বারশিপ",
+            "title": "আমার মেম্বারশিপ",
+            "badgeAlt": "মেম্বারশিপ ব্যাজ",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "ফ্রি ব্যবহারকারী",
+            "activeVipName": "VIP সদস্য",
+            "expirePrefix": "মেয়াদ শেষ",
+            "emptyExpireDate": "সক্রিয় নয়",
+            "activeStatus": "সক্রিয়",
+            "inactiveStatus": "সক্রিয় নয়",
+            "compareTitle": "মেম্বারশিপ সুবিধা তুলনা করুন",
+            "compareHeaders": {
+              "feature": "বৈশিষ্ট্য",
+              "normal": "ফ্রি",
+              "month": "মাসিক",
+              "year": "বার্ষিক",
+              "life": "আজীবন"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "মাসিক মেম্বারশিপ",
+                "subtitle": "স্বল্পমেয়াদী ব্যবহারের জন্য দুর্দান্ত",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/মাস",
+                "cta": "শুরু করুন",
+                "benefits": [
+                  "কোর ভার্চুয়াল ক্যামেরা বৈশিষ্ট্য",
+                  "ভার্চুয়াল ব্যাকগ্রাউন্ড এবং বিউটিফিকেশন",
+                  "মাল্টি-প্ল্যাটফর্ম লাইভ স্ট্রিমিং সাপোর্ট",
+                  "স্ট্যান্ডার্ড আপডেট"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "বার্ষিক মেম্বারশিপ",
+                "subtitle": "দীর্ঘমেয়াদী ব্যবহারের জন্য ভালো মূল্য",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/বছর",
+                "cta": "শুরু করুন",
+                "benefits": [
+                  "সব মাসিক সুবিধা",
+                  "এক বছরের জন্য সব উন্নত বৈশিষ্ট্য",
+                  "অগ্রাধিকার বৈশিষ্ট্য আপডেট",
+                  "নিবেদিত সদস্য সাপোর্ট"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "আজীবন মেম্বারশিপ",
+                "subtitle": "একবার অর্থ প্রদান করুন, দীর্ঘমেয়াদে ব্যবহার করুন",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/আজীবন",
+                "cta": "শুরু করুন",
+                "benefits": [
+                  "সব বার্ষিক সুবিধা",
+                  "চিরকালের জন্য উন্নত বৈশিষ্ট্য",
+                  "দীর্ঘমেয়াদী আপডেট",
+                  "নিবেদিত সাপোর্ট চ্যানেল"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "মেম্বারশিপ সময়কাল",
+                "normal": "চিরকাল ফ্রি",
+                "month": "30 দিন",
+                "year": "365 দিন",
+                "life": "আজীবন"
+              },
+              {
+                "feature": "ডেস্কটপ ভার্চুয়াল ক্যামেরা",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "কাস্টম ভার্চুয়াল ব্যাকগ্রাউন্ড",
+                "normal": "এক সেট",
+                "month": "আনলিমিটেড",
+                "year": "আনলিমিটেড",
+                "life": "আনলিমিটেড"
+              },
+              {
+                "feature": "লাইভ স্ট্রিমিং প্রিসেট",
+                "normal": "cross",
+                "month": "আনলিমিটেড",
+                "year": "আনলিমিটেড",
+                "life": "আনলিমিটেড"
+              },
+              {
+                "feature": "অফিসিয়াল ওয়েবসাইট সম্পদ",
+                "normal": "সীমিত",
+                "month": "আনলিমিটেড",
+                "year": "আনলিমিটেড",
+                "life": "আনলিমিটেড"
+              },
+              {
+                "feature": "কন্ট্রোলারের মাধ্যমে রিমোট কন্ট্রোল",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "লাইভ সিন তুলনা মোড",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "সিন সাবটাইটেল",
+                "normal": "সীমিত",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "সিন মিউজিক",
+                "normal": "সীমিত",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "মাল্টি-ক্যামেরা ইনপুট",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "অ্যাডভান্সড বিউটি ফিল্টার",
+                "normal": "বেসিক",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "AI স্মার্ট গ্রিন স্ক্রিন ম্যাটিং",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "ডাইনামিক মোশন ট্রেইল অ্যানিমেশন",
+                "normal": "সীমিত",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "সিন ক্যামেরা মোশন ইফেক্ট",
+                "normal": "সীমিত",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "VIP ইফেক্ট লাইব্রেরি",
+                "normal": "সীমিত",
+                "month": "আনলিমিটেড",
+                "year": "আনলিমিটেড",
+                "life": "আনলিমিটেড"
+              },
+              {
+                "feature": "প্ল্যাটফর্ম স্ট্রিমিং",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "4K UHD আউটপুট",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "প্রোমোশন কমিশন হার",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "রেফারেল পুরস্কার",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "সাপোর্ট চ্যানেল",
+                "normal": "কমিউনিটি সেলফ-সার্ভিস",
+                "month": "স্ট্যান্ডার্ড কিউ",
+                "year": "অগ্রাধিকার প্রতিক্রিয়া",
+                "life": "নিবেদিত সাপোর্ট"
+              },
+              {
+                "feature": "নতুন বৈশিষ্ট্যগুলিতে প্রাথমিক অ্যাক্সেস",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "রিডিম কোড",
+            "title": "রিডিম কোড",
+            "tip": "আপনার মেম্বারশিপ রিডেম্পশন কোড লিখুন। রিডেম্পশনের পরে আপনার সুবিধাগুলি অবিলম্বে সক্রিয় হবে।",
+            "placeholder": "রিডেম্পশন কোড লিখুন",
+            "submitButton": "এখনই রিডিম করুন",
+            "agreementPrefix": "রিডিম করার মাধ্যমে, আপনি সম্মত হচ্ছেন",
+            "userProtocolText": "ব্যবহারকারী চুক্তি",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "রিডেম্পশন ব্যর্থ হয়েছে। অনুগ্রহ করে কোডটি পরীক্ষা করে আবার চেষ্টা করুন।"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "ক্রয়ের ইতিহাস",
+            "title": "ক্রয়ের ইতিহাস",
+            "tabTitle": "ক্রয়",
+            "exchangeTabTitle": "রিডেম্পশন",
+            "tableHeaders": {
+              "title": "ধরন",
+              "date": "পেমেন্ট তারিখ",
+              "price": "পরিমাণ",
+              "paymentMethod": "পেমেন্ট পদ্ধতি",
+              "status": "স্ট্যাটাস",
+              "exchangeDate": "রিডেম্পশন তারিখ",
+              "exchangeCode": "রিডেম্পশন কোড"
+            },
+            "exchangeTableHeaders": {
+              "date": "রিডেম্পশন তারিখ",
+              "code": "রিডেম্পশন কোড"
+            },
+            "cardTypes": {
+              "month": "মাসিক প্ল্যান",
+              "year": "বার্ষিক প্ল্যান",
+              "life": "আজীবন প্ল্যান",
+              "default": "মেম্বারশিপ"
+            },
+            "orderStatuses": {
+              "pending": "অপেক্ষমাণ",
+              "paid": "পরিশোধিত",
+              "closed": "বন্ধ",
+              "refunded": "ফেরত দেওয়া হয়েছে",
+              "unknown": "অজানা"
+            },
+            "secretLabels": {
+              "show": "পাসওয়ার্ড দেখান",
+              "hide": "পাসওয়ার্ড লুকান"
+            },
+            "secretMask": "******",
+            "emptyText": "কোনো ক্রয়ের ইতিহাস নেই",
+            "exchangeEmptyText": "কোনো রিডেম্পশন ইতিহাস নেই",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "ব্যাংক কার্ড",
+              "creditcard": "ক্রেডিট কার্ড",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "ক্রিপ্টোকারেন্সি",
+              "balance": "ব্যালেন্স",
+              "free": "ফ্রি"
+            }
+          },
+          "team": {
+            "ariaLabel": "আমার টিম",
+            "title": "আমার টিম",
+            "referrerLabel": "আমার রেফারার",
+            "levelOne": "লেভেল 1 সদস্য",
+            "levelTwo": "লেভেল 2 সদস্য",
+            "tableHeaders": {
+              "name": "সদস্যের নাম",
+              "status": "মেম্বারশিপ স্ট্যাটাস",
+              "joinedAt": "যোগদান"
+            },
+            "memberStatus": {
+              "free": "ফ্রি ব্যবহারকারী",
+              "vip": "VIP ব্যবহারকারী"
+            },
+            "emptyMemberName": "নামহীন ব্যবহারকারী",
+            "emptyReferrer": "কোনো রেফারার নেই",
+            "emptyTeam": "এখনও কোনো টিম সদস্য নেই",
+            "errors": {
+              "loadFail": "টিম সদস্যদের লোড করতে ব্যর্থ হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "আয়",
+            "title": "আয় ওভারভিউ",
+            "commissionTitle": "কমিশন বিবরণ",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "মোট আয়",
+                "desc": "আজ পর্যন্ত অর্জিত মোট কমিশন"
+              },
+              {
+                "key": "month",
+                "title": "এই মাস",
+                "desc": "এই মাসে অর্জিত কমিশন"
+              },
+              {
+                "key": "settling",
+                "title": "নিষ্পত্তি অপেক্ষমাণ",
+                "value": "0.00",
+                "desc": "নিষ্পত্তির অপেক্ষায় থাকা পরিমাণ"
+              },
+              {
+                "key": "withdrawable",
+                "title": "উত্তোলনযোগ্য",
+                "desc": "বর্তমানে উত্তোলনের জন্য উপলব্ধ পরিমাণ",
+                "action": "উত্তোলন"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "ব্যবহারকারীর নাম",
+              "saleTime": "বিক্রয় সময়",
+              "goodsInfo": "পণ্য",
+              "commission": "কমিশন"
+            },
+            "emptyCommission": "কোনো কমিশন রেকর্ড নেই",
+            "errors": {
+              "loadFail": "কমিশন বিবরণ লোড করতে ব্যর্থ হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+            },
+            "withdraw": {
+              "ariaLabel": "উত্তোলনের অনুরোধ",
+              "title": "উত্তোলনের অনুরোধ",
+              "closeLabel": "উত্তোলন ডায়ালগ বন্ধ করুন",
+              "balanceLabel": "উত্তোলনযোগ্য ব্যালেন্স",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "উত্তোলনের পরিমাণ",
+              "amountPlaceholder": "উত্তোলনের পরিমাণ লিখুন",
+              "allButton": "সব",
+              "allAmountValue": "0.00",
+              "amountTip": "অনুগ্রহ করে নিশ্চিত করুন যে পরিমাণটি সঠিক। জমা দেওয়ার পরে আপনার অনুরোধটি ম্যানুয়ালি পর্যালোচনা করা হবে।",
+              "methodLabel": "উত্তোলনের পদ্ধতি",
+              "methods": [
+                "ব্যাংক কার্ড",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "ব্যাংক কার্ড",
+              "nameLabel": "প্রাপকের নাম",
+              "namePlaceholder": "প্রাপকের নাম লিখুন",
+              "defaultName": "",
+              "bankCardLabel": "অ্যাকাউন্ট নম্বর",
+              "bankCardPlaceholder": "ব্যাংক কার্ড নম্বর, PayPal ইমেল বা ওয়ালেট ঠিকানা লিখুন",
+              "remarkLabel": "নোট",
+              "remarkPlaceholder": "ঐচ্ছিক অতিরিক্ত তথ্য",
+              "note": "উত্তোলনের অনুরোধ 1-3 কার্যদিবসের মধ্যে প্রক্রিয়া করা হয়।",
+              "cancelButton": "বাতিল করুন",
+              "submitButton": "অনুরোধ জমা দিন"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "রিডেম্পশন সফল হয়েছে",
+            "operationFailed": "রিডেম্পশন ব্যর্থ হয়েছে",
+            "invalidCard": "অবৈধ রিডেম্পশন কোড",
+            "cardNotFound": "রিডেম্পশন কোড পাওয়া যায়নি",
+            "cardDisabled": "রিডেম্পশন কোড নিষ্ক্রিয়",
+            "cardExpired": "রিডেম্পশন কোডের মেয়াদ শেষ"
+          },
+          "successMessage": "অপারেশন সফল হয়েছে"
+        }
+      }
+    }
+  ]
+}

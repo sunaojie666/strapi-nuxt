@@ -1,0 +1,206 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "关于VicastCam",
+          "titleMain": "手机绿幕特效与投屏技术",
+          "titleHighlight": "背后的产品团队",
+          "description": "我们专注于移动影像、虚拟摄像头、投屏协同与多平台直播连接能力，帮助创作者、教育团队和企业用户把手机变成稳定、清晰、易接入的专业直播工具。",
+          "primaryButtonText": "联系商务",
+          "secondaryButtonText": "查看SDK"
+        },
+        "innovation": {
+          "sectionTag": "核心优势",
+          "titleMain": "专注创新",
+          "titleHighlight": "驱动直播未来",
+          "description": "从移动工具到平台化能力，VicastCam 正在覆盖更多设备、平台与直播场景",
+          "featureTag": "核心能力",
+          "featureTitle": "赋能全球直播\n场景行业信赖",
+          "featureDescription": "我们围绕移动直播、虚拟影像、投屏协作和跨平台连接持续打磨产品体验，让直播工具从单点能力升级为稳定可集成的工作流。",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "国家和地区",
+              "text": "服务全球多地区创作者与团队"
+            },
+            {
+              "value": "2000+",
+              "label": "适配平台",
+              "text": "覆盖主流直播、会议与内容场景"
+            },
+            {
+              "value": "500000+",
+              "label": "累计使用次数",
+              "text": "持续验证稳定性与易用性"
+            },
+            {
+              "value": "99.9%",
+              "label": "稳定运行",
+              "text": "保障直播链路顺畅可靠"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "发展路径",
+          "titleMain": "围绕全球直播生态",
+          "titleHighlight": "持续进化发展",
+          "description": "从直播工具到平台化能力，VicastCam 正在覆盖更多设备、平台与直播场景",
+          "items": [
+            {
+              "year": "2023",
+              "title": "深耕移动端，打磨手机绿幕核心特效",
+              "text": "聚焦手机端虚拟直播底层能力，持续迭代优化绿幕抠像算法，解决移动端抠像边缘失真、光线适配差、多素材叠加卡顿等痛点；完善贴纸、背景替换、前景遮挡等全套虚拟特效功能，搭建起手机轻量化虚拟直播基础体系，普通创作者一部手机即可实现专业绿幕直播。"
+            },
+            {
+              "year": "2024",
+              "title": "打通投屏链路，自研虚拟相机核心技术",
+              "text": "拓展设备互联能力，重点攻坚手机高清投屏、跨端画面同步传输技术；自主研发通用虚拟相机驱动，实现软件画面全局采集输出，打通直播软件、剪辑工具、线上会议全渠道适配；补齐移动端与电脑端画面互通短板，实现手机素材一键投电脑、虚拟机位多路输出，丰富直播画面生产形式。"
+            },
+            {
+              "year": "2025",
+              "title": "发力 PC 端，推出专业电脑 3D 直播助手",
+              "text": "落地电脑端专业直播产品线，打造完整 3D 虚拟直播助手；搭载 3D 虚拟场景、数字人驱动、多机位导播、实时光影渲染能力，适配企业商业直播、展厅虚拟宣讲、带货大屏直播等商用场景；完善多图层合成、实时字幕、互动组件配套工具，满足团队规模化、高品质专业直播交付需求。"
+            },
+            {
+              "year": "2026",
+              "title": "全球化市场布局，构筑完整直播生态闭环",
+              "text": "全面开拓海外全球直播赛道，适配海外主流直播平台推流、海外网络低延迟传输、多语言本地化适配；整合历年手机绿幕、投屏虚拟相机、PC 端 3D 直播三大核心产品，打通个人创作者、企业商用、开发者 SDK 集成三条业务线；软硬件、多终端、海内外服务一体化成型，完成从直播画面生产、跨端互通到全球分发的全链路直播生态闭环。"
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "关注我们",
+          "titleMain": "与我们联系",
+          "titleHighlight": "共创直播新未来",
+          "description": "关注我们的产品更新动态、直播技巧以及其他资讯",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube账号",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube账号",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube账号",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube账号",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube账号",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "关于我们",
+          "description": "了解 VicastCam 团队、产品使命和虚拟相机、AI 直播增强、跨平台开播能力。"
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "下载中心",
+            "title": "下载VicastCam"
+          },
+          "platform": {
+            "title": "选择您的平台",
+            "description": "VicastCam支持Windows、iOS、Android三大平台，开启专业直播",
+            "versionLabel": "版本号",
+            "updatedAtLabel": "更新时间",
+            "sizeLabel": "安装包大小",
+            "downloadAriaSuffix": "下载",
+            "closeQrAriaPrefix": "关闭",
+            "closeQrAriaSuffix": "下载二维码",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "支持Android 8.0及以上系统",
+                "actionLabel": "立即下载",
+                "qrTitle": "扫码下载 Android 版",
+                "qrDescription": "请使用手机扫码下载安装"
+              },
+              {
+                "key": "ios",
+                "name": "IOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "支持iOS 13.0及以上系统",
+                "actionLabel": "App Store",
+                "qrTitle": "扫码前往 App Store",
+                "qrDescription": "请使用手机扫码下载 iOS 版"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "适用 Windows 10及以上系统",
+                "actionLabel": "立即下载",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "为什么选择VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "安全可靠",
+                "text": "多重安全防护机制，保障您的数据与账号安全"
+              },
+              {
+                "key": "updates",
+                "title": "持续更新",
+                "text": "我们持续优化产品，为您带来更稳定的使用体验"
+              },
+              {
+                "key": "support",
+                "title": "专业支持",
+                "text": "7×24 小时技术支持，快速响应您的问题"
+              },
+              {
+                "key": "tutorial",
+                "title": "使用教程",
+                "text": "详细的视频教程与功能说明，帮助您快速上手"
+              }
+            ]
+          },
+          "seo": {
+            "title": "下载中心",
+            "description": "下载适用于 Windows、iOS 和 Android 的 VicastCam 客户端。"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.features[0].feature_obj.features_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'সব-ই-এক' with 'সব-ই-একটি' for more natural Bangla."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ক্ষমতাগুলো একীভূত করে' to 'ক্ষমতাগুলোকে একীভূত করে' for correct case marking."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[1].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Rephrase 'আরও সমৃদ্ধ দৃষ্টিভঙ্গির জন্য' to 'আরও সমৃদ্ধ দৃষ্টিভঙ্গি পেতে' for more natural flow."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[4].desc",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'সিন পরিবর্তন' to 'সিন পরিবর্তন করুন' to maintain parallel imperative structure."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'একসাথে মাল্টি-প্ল্যাটফর্ম লাইভ' to 'একসাথে একাধিক প্ল্যাটফর্মে লাইভ' for more natural phrasing."
+    },
+    {
+      "path": "$.homes[0].hero_subtitle",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'গ্লোবাল লাইভ স্ট্রিমিং ইকোসিস্টেমকে শক্তি দিচ্ছে' to 'বিশ্বব্যাপী লাইভ স্ট্রিমিং ইকোসিস্টেমকে শক্তি দিচ্ছে' for consistency with other 'বৈশ্বিক' translations."
+    }
+  ],
+  "revisedContent": {
+    "features": [
+      {
+        "feature_obj": {
+          "locale": "bn",
+          "features_section": {
+            "title_tag": "বৈশিষ্ট্য",
+            "title_main": "সব-ই-একটি লাইভ স্ট্রিমিং সমাধান",
+            "title_highlight": "পেশাদার মোবাইল ব্রডকাস্টারদের জন্য",
+            "description": "মূল লাইভ স্ট্রিমিং ক্ষমতাগুলোকে একীভূত করে যেকোনো জায়গায় আকর্ষণীয় দৃশ্য তৈরি করুন এবং পেশাদার ভিজ্যুয়াল অভিজ্ঞতা প্রদান করুন।"
+          },
+          "feature_items": [
+            {
+              "id": "chroma_key",
+              "title": "স্ক্রিন কাস্টিং ও ভার্চুয়াল ক্যামেরা",
+              "desc": "আপনার ফোন পিসিতে কাস্ট করুন এবং ভার্চুয়াল ক্যামেরা প্রযুক্তি ব্যবহার করে পেশাদার লাইভ স্ট্রিম তৈরি করুন।"
+            },
+            {
+              "id": "multi_cam",
+              "title": "মাল্টি-ক্যামেরা সাপোর্ট",
+              "desc": "লাইভ স্ট্রিমের সময় এক ট্যাপে একাধিক ক্যামেরা অ্যাঙ্গেলের মধ্যে স্যুইচ করুন, আরও সমৃদ্ধ দৃষ্টিভঙ্গি পেতে।"
+            },
+            {
+              "id": "2d3d_effects",
+              "title": "2D/3D ইফেক্ট",
+              "desc": "চমৎকার 2D/3D ইফেক্ট লেয়ার যোগ করে একটি গতিশীল ও আকর্ষণীয় লাইভ রুম তৈরি করুন।"
+            },
+            {
+              "id": "multi_platform_push",
+              "title": "মাল্টি-প্ল্যাটফর্ম স্ট্রিমিং",
+              "desc": "YouTube, Twitch, TikTok, Facebook Live এবং আরও অনেক প্ল্যাটফর্মে স্ট্রিম করুন।"
+            },
+            {
+              "id": "virtual_controller",
+              "title": "ভার্চুয়াল কন্ট্রোলার",
+              "desc": "যেকোনো ডিভাইস থেকে আপনার লাইভ স্ট্রিম রিমোটলি নিয়ন্ত্রণ করুন: সিন পরিবর্তন করুন, অডিও মিউট করুন এবং রিয়েল-টাইমে ইফেক্ট অ্যাডজাস্ট করুন।"
+            },
+            {
+              "id": "multi_platform_live",
+              "title": "একসাথে একাধিক প্ল্যাটফর্মে লাইভ",
+              "desc": "আপনার পিসি থেকে একই সাথে TikTok, YouTube, Twitch এবং Instagram-এ লাইভ যান।"
+            }
+          ]
+        }
+      }
+    ],
+    "homes": [
+      {
+        "hero_title": "মোবাইল গ্রিন স্ক্রিন ইফেক্ট ও স্ক্রিন কাস্টিং",
+        "top_badge": "AI-চালিত লাইভ স্ট্রিমিং টুল",
+        "hero_subtitle": "বিশ্বব্যাপী লাইভ স্ট্রিমিং ইকোসিস্টেমকে শক্তি দিচ্ছে",
+        "hero_description_1": "VicastCam উন্নত AI ম্যাটিং ব্যবহার করে লাইভ স্ট্রিমের সময় নির্বিঘ্নে ভার্চুয়াল ব্যাকগ্রাউন্ড পরিবর্তন করতে দেয়, যা একটি",
+        "hero_description_2": "নিমগ্ন অভিজ্ঞতা প্রদান করে এবং আপনার পেশাদার ইমেজকে উন্নত করে।",
+        "user_count_label": "বৈশ্বিক ব্যবহারকারী",
+        "rating_label": "অ্যাপ স্টোর রেটিং",
+        "download_count_label": "বৈশ্বিক ডাউনলোড",
+        "app_store_url": "অ্যাপ স্টোর থেকে ডাউনলোড করুন",
+        "google_play_url": "Android-এ ডাউনলোড করুন",
+        "desktop_client_url": "ডেস্কটপ ক্লায়েন্ট ডাউনলোড করুন",
+        "request_success": "অনুরোধ সফল হয়েছে",
+        "request_fail": "অনুরোধ ব্যর্থ হয়েছে",
+        "request_loading": "লোড হচ্ছে"
+      }
+    ]
+  }
+}

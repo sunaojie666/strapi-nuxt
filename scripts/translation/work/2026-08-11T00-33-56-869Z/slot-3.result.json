@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "slot": "3",
+  "results": [
+    {
+      "locale": "nl",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "$: array structure changed"
+    },
+    {
+      "locale": "ko",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "$: array structure changed"
+    }
+  ]
+}

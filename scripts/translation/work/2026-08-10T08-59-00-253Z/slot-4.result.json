@@ -1,0 +1,36 @@
+{
+  "complete": true,
+  "slot": "4",
+  "results": [
+    {
+      "locale": "th",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T08-59-00-253Z\\th.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "it",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T08-59-00-253Z\\it.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation ur failed after 3 attempts: translation ur returned invalid JSON: Expected double-quoted property name in JSON at position 23965 (line 509 column 33)"
+    }
+  ]
+}

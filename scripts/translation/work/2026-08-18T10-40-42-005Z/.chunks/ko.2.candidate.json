@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "시작하기",
+      "count": "11개 강의",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "첫 번째 가상 스튜디오 만들기",
+          "description": "처음부터 가상 스튜디오를 설정하고 구성하는 방법을 알아봅니다.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "이미지 도구 이해하기",
+          "description": "이미지 도구의 기본 기능과 일반적인 사용 사례를 살펴봅니다.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "레이어 작업하기",
+          "description": "레이어 패널을 익히고 레이어를 효율적으로 관리하는 방법을 알아봅니다.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "배경 레이어 사용하기",
+          "description": "씬에 배경 레이어를 추가하고 조정하는 방법을 배웁니다.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "인물 레이어 사용하기",
+          "description": "인물 레이어를 추가하여 라이브 프로덕션을 향상시킵니다.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "이미지 레이어 사용하기",
+          "description": "스튜디오 설정에 이미지 레이어를 추가하고 편집합니다.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "비디오 레이어 사용하기",
+          "description": "비디오 클립을 추가하고 재생 설정을 제어합니다.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "효과 레이어 사용하기",
+          "description": "효과 레이어로 라이브 스트림에 시각 효과를 적용합니다.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "자막 레이어 사용하기",
+          "description": "자막을 만들고 모양을 사용자 지정합니다.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "가상 아바타 사용하기",
+          "description": "가상 아바타 통합으로 스트림에 생동감을 더하세요.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "씬 사용하기",
+          "description": "스트리밍 중에 다양한 씬 레이아웃을 원활하게 전환합니다.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "고급 튜토리얼",
+      "count": "6개 강의",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "카메라 이동 레이어 사용하기",
+          "description": "카메라 이동 레이어로 다이내믹한 장면을 연출합니다.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "경로 애니메이션 사용하기",
+          "description": "궤적 기능으로 요소의 이동 경로를 제어합니다.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "멀티 카메라 레이어 사용하기",
+          "description": "빠른 각도 전환을 위해 멀티 카메라 레이어를 설정합니다.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "컨트롤러 사용하기",
+          "description": "단일 제어판에서 전체 방송을 관리합니다.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "오디오 설정 및 믹싱",
+          "description": "오디오 입력, 출력 및 믹스 설정을 구성합니다.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "백업 및 복원",
+          "description": "스튜디오 구성을 백업하고 필요할 때 복원합니다.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Thỏa thuận người dùng",
+        "updatedAt": "22 tháng 7, 2026",
+        "description": "Thỏa thuận cấp phép người dùng này (\"Thỏa thuận\") được ký kết giữa Bên cấp phép và người dùng phần mềm này (\"bạn\" hoặc \"người dùng\") và điều chỉnh mọi hành động của bạn khi tải xuống, cài đặt, đăng ký, đăng nhập và sử dụng phần mềm này.",
+        "sections": [
+          {
+            "title": "",
+            "paragraphs": [
+              "Bên cấp phép: Vicast International Limited",
+              "Kênh chính thức: Trang web chính thức của VicastCam và các cửa hàng ứng dụng được ủy quyền (Apple App Store / Google Play Store)",
+              "Email liên hệ: service@vicastcam.com",
+              "Cập nhật lần cuối: 22 tháng 7, 2026",
+              "Chào mừng bạn đến với VicastCam (\"Phần mềm này\")!",
+              "Sản phẩm VicastCam chỉ được cung cấp cho người dùng ngoài lãnh thổ Trung Quốc đại lục. Chúng tôi không chủ động quảng bá sản phẩm tới người dùng tại Trung Quốc đại lục. Nếu bạn đang ở Trung Quốc đại lục, xin lưu ý rằng sản phẩm này không có giấy phép hoạt động liên quan tại Trung Quốc đại lục.",
+              "Thỏa thuận cấp phép người dùng này (\"Thỏa thuận\") được ký kết giữa Bên cấp phép và người dùng phần mềm này (\"bạn\" hoặc \"người dùng\") và điều chỉnh mọi hành động của bạn khi tải xuống, cài đặt, đăng ký, đăng nhập và sử dụng phần mềm này.",
+              "Bằng cách nhấp vào nút \"Đồng ý\" trong Phần mềm này, bạn tự nguyện chấp nhận tất cả các điều khoản của Thỏa thuận này. Nếu bạn không chấp nhận, Bên cấp phép không cấp cho bạn quyền sử dụng Phần mềm. Vui lòng ngừng sử dụng và gỡ cài đặt Phần mềm ngay lập tức. Việc bạn tiếp tục sử dụng Phần mềm đồng nghĩa với việc bạn đồng ý và chấp nhận Thỏa thuận này cùng mọi sửa đổi sau đó.",
+              "Bạn xác nhận rằng bạn đủ 18 tuổi hoặc đã đạt độ tuổi thành niên theo quy định pháp luật tại khu vực tài phán của bạn (\"người trưởng thành\"). Người chưa thành niên phải sử dụng Phần mềm này khi có sự đồng ý rõ ràng và dưới sự giám sát của người giám hộ hợp pháp, người này phải thực hiện trách nhiệm giám hộ theo quy định của pháp luật."
+            ],
+            "key": "agreement-overview"
+          },
+          {
+            "title": "1 Phạm vi áp dụng",
+            "paragraphs": [
+              "1.1 Trước khi sử dụng Phần mềm, vui lòng đọc kỹ Thỏa thuận này, đặc biệt là các điều khoản cốt lõi được in đậm, bao gồm các tuyên bố miễn trừ trách nhiệm, luật điều chỉnh và giải quyết tranh chấp. Nếu bạn không đồng ý với bất kỳ điều khoản nào, vui lòng ngừng sử dụng Phần mềm ngay lập tức.",
+              "1.2 Phần mềm này chủ yếu dành cho người trưởng thành. Người chưa thành niên phải có sự đồng ý của người giám hộ hợp pháp trước khi sử dụng Phần mềm này và phải sử dụng dưới sự giám sát của người giám hộ. Người giám hộ phải thực hiện nghĩa vụ giám hộ theo quy định của pháp luật.",
+              "1.3 Thỏa thuận này bao gồm các quy tắc nền tảng như thông báo, quy tắc sự kiện và thông báo trong ứng dụng do Phần mềm này công bố. Tất cả các quy tắc nền tảng là một phần không thể tách rời của Thỏa thuận này và có hiệu lực pháp lý tương đương với Thỏa thuận này.",
+              "1.4 Bằng cách đăng ký, đăng nhập hoặc sử dụng Phần mềm này, bạn được coi là đã đọc, hiểu và đồng ý bị ràng buộc bởi Thỏa thuận này.",
+              "1.5 Tất cả quyền sở hữu trí tuệ trong Phần mềm này và mọi quyền không được cấp rõ ràng cho người dùng đều được bảo lưu bởi Bên cấp phép."
+            ],
+            "key": "agreement-section-1"
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Phần mềm này và các dịch vụ liên quan",
+            "paragraphs": [
+              "2.1 Phần mềm này là công cụ hỗ trợ cho các tình huống phát trực tiếp, cung cấp các tính năng như phát trực tiếp, thiết lập cảnh ảo, AI tách nền, hiệu ứng khuôn mặt và bộ lọc làm đẹp. Các dịch vụ và tính năng cụ thể tùy theo hiển thị thực tế của sản phẩm.",
+              "2.2 Bạn chỉ có thể tải ứng dụng từ các kênh chính thức (Apple App Store hoặc Google Play Store). Mọi rủi ro và tổn thất phát sinh từ việc sử dụng phiên bản không chính thức sẽ do bạn tự chịu trách nhiệm.",
+              "2.3 Để sử dụng Phần mềm này, bạn cần tự chuẩn bị thiết bị đầu cuối và kết nối mạng, đồng thời chịu phí internet và dữ liệu liên quan. Toàn bộ tính năng yêu cầu kết nối internet.",
+              "2.4 Bên cấp phép cấp cho bạn giấy phép sử dụng Phần mềm mang tính cá nhân, phi thương mại, không chuyển nhượng, có thể thu hồi và không độc quyền. Nếu không có sự cho phép bằng văn bản trước từ Bên cấp phép, bạn bị cấm sửa đổi, sao chép, phân phối, phản chiếu, thu thập dữ liệu, bán hoặc sử dụng Phần mềm cho mục đích thương mại.",
+              "2.5 Bên cấp phép có quyền nâng cấp, điều chỉnh, tạm ngừng hoặc chấm dứt một phần hoặc toàn bộ dịch vụ dựa trên nhu cầu tối ưu hóa sản phẩm, bảo trì bảo mật, vận hành tuân thủ và các nhu cầu khác. Bạn có thể chọn có cập nhật ứng dụng hay không; việc từ chối cập nhật có thể dẫn đến hạn chế chức năng. Bạn có quyền gỡ cài đặt ứng dụng bất cứ lúc nào để chấm dứt dịch vụ.",
+              "2.6 Mua hàng và Đăng ký",
+              "2.6.1 Tất cả các tính năng trả phí, giao dịch mua và đăng ký trong Phần mềm này được thực hiện thông qua hệ thống thanh toán của Apple App Store hoặc Google Play, và các giao dịch đó cũng phải tuân theo điều khoản dịch vụ của nền tảng tương ứng.",
+              "2.6.2 Quy tắc đăng ký",
+              "(1) Gia hạn tự động: Dịch vụ đăng ký sẽ tự động bị tính phí ít nhất 24 giờ trước khi kết thúc thời hạn dịch vụ hiện tại và hệ thống nền tảng sẽ gửi nhắc nhở gia hạn. Bạn có thể xem, quản lý và hủy gia hạn tự động bất cứ lúc nào bằng cách vào trang \"Cài đặt > Tài khoản > Đăng ký\" trên thiết bị của bạn (đường dẫn có thể khác nhau tùy theo nền tảng).",
+              "(2) Thay đổi giá: Nếu chúng tôi điều chỉnh giá đăng ký, chúng tôi sẽ thông báo ít nhất 30 ngày trước khi giá mới có hiệu lực thông qua thông báo trong ứng dụng, trang web chính thức hoặc các phương tiện hợp lý khác. Thay đổi giá sẽ không ảnh hưởng đến thời hạn đăng ký hiện tại đã có hiệu lực. Trong trường hợp luật pháp địa phương yêu cầu sự đồng ý bổ sung của người dùng, chúng tôi sẽ tuân thủ luật pháp.",
+              "(3) Dùng thử miễn phí: Nếu có dùng thử miễn phí, vui lòng tắt gia hạn tự động ít nhất 24 giờ trước khi kết thúc thời gian dùng thử để tránh bị tính phí.",
+              "2.6.3 Hoàn tiền theo khu vực và quyền rút lại theo luật định",
+              "(1) Người dùng ở Liên minh Châu Âu, Khu vực Kinh tế Châu Âu và Vương quốc Anh: Theo luật bảo vệ người tiêu dùng địa phương, bạn có quyền rút lại trong vòng 14 ngày mà không cần lý do. Xem Chính sách Hoàn tiền của VicastCam để biết chi tiết. Yêu cầu rút lại và hoàn tiền phải được gửi qua kênh chính thức (App Store hoặc Google Play) mà bạn đã sử dụng để mua hàng và việc hoàn tiền tuân theo quy tắc của nền tảng và luật pháp địa phương. Nếu bạn đã sử dụng dịch vụ trong thời gian cân nhắc 14 ngày, khoản hoàn tiền sẽ được tính theo tỷ lệ dựa trên mức sử dụng thực tế. Khi việc rút lại có hiệu lực, quyền sử dụng trả phí của bạn sẽ chấm dứt ngay lập tức.",
+              "(2) Thanh toán một lần và dịch vụ trọn đời: Nếu bạn xác nhận rõ ràng kích hoạt dịch vụ ngay lập tức và từ bỏ quyền rút lại trong 14 ngày, quyền rút lại mà không cần lý do sẽ không còn áp dụng.",
+              "(3) Tất cả các khu vực khác: Hoàn tiền và các vấn đề sau bán hàng chủ yếu tuân theo quy tắc chính thức của nền tảng mà bạn đã sử dụng để mua hàng.",
+              "2.6.4 Quy tắc sử dụng lợi ích trả phí",
+              "(1) Dịch vụ và lợi ích trả phí chỉ dành cho mục đích cá nhân.",
+              "(2) Bạn bị cấm cung cấp lợi ích trả phí cho bên thứ ba thông qua tặng, cho mượn, thuê, bán lại hoặc chia sẻ hàng loạt.",
+              "2.7 Phí, thành viên và quy tắc sử dụng thương mại",
+              "2.7.1 Bên cấp phép có quyền tính phí đối với Phần mềm và các dịch vụ mạng liên quan theo quy định của pháp luật. Bạn chịu trách nhiệm về mọi chi phí phần cứng, phần mềm và mạng cần thiết để sử dụng và phải thanh toán phí dịch vụ tương ứng đúng hạn.",
+              "2.7.2 Bạn phải thực hiện nghĩa vụ thuế theo quy định của pháp luật và chịu mọi loại thuế phát sinh từ việc sử dụng dịch vụ. Bạn bị cấm sử dụng dịch vụ trả phí một cách gian lận.",
+              "2.7.3 Chúng tôi có thể điều chỉnh hệ thống thành viên hoặc chấm dứt dịch vụ thành viên dựa trên nhu cầu vận hành hợp pháp. Nếu tài khoản bị cấm hoặc chấm dứt do vi phạm, phí đã thanh toán sẽ không được hoàn lại.",
+              "2.7.4 Nếu bạn cần sử dụng Phần mềm này cho mục đích thương mại, bạn phải đăng ký trước với Bên cấp phép và nhận được giấy phép sử dụng thương mại chính thức.",
+              "2.7.5 Bạn bị cấm sử dụng Phần mềm này để phát tán nội dung khiêu dâm hoặc bất hợp pháp nhằm mục đích kiếm lợi nhuận."
+            ]
+          },
+          {
+            "title": "3 Quản lý tài khoản",
+            "paragraphs": [
+              "3.1 Bạn có thể tự đăng ký tài khoản hoặc sử dụng tài khoản nền tảng bên thứ ba hợp pháp để đăng nhập. Tài khoản bên thứ ba phải được xác minh bằng thông tin tên thật và tuân thủ các quy tắc của nền tảng. Bạn chịu trách nhiệm bảo mật tài khoản và mật khẩu của mình cũng như mọi hành động được thực hiện bằng tài khoản của bạn.",
+              "3.2 Theo yêu cầu giám sát mạng và đăng ký tên thật trên toàn thế giới, bạn phải cung cấp thông tin nhận dạng và thông tin liên hệ (như email) chính xác, hợp lệ khi đăng ký. Nếu thông tin sai lệch hoặc bị nghi ngờ, Bên cấp phép có quyền yêu cầu chỉnh sửa, hạn chế hoặc chấm dứt dịch vụ. Một số thông tin đăng ký không thể sửa đổi vì mục đích xác minh bảo mật.",
+              "3.3 Một số tính năng cơ bản có thể được sử dụng mà không cần đăng nhập. Toàn bộ chức năng và dịch vụ trả phí yêu cầu đăng ký, đăng nhập và xác minh danh tính.",
+              "3.4 Thông tin tài khoản như biệt danh, hình đại diện và tiểu sử không được mạo danh tên, nhãn hiệu, chân dung hoặc các quyền hợp pháp khác của người khác và không được chứa nội dung bất hợp pháp, thô tục hoặc gây hiểu lầm. Bên cấp phép có quyền xem xét thông tin tài khoản và thực hiện các biện pháp như đặt lại, hạn chế chức năng hoặc cấm tài khoản nếu vi phạm.",
+              "3.5 Tài khoản chỉ dành cho mục đích cá nhân và có thể được đăng nhập trên các thiết bị bạn hợp pháp kiểm soát. Việc tặng, cho mượn, thuê, chuyển nhượng hoặc bán tài khoản đều bị cấm. Nếu phát hiện người dùng không khớp với người đăng ký, Bên cấp phép có quyền tạm ngưng hoặc chấm dứt dịch vụ.",
+              "3.6 Bạn chịu trách nhiệm về bảo mật và bảo mật của tài khoản và chịu toàn bộ trách nhiệm pháp lý đối với mọi hoạt động, nội dung và hành động trong tài khoản của mình.",
+              "3.7 Nếu tài khoản của bạn bị đánh cắp hoặc bạn quên mật khẩu, bạn có thể khôi phục thông qua kênh khiếu nại chính thức.",
+              "3.7.1 Nếu tài khoản của bạn bị đánh cắp, thông tin bị rò rỉ hoặc tài sản bị mất do bảo quản không đúng cách, mất thiết bị hoặc tự nguyện tiết lộ thông tin đăng nhập, bạn phải chịu toàn bộ trách nhiệm.",
+              "3.7.2 Dịch vụ khôi phục tài khoản chỉ xác minh thông tin được lưu trữ trong hệ thống và không thể xác định danh tính thực sự của người dùng. Bạn chịu các rủi ro liên quan. Nếu bạn nhận thấy bất kỳ hoạt động bất thường nào của tài khoản, vui lòng liên hệ ngay với bộ phận chăm sóc khách hàng chính thức.",
+              "3.8 Hủy tài khoản và xử lý dữ liệu",
+              "3.8.1 Bạn có thể yêu cầu hủy tài khoản thông qua \"Cá nhân > Cài đặt > Quản lý tài khoản > Hủy tài khoản\" trong Phần mềm hoặc qua email chính thức. Cần xác minh quyền sở hữu trước khi hủy.",
+              "3.8.2 Sau khi hủy tài khoản, sẽ có thời gian lưu trữ dữ liệu 30 ngày (chỉ để đối soát tài chính, giải quyết tranh chấp và xác minh sau bán hàng). Sau thời gian này, việc xóa vật lý vĩnh viễn sẽ được thực hiện, ngoại trừ các giao dịch phải được lưu giữ theo quy định của pháp luật.",
+              "3.8.3 Sau khi hủy tài khoản, tài khoản và dữ liệu không thể được khôi phục. Các nghĩa vụ và trách nhiệm phát sinh trong quá trình sử dụng của bạn không được miễn trừ khi hủy tài khoản."
+            ],
+            "key": "agreement-section-3"
+          },
+          {
+            "title": "4 Hành vi người dùng",
+            "paragraphs": [
+              "4.1 Bạn cam kết tuân thủ luật pháp toàn cầu về an ninh mạng, sở hữu trí tuệ, quyền chân dung và quyền riêng tư khi sử dụng Phần mềm này, đồng thời tôn trọng các quyền hợp pháp của người khác. Trừ khi được pháp luật cho phép hoặc được Bên cấp phép ủy quyền bằng văn bản, các hành vi sau đây bị cấm:",
+              "4.1.1 Tải lên hoặc phát tán thông tin cá nhân trái phép, bí mật thương mại hoặc nội dung vi phạm.",
+              "4.1.2 Sử dụng cheat, plugin hoặc công cụ của bên thứ ba để can thiệp hoặc phá vỡ hoạt động bình thường của Phần mềm này.",
+              "4.1.3 Tham gia vào các hành vi xâm nhập mạng bất hợp pháp, đánh cắp dữ liệu, phát tán virus, quét lỗ hổng, giả mạo gói dữ liệu mạng hoặc các cuộc tấn công mạng khác.",
+              "4.1.4 Đăng ký hàng loạt tài khoản với mục đích xấu.",
+              "4.1.5 Kỹ thuật đảo ngược, dịch ngược, tháo rời hoặc cố gắng bẻ khóa mã nguồn của Phần mềm này.",
+              "4.1.6 Tạo hoặc phát tán nội dung khiêu dâm, bạo lực, phỉ báng hoặc bất hợp pháp.",
+              "4.1.7 Quảng bá thuốc lá, rượu bia, cờ bạc, vũ khí hoặc các mặt hàng bị cấm.",
+              "4.1.8 Chụp lén, ghi âm hoặc phát tán hình ảnh, giọng nói hoặc thông tin riêng tư của người khác mà không được phép, xâm phạm quyền chân dung hoặc quyền riêng tư của họ.",
+              "4.1.9 Các hành vi khác vi phạm luật pháp địa phương, Thỏa thuận này hoặc quy tắc nền tảng.",
+              "4.1.10 Nếu bạn vi phạm Thỏa thuận này, Bên cấp phép có quyền xóa nội dung vi phạm mà không cần thông báo và áp dụng các hình phạt như cảnh cáo, cấm tính năng, cấm thiết bị hoặc cấm tài khoản vĩnh viễn, tùy theo mức độ nghiêm trọng. Người dùng vi phạm có thể gửi kháng nghị qua email chính thức và Bên cấp phép có thẩm quyền xem xét cuối cùng.",
+              "4.2 Khi tạo nội dung bằng Phần mềm này, bạn bị cấm sử dụng tài liệu, hiệu ứng hoặc logo tích hợp cho nhãn hiệu, logo hoặc định danh thương mại của bên thứ ba (ngoại trừ nội dung có bản quyền của riêng bạn).",
+              "4.3 Bạn không được sử dụng Phần mềm này để đăng hoặc phát tán nội dung bạo lực, khiêu dâm, phỉ báng, doxxing, xâm phạm quyền riêng tư, thư rác hoặc nội dung khác vi phạm pháp luật hoặc trật tự công cộng và thuần phong mỹ tục.",
+              "4.4 Bên cấp phép có quyền giám sát và xem xét hành vi của người dùng và có thể yêu cầu khắc phục, xóa nội dung, tạm ngưng hoặc chấm dứt dịch vụ khi phát hiện vi phạm.",
+              "4.5 Hạn chế tính năng đặc biệt",
+              "4.5.1 Máy ảnh và phát trực tiếp: Trước khi sử dụng máy ảnh, phát trực tiếp hoặc ghi màn hình, bạn phải nhận được sự đồng ý rõ ràng từ tất cả những người được quay hoặc ghi âm. Nghiêm cấm sử dụng Phần mềm này để chụp lén, ghi âm lén, phát trực tiếp bất hợp pháp hoặc các hành vi bất hợp pháp khác. Bạn chịu mọi trách nhiệm liên quan.",
+              "4.5.2 Tính năng AI: Quyền sở hữu trí tuệ đối với các thuật toán AI, mô hình, hiệu ứng và tài liệu hình ảnh trong Phần mềm này thuộc về Bên cấp phép hoặc các bên thứ ba hợp tác. Bạn chỉ được sử dụng chúng cho mục đích cá nhân, phi thương mại, hợp pháp. Bạn bị cấm tạo deepfake, âm thanh/video giả, lừa đảo hoặc nội dung bất hợp pháp.",
+              "4.5.3 Tuân thủ khu vực: Bạn phải tuân thủ nghiêm ngặt các yêu cầu quy định của quốc gia/khu vực của bạn về phát trực tiếp, thu thập dữ liệu sinh trắc học và nội dung AI.",
+              "4.6 Nếu vi phạm của bạn gây thiệt hại cho Bên cấp phép, phí đã thanh toán sẽ không được hoàn lại và bạn phải bồi thường toàn bộ mọi tổn thất kinh tế và danh tiếng cho Bên cấp phép."
+            ],
+            "key": "agreement-section-4"
+          },
+          {
+            "title": "5 Bảo vệ thông tin cá nhân",
+            "paragraphs": [
+              "5.1 Chúng tôi xử lý thông tin cá nhân của bạn một cách nghiêm ngặt tuân thủ GDPR của EU, Đạo luật Bảo vệ Dữ liệu của Vương quốc Anh, Pháp lệnh Dữ liệu Cá nhân (Riêng tư) của Hồng Kông và các quy định bảo vệ dữ liệu trên toàn thế giới. Theo Điều 27 của GDPR, chúng tôi đã chỉ định đại diện tuân thủ địa phương tại EU và Vương quốc Anh. Để biết chi tiết liên hệ cụ thể, vui lòng tham khảo tài liệu \"GDPR và Bảo vệ Dữ liệu\".",
+              "5.2 Bạn đồng ý rằng Bên cấp phép có thể thu thập, sử dụng và lưu trữ thông tin cá nhân theo Thỏa thuận này và Chính sách Quyền riêng tư. Chính sách Quyền riêng tư có hiệu lực pháp lý tương đương với Thỏa thuận này.",
+              "5.3 Chúng tôi sử dụng các công nghệ bảo mật như mã hóa và ẩn danh hóa để bảo vệ thông tin cá nhân của bạn khỏi rò rỉ, giả mạo và truy cập trái phép.",
+              "5.4 Nếu không có sự đồng ý rõ ràng của bạn, chúng tôi sẽ không chia sẻ thông tin cá nhân của bạn với bên thứ ba, trừ các trường hợp sau:",
+              "(1) Bạn tự tiết lộ cho bên thứ ba;",
+              "(2) Theo yêu cầu của an ninh quốc gia, an toàn công cộng, sức khỏe cộng đồng và các yêu cầu tư pháp hoặc hành chính theo luật định;",
+              "(3) Để bảo vệ các quyền và lợi ích hợp pháp quan trọng của Phần mềm này, người dùng khác hoặc bên thứ ba, và tuân thủ các quy định pháp luật;",
+              "(4) Thông tin thu được từ các nguồn công khai hợp pháp;",
+              "(5) Các trường hợp khác do pháp luật và quy định quy định.",
+              "5.5 Bạn có quyền hợp pháp để yêu cầu, sửa chữa, xóa và rút lại ủy quyền liên quan đến thông tin cá nhân của mình. Để biết các quy tắc chi tiết về thông tin cá nhân, vui lòng tham khảo Chính sách Quyền riêng tư."
+            ],
+            "key": "agreement-section-5"
+          },
+          {
+            "title": "6 Khiếu nại và Báo cáo",
+            "paragraphs": [
+              "6.1 Bạn có thể báo cáo nội dung vi phạm hoặc khiếu nại về hành vi xâm phạm thông qua ứng dụng hoặc email liên hệ chính thức.",
+              "6.2 Nếu quyền của bạn bị xâm phạm, bạn có thể gửi bằng chứng về quyền để nộp đơn khiếu nại. Bên bị khiếu nại có thể gửi bằng chứng về quyền sở hữu để kháng cáo.",
+              "6.3 Chúng tôi thường hoàn tất việc xem xét và phản hồi trong vòng 15 ngày làm việc. Đối với các trường hợp phức tạp, chúng tôi sẽ cập nhật tiến độ cho bạn."
+            ],
+            "key": "agreement-section-6"
+          },
+          {
+            "title": "7 Xử lý vi phạm",
+            "paragraphs": [
+              "7.1 Nếu bạn vi phạm Thỏa thuận này, quy tắc nền tảng hoặc luật pháp và quy định địa phương, Bên cấp phép có thể áp dụng các biện pháp như cảnh báo, hạn chế tính năng, xóa nội dung, tạm ngừng dịch vụ hoặc khóa tài khoản vĩnh viễn. Mọi tổn thất phát sinh từ các biện pháp này sẽ do bạn chịu, và nội dung cũng như dữ liệu đã xóa sẽ không được khôi phục.",
+              "7.2 Nếu phát hiện các hoạt động bất hợp pháp hoặc tội phạm bị nghi ngờ, Bên cấp phép sẽ lưu giữ bằng chứng và báo cáo cho cơ quan thực thi pháp luật và hợp tác điều tra.",
+              "7.3 Nếu hành vi vi phạm của bạn khiến Bên cấp phép bị bên thứ ba khiếu kiện, bị xử phạt hành chính hoặc chịu tổn thất về danh tiếng hoặc kinh tế, bạn sẽ chịu mọi tổn thất của Bên cấp phép."
+            ],
+            "key": "agreement-section-7"
+          },
+          {
+            "title": "8 Sở hữu trí tuệ",
+            "paragraphs": [
+              "8.1 Quyền sở hữu trí tuệ đối với mã, giao diện, văn bản, hình ảnh, âm thanh/video, hiệu ứng, nhãn hiệu và logo của Phần mềm này thuộc về Bên cấp phép.",
+              "8.2 Bên cấp phép sở hữu mọi quyền đối với dữ liệu và thông tin hợp pháp được tạo ra trong quá trình vận hành sản phẩm.",
+              "8.3 Nếu không có sự ủy quyền bằng văn bản rõ ràng từ Bên cấp phép, bạn bị cấm sử dụng, sao chép, bắt chước hoặc đăng ký thương hiệu, nhãn hiệu, tên miền, logo \"VicastCam\", v.v. Nếu bạn gây tổn thất thông qua việc sử dụng trái phép, bạn sẽ phải chịu toàn bộ trách nhiệm pháp lý.",
+              "8.4 Phần mềm này bao gồm các thành phần phần mềm được phân phối theo giấy phép mã nguồn mở và giấy phép của bên thứ ba. Bạn phải tuân thủ nghiêm ngặt các điều khoản giấy phép tương ứng khi sử dụng các thành phần đó."
+            ],
+            "key": "agreement-section-8"
+          },
+          {
+            "title": "9 Điều khoản cho người chưa thành niên",
+            "paragraphs": [
+              "9.1 Người chưa thành niên phải có sự đồng ý rõ ràng từ người giám hộ hợp pháp trước khi sử dụng Phần mềm này và phải sử dụng dưới sự giám sát của người giám hộ. Người giám hộ có quyền yêu cầu hạn chế hoặc hủy bỏ tài khoản của người dùng chưa thành niên.",
+              "9.2 Bên cấp phép cẩn thận thu thập thông tin cá nhân của người dùng chưa thành niên. Người giám hộ nên hướng dẫn người chưa thành niên bảo vệ quyền riêng tư cá nhân và an ninh mạng.",
+              "9.3 Người giám hộ nên thực hiện nghĩa vụ giám hộ theo pháp luật, hướng dẫn người chưa thành niên sử dụng internet lành mạnh và ngăn ngừa nghiện internet.",
+              "9.4 Người chưa thành niên và người giám hộ của họ chịu trách nhiệm pháp lý đối với mọi hành động và hậu quả của việc sử dụng của người chưa thành niên.",
+              "9.5 Người chưa thành niên không được sử dụng camera để phát trực tiếp hoặc xuất hiện một mình trong video, và không được đăng nội dung bất hợp pháp hoặc thô tục.",
+              "9.6 Nếu Bên cấp phép phát hiện người chưa thành niên sử dụng Phần mềm mà không có sự đồng ý của người giám hộ, Bên cấp phép có quyền trực tiếp hạn chế hoặc khóa tài khoản tương ứng.",
+              "9.7 Người giám hộ nên giữ an toàn tài khoản thanh toán và mật khẩu để tránh các khoản phí trái phép do người chưa thành niên gây ra. Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức."
+            ],
+            "key": "agreement-section-9"
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Tuyên bố miễn trừ trách nhiệm",
+            "paragraphs": [
+              "10.1 Bạn xác nhận và đồng ý rằng việc sử dụng ứng dụng này hoàn toàn do bạn tự chịu rủi ro. Trong phạm vi tối đa được pháp luật hiện hành cho phép, ứng dụng này và mọi dịch vụ do ứng dụng này thực hiện hoặc cung cấp được cung cấp \"nguyên trạng\" và \"theo khả năng hiện có\" với mọi lỗi và không có bất kỳ bảo hành nào, và Bên cấp phép từ chối mọi bảo hành và điều kiện liên quan đến ứng dụng này và mọi dịch vụ, dù là bảo hành rõ ràng, ngụ ý hay theo quy định pháp luật, bao gồm nhưng không giới hạn các bảo hành và/hoặc điều kiện ngụ ý về khả năng bán được, chất lượng đạt yêu cầu, phù hợp với mục đích cụ thể, tính chính xác, hưởng thụ yên tĩnh và không vi phạm quyền của bên thứ ba. Không có thông tin hoặc lời khuyên nào bằng lời nói hoặc văn bản do Bên cấp phép hoặc đại diện được ủy quyền của Bên cấp phép đưa ra sẽ tạo thành bảo hành. Nếu ứng dụng hoặc dịch vụ này được phát hiện có lỗi, bạn phải chịu toàn bộ chi phí cho mọi hoạt động bảo trì, sửa chữa hoặc khắc phục cần thiết. Một số khu vực pháp lý không cho phép loại trừ bảo hành ngụ ý hoặc giới hạn quyền lợi theo luật định của người tiêu dùng, do đó các loại trừ và giới hạn trên có thể không áp dụng cho bạn.",
+              "10.2 Bên cấp phép sẽ sử dụng các công nghệ bảo mật đạt tiêu chuẩn ngành để đảm bảo dịch vụ vận hành ổn định. Trong phạm vi pháp luật và quy định cho phép, Bên cấp phép sẽ không chịu trách nhiệm bồi thường cho các gián đoạn dịch vụ hoặc bất thường dữ liệu tạm thời do các nguyên nhân bất khả kháng, thiên tai, chiến tranh, lệnh cấm của chính phủ, sự cố mạng, bảo trì hệ thống, tấn công mạng, vi-rút, sự cố dịch vụ của bên thứ ba, bất thường thiết bị hoặc các yếu tố khác nằm ngoài tầm kiểm soát của Bên cấp phép.",
+              "10.3 Nếu dịch vụ bị tạm ngưng hoặc chấm dứt do bảo trì hệ thống, nâng cấp phiên bản, khắc phục tuân thủ hoặc điều chỉnh kinh doanh, chúng tôi sẽ thông báo trước hợp lý qua thông báo trong ứng dụng và trang web chính thức.",
+              "10.4 Nếu thiết bị của bạn bị hư hỏng hoặc dữ liệu bị mất do lỗi thao tác của bạn, sự cố thiết bị, cài đặt mạng không chính xác hoặc sử dụng Phần mềm này không đúng cách, bạn phải chịu mọi tổn thất.",
+              "10.5 Chúng tôi có quyền điều chỉnh tính năng dịch vụ, sửa đổi nội dung dịch vụ hoặc dọn dẹp dữ liệu máy chủ dựa trên hoạt động hợp pháp, bảo mật hệ thống, khắc phục tuân thủ và các lý do khác. Chúng tôi sẽ không xóa dữ liệu người dùng mà không có lý do.",
+              "10.6 Giới hạn trách nhiệm",
+              "Trong phạm vi không bị pháp luật cấm, trong mọi trường hợp, Bên cấp phép sẽ không chịu trách nhiệm về thương tích cá nhân hoặc bất kỳ thiệt hại ngẫu nhiên, đặc biệt, gián tiếp hoặc do hậu quả nào, bao gồm nhưng không giới hạn mất lợi nhuận, mất dữ liệu, gián đoạn kinh doanh hoặc bất kỳ thiệt hại hoặc tổn thất thương mại nào khác, phát sinh từ hoặc liên quan đến việc bạn sử dụng hoặc không thể sử dụng ứng dụng được cấp phép, bất kể lý thuyết trách nhiệm (hợp đồng, bồi thường thiệt hại ngoài hợp đồng hoặc cách khác), ngay cả khi Bên cấp phép đã được thông báo về khả năng xảy ra thiệt hại đó. Một số khu vực pháp lý không cho phép giới hạn trách nhiệm đối với thương tích cá nhân hoặc thiệt hại ngẫu nhiên hoặc do hậu quả, do đó giới hạn này có thể không áp dụng cho bạn.",
+              "Ngoại trừ các quy định bắt buộc của luật địa phương về thương tích cá nhân, tổng trách nhiệm của Bên cấp phép đối với mọi thiệt hại sẽ không vượt quá 1 đô la Mỹ (1,00 USD). Các giới hạn trên sẽ được áp dụng ngay cả khi biện pháp khắc phục nêu trên không đạt được mục đích thiết yếu của nó.",
+              "Đối với các khu vực pháp lý như Liên minh Châu Âu, Khu vực Kinh tế Châu Âu và Vương quốc Anh, điều khoản giới hạn trách nhiệm này sẽ được áp dụng nghiêm ngặt theo luật bảo vệ người tiêu dùng địa phương."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Điều khoản khác",
+            "paragraphs": [
+              "11.1 Luật điều chỉnh",
+              "Thỏa thuận này và mối quan hệ giữa bạn và Bên cấp phép sẽ được điều chỉnh bởi luật pháp của Đặc khu hành chính Hồng Kông, Cộng hòa Nhân dân Trung Hoa, loại trừ các quy định về xung đột pháp luật. Công ước Liên Hợp Quốc về Hợp đồng Mua bán Hàng hóa Quốc tế sẽ không áp dụng cho Thỏa thuận này.",
+              "11.2 Giải quyết tranh chấp",
+              "Mọi tranh chấp phát sinh từ hoặc liên quan đến Thỏa thuận này trước tiên sẽ được giải quyết thông qua thương lượng hòa giải. Nếu thương lượng thất bại, bạn và Bên cấp phép đồng ý đưa tranh chấp ra tòa án có thẩm quyền tại Đặc khu hành chính Hồng Kông, Cộng hòa Nhân dân Trung Hoa.",
+              "Nếu bạn là cư dân của một quốc gia thành viên EU, điều khoản thẩm quyền này không ảnh hưởng đến quyền lợi theo luật định của bạn theo luật bảo vệ người tiêu dùng bắt buộc của địa phương.",
+              "11.3 Sửa đổi Thỏa thuận",
+              "Bên cấp phép có quyền sửa đổi Thỏa thuận này trong quá trình thử nghiệm sản phẩm và vận hành chính thức, đồng thời sẽ công bố các sửa đổi thông qua các phương tiện hợp lý như thông báo trong ứng dụng và trang web chính thức. Sau khi được công bố, các điều khoản sửa đổi sẽ trở thành một phần có hiệu lực của Thỏa thuận này và có hiệu lực pháp lý tương đương.",
+              "11.4 Mối quan hệ giữa các bên",
+              "Bạn và Bên cấp phép là các chủ thể dân sự độc lập. Thỏa thuận này không cấu thành bất kỳ mối quan hệ pháp lý nào như đại lý, hợp danh, quan hệ lao động, hiệp hội hoặc liên doanh. Apple Inc. và Google LLC chỉ là các kênh phân phối và thanh toán cho Phần mềm này, không tham gia vào việc phát triển hoặc vận hành Phần mềm này, cũng không chịu bất kỳ trách nhiệm pháp lý nào đối với Phần mềm này hoặc các dịch vụ của nó.",
+              "11.5 Hiệu lực và chấm dứt",
+              "Thỏa thuận này có hiệu lực kể từ ngày bạn đồng ý với các điều khoản và đăng ký tài khoản. Thỏa thuận chấm dứt khi Bên cấp phép chấm dứt dịch vụ hoặc bạn mất quyền sử dụng Phần mềm. Sau khi chấm dứt, các nghĩa vụ và trách nhiệm của bạn trong thời gian sử dụng vẫn còn hiệu lực.",
+              "11.6 Tiêu đề",
+              "Các tiêu đề của các mục trong Thỏa thuận này chỉ nhằm mục đích thuận tiện và không ảnh hưởng đến việc giải thích hoặc áp dụng các điều khoản.",
+              "11.7 Tuyên bố về bản quyền và quyền",
+              "Bản quyền của văn bản Thỏa thuận này thuộc về Bên cấp phép. Bên cấp phép có quyền sửa đổi Thỏa thuận theo luật pháp, quy định và nhu cầu kinh doanh, đồng thời có quyền giải thích Thỏa thuận một cách hợp pháp."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

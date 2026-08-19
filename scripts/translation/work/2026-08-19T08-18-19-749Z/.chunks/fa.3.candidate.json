@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "تاریخچه خرید",
+    "title": "تاریخچه خرید",
+    "tabTitle": "خریدها",
+    "exchangeTabTitle": "بازخریدها",
+    "tableHeaders": {
+      "title": "نوع",
+      "date": "زمان پرداخت",
+      "price": "مبلغ",
+      "paymentMethod": "روش پرداخت",
+      "status": "وضعیت",
+      "exchangeDate": "زمان بازخرید",
+      "exchangeCode": "کد بازخرید"
+    },
+    "exchangeTableHeaders": {
+      "date": "زمان بازخرید",
+      "code": "کد بازخرید"
+    },
+    "cardTypes": {
+      "month": "کارت ماهانه",
+      "year": "کارت سالانه",
+      "life": "کارت مادامالعمر",
+      "default": "کارت عضویت"
+    },
+    "orderStatuses": {
+      "pending": "در انتظار پرداخت",
+      "paid": "پرداخت شده",
+      "closed": "بسته شده",
+      "refunded": "بازپرداخت شده",
+      "unknown": "نامشخص"
+    },
+    "secretLabels": {
+      "show": "نمایش رمز",
+      "hide": "پنهان کردن رمز"
+    },
+    "secretMask": "******",
+    "emptyText": "هنوز خریدی ثبت نشده است",
+    "exchangeEmptyText": "هنوز بازخریدی ثبت نشده است",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "پیپال",
+      "stripe": "استرایپ",
+      "card": "کارت بانکی",
+      "creditcard": "کارت اعتباری",
+      "alipay": "علیپی",
+      "wechat": "ویچت پی",
+      "wechatpay": "ویچت پی",
+      "usdt": "USDT",
+      "crypto": "ارز دیجیتال",
+      "balance": "موجودی",
+      "free": "رایگان"
+    }
+  },
+  "team": {
+    "ariaLabel": "تیم من",
+    "title": "تیم من",
+    "referrerLabel": "معرف من",
+    "levelOne": "اعضای سطح ۱",
+    "levelTwo": "اعضای سطح ۲",
+    "tableHeaders": {
+      "name": "نام عضو",
+      "status": "وضعیت عضویت",
+      "joinedAt": "زمان عضویت"
+    },
+    "memberStatus": {
+      "free": "کاربر رایگان",
+      "vip": "کاربر VIP"
+    },
+    "emptyMemberName": "کاربر بدون نام",
+    "emptyReferrer": "بدون معرف",
+    "emptyTeam": "هنوز عضوی در تیم نیست",
+    "errors": {
+      "loadFail": "بارگیری اعضای تیم ناموفق بود. لطفاً بعداً دوباره تلاش کنید."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "مرکز درآمد",
+    "title": "نمای کلی درآمد",
+    "commissionTitle": "جزئیات کمیسیون",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "کل درآمد",
+        "desc": "کل کمیسیون کسب شده تا به امروز"
+      },
+      {
+        "key": "month",
+        "title": "این ماه",
+        "desc": "کمیسیون کسب شده در این ماه"
+      },
+      {
+        "key": "settling",
+        "title": "در انتظار تسویه",
+        "value": "0.00",
+        "desc": "مبلغ در انتظار تسویه"
+      },
+      {
+        "key": "withdrawable",
+        "title": "قابل برداشت",
+        "desc": "مبلغی که در حال حاضر برای برداشت موجود است",
+        "action": "برداشت"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "نام کاربری",
+      "saleTime": "زمان فروش",
+      "goodsInfo": "محصول",
+      "commission": "کمیسیون"
+    },
+    "emptyCommission": "هنوز رکوردی از کمیسیون ثبت نشده است",
+    "errors": {
+      "loadFail": "بارگیری جزئیات کمیسیون ناموفق بود. لطفاً بعداً دوباره تلاش کنید."
+    },
+    "withdraw": {
+      "ariaLabel": "درخواست برداشت",
+      "title": "درخواست برداشت",
+      "closeLabel": "بستن پنجره برداشت",
+      "balanceLabel": "موجودی قابل برداشت",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "مبلغ برداشت",
+      "amountPlaceholder": "مبلغ برداشت را وارد کنید",
+      "allButton": "همه",
+      "allAmountValue": "0.00",
+      "amountTip": "لطفاً صحت مبلغ را تأیید کنید. درخواست شما پس از ارسال به صورت دستی بررسی خواهد شد.",
+      "methodLabel": "روش برداشت",
+      "methods": [
+        "کارت بانکی",
+        "پیپال",
+        "USDT"
+      ],
+      "defaultMethod": "کارت بانکی",
+      "nameLabel": "نام گیرنده",
+      "namePlaceholder": "نام گیرنده را وارد کنید",
+      "defaultName": "",
+      "bankCardLabel": "شماره حساب",
+      "bankCardPlaceholder": "شماره کارت بانکی، ایمیل پیپال یا آدرس کیف پول را وارد کنید",
+      "remarkLabel": "توضیحات",
+      "remarkPlaceholder": "هرگونه توضیحات اضافی را وارد کنید",
+      "note": "درخواستهای برداشت در ۱ تا ۳ روز کاری پردازش میشوند.",
+      "cancelButton": "انصراف",
+      "submitButton": "ارسال درخواست"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "بازخرید با موفقیت انجام شد",
+    "operationFailed": "بازخرید ناموفق بود",
+    "invalidCard": "کد بازخرید نامعتبر است",
+    "cardNotFound": "کد بازخرید یافت نشد",
+    "cardDisabled": "کد بازخرید غیرفعال است",
+    "cardExpired": "کد بازخرید منقضی شده است"
+  },
+  "successMessage": "عملیات با موفقیت انجام شد"
+}

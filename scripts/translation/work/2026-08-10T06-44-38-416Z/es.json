@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "es",
+        "loginTitle1": "Cambia tu fondo virtual con un clic",
+        "loginTitle2": "Haz que tus transmisiones en vivo brillen",
+        "loginDes1": "Una herramienta profesional de transmisión en vivo impulsada por IA",
+        "loginDes2": "Fondos virtuales, mejoras para transmisiones en vivo y emisión multiplataforma, todo sencillo",
+        "featureTitle1": "Recorte por IA",
+        "featureSubTitle1": "Reemplazo de fondo en tiempo real",
+        "featureTitle2": "Transmisión multiplataforma",
+        "featureSubTitle2": "Empieza a transmitir con un clic",
+        "featureTitle3": "Cámara virtual",
+        "featureSubTitle3": "Convierte tu teléfono en una cámara web",
+        "loginBox": {
+          "loginPageTitle": "Iniciar sesión / Registrarse",
+          "codeLoginTab": "Iniciar sesión con código",
+          "pwdLoginTab": "Iniciar sesión con contraseña",
+          "qrLoginTab": "Iniciar sesión con código QR",
+          "emailInputPlaceholder": "Introduce tu correo electrónico para iniciar sesión",
+          "pwdInputPlaceholder": "Introduce tu contraseña",
+          "verifyCodePlaceholder": "Introduce el código de verificación",
+          "getVerifyCodeText": "Obtener código",
+          "loginBtnText": "Iniciar sesión",
+          "qrLoginTip": "Usa la aplicación VicastCam para escanear el código QR",
+          "qrWaitingTip": "Esperando confirmación del escaneo",
+          "agreeProtocolText": "He leído y acepto la Política de Privacidad y el Acuerdo de Usuario",
+          "userProtocolText": "Acuerdo de Usuario",
+          "privacyPolicyText": "Política de Privacidad",
+          "agreeProtocolPrefix": "He leído y acepto"
+        },
+        "toastBox": {
+          "closeToastLabel": "Descartar",
+          "requestLoading": "Cargando",
+          "requestSuccess": "Operación completada",
+          "requestFail": "Error en la solicitud",
+          "passwordLoginNotReady": "El inicio de sesión con contraseña aún no está disponible",
+          "passwordRequired": "Introduce tu contraseña",
+          "emailRequired": "Introduce tu correo electrónico para iniciar sesión",
+          "verifyCodeRequired": "Introduce el código de verificación",
+          "agreeProtocolRequired": "Lee y acepta la Política de Privacidad y el Acuerdo de Usuario",
+          "qrcodeExpired": "El código QR ha caducado. Inténtalo de nuevo."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "es",
+        "hero_section": {
+          "tag": "Herramienta de transmisión en vivo impulsada por IA",
+          "title_main": "Efectos de croma y proyección de pantalla desde tu teléfono",
+          "title_highlight": "Potenciando la transmisión en vivo en todo el mundo",
+          "description": "VicastCam utiliza recorte avanzado por IA para que cambies de fondo virtual sin interrupciones durante tus transmisiones en vivo, añadiendo efectos inmersivos para crear una presencia profesional.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Descargar"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Descargar"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam ofrece a los creadores fondos virtuales, mejoras para transmisiones en vivo y herramientas multiplataforma."
+          },
+          "columns": [
+            {
+              "title": "Producto",
+              "links": [
+                {
+                  "text": "Funciones"
+                },
+                {
+                  "text": "Precios"
+                },
+                {
+                  "text": "Centro de descargas"
+                }
+              ]
+            },
+            {
+              "title": "Desarrolladores",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Documentación de API"
+                }
+              ]
+            },
+            {
+              "title": "Empresa",
+              "links": [
+                {
+                  "text": "Sobre nosotros"
+                },
+                {
+                  "text": "Política de Privacidad"
+                },
+                {
+                  "text": "Acuerdo de Usuario"
+                },
+                {
+                  "text": "Acuerdo de Membresía"
+                }
+              ]
+            },
+            {
+              "title": "Soporte",
+              "links": [
+                {
+                  "text": "Videotutoriales"
+                },
+                {
+                  "text": "Preguntas frecuentes"
+                },
+                {
+                  "text": "Contacto"
+                }
+              ]
+            },
+            {
+              "title": "Negocios",
+              "links": [
+                {
+                  "text": "Hazte revendedor"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Contacto comercial"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Funciones",
+      "nav_pricing": "Precios",
+      "nav_faq": "Preguntas frecuentes",
+      "nav_auth": "Iniciar sesión / Registrarse",
+      "nav_team": "Negocios"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "سبق آموز مرکز",
+          "titleMain": "اپنا VicastCam",
+          "titleHighlight": "سیکھنے کا سفر شروع کریں",
+          "descriptionMain": "سافٹ ویئر میں مہارت حاصل کریں",
+          "descriptionHighlight": "جلدی سے تیار ہو جائیں"
+        },
+        "player": {
+          "sectionAriaLabel": "سبق آموز فہرست",
+          "catalogAriaLabel": "سبق آموز کیٹلاگ",
+          "previousLabel": "پچھلا",
+          "nextLabel": "اگلا",
+          "firstLessonText": "یہ پہلا سبق ہے",
+          "lastLessonText": "یہ آخری سبق ہے",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "ابتدائی سبق",
+            "count": "9 اسباق",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "اپنا پہلا ورچوئل لائیو روم بنائیں",
+                "description": "شروع سے اپنا پہلا ورچوئل لائیو روم بنائیں اور ترتیب دیں۔",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "امیج فیچر کو سمجھیں",
+                "description": "امیج فیچر کی بنیادی باتیں اور اس کے استعمال کے طریقے سیکھیں۔",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "لیئرز کا استعمال کیسے کریں",
+                "description": "لیئرز پینل کی بنیادی باتیں سیکھیں۔",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "بیک گراؤنڈ لیئرز کا استعمال کیسے کریں",
+                "description": "بیک گراؤنڈ لیئرز شامل کرنا اور ایڈجسٹ کرنا سیکھیں۔",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "پورٹریٹ لیئرز کا استعمال کیسے کریں",
+                "description": "پورٹریٹ لیئرز استعمال کرکے بصری اثرات بنانا سیکھیں۔",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "امیج لیئرز کا استعمال کیسے کریں",
+                "description": "امیج لیئرز شامل کرنا اور ان میں ترمیم کرنا سیکھیں۔",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "ویڈیو لیئرز کا استعمال کیسے کریں",
+                "description": "ویڈیو میڈیا شامل کرنا اور پلے بیک ترتیب دینا سیکھیں۔",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "ایفیکٹ لیئرز کا استعمال کیسے کریں",
+                "description": "اپنی لائیو سٹریم میں ایفیکٹ لیئرز شامل کریں۔",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "کیپشن لیئرز کا استعمال کیسے کریں",
+                "description": "کیپشن بنائیں اور کیپشن لیئر کے انداز کو ایڈجسٹ کریں۔",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "جدید سبق",
+            "count": "6 اسباق",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "کیمرہ موومنٹ لیئرز کا استعمال کیسے کریں",
+                "description": "کیمرہ موومنٹ لیئرز استعمال کرکے زیادہ متحرک شاٹس بنائیں۔",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "پاتھ فیچر کا استعمال کیسے کریں",
+                "description": "پاتھ فیچر سے عناصر کی حرکت کا راستہ کنٹرول کریں۔",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "ملٹی کیمرہ لیئرز کا استعمال کیسے کریں",
+                "description": "ملٹی کیمرہ لیئرز ترتیب دیں تاکہ مختلف ویوز کے درمیان جلدی سوئچ کرسکیں۔",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "کنٹرولر فیچر کا استعمال کیسے کریں",
+                "description": "کنٹرولر استعمال کرکے اپنی لائیو سٹریم ویو کو منظم کریں۔",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "آڈیو فیچر کا استعمال کیسے کریں",
+                "description": "آڈیو ان پٹ، آؤٹ پٹ، اور مکسنگ اثرات ترتیب دیں۔",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "بیک اپ فیچر کا استعمال کیسے کریں",
+                "description": "لائیو روم کی کنفیگریشن اور میڈیا کا بیک اپ اور بحال کریں۔",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

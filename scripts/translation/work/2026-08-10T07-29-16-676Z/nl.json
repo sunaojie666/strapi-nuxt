@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "Over VicastCam",
+          "titleMain": "Het team achter mobiele green screen- en screencasting-technologie",
+          "titleHighlight": "",
+          "description": "Wij richten ons op mobiele beeldverwerking, virtuele camera, screencasting-samenwerking en verbinding met meerdere platforms voor live streaming. Zo helpen we creators, docenten en bedrijven om hun telefoon om te toveren tot een stabiele, heldere en eenvoudig te integreren professionele live streaming-tool.",
+          "primaryButtonText": "Neem contact op met Sales",
+          "secondaryButtonText": "Bekijk SDK"
+        },
+        "innovation": {
+          "sectionTag": "Kernkwaliteiten",
+          "titleMain": "Gericht op innovatie",
+          "titleHighlight": "De toekomst van live streaming vormgeven",
+          "description": "Van mobiele tools tot platformmogelijkheden: VicastCam breidt uit naar meer apparaten, platforms en live streaming-scenario's.",
+          "featureTag": "Kernmogelijkheden",
+          "featureTitle": "Wereldwijde live streaming, vertrouwd door de industrie",
+          "featureDescription": "We blijven de productervaring rond mobiele live streaming, virtuele beeldvorming, screencasting-samenwerking en cross-platform connectiviteit verfijnen. Zo ontwikkelen we live streaming-tools van losse functies tot stabiele, integreerbare workflows.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Landen en regio's",
+              "text": "Wereldwijd actief voor creators en teams"
+            },
+            {
+              "value": "2000+",
+              "label": "Compatibele platforms",
+              "text": "Dekt de belangrijkste live streaming-, vergader- en content-scenario's"
+            },
+            {
+              "value": "500000+",
+              "label": "Totaal aantal gebruikers",
+              "text": "Continu gevalideerd op stabiliteit en gebruiksgemak"
+            },
+            {
+              "value": "99.9%",
+              "label": "Uptime",
+              "text": "Zorgt voor betrouwbare live streaming-workflows"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Roadmap",
+          "titleMain": "Continu in ontwikkeling",
+          "titleHighlight": "Rond het wereldwijde live streaming-ecosysteem",
+          "description": "Van live streaming-tools tot platformmogelijkheden: VicastCam breidt uit naar meer apparaten, platforms en live streaming-scenario's.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Verdieping van mobiele focus en verfijning van green screen-effecten",
+              "text": "We richtten ons op de onderliggende mogelijkheden van mobiele virtuele live streaming en verbeterden continu de green screen-matting-algoritmen om problemen zoals randvervorming, slechte lichtaanpassing en vertraging bij meerdere overlays op te lossen. We voltooiden een complete set virtuele effecten, waaronder stickers, achtergrondvervanging en voorgrondocclusie, en legden zo een lichtgewicht basis voor mobiele virtuele live streaming. Met alleen een telefoon kunnen creators professionele green screen-live streams realiseren."
+            },
+            {
+              "year": "2024",
+              "title": "Screencasting verbinden en kernvirtuele cameratechnologie ontwikkelen",
+              "text": "We breidden de apparaatinterconnectiviteit uit, met focus op high-definition telefoon-screencasting en gesynchroniseerde overdracht tussen apparaten. We ontwikkelden onafhankelijk een universele virtuele cameradriver voor wereldwijde software-capture en -output, waardoor compatibiliteit met live streaming-software, bewerkingstools en online vergaderingen mogelijk werd. We overbrugden de kloof tussen mobiel en desktop, waardoor telefooncontent met één tik naar de pc kan worden gecast en via meerdere virtuele camera-uitgangen kan worden gebruikt, wat de live streaming-productie verrijkt."
+            },
+            {
+              "year": "2025",
+              "title": "Lancering van een professionele 3D live streaming-assistent voor de pc",
+              "text": "We leverden een professionele desktop-live streaming-productlijn met een complete 3D virtuele live streaming-assistent. Met 3D virtuele scènes, digitale human driving, multi-camera switching en real-time belichting en rendering, bedienen we commerciële live streaming, virtuele presentaties in showrooms en grootschalige e-commerce live streaming. We verbeterden multi-layer compositing, real-time ondertiteling en interactieve componenten om te voldoen aan de behoeften van teams die grootschalige, hoogwaardige professionele live streams verzorgen."
+            },
+            {
+              "year": "2026",
+              "title": "Wereldwijde uitbreiding en opbouw van een compleet live streaming-ecosysteem",
+              "text": "We breidden volledig uit naar internationale live streaming, met aanpassing aan grote buitenlandse platforms voor streaming, lage latentie bij internationale netwerken en meertalige lokalisatie. We integreerden de drie kernproducten van voorgaande jaren: mobiele green screen, screencasting virtuele camera en pc 3D live streaming, en verbonden drie bedrijfslijnen: individuele creators, enterprise commercieel gebruik en SDK-integratie voor ontwikkelaars. We verenigden hardware, software, meerdere terminals en binnenlandse en internationale diensten, en voltooiden zo een volledige live streaming-keten van productie, cross-device interoperabiliteit tot wereldwijde distributie."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Volg ons",
+          "titleMain": "Neem contact op",
+          "titleHighlight": "en vorm de toekomst van live streaming",
+          "description": "Volg onze productupdates, live streaming-tips en ander nieuws",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube-account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube-account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube-account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube-account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube-account",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "Over ons",
+          "description": "Leer meer over het VicastCam-team, de productmissie en de mogelijkheden op het gebied van virtuele camera, AI-live streaming-verbetering en cross-platform uitzendingen."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Downloadcentrum",
+            "title": "Download VicastCam"
+          },
+          "platform": {
+            "title": "Kies je platform",
+            "description": "VicastCam ondersteunt Windows, iOS en Android. Start professionele live streaming.",
+            "versionLabel": "Versie",
+            "updatedAtLabel": "Bijgewerkt",
+            "sizeLabel": "Pakketgrootte",
+            "downloadAriaSuffix": "Download",
+            "closeQrAriaPrefix": "Sluit",
+            "closeQrAriaSuffix": "Download QR-code",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Ondersteunt Android 8.0 en hoger",
+                "actionLabel": "Download nu",
+                "qrTitle": "Scan om de Android-versie te downloaden",
+                "qrDescription": "Scan met je telefoon om te downloaden"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Ondersteunt iOS 13.0 en hoger",
+                "actionLabel": "App Store",
+                "qrTitle": "Scan om naar de App Store te gaan",
+                "qrDescription": "Scan met je telefoon om de iOS-versie te downloaden"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Compatibel met Windows 10 en hoger",
+                "actionLabel": "Download nu",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Waarom VicastCam kiezen",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Veilig en betrouwbaar",
+                "text": "Meerdere beveiligingsmechanismen beschermen je gegevens en account."
+              },
+              {
+                "key": "updates",
+                "title": "Continue updates",
+                "text": "We verbeteren het product voortdurend voor een stabielere ervaring."
+              },
+              {
+                "key": "support",
+                "title": "Professionele ondersteuning",
+                "text": "24/7 technische ondersteuning met snelle reactie op je vragen."
+              },
+              {
+                "key": "tutorial",
+                "title": "Videotutorials",
+                "text": "Gedetailleerde videotutorials en functiegidsen om je snel op weg te helpen."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Downloadcentrum",
+            "description": "Download de VicastCam-client voor Windows, iOS en Android."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "nl",
+        "features_section": {
+          "title_tag": "Functies",
+          "title_main": "De alles-in-één live streaming-oplossing",
+          "title_highlight": "voor professionele mobiele broadcasters",
+          "description": "Integreer kernmogelijkheden voor live streaming om overal boeiende scènes te creëren en een professionele visuele ervaring te leveren."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Screencasting en virtuele camera",
+            "desc": "Cast je telefoon naar je pc en gebruik virtuele cameratechnologie voor professionele live streams."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Ondersteuning voor meerdere camera's",
+            "desc": "Schakel tijdens live streams met één tik tussen meerdere camerahoeken voor rijkere perspectieven."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D-effecten",
+            "desc": "Voeg verbluffende 2D/3D-effectlagen toe voor een dynamische en boeiende live room."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Streamen naar meerdere platforms",
+            "desc": "Stream naar YouTube, Twitch, TikTok, Facebook Live en meer."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Virtuele controller",
+            "desc": "Bedien je live stream op afstand vanaf elk apparaat: schakel scènes, demp audio en pas effecten in real-time aan."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Gelijktijdig live op meerdere platforms",
+            "desc": "Ga tegelijkertijd live op TikTok, YouTube, Twitch en Instagram vanaf je pc."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Mobiele green screen-effecten en screencasting",
+      "top_badge": "AI-gestuurde live streaming-tool",
+      "hero_subtitle": "De kracht achter het wereldwijde live streaming-ecosysteem",
+      "hero_description_1": "VicastCam gebruikt geavanceerde AI-matting om naadloos virtuele achtergronden te wisselen tijdens live streams. Zo lever je een",
+      "hero_description_2": "meeslepende ervaring die je professionele uitstraling versterkt.",
+      "user_count_label": "Wereldwijde gebruikers",
+      "rating_label": "App Store-beoordeling",
+      "download_count_label": "Wereldwijde downloads",
+      "app_store_url": "Download in de App Store",
+      "google_play_url": "Download op Android",
+      "desktop_client_url": "Download desktopclient",
+      "request_success": "Aanvraag succesvol",
+      "request_fail": "Aanvraag mislukt",
+      "request_loading": "Laden"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Prijzen",
+          "titleMain": "Kies het abonnement",
+          "titleHighlight": "dat bij je past",
+          "description": "Probeer gratis, of kies een ander abonnement",
+          "priceAltSuffix": "Prijs",
+          "freePlanMessage": "Gratis gebruikers hoeven niets te kopen",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Gratis",
+              "description": "Gratis te downloaden en te registreren, met basisfuncties zonder kosten.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/maand",
+              "priceNote": "",
+              "cta": "Aan de slag",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Creëer met één scène",
+                "Rangschik maximaal vier lagen vrij",
+                "Toegang tot diverse live achtergrondmaterialen",
+                "Basiskwaliteit voor pc-screencasting",
+                "Ingebouwde natuurlijke beautyeffecten"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Maandelijks",
+              "description": "Activeer en geniet een volledige maand toegang, een voordelige manier om te proberen.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/maand",
+              "priceNote": "30 dagen toegang",
+              "cta": "Koop",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Alle mobiele functies",
+                "PC-screencasting voor live streaming",
+                "HD live streaming-kwaliteit",
+                "Geavanceerde beautyeffecten",
+                "Exclusieve live streaming-effecten"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Jaarlijks",
+              "description": "Beste waarde met jaarlijkse besparing.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/jaar",
+              "priceNote": "365 dagen toegang",
+              "cta": "Koop",
+              "badgeText": "Meest populair",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Alle mobiele functies",
+                "PC-screencasting voor live streaming",
+                "HD live streaming-kwaliteit",
+                "Geavanceerde beautyeffecten",
+                "Exclusieve live streaming-effecten"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Levenslang",
+              "description": "Eenmalige aankoop voor levenslange toegang, ideaal voor creators op de lange termijn.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Levenslange toegang",
+              "cta": "Koop",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Alle mobiele functies",
+                "PC-screencasting voor live streaming",
+                "HD live streaming-kwaliteit",
+                "Geavanceerde beautyeffecten",
+                "Exclusieve live streaming-effecten"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Maandelijks",
+                "subtitle": "Activeer en geniet een volledige maand toegang, een voordelige manier om te proberen.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/maand",
+                "cta": "Koop",
+                "benefits": [
+                  "Alle mobiele functies",
+                  "PC-screencasting voor live streaming",
+                  "HD live streaming-kwaliteit",
+                  "Geavanceerde beautyeffecten",
+                  "Exclusieve live streaming-effecten"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Jaarlijks",
+                "subtitle": "Beste waarde met jaarlijkse besparing.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/jaar",
+                "cta": "Koop",
+                "benefits": [
+                  "Alle mobiele functies",
+                  "PC-screencasting voor live streaming",
+                  "HD live streaming-kwaliteit",
+                  "Geavanceerde beautyeffecten",
+                  "Exclusieve live streaming-effecten"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Levenslang",
+                "subtitle": "Eenmalige aankoop voor levenslange toegang, ideaal voor creators op de lange termijn.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Koop",
+                "benefits": [
+                  "Alle mobiele functies",
+                  "PC-screencasting voor live streaming",
+                  "HD live streaming-kwaliteit",
+                  "Geavanceerde beautyeffecten",
+                  "Exclusieve live streaming-effecten"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, VAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, VAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, VAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, VAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, VAE"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "nl",
+        "slug": "team",
+        "pageName": "Zakelijke partnerschappen",
+        "hero": {
+          "eyebrow": "Zakelijke partnerschappen",
+          "title": "VicastCam wereldwijd partnerprogramma voor agentschappen",
+          "highlight": "Doe mee",
+          "description": "Een professionele virtuele camera live streaming-tool, open voor wereldwijde kanaalpartners. Uniforme USD-afwikkeling, regionale exclusiviteit en full-funnel marketingondersteuning.",
+          "actions": {
+            "primary": "Nu aanvragen",
+            "secondary": "Meer informatie"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Waarom partner worden",
+          "titlePrefix": "Waarom",
+          "titleHighlight": "partner met ons worden",
+          "description": "Makkelijk te verkopen, laag risico en hoge marges: VicastCam levert op alle drie.",
+          "items": [
+            {
+              "title": "Enorme markt van creators",
+              "description": "Live streaming, e-commerce, korte video's en contentcreatie: de wereldwijde vraag van creators groeit gestaag en biedt een grote markt met stabiele conversies.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Geen voorraad, online levering",
+              "description": "Pure softwarelicenties met directe cloudlevering van activatiecodes. Geen voorraad, geen logistiek, lage kosten, met ondersteuning voor batchlevering en snelle activatie.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Volledig uitgerust concurrentievoordeel",
+              "description": "Green screen-matting, virtuele achtergronden, streamen naar meerdere platforms en AI-effecten in één tool. Complete functies die eenvoudig te demonstreren, verkopen en verlengen zijn.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Partnerschapsregels",
+          "titlePrefix": "Geschiktheid",
+          "titleHighlight": "en afwikkeling",
+          "description": "Transparant, eerlijk en voorspelbaar agentuurbeleid voor het vertrouwen van elke partner.",
+          "agentLevelTitle": "Agentniveaus",
+          "agentLevels": [
+            {
+              "title": "Standaardagent",
+              "description": "Een eerste bestelling van $30.000 USD geeft langdurige distributierechten, staffelkortingen en standaard kanaalondersteuning.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Regionaal exclusieve agent",
+              "description": "Haal kwartaaldoelstellingen voor aankopen om exclusieve distributierechten voor één regio te verkrijgen, zonder andere geautoriseerde kanalen in dat gebied.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Levering en afwikkeling",
+          "settlementRules": [
+            "Uniforme USD-afwikkeling, met ondersteuning voor betalingen via HSBC Hongkong zakelijke rekeningen",
+            "Batch-activatiecodes worden direct via de cloud geleverd voor snelle levering aan klanten",
+            "Langdurige partners profiteren van staffelprijzen; hogere aankoopvolumes verlagen de eenheidskosten"
+          ]
+        },
+        "support": {
+          "eyebrow": "Kanaalondersteuning",
+          "titlePrefix": "Vier pijlers van",
+          "titleHighlight": "ondersteuning",
+          "description": "Van materialen en technische ondersteuning tot merkauthorisatie en vroege toegang tot nieuwe functies: we bieden full-funnel ondersteuning.",
+          "items": [
+            {
+              "title": "Complete marketingmaterialen",
+              "description": "Toegang tot websitebanners, korte video's, Reddit/Facebook-advertentieteksten en productreviewmaterialen, direct beschikbaar.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Toegewijde Engelstalige technische ondersteuning",
+              "description": "Overzeese technische specialisten voor SDK-debugging, after-sales voor live streaming-functies en het oplossen van klantproblemen.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Officiële merkauthorisatie",
+              "description": "Gebruik het VicastCam-handelsmerk en productafbeeldingen voor regionale online en offline promotie.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Prioriteitstoegang tot bètaversies",
+              "description": "Agenten krijgen vroegtijdige toegang om alle AI-effecten, streaming-updates en nieuwe functies te testen en verkopen.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Partnerschapsmodellen",
+          "titlePrefix": "Flexibele",
+          "titleHighlight": "partnerschapsmodellen",
+          "description": "Of je nu een kanaal, technologieleverancier of enterprise-dienstverlener bent, we hebben een model dat past.",
+          "items": [
+            {
+              "title": "Kanaalagentschap (aanbevolen)",
+              "description": "Voor grensoverschrijdende softwarewinkels, live streaming-apparatuurwinkels, overzeese MCN's en grensoverschrijdende e-commerce teams om softwarelicenties op schaal te distribueren.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM white-label SDK",
+              "description": "Verwijder alle VicastCam-branding, pas het logo, de softwarenaam en de UI aan en verkoop onder je eigen merk.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Enterprise-maatwerk",
+              "description": "Voor live streaming-dienstverleners, onderwijsinstellingen en overheids-/bedrijfsvergaderprojecten, met aangepaste functies en private deployment-opties.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Aanvragen",
+          "titlePrefix": "Vul het formulier in",
+          "titleHighlight": "om online aan te vragen",
+          "description": "Vul onderstaande gegevens in en we nemen binnen 1-3 werkdagen contact met je op.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Contactpersoon",
+              "placeholder": "Voer je naam in"
+            },
+            {
+              "name": "companyName",
+              "label": "Bedrijfsnaam",
+              "placeholder": "Voer je bedrijfsnaam in"
+            },
+            {
+              "name": "email",
+              "label": "E-mailadres",
+              "placeholder": "Voer je e-mailadres in"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Telefoon",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Type bedrijf",
+              "placeholder": "Selecteer type bedrijf",
+              "options": [
+                "Kanaalagentschap",
+                "OEM white-label SDK",
+                "Enterprise-maatwerk",
+                "Anders"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Primaire regio",
+              "placeholder": "bijv. Noord-Amerika/Europa/Zuidoost-Azië"
+            },
+            {
+              "name": "position",
+              "label": "Functie",
+              "placeholder": "Voer je functie in"
+            },
+            {
+              "name": "budget",
+              "label": "Geschat kwartaalinkoopbudget",
+              "placeholder": "Voer je budget in"
+            },
+            {
+              "name": "country",
+              "label": "Land",
+              "placeholder": "Selecteer land/regio",
+              "options": [
+                "China",
+                "Verenigde Staten",
+                "Indonesië",
+                "Maleisië",
+                "Thailand",
+                "Vietnam",
+                "Filipijnen",
+                "Spanje",
+                "Portugal",
+                "Saoedi-Arabië",
+                "Japan",
+                "Turkije",
+                "Italië",
+                "Duitsland",
+                "Frankrijk",
+                "Zuid-Korea",
+                "Rusland",
+                "Polen",
+                "Nederland",
+                "India",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Anders"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Bedrijfswebsite",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Partnerschapsintentie",
+          "intentPlaceholder": "Beschrijf kort je bedrijfsmodel, doelmarkt en gewenste samenwerkingsvorm...",
+          "note": "*Verplichte velden. Je gegevens worden vertrouwelijk behandeld en alleen gebruikt voor partnercommunicatie.",
+          "submitLabel": "Verstuur partnerinformatie"
+        },
+        "contact": {
+          "title": "Direct zakelijk contact",
+          "items": [
+            {
+              "label": "Zakelijk e-mailadres",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Hongkong-hotline",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Werktijden",
+              "value": "GMT+8, maandag tot en met vrijdag, 9:00-18:00"
+            }
+          ],
+          "note": "Voor dringende zakelijke behoeften kun je ons rechtstreeks bereiken via WhatsApp of e-mail.",
+          "qr": {
+            "label": "Scan om contact op te nemen via WhatsApp",
+            "alt": "VicastCam zakelijk contact QR-code"
+          }
+        },
+        "seo": {
+          "title": "VicastCam zakelijke partnerschappen",
+          "description": "Doe mee met het wereldwijde partnerprogramma van VicastCam voor kanaalagentschap, OEM white-label SDK en enterprise-maatwerkondersteuning.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCam wereldwijd partnerprogramma"
+        }
+      }
+    }
+  ]
+}

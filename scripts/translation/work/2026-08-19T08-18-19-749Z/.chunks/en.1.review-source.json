@@ -1,0 +1,299 @@
+{
+  "seo": {
+    "title": "个人中心",
+    "description": "VicastCam 个人中心页面"
+  },
+  "common": {
+    "sidebarAriaLabel": "个人中心导航",
+    "defaultProfileName": "用户",
+    "emptyContent": "暂无内容",
+    "copyButtonLabel": "复制",
+    "monthSelectLabel": "选择月份",
+    "yearSuffix": "年",
+    "monthSuffix": "月",
+    "userMissing": "用户信息不存在，请重新登录",
+    "paginationLabel": "分页",
+    "previousPageLabel": "上一页",
+    "nextPageLabel": "下一页",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "跳至",
+      "unit": "页",
+      "ariaLabel": "跳转到指定页",
+      "buttonLabel": "跳转"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "个人中心",
+    "logout": "退出登录",
+    "profileAriaSuffix": "个人中心菜单"
+  },
+  "sidebar": {
+    "ariaLabel": "个人中心导航",
+    "menus": {
+      "account": "账户信息",
+      "membership": "会员中心",
+      "redeem": "会员兑换",
+      "purchaseHistory": "购买记录",
+      "team": "我的团队",
+      "earnings": "收益中心"
+    }
+  },
+  "account": {
+    "ariaLabel": "账户信息",
+    "profileTitle": "账户信息",
+    "usernameLabel": "用户名",
+    "passwordLabel": "密码",
+    "passwordMask": "********",
+    "defaultUsername": "未设置昵称",
+    "emailLabel": "绑定邮箱",
+    "emailPlaceholder": "请输入邮箱",
+    "codePlaceholder": "请输入验证码",
+    "sendCodeButton": "获取验证码",
+    "bindButton": "绑定邮箱",
+    "alreadyBound": "已绑定",
+    "unboundEmail": "未绑定",
+    "emailBindTip": "绑定后邮箱不可更改，请确认邮箱地址正确。",
+    "emailRequired": "请输入有效邮箱",
+    "codeRequired": "请输入验证码",
+    "codeSent": "验证码已发送，请查收邮箱",
+    "bindSuccess": "邮箱绑定成功",
+    "bindFailed": "邮箱绑定失败，请检查验证码后重试",
+    "requestFailed": "请求失败，请稍后重试",
+    "inviteTitle": "邀请链接",
+    "inviteDescription": "复制你的专属邀请链接，邀请好友注册并开通会员后可获得相应收益。",
+    "emptyInviteLink": "暂无邀请链接"
+  },
+  "membership": {
+    "ariaLabel": "会员中心",
+    "title": "我的会员",
+    "badgeAlt": "会员徽章",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "普通用户",
+    "activeVipName": "VIP会员",
+    "expirePrefix": "到期时间",
+    "emptyExpireDate": "暂未开通",
+    "activeStatus": "生效中",
+    "inactiveStatus": "未开通",
+    "compareTitle": "会员权益对比",
+    "compareHeaders": {
+      "feature": "功能",
+      "normal": "普通用户",
+      "month": "月度会员",
+      "year": "年度会员",
+      "life": "终身会员"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "月度会员",
+        "subtitle": "适合短期体验",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/月",
+        "cta": "立即开通",
+        "benefits": [
+          "虚拟摄像头基础功能",
+          "虚拟背景与美化",
+          "多平台直播支持",
+          "标准更新服务"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "年度会员",
+        "subtitle": "长期使用更划算",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/年",
+        "cta": "立即开通",
+        "benefits": [
+          "包含月度会员全部权益",
+          "全年高级功能",
+          "优先功能更新",
+          "专属会员支持"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "永久会员",
+        "subtitle": "一次开通长期使用",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/永久",
+        "cta": "立即开通",
+        "benefits": [
+          "包含年度会员全部权益",
+          "永久高级功能",
+          "长期版本更新",
+          "专属服务通道"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "会员有效时长",
+        "normal": "永久免费",
+        "month": "30天",
+        "year": "365天",
+        "life": "终身有效"
+      },
+      {
+        "feature": "电脑版虚拟相机",
+        "normal": "标清",
+        "month": "高清/超清",
+        "year": "高清/超清",
+        "life": "高清/超清"
+      },
+      {
+        "feature": "自定义虚拟背景",
+        "normal": "一组",
+        "month": "不限",
+        "year": "不限",
+        "life": "不限"
+      },
+      {
+        "feature": "直播方案",
+        "normal": "cross",
+        "month": "不限",
+        "year": "不限",
+        "life": "不限"
+      },
+      {
+        "feature": "官网素材",
+        "normal": "受限",
+        "month": "不限",
+        "year": "不限",
+        "life": "不限"
+      },
+      {
+        "feature": "控制器远程操控",
+        "normal": "check",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "直播场景对比模式",
+        "normal": "check",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "场景字幕功能",
+        "normal": "受限",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "场景音乐功能",
+        "normal": "受限",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "多机位画面接入",
+        "normal": "cross",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "高级美颜类型/滤镜",
+        "normal": "基础",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "AI智能绿幕抠像",
+        "normal": "check",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "动态运动轨迹动画",
+        "normal": "受限",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "场景运镜特效",
+        "normal": "受限",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "VIP特效素材库",
+        "normal": "受限",
+        "month": "无限使用",
+        "year": "无限使用",
+        "life": "无限使用"
+      },
+      {
+        "feature": "平台推流",
+        "normal": "check",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "4K超清输出",
+        "normal": "cross",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      },
+      {
+        "feature": "推广分成比例",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "下级邀请返利",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "客服通道",
+        "normal": "社区自助",
+        "month": "普通排队",
+        "year": "优先响应",
+        "life": "专属客服"
+      },
+      {
+        "feature": "新功能抢先体验",
+        "normal": "cross",
+        "month": "check",
+        "year": "check",
+        "life": "check"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "会员兑换",
+    "title": "会员兑换",
+    "tip": "请输入会员兑换码，兑换成功后会员权益会自动生效。",
+    "placeholder": "请输入兑换码",
+    "submitButton": "立即兑换",
+    "agreementPrefix": "兑换即表示你同意",
+    "userProtocolText": "《用户协议》",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "兑换失败，请检查兑换码后重试"
+    }
+  }
+}

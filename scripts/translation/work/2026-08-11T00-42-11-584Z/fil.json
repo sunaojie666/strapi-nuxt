@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Kasunduan ng User",
+        "updatedAt": "Hulyo 22, 2026",
+        "description": "Ang Kasunduan sa Lisensya ng User na ito (\"Kasunduan\") ay pinagkasunduan ng Licensor at ng user ng software na ito (\"ikaw\" o \"user\") at namamahala sa lahat ng iyong mga aksyon sa pag-download, pag-install, pagrehistro, pag-log in, at paggamit ng software na ito.",
+        "sections": [
+          {
+            "title": "",
+            "paragraphs": [
+              "Licensor: Vicast International Limited",
+              "Official channels: VicastCam official website and authorized app stores (Apple App Store / Google Play Store)",
+              "Contact email: service@vicastcam.com",
+              "Last updated: July 22, 2026",
+              "Welcome to VicastCam (\"this Software\")!",
+              "VicastCam products are provided only to users outside mainland China. We do not actively promote the product to users in mainland China. If you are located in mainland China, please be aware that this product does not have the relevant operating qualifications in mainland China.",
+              "This User License Agreement (\"Agreement\") is entered into between the Licensor and the user of this software (\"you\" or \"user\") and governs all your actions in downloading, installing, registering, logging in to, and using this software.",
+              "By clicking the \"Agree\" button in this Software, you voluntarily accept all terms of this Agreement. If you do not accept them, the Licensor does not grant you the right to use the Software. Please immediately stop using and uninstall the Software. Your continued use of the Software constitutes your agreement to and acceptance of this Agreement and any subsequent revisions.",
+              "You confirm that you are at least 18 years old or have reached the legal age of majority in your jurisdiction (\"adult\"). Minors must use this Software with the explicit consent and under the supervision of their legal guardian, who shall bear guardianship responsibilities in accordance with the law."
+            ],
+            "key": "agreement-overview"
+          },
+          {
+            "title": "1 Saklaw ng Aplikasyon",
+            "paragraphs": [
+              "1.1 Bago gamitin ang Software, mangyaring basahin nang mabuti ang Kasunduang ito, lalo na ang mga pangunahing sugnay na naka-bold, kabilang ang mga disclaimer, naaangkop na batas, at paglutas ng hindi pagkakaunawaan. Kung hindi ka sumasang-ayon sa anumang tuntunin, mangyaring itigil kaagad ang paggamit ng Software.",
+              "1.2 Ang Software na ito ay pangunahing para sa mga nasa hustong gulang. Ang mga menor de edad ay dapat kumuha ng pahintulot ng kanilang legal na tagapag-alaga bago gamitin ang Software na ito at dapat itong gamitin sa ilalim ng pangangasiwa ng tagapag-alaga. Ang tagapag-alaga ay dapat gampanan ang mga tungkulin ng pangangalaga alinsunod sa batas.",
+              "1.3 Kasama sa Kasunduang ito ang mga patakaran ng platform tulad ng mga anunsyo, mga patakaran sa aktibidad, at mga abiso sa loob ng app na inilathala ng Software na ito. Ang lahat ng mga patakaran ng platform ay mahalagang bahagi ng Kasunduang ito at may parehong legal na epekto tulad ng Kasunduang ito.",
+              "1.4 Sa pamamagitan ng pagrehistro, pag-log in, o paggamit ng Software na ito, itinuturing na nabasa mo nang buo, naunawaan, at sumang-ayon na sumailalim sa Kasunduang ito.",
+              "1.5 Ang lahat ng karapatan sa intelektwal na ari-arian sa Software na ito at anumang mga karapatan na hindi hayagang ipinagkaloob sa mga gumagamit ay nakalaan sa Licensor."
+            ],
+            "key": "agreement-section-1"
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Ang Software na Ito at Mga Kaugnay na Serbisyo",
+            "paragraphs": [
+              "2.1 Ang Software na ito ay isang pantulong na tool para sa mga live streaming scenario, na nagbibigay ng mga feature tulad ng live streaming, virtual scene setup, AI matting, face effects, at beauty filters. Ang mga partikular na serbisyo at feature ay nakabatay sa aktwal na display ng produkto.",
+              "2.2 Maaari mo lamang makuha ang client sa pamamagitan ng mga opisyal na channel (Apple App Store o Google Play Store). Ang anumang panganib at pagkalugi na dulot ng paggamit ng mga hindi opisyal na bersyon ay sasagutin mo.",
+              "2.3 Upang magamit ang Software na ito, kailangan mong maghanda ng sarili mong terminal device at koneksyon sa network, at pananagutan mo ang mga kaugnay na singil sa internet at data. Ang buong functionality ay nangangailangan ng koneksyon sa internet.",
+              "2.4 Ang Licensor ay nagbibigay sa iyo ng personal, non-commercial, hindi maililipat, maaaring bawiin, at hindi eksklusibong lisensya upang gamitin ang Software. Nang walang paunang nakasulat na pahintulot mula sa Licensor, ipinagbabawal kang magbago, kopyahin, ipamahagi, i-mirror, i-crawl, ibenta, o gamitin ang Software para sa mga komersyal na layunin.",
+              "2.5 Ang Licensor ay may karapatan na i-upgrade, ayusin, i-pause, o wakasan ang bahagi o lahat ng mga serbisyo batay sa pag-optimize ng produkto, pagpapanatili ng seguridad, pagsunod sa mga regulasyon, at iba pang mga pangangailangan. Maaari mong piliin kung i-update ang client; ang pagtanggi sa pag-update ay maaaring magresulta sa limitadong functionality. May karapatan kang i-uninstall ang app anumang oras upang wakasan ang serbisyo.",
+              "2.6 Mga Pagbili at Subscription",
+              "2.6.1 Lahat ng bayad na feature, pagbili, at subscription sa loob ng Software na ito ay kinukumpleto sa pamamagitan ng Apple App Store o Google Play payment system, at ang mga transaksyong ito ay napapailalim din sa mga tuntunin ng serbisyo ng kani-kanilang platform.",
+              "2.6.2 Mga Panuntunan sa Subscription",
+              "(1) Auto-renewal: Ang mga serbisyo ng subscription ay awtomatikong sisingilin nang hindi bababa sa 24 oras bago matapos ang kasalukuyang panahon ng serbisyo, at ang platform system ay magpapadala ng mga paalala sa pag-renew. Maaari mong tingnan, pamahalaan, at kanselahin ang auto-renewal anumang oras sa pamamagitan ng pagpunta sa \"Settings > Account > Subscriptions\" page ng iyong device (maaaring mag-iba ang path depende sa platform).",
+              "(2) Pagbabago ng presyo: Kung mag-aadjust kami ng mga presyo ng subscription, magbibigay kami ng abiso nang hindi bababa sa 30 araw bago magkabisa ang bagong presyo sa pamamagitan ng in-app announcements, opisyal na website, o iba pang makatwirang paraan. Ang mga pagbabago sa presyo ay hindi makakaapekto sa kasalukuyang panahon ng subscription na may bisa na. Kung saan ang lokal na batas ay nangangailangan ng karagdagang pahintulot ng user, susunod kami sa batas.",
+              "(3) Libreng pagsubok: Kung may inaalok na libreng pagsubok, mangyaring i-off ang auto-renewal nang hindi bababa sa 24 oras bago matapos ang panahon ng pagsubok upang maiwasan ang pagkargahan.",
+              "2.6.3 Mga Regional Refund at Statutory Withdrawal Rights",
+              "(1) Mga user sa European Union, European Economic Area, at United Kingdom: Alinsunod sa mga lokal na batas sa proteksyon ng consumer, mayroon kang 14-araw na statutory right of withdrawal nang walang dahilan. Tingnan ang VicastCam Refund Policy para sa mga detalye. Ang mga kahilingan sa withdrawal at refund ay dapat isumite sa pamamagitan ng opisyal na channel (App Store o Google Play) na ginamit para sa iyong pagbili, at ang mga refund ay napapailalim sa mga patakaran ng platform at lokal na batas. Kung ginamit mo ang serbisyo sa loob ng 14-araw na cooling-off period, ang refund ay kakalkulahin nang proporsyonal batay sa aktwal na paggamit. Kapag nagkabisa ang withdrawal, ang iyong mga bayad na karapatan sa paggamit ay agad na wawakasan.",
+              "(2) One-time payment at lifetime services: Kung malinaw mong kinumpirma ang agarang pag-activate ng serbisyo at tinalikuran ang 14-araw na withdrawal right, ang right of withdrawal nang walang dahilan ay hindi na ilalapat.",
+              "(3) Lahat ng iba pang mga region: Ang mga refund at after-sales na isyu ay pangunahing pinamamahalaan ng mga opisyal na patakaran ng platform na ginamit para sa iyong pagbili.",
+              "2.6.4 Mga Panuntunan sa Paggamit ng Bayad na Benepisyo",
+              "(1) Ang mga bayad na serbisyo at benepisyo ay para sa personal na paggamit lamang.",
+              "(2) Ipinagbabawal kang magbigay ng mga bayad na benepisyo sa mga third party sa pamamagitan ng pag-regalo, pagpapahiram, pagrenta, muling pagbebenta, o maramihang pagbabahagi.",
+              "2.7 Mga Panuntunan sa Bayad, Membership, at Komersyal na Paggamit",
+              "2.7.1 Ang Licensor ay may karapatan na maningil ng mga bayad para sa Software at mga kaugnay na serbisyo sa network alinsunod sa batas. Ikaw ang mananagot sa lahat ng gastos ng hardware, software, at network na kinakailangan para sa paggamit, at dapat mong bayaran ang mga kaukulang bayad sa serbisyo sa tamang oras.",
+              "2.7.2 Dapat mong tuparin ang iyong mga obligasyon sa buwis alinsunod sa batas at panagutan ang lahat ng buwis na nagmumula sa paggamit ng mga serbisyo. Ipinagbabawal kang gumamit ng mga bayad na serbisyo nang mapanlinlang.",
+              "2.7.3 Maaari naming ayusin ang membership system o wakasan ang mga serbisyo ng membership batay sa mga lehitimong pangangailangan sa operasyon. Kung ang isang account ay na-ban o natapos dahil sa mga paglabag, ang mga bayad na bayad ay hindi ire-refund.",
+              "2.7.4 Kung kailangan mong gamitin ang Software na ito para sa mga komersyal na layunin, dapat kang mag-aplay sa Licensor nang maaga at kumuha ng opisyal na lisensya para sa komersyal na paggamit.",
+              "2.7.5 Ipinagbabawal kang gamitin ang Software na ito upang magpakalat ng pornograpiko o ilegal na nilalaman para sa kita."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Pamamahala ng Account",
+            "paragraphs": [
+              "3.1 Maaari kang magrehistro ng account nang mag-isa o gumamit ng lehitimong third-party platform account para mag-log in. Ang mga third-party account ay dapat i-verify gamit ang totoong pangalan at sumunod sa mga patakaran ng platform. Ikaw ang responsable sa pag-iingat ng iyong account at password at sa lahat ng aksyon na gagawin sa ilalim ng iyong account.",
+              "3.2 Alinsunod sa mga kinakailangan sa pangangasiwa ng network at real-name registration sa buong mundo, dapat kang magbigay ng totoo, tumpak, at wastong impormasyon ng pagkakakilanlan at mga detalye ng contact (tulad ng email) kapag nagrerehistro. Kung ang impormasyon ay mali o kaduda-duda, may karapatan ang Licensor na humiling ng pagwawasto, paghigpitan o wakasan ang mga serbisyo. Ang ilang impormasyon sa pagrerehistro ay hindi maaaring baguhin para sa layunin ng seguridad at pag-verify.",
+              "3.3 Maaaring gamitin ang ilang pangunahing feature nang hindi nagla-log in. Ang buong functionality at mga bayad na serbisyo ay nangangailangan ng pagrerehistro, pag-log in, at pag-verify ng pagkakakilanlan.",
+              "3.4 Ang impormasyon ng account tulad ng nickname, avatar, at bio ay hindi dapat magpanggap na pangalan, trademark, larawan, o iba pang legal na karapatan ng iba, at hindi dapat maglaman ng ilegal, bulgar, o nakaliligaw na nilalaman. May karapatan ang Licensor na suriin ang impormasyon ng account at gumawa ng mga hakbang tulad ng pag-reset, paghihigpit sa mga function, o pagbabawal sa mga account para sa mga paglabag.",
+              "3.5 Ang mga account ay para sa personal na gamit lamang at maaaring i-log in sa mga device na legal mong kontrolado. Ipinagbabawal ang pagbibigay, pagpapahiram, pag-upa, paglilipat, o pagbebenta ng mga account. Kung napatunayang hindi tugma ang user sa nagrehistro, may karapatan ang Licensor na i-suspend o wakasan ang mga serbisyo.",
+              "3.6 Ikaw ang responsable sa seguridad at pagiging kumpidensyal ng iyong account at may buong legal na pananagutan sa lahat ng operasyon, nilalaman, at aksyon sa ilalim ng iyong account.",
+              "3.7 Kung manakaw ang iyong account o makalimutan mo ang iyong password, maaari mo itong mabawi sa pamamagitan ng opisyal na channel ng apela.",
+              "3.7.1 Kung manakaw ang iyong account, tumagas ang impormasyon, o mawala ang ari-arian dahil sa hindi wastong pag-iingat, pagkawala ng device, o boluntaryong pagbubunyag ng iyong mga kredensyal sa account, ikaw ang may buong pananagutan.",
+              "3.7.2 Ang mga serbisyo sa pagbawi ng account ay nagbe-verify lamang ng impormasyong nakaimbak sa system at hindi matukoy ang tunay na pagkakakilanlan ng user. Ikaw ang may kaugnay na mga panganib. Kung mapansin mo ang anumang abnormal na aktibidad sa account, mangyaring makipag-ugnayan agad sa opisyal na customer service.",
+              "3.8 Pagkansela ng Account at Pagproseso ng Data",
+              "3.8.1 Maaari kang mag-apply para sa pagkansela ng account sa pamamagitan ng \"Akin > Mga Setting > Pamamahala ng Account > Kanselahin ang Account\" sa Software o sa pamamagitan ng opisyal na email. Kinakailangan ang pag-verify ng pagmamay-ari bago ang pagkansela.",
+              "3.8.2 Pagkatapos ng pagkansela ng account, may 30-araw na panahon ng buffer ng data (para lamang sa financial reconciliation, pagresolba ng hindi pagkakaunawaan, at after-sales verification). Pagkatapos ng panahong ito, isasagawa ang permanenteng pisikal na pagbura, maliban sa mga talaan ng transaksyon na dapat panatilihin ayon sa batas.",
+              "3.8.3 Pagkatapos ng pagkansela ng account, hindi na maibabalik ang account at data. Ang mga obligasyon at pananagutan na natamo sa panahon ng iyong paggamit ay hindi binabawasan ng pagkansela."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Pag-uugali ng User",
+            "paragraphs": [
+              "4.1 Sumasang-ayon kang sumunod sa mga pandaigdigang batas sa seguridad ng network, intelektwal na ari-arian, mga karapatan sa larawan, at privacy habang ginagamit ang Software na ito, at igalang ang mga legal na karapatan ng iba. Maliban kung pinahihintulutan ng batas o awtorisado sa pamamagitan ng sulat ng Licensor, ipinagbabawal ang mga sumusunod na gawain:",
+              "4.1.1 Pag-upload o pagpapakalat ng hindi awtorisadong personal na impormasyon, trade secrets, o nilalamang lumalabag sa karapatan.",
+              "4.1.2 Paggamit ng mga cheat, plugin, o third-party na tool upang makagambala o makasira sa normal na operasyon ng Software na ito.",
+              "4.1.3 Pagsasagawa ng ilegal na network intrusion, pagnanakaw ng data, pagpapakalat ng virus, pag-scan ng vulnerability, pagpeke ng network data packets, o iba pang cyber attacks.",
+              "4.1.4 Mass malicious registration ng mga account.",
+              "4.1.5 Reverse engineering, decompiling, disassembling, o pagtatangkang i-crack ang source code ng Software na ito.",
+              "4.1.6 Paglikha o pagpapakalat ng pornograpiko, marahas, paninirang-puri, o ilegal na nilalaman.",
+              "4.1.7 Pag-promote ng tabako, alak, sugal, armas, o mga ipinagbabawal na item.",
+              "4.1.8 Lihim na pagkuha ng larawan, pagre-record, o pagpapakalat ng mga larawan, boses, o pribadong impormasyon ng iba nang walang awtorisasyon, na lumalabag sa kanilang mga karapatan sa larawan o privacy.",
+              "4.1.9 Iba pang mga gawain na lumalabag sa lokal na batas, Kasunduang ito, o mga patakaran ng platform.",
+              "4.1.10 Kung lumabag ka sa Kasunduang ito, may karapatan ang Licensor na tanggalin ang lumalabag na nilalaman nang walang abiso at magpataw ng mga parusa tulad ng mga babala, pagbabawal sa feature, pagbabawal sa device, o permanenteng pagbabawal sa account, depende sa kalubhaan. Ang mga lumalabag na user ay maaaring magsumite ng mga apela sa pamamagitan ng opisyal na email, at ang Licensor ang may huling awtoridad sa pagsusuri.",
+              "4.2 Kapag gumagawa ng nilalaman gamit ang Software na ito, ipinagbabawal kang gumamit ng mga built-in na materyales, epekto, o logo para sa mga third-party na trademark, logo, o komersyal na identifier (maliban sa iyong sariling naka-copyright na nilalaman).",
+              "4.3 Hindi mo dapat gamitin ang Software na ito upang mag-publish o magpakalat ng marahas, pornograpiko, paninirang-puri, doxxing, lumalabag sa privacy, spam, o iba pang nilalaman na lumalabag sa mga batas o pampublikong kaayusan at mabuting kaugalian.",
+              "4.4 May karapatan ang Licensor na pangasiwaan at suriin ang pag-uugali ng user at maaaring humiling ng pagwawasto, tanggalin ang nilalaman, i-suspend o wakasan ang mga serbisyo kapag natuklasan ang mga paglabag.",
+              "4.5 Mga Espesyal na Paghihigpit sa Feature",
+              "4.5.1 Camera at Live Streaming: Bago gamitin ang camera, live streaming, o screen recording features, dapat kang kumuha ng malinaw na pahintulot mula sa lahat ng taong kinukunan o nire-record. Mahigpit na ipinagbabawal ang paggamit ng Software na ito para sa lihim na pagkuha ng larawan, lihim na pagre-record, ilegal na live streaming, o iba pang ilegal na gawain. Ikaw ang may lahat ng kaugnay na pananagutan.",
+              "4.5.2 AI Features: Ang mga karapatan sa intelektwal na ari-arian ng mga AI algorithm, modelo, epekto, at visual na materyales sa Software na ito ay pag-aari ng Licensor o mga nakikipagtulungang third-party. Maaari mo lamang gamitin ang mga ito para sa personal, hindi komersyal, legal na paglikha. Ipinagbabawal kang gumawa ng mga deepfake, pekeng audio/video, pandaraya, o ilegal na nilalaman.",
+              "4.5.3 Regional Compliance: Dapat mong mahigpit na sumunod sa mga kinakailangan sa regulasyon ng iyong bansa/rehiyon tungkol sa live streaming, pagkuha ng biometric data, at AI content.",
+              "4.6 Kung ang iyong paglabag ay nagdulot ng mga pagkalugi sa Licensor, hindi ire-refund ang mga bayad na bayarin, at dapat mong lubos na bayaran ang Licensor para sa lahat ng pagkalugi sa ekonomiya at reputasyon."
+            ]
+          },
+          {
+            "title": "5 Proteksyon ng Personal na Impormasyon",
+            "paragraphs": [
+              "5.1 Mahigpit naming pinoproseso ang iyong personal na impormasyon alinsunod sa EU GDPR, UK Data Protection Act, Hong Kong Personal Data (Privacy) Ordinance, at mga regulasyon sa proteksyon ng datos sa buong mundo. Alinsunod sa Artikulo 27 ng GDPR, nagtalaga kami ng mga lokal na kinatawan sa EU at UK. Para sa mga detalye ng contact, mangyaring sumangguni sa dokumentong \"GDPR at Proteksyon ng Datos\".",
+              "5.2 Sumasang-ayon ka na maaaring kolektahin, gamitin, at iimbak ng Licensor ang personal na impormasyon alinsunod sa Kasunduang ito at sa Patakaran sa Privacy. Ang Patakaran sa Privacy ay may parehong legal na epekto tulad ng Kasunduang ito.",
+              "5.3 Gumagamit kami ng mga teknolohiyang panseguridad tulad ng encryption at anonymization upang protektahan ang iyong personal na impormasyon mula sa pagtagas, pagbabago, at hindi awtorisadong pag-access.",
+              "5.4 Kung wala ang iyong malinaw na pahintulot, hindi namin ibabahagi ang iyong personal na impormasyon sa mga third party, maliban sa mga sumusunod na sitwasyon:",
+              "(1) Ikaw mismo ang nagbunyag nito sa mga third party;",
+              "(2) Kinakailangan ng pambansang seguridad, kaligtasang pampubliko, kalusugang pampubliko, at mga ayon sa batas na hudisyal o administratibong kinakailangan;",
+              "(3) Upang protektahan ang mga pangunahing legal na karapatan at interes ng Software na ito, ibang mga user, o third party, at alinsunod sa mga legal na probisyon;",
+              "(4) Impormasyong nakuha mula sa mga lehitimong pampublikong mapagkukunan;",
+              "(5) Iba pang mga sitwasyong itinakda ng mga batas at regulasyon.",
+              "5.5 May legal kang karapatan na magtanong, magtama, magtanggal, at mag-withdraw ng awtorisasyon tungkol sa iyong personal na impormasyon. Para sa mga detalyadong alituntunin sa personal na impormasyon, mangyaring sumangguni sa Patakaran sa Privacy."
+            ],
+            "key": "agreement-section-5"
+          },
+          {
+            "title": "6 Mga Reklamo at Ulat",
+            "paragraphs": [
+              "6.1 Maaari kang mag-ulat ng lumalabag na nilalaman o magreklamo tungkol sa mga lumalabag na gawain sa pamamagitan ng client o opisyal na contact email.",
+              "6.2 Kung nilabag ang iyong mga karapatan, maaari kang magsumite ng patunay ng mga karapatan upang magsampa ng reklamo. Ang kinakasuhan ay maaaring magsumite ng patunay ng pagmamay-ari upang mag-apela.",
+              "6.3 Karaniwan naming kinukumpleto ang pagsusuri at nagbibigay ng feedback sa loob ng 15 araw ng trabaho. Para sa mga kumplikadong kaso, ia-update ka namin sa progreso."
+            ],
+            "key": "agreement-section-6"
+          },
+          {
+            "title": "7 Paghawak ng mga Paglabag",
+            "paragraphs": [
+              "7.1 Kung lumabag ka sa Kasunduang ito, mga alituntunin ng platform, o lokal na batas at regulasyon, maaaring magsagawa ang Licensor ng mga hakbang tulad ng mga babala, paghihigpit sa feature, pagtanggal ng nilalaman, pagsususpinde ng serbisyo, o permanenteng pagbabawal sa account. Ang anumang pagkalugi na dulot ng mga hakbang na ito ay sasagutin mo, at ang mga tinanggal na nilalaman at data ay hindi maibabalik.",
+              "7.2 Kung may matuklasang pinaghihinalaang ilegal o kriminal na aktibidad, iingatan ng Licensor ang ebidensya at mag-uulat sa mga awtoridad ng batas at makikipagtulungan sa mga imbestigasyon.",
+              "7.3 Kung ang iyong paglabag ay nagdulot ng paghahabol ng mga third party laban sa Licensor, pagsasailalim sa mga administratibong parusa, o pagdanas ng reputasyonal o ekonomikong pagkalugi, sasagutin mo ang lahat ng pagkalugi ng Licensor."
+            ],
+            "key": "agreement-section-7"
+          },
+          {
+            "title": "8 Intelektwal na Ari-arian",
+            "paragraphs": [
+              "8.1 Ang mga karapatan sa intelektwal na ari-arian ng code, interface, teksto, mga imahe, audio/video, mga epekto, mga trademark, at mga logo ng Software na ito ay pag-aari ng Licensor.",
+              "8.2 Pag-aari ng Licensor ang lahat ng karapatan sa mga lehitimong data at impormasyong nabuo sa panahon ng operasyon ng produkto.",
+              "8.3 Nang walang malinaw na nakasulat na awtorisasyon mula sa Licensor, ipinagbabawal kang gamitin, kopyahin, gayahin, o irehistro ang tatak na \"VicastCam\", mga trademark, domain name, logo, atbp. Kung magdulot ka ng pagkalugi sa pamamagitan ng hindi awtorisadong paggamit, sasagutin mo ang buong legal na pananagutan.",
+              "8.4 Kasama sa Software na ito ang mga bahagi ng software na ipinamamahagi sa ilalim ng mga open-source license at third-party license. Dapat mong mahigpit na sumunod sa mga kaukulang tuntunin ng lisensya kapag ginagamit ang mga naturang bahagi."
+            ],
+            "key": "agreement-section-8"
+          },
+          {
+            "title": "9 Mga Tuntunin para sa mga Menor de Edad",
+            "paragraphs": [
+              "9.1 Ang mga menor de edad ay dapat kumuha ng malinaw na pahintulot mula sa kanilang legal na tagapag-alaga bago gamitin ang Software na ito at dapat gamitin ito sa ilalim ng pangangasiwa ng tagapag-alaga. Ang mga tagapag-alaga ay may karapatang humiling ng mga paghihigpit o pagkansela ng account ng isang menor de edad na user.",
+              "9.2 Maingat na kinokolekta ng Licensor ang personal na impormasyon ng mga menor de edad na user. Dapat gabayan ng mga tagapag-alaga ang mga menor de edad na protektahan ang kanilang personal na privacy at seguridad sa network.",
+              "9.3 Dapat tuparin ng mga tagapag-alaga ang kanilang mga tungkulin sa pangangalaga alinsunod sa batas, gabayan ang mga menor de edad na gamitin ang internet nang malusog, at maiwasan ang pagkagumon sa internet.",
+              "9.4 Ang mga menor de edad at kanilang mga tagapag-alaga ay legal na responsable para sa lahat ng mga aksyon at kahihinatnan ng paggamit ng menor de edad.",
+              "9.5 Ang mga menor de edad ay hindi maaaring gumamit ng camera para sa live streaming o lumitaw sa mga video nang mag-isa, at hindi maaaring mag-publish ng ilegal o bulgar na nilalaman.",
+              "9.6 Kung matuklasan ng Licensor na ang isang menor de edad ay gumagamit ng Software nang walang pahintulot ng tagapag-alaga, may karapatan itong direktang paghigpitan o i-ban ang kaukulang account.",
+              "9.7 Dapat maayos na itago ng mga tagapag-alaga ang mga payment account at password upang maiwasan ang hindi awtorisadong singil ng mga menor de edad. Kung mayroon kang mga katanungan, mangyaring makipag-ugnayan sa opisyal na customer service."
+            ],
+            "key": "agreement-section-9"
+          },
+          {
+            "title": "10 Disclaimer",
+            "paragraphs": [
+              "10.1 Kinikilala at sinasang-ayunan mo na ang paggamit mo sa application na ito ay nasa iyong sariling peligro. Hanggang sa pinakamataas na lawak na pinahihintulutan ng naaangkop na batas, ang application na ito at ang anumang serbisyong isinagawa o ibinigay ng application na ito ay ibinibigay \"as is\" at \"as available\" na may lahat ng mga depekto at walang anumang warranty, at ang Licensor ay nagtatakwil ng lahat ng warranty at kundisyon tungkol sa application na ito at anumang serbisyo, maging ito ay hayag, ipinahiwatig, o ayon sa batas, kabilang ngunit hindi limitado sa mga ipinahiwatig na warranty at/o kundisyon ng merchantability, kasiya-siyang kalidad, pagiging angkop para sa partikular na layunin, katumpakan, tahimik na paggamit, at hindi paglabag sa mga karapatan ng third party. Walang oral o nakasulat na impormasyon o payo na ibinigay ng Licensor o ng mga awtorisadong kinatawan nito ang lilikha ng warranty. Kung ang application o mga serbisyo ay natagpuang may depekto, ikaw ang sasagot sa buong gastos ng lahat ng kinakailangang serbisyo, pagkukumpuni, o pagwawasto. Ang ilang hurisdiksyon ay hindi nagpapahintulot ng pagbubukod ng mga ipinahiwatig na warranty o mga limitasyon sa naaangkop na mga karapatan ng consumer ayon sa batas, kaya ang mga nabanggit na pagbubukod at limitasyon ay maaaring hindi naaangkop sa iyo.",
+              "10.2 Gagamit ang Licensor ng mga industry-standard na teknolohiya sa seguridad upang matiyak ang matatag na operasyon ng mga serbisyo. Hanggang sa lawak na pinahihintulutan ng mga batas at regulasyon, ang Licensor ay hindi mananagot para sa kabayaran sa mga pagkaantala ng serbisyo o pansamantalang abnormalidad ng data na dulot ng force majeure, mga natural na kalamidad, digmaan, pagbabawal ng pamahalaan, pagkabigo ng network, pagpapanatili ng system, pag-atake ng hacker, virus, pagkabigo ng third-party na serbisyo, abnormalidad ng device, o iba pang mga salik na hindi kontrolado ng Licensor.",
+              "10.3 Kung ang mga serbisyo ay isususpinde o wawakasan dahil sa pagpapanatili ng system, pag-upgrade ng bersyon, pagsasaayos ng pagsunod, o mga pagsasaayos sa negosyo, magbibigay kami ng makatwirang abiso nang maaga sa pamamagitan ng mga anunsyo sa loob ng app at sa opisyal na website.",
+              "10.4 Kung ang iyong device ay nasira o ang data ay nawala dahil sa iyong sariling mga pagkakamali sa operasyon, mga pagkabigo ng device, maling setting ng network, o hindi wastong paggamit ng Software na ito, ikaw ang sasagot sa lahat ng pagkalugi.",
+              "10.5 May karapatan kaming ayusin ang mga tampok ng serbisyo, baguhin ang nilalaman ng serbisyo, o linisin ang data ng server batay sa mga lehitimong operasyon, seguridad ng system, pagsasaayos ng pagsunod, at iba pang mga dahilan. Hindi namin tatanggalin ang data ng user nang walang dahilan.",
+              "10.6 Limitasyon ng Pananagutan",
+              "Hanggang sa lawak na hindi ipinagbabawal ng batas, sa anumang pangyayari ay hindi mananagot ang Licensor para sa personal na pinsala o anumang incidental, espesyal, hindi direkta, o consequential na mga pinsala, kabilang ngunit hindi limitado sa pagkawala ng kita, pagkawala ng data, pagkaantala ng negosyo, o anumang iba pang komersyal na pinsala o pagkalugi, na nagmumula o may kaugnayan sa iyong paggamit o kawalan ng kakayahang gamitin ang lisensyadong application, anuman ang teorya ng pananagutan (kontrata, tort, o iba pa), kahit na ang Licensor ay pinayuhan ng posibilidad ng mga naturang pinsala. Ang ilang hurisdiksyon ay hindi nagpapahintulot ng limitasyon ng pananagutan para sa personal na pinsala o incidental o consequential na mga pinsala, kaya ang limitasyong ito ay maaaring hindi naaangkop sa iyo.",
+              "Maliban sa mga mandatoryong probisyon ng lokal na batas tungkol sa personal na pinsala, ang kabuuang pananagutan ng Licensor para sa lahat ng pinsala ay hindi lalampas sa 1 US dollar (USD 1.00). Ang mga nabanggit na limitasyon ay ilalapat kahit na ang nabanggit na remedyo ay nabigo sa mahalagang layunin nito.",
+              "Para sa mga hurisdiksyon tulad ng European Union, European Economic Area, at United Kingdom, ang sugnay na ito ng limitasyon ng pananagutan ay mahigpit na ilalapat alinsunod sa mga lokal na batas sa proteksyon ng consumer."
+            ],
+            "key": "agreement-section-10"
+          },
+          {
+            "title": "11 Miscellaneous",
+            "paragraphs": [
+              "11.1 Namamahalang Batas",
+              "Ang Kasunduang ito at ang relasyon sa pagitan mo at ng Licensor ay pamamahalaan ng mga batas ng Hong Kong Special Administrative Region ng People's Republic of China, hindi kasama ang mga probisyon sa conflict of law. Ang United Nations Convention on Contracts for the International Sale of Goods ay hindi ilalapat sa Kasunduang ito.",
+              "11.2 Paglutas ng Hindi pagkakaunawaan",
+              "Anumang hindi pagkakaunawaan na nagmumula o may kaugnayan sa Kasunduang ito ay unang lulutasin sa pamamagitan ng magiliw na negosasyon. Kung mabigo ang negosasyon, sumasang-ayon ka at ang Licensor na isumite ang hindi pagkakaunawaan sa mga korte na may hurisdiksyon sa Hong Kong Special Administrative Region ng People's Republic of China.",
+              "Kung ikaw ay residente ng isang miyembrong estado ng EU, ang sugnay na ito ng hurisdiksyon ay hindi makakaapekto sa iyong mga karapatan ayon sa batas sa ilalim ng mga mandatoryong lokal na batas sa proteksyon ng consumer.",
+              "11.3 Mga Pagbabago sa Kasunduan",
+              "Ang Licensor ay may karapatang baguhin ang Kasunduang ito sa panahon ng pagsubok ng produkto at pormal na operasyon, at ilalathala ang mga pagbabago sa pamamagitan ng makatwirang paraan tulad ng mga anunsyo sa loob ng app at opisyal na website. Kapag nailathala, ang mga binagong tuntunin ay magiging epektibong bahagi ng Kasunduang ito at may parehong legal na epekto.",
+              "11.4 Relasyon ng mga Partido",
+              "Ikaw at ang Licensor ay mga independiyenteng sibil na paksa. Ang Kasunduang ito ay hindi bumubuo ng anumang legal na relasyon tulad ng ahensya, partnership, empleyo, asosasyon, o joint venture. Ang Apple Inc. at Google LLC ay mga channel lamang ng pamamahagi at pagbabayad para sa Software na ito at hindi nakikilahok sa pagbuo o operasyon ng Software na ito, ni hindi sila mananagot sa anumang legal na responsibilidad para sa Software na ito o sa mga serbisyo nito.",
+              "11.5 Epektibo at Pagwawakas",
+              "Ang Kasunduang ito ay magkakabisa sa petsa na sumang-ayon ka sa mga tuntunin at magrehistro ng account. Ito ay wawakasan kapag tinapos ng Licensor ang mga serbisyo o mawala sa iyo ang karapatang gamitin ang Software. Pagkatapos ng pagwawakas, mananatiling epektibo ang iyong mga obligasyon at pananagutan sa panahon ng paggamit.",
+              "11.6 Mga Heading",
+              "Ang mga heading ng mga seksyon sa Kasunduang ito ay para sa kaginhawahan lamang at hindi nakakaapekto sa interpretasyon o aplikasyon ng mga tuntunin.",
+              "11.7 Pahayag ng Copyright at Mga Karapatan",
+              "Ang copyright ng teksto ng Kasunduang ito ay pag-aari ng Licensor. Ang Licensor ay may karapatang baguhin ang Kasunduan alinsunod sa mga batas, regulasyon, at pangangailangan ng negosyo, at may karapatang bigyang-kahulugan ito nang ayon sa batas."
+            ],
+            "key": "agreement-section-11"
+          }
+        ]
+      }
+    }
+  ]
+}

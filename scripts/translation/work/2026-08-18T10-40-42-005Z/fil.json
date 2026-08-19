@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Tutorial Center",
+          "titleMain": "Simulan ang Iyong",
+          "titleHighlight": "Paglalakbay sa Pag-aaral ng VicastCam",
+          "descriptionMain": "Master ang bawat feature ng software",
+          "descriptionHighlight": "Mabilis na makapagsimula"
+        },
+        "player": {
+          "sectionAriaLabel": "Listahan ng Tutorial",
+          "catalogAriaLabel": "Katalogo ng Tutorial",
+          "previousLabel": "Nakaraan",
+          "nextLabel": "Susunod",
+          "firstLessonText": "Nasa unang aralin ka na",
+          "lastLessonText": "Nasa huling aralin ka na",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Pagsisimula",
+            "count": "11 aralin",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Gumawa ng Iyong Unang Virtual Studio",
+                "description": "I-set up at i-configure ang iyong unang virtual studio mula sa simula.",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Pag-unawa sa Image Tools",
+                "description": "Tuklasin ang mga pangunahing kaalaman sa image tools at ang kanilang karaniwang gamit.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Paggawa gamit ang Layers",
+                "description": "Kilalanin ang Layers panel at kung paano epektibong pamahalaan ang mga layers.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Paggamit ng Background Layers",
+                "description": "Matuto kung paano magdagdag at mag-adjust ng background layers para sa iyong scene.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Paggamit ng Portrait Layers",
+                "description": "Magdagdag ng portrait layers para mapaganda ang iyong live production.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Paggamit ng Image Layers",
+                "description": "Magdagdag at mag-edit ng image layers sa loob ng iyong studio setup.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Paggamit ng Video Layers",
+                "description": "Magdagdag ng video clips at kontrolin ang mga setting ng playback.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Paggamit ng Effect Layers",
+                "description": "Mag-apply ng visual effects sa iyong live stream gamit ang effect layers.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Paggamit ng Caption Layers",
+                "description": "Gumawa ng mga caption at i-customize ang kanilang hitsura.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "Paggamit ng Virtual Avatars",
+                "description": "Buhayin ang iyong stream gamit ang virtual avatar integration.",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "Paggamit ng Scenes",
+                "description": "Magpalipat-lipat ng iba't ibang scene layouts nang walang putol sa iyong stream.",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Mga Advanced na Tutorial",
+            "count": "6 na aralin",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Paggamit ng Camera Movement Layers",
+                "description": "Gumawa ng mga dynamic na shot gamit ang camera movement layers.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Paggamit ng Path Animation",
+                "description": "Kontrolin ang motion paths ng elemento gamit ang trajectory feature.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Paggamit ng Multi-Camera Layers",
+                "description": "I-set up ang multi-camera layers para sa mabilis na paglipat ng anggulo.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Paggamit ng Controller",
+                "description": "Pamahalaan ang iyong buong broadcast mula sa isang control panel.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Audio Setup at Mixing",
+                "description": "I-configure ang audio inputs, outputs, at mix settings.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Backup at Restore",
+                "description": "I-back up ang iyong studio configuration at i-restore ito kung kinakailangan.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "Pag-setup ng Computer",
+            "count": "7 aralin",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "Pagsisimula sa VicastCam",
+                "description": "Isang pangkalahatang-ideya ng interface at mga pangunahing feature.",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "Wired Connection – iPhone",
+                "description": "Ikonekta ang iyong iPhone sa VicastCam gamit ang wired connection.",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "Wireless Connection – iPhone",
+                "description": "Ikonekta ang iyong iPhone sa VicastCam gamit ang Wi-Fi.",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "Wired Connection – Android",
+                "description": "Ikonekta ang iyong Android device sa VicastCam gamit ang wired connection.",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "Wireless Connection – Android",
+                "description": "Ikonekta ang iyong Android device sa VicastCam gamit ang Wi-Fi.",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "Pagdagdag at Paggamit ng Local Media",
+                "description": "Mag-import at gumamit ng mga local media file sa iyong mga proyekto.",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "Ano ang Gagawin Pagkatapos Kumonekta",
+                "description": "I-set up ang iyong stream at maging handa kapag nakakonekta na ang iyong mga device.",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

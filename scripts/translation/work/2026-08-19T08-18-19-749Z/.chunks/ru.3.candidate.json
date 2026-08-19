@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "История покупок",
+    "title": "История покупок",
+    "tabTitle": "Покупки",
+    "exchangeTabTitle": "Активации",
+    "tableHeaders": {
+      "title": "Тип",
+      "date": "Время оплаты",
+      "price": "Сумма",
+      "paymentMethod": "Способ оплаты",
+      "status": "Статус",
+      "exchangeDate": "Время активации",
+      "exchangeCode": "Код активации"
+    },
+    "exchangeTableHeaders": {
+      "date": "Время активации",
+      "code": "Код активации"
+    },
+    "cardTypes": {
+      "month": "Месячная карта",
+      "year": "Годовая карта",
+      "life": "Бессрочная карта",
+      "default": "Карта участника"
+    },
+    "orderStatuses": {
+      "pending": "Ожидает оплаты",
+      "paid": "Оплачено",
+      "closed": "Закрыто",
+      "refunded": "Возвращено",
+      "unknown": "Неизвестно"
+    },
+    "secretLabels": {
+      "show": "Показать пароль",
+      "hide": "Скрыть пароль"
+    },
+    "secretMask": "******",
+    "emptyText": "Покупок пока нет",
+    "exchangeEmptyText": "Активаций пока нет",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Банковская карта",
+      "creditcard": "Кредитная карта",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Криптовалюта",
+      "balance": "Баланс",
+      "free": "Бесплатно"
+    }
+  },
+  "team": {
+    "ariaLabel": "Моя команда",
+    "title": "Моя команда",
+    "referrerLabel": "Мой реферер",
+    "levelOne": "Участники 1 уровня",
+    "levelTwo": "Участники 2 уровня",
+    "tableHeaders": {
+      "name": "Имя участника",
+      "status": "Статус подписки",
+      "joinedAt": "Время регистрации"
+    },
+    "memberStatus": {
+      "free": "Бесплатный пользователь",
+      "vip": "VIP-пользователь"
+    },
+    "emptyMemberName": "Безымянный пользователь",
+    "emptyReferrer": "Нет реферера",
+    "emptyTeam": "Участников пока нет",
+    "errors": {
+      "loadFail": "Не удалось загрузить участников команды. Попробуйте позже."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Центр доходов",
+    "title": "Обзор доходов",
+    "commissionTitle": "Детали комиссий",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Общий доход",
+        "desc": "Всего заработано комиссий на сегодня"
+      },
+      {
+        "key": "month",
+        "title": "За месяц",
+        "desc": "Комиссии за текущий месяц"
+      },
+      {
+        "key": "settling",
+        "title": "Ожидает выплаты",
+        "value": "0.00",
+        "desc": "Сумма, ожидающая выплаты"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Доступно для вывода",
+        "desc": "Сумма, доступная для вывода сейчас",
+        "action": "Вывести"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Имя пользователя",
+      "saleTime": "Время продажи",
+      "goodsInfo": "Товар",
+      "commission": "Комиссия"
+    },
+    "emptyCommission": "Комиссий пока нет",
+    "errors": {
+      "loadFail": "Не удалось загрузить детали комиссий. Попробуйте позже."
+    },
+    "withdraw": {
+      "ariaLabel": "Запрос на вывод",
+      "title": "Запрос на вывод",
+      "closeLabel": "Закрыть диалог вывода",
+      "balanceLabel": "Доступный баланс",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Сумма вывода",
+      "amountPlaceholder": "Введите сумму вывода",
+      "allButton": "Все",
+      "allAmountValue": "0.00",
+      "amountTip": "Проверьте правильность суммы. После отправки запрос будет рассмотрен вручную.",
+      "methodLabel": "Способ вывода",
+      "methods": [
+        "Банковская карта",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Банковская карта",
+      "nameLabel": "Имя получателя",
+      "namePlaceholder": "Введите имя получателя",
+      "defaultName": "",
+      "bankCardLabel": "Номер счета",
+      "bankCardPlaceholder": "Введите номер карты, email PayPal или адрес кошелька",
+      "remarkLabel": "Комментарий",
+      "remarkPlaceholder": "Добавьте дополнительные примечания",
+      "note": "Запросы на вывод обрабатываются в течение 1-3 рабочих дней.",
+      "cancelButton": "Отмена",
+      "submitButton": "Отправить запрос"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Активация прошла успешно",
+    "operationFailed": "Не удалось активировать",
+    "invalidCard": "Неверный код активации",
+    "cardNotFound": "Код активации не найден",
+    "cardDisabled": "Код активации отключен",
+    "cardExpired": "Срок действия кода активации истек"
+  },
+  "successMessage": "Операция выполнена успешно"
+}

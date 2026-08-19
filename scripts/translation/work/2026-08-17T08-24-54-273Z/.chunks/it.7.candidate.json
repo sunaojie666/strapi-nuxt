@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Cosa fare se lo schermo non viene visualizzato completamente durante lo streaming dal computer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se lo schermo non viene visualizzato completamente durante lo streaming dal telefono tramite un'app companion per live streaming o altro software, segui questi passaggi per regolarlo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri VicastCam, tocca l'icona della fotocamera in basso per accedere alla pagina di live streaming, quindi vai su [Menu destro - Altre impostazioni - Proporzioni - 9:16].",
+            "Dopo aver effettuato la proiezione sull'app companion, adatta prima la scala, quindi trascina lo schermo verso l'alto o verso il basso per riempire l'intero schermo."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: prima di iniziare lo streaming, regola le proporzioni e poi aggiungi i tuoi contenuti."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Cosa fare se una richiesta di rete fallisce?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se riscontri errori di richiesta di rete, prova quanto segue:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri le Impostazioni del telefono, vai su [Gestione permessi - VicastCam - Usa dati cellulari e Wi-Fi] e abilita l'accesso alla rete.",
+            "Disattiva la modalità di risparmio energetico e qualsiasi restrizione in background sul telefono.",
+            "Cambia rete, riavvia il telefono, attiva la modalità aereo o aggiorna l'app all'ultima versione.",
+            "Se il problema persiste, fai uno screenshot dell'errore e contatta l'assistenza clienti per ricevere aiuto."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Perché le sovrapposizioni di asset di rete sfarfallano o diventano nere durante una live streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se riscontri sfarfallii o schermate nere durante l'aggiunta di asset di rete in una live streaming, ecco come gestire la situazione:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Scarica e visualizza in anteprima tutti gli asset e le sovrapposizioni che intendi utilizzare durante lo streaming in anticipo. Assicurati che funzionino correttamente prima di andare in diretta.",
+            "Alcuni asset inclusi nel software sono memorizzati su server. Scaricali prima di iniziare lo streaming in modo da poterli utilizzare direttamente durante la trasmissione senza doverli ricaricare.",
+            "Caricare asset durante lo streaming consuma risorse di streaming, memoria del telefono e prestazioni, il che può causare ritardi. Su telefoni di fascia bassa, potrebbe persino portare a crash o schermate nere."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pianifica e prova lo streaming in anticipo. Esercitati in ogni segmento per assicurarti che tutto funzioni senza intoppi prima di andare in diretta. Tratta ogni streaming con cura e lo streaming ti ripagherà."
+        }
+      ]
+    }
+  ]
+}

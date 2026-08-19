@@ -1,0 +1,27 @@
+{
+  "__chunk": [
+    {
+      "id": "android-huawei-disconnect",
+      "title": "अगर मेरा Huawei फ़ोन मल्टी-कैमरा या वर्चुअल कीबोर्ड से बार-बार डिस्कनेक्ट हो रहा है, तो मुझे क्या करना चाहिए?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "अगर आपको Huawei फ़ोन पर मल्टी-कैमरा या वर्चुअल कीबोर्ड के साथ डिस्कनेक्शन की समस्या आ रही है, तो इन चरणों का पालन करें:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "अपने फ़ोन की Settings में जाएं।",
+            "ऊपर सर्च बार में 'App launch management' टाइप करें।",
+            "App launch management पेज पर जाएं और नीचे स्क्रॉल करके VicastCam ढूंढें।",
+            "दाईं ओर के टॉगल को बंद करें (आइकन ग्रे हो जाएगा), और पॉपअप में तीनों विकल्पों को चालू करें (वे नीले हो जाएंगे)।"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "आप वीडियो ट्यूटोरियल 'How to prevent disconnections with multi-camera and virtual keyboard on Huawei phones' का भी संदर्भ ले सकते हैं।"
+        }
+      ]
+    }
+  ]
+}

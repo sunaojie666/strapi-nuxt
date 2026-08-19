@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Choisir le mode de paiement",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Payez avec votre solde PayPal, votre carte bancaire ou votre carte de crédit",
+            "secureBadge": "Paiement sécurisé",
+            "methodLabel": "Mode de paiement",
+            "accountLabel": "Compte actuel",
+            "signInRequired": "Veuillez vous connecter pour continuer votre achat",
+            "signInAction": "Se connecter",
+            "summaryHint": "Cliquez sur le bouton PayPal pour finaliser votre paiement",
+            "trustItems": [
+              "Les paiements sont traités en toute sécurité par PayPal",
+              "Prend en charge le solde PayPal, les cartes bancaires et les cartes de crédit",
+              "Les avantages de l'adhésion sont activés automatiquement après un paiement réussi"
+            ],
+            "buttonPay": "Payer avec PayPal",
+            "buttonPending": "Commande en attente",
+            "buttonCreating": "Création de la commande...",
+            "sdkLoading": "Chargement de PayPal...",
+            "sdkError": "Échec du chargement de PayPal. Veuillez vérifier votre réseau et réessayer.",
+            "sdkIneligible": "Le paiement PayPal n'est pas pris en charge dans cet environnement",
+            "sdkMissingConfig": "PayPal n'est pas configuré. Veuillez contacter l'administrateur.",
+            "orderCreating": "Création de la commande de paiement...",
+            "orderCreateFailed": "Échec de la création de la commande. Veuillez réessayer.",
+            "orderProcessing": "Le résultat du paiement est encore en cours de confirmation. Veuillez réessayer plus tard.",
+            "orderSuccess": "Paiement réussi. Vos avantages d'adhésion ont été activés.",
+            "orderFailed": "Le paiement a échoué. Veuillez réessayer.",
+            "orderPending": "Le paiement n'est pas terminé. Veuillez finaliser le paiement et vérifier à nouveau.",
+            "orderExpired": "La commande de paiement a expiré. Veuillez réessayer.",
+            "statusQueryFailed": "Échec de la vérification du statut du paiement. Veuillez réessayer plus tard.",
+            "invalidPlan": "Le forfait sélectionné est invalide. Veuillez revenir en arrière et choisir à nouveau.",
+            "popupBlocked": "La fenêtre de paiement a été bloquée par votre navigateur. Veuillez autoriser les pop-ups pour ce site et réessayer.",
+            "popupOpened": "La fenêtre de paiement PayPal s'est ouverte. Veuillez finaliser le paiement dans la fenêtre.",
+            "popupClosedChecking": "La fenêtre de paiement s'est fermée. Confirmation du résultat du paiement...",
+            "popupClosedFailed": "La fenêtre de paiement s'est fermée, mais la commande n'est pas terminée. Veuillez réessayer."
+          },
+          "summary": {
+            "title": "Récapitulatif de la commande",
+            "periodLabel": "Période d'adhésion",
+            "paymentMethodLabel": "Mode de paiement",
+            "amountLabel": "Montant dû",
+            "paymentMethod": "Paiement en ligne PayPal",
+            "note": "Après un paiement réussi, les avantages de l'adhésion seront automatiquement attribués à votre compte actuel.",
+            "periodMonth": "1 mois",
+            "periodYear": "1 an",
+            "periodLife": "À vie",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Confirmation du résultat du paiement...",
+            "closeLabel": "Fermer",
+            "iconAlt": "Résultat du paiement",
+            "titlePrefix": "Paiement",
+            "successTitleHighlight": "réussi !",
+            "failureTitleHighlight": "échoué !",
+            "successDescription": "Merci pour votre achat. Votre adhésion a été activée.",
+            "failureDescription": "Votre paiement n'a pas pu être effectué. Veuillez réessayer ou utiliser un autre mode de paiement.",
+            "orderNumber": "Numéro de commande",
+            "membershipType": "Type d'adhésion",
+            "expiry": "Date d'expiration",
+            "orderStatus": "Statut de la commande",
+            "successStatus": "Payé",
+            "failureStatus": "Impayé",
+            "successPrimaryAction": "Voir dans le centre d'adhésion",
+            "failurePrimaryAction": "Changer de mode de paiement",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Retour à la page",
+            "copyOrderNumber": "Copier le numéro de commande",
+            "copied": "Copié",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Confirmer l'achat | VicastCam",
+            "description": "Confirmez votre forfait d'adhésion VicastCam et effectuez le paiement via PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Adhésion mensuelle",
+              "description": "Profitez de toutes les fonctionnalités d'adhésion VicastCam sur une base mensuelle",
+              "period": "1 mois"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Adhésion annuelle",
+              "description": "Profitez de toutes les fonctionnalités d'adhésion VicastCam pendant une année complète",
+              "period": "1 an"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Adhésion à vie",
+              "description": "Achat unique, accès à long terme aux fonctionnalités d'adhésion VicastCam",
+              "period": "À vie"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

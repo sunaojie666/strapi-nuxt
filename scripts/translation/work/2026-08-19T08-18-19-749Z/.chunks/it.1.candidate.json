@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Centro Account",
+    "description": "Pagina Centro Account di VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Navigazione account",
+    "defaultProfileName": "Utente",
+    "emptyContent": "Nessun contenuto",
+    "copyButtonLabel": "Copia",
+    "monthSelectLabel": "Seleziona mese",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Informazioni utente non trovate. Accedi di nuovo.",
+    "paginationLabel": "Paginazione",
+    "previousPageLabel": "Pagina precedente",
+    "nextPageLabel": "Pagina successiva",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Vai a",
+      "unit": "pagina",
+      "ariaLabel": "Vai a una pagina specifica",
+      "buttonLabel": "Vai"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Centro Account",
+    "logout": "Esci",
+    "profileAriaSuffix": "Menu account"
+  },
+  "sidebar": {
+    "ariaLabel": "Navigazione account",
+    "menus": {
+      "account": "Informazioni account",
+      "membership": "Abbonamento",
+      "redeem": "Riscatta codice",
+      "purchaseHistory": "Cronologia acquisti",
+      "team": "Il mio team",
+      "earnings": "Guadagni"
+    }
+  },
+  "account": {
+    "ariaLabel": "Informazioni account",
+    "profileTitle": "Informazioni account",
+    "usernameLabel": "Nome utente",
+    "passwordLabel": "Password",
+    "passwordMask": "********",
+    "defaultUsername": "Nessun nickname impostato",
+    "emailLabel": "Email collegata",
+    "emailPlaceholder": "Inserisci la tua email",
+    "codePlaceholder": "Inserisci il codice di verifica",
+    "sendCodeButton": "Ottieni codice",
+    "bindButton": "Collega email",
+    "alreadyBound": "Collegata",
+    "unboundEmail": "Non collegata",
+    "emailBindTip": "Una volta collegata, l'email non può essere modificata. Verifica che l'indirizzo email sia corretto.",
+    "emailRequired": "Inserisci un'email valida",
+    "codeRequired": "Inserisci il codice di verifica",
+    "codeSent": "Codice di verifica inviato. Controlla la tua email.",
+    "bindSuccess": "Email collegata con successo",
+    "bindFailed": "Collegamento email non riuscito. Controlla il codice e riprova.",
+    "requestFailed": "Richiesta non riuscita. Riprova più tardi.",
+    "inviteTitle": "Link di invito",
+    "inviteDescription": "Copia il tuo link di invito personale. Quando gli amici si registrano e acquistano un abbonamento, ricevi premi.",
+    "emptyInviteLink": "Nessun link di invito disponibile"
+  }
+}

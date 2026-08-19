@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "How to Create a New Live Room",
+      "tag_1": "Mobile",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "Understanding VicastCam's Matting Modes",
+      "tag_1": "Mobile",
+      "tag_2": "Feature Tutorial"
+    },
+    {
+      "title": "How to Use VicastCam's Layer Feature",
+      "tag_1": "Mobile",
+      "tag_2": "Core Feature"
+    },
+    {
+      "title": "Getting to Know VicastCam on Desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "How to Connect iPhone to VicastCam Wirelessly",
+      "tag_1": "iOS",
+      "tag_2": "Connection Tutorial"
+    },
+    {
+      "title": "How to Add and Use Local Media",
+      "tag_1": "Desktop",
+      "tag_2": "Usage Tutorial"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Global Community",
+        "title_main": "Live Streaming That Works Everywhere",
+        "title_highlight": "Trusted by Streamers in 150+ Countries",
+        "desc": "Serving over 150 countries and regions, we help countless streamers grow from beginners to professional live content creators.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Countries"
+          },
+          {
+            "number": "2000+",
+            "name": "Active Streamers"
+          },
+          {
+            "number": "5000+",
+            "name": "Popularity Boost"
+          },
+          {
+            "number": "99.9%",
+            "name": "Stability"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "en",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Questions?",
+          "title_highlight": "We've got answers.",
+          "description": "Find answers to common VicastCam questions below. Can't find what you're looking for? Contact our team.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which platforms can I stream to with VicastCam?",
+              "answer": "VicastCam supports streaming to major platforms like YouTube, Twitch, TikTok, Facebook Live, and Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Does VicastCam's background removal require a green screen?",
+              "answer": "No. VicastCam uses AI-powered background removal, so you can replace your background in real time without a green screen."
+            },
+            {
+              "id": "q3",
+              "question": "Can I use VicastCam on my phone?",
+              "answer": "Yes. VicastCam is available on iOS and Android, and all professional features are available on mobile."
+            },
+            {
+              "id": "q4",
+              "question": "How reliable is VicastCam?",
+              "answer": "VicastCam offers 99.9% stability, supporting streamers worldwide with 24/7 uninterrupted streaming."
+            },
+            {
+              "id": "q5",
+              "question": "Does VicastCam support multi-camera streaming?",
+              "answer": "Yes. You can seamlessly switch between multiple cameras during a live stream to achieve a professional production."
+            }
+          ],
+          "view_more": {
+            "text": "View More"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Android & iOS Help",
+          "description": "Find answers to common VicastCam questions for Android and iOS, including account setup, media permissions, network connections, and live stream display issues.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCam Help",
+          "titleHighlight": "Find Answers Fast",
+          "description": "Choose Android or iOS tutorials to see common issues and solutions for your device."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Question categories",
+          "answerLabel": "Answer",
+          "questionProgressTemplate": "{group} · Question {current} of {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android Tutorials",
+            "count": "8 questions",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "What are the recommended media sizes for live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Recommended media sizes for live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "For live stream backgrounds, we recommend images at 1080 x 1920 pixels and videos at 1080 x 1920 pixels.",
+                      "Important: Full-screen overlays must use a 9:16 aspect ratio to ensure they align perfectly when switching between full-screen and 9:16 modes."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "How do I delete my account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in to the VicastCam app, then go to [Account - Top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Account Information"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Once your account is deleted, we will permanently remove your linked email, device records, and other identity information. We will also revoke third-party login authorizations via Google and Apple. After revocation, you will no longer be able to log in quickly using those third-party accounts; if you wish to use them again, you will need to re-authorize."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content and Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "All live stream media, videos, images, and project files are stored only on your device. The platform does not retain any creative content in the cloud. After deletion, the app's media management features will no longer work, so please back up your content in advance using the 'Export Media' feature.",
+                      "If you uninstall and reinstall the app, or switch devices without exporting a backup first, your media will be permanently unrecoverable."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Membership Benefits"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Your membership benefits will end immediately upon account deletion. If you have an active Google Play subscription, deleting your app account will not cancel it automatically, and you may still be charged. Please go to Google Play's 'Payments & subscriptions - Subscriptions' to manually cancel."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If you have any questions, please contact our support team."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Why can't I access my phone's media when adding images or videos?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If your photo library appears empty when adding media, you can enable photo access as follows:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Open your phone's Settings, scroll down to find VicastCam, tap [Photos - All Photos] to enable access.",
+                      "Android: Open your phone's Settings, find VicastCam under 'Permissions' or 'App Management', then tap [Permissions - Photos - All Photos] to enable access.",
+                      "If the issue persists, try reinstalling the app or contact our online support via the feedback feature."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "What should I do if the display is cut off when streaming from my computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If the display is incomplete when streaming from your phone via a streaming companion or other software, follow these steps:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tap the camera icon at the bottom to enter the live page, then go to [Right menu - More Settings - Aspect Ratio - 9:16].",
+                      "After casting to the streaming companion, first scale to fit, then drag the image up or down to fill the screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Note: Adjust the aspect ratio before adding media and before starting your stream."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "What should I do if a network request fails?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If you encounter network request failures, try the following:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open your phone's Settings, go to [Permissions - VicastCam - Mobile Data & Wi-Fi] and turn on network access.",
+                      "Turn off power-saving mode and any background restrictions.",
+                      "Switch networks, restart your phone, toggle airplane mode, or update the app.",
+                      "If the issue persists, take a screenshot of the error and contact our support team."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Why do overlays from online media flicker or go black during a live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If overlays from online media flicker or go black during a live stream, here's what you can do:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download and preview any media or overlays you plan to use before going live to ensure they work properly.",
+                      "Some built-in media is stored on servers. Download it before your stream so it's ready to use without loading during the broadcast.",
+                      "Loading media mid-stream consumes streaming resources, memory, and performance, which can cause lag. On lower-end devices, it may even cause crashes or black screens."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Important"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan and rehearse your stream in advance. Practice each segment to ensure everything runs smoothly before going live."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "What should I do if some keyboard keys are covered?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If some virtual keyboard keys are covered, try the following:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "If you're using an older 16:9 phone and some keys are covered, tap the second button in the top-left corner of the keyboard to enable full-screen mode.",
+                      "If the keyboard layout is misaligned, go to your phone's settings and set the font size to normal.",
+                      "Some phones have a 'senior mode' enabled; turning it off should restore the keyboard to normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Display issues are usually caused by oversized fonts or a large theme scale. Resetting these to standard should fix the problem."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "What should I do if my Huawei phone keeps disconnecting from multi-camera or virtual keyboard?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If you experience disconnections with multi-camera or virtual keyboard on Huawei phones, follow these steps:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Go to your phone's Settings.",
+                      "In the search bar at the top, type 'App launch management'.",
+                      "Go to the App launch management page and scroll down to find VicastCam.",
+                      "Turn off the toggle on the right (icon turns gray), and in the popup, enable all three options (they turn blue)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "You can also refer to the video tutorial 'How to prevent disconnections with multi-camera and virtual keyboard on Huawei phones'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS Tutorials",
+            "count": "6 questions",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "What are the recommended media sizes for live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Recommended media sizes for live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "For live stream backgrounds, we recommend images at 1080 x 1920 pixels and videos at 1080 x 1920 pixels.",
+                      "Important: Full-screen overlays must use a 9:16 aspect ratio to ensure they align perfectly when switching between full-screen and 9:16 modes."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "How do I delete my account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in to the VicastCam app, then go to [Account - Top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Account Information"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Once your account is deleted, we will permanently remove your linked email, device records, and other identity information. We will also revoke third-party login authorizations via Google and Apple. After revocation, you will no longer be able to log in quickly using those third-party accounts; if you wish to use them again, you will need to re-authorize."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content and Media"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "All live stream media, videos, images, and project files are stored only on your device. The platform does not retain any creative content in the cloud. After deletion, the app's media management features will no longer work, so please back up your content in advance using the 'Export Media' feature.",
+                      "If you uninstall and reinstall the app, or switch devices without exporting a backup first, your media will be permanently unrecoverable."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Membership Benefits"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Your membership benefits will end immediately upon account deletion. Because subscriptions are managed by Apple, the platform cannot process refunds directly. To request a refund, please submit a request through Apple's official channels (App Store purchase history). Before deleting your account, be sure to manually cancel any auto-renewing subscriptions to avoid future charges."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If you have any questions, please contact our support team."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Why can't I access my phone's media when adding images or videos?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If your photo library appears empty when adding media, open your iPhone's Settings, scroll down to find VicastCam, and tap [Photos - All Photos] to enable access."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "What should I do if the display is cut off when streaming from my computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If the display is incomplete when streaming from your phone via a streaming companion or other software, follow these steps:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tap the camera icon at the bottom to enter the live page, then go to [Right menu - More Settings - Aspect Ratio - 9:16].",
+                      "After casting to the streaming companion, first scale to fit, then drag the image up or down to fill the screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Note: Adjust the aspect ratio before adding media and before starting your stream."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "What should I do if a network request fails?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If you encounter network request failures, try the following:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open your phone's Settings, go to [Permissions - VicastCam - Mobile Data & Wi-Fi] and turn on network access.",
+                      "Turn off power-saving mode and any background restrictions.",
+                      "Switch networks, restart your phone, toggle airplane mode, or update the app.",
+                      "If the issue persists, take a screenshot of the error and contact our support team."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Why do overlays from online media flicker or go black during a live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "If overlays from online media flicker or go black during a live stream, here's what you can do:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download and preview any media or overlays you plan to use before going live to ensure they work properly.",
+                      "Some built-in media is stored on servers. Download it before your stream so it's ready to use without loading during the broadcast.",
+                      "Loading media mid-stream consumes streaming resources, memory, and performance, which can cause lag. On lower-end devices, it may even cause crashes or black screens."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Important"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan and rehearse your stream in advance. Practice each segment to ensure everything runs smoothly before going live. Take every stream seriously, and you'll get the best results."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Tutorial Center",
+        "titleMain": "Start Your VicastCam",
+        "titleHighlight": "Learning Journey",
+        "description": "Master the software and get up to speed quickly",
+        "buttonText": "View More"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Tutorial Center",
+          "titleMain": "Start Your VicastCam",
+          "titleHighlight": "Learning Journey",
+          "descriptionMain": "Master the software",
+          "descriptionHighlight": "Get up to speed quickly"
+        },
+        "player": {
+          "sectionAriaLabel": "Tutorial list",
+          "catalogAriaLabel": "Tutorial catalog",
+          "previousLabel": "Previous",
+          "nextLabel": "Next",
+          "firstLessonText": "This is the first lesson",
+          "lastLessonText": "This is the last lesson",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Beginner Tutorials",
+            "count": "9 lessons",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Create Your First Virtual Live Room",
+                "description": "Create and configure your first virtual live room from scratch.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Understanding the Image Feature",
+                "description": "Learn the basics of the image feature and its use cases.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "How to Use Layers",
+                "description": "Master the basics of the layers panel.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "How to Use Background Layers",
+                "description": "Learn to add and adjust background layers.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "How to Use Portrait Layers",
+                "description": "Learn to use portrait layers to create visual effects.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "How to Use Image Layers",
+                "description": "Learn to add and edit image layers.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "How to Use Video Layers",
+                "description": "Learn to add video media and configure playback.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "How to Use Effect Layers",
+                "description": "Add effect layers to your live stream.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "How to Use Caption Layers",
+                "description": "Create captions and adjust caption layer styles.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Advanced Tutorials",
+            "count": "6 lessons",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "How to Use Camera Movement Layers",
+                "description": "Use camera movement layers to create more dynamic shots.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "How to Use the Path Feature",
+                "description": "Control the movement path of elements with the path feature.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "How to Use Multi-Camera Layers",
+                "description": "Configure multi-camera layers to switch between different views quickly.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "How to Use the Controller Feature",
+                "description": "Use the controller to manage your live stream view.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "How to Use the Audio Feature",
+                "description": "Configure audio input, output, and mixing effects.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "How to Use the Backup Feature",
+                "description": "Back up and restore live room configurations and media.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

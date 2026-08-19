@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Riwayat pembelian",
+    "title": "Riwayat pembelian",
+    "tabTitle": "Pembelian",
+    "exchangeTabTitle": "Penukaran",
+    "tableHeaders": {
+      "title": "Jenis",
+      "date": "Waktu pembayaran",
+      "price": "Jumlah",
+      "paymentMethod": "Metode pembayaran",
+      "status": "Status",
+      "exchangeDate": "Waktu penukaran",
+      "exchangeCode": "Kode penukaran"
+    },
+    "exchangeTableHeaders": {
+      "date": "Waktu penukaran",
+      "code": "Kode penukaran"
+    },
+    "cardTypes": {
+      "month": "Kartu bulanan",
+      "year": "Kartu tahunan",
+      "life": "Kartu seumur hidup",
+      "default": "Kartu keanggotaan"
+    },
+    "orderStatuses": {
+      "pending": "Menunggu pembayaran",
+      "paid": "Lunas",
+      "closed": "Ditutup",
+      "refunded": "Dikembalikan",
+      "unknown": "Tidak diketahui"
+    },
+    "secretLabels": {
+      "show": "Tampilkan kata sandi",
+      "hide": "Sembunyikan kata sandi"
+    },
+    "secretMask": "******",
+    "emptyText": "Belum ada catatan pembelian",
+    "exchangeEmptyText": "Belum ada catatan penukaran",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Kartu bank",
+      "creditcard": "Kartu kredit",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Mata uang kripto",
+      "balance": "Saldo",
+      "free": "Gratis"
+    }
+  },
+  "team": {
+    "ariaLabel": "Tim saya",
+    "title": "Tim saya",
+    "referrerLabel": "Perujuk saya",
+    "levelOne": "Anggota level 1",
+    "levelTwo": "Anggota level 2",
+    "tableHeaders": {
+      "name": "Nama anggota",
+      "status": "Status keanggotaan",
+      "joinedAt": "Waktu bergabung"
+    },
+    "memberStatus": {
+      "free": "Pengguna gratis",
+      "vip": "Pengguna VIP"
+    },
+    "emptyMemberName": "Pengguna tanpa nama",
+    "emptyReferrer": "Tidak ada perujuk",
+    "emptyTeam": "Belum ada anggota tim",
+    "errors": {
+      "loadFail": "Gagal memuat anggota tim. Silakan coba lagi nanti."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Pusat penghasilan",
+    "title": "Ringkasan penghasilan",
+    "commissionTitle": "Detail komisi",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Total penghasilan",
+        "desc": "Total komisi yang diperoleh hingga saat ini"
+      },
+      {
+        "key": "month",
+        "title": "Bulan ini",
+        "desc": "Komisi yang diperoleh bulan ini"
+      },
+      {
+        "key": "settling",
+        "title": "Menunggu penyelesaian",
+        "value": "0.00",
+        "desc": "Jumlah yang menunggu penyelesaian"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Dapat ditarik",
+        "desc": "Jumlah yang saat ini tersedia untuk penarikan",
+        "action": "Tarik"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nama pengguna",
+      "saleTime": "Waktu penjualan",
+      "goodsInfo": "Produk",
+      "commission": "Komisi"
+    },
+    "emptyCommission": "Belum ada catatan komisi",
+    "errors": {
+      "loadFail": "Gagal memuat detail komisi. Silakan coba lagi nanti."
+    },
+    "withdraw": {
+      "ariaLabel": "Permintaan penarikan",
+      "title": "Permintaan penarikan",
+      "closeLabel": "Tutup dialog penarikan",
+      "balanceLabel": "Saldo yang dapat ditarik",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Jumlah penarikan",
+      "amountPlaceholder": "Masukkan jumlah penarikan",
+      "allButton": "Semua",
+      "allAmountValue": "0.00",
+      "amountTip": "Harap pastikan jumlahnya benar. Permintaan Anda akan ditinjau secara manual setelah dikirim.",
+      "methodLabel": "Metode penarikan",
+      "methods": [
+        "Kartu bank",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Kartu bank",
+      "nameLabel": "Nama penerima",
+      "namePlaceholder": "Masukkan nama penerima",
+      "defaultName": "",
+      "bankCardLabel": "Nomor rekening",
+      "bankCardPlaceholder": "Masukkan nomor kartu bank, email PayPal, atau alamat dompet",
+      "remarkLabel": "Catatan",
+      "remarkPlaceholder": "Tambahkan catatan tambahan",
+      "note": "Permintaan penarikan diproses dalam 1-3 hari kerja.",
+      "cancelButton": "Batal",
+      "submitButton": "Kirim permintaan"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Penukaran berhasil",
+    "operationFailed": "Penukaran gagal",
+    "invalidCard": "Kode penukaran tidak valid",
+    "cardNotFound": "Kode penukaran tidak ditemukan",
+    "cardDisabled": "Kode penukaran dinonaktifkan",
+    "cardExpired": "Kode penukaran kedaluwarsa"
+  },
+  "successMessage": "Operasi berhasil"
+}

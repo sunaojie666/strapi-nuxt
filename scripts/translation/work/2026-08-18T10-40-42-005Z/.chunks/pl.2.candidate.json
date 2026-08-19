@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Pierwsze kroki",
+      "count": "11 lekcji",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Utwórz swoje pierwsze wirtualne studio",
+          "description": "Skonfiguruj i dostosuj swoje pierwsze wirtualne studio od podstaw.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Poznaj narzędzia obrazu",
+          "description": "Poznaj podstawy narzędzi obrazu i ich typowe zastosowania.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Praca z warstwami",
+          "description": "Zapoznaj się z panelem Warstwy i naucz się efektywnie zarządzać warstwami.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Używanie warstw tła",
+          "description": "Dowiedz się, jak dodawać i dostosowywać warstwy tła w swojej scenie.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Używanie warstw portretowych",
+          "description": "Dodawaj warstwy portretowe, aby ulepszyć swoją produkcję na żywo.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Używanie warstw obrazu",
+          "description": "Dodawaj i edytuj warstwy obrazu w konfiguracji swojego studia.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Używanie warstw wideo",
+          "description": "Dodawaj klipy wideo i kontroluj ustawienia odtwarzania.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Używanie warstw efektów",
+          "description": "Stosuj efekty wizualne w swoim streamie na żywo za pomocą warstw efektów.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Używanie warstw napisów",
+          "description": "Twórz napisy i dostosowuj ich wygląd.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Używanie wirtualnych awatarów",
+          "description": "Ożyw swój stream dzięki integracji wirtualnych awatarów.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Używanie scen",
+          "description": "Płynnie przełączaj się między różnymi układami scen podczas streamu.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Zaawansowane poradniki",
+      "count": "6 lekcji",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Używanie warstw ruchu kamery",
+          "description": "Twórz dynamiczne ujęcia za pomocą warstw ruchu kamery.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Używanie animacji ścieżki",
+          "description": "Kontroluj ścieżki ruchu elementów za pomocą funkcji trajektorii.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Używanie warstw multi-kamera",
+          "description": "Skonfiguruj warstwy multi-kamera, aby szybko przełączać kąty.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Używanie kontrolera",
+          "description": "Zarządzaj całą transmisją z jednego panelu sterowania.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Konfiguracja i miksowanie dźwięku",
+          "description": "Skonfiguruj wejścia, wyjścia i ustawienia miksowania audio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Kopia zapasowa i przywracanie",
+          "description": "Wykonaj kopię zapasową konfiguracji studia i przywróć ją w razie potrzeby.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

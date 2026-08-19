@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "سجل المشتريات",
+    "title": "سجل المشتريات",
+    "tabTitle": "المشتريات",
+    "exchangeTabTitle": "الاستبدالات",
+    "tableHeaders": {
+      "title": "النوع",
+      "date": "وقت الدفع",
+      "price": "المبلغ",
+      "paymentMethod": "طريقة الدفع",
+      "status": "الحالة",
+      "exchangeDate": "وقت الاستبدال",
+      "exchangeCode": "رمز الاستبدال"
+    },
+    "exchangeTableHeaders": {
+      "date": "وقت الاستبدال",
+      "code": "رمز الاستبدال"
+    },
+    "cardTypes": {
+      "month": "بطاقة شهرية",
+      "year": "بطاقة سنوية",
+      "life": "بطاقة مدى الحياة",
+      "default": "بطاقة عضوية"
+    },
+    "orderStatuses": {
+      "pending": "في انتظار الدفع",
+      "paid": "مدفوع",
+      "closed": "مغلق",
+      "refunded": "مسترد",
+      "unknown": "غير معروف"
+    },
+    "secretLabels": {
+      "show": "إظهار كلمة المرور",
+      "hide": "إخفاء كلمة المرور"
+    },
+    "secretMask": "******",
+    "emptyText": "لا توجد سجلات شراء بعد",
+    "exchangeEmptyText": "لا توجد سجلات استبدال بعد",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "بطاقة بنكية",
+      "creditcard": "بطاقة ائتمان",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "عملة رقمية",
+      "balance": "الرصيد",
+      "free": "مجاني"
+    }
+  },
+  "team": {
+    "ariaLabel": "فريقي",
+    "title": "فريقي",
+    "referrerLabel": "الشخص الذي أحالني",
+    "levelOne": "أعضاء المستوى 1",
+    "levelTwo": "أعضاء المستوى 2",
+    "tableHeaders": {
+      "name": "اسم العضو",
+      "status": "حالة العضوية",
+      "joinedAt": "وقت الانضمام"
+    },
+    "memberStatus": {
+      "free": "مستخدم مجاني",
+      "vip": "مستخدم VIP"
+    },
+    "emptyMemberName": "مستخدم بدون اسم",
+    "emptyReferrer": "لا يوجد مُحيل",
+    "emptyTeam": "لا يوجد أعضاء في الفريق بعد",
+    "errors": {
+      "loadFail": "فشل تحميل أعضاء الفريق. يرجى المحاولة لاحقًا."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "مركز الأرباح",
+    "title": "نظرة عامة على الأرباح",
+    "commissionTitle": "تفاصيل العمولات",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "إجمالي الأرباح",
+        "desc": "إجمالي العمولات المكتسبة حتى الآن"
+      },
+      {
+        "key": "month",
+        "title": "هذا الشهر",
+        "desc": "العمولات المكتسبة هذا الشهر"
+      },
+      {
+        "key": "settling",
+        "title": "قيد التسوية",
+        "value": "0.00",
+        "desc": "المبلغ قيد التسوية"
+      },
+      {
+        "key": "withdrawable",
+        "title": "قابل للسحب",
+        "desc": "المبلغ المتاح للسحب حاليًا",
+        "action": "سحب"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "اسم المستخدم",
+      "saleTime": "وقت البيع",
+      "goodsInfo": "المنتج",
+      "commission": "العمولة"
+    },
+    "emptyCommission": "لا توجد سجلات عمولات بعد",
+    "errors": {
+      "loadFail": "فشل تحميل تفاصيل العمولات. يرجى المحاولة لاحقًا."
+    },
+    "withdraw": {
+      "ariaLabel": "طلب سحب",
+      "title": "طلب سحب",
+      "closeLabel": "إغلاق نافذة السحب",
+      "balanceLabel": "الرصيد القابل للسحب",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "مبلغ السحب",
+      "amountPlaceholder": "أدخل مبلغ السحب",
+      "allButton": "الكل",
+      "allAmountValue": "0.00",
+      "amountTip": "يرجى التأكد من صحة المبلغ. سيتم مراجعة طلبك يدويًا بعد الإرسال.",
+      "methodLabel": "طريقة السحب",
+      "methods": [
+        "بطاقة بنكية",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "بطاقة بنكية",
+      "nameLabel": "اسم المستلم",
+      "namePlaceholder": "أدخل اسم المستلم",
+      "defaultName": "",
+      "bankCardLabel": "رقم الحساب",
+      "bankCardPlaceholder": "أدخل رقم البطاقة البنكية أو بريد PayPal الإلكتروني أو عنوان المحفظة",
+      "remarkLabel": "ملاحظات",
+      "remarkPlaceholder": "أضف أي ملاحظات إضافية",
+      "note": "تتم معالجة طلبات السحب خلال 1-3 أيام عمل.",
+      "cancelButton": "إلغاء",
+      "submitButton": "إرسال الطلب"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "تم الاستبدال بنجاح",
+    "operationFailed": "فشل الاستبدال",
+    "invalidCard": "رمز الاستبدال غير صالح",
+    "cardNotFound": "رمز الاستبدال غير موجود",
+    "cardDisabled": "رمز الاستبدال معطل",
+    "cardExpired": "انتهت صلاحية رمز الاستبدال"
+  },
+  "successMessage": "تمت العملية بنجاح"
+}

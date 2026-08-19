@@ -1,0 +1,638 @@
+{
+  "cards": [
+    {
+      "title": "Como Criar uma Nova Sala de Transmissão ao Vivo",
+      "tag_1": "Móvel",
+      "tag_2": "Tutorial para Iniciantes"
+    },
+    {
+      "title": "Compreender os Modos de Recorte da VicastCam",
+      "tag_1": "Móvel",
+      "tag_2": "Tutorial de Funcionalidades"
+    },
+    {
+      "title": "Como Usar a Funcionalidade de Camadas da VicastCam",
+      "tag_1": "Móvel",
+      "tag_2": "Funcionalidade Principal"
+    },
+    {
+      "title": "Conhecer a VicastCam no Computador",
+      "tag_1": "Computador",
+      "tag_2": "Tutorial para Iniciantes"
+    },
+    {
+      "title": "Como Ligar o iPhone à VicastCam Sem Fios",
+      "tag_1": "iOS",
+      "tag_2": "Tutorial de Ligação"
+    },
+    {
+      "title": "Como Adicionar e Utilizar Média Local",
+      "tag_1": "Computador",
+      "tag_2": "Tutorial de Utilização"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Comunidade Global",
+        "title_main": "Transmissão ao Vivo que Funciona em Todo o Lado",
+        "title_highlight": "Confiada por Streamers em Mais de 150 Países",
+        "desc": "A servir mais de 150 países e regiões, ajudamos inúmeros streamers a crescer de principiantes a criadores de conteúdo ao vivo profissionais.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Países"
+          },
+          {
+            "number": "2000+",
+            "name": "Streamers Ativos"
+          },
+          {
+            "number": "5000+",
+            "name": "Aumento de Popularidade"
+          },
+          {
+            "number": "99.9%",
+            "name": "Estabilidade"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "pt",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Perguntas?",
+          "title_highlight": "Temos respostas.",
+          "description": "Encontre respostas às perguntas mais comuns sobre a VicastCam abaixo. Não encontra o que procura? Contacte a nossa equipa.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Para que plataformas posso transmitir com a VicastCam?",
+              "answer": "A VicastCam suporta transmissão para as principais plataformas, como YouTube, Twitch, TikTok, Facebook Live e Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "A remoção de fundo da VicastCam requer um ecrã verde?",
+              "answer": "Não. A VicastCam utiliza remoção de fundo com IA, por isso pode substituir o seu fundo em tempo real sem um ecrã verde."
+            },
+            {
+              "id": "q3",
+              "question": "Posso usar a VicastCam no meu telemóvel?",
+              "answer": "Sim. A VicastCam está disponível para iOS e Android, e todas as funcionalidades profissionais estão disponíveis no telemóvel."
+            },
+            {
+              "id": "q4",
+              "question": "Quão fiável é a VicastCam?",
+              "answer": "A VicastCam oferece 99,9% de estabilidade, apoiando streamers em todo o mundo com transmissão ininterrupta 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "A VicastCam suporta transmissão com várias câmaras?",
+              "answer": "Sim. Pode alternar facilmente entre várias câmaras durante uma transmissão ao vivo para obter uma produção profissional."
+            }
+          ],
+          "view_more": {
+            "text": "Ver Mais"
+          }
+        }
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "FAQ VicastCam | Ajuda para Android e iOS",
+          "description": "Encontre respostas às perguntas mais comuns sobre a VicastCam para Android e iOS, incluindo configuração de conta, permissões de média, ligações de rede e problemas de visualização em transmissões ao vivo.",
+          "imageAlt": "FAQ VicastCam"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Ajuda VicastCam",
+          "titleHighlight": "Encontre Respostas Rapidamente",
+          "description": "Escolha os tutoriais para Android ou iOS para ver problemas comuns e soluções para o seu dispositivo."
+        },
+        "content": {
+          "sectionAriaLabel": "FAQ",
+          "catalogAriaLabel": "Categorias de perguntas",
+          "answerLabel": "Resposta",
+          "questionProgressTemplate": "{group} · Pergunta {current} de {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Tutoriais Android",
+            "count": "8 perguntas",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Quais são os tamanhos de média recomendados para transmissão ao vivo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Tamanhos de média recomendados para transmissão ao vivo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para fundos de transmissão ao vivo, recomendamos imagens com 1080 x 1920 píxeis e vídeos com 1080 x 1920 píxeis.",
+                      "Importante: As sobreposições de ecrã inteiro devem usar uma proporção de 9:16 para garantir que ficam alinhadas perfeitamente ao alternar entre os modos de ecrã inteiro e 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Como posso eliminar a minha conta?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Inicie sessão na aplicação VicastCam e, em seguida, vá a [Conta - Ícone no canto superior direito - Gestão de Conta - Eliminar Conta - Submeter Pedido de Eliminação]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informações da Conta"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Assim que a sua conta for eliminada, removeremos permanentemente o seu e-mail associado, registos de dispositivo e outras informações de identificação. Também revogaremos as autorizações de início de sessão de terceiros através do Google e da Apple. Após a revogação, deixará de poder iniciar sessão rapidamente com essas contas de terceiros; se quiser usá-las novamente, terá de autorizar novamente."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Conteúdo e Média"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Toda a média de transmissão ao vivo, vídeos, imagens e ficheiros de projeto são armazenados apenas no seu dispositivo. A plataforma não retém qualquer conteúdo criativo na nuvem. Após a eliminação, as funcionalidades de gestão de média da aplicação deixarão de funcionar, por isso, faça uma cópia de segurança do seu conteúdo com antecedência usando a funcionalidade 'Exportar Média'.",
+                      "Se desinstalar e reinstalar a aplicação, ou mudar de dispositivo sem exportar uma cópia de segurança primeiro, a sua média será permanentemente irrecuperável."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Benefícios de Membro"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Os seus benefícios de membro terminarão imediatamente após a eliminação da conta. Se tiver uma subscrição ativa no Google Play, eliminar a sua conta na aplicação não a cancelará automaticamente, e poderá continuar a ser cobrado. Vá a 'Pagamentos e subscrições - Subscrições' no Google Play para cancelar manualmente."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Se tiver alguma dúvida, contacte a nossa equipa de apoio."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Porque não consigo aceder à média do meu telemóvel ao adicionar imagens ou vídeos?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se a sua biblioteca de fotos aparecer vazia ao adicionar média, pode ativar o acesso às fotos da seguinte forma:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Abra as Definições do telemóvel, desça até encontrar a VicastCam, toque em [Fotos - Todas as Fotos] para ativar o acesso.",
+                      "Android: Abra as Definições do telemóvel, encontre a VicastCam em 'Permissões' ou 'Gestão de Aplicações', e toque em [Permissões - Fotos - Todas as Fotos] para ativar o acesso.",
+                      "Se o problema persistir, tente reinstalar a aplicação ou contacte o nosso apoio online através da funcionalidade de feedback."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "O que devo fazer se a imagem for cortada ao transmitir do meu computador?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se a imagem estiver incompleta ao transmitir do telemóvel através de um programa de transmissão auxiliar ou outro software, siga estes passos:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Abra a VicastCam, toque no ícone da câmara na parte inferior para entrar na página de transmissão e, em seguida, vá a [Menu direito - Mais Definições - Proporção - 9:16].",
+                      "Depois de transmitir para o programa auxiliar, primeiro ajuste a escala para caber e, em seguida, arraste a imagem para cima ou para baixo para preencher o ecrã."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: Ajuste a proporção antes de adicionar média e antes de iniciar a transmissão."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "O que devo fazer se um pedido de rede falhar?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se encontrar falhas em pedidos de rede, tente o seguinte:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Abra as Definições do telemóvel, vá a [Permissões - VicastCam - Dados Móveis e Wi-Fi] e ative o acesso à rede.",
+                      "Desative o modo de poupança de energia e quaisquer restrições em segundo plano.",
+                      "Mude de rede, reinicie o telemóvel, ative o modo de avião ou atualize a aplicação.",
+                      "Se o problema persistir, tire um screenshot do erro e contacte a nossa equipa de apoio."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Porque é que as sobreposições de média online tremem ou ficam pretas durante uma transmissão ao vivo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se as sobreposições de média online tremem ou ficam pretas durante uma transmissão ao vivo, eis o que pode fazer:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Transfira e pré-visualize qualquer média ou sobreposições que planeia usar antes de ir ao vivo para garantir que funcionam corretamente.",
+                      "Alguma média incorporada está armazenada em servidores. Transfira-a antes da transmissão para que esteja pronta a usar sem carregar durante a emissão.",
+                      "Carregar média durante a transmissão consome recursos de transmissão, memória e desempenho, o que pode causar atrasos. Em dispositivos de gama baixa, pode até causar falhas ou ecrãs pretos."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Importante"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planeie e ensaie a sua transmissão com antecedência. Pratique cada segmento para garantir que tudo corre bem antes de ir ao vivo."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "O que devo fazer se algumas teclas do teclado estiverem cobertas?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se algumas teclas do teclado virtual estiverem cobertas, tente o seguinte:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Se estiver a usar um telemóvel mais antigo com proporção 16:9 e algumas teclas estiverem cobertas, toque no segundo botão no canto superior esquerdo do teclado para ativar o modo de ecrã inteiro.",
+                      "Se o layout do teclado estiver desalinhado, vá às definições do telemóvel e defina o tamanho da fonte para normal.",
+                      "Alguns telemóveis têm um 'modo sénior' ativado; desativá-lo deve restaurar o teclado ao normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Os problemas de visualização são geralmente causados por fontes demasiado grandes ou um tema em escala grande. Repor estes para o padrão deve resolver o problema."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "O que devo fazer se o meu telemóvel Huawei continuar a desligar da multi-câmara ou do teclado virtual?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se tiver desconexões com multi-câmara ou teclado virtual em telemóveis Huawei, siga estes passos:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Vá às Definições do telemóvel.",
+                      "Na barra de pesquisa no topo, escreva 'Gestão de lançamento de aplicações'.",
+                      "Vá à página de Gestão de lançamento de aplicações e desça até encontrar a VicastCam.",
+                      "Desative o interruptor à direita (o ícone fica cinzento) e, no pop-up, ative as três opções (ficam azuis)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Também pode consultar o tutorial em vídeo 'Como evitar desconexões com multi-câmara e teclado virtual em telemóveis Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Tutoriais iOS",
+            "count": "6 perguntas",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Quais são os tamanhos de média recomendados para transmissão ao vivo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Tamanhos de média recomendados para transmissão ao vivo:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para fundos de transmissão ao vivo, recomendamos imagens com 1080 x 1920 píxeis e vídeos com 1080 x 1920 píxeis.",
+                      "Importante: As sobreposições de ecrã inteiro devem usar uma proporção de 9:16 para garantir que ficam alinhadas perfeitamente ao alternar entre os modos de ecrã inteiro e 9:16."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Como posso eliminar a minha conta?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Inicie sessão na aplicação VicastCam e, em seguida, vá a [Conta - Ícone no canto superior direito - Gestão de Conta - Eliminar Conta - Submeter Pedido de Eliminação]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informações da Conta"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Assim que a sua conta for eliminada, removeremos permanentemente o seu e-mail associado, registos de dispositivo e outras informações de identificação. Também revogaremos as autorizações de início de sessão de terceiros através do Google e da Apple. Após a revogação, deixará de poder iniciar sessão rapidamente com essas contas de terceiros; se quiser usá-las novamente, terá de autorizar novamente."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Conteúdo e Média"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Toda a média de transmissão ao vivo, vídeos, imagens e ficheiros de projeto são armazenados apenas no seu dispositivo. A plataforma não retém qualquer conteúdo criativo na nuvem. Após a eliminação, as funcionalidades de gestão de média da aplicação deixarão de funcionar, por isso, faça uma cópia de segurança do seu conteúdo com antecedência usando a funcionalidade 'Exportar Média'.",
+                      "Se desinstalar e reinstalar a aplicação, ou mudar de dispositivo sem exportar uma cópia de segurança primeiro, a sua média será permanentemente irrecuperável."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Benefícios de Membro"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Os seus benefícios de membro terminarão imediatamente após a eliminação da conta. Como as subscrições são geridas pela Apple, a plataforma não pode processar reembolsos diretamente. Para solicitar um reembolso, envie um pedido através dos canais oficiais da Apple (histórico de compras na App Store). Antes de eliminar a sua conta, certifique-se de cancelar manualmente quaisquer subscrições com renovação automática para evitar cobranças futuras."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Se tiver alguma dúvida, contacte a nossa equipa de apoio."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Porque não consigo aceder à média do meu telemóvel ao adicionar imagens ou vídeos?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se a sua biblioteca de fotos aparecer vazia ao adicionar média, abra as Definições do iPhone, desça até encontrar a VicastCam e toque em [Fotos - Todas as Fotos] para ativar o acesso."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "O que devo fazer se a imagem for cortada ao transmitir do meu computador?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se a imagem estiver incompleta ao transmitir do telemóvel através de um programa de transmissão auxiliar ou outro software, siga estes passos:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Abra a VicastCam, toque no ícone da câmara na parte inferior para entrar na página de transmissão e, em seguida, vá a [Menu direito - Mais Definições - Proporção - 9:16].",
+                      "Depois de transmitir para o programa auxiliar, primeiro ajuste a escala para caber e, em seguida, arraste a imagem para cima ou para baixo para preencher o ecrã."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nota: Ajuste a proporção antes de adicionar média e antes de iniciar a transmissão."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "O que devo fazer se um pedido de rede falhar?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se encontrar falhas em pedidos de rede, tente o seguinte:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Abra as Definições do telemóvel, vá a [Permissões - VicastCam - Dados Móveis e Wi-Fi] e ative o acesso à rede.",
+                      "Desative o modo de poupança de energia e quaisquer restrições em segundo plano.",
+                      "Mude de rede, reinicie o telemóvel, ative o modo de avião ou atualize a aplicação.",
+                      "Se o problema persistir, tire um screenshot do erro e contacte a nossa equipa de apoio."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Porque é que as sobreposições de média online tremem ou ficam pretas durante uma transmissão ao vivo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Se as sobreposições de média online tremem ou ficam pretas durante uma transmissão ao vivo, eis o que pode fazer:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Transfira e pré-visualize qualquer média ou sobreposições que planeia usar antes de ir ao vivo para garantir que funcionam corretamente.",
+                      "Alguma média incorporada está armazenada em servidores. Transfira-a antes da transmissão para que esteja pronta a usar sem carregar durante a emissão.",
+                      "Carregar média durante a transmissão consome recursos de transmissão, memória e desempenho, o que pode causar atrasos. Em dispositivos de gama baixa, pode até causar falhas ou ecrãs pretos."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Importante"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planeie e ensaie a sua transmissão com antecedência. Pratique cada segmento para garantir que tudo corre bem antes de ir ao vivo. Leve cada transmissão a sério e obterá os melhores resultados."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Centro de Tutoriais",
+        "titleMain": "Comece a Sua",
+        "titleHighlight": "Jornada de Aprendizagem VicastCam",
+        "description": "Domine o software e fique a par rapidamente",
+        "buttonText": "Ver Mais"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Centro de Tutoriais",
+          "titleMain": "Comece a Sua",
+          "titleHighlight": "Jornada de Aprendizagem VicastCam",
+          "descriptionMain": "Domine o software",
+          "descriptionHighlight": "Fique a par rapidamente"
+        },
+        "player": {
+          "sectionAriaLabel": "Lista de tutoriais",
+          "catalogAriaLabel": "Catálogo de tutoriais",
+          "previousLabel": "Anterior",
+          "nextLabel": "Seguinte",
+          "firstLessonText": "Esta é a primeira lição",
+          "lastLessonText": "Esta é a última lição",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Tutoriais para Iniciantes",
+            "count": "9 lições",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Crie a Sua Primeira Sala de Transmissão Virtual",
+                "description": "Crie e configure a sua primeira sala de transmissão virtual a partir do zero.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Compreender a Funcionalidade de Imagem",
+                "description": "Aprenda o básico da funcionalidade de imagem e os seus casos de uso.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Como Usar Camadas",
+                "description": "Domine o básico do painel de camadas.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Como Usar Camadas de Fundo",
+                "description": "Aprenda a adicionar e ajustar camadas de fundo.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Como Usar Camadas de Retrato",
+                "description": "Aprenda a usar camadas de retrato para criar efeitos visuais.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Como Usar Camadas de Imagem",
+                "description": "Aprenda a adicionar e editar camadas de imagem.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Como Usar Camadas de Vídeo",
+                "description": "Aprenda a adicionar média de vídeo e configurar a reprodução.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Como Usar Camadas de Efeitos",
+                "description": "Adicione camadas de efeitos à sua transmissão ao vivo.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Como Usar Camadas de Legendas",
+                "description": "Crie legendas e ajuste os estilos das camadas de legendas.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Tutoriais Avançados",
+            "count": "6 lições",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Como Usar Camadas de Movimento de Câmara",
+                "description": "Use camadas de movimento de câmara para criar planos mais dinâmicos.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Como Usar a Funcionalidade de Caminho",
+                "description": "Controle o caminho de movimento dos elementos com a funcionalidade de caminho.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Como Usar Camadas Multi-Câmara",
+                "description": "Configure camadas multi-câmara para alternar rapidamente entre diferentes vistas.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Como Usar a Funcionalidade de Controlador",
+                "description": "Use o controlador para gerir a vista da sua transmissão ao vivo.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Como Usar a Funcionalidade de Áudio",
+                "description": "Configure entrada, saída e efeitos de mistura de áudio.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Como Usar a Funcionalidade de Cópia de Segurança",
+                "description": "Faça cópias de segurança e restaure configurações de sala de transmissão e média.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

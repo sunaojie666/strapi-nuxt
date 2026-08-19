@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Welche Abmessungen werden für Live-Stream-Assets empfohlen?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Empfohlene Abmessungen für Live-Stream-Assets:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Für Live-Stream-Hintergrundbilder empfehlen wir 1080 x 1920 Pixel; für Videos empfehlen wir ebenfalls 1080 x 1920 Pixel.",
+            "Wichtig: Vollbild-Overlays müssen ein Seitenverhältnis von 9:16 haben, um ein nahtloses Umschalten zwischen Vollbild- und 9:16-Modus ohne Versatz zu gewährleisten und einen perfekt passenden Effekt zu erzielen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Welche Ausgabemodi werden für das Streaming unterstützt?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Beim Streaming werden zwei Ausgabemodi unterstützt: 9:16-Streaming und Vollbild-Streaming. Führen Sie die folgenden Schritte aus, um auf Ihrem Android-Gerät einen Modus auszuwählen:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Öffnen Sie VicastCam, gehen Sie zur Live-Streaming-Seite und tippen Sie auf das Menüsymbol auf der rechten Seite."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Menüeintrag auf der rechten Seite der Android-Live-Streaming-Seite",
+          "caption": "Schritt 1: Tippen Sie auf das Menüsymbol auf der rechten Seite der Live-Streaming-Seite."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Suchen Sie unter „Weitere Einstellungen“ die Option „Seitenverhältnis“ und wählen Sie je nach Bedarf „Vollbild“ oder „9:16“."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Optionen für das Seitenverhältnis unter „Weitere Einstellungen“ auf Android",
+          "caption": "Schritt 2: Wählen Sie unter „Seitenverhältnis“ die Option „Vollbild“ oder „9:16“."
+        },
+        {
+          "type": "heading",
+          "text": "Erläuterung der beiden Modi"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16-Streaming: Das Ausgabe-Seitenverhältnis ist fest auf 9:16 eingestellt, sodass die Live-Plattform ein 9:16-Bild erhält.",
+            "Vollbild-Streaming: Streamt den gesamten Telefonbildschirm unverändert und erhält den nativen Inhalt ohne Zuschneiden."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Wie lösche ich mein Konto?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Bitte melden Sie sich in der VicastCam-App an und gehen Sie dann zu [Konto – Symbol oben rechts – Kontoverwaltung – Konto löschen – Löschanfrage senden]."
+        },
+        {
+          "type": "heading",
+          "text": "Kontoinformationen"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nach der Kontolöschung löschen wir dauerhaft Ihre verknüpfte E-Mail-Adresse, Gerätedatensätze und andere Identitätsinformationen und widerrufen Ihre Drittanbieter-Login-Autorisierung über Google- und Apple-Konten. Nach dem Widerruf können Sie diese Drittanbieter-Konten nicht mehr für die Schnellanmeldung verwenden; um die App erneut zu nutzen, müssen Sie sich erneut autorisieren und verknüpfen."
+        },
+        {
+          "type": "heading",
+          "text": "Inhalte und Assets"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Alle Live-Stream-Assets, Videos, Bilder und Projektdateien werden nur auf Ihrem Gerät gespeichert; die Cloud speichert keine kreativen Assets. Nach der Löschung funktioniert die Asset-Verwaltungsfunktion in der App nicht mehr. Bitte sichern Sie Ihre Assets daher vorab über „Asset-Export“.",
+            "Wenn Sie die App deinstallieren und neu installieren, das Gerät wechseln oder vorab kein Backup exportieren, sind Ihre Assets dauerhaft unwiederbringlich verloren."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mitgliedschaftsvorteile"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nach der Kontolöschung enden Ihre Mitgliedschaftsvorteile sofort. Wenn Sie ein aktives Google-Play-Abonnement haben, wird das Löschen Ihres App-Kontos das Abonnement nicht automatisch kündigen, und es können weiterhin Gebühren anfallen. Bitte kündigen Sie manuell unter „Zahlungen & Abonnements – Abonnements“ in Google Play."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wenn Sie Fragen haben, wenden Sie sich bitte an unser Kundensupport-Team."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Warum kann ich beim Hinzufügen nicht auf meine Fotos und Videos zugreifen?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn Ihre Fotoalben beim Hinzufügen von Assets leer erscheinen, können Sie den Zugriff auf Fotos wie folgt aktivieren:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Öffnen Sie die Einstellungen Ihres Telefons, scrollen Sie nach unten zu VicastCam, tippen Sie auf [Fotos – Alle Fotos], um den Zugriff zu aktivieren.",
+            "Android: Öffnen Sie die Einstellungen Ihres Telefons, finden Sie VicastCam unter [Berechtigungsverwaltung] oder [App-Verwaltung], und tippen Sie dann auf [Berechtigungsverwaltung – Fotos – Alle Fotos], um den Zugriff zu aktivieren.",
+            "Wenn das Problem weiterhin besteht, versuchen Sie, die App zu deinstallieren und neu zu installieren, oder kontaktieren Sie den Online-Support über die Feedback-Funktion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Was soll ich tun, wenn der Bildschirm beim Streamen vom Computer nicht vollständig angezeigt wird?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn der Bildschirm beim Streamen von Ihrem Telefon über eine Live-Streaming-Begleit-App oder andere Software unvollständig erscheint, führen Sie die folgenden Schritte zur Anpassung aus:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Öffnen Sie VicastCam, tippen Sie auf das Kamerasymbol unten, um zur Live-Streaming-Seite zu gelangen, und gehen Sie dann zu [Rechtes Menü – Weitere Einstellungen – Seitenverhältnis – 9:16].",
+            "Nach dem Übertragen an die Live-Streaming-Begleit-App passen Sie zuerst den Bildschirm an die Leinwand an und ziehen Sie ihn dann vertikal, um den Bildschirm auszufüllen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Hinweis: Passen Sie das Seitenverhältnis vor dem Start Ihres Streams an und fügen Sie dann Ihre Assets hinzu."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Was soll ich tun, wenn eine Netzwerkanfrage fehlschlägt?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn Netzwerkanfragen fehlschlagen, versuchen Sie Folgendes:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Öffnen Sie die Einstellungen Ihres Telefons, gehen Sie zu [Berechtigungsverwaltung – VicastCam – Mobile Daten und WLAN] und aktivieren Sie den Netzwerkzugriff.",
+            "Deaktivieren Sie den Energiesparmodus und alle Hintergrundbeschränkungen auf Ihrem Telefon.",
+            "Wechseln Sie das Netzwerk, starten Sie Ihr Telefon neu, aktivieren Sie den Flugmodus oder aktualisieren Sie die App auf die neueste Version.",
+            "Wenn das Problem weiterhin besteht, machen Sie einen Screenshot des Fehlers und wenden Sie sich an den Kundensupport."
+          ]
+        }
+      ]
+    }
+  ]
+}

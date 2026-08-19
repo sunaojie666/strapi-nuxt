@@ -1,0 +1,219 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Ändern Sie Ihren virtuellen Hintergrund sofort' for a more direct and idiomatic German imperative form, matching the source's imperative tone."
+    },
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Streamen Sie mit mehr Wirkung' to align with the imperative style of the source and improve naturalness."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Virtuelle Hintergründe, Live-Verbesserungen und Multi-Plattform-Streaming – einfach gemacht' with an en dash for better readability and idiomatic German."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle3",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Verwandeln Sie Ihr Telefon in eine Webcam' is correct, but 'Machen Sie Ihr Telefon zur Webcam' is more concise and idiomatic."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolPrefix",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The prefix 'Ich habe gelesen und stimme zu' is incomplete; it should be 'Ich habe gelesen und stimme zu' but the full sentence is 'Ich habe gelesen und stimme zu' – however, it's missing the object. Consider 'Ich habe gelesen und stimme zu' is acceptable as a prefix, but for clarity, use 'Ich habe gelesen und stimme zu' – actually, it's fine. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Green-Screen-Effekte und Bildschirmübertragung vom Telefon' is correct, but 'Bildschirmübertragung' might be less common; 'Screen-Casting' is also used. However, glossary says 'screen casting' => 'Bildschirmübertragung' is acceptable. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'poliertes Erscheinungsbild' is a bit literal; 'professionelles Erscheinungsbild' might be more natural. But it's acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The source says 'API Docs' – in German, 'API-Dokumentation' is correct, but 'API-Dokumentation' is fine. No change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'Geschäftspartnerschaft' is correct, but 'Geschäftliche Zusammenarbeit' might be more common. However, it's acceptable."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "de",
+          "loginTitle1": "Ändern Sie Ihren virtuellen Hintergrund sofort",
+          "loginTitle2": "Streamen Sie mit mehr Wirkung",
+          "loginDes1": "Ein professionelles Live-Streaming-Tool mit KI-Unterstützung",
+          "loginDes2": "Virtuelle Hintergründe, Live-Verbesserungen und Multi-Plattform-Streaming – einfach gemacht",
+          "featureTitle1": "KI-Matting",
+          "featureSubTitle1": "Hintergrund in Echtzeit ersetzen",
+          "featureTitle2": "Multi-Plattform-Streaming",
+          "featureSubTitle2": "Mit einem Tipp live gehen",
+          "featureTitle3": "Virtuelle Kamera",
+          "featureSubTitle3": "Machen Sie Ihr Telefon zur Webcam",
+          "loginBox": {
+            "loginPageTitle": "Anmelden / Registrieren",
+            "codeLoginTab": "Code-Anmeldung",
+            "pwdLoginTab": "Passwort-Anmeldung",
+            "qrLoginTab": "QR-Code-Anmeldung",
+            "emailInputPlaceholder": "E-Mail für die Anmeldung eingeben",
+            "pwdInputPlaceholder": "Passwort eingeben",
+            "verifyCodePlaceholder": "Verifizierungscode eingeben",
+            "getVerifyCodeText": "Code anfordern",
+            "loginBtnText": "Anmelden",
+            "qrLoginTip": "Mit der VicastCam-App scannen, um sich anzumelden",
+            "qrWaitingTip": "Warten auf Scan-Bestätigung",
+            "agreeProtocolText": "Ich habe die Datenschutzrichtlinie und die Nutzungsvereinbarung gelesen und stimme ihnen zu",
+            "userProtocolText": "Nutzungsvereinbarung",
+            "privacyPolicyText": "Datenschutzrichtlinie",
+            "agreeProtocolPrefix": "Ich habe gelesen und stimme zu"
+          },
+          "toastBox": {
+            "closeToastLabel": "Benachrichtigung schließen",
+            "requestLoading": "Wird geladen",
+            "requestSuccess": "Anfrage erfolgreich",
+            "requestFail": "Anfrage fehlgeschlagen",
+            "passwordLoginNotReady": "Passwort-Anmeldung ist noch nicht verfügbar",
+            "passwordRequired": "Bitte geben Sie Ihr Passwort ein",
+            "emailRequired": "Bitte geben Sie Ihre E-Mail für die Anmeldung ein",
+            "verifyCodeRequired": "Bitte geben Sie den Verifizierungscode ein",
+            "agreeProtocolRequired": "Bitte lesen und stimmen Sie zuerst der Datenschutzrichtlinie und der Nutzungsvereinbarung zu",
+            "qrcodeExpired": "Der QR-Code ist abgelaufen. Bitte fordern Sie einen neuen an."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "de",
+          "hero_section": {
+            "tag": "KI-gestütztes Live-Streaming-Tool",
+            "title_main": "Green-Screen-Effekte und Bildschirmübertragung vom Telefon",
+            "title_highlight": "für Live-Streaming überall",
+            "description": "VicastCam nutzt fortschrittliches KI-Matting, um während des Streams nahtlos zwischen virtuellen Hintergründen zu wechseln und professionelle Effekte sowie ein poliertes Erscheinungsbild für Ihre Live-Übertragungen zu bieten.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Herunterladen"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Herunterladen"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam bietet Kreativen virtuelle Hintergründe, Live-Verbesserungen und plattformübergreifende Tools."
+            },
+            "columns": [
+              {
+                "title": "Produkt",
+                "links": [
+                  {
+                    "text": "Funktionen"
+                  },
+                  {
+                    "text": "Preise"
+                  },
+                  {
+                    "text": "Downloads"
+                  }
+                ]
+              },
+              {
+                "title": "Entwickler",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API-Dokumentation"
+                  }
+                ]
+              },
+              {
+                "title": "Unternehmen",
+                "links": [
+                  {
+                    "text": "Über uns"
+                  },
+                  {
+                    "text": "Datenschutzrichtlinie"
+                  },
+                  {
+                    "text": "Nutzungsvereinbarung"
+                  },
+                  {
+                    "text": "Mitgliedschaftsvereinbarung"
+                  }
+                ]
+              },
+              {
+                "title": "Support",
+                "links": [
+                  {
+                    "text": "Video-Tutorials"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Kontakt"
+                  }
+                ]
+              },
+              {
+                "title": "Geschäftspartnerschaft",
+                "links": [
+                  {
+                    "text": "Wiederverkäufer werden"
+                  },
+                  {
+                    "text": "OEM-Branding"
+                  },
+                  {
+                    "text": "Geschäftsanfragen"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Funktionen",
+        "nav_pricing": "Preise",
+        "nav_faq": "FAQ",
+        "nav_auth": "Anmelden / Registrieren",
+        "nav_team": "Geschäftspartnerschaft"
+      }
+    ]
+  }
+}

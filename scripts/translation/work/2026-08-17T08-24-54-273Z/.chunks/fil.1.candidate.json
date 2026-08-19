@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Tulong para sa Android at iOS",
+    "description": "Maghanap ng mga sagot sa mga karaniwang tanong tungkol sa VicastCam para sa Android at iOS, kabilang ang pag-setup ng account, mga pahintulot sa media, koneksyon sa network, at mga isyu sa live streaming.",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "Tulong sa VicastCam",
+    "titleHighlight": "Mabilis na Makahanap ng mga Sagot",
+    "description": "Piliin ang iyong platform (Android o iOS) upang makita ang mga karaniwang tanong at solusyon para sa iyong device."
+  },
+  "content": {
+    "sectionAriaLabel": "Mga madalas itanong",
+    "catalogAriaLabel": "Mga kategorya ng tanong",
+    "answerLabel": "Sagot",
+    "questionProgressTemplate": "{group} · Tanong {current} ng {total}"
+  }
+}

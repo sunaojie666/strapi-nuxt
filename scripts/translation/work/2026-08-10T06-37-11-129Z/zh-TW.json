@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "zh-TW",
+        "loginTitle1": "一鍵更換虛擬背景",
+        "loginTitle2": "讓直播更有影響力",
+        "loginDes1": "由 AI 驅動的專業直播工具",
+        "loginDes2": "虛擬背景、直播增強、多平台推流，簡單上手",
+        "featureTitle1": "AI 摳像",
+        "featureSubTitle1": "即時背景替換",
+        "featureTitle2": "多平台推流",
+        "featureSubTitle2": "一鍵開播",
+        "featureTitle3": "虛擬攝影機",
+        "featureSubTitle3": "將手機變成網路攝影機",
+        "loginBox": {
+          "loginPageTitle": "登入 / 註冊",
+          "codeLoginTab": "驗證碼登入",
+          "pwdLoginTab": "密碼登入",
+          "qrLoginTab": "QR Code 登入",
+          "emailInputPlaceholder": "輸入 Email 登入",
+          "pwdInputPlaceholder": "輸入密碼",
+          "verifyCodePlaceholder": "輸入驗證碼",
+          "getVerifyCodeText": "取得驗證碼",
+          "loginBtnText": "登入",
+          "qrLoginTip": "使用 VicastCam App 掃描以登入",
+          "qrWaitingTip": "等待掃描確認中",
+          "agreeProtocolText": "我已閱讀並同意《隱私權政策》和《使用者協議》",
+          "userProtocolText": "使用者協議",
+          "privacyPolicyText": "隱私權政策",
+          "agreeProtocolPrefix": "我已閱讀並同意"
+        },
+        "toastBox": {
+          "closeToastLabel": "關閉通知",
+          "requestLoading": "載入中",
+          "requestSuccess": "請求成功",
+          "requestFail": "請求失敗",
+          "passwordLoginNotReady": "密碼登入尚未開放",
+          "passwordRequired": "請輸入密碼",
+          "emailRequired": "請輸入 Email 以登入",
+          "verifyCodeRequired": "請輸入驗證碼",
+          "agreeProtocolRequired": "請先閱讀並同意《隱私權政策》和《使用者協議》",
+          "qrcodeExpired": "QR Code 已過期，請重新取得。"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "zh-TW",
+        "hero_section": {
+          "tag": "AI 驅動的直播工具",
+          "title_main": "手機即可實現綠幕效果與螢幕投放",
+          "title_highlight": "賦能全球直播",
+          "description": "VicastCam 運用先進的 AI 摳像技術，讓您在直播中隨時切換虛擬背景，為您的直播增添沉浸式效果與專業質感。",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "下載"
+            },
+            {
+              "platform": "Google Play",
+              "text": "下載"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam 為創作者提供虛擬背景、直播增強與跨平台工具。"
+          },
+          "columns": [
+            {
+              "title": "產品",
+              "links": [
+                {
+                  "text": "功能"
+                },
+                {
+                  "text": "價格"
+                },
+                {
+                  "text": "下載"
+                }
+              ]
+            },
+            {
+              "title": "開發者",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API 文件"
+                }
+              ]
+            },
+            {
+              "title": "公司",
+              "links": [
+                {
+                  "text": "關於我們"
+                },
+                {
+                  "text": "隱私權政策"
+                },
+                {
+                  "text": "使用者協議"
+                },
+                {
+                  "text": "會員協議"
+                }
+              ]
+            },
+            {
+              "title": "支援",
+              "links": [
+                {
+                  "text": "影片教學"
+                },
+                {
+                  "text": "常見問題"
+                },
+                {
+                  "text": "聯絡我們"
+                }
+              ]
+            },
+            {
+              "title": "合作夥伴",
+              "links": [
+                {
+                  "text": "成為經銷商"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "商業合作"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "功能",
+      "nav_pricing": "價格",
+      "nav_faq": "常見問題",
+      "nav_auth": "登入 / 註冊",
+      "nav_team": "合作夥伴"
+    }
+  ]
+}

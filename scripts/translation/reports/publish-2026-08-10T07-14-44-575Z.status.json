@@ -1,0 +1,434 @@
+{
+  "publishId": "publish-2026-08-10T07-14-44-575Z",
+  "publishedAt": "2026-08-10T07:14:44.616Z",
+  "sourceReports": [
+    "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\reports\\2026-08-10T06-37-11-129Z.status.json",
+    "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\reports\\2026-08-10T06-44-38-416Z.status.json",
+    "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\reports\\2026-08-10T06-55-46-399Z.status.json",
+    "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\reports\\2026-08-10T07-03-37-168Z.status.json"
+  ],
+  "locales": [
+    "en",
+    "zh-TW",
+    "vi",
+    "ar",
+    "pl",
+    "id",
+    "nl",
+    "ms",
+    "tr",
+    "it",
+    "ur",
+    "th",
+    "pt",
+    "ko",
+    "de",
+    "fr",
+    "ru",
+    "bn",
+    "es",
+    "hi",
+    "fa",
+    "fil",
+    "ja"
+  ],
+  "tables": [
+    "logins",
+    "footers",
+    "navigations"
+  ],
+  "result": {
+    "en": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "zh-TW": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "vi": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ar": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "pl": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "id": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "nl": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ms": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "tr": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "it": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ur": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "th": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "pt": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ko": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "de": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "fr": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ru": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "bn": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "es": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "hi": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "fa": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "fil": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    },
+    "ja": {
+      "logins": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "footers": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      },
+      "navigations": {
+        "created": 0,
+        "updated": 2,
+        "status": "published"
+      }
+    }
+  },
+  "backupPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\.tmp\\translation-backups\\publish-2026-08-10T07-14-44-575Z.data.db"
+}

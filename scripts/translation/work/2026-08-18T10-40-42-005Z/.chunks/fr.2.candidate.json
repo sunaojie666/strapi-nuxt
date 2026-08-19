@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "Premiers pas",
+      "count": "11 leçons",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "Créer votre premier studio virtuel",
+          "description": "Configurez votre premier studio virtuel de A à Z.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "Comprendre les outils d'image",
+          "description": "Découvrez les bases des outils d'image et leurs cas d'usage courants.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "Travailler avec les calques",
+          "description": "Familiarisez-vous avec le panneau Calques et apprenez à gérer efficacement vos calques.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "Utiliser les calques d'arrière-plan",
+          "description": "Apprenez à ajouter et ajuster des calques d'arrière-plan pour votre scène.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "Utiliser les calques de portrait",
+          "description": "Ajoutez des calques de portrait pour enrichir votre production en direct.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "Utiliser les calques d'image",
+          "description": "Ajoutez et modifiez des calques d'image dans votre configuration de studio.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "Utiliser les calques vidéo",
+          "description": "Ajoutez des clips vidéo et contrôlez les paramètres de lecture.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "Utiliser les calques d'effets",
+          "description": "Appliquez des effets visuels à votre flux en direct avec les calques d'effets.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "Utiliser les calques de sous-titres",
+          "description": "Créez des sous-titres et personnalisez leur apparence.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "Utiliser les avatars virtuels",
+          "description": "Donnez vie à votre flux grâce à l'intégration d'avatars virtuels.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "Utiliser les scènes",
+          "description": "Basculez entre différentes mises en page de scène en toute fluidité pendant votre diffusion.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "Tutoriels avancés",
+      "count": "6 leçons",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "Utiliser les calques de mouvement de caméra",
+          "description": "Créez des plans dynamiques avec les calques de mouvement de caméra.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "Utiliser l'animation de trajectoire",
+          "description": "Contrôlez les trajectoires de mouvement des éléments avec la fonctionnalité de trajectoire.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "Utiliser les calques multi-caméras",
+          "description": "Configurez des calques multi-caméras pour changer d'angle rapidement.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "Utiliser le contrôleur",
+          "description": "Gérez l'ensemble de votre diffusion depuis un panneau de contrôle unique.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "Configuration et mixage audio",
+          "description": "Configurez les entrées, sorties et paramètres de mixage audio.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "Sauvegarde et restauration",
+          "description": "Sauvegardez votre configuration de studio et restaurez-la en cas de besoin.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

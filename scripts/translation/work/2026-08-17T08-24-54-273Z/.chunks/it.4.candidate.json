@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Perché le risorse di rete o le sovrapposizioni sfarfallano o diventano nere durante una live streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se riscontri sfarfallio o schermate nere durante l'aggiunta di risorse di rete in una live streaming, ecco come gestire il problema:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Scarica e visualizza in anteprima tutte le risorse o sovrapposizioni che intendi utilizzare durante lo streaming in anticipo e verifica che funzionino correttamente prima di andare in diretta.",
+            "Alcune risorse incluse nel software sono memorizzate su server. Se le scarichi prima di andare in diretta, puoi utilizzarle direttamente durante lo streaming senza doverle ricaricare.",
+            "Il caricamento delle risorse durante lo streaming consuma risorse di streaming, memoria del telefono e prestazioni, il che può causare lag; su telefoni di fascia bassa, potrebbe persino portare a crash o schermate nere."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di andare in diretta, pianifica e prova accuratamente il tuo streaming per assicurarti che ogni elemento funzioni perfettamente prima di iniziare."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Cosa devo fare se alcuni tasti della tastiera sono coperti?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se alcuni tasti della tastiera virtuale sono coperti, prova quanto segue:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Se stai utilizzando un telefono 16:9 più vecchio come telecomando e alcuni tasti sono coperti, tocca il secondo pulsante nell'angolo in alto a sinistra della tastiera per attivare la modalità di funzionamento a schermo intero.",
+            "Se il layout della tastiera è disallineato, vai alle Impostazioni del telefono e imposta la dimensione del carattere su normale.",
+            "Alcuni telefoni hanno una modalità anziani attivata; disattivandola dovrebbe ripristinare la visualizzazione normale della tastiera."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "I problemi di visualizzazione sono solitamente causati da caratteri sovradimensionati o da un'interfaccia del tema del telefono troppo grande. Ripristinare queste impostazioni alla modalità standard dovrebbe risolvere il problema."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Cosa devo fare se il mio telefono Huawei continua a disconnettersi dalla multi-telecamera o dalla tastiera virtuale?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se il tuo telefono Huawei subisce disconnessioni con la multi-telecamera o la tastiera virtuale, segui questi passaggi:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vai alle Impostazioni del telefono.",
+            "Nella barra di ricerca in alto, digita 'Gestione avvio app'.",
+            "Vai alla pagina di Gestione avvio app, scorri verso il basso per trovare VicastCam.",
+            "Disattiva l'interruttore a destra in modo che l'icona diventi grigia; allo stesso tempo, attiva tutte e tre le opzioni nel popup in modo che diventino blu."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Puoi anche fare riferimento al tutorial video 'Come prevenire le disconnessioni con multi-telecamera e tastiera virtuale sui telefoni Huawei'."
+        }
+      ]
+    }
+  ]
+}

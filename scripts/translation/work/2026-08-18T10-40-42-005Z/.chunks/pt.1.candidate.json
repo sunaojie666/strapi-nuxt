@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Centro de Tutoriais",
+    "titleMain": "Comece a sua",
+    "titleHighlight": "Jornada de Aprendizagem VicastCam",
+    "descriptionMain": "Domine todas as funcionalidades do software",
+    "descriptionHighlight": "Comece a trabalhar rapidamente"
+  },
+  "player": {
+    "sectionAriaLabel": "Lista de Tutoriais",
+    "catalogAriaLabel": "Catálogo de Tutoriais",
+    "previousLabel": "Anterior",
+    "nextLabel": "Seguinte",
+    "firstLessonText": "Está na primeira lição",
+    "lastLessonText": "Está na última lição",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

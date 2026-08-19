@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "zh",
+        "features_section": {
+          "title_tag": "功能特色",
+          "title_main": "全域直播赋能者",
+          "title_highlight": "专业移动直播利器",
+          "description": "全域整合专业直播核心能力，随时随地构建沉浸式直播场景，塑造全球化高阶直播视觉体验"
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "投屏&虚拟相机",
+            "desc": "支持手机投屏至电脑，借助虚拟相机技术打造专业级直播画面"
+          },
+          {
+            "id": "multi_cam",
+            "title": "多机位功能",
+            "desc": "直播过程一键切换多机位画面，构建层次丰富的直播视角"
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3D特效添加",
+            "desc": "应用令人惊叹的2D/3D特效图层，打造丰富多彩的直播间。"
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "多平台推流直播",
+            "desc": "支持YouTube、Twitch、TikTok、Facebook Live等平台推流直播"
+          },
+          {
+            "id": "virtual_controller",
+            "title": "虚拟控制器",
+            "desc": "从任何设备远程控制您的直播，切换场景、静音音频、即时调整效果"
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "多平台直播",
+            "desc": "通过电脑端可在TikTok、YouTube、Twitch、Instagram多个平台上同时开播"
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "手机绿幕特效与投屏技术",
+      "top_badge": "AI赋能的直播工具",
+      "hero_subtitle": "赋能全球直播生态",
+      "hero_description_1": "VicastCam 依托前沿 AI 智能抠图技术，直播全域随心切换虚拟背景，以沉",
+      "hero_description_2": "浸式特效赋能全球直播，塑造极具格局的专业直播形象。",
+      "user_count_label": "全球使用人数",
+      "rating_label": "App Store 评分",
+      "download_count_label": "全球下载次数",
+      "app_store_url": "在 App Store 下载",
+      "google_play_url": "在 Android 下载",
+      "desktop_client_url": "下载客户端",
+      "request_success": "请求成功",
+      "request_fail": "请求失败",
+      "request_loading": "加载中"
+    }
+  ]
+}

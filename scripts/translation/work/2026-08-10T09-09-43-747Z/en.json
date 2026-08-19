@@ -1,0 +1,116 @@
+{
+  "cards": [
+    {
+      "title": "How to Create a New Live Room",
+      "tag_1": "Mobile",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "Understanding VicastCam's Matting Modes",
+      "tag_1": "Mobile",
+      "tag_2": "Feature Tutorial"
+    },
+    {
+      "title": "How to Use VicastCam's Layer Feature",
+      "tag_1": "Mobile",
+      "tag_2": "Core Feature"
+    },
+    {
+      "title": "Getting to Know VicastCam on Desktop",
+      "tag_1": "Desktop",
+      "tag_2": "Beginner Tutorial"
+    },
+    {
+      "title": "How to Connect iPhone to VicastCam Wirelessly",
+      "tag_1": "iOS",
+      "tag_2": "Connection Tutorial"
+    },
+    {
+      "title": "How to Add and Use Local Media",
+      "tag_1": "Desktop",
+      "tag_2": "Usage Tutorial"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Global Community",
+        "title_main": "Live Streaming That Works Everywhere",
+        "title_highlight": "Trusted by Streamers in 150+ Countries",
+        "desc": "Serving over 150 countries and regions, we help countless streamers grow from beginners to professional live content creators.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Countries"
+          },
+          {
+            "number": "2000+",
+            "name": "Active Streamers"
+          },
+          {
+            "number": "5000+",
+            "name": "Popularity Boost"
+          },
+          {
+            "number": "99.9%",
+            "name": "Stability"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "en",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Questions?",
+          "title_highlight": "We've got answers.",
+          "description": "Find answers to common VicastCam questions below. Can't find what you're looking for? Contact our team.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which platforms can I stream to with VicastCam?",
+              "answer": "VicastCam supports streaming to major platforms like YouTube, Twitch, TikTok, Facebook Live, and Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Does VicastCam's background removal require a green screen?",
+              "answer": "No. VicastCam uses AI-powered background removal, so you can replace your background in real time without a green screen."
+            },
+            {
+              "id": "q3",
+              "question": "Can I use VicastCam on my phone?",
+              "answer": "Yes. VicastCam is available on iOS and Android, and all professional features are available on mobile."
+            },
+            {
+              "id": "q4",
+              "question": "How reliable is VicastCam?",
+              "answer": "VicastCam offers 99.9% stability, supporting streamers worldwide with 24/7 uninterrupted streaming."
+            },
+            {
+              "id": "q5",
+              "question": "Does VicastCam support multi-camera streaming?",
+              "answer": "Yes. You can seamlessly switch between multiple cameras during a live stream to achieve a professional production."
+            }
+          ],
+          "view_more": {
+            "text": "View More"
+          }
+        }
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "Tutorial Center",
+        "titleMain": "Start Your VicastCam",
+        "titleHighlight": "Learning Journey",
+        "description": "Master the software and get up to speed quickly",
+        "buttonText": "View More"
+      }
+    }
+  ]
+}

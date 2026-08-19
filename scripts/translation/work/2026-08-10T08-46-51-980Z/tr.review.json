@@ -1,0 +1,338 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.teams[0].data.hero.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Global Ajans Ortaklık Programı' instead of 'Global Ajans Ortaklık Programı' (already correct) – no change needed. Actually, the title is fine."
+    },
+    {
+      "path": "$.teams[0].data.hero.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider rephrasing to 'Profesyonel sanal kamera canlı yayın aracı; küresel kanal ortaklarına açıktır.' for better flow, but current is acceptable."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'İçerik Üretici Pazarı' instead of 'İçerik Üretici Pazarı' – no change needed. Actually, 'Devasa İçerik Üretici Pazarı' is fine."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[2].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Yeşil perde arka plan silme' to 'Yeşil perde arka plan silme' – no change needed. Actually, 'Yeşil perde arka plan silme' is correct."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use '30.000 USD'lik' instead of '30.000 USD'lik' – no change needed. Actually, '30.000 USD'lik' is correct."
+    },
+    {
+      "path": "$.teams[0].data.rules.settlementRules[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Rephrase to 'Tek tip USD mutabakatı; HSBC Hong Kong kurumsal hesapları üzerinden ödeme desteği' for better flow."
+    },
+    {
+      "path": "$.teams[0].data.support.items[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Web sitesi bannerlarına' instead of 'Web sitesi banner'larına' – no change needed. Actually, 'banner'larına' is acceptable."
+    },
+    {
+      "path": "$.teams[0].data.support.items[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Özel İngilizce Teknik Destek' – no change needed. Actually, it's fine."
+    },
+    {
+      "path": "$.teams[0].data.plans.items[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'kendi markanızla satın' to 'kendi markanızla satın' – no change needed. Actually, 'satın' is correct."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[0].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'İletişim Adı' – no change needed. Actually, it's fine."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[4].options[1]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'OEM Beyaz Etiket SDK' – no change needed. Actually, it's correct."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[11]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Türkiye' – no change needed. Actually, it's correct."
+    },
+    {
+      "path": "$.teams[0].data.contact.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Hemen İletişim' instead of 'Hemen İş İletişimi' for naturalness."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[1].label",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Hong Kong Hattı' – no change needed. Actually, it's fine."
+    },
+    {
+      "path": "$.teams[0].data.seo.title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'VicastCam İş Ortaklıkları' – no change needed. Actually, it's fine."
+    }
+  ],
+  "revisedContent": {
+    "teams": [
+      {
+        "data": {
+          "locale": "tr",
+          "slug": "team",
+          "pageName": "İş Ortaklıkları",
+          "hero": {
+            "eyebrow": "İş Ortaklıkları",
+            "title": "VicastCam Global Ajans Ortaklık Programı",
+            "highlight": "Bize katılın",
+            "description": "Profesyonel sanal kamera canlı yayın aracı; küresel kanal ortaklarına açıktır. Tek tip USD mutabakatı, bölgesel münhasırlık ve tam kapsamlı pazarlama desteği.",
+            "actions": {
+              "primary": "Hemen Başvur",
+              "secondary": "Daha Fazla Bilgi"
+            }
+          },
+          "advantages": {
+            "eyebrow": "Neden Ortak Olmalısınız?",
+            "titlePrefix": "Neden",
+            "titleHighlight": "bizimle ortak olmalısınız?",
+            "description": "Satması kolay, düşük riskli ve yüksek marjlı—VicastCam üçünü de sunar.",
+            "items": [
+              {
+                "title": "Devasa İçerik Üretici Pazarı",
+                "description": "Canlı yayın, e-ticaret, kısa video ve içerik üretimini kapsayan küresel içerik üretici talebi istikrarlı bir şekilde artıyor; geniş bir pazar ve istikrarlı dönüşümler sunuyor.",
+                "image": "/images/team/advantage-creators-bg.png"
+              },
+              {
+                "title": "Sıfır Stok, Çevrimiçi Teslimat",
+                "description": "Aktivasyon kodlarının anında bulut teslimatı ile saf yazılım lisanslama. Stok yok, lojistik yok, düşük maliyet; toplu teslimat ve hızlı aktivasyonu destekler.",
+                "image": "/images/team/advantage-inventory-bg.png"
+              },
+              {
+                "title": "Tam Donanımlı Rekabet Avantajı",
+                "description": "Yeşil perde arka plan silme, sanal arka planlar, çoklu platform yayını ve AI efektleri tek pakette. Gösterimi, satışı ve yenilemesi kolay eksiksiz özellikler.",
+                "image": "/images/team/advantage-competition-bg.png"
+              }
+            ]
+          },
+          "rules": {
+            "eyebrow": "Ortaklık Kuralları",
+            "titlePrefix": "Uygunluk",
+            "titleHighlight": "ve mutabakat",
+            "description": "Her ortağın gönül rahatlığı için şeffaf, adil ve öngörülebilir ajans politikaları.",
+            "agentLevelTitle": "Ajans Seviyeleri",
+            "agentLevels": [
+              {
+                "title": "Standart Ajans",
+                "description": "30.000 USD'lik ilk sipariş, uzun vadeli dağıtım hakları, kademeli indirimler ve standart kanal desteği sağlar.",
+                "icon": "/images/team/rule-standard-agent-icon.png"
+              },
+              {
+                "title": "Bölgesel Münhasır Ajans",
+                "description": "Üç aylık satın alma hedeflerini karşılayarak tek bir bölge için münhasır dağıtım hakları kazanın; bu bölgede başka kanal yetkilendirilmez.",
+                "icon": "/images/team/rule-exclusive-agent-icon.png"
+              }
+            ],
+            "settlementTitle": "Tedarik ve Mutabakat",
+            "settlementRules": [
+              "Tek tip USD mutabakatı; HSBC Hong Kong kurumsal hesapları üzerinden ödeme desteği",
+              "Toplu aktivasyon kodları, hızlı müşteri teslimatı için bulut üzerinden anında iletilir",
+              "Uzun vadeli ortaklar kademeli fiyatlandırmadan yararlanır; daha yüksek satın alma hacimleri birim maliyetleri düşürür"
+            ]
+          },
+          "support": {
+            "eyebrow": "Kanal Desteği",
+            "titlePrefix": "Dört Temel",
+            "titleHighlight": "Destek",
+            "description": "Materyallerden teknik desteğe, marka yetkisinden yeni özelliklere erken erişime kadar tam kapsamlı destek sağlıyoruz.",
+            "items": [
+              {
+                "title": "Eksiksiz Pazarlama Materyalleri",
+                "description": "Web sitesi banner'larına, kısa videolara, Reddit/Facebook reklam metinlerine ve ürün inceleme materyallerine anında erişin.",
+                "image": "/images/team/support-marketing-materials-bg.png"
+              },
+              {
+                "title": "Özel İngilizce Teknik Destek",
+                "description": "SDK hata ayıklama, canlı yayın özellikleri satış sonrası destek ve müşteri sorunlarının çözümü için denizaşırı teknik uzmanlar.",
+                "image": "/images/team/support-technical-service-bg.png"
+              },
+              {
+                "title": "Resmi Marka Yetkisi",
+                "description": "Bölgesel çevrimiçi ve çevrimdışı tanıtım için VicastCam ticari markasını ve ürün görsellerini kullanın.",
+                "image": "/images/team/support-brand-authorization-bg.png"
+              },
+              {
+                "title": "Öncelikli Beta Erişimi",
+                "description": "Ajanslar, tüm AI efektlerini, yayın güncellemelerini ve yeni özellikleri test etmek ve satmak için erken erişim elde eder.",
+                "image": "/images/team/support-priority-beta-bg.png"
+              }
+            ]
+          },
+          "plans": {
+            "eyebrow": "Ortaklık Modelleri",
+            "titlePrefix": "Esnek",
+            "titleHighlight": "ortaklık modelleri",
+            "description": "İster kanal, ister teknoloji sağlayıcısı, ister kurumsal hizmet sağlayıcısı olun, size uygun bir modelimiz var.",
+            "items": [
+              {
+                "title": "Kanal Ajansı (Önerilen)",
+                "description": "Sınır ötesi yazılım mağazaları, canlı yayın ekipmanı mağazaları, denizaşırı MCN'ler ve sınır ötesi e-ticaret ekipleri için ölçekli yazılım lisansı dağıtımı.",
+                "image": "/images/team/plan-channel-agent-bg.png"
+              },
+              {
+                "title": "OEM Beyaz Etiket SDK",
+                "description": "Tüm VicastCam markasını kaldırın, logoyu, yazılım adını ve arayüzü özelleştirin ve kendi markanızla satın.",
+                "image": "/images/team/plan-oem-sdk-bg.png"
+              },
+              {
+                "title": "Kurumsal Özelleştirme",
+                "description": "Canlı yayın hizmet sağlayıcıları, eğitim kurumları ve devlet/kurumsal toplantı projeleri için özel özellikler ve özel dağıtım seçenekleri.",
+                "image": "/images/team/plan-enterprise-custom-bg.png"
+              }
+            ]
+          },
+          "application": {
+            "eyebrow": "Başvuru",
+            "titlePrefix": "Formu doldurun",
+            "titleHighlight": "çevrimiçi başvurun",
+            "description": "Aşağıdaki bilgileri doldurun, 1-3 iş günü içinde sizinle iletişime geçelim.",
+            "fields": [
+              {
+                "name": "contactName",
+                "label": "İletişim Adı",
+                "placeholder": "Adınızı girin"
+              },
+              {
+                "name": "companyName",
+                "label": "Şirket Adı",
+                "placeholder": "Şirket adınızı girin"
+              },
+              {
+                "name": "email",
+                "label": "E-posta",
+                "placeholder": "E-postanızı girin"
+              },
+              {
+                "name": "phone",
+                "label": "WhatsApp/Telefon",
+                "placeholder": "+852 XXXXXXXX"
+              },
+              {
+                "name": "businessType",
+                "label": "İşletme Türü",
+                "placeholder": "İşletme türünü seçin",
+                "options": [
+                  "Kanal Ajansı",
+                  "OEM Beyaz Etiket SDK",
+                  "Kurumsal Özelleştirme",
+                  "Diğer"
+                ]
+              },
+              {
+                "name": "region",
+                "label": "Birincil Bölge",
+                "placeholder": "örn. Kuzey Amerika/Avrupa/Güneydoğu Asya"
+              },
+              {
+                "name": "position",
+                "label": "Pozisyon",
+                "placeholder": "Pozisyonunuzu girin"
+              },
+              {
+                "name": "budget",
+                "label": "Tahmini Üç Aylık Satın Alma Bütçesi",
+                "placeholder": "Bütçenizi girin"
+              },
+              {
+                "name": "country",
+                "label": "Ülke",
+                "placeholder": "Ülke/bölge seçin",
+                "options": [
+                  "Çin",
+                  "Amerika Birleşik Devletleri",
+                  "Endonezya",
+                  "Malezya",
+                  "Tayland",
+                  "Vietnam",
+                  "Filipinler",
+                  "İspanya",
+                  "Portekiz",
+                  "Suudi Arabistan",
+                  "Japonya",
+                  "Türkiye",
+                  "İtalya",
+                  "Almanya",
+                  "Fransa",
+                  "Güney Kore",
+                  "Rusya",
+                  "Polonya",
+                  "Hollanda",
+                  "Hindistan",
+                  "Pakistan",
+                  "Bangladeş",
+                  "İran",
+                  "Diğer"
+                ]
+              },
+              {
+                "name": "website",
+                "label": "Şirket Web Sitesi",
+                "placeholder": "https://xxxxxxxx.com"
+              }
+            ],
+            "intentLabel": "Ortaklık Amacı",
+            "intentPlaceholder": "İş modelinizi, hedef pazarınızı ve istediğiniz ortaklık yaklaşımını kısaca açıklayın...",
+            "note": "*Zorunlu alanlar. Bilgileriniz gizli tutulur ve yalnızca ortaklık iletişimi için kullanılır.",
+            "submitLabel": "Ortaklık Bilgilerini Gönder"
+          },
+          "contact": {
+            "title": "Hemen İletişim",
+            "items": [
+              {
+                "label": "İş E-postası",
+                "value": "business@vicastcam.com"
+              },
+              {
+                "label": "Hong Kong Hattı",
+                "value": "+852 46405342"
+              },
+              {
+                "label": "Çalışma Saatleri",
+                "value": "GMT+8, Pazartesi-Cuma, 9:00-18:00"
+              }
+            ],
+            "note": "Acil iş ihtiyaçları için WhatsApp veya e-posta ile doğrudan bizimle iletişime geçin.",
+            "qr": {
+              "label": "WhatsApp'ta bize ulaşmak için tarayın",
+              "alt": "VicastCam iş iletişim QR kodu"
+            }
+          },
+          "seo": {
+            "title": "VicastCam İş Ortaklıkları",
+            "description": "Kanal ajansı, OEM beyaz etiket SDK ve kurumsal özelleştirme desteği için VicastCam küresel ortak programına katılın.",
+            "image": "/images/team/partner-plan-hero-bg.png",
+            "imageAlt": "VicastCam Küresel Ortak Programı"
+          }
+        }
+      }
+    ]
+  }
+}

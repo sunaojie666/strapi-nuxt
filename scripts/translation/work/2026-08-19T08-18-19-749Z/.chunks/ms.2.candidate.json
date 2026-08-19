@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Keahlian",
+    "title": "Keahlian Saya",
+    "badgeAlt": "Lencana keahlian",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Pengguna Percuma",
+    "activeVipName": "Ahli VIP",
+    "expirePrefix": "Tamat",
+    "emptyExpireDate": "Belum diaktifkan",
+    "activeStatus": "Aktif",
+    "inactiveStatus": "Tidak Aktif",
+    "compareTitle": "Bandingkan Pelan",
+    "compareHeaders": {
+      "feature": "Ciri",
+      "normal": "Percuma",
+      "month": "Bulanan",
+      "year": "Tahunan",
+      "life": "Seumur Hidup"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Bulanan",
+        "subtitle": "Sesuai untuk kegunaan jangka pendek",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/bulan",
+        "cta": "Mula",
+        "benefits": [
+          "Ciri kamera maya asas",
+          "Latar belakang maya & kecantikan",
+          "Penstriman langsung pelbagai platform",
+          "Kemas kini standard"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Tahunan",
+        "subtitle": "Nilai lebih baik untuk kegunaan jangka panjang",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/tahun",
+        "cta": "Mula",
+        "benefits": [
+          "Semua dalam Bulanan",
+          "Semua ciri premium selama setahun",
+          "Kemas kini ciri keutamaan",
+          "Sokongan ahli khusus"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Seumur Hidup",
+        "subtitle": "Bayar sekali, guna selamanya",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/seumur hidup",
+        "cta": "Mula",
+        "benefits": [
+          "Semua dalam Tahunan",
+          "Ciri premium selama-lamanya",
+          "Kemas kini jangka panjang",
+          "Saluran sokongan eksklusif"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Tempoh keahlian",
+        "normal": "Percuma selamanya",
+        "month": "30 hari",
+        "year": "365 hari",
+        "life": "Seumur hidup"
+      },
+      {
+        "feature": "Kamera maya desktop",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Latar belakang maya tersuai",
+        "normal": "1 set",
+        "month": "Tanpa had",
+        "year": "Tanpa had",
+        "life": "Tanpa had"
+      },
+      {
+        "feature": "Pratetap penstriman",
+        "normal": "Tidak",
+        "month": "Tanpa had",
+        "year": "Tanpa had",
+        "life": "Tanpa had"
+      },
+      {
+        "feature": "Aset rasmi",
+        "normal": "Terhad",
+        "month": "Tanpa had",
+        "year": "Tanpa had",
+        "life": "Tanpa had"
+      },
+      {
+        "feature": "Kawalan jauh melalui pengawal",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Mod perbandingan adegan",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Kapsyen adegan",
+        "normal": "Terhad",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Muzik adegan",
+        "normal": "Terhad",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Input berbilang kamera",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Penapis kecantikan lanjutan",
+        "normal": "Asas",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Pemotongan skrin hijau AI",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Animasi penjejakan gerakan",
+        "normal": "Terhad",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Kesan kamera adegan",
+        "normal": "Terhad",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Perpustakaan kesan VIP",
+        "normal": "Terhad",
+        "month": "Tanpa had",
+        "year": "Tanpa had",
+        "life": "Tanpa had"
+      },
+      {
+        "feature": "Penstriman platform",
+        "normal": "Ya",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Output 4K",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      },
+      {
+        "feature": "Kadar komisen rujukan",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Rebat sub-affiliate",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Saluran sokongan",
+        "normal": "Layan diri komuniti",
+        "month": "Barisan standard",
+        "year": "Respons keutamaan",
+        "life": "Sokongan khusus"
+      },
+      {
+        "feature": "Akses awal kepada ciri baharu",
+        "normal": "Tidak",
+        "month": "Ya",
+        "year": "Ya",
+        "life": "Ya"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Tebus Kod",
+    "title": "Tebus Kod",
+    "tip": "Masukkan kod penebusan keahlian anda. Keahlian anda akan diaktifkan serta-merta selepas penebusan.",
+    "placeholder": "Masukkan kod penebusan",
+    "submitButton": "Tebus",
+    "agreementPrefix": "Dengan menebus, anda bersetuju dengan",
+    "userProtocolText": "Perjanjian Pengguna",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Penebusan gagal. Semak kod dan cuba lagi."
+    }
+  }
+}

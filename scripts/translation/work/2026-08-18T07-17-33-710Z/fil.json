@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Pumili ng Paraan ng Pagbabayad",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Magbayad gamit ang iyong PayPal balance, bank card, o credit card",
+            "secureBadge": "Ligtas na Pagbabayad",
+            "methodLabel": "Paraan ng Pagbabayad",
+            "accountLabel": "Kasalukuyang Account",
+            "signInRequired": "Mangyaring mag-sign in upang ipagpatuloy ang iyong pagbili",
+            "signInAction": "Mag-sign In",
+            "summaryHint": "I-click ang PayPal button upang makumpleto ang iyong pagbabayad",
+            "trustItems": [
+              "Ang mga pagbabayad ay ligtas na pinoproseso ng PayPal",
+              "Sinusuportahan ang PayPal balance, bank card, at credit card",
+              "Awtomatikong ia-activate ang mga benepisyo ng membership pagkatapos ng matagumpay na pagbabayad"
+            ],
+            "buttonPay": "Magbayad gamit ang PayPal",
+            "buttonPending": "Nakabinbin ang Order",
+            "buttonCreating": "Gumagawa ng Order...",
+            "sdkLoading": "Niloload ang PayPal...",
+            "sdkError": "Hindi ma-load ang PayPal. Pakisuri ang iyong network at subukan muli.",
+            "sdkIneligible": "Hindi suportado ang pagbabayad sa PayPal sa kapaligirang ito",
+            "sdkMissingConfig": "Hindi naka-configure ang PayPal. Mangyaring makipag-ugnayan sa administrator.",
+            "orderCreating": "Gumagawa ng payment order...",
+            "orderCreateFailed": "Hindi nagawa ang order. Pakisubukan muli.",
+            "orderProcessing": "Kinukumpirma pa ang resulta ng pagbabayad. Pakisuri muli mamaya.",
+            "orderSuccess": "Matagumpay ang pagbabayad. Na-activate na ang iyong mga benepisyo sa membership.",
+            "orderFailed": "Hindi nagtagumpay ang pagbabayad. Pakisubukan muli.",
+            "orderPending": "Hindi kumpleto ang pagbabayad. Pakikumpleto ang pagbabayad at suriin muli.",
+            "orderExpired": "Nag-expire na ang payment order. Pakisubukan muli.",
+            "statusQueryFailed": "Hindi ma-check ang status ng pagbabayad. Pakisubukan muli mamaya.",
+            "invalidPlan": "Hindi wasto ang napiling plano. Pakibalik at pumili muli.",
+            "popupBlocked": "Hinadlangan ng iyong browser ang payment window. Pakipayagan ang mga pop-up para sa site na ito at subukan muli.",
+            "popupOpened": "Binuksan na ang PayPal payment window. Pakikumpleto ang pagbabayad sa window.",
+            "popupClosedChecking": "Nagsara na ang payment window. Kinukumpirma ang resulta ng pagbabayad...",
+            "popupClosedFailed": "Nagsara ang payment window, ngunit hindi kumpleto ang order. Pakisubukan muli."
+          },
+          "summary": {
+            "title": "Buod ng Order",
+            "periodLabel": "Panahon ng Membership",
+            "paymentMethodLabel": "Paraan ng Pagbabayad",
+            "amountLabel": "Halagang Babayaran",
+            "paymentMethod": "PayPal Online Payment",
+            "note": "Pagkatapos ng matagumpay na pagbabayad, awtomatikong ibibigay ang mga benepisyo ng membership sa iyong kasalukuyang account.",
+            "periodMonth": "1 Buwan",
+            "periodYear": "1 Taon",
+            "periodLife": "Habang-buhay",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Kinukumpirma ang resulta ng pagbabayad...",
+            "closeLabel": "Isara",
+            "iconAlt": "Resulta ng Pagbabayad",
+            "titlePrefix": "Pagbabayad",
+            "successTitleHighlight": "Matagumpay!",
+            "failureTitleHighlight": "Nabigo!",
+            "successDescription": "Salamat sa iyong pagbili. Na-activate na ang iyong membership.",
+            "failureDescription": "Hindi makumpleto ang iyong pagbabayad. Pakisubukan muli o gumamit ng ibang paraan ng pagbabayad.",
+            "orderNumber": "Numero ng Order",
+            "membershipType": "Uri ng Membership",
+            "expiry": "Petsa ng Pagkawalang-bisa",
+            "orderStatus": "Status ng Order",
+            "successStatus": "Bayad",
+            "failureStatus": "Hindi Bayad",
+            "successPrimaryAction": "Tingnan sa Membership Center",
+            "failurePrimaryAction": "Palitan ang Paraan ng Pagbabayad",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Bumalik sa Pahina",
+            "copyOrderNumber": "Kopyahin ang Numero ng Order",
+            "copied": "Nakopya",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Kumpirmahin ang Pagbili | VicastCam",
+            "description": "Kumpirmahin ang iyong VicastCam membership plan at kumpletuhin ang pagbabayad sa pamamagitan ng PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Buwanang Membership",
+              "description": "Tangkilikin ang lahat ng tampok ng VicastCam membership sa buwanang batayan",
+              "period": "1 Buwan"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Taunang Membership",
+              "description": "Tangkilikin ang lahat ng tampok ng VicastCam membership sa buong taon",
+              "period": "1 Taon"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Habang-buhay na Membership",
+              "description": "Isang beses na pagbili, pangmatagalang access sa mga tampok ng VicastCam membership",
+              "period": "Habang-buhay"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

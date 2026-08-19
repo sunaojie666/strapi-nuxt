@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam 常見問題 | Android 與 iOS 協助",
+    "description": "尋找 VicastCam 在 Android 與 iOS 上的常見問題解答，包括帳號設定、媒體權限、網路連線與直播問題。",
+    "imageAlt": "VicastCam 常見問題"
+  },
+  "hero": {
+    "eyebrow": "常見問題",
+    "titleMain": "VicastCam 協助",
+    "titleHighlight": "快速找到解答",
+    "description": "選擇您的平台（Android 或 iOS）以查看適用於您裝置的常見問題與解決方案。"
+  },
+  "content": {
+    "sectionAriaLabel": "常見問題",
+    "catalogAriaLabel": "問題分類",
+    "answerLabel": "解答",
+    "questionProgressTemplate": "{group} · 第 {current} 題，共 {total} 題"
+  }
+}

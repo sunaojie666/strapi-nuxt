@@ -1,0 +1,426 @@
+{
+  "runId": "2026-08-10T09-34-25-330Z",
+  "startedAt": "2026-08-10T09-34-25-330Z",
+  "completedAt": "2026-08-10T09:48:05.909Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "legal",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "agreements"
+  ],
+  "beforeStatus": {
+    "en": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "zh-TW": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "id": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ms": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "th": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fil": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "es": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pt": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ar": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ja": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "it": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "de": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fr": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ko": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ru": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "nl": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 95,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "zh-TW",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 95,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ar",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation pl failed after 3 attempts: translation pl returned invalid JSON: Unterminated string in JSON at position 27301 (line 179 column 47)"
+    },
+    {
+      "locale": "id",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "$: object keys changed"
+    },
+    {
+      "locale": "ja",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "nl",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation nl failed after 3 attempts: translation nl returned invalid JSON: Unterminated string in JSON at position 31173 (line 200 column 85)"
+    },
+    {
+      "locale": "ms",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "$: object keys changed"
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation tr failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation hi failed after 3 attempts: translation hi returned invalid JSON: Unterminated string in JSON at position 15471 (line 105 column 270)"
+    },
+    {
+      "locale": "th",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation th failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "it",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation ur failed after 3 attempts: translation ur returned invalid JSON: Unterminated string in JSON at position 18719 (line 141 column 123)"
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation vi failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "de",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation bn failed after 3 attempts: translation bn returned invalid JSON: Unterminated string in JSON at position 21269 (line 164 column 158)"
+    },
+    {
+      "locale": "fil",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "translation fil failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "fr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "es",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ko",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "$: object keys changed"
+    },
+    {
+      "locale": "pt",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ru",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "agreements": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

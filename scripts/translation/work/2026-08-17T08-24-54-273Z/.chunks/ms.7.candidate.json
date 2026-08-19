@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Apa yang perlu saya lakukan jika skrin tidak dipaparkan sepenuhnya semasa menstrim dari komputer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika skrin tidak dipaparkan sepenuhnya semasa menstrim dari telefon anda melalui aplikasi rakan penstriman langsung atau perisian lain, ikuti langkah berikut untuk melaraskan:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka VicastCam, ketik ikon kamera di bahagian bawah untuk memasuki halaman penstriman langsung, kemudian pergi ke [Menu kanan - Tetapan Lanjutan - Nisbah Aspek - 9:16].",
+            "Selepas menayangkan ke rakan penstriman langsung, mula-mula skala untuk muat, kemudian seret skrin ke atas atau ke bawah untuk memenuhi keseluruhan skrin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: Sebelum memulakan strim anda, laraskan nisbah aspek terlebih dahulu, kemudian tambahkan aset anda."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Apa yang perlu saya lakukan jika permintaan rangkaian gagal?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika anda menghadapi kegagalan permintaan rangkaian, cuba perkara berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buka Tetapan telefon anda, pergi ke [Pengurusan Kebenaran - VicastCam - Gunakan Data Selular dan Wi-Fi] dan dayakan akses rangkaian.",
+            "Matikan mod penjimatan kuasa dan sebarang sekatan latar belakang pada telefon anda.",
+            "Tukar rangkaian, mulakan semula telefon, togol mod kapal terbang, atau kemas kini aplikasi ke versi terkini.",
+            "Jika masalah berterusan, ambil tangkapan skrin ralat dan hubungi sokongan pelanggan untuk bantuan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Mengapa hamparan aset rangkaian berkelip atau menjadi hitam semasa penstriman langsung?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika anda mengalami skrin berkelip atau hitam apabila menambah aset rangkaian semasa penstriman langsung, berikut cara untuk mengatasinya:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Muat turun dan pratonton semua aset dan hamparan yang anda rancang untuk digunakan semasa strim terlebih dahulu. Pastikan ia berfungsi dengan baik sebelum memulakan siaran langsung.",
+            "Sesetengah aset yang disertakan dengan perisian disimpan di pelayan. Muat turun sebelum memulakan strim anda supaya anda boleh menggunakannya secara langsung semasa strim tanpa memuatkan semula.",
+            "Memuatkan aset semasa strim menggunakan sumber penstriman, memori telefon, dan prestasi, yang boleh menyebabkan ketinggalan. Pada telefon yang lebih rendah, ia mungkin menyebabkan ranap atau skrin hitam."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota penting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rancang dan berlatih strim anda terlebih dahulu. Amalkan setiap segmen untuk memastikan semuanya berjalan lancar sebelum memulakan siaran langsung. Layani setiap strim dengan teliti, dan strim anda akan memberi ganjaran kepada anda."
+        }
+      ]
+    }
+  ]
+}

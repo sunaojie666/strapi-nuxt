@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "ประวัติการซื้อ",
+    "title": "ประวัติการซื้อ",
+    "tabTitle": "การซื้อ",
+    "exchangeTabTitle": "การแลก",
+    "tableHeaders": {
+      "title": "ประเภท",
+      "date": "เวลาชำระเงิน",
+      "price": "จำนวนเงิน",
+      "paymentMethod": "วิธีการชำระเงิน",
+      "status": "สถานะ",
+      "exchangeDate": "เวลาแลก",
+      "exchangeCode": "รหัสแลก"
+    },
+    "exchangeTableHeaders": {
+      "date": "เวลาแลก",
+      "code": "รหัสแลก"
+    },
+    "cardTypes": {
+      "month": "บัตรรายเดือน",
+      "year": "บัตรรายปี",
+      "life": "บัตรตลอดชีพ",
+      "default": "บัตรสมาชิก"
+    },
+    "orderStatuses": {
+      "pending": "รอชำระเงิน",
+      "paid": "ชำระแล้ว",
+      "closed": "ปิดรายการ",
+      "refunded": "คืนเงินแล้ว",
+      "unknown": "ไม่ทราบ"
+    },
+    "secretLabels": {
+      "show": "แสดงรหัสผ่าน",
+      "hide": "ซ่อนรหัสผ่าน"
+    },
+    "secretMask": "******",
+    "emptyText": "ยังไม่มีประวัติการซื้อ",
+    "exchangeEmptyText": "ยังไม่มีประวัติการแลก",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "บัตรธนาคาร",
+      "creditcard": "บัตรเครดิต",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "สกุลเงินดิจิทัล",
+      "balance": "ยอดคงเหลือ",
+      "free": "ฟรี"
+    }
+  },
+  "team": {
+    "ariaLabel": "ทีมของฉัน",
+    "title": "ทีมของฉัน",
+    "referrerLabel": "ผู้แนะนำของฉัน",
+    "levelOne": "สมาชิกระดับ 1",
+    "levelTwo": "สมาชิกระดับ 2",
+    "tableHeaders": {
+      "name": "ชื่อสมาชิก",
+      "status": "สถานะสมาชิก",
+      "joinedAt": "เวลาเข้าร่วม"
+    },
+    "memberStatus": {
+      "free": "ผู้ใช้ฟรี",
+      "vip": "ผู้ใช้ VIP"
+    },
+    "emptyMemberName": "ผู้ใช้ที่ไม่มีชื่อ",
+    "emptyReferrer": "ไม่มีผู้แนะนำ",
+    "emptyTeam": "ยังไม่มีสมาชิกในทีม",
+    "errors": {
+      "loadFail": "ไม่สามารถโหลดสมาชิกทีมได้ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "ศูนย์รายได้",
+    "title": "ภาพรวมรายได้",
+    "commissionTitle": "รายละเอียดค่าคอมมิชชัน",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "รายได้รวม",
+        "desc": "ค่าคอมมิชชันทั้งหมดที่ได้รับจนถึงปัจจุบัน"
+      },
+      {
+        "key": "month",
+        "title": "เดือนนี้",
+        "desc": "ค่าคอมมิชชันที่ได้รับในเดือนนี้"
+      },
+      {
+        "key": "settling",
+        "title": "รอการชำระ",
+        "value": "0.00",
+        "desc": "จำนวนเงินที่รอการชำระ"
+      },
+      {
+        "key": "withdrawable",
+        "title": "ถอนได้",
+        "desc": "จำนวนเงินที่พร้อมถอนได้ในขณะนี้",
+        "action": "ถอนเงิน"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "ชื่อผู้ใช้",
+      "saleTime": "เวลาขาย",
+      "goodsInfo": "สินค้า",
+      "commission": "ค่าคอมมิชชัน"
+    },
+    "emptyCommission": "ยังไม่มีบันทึกค่าคอมมิชชัน",
+    "errors": {
+      "loadFail": "ไม่สามารถโหลดรายละเอียดค่าคอมมิชชันได้ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    "withdraw": {
+      "ariaLabel": "คำขอถอนเงิน",
+      "title": "คำขอถอนเงิน",
+      "closeLabel": "ปิดหน้าต่างถอนเงิน",
+      "balanceLabel": "ยอดคงเหลือที่ถอนได้",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "จำนวนเงินที่ถอน",
+      "amountPlaceholder": "กรอกจำนวนเงินที่ต้องการถอน",
+      "allButton": "ทั้งหมด",
+      "allAmountValue": "0.00",
+      "amountTip": "กรุณาตรวจสอบจำนวนเงินให้ถูกต้อง คำขอของคุณจะถูกตรวจสอบด้วยตนเองหลังส่ง",
+      "methodLabel": "วิธีการถอนเงิน",
+      "methods": [
+        "บัตรธนาคาร",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "บัตรธนาคาร",
+      "nameLabel": "ชื่อผู้รับเงิน",
+      "namePlaceholder": "กรอกชื่อผู้รับเงิน",
+      "defaultName": "",
+      "bankCardLabel": "หมายเลขบัญชี",
+      "bankCardPlaceholder": "กรอกหมายเลขบัตรธนาคาร อีเมล PayPal หรือที่อยู่กระเป๋าเงิน",
+      "remarkLabel": "หมายเหตุ",
+      "remarkPlaceholder": "เพิ่มหมายเหตุเพิ่มเติม",
+      "note": "คำขอถอนเงินจะดำเนินการภายใน 1-3 วันทำการ",
+      "cancelButton": "ยกเลิก",
+      "submitButton": "ส่งคำขอ"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "แลกสำเร็จ",
+    "operationFailed": "แลกไม่สำเร็จ",
+    "invalidCard": "รหัสแลกไม่ถูกต้อง",
+    "cardNotFound": "ไม่พบรหัสแลก",
+    "cardDisabled": "รหัสแลกถูกปิดใช้งาน",
+    "cardExpired": "รหัสแลกหมดอายุ"
+  },
+  "successMessage": "ดำเนินการสำเร็จ"
+}

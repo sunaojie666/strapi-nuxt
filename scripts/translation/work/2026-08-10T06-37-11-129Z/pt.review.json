@@ -1,0 +1,207 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Change 'simplificados' to 'simplificadas' to agree with the feminine plural nouns 'Fundos virtuais, melhorias em direto e transmissão multi-plataforma'."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Consider rephrasing to 'Li e aceito os Termos de Utilização e a Política de Privacidade' (already correct) or 'Li e aceito a Política de Privacidade e os Termos de Utilização' to match the source order. The current order is acceptable but the source lists Privacy Policy first."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestSuccess",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'Pedido concluído com sucesso' for a more natural European Portuguese phrasing."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'A capacitar a transmissão ao vivo em todo o mundo' for a more natural European Portuguese phrasing."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'Programadores' instead of 'Desenvolvedores' for European Portuguese."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[0].text",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'Vídeos Tutoriais' to 'Tutoriais em Vídeo' for more natural European Portuguese word order."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "meaning_change",
+      "severity": "minor",
+      "instruction": "The source 'Become a Reseller' implies a reseller program. 'Torne-se Parceiro' is broader. Consider 'Torne-se Revendedor' to preserve the specific meaning."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "pt",
+          "loginTitle1": "Mude o seu fundo virtual num só clique",
+          "loginTitle2": "Transmita com mais impacto",
+          "loginDes1": "Uma ferramenta profissional de transmissão ao vivo com tecnologia AI",
+          "loginDes2": "Fundos virtuais, melhorias em direto e transmissão multi-plataforma simplificadas",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "Substituição de fundo em tempo real",
+          "featureTitle2": "Transmissão Multi-Plataforma",
+          "featureSubTitle2": "Comece a transmitir com um toque",
+          "featureTitle3": "Câmara Virtual",
+          "featureSubTitle3": "Transforme o seu telemóvel numa webcam",
+          "loginBox": {
+            "loginPageTitle": "Iniciar Sessão / Criar Conta",
+            "codeLoginTab": "Iniciar com Código de Verificação",
+            "pwdLoginTab": "Iniciar Sessão com Palavra-passe",
+            "qrLoginTab": "Iniciar Sessão com Código QR",
+            "emailInputPlaceholder": "Introduza o seu email para iniciar sessão",
+            "pwdInputPlaceholder": "Introduza a sua palavra-passe",
+            "verifyCodePlaceholder": "Introduza o código de verificação",
+            "getVerifyCodeText": "Obter Código",
+            "loginBtnText": "Iniciar Sessão",
+            "qrLoginTip": "Digitalize com a aplicação VicastCam para iniciar sessão",
+            "qrWaitingTip": "A aguardar confirmação da digitalização",
+            "agreeProtocolText": "Li e aceito a Política de Privacidade e os Termos de Utilização",
+            "userProtocolText": "Termos de Utilização",
+            "privacyPolicyText": "Política de Privacidade",
+            "agreeProtocolPrefix": "Li e aceito"
+          },
+          "toastBox": {
+            "closeToastLabel": "Fechar notificação",
+            "requestLoading": "A carregar",
+            "requestSuccess": "Pedido concluído com sucesso",
+            "requestFail": "Falha no pedido",
+            "passwordLoginNotReady": "O início de sessão com palavra-passe ainda não está disponível",
+            "passwordRequired": "Introduza a sua palavra-passe",
+            "emailRequired": "Introduza o seu email para iniciar sessão",
+            "verifyCodeRequired": "Introduza o código de verificação",
+            "agreeProtocolRequired": "Leia e aceite primeiro a Política de Privacidade e os Termos de Utilização",
+            "qrcodeExpired": "O código QR expirou. Solicite um novo."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "pt",
+          "hero_section": {
+            "tag": "Ferramenta de transmissão ao vivo com tecnologia AI",
+            "title_main": "Efeitos de ecrã verde e partilha de ecrã a partir do seu telemóvel",
+            "title_highlight": "A capacitar a transmissão ao vivo em todo o mundo",
+            "description": "A VicastCam utiliza tecnologia avançada de AI matting para permitir que altere os seus fundos virtuais a qualquer momento durante a transmissão, adicionando efeitos imersivos e um aspeto profissional às suas emissões ao vivo.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Descarregar"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Descarregar"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "A VicastCam oferece aos criadores fundos virtuais, melhorias em direto e ferramentas multi-plataforma."
+            },
+            "columns": [
+              {
+                "title": "Produtos",
+                "links": [
+                  {
+                    "text": "Recursos"
+                  },
+                  {
+                    "text": "Planos e Preços"
+                  },
+                  {
+                    "text": "Downloads"
+                  }
+                ]
+              },
+              {
+                "title": "Programadores",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Documentação de API"
+                  }
+                ]
+              },
+              {
+                "title": "Empresa",
+                "links": [
+                  {
+                    "text": "Sobre Nós"
+                  },
+                  {
+                    "text": "Política de Privacidade"
+                  },
+                  {
+                    "text": "Termos de Utilização"
+                  },
+                  {
+                    "text": "Acordo de Membro"
+                  }
+                ]
+              },
+              {
+                "title": "Suporte",
+                "links": [
+                  {
+                    "text": "Tutoriais em Vídeo"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Fale Connosco"
+                  }
+                ]
+              },
+              {
+                "title": "Parcerias",
+                "links": [
+                  {
+                    "text": "Torne-se Revendedor"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Contactos Comerciais"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Recursos",
+        "nav_pricing": "Planos e Preços",
+        "nav_faq": "FAQ",
+        "nav_auth": "Iniciar Sessão / Criar Conta",
+        "nav_team": "Parcerias"
+      }
+    ]
+  }
+}

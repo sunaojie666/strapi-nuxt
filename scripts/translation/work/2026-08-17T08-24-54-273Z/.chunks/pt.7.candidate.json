@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "O que devo fazer se o ecrã não for totalmente exibido ao transmitir a partir do computador?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se o ecrã não for totalmente exibido ao transmitir a partir do telemóvel através de uma aplicação de transmissão complementar ou outro software, siga estes passos para ajustar:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra o VicastCam, toque no ícone da câmara na parte inferior para entrar na página de transmissão e, em seguida, vá a [Menu direito - Mais definições - Proporção - 9:16].",
+            "Depois de transmitir para a aplicação de transmissão complementar, primeiro ajuste a escala para caber e, em seguida, arraste o ecrã para cima ou para baixo para preencher todo o ecrã."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: Antes de iniciar a transmissão, ajuste primeiro a proporção e só depois adicione os seus elementos."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "O que devo fazer se um pedido de rede falhar?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se encontrar falhas em pedidos de rede, tente o seguinte:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra as Definições do telemóvel, vá a [Gestão de permissões - VicastCam - Utilizar dados móveis e Wi-Fi] e ative o acesso à rede.",
+            "Desative o modo de poupança de energia e quaisquer restrições em segundo plano no telemóvel.",
+            "Mude de rede, reinicie o telemóvel, ative o modo de avião ou atualize a aplicação para a versão mais recente.",
+            "Se o problema persistir, tire uma captura de ecrã do erro e contacte o apoio ao cliente para obter assistência."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Porque é que as sobreposições de elementos de rede piscam ou ficam pretas durante uma transmissão em direto?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se tiver problemas de cintilação ou ecrã preto ao adicionar elementos de rede durante uma transmissão em direto, veja como resolver:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transfira e pré-visualize todos os elementos e sobreposições que planeia utilizar durante a transmissão com antecedência. Certifique-se de que funcionam corretamente antes de iniciar a transmissão.",
+            "Alguns elementos incluídos no software estão armazenados em servidores. Transfira-os antes de iniciar a transmissão para que possa utilizá-los diretamente durante a transmissão, sem recarregar.",
+            "Carregar elementos a meio da transmissão consome recursos de transmissão, memória do telemóvel e desempenho, o que pode causar atrasos. Em telemóveis de gama baixa, pode até levar a falhas ou ecrã preto."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota importante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planeie e ensaie a sua transmissão com antecedência. Pratique cada segmento para garantir que tudo corre bem antes de iniciar. Trate cada transmissão com cuidado e a sua transmissão recompensá-lo-á."
+        }
+      ]
+    }
+  ]
+}

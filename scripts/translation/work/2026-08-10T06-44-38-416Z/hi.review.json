@@ -1,0 +1,201 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'मल्टी-प्लेटफ़ॉर्म प्रसारण' instead of 'मल्टी-प्लेटफ़ॉर्म प्रसारण' for consistency with glossary term 'multi-platform streaming'."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolPrefix",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'मैंने पढ़ लिया है और सहमत हूँ' to 'मैंने पढ़ लिया है और सहमत हूँ' (already correct) or consider 'मैंने पढ़ लिया है और सहमत हूँ' for gender neutrality."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'स्क्रीन कास्टिंग' instead of 'स्क्रीन कास्टिंग' for consistency with glossary term 'screen casting'."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'प्रोडक्ट' instead of 'प्रोडक्ट' for consistency with common usage."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'डेवलपर्स' instead of 'डेवलपर' for plural consistency."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'व्यापार' instead of 'व्यापार' for consistency with navigation."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "hi",
+          "loginTitle1": "एक क्लिक में बदलें अपना वर्चुअल बैकग्राउंड",
+          "loginTitle2": "अपने लाइव स्ट्रीम को बनाएं शानदार",
+          "loginDes1": "AI द्वारा संचालित एक पेशेवर लाइव स्ट्रीमिंग टूल",
+          "loginDes2": "वर्चुअल बैकग्राउंड, लाइव स्ट्रीम एन्हांसमेंट और मल्टी-प्लेटफ़ॉर्म प्रसारण को सरल बनाया गया",
+          "featureTitle1": "AI मैटिंग",
+          "featureSubTitle1": "रीयल-टाइम बैकग्राउंड रिप्लेसमेंट",
+          "featureTitle2": "मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग",
+          "featureSubTitle2": "एक क्लिक में लाइव जाएं",
+          "featureTitle3": "वर्चुअल कैमरा",
+          "featureSubTitle3": "अपने फ़ोन को वेबकैम में बदलें",
+          "loginBox": {
+            "loginPageTitle": "लॉग इन / साइन अप",
+            "codeLoginTab": "कोड लॉगिन",
+            "pwdLoginTab": "पासवर्ड लॉगिन",
+            "qrLoginTab": "QR कोड लॉगिन",
+            "emailInputPlaceholder": "लॉग इन करने के लिए अपना ईमेल दर्ज करें",
+            "pwdInputPlaceholder": "अपना पासवर्ड दर्ज करें",
+            "verifyCodePlaceholder": "वेरिफिकेशन कोड दर्ज करें",
+            "getVerifyCodeText": "कोड प्राप्त करें",
+            "loginBtnText": "लॉग इन करें",
+            "qrLoginTip": "QR कोड स्कैन करने के लिए VicastCam ऐप का उपयोग करें",
+            "qrWaitingTip": "स्कैन की पुष्टि की प्रतीक्षा है",
+            "agreeProtocolText": "मैंने प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ ली है और सहमत हूँ",
+            "userProtocolText": "यूज़र एग्रीमेंट",
+            "privacyPolicyText": "प्राइवेसी पॉलिसी",
+            "agreeProtocolPrefix": "मैंने पढ़ लिया है और सहमत हूँ"
+          },
+          "toastBox": {
+            "closeToastLabel": "बंद करें",
+            "requestLoading": "लोड हो रहा है",
+            "requestSuccess": "सफल",
+            "requestFail": "अनुरोध विफल रहा",
+            "passwordLoginNotReady": "पासवर्ड लॉगिन अभी उपलब्ध नहीं है",
+            "passwordRequired": "कृपया अपना पासवर्ड दर्ज करें",
+            "emailRequired": "लॉग इन करने के लिए कृपया अपना ईमेल दर्ज करें",
+            "verifyCodeRequired": "कृपया वेरिफिकेशन कोड दर्ज करें",
+            "agreeProtocolRequired": "कृपया पहले प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ें और सहमत हों",
+            "qrcodeExpired": "QR कोड समाप्त हो गया है। कृपया पुनः प्रयास करें।"
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "hi",
+          "hero_section": {
+            "tag": "AI-संचालित लाइव स्ट्रीमिंग टूल",
+            "title_main": "अपने फ़ोन से ग्रीन स्क्रीन इफेक्ट और स्क्रीन कास्टिंग करें",
+            "title_highlight": "दुनिया भर में लाइव स्ट्रीमिंग को सशक्त बनाना",
+            "description": "VicastCam उन्नत AI मैटिंग का उपयोग करता है जिससे आप अपने लाइव स्ट्रीम के दौरान वर्चुअल बैकग्राउंड को सहजता से बदल सकते हैं, इमर्सिव इफेक्ट जोड़कर एक पेशेवर उपस्थिति बना सकते हैं।",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "डाउनलोड करें"
+              },
+              {
+                "platform": "Google Play",
+                "text": "डाउनलोड करें"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam क्रिएटर्स को वर्चुअल बैकग्राउंड, लाइव स्ट्रीम एन्हांसमेंट और क्रॉस-प्लेटफ़ॉर्म टूल प्रदान करता है।"
+            },
+            "columns": [
+              {
+                "title": "प्रोडक्ट",
+                "links": [
+                  {
+                    "text": "फीचर्स"
+                  },
+                  {
+                    "text": "कीमतें"
+                  },
+                  {
+                    "text": "डाउनलोड केंद्र"
+                  }
+                ]
+              },
+              {
+                "title": "डेवलपर्स",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API दस्तावेज़"
+                  }
+                ]
+              },
+              {
+                "title": "कंपनी",
+                "links": [
+                  {
+                    "text": "हमारे बारे में"
+                  },
+                  {
+                    "text": "प्राइवेसी पॉलिसी"
+                  },
+                  {
+                    "text": "यूज़र एग्रीमेंट"
+                  },
+                  {
+                    "text": "सदस्यता समझौता"
+                  }
+                ]
+              },
+              {
+                "title": "सहायता",
+                "links": [
+                  {
+                    "text": "वीडियो ट्यूटोरियल"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "संपर्क करें"
+                  }
+                ]
+              },
+              {
+                "title": "व्यापार",
+                "links": [
+                  {
+                    "text": "रिसेलर बनें"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "व्यावसायिक पूछताछ"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "फीचर्स",
+        "nav_pricing": "कीमतें",
+        "nav_faq": "FAQ",
+        "nav_auth": "लॉग इन / साइन अप",
+        "nav_team": "व्यापार"
+      }
+    ]
+  }
+}

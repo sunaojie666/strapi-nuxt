@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Lịch sử mua hàng",
+    "title": "Lịch sử mua hàng",
+    "tabTitle": "Giao dịch mua",
+    "exchangeTabTitle": "Giao dịch đổi mã",
+    "tableHeaders": {
+      "title": "Loại",
+      "date": "Thời gian thanh toán",
+      "price": "Số tiền",
+      "paymentMethod": "Phương thức thanh toán",
+      "status": "Trạng thái",
+      "exchangeDate": "Thời gian đổi mã",
+      "exchangeCode": "Mã đổi thưởng"
+    },
+    "exchangeTableHeaders": {
+      "date": "Thời gian đổi mã",
+      "code": "Mã đổi thưởng"
+    },
+    "cardTypes": {
+      "month": "Thẻ tháng",
+      "year": "Thẻ năm",
+      "life": "Thẻ trọn đời",
+      "default": "Thẻ thành viên"
+    },
+    "orderStatuses": {
+      "pending": "Chờ thanh toán",
+      "paid": "Đã thanh toán",
+      "closed": "Đã đóng",
+      "refunded": "Đã hoàn tiền",
+      "unknown": "Không xác định"
+    },
+    "secretLabels": {
+      "show": "Hiện mật khẩu",
+      "hide": "Ẩn mật khẩu"
+    },
+    "secretMask": "******",
+    "emptyText": "Chưa có giao dịch mua nào",
+    "exchangeEmptyText": "Chưa có giao dịch đổi mã nào",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Thẻ ngân hàng",
+      "creditcard": "Thẻ tín dụng",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Tiền điện tử",
+      "balance": "Số dư",
+      "free": "Miễn phí"
+    }
+  },
+  "team": {
+    "ariaLabel": "Đội của tôi",
+    "title": "Đội của tôi",
+    "referrerLabel": "Người giới thiệu của tôi",
+    "levelOne": "Thành viên cấp 1",
+    "levelTwo": "Thành viên cấp 2",
+    "tableHeaders": {
+      "name": "Tên thành viên",
+      "status": "Trạng thái thành viên",
+      "joinedAt": "Thời gian tham gia"
+    },
+    "memberStatus": {
+      "free": "Người dùng miễn phí",
+      "vip": "Người dùng VIP"
+    },
+    "emptyMemberName": "Người dùng chưa đặt tên",
+    "emptyReferrer": "Không có người giới thiệu",
+    "emptyTeam": "Chưa có thành viên nào trong đội",
+    "errors": {
+      "loadFail": "Không tải được danh sách thành viên. Vui lòng thử lại sau."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Trung tâm thu nhập",
+    "title": "Tổng quan thu nhập",
+    "commissionTitle": "Chi tiết hoa hồng",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Tổng thu nhập",
+        "desc": "Tổng hoa hồng kiếm được đến nay"
+      },
+      {
+        "key": "month",
+        "title": "Tháng này",
+        "desc": "Hoa hồng kiếm được trong tháng này"
+      },
+      {
+        "key": "settling",
+        "title": "Chờ thanh toán",
+        "value": "0.00",
+        "desc": "Số tiền đang chờ thanh toán"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Có thể rút",
+        "desc": "Số tiền hiện có thể rút",
+        "action": "Rút tiền"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Tên người dùng",
+      "saleTime": "Thời gian bán",
+      "goodsInfo": "Sản phẩm",
+      "commission": "Hoa hồng"
+    },
+    "emptyCommission": "Chưa có giao dịch hoa hồng nào",
+    "errors": {
+      "loadFail": "Không tải được chi tiết hoa hồng. Vui lòng thử lại sau."
+    },
+    "withdraw": {
+      "ariaLabel": "Yêu cầu rút tiền",
+      "title": "Yêu cầu rút tiền",
+      "closeLabel": "Đóng hộp thoại rút tiền",
+      "balanceLabel": "Số dư có thể rút",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Số tiền rút",
+      "amountPlaceholder": "Nhập số tiền rút",
+      "allButton": "Tất cả",
+      "allAmountValue": "0.00",
+      "amountTip": "Vui lòng xác nhận số tiền chính xác. Yêu cầu của bạn sẽ được xem xét thủ công sau khi gửi.",
+      "methodLabel": "Phương thức rút tiền",
+      "methods": [
+        "Thẻ ngân hàng",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Thẻ ngân hàng",
+      "nameLabel": "Tên người nhận",
+      "namePlaceholder": "Nhập tên người nhận",
+      "defaultName": "",
+      "bankCardLabel": "Số tài khoản",
+      "bankCardPlaceholder": "Nhập số thẻ ngân hàng, email PayPal hoặc địa chỉ ví",
+      "remarkLabel": "Ghi chú",
+      "remarkPlaceholder": "Thêm ghi chú bổ sung",
+      "note": "Yêu cầu rút tiền được xử lý trong vòng 1-3 ngày làm việc.",
+      "cancelButton": "Hủy",
+      "submitButton": "Gửi yêu cầu"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Đổi mã thành công",
+    "operationFailed": "Đổi mã thất bại",
+    "invalidCard": "Mã đổi thưởng không hợp lệ",
+    "cardNotFound": "Không tìm thấy mã đổi thưởng",
+    "cardDisabled": "Mã đổi thưởng đã bị vô hiệu hóa",
+    "cardExpired": "Mã đổi thưởng đã hết hạn"
+  },
+  "successMessage": "Thao tác thành công"
+}

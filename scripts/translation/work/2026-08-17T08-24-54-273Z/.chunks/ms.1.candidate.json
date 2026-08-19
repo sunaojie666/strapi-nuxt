@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "Soalan Lazim VicastCam | Bantuan untuk Android dan iOS",
+    "description": "Cari jawapan untuk soalan lazim tentang VicastCam untuk Android dan iOS, termasuk penyediaan akaun, kebenaran media, sambungan rangkaian, dan isu penstriman langsung.",
+    "imageAlt": "Soalan Lazim VicastCam"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "Bantuan VicastCam",
+    "titleHighlight": "Cari Jawapan dengan Pantas",
+    "description": "Pilih platform anda (Android atau iOS) untuk melihat soalan lazim dan penyelesaian untuk peranti anda."
+  },
+  "content": {
+    "sectionAriaLabel": "Soalan lazim",
+    "catalogAriaLabel": "Kategori soalan",
+    "answerLabel": "Jawapan",
+    "questionProgressTemplate": "{group} · Soalan {current} daripada {total}"
+  }
+}

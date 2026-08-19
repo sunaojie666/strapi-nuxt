@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "ক্রয়ের ইতিহাস",
+    "title": "ক্রয়ের ইতিহাস",
+    "tabTitle": "ক্রয়সমূহ",
+    "exchangeTabTitle": "রিডিম",
+    "tableHeaders": {
+      "title": "ধরন",
+      "date": "পেমেন্টের সময়",
+      "price": "পরিমাণ",
+      "paymentMethod": "পেমেন্ট পদ্ধতি",
+      "status": "স্ট্যাটাস",
+      "exchangeDate": "রিডিমের সময়",
+      "exchangeCode": "রিডেম্পশন কোড"
+    },
+    "exchangeTableHeaders": {
+      "date": "রিডিমের সময়",
+      "code": "রিডেম্পশন কোড"
+    },
+    "cardTypes": {
+      "month": "মাসিক কার্ড",
+      "year": "বার্ষিক কার্ড",
+      "life": "লাইফটাইম কার্ড",
+      "default": "মেম্বারশিপ কার্ড"
+    },
+    "orderStatuses": {
+      "pending": "পেমেন্ট অপেক্ষমাণ",
+      "paid": "পরিশোধিত",
+      "closed": "বন্ধ",
+      "refunded": "রিফান্ডকৃত",
+      "unknown": "অজানা"
+    },
+    "secretLabels": {
+      "show": "পাসওয়ার্ড দেখান",
+      "hide": "পাসওয়ার্ড লুকান"
+    },
+    "secretMask": "******",
+    "emptyText": "এখনও কোনো ক্রয়ের রেকর্ড নেই",
+    "exchangeEmptyText": "এখনও কোনো রিডিমের রেকর্ড নেই",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "ব্যাংক কার্ড",
+      "creditcard": "ক্রেডিট কার্ড",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "ক্রিপ্টোকারেন্সি",
+      "balance": "ব্যালেন্স",
+      "free": "ফ্রি"
+    }
+  },
+  "team": {
+    "ariaLabel": "আমার টিম",
+    "title": "আমার টিম",
+    "referrerLabel": "আমার রেফারার",
+    "levelOne": "লেভেল ১ সদস্য",
+    "levelTwo": "লেভেল ২ সদস্য",
+    "tableHeaders": {
+      "name": "সদস্যের নাম",
+      "status": "মেম্বারশিপ স্ট্যাটাস",
+      "joinedAt": "যোগদানের সময়"
+    },
+    "memberStatus": {
+      "free": "ফ্রি ইউজার",
+      "vip": "VIP ইউজার"
+    },
+    "emptyMemberName": "নামহীন ইউজার",
+    "emptyReferrer": "কোনো রেফারার নেই",
+    "emptyTeam": "এখনও কোনো টিম সদস্য নেই",
+    "errors": {
+      "loadFail": "টিম সদস্যদের লোড করা যায়নি। পরে আবার চেষ্টা করুন।"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "আয় সেন্টার",
+    "title": "আয়ের সারসংক্ষেপ",
+    "commissionTitle": "কমিশনের বিবরণ",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "মোট আয়",
+        "desc": "এখন পর্যন্ত অর্জিত মোট কমিশন"
+      },
+      {
+        "key": "month",
+        "title": "এই মাস",
+        "desc": "এই মাসে অর্জিত কমিশন"
+      },
+      {
+        "key": "settling",
+        "title": "নিষ্পত্তি অপেক্ষমাণ",
+        "value": "0.00",
+        "desc": "নিষ্পত্তি অপেক্ষমাণ পরিমাণ"
+      },
+      {
+        "key": "withdrawable",
+        "title": "উত্তোলনযোগ্য",
+        "desc": "বর্তমানে উত্তোলনের জন্য উপলব্ধ পরিমাণ",
+        "action": "উত্তোলন"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "ইউজারনেম",
+      "saleTime": "বিক্রয়ের সময়",
+      "goodsInfo": "পণ্য",
+      "commission": "কমিশন"
+    },
+    "emptyCommission": "এখনও কোনো কমিশন রেকর্ড নেই",
+    "errors": {
+      "loadFail": "কমিশনের বিবরণ লোড করা যায়নি। পরে আবার চেষ্টা করুন।"
+    },
+    "withdraw": {
+      "ariaLabel": "উত্তোলনের অনুরোধ",
+      "title": "উত্তোলনের অনুরোধ",
+      "closeLabel": "উত্তোলন ডায়ালগ বন্ধ করুন",
+      "balanceLabel": "উত্তোলনযোগ্য ব্যালেন্স",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "উত্তোলনের পরিমাণ",
+      "amountPlaceholder": "উত্তোলনের পরিমাণ লিখুন",
+      "allButton": "সব",
+      "allAmountValue": "0.00",
+      "amountTip": "অনুগ্রহ করে পরিমাণটি সঠিক কিনা নিশ্চিত করুন। জমা দেওয়ার পরে আপনার অনুরোধটি ম্যানুয়ালি পর্যালোচনা করা হবে।",
+      "methodLabel": "উত্তোলনের পদ্ধতি",
+      "methods": [
+        "ব্যাংক কার্ড",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "ব্যাংক কার্ড",
+      "nameLabel": "প্রাপকের নাম",
+      "namePlaceholder": "প্রাপকের নাম লিখুন",
+      "defaultName": "",
+      "bankCardLabel": "অ্যাকাউন্ট নম্বর",
+      "bankCardPlaceholder": "ব্যাংক কার্ড নম্বর, PayPal ইমেল বা ওয়ালেট ঠিকানা লিখুন",
+      "remarkLabel": "মন্তব্য",
+      "remarkPlaceholder": "অতিরিক্ত নোট যোগ করুন",
+      "note": "উত্তোলনের অনুরোধ ১-৩ কার্যদিবসের মধ্যে প্রক্রিয়া করা হয়।",
+      "cancelButton": "বাতিল",
+      "submitButton": "অনুরোধ জমা দিন"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "রিডিম সফল হয়েছে",
+    "operationFailed": "রিডিম ব্যর্থ হয়েছে",
+    "invalidCard": "অবৈধ রিডেম্পশন কোড",
+    "cardNotFound": "রিডেম্পশন কোড পাওয়া যায়নি",
+    "cardDisabled": "রিডেম্পশন কোড নিষ্ক্রিয়",
+    "cardExpired": "রিডেম্পশন কোড মেয়াদোত্তীর্ণ"
+  },
+  "successMessage": "অপারেশন সফল হয়েছে"
+}

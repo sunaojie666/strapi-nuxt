@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "টিউটোরিয়াল সেন্টার",
+    "titleMain": "VicastCam শেখার যাত্রা",
+    "titleHighlight": "শুরু করুন",
+    "descriptionMain": "সফটওয়্যারের প্রতিটি ফিচার আয়ত্ত করুন",
+    "descriptionHighlight": "দ্রুত শুরু করুন"
+  },
+  "player": {
+    "sectionAriaLabel": "টিউটোরিয়াল তালিকা",
+    "catalogAriaLabel": "টিউটোরিয়াল ক্যাটালগ",
+    "previousLabel": "আগের",
+    "nextLabel": "পরের",
+    "firstLessonText": "আপনি প্রথম পাঠে আছেন",
+    "lastLessonText": "আপনি শেষ পাঠে আছেন",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Khi phát trực tiếp từ máy tính mà màn hình không hiển thị đầy đủ thì phải làm sao?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu khi phát trực tiếp từ điện thoại qua ứng dụng đồng hành phát trực tiếp hoặc phần mềm khác mà màn hình không hiển thị đầy đủ, hãy làm theo các bước sau để điều chỉnh:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mở VicastCam, chạm vào biểu tượng camera ở phía dưới để vào trang phát trực tiếp, sau đó vào [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+            "Sau khi chiếu lên ứng dụng đồng hành phát trực tiếp, trước tiên hãy thu nhỏ để vừa màn hình, sau đó kéo màn hình lên hoặc xuống để lấp đầy toàn bộ màn hình."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lưu ý: Trước khi bắt đầu phát trực tiếp, hãy điều chỉnh tỷ lệ khung hình trước, sau đó mới thêm tài nguyên của bạn."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Khi yêu cầu mạng thất bại thì phải làm sao?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mở Cài đặt trên điện thoại, vào [Quản lý quyền - VicastCam - Sử dụng dữ liệu di động và Wi-Fi] và bật quyền truy cập mạng.",
+            "Tắt chế độ tiết kiệm pin và mọi hạn chế chạy nền trên điện thoại.",
+            "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng lên phiên bản mới nhất.",
+            "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ bộ phận hỗ trợ khách hàng để được trợ giúp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Tại sao lớp phủ tài nguyên mạng bị nhấp nháy hoặc chuyển sang màn hình đen khi phát trực tiếp?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Nếu bạn gặp hiện tượng nhấp nháy hoặc màn hình đen khi thêm tài nguyên mạng trong lúc phát trực tiếp, đây là cách xử lý:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tải xuống và xem trước mọi tài nguyên và lớp phủ bạn định sử dụng trong buổi phát trực tiếp trước. Đảm bảo chúng hoạt động bình thường trước khi phát trực tiếp.",
+            "Một số tài nguyên đi kèm phần mềm được lưu trữ trên máy chủ. Hãy tải chúng xuống trước khi bắt đầu phát trực tiếp để có thể sử dụng trực tiếp trong buổi phát mà không cần tải lại.",
+            "Tải tài nguyên giữa buổi phát sẽ tiêu tốn tài nguyên phát trực tiếp, bộ nhớ điện thoại và hiệu suất, có thể gây lag. Trên điện thoại cấu hình thấp, thậm chí có thể dẫn đến treo hoặc màn hình đen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lưu ý quan trọng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hãy lên kế hoạch và diễn tập buổi phát trực tiếp trước. Thực hành từng phân đoạn để đảm bảo mọi thứ diễn ra suôn sẻ trước khi phát trực tiếp. Hãy trân trọng từng buổi phát, và buổi phát của bạn sẽ đền đáp lại."
+        }
+      ]
+    }
+  ]
+}

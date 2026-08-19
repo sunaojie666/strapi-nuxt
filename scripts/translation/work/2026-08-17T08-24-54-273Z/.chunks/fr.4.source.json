@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Why do network assets or overlays flicker or go black during a live stream?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If you experience flickering or black screens when adding network assets during a live stream, here's how to handle it:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Download and preview any assets or overlays you plan to use during the stream in advance, and confirm they work properly before going live.",
+            "Some assets included with the software are stored on servers. If you download them before going live, you can use them directly during the stream without reloading.",
+            "Loading assets mid-stream consumes streaming resources, phone memory, and performance, which can cause lag; on lower-end phones, it may even lead to crashes or black screens."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Important note"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before going live, plan and rehearse your stream thoroughly to ensure every element works flawlessly before you start."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "What should I do if some keys on the keyboard are covered?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If some keys on the virtual keyboard are covered, try the following:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "If you're using an older 16:9 phone as the remote, and some keys are covered, tap the second button in the top-left corner of the keyboard to enable full-screen operation mode.",
+            "If the keyboard layout is misaligned, go to your phone's Settings and set the font size to normal.",
+            "Some phones have an elderly mode enabled; turning it off should restore the keyboard to normal display."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Display issues are usually caused by oversized fonts or an oversized phone theme interface. Resetting these to standard mode should resolve the problem."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "What should I do if my Huawei phone keeps disconnecting from multi-camera or virtual keyboard?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If your Huawei phone experiences disconnections with multi-camera or virtual keyboard, follow these steps:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Go to your phone's Settings.",
+            "In the search bar at the top, type 'App launch management'.",
+            "Go to the App launch management page, scroll down to find VicastCam.",
+            "Turn off the toggle on the right so the icon turns gray; at the same time, enable all three options in the popup so they turn blue."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can also refer to the video tutorial 'How to prevent disconnections with multi-camera and virtual keyboard on Huawei phones'."
+        }
+      ]
+    }
+  ]
+}

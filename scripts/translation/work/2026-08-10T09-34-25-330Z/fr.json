@@ -1,0 +1,207 @@
+{
+  "agreements": [
+    {
+      "data": {
+        "key": "agreement",
+        "title": "Contrat d'utilisation",
+        "updatedAt": "22 juillet 2026",
+        "description": "Le présent contrat de licence d'utilisation (« Contrat ») est conclu entre le concédant et l'utilisateur de ce logiciel (« vous » ou « l'utilisateur ») et régit toutes vos actions de téléchargement, d'installation, d'enregistrement, de connexion et d'utilisation de ce logiciel.",
+        "sections": [
+          {
+            "key": "agreement-overview",
+            "title": "",
+            "paragraphs": [
+              "Concédant : Vicast International Limited",
+              "Canaux officiels : site officiel de VicastCam et boutiques d'applications autorisées (Apple App Store / Google Play Store)",
+              "E-mail de contact : service@vicastcam.com",
+              "Dernière mise à jour : 22 juillet 2026",
+              "Bienvenue sur VicastCam (« ce logiciel ») !",
+              "Les produits VicastCam sont fournis uniquement aux utilisateurs hors de la Chine continentale. Nous ne faisons pas activement la promotion du produit auprès des utilisateurs en Chine continentale. Si vous vous trouvez en Chine continentale, veuillez noter que ce produit ne dispose pas des qualifications d'exploitation requises en Chine continentale.",
+              "Le présent contrat de licence d'utilisation (« Contrat ») est conclu entre le concédant et l'utilisateur de ce logiciel (« vous » ou « l'utilisateur ») et régit toutes vos actions de téléchargement, d'installation, d'enregistrement, de connexion et d'utilisation de ce logiciel.",
+              "En cliquant sur le bouton « Accepter » dans ce logiciel, vous acceptez volontairement toutes les conditions du présent Contrat. Si vous ne les acceptez pas, le concédant ne vous accorde pas le droit d'utiliser le logiciel. Veuillez immédiatement cesser d'utiliser et désinstaller le logiciel. Votre utilisation continue du logiciel constitue votre accord et votre acceptation du présent Contrat et de toute révision ultérieure.",
+              "Vous confirmez que vous avez au moins 18 ans ou que vous avez atteint l'âge légal de la majorité dans votre juridiction (« adulte »). Les mineurs doivent utiliser ce logiciel avec le consentement explicite et sous la supervision de leur représentant légal, qui assumera les responsabilités de tutelle conformément à la loi."
+            ]
+          },
+          {
+            "key": "agreement-section-1",
+            "title": "1 Champ d'application",
+            "paragraphs": [
+              "1.1 Avant d'utiliser le logiciel, veuillez lire attentivement le présent Contrat, en particulier les clauses essentielles en gras, y compris les exclusions de responsabilité, le droit applicable et le règlement des litiges. Si vous n'acceptez pas une condition, veuillez cesser immédiatement d'utiliser le logiciel.",
+              "1.2 Ce logiciel est principalement destiné aux adultes. Les mineurs doivent obtenir le consentement de leur représentant légal avant d'utiliser ce logiciel et doivent l'utiliser sous la supervision de celui-ci. Le représentant légal doit remplir ses devoirs de tutelle conformément à la loi.",
+              "1.3 Le présent Contrat inclut les règles de la plateforme telles que les annonces, les règles d'activité et les notifications intégrées à l'application publiées par ce logiciel. Toutes les règles de la plateforme font partie intégrante du présent Contrat et ont la même valeur juridique que celui-ci.",
+              "1.4 En vous enregistrant, en vous connectant ou en utilisant ce logiciel, vous êtes réputé avoir lu, compris et accepté d'être lié par le présent Contrat.",
+              "1.5 Tous les droits de propriété intellectuelle relatifs à ce logiciel et tous les droits non expressément accordés aux utilisateurs sont réservés au concédant."
+            ]
+          },
+          {
+            "key": "agreement-section-2",
+            "title": "2 Ce logiciel et services associés",
+            "paragraphs": [
+              "2.1 Ce logiciel est un outil auxiliaire pour les scénarios de diffusion en direct, fournissant des fonctionnalités telles que la diffusion en direct, la configuration de scènes virtuelles, le détourage IA, les effets de visage et les filtres de beauté. Les services et fonctionnalités spécifiques sont sujets à l'affichage réel du produit.",
+              "2.2 Vous ne pouvez obtenir le client que par les canaux officiels (Apple App Store ou Google Play Store). Tous les risques et pertes résultant de l'utilisation de versions non officielles sont à votre charge.",
+              "2.3 Pour utiliser ce logiciel, vous devez disposer de votre propre appareil terminal et d'une connexion réseau, et supporter les frais d'accès à Internet et de données associés. Le fonctionnement complet nécessite une connexion Internet.",
+              "2.4 Le concédant vous accorde une licence personnelle, non commerciale, non transférable, révocable et non exclusive pour utiliser le logiciel. Sans autorisation écrite préalable du concédant, il vous est interdit de modifier, copier, distribuer, refléter, extraire, vendre ou utiliser le logiciel à des fins commerciales.",
+              "2.5 Le concédant a le droit de mettre à niveau, d'ajuster, de suspendre ou de mettre fin à tout ou partie des services en fonction de l'optimisation du produit, de la maintenance de la sécurité, des opérations de conformité et d'autres besoins. Vous pouvez choisir de mettre à jour le client ; le refus de mise à jour peut entraîner une limitation des fonctionnalités. Vous avez le droit de désinstaller l'application à tout moment pour mettre fin au service.",
+              "2.6 Achats et abonnements",
+              "2.6.1 Toutes les fonctionnalités payantes, les achats et les abonnements au sein de ce logiciel sont effectués via le système de paiement de l'Apple App Store ou de Google Play, et ces transactions sont également soumises aux conditions de service de la plateforme respective.",
+              "2.6.2 Règles d'abonnement",
+              "(1) Renouvellement automatique : les services d'abonnement seront automatiquement facturés au moins 24 heures avant la fin de la période de service en cours, et le système de la plateforme enverra des rappels de renouvellement. Vous pouvez consulter, gérer et annuler le renouvellement automatique à tout moment en vous rendant sur la page « Réglages > Compte > Abonnements » de votre appareil (le chemin peut varier selon la plateforme).",
+              "(2) Changements de prix : si nous ajustons les prix des abonnements, nous vous en informerons au moins 30 jours avant l'entrée en vigueur du nouveau prix, par le biais d'annonces dans l'application, du site officiel ou d'autres moyens raisonnables. Les changements de prix n'affecteront pas la période d'abonnement en cours. Lorsque la loi locale exige un consentement supplémentaire de l'utilisateur, nous nous conformerons à la loi.",
+              "(3) Essai gratuit : si un essai gratuit est proposé, veuillez désactiver le renouvellement automatique au moins 24 heures avant la fin de la période d'essai pour éviter d'être facturé.",
+              "2.6.3 Remboursements régionaux et droit de rétractation légal",
+              "(1) Utilisateurs de l'Union européenne, de l'Espace économique européen et du Royaume-Uni : conformément aux lois locales de protection des consommateurs, vous disposez d'un droit de rétractation légal de 14 jours sans motif. Voir la politique de remboursement de VicastCam pour plus de détails. Les demandes de rétractation et de remboursement doivent être soumises via le canal officiel (App Store ou Google Play) utilisé pour votre achat, et les remboursements sont soumis aux règles de la plateforme et à la loi locale. Si vous avez utilisé le service pendant la période de réflexion de 14 jours, le remboursement sera calculé proportionnellement en fonction de l'utilisation réelle. Une fois la rétractation effective, vos droits d'utilisation payants prendront fin immédiatement.",
+              "(2) Paiement unique et services à vie : si vous confirmez explicitement l'activation immédiate du service et renoncez au droit de rétractation de 14 jours, le droit de rétractation sans motif ne s'appliquera plus.",
+              "(3) Toutes les autres régions : les remboursements et les problèmes après-vente sont principalement régis par les règles officielles de la plateforme utilisée pour votre achat.",
+              "2.6.4 Règles d'utilisation des avantages payants",
+              "(1) Les services et avantages payants sont réservés à un usage personnel uniquement.",
+              "(2) Il vous est interdit de fournir des avantages payants à des tiers par le biais de dons, de prêts, de locations, de reventes ou de partage en masse.",
+              "2.7 Frais, adhésion et règles d'utilisation commerciale",
+              "2.7.1 Le concédant a le droit de facturer des frais pour le logiciel et les services réseau associés conformément à la loi. Vous êtes responsable de tous les coûts matériels, logiciels et réseau nécessaires à l'utilisation, et vous devez payer les frais de service correspondants à temps.",
+              "2.7.2 Vous devez remplir vos obligations fiscales conformément à la loi et supporter toutes les taxes découlant de l'utilisation des services. Il vous est interdit d'utiliser les services payants de manière frauduleuse.",
+              "2.7.3 Nous pouvons ajuster le système d'adhésion ou mettre fin aux services d'adhésion en fonction de besoins opérationnels légitimes. Si un compte est banni ou résilié en raison de violations, les frais payés ne seront pas remboursés.",
+              "2.7.4 Si vous devez utiliser ce logiciel à des fins commerciales, vous devez en faire la demande au concédant à l'avance et obtenir une licence d'utilisation commerciale officielle.",
+              "2.7.5 Il vous est interdit d'utiliser ce logiciel pour diffuser du contenu pornographique ou illégal à des fins lucratives."
+            ]
+          },
+          {
+            "key": "agreement-section-3",
+            "title": "3 Gestion du compte",
+            "paragraphs": [
+              "3.1 Vous pouvez créer un compte vous-même ou utiliser un compte de plateforme tiers légitime pour vous connecter. Les comptes tiers doivent être vérifiés avec des informations réelles et se conformer aux règles de la plateforme. Vous êtes responsable de la sauvegarde de votre compte et de votre mot de passe, ainsi que de toutes les actions effectuées sous votre compte.",
+              "3.2 Conformément aux exigences mondiales de supervision du réseau et d'enregistrement en nom réel, vous devez fournir des informations d'identité et des coordonnées (telles que l'e-mail) vraies, exactes et valides lors de l'enregistrement. Si les informations sont fausses ou douteuses, le concédant a le droit d'exiger une correction, de restreindre ou de mettre fin aux services. Certaines informations d'enregistrement ne peuvent pas être modifiées pour des raisons de vérification de sécurité.",
+              "3.3 Certaines fonctionnalités de base peuvent être utilisées sans connexion. Le fonctionnement complet et les services payants nécessitent un enregistrement, une connexion et une vérification d'identité.",
+              "3.4 Les informations du compte telles que le pseudonyme, l'avatar et la biographie ne doivent pas usurper les noms, marques, portraits ou autres droits légaux d'autrui, et ne doivent pas contenir de contenu illégal, vulgaire ou trompeur. Le concédant a le droit de vérifier les informations du compte et de prendre des mesures telles que la réinitialisation, la restriction des fonctions ou le bannissement du compte en cas de violation.",
+              "3.5 Les comptes sont réservés à un usage personnel et peuvent être connectés sur des appareils que vous contrôlez légalement. Le don, le prêt, la location, le transfert ou la vente de comptes est interdit. Si l'utilisateur s'avère ne pas être le titulaire du compte, le concédant a le droit de suspendre ou de mettre fin aux services.",
+              "3.6 Vous êtes responsable de la sécurité et de la confidentialité de votre compte et assumez l'entière responsabilité légale de toutes les opérations, contenus et actions effectués sous votre compte.",
+              "3.7 Si votre compte est volé ou si vous oubliez votre mot de passe, vous pouvez le récupérer via le canal de recours officiel.",
+              "3.7.1 Si votre compte est volé, des informations sont divulguées ou des biens sont perdus en raison d'une mauvaise conservation, d'une perte d'appareil ou de la divulgation volontaire des identifiants de compte, vous en assumez l'entière responsabilité.",
+              "3.7.2 Les services de récupération de compte ne vérifient que les informations stockées dans le système et ne peuvent pas déterminer la véritable identité de l'utilisateur. Vous assumez les risques associés. Si vous remarquez une activité anormale sur votre compte, veuillez contacter immédiatement le service client officiel.",
+              "3.8 Annulation du compte et traitement des données",
+              "3.8.1 Vous pouvez demander l'annulation de votre compte via « Moi > Réglages > Gestion du compte > Annuler le compte » dans le logiciel ou via l'e-mail officiel. Une vérification de propriété est requise avant l'annulation.",
+              "3.8.2 Après l'annulation du compte, une période de conservation des données de 30 jours est prévue (uniquement pour le rapprochement financier, le règlement des litiges et la vérification après-vente). Après cette période, une suppression physique définitive sera effectuée, à l'exception des enregistrements de transactions qui doivent être conservés conformément à la loi.",
+              "3.8.3 Après l'annulation du compte, le compte et les données ne peuvent pas être récupérés. Les obligations et responsabilités encourues pendant votre utilisation ne sont pas exonérées par l'annulation."
+            ]
+          },
+          {
+            "key": "agreement-section-4",
+            "title": "4 Conduite de l'utilisateur",
+            "paragraphs": [
+              "4.1 Vous vous engagez à respecter les lois mondiales sur la sécurité des réseaux, la propriété intellectuelle, les droits à l'image et la vie privée lors de l'utilisation de ce logiciel, et à respecter les droits légaux d'autrui. Sauf si la loi le permet ou si le concédant vous y autorise par écrit, les actes suivants sont interdits :",
+              "4.1.1 Télécharger ou diffuser des informations personnelles non autorisées, des secrets commerciaux ou du contenu portant atteinte aux droits.",
+              "4.1.2 Utiliser des astuces, des plugins ou des outils tiers pour interférer avec ou perturber le fonctionnement normal de ce logiciel.",
+              "4.1.3 Se livrer à des intrusions réseau illégales, au vol de données, à la diffusion de virus, à l'analyse de vulnérabilités, à la falsification de paquets réseau ou à d'autres cyberattaques.",
+              "4.1.4 Créer en masse des comptes de manière malveillante.",
+              "4.1.5 Effectuer de la rétro-ingénierie, décompiler, désassembler ou tenter de déchiffrer le code source de ce logiciel.",
+              "4.1.6 Créer ou diffuser du contenu pornographique, violent, diffamatoire ou illégal.",
+              "4.1.7 Faire la promotion du tabac, de l'alcool, des jeux d'argent, des armes ou des articles interdits.",
+              "4.1.8 Photographier, enregistrer ou diffuser secrètement les images, les voix ou les informations privées d'autrui sans autorisation, portant atteinte à ses droits à l'image ou à sa vie privée.",
+              "4.1.9 Tout autre acte violant les lois locales, le présent Contrat ou les règles de la plateforme.",
+              "4.1.10 Si vous violez le présent Contrat, le concédant a le droit de supprimer le contenu en violation sans préavis et d'imposer des sanctions telles que des avertissements, des interdictions de fonctionnalités, des interdictions d'appareil ou un bannissement permanent du compte, selon la gravité. Les utilisateurs en violation peuvent soumettre des recours via l'e-mail officiel, et le concédant a l'autorité de révision finale.",
+              "4.2 Lors de la création de contenu avec ce logiciel, il vous est interdit d'utiliser des matériaux, effets ou logos intégrés pour des marques, logos ou identifiants commerciaux de tiers (sauf pour votre propre contenu protégé par le droit d'auteur).",
+              "4.3 Vous ne devez pas utiliser ce logiciel pour publier ou diffuser du contenu violent, pornographique, diffamatoire, de doxxing, portant atteinte à la vie privée, du spam ou tout autre contenu violant les lois ou l'ordre public et les bonnes mœurs.",
+              "4.4 Le concédant a le droit de superviser et de vérifier le comportement des utilisateurs et peut exiger une rectification, supprimer du contenu, suspendre ou mettre fin aux services en cas de violation.",
+              "4.5 Restrictions spéciales des fonctionnalités",
+              "4.5.1 Caméra et diffusion en direct : avant d'utiliser les fonctionnalités de caméra, de diffusion en direct ou d'enregistrement d'écran, vous devez obtenir le consentement explicite de toutes les personnes filmées ou enregistrées. Il est strictement interdit d'utiliser ce logiciel pour la photographie secrète, l'enregistrement secret, la diffusion en direct illégale ou tout autre acte illégal. Vous assumez toutes les responsabilités associées.",
+              "4.5.2 Fonctionnalités IA : les droits de propriété intellectuelle des algorithmes, modèles, effets et matériaux visuels IA de ce logiciel appartiennent au concédant ou à des tiers partenaires. Vous ne pouvez les utiliser que pour une création personnelle, non commerciale et légale. Il vous est interdit de créer des deepfakes, de faux contenus audio/vidéo, des fraudes ou du contenu illégal.",
+              "4.5.3 Conformité régionale : vous devez strictement respecter les exigences réglementaires de votre pays/région concernant la diffusion en direct, la collecte de données biométriques et le contenu IA.",
+              "4.6 Si votre violation cause des pertes au concédant, les frais payés ne seront pas remboursés, et vous devez indemniser entièrement le concédant pour toutes les pertes économiques et de réputation."
+            ]
+          },
+          {
+            "key": "agreement-section-5",
+            "title": "5 Protection des informations personnelles",
+            "paragraphs": [
+              "5.1 Nous traitons strictement vos informations personnelles conformément au RGPD de l'UE, à la loi britannique sur la protection des données, à l'ordonnance de Hong Kong sur les données personnelles (vie privée) et aux réglementations mondiales sur la protection des données. Conformément à l'article 27 du RGPD, nous avons nommé des représentants locaux de conformité dans l'UE et au Royaume-Uni. Pour les coordonnées spécifiques, veuillez vous référer au document « RGPD et protection des données ».",
+              "5.2 Vous acceptez que le concédant puisse collecter, utiliser et stocker des informations personnelles conformément au présent Contrat et à la politique de confidentialité. La politique de confidentialité a la même valeur juridique que le présent Contrat.",
+              "5.3 Nous utilisons des technologies de sécurité telles que le chiffrement et l'anonymisation pour protéger vos informations personnelles contre les fuites, les altérations et les accès non autorisés.",
+              "5.4 Sans votre consentement explicite, nous ne partagerons pas vos informations personnelles avec des tiers, sauf dans les circonstances suivantes :",
+              "(1) Vous les divulguez vous-même à des tiers ;",
+              "(2) Exigé par la sécurité nationale, la sécurité publique, la santé publique et les exigences judiciaires ou administratives légales ;",
+              "(3) Pour protéger les droits et intérêts légaux majeurs de ce logiciel, d'autres utilisateurs ou de tiers, et conformément aux dispositions légales ;",
+              "(4) Informations obtenues à partir de sources publiques légitimes ;",
+              "(5) Autres circonstances stipulées par les lois et règlements.",
+              "5.5 Vous avez le droit légal de vous renseigner, de corriger, de supprimer et de retirer votre autorisation concernant vos informations personnelles. Pour les règles détaillées sur les informations personnelles, veuillez vous référer à la politique de confidentialité."
+            ]
+          },
+          {
+            "key": "agreement-section-6",
+            "title": "6 Plaintes et signalements",
+            "paragraphs": [
+              "6.1 Vous pouvez signaler un contenu en violation ou porter plainte pour des actes portant atteinte à vos droits via le client ou l'e-mail de contact officiel.",
+              "6.2 Si vos droits sont violés, vous pouvez soumettre une preuve de droits pour déposer une plainte. La partie concernée peut soumettre une preuve de propriété pour faire appel.",
+              "6.3 Nous effectuons généralement l'examen et fournissons une réponse dans les 15 jours ouvrables. Pour les cas complexes, nous vous tiendrons informé de l'avancement."
+            ]
+          },
+          {
+            "key": "agreement-section-7",
+            "title": "7 Traitement des manquements",
+            "paragraphs": [
+              "7.1 Si vous violez le présent Contrat, les règles de la plateforme ou les lois et règlements locaux, le concédant peut prendre des mesures telles que des avertissements, des restrictions de fonctionnalités, la suppression de contenu, la suspension du service ou le bannissement permanent du compte. Toutes les pertes résultant de ces mesures sont à votre charge, et le contenu et les données supprimés ne seront pas restaurés.",
+              "7.2 Si des activités illégales ou criminelles suspectées sont découvertes, le concédant conservera les preuves et les signalera aux autorités chargées de l'application de la loi et coopérera avec les enquêtes.",
+              "7.3 Si votre violation entraîne une réclamation de tiers contre le concédant, des sanctions administratives ou des pertes de réputation ou économiques, vous supporterez toutes les pertes du concédant."
+            ]
+          },
+          {
+            "key": "agreement-section-8",
+            "title": "8 Propriété intellectuelle",
+            "paragraphs": [
+              "8.1 Les droits de propriété intellectuelle du code, de l'interface, du texte, des images, de l'audio/vidéo, des effets, des marques et des logos de ce logiciel appartiennent au concédant.",
+              "8.2 Le concédant possède tous les droits sur les données et informations légitimes générées lors du fonctionnement du produit.",
+              "8.3 Sans autorisation écrite explicite du concédant, il vous est interdit d'utiliser, de copier, d'imiter ou d'enregistrer la marque « VicastCam », les marques, les noms de domaine, les logos, etc. Si vous causez des pertes par une utilisation non autorisée, vous assumerez l'entière responsabilité légale.",
+              "8.4 Ce logiciel comprend des composants logiciels distribués sous des licences open source et des licences tierces. Vous devez strictement respecter les conditions de licence correspondantes lors de l'utilisation de ces composants."
+            ]
+          },
+          {
+            "key": "agreement-section-9",
+            "title": "9 Conditions relatives aux mineurs",
+            "paragraphs": [
+              "9.1 Les mineurs doivent obtenir le consentement explicite de leur représentant légal avant d'utiliser ce logiciel et doivent l'utiliser sous la supervision de celui-ci. Les représentants légaux ont le droit de demander la restriction ou l'annulation du compte d'un utilisateur mineur.",
+              "9.2 Le concédant collecte soigneusement les informations personnelles des utilisateurs mineurs. Les représentants légaux doivent guider les mineurs pour protéger leur vie privée et leur sécurité en ligne.",
+              "9.3 Les représentants légaux doivent remplir leurs devoirs de tutelle conformément à la loi, guider les mineurs vers une utilisation saine d'Internet et prévenir la dépendance à Internet.",
+              "9.4 Les mineurs et leurs représentants légaux sont légalement responsables de toutes les actions et conséquences de l'utilisation par le mineur.",
+              "9.5 Les mineurs ne peuvent pas utiliser la caméra pour la diffusion en direct ou apparaître seuls dans des vidéos, et ne peuvent pas publier de contenu illégal ou vulgaire.",
+              "9.6 Si le concédant découvre qu'un mineur utilise le logiciel sans le consentement du représentant légal, il a le droit de restreindre ou de bannir directement le compte correspondant.",
+              "9.7 Les représentants légaux doivent conserver correctement les comptes et mots de passe de paiement pour éviter les frais non autorisés par les mineurs. Si vous avez des questions, veuillez contacter le service client officiel."
+            ]
+          },
+          {
+            "key": "agreement-section-10",
+            "title": "10 Exclusion de responsabilité",
+            "paragraphs": [
+              "10.1 Vous reconnaissez et acceptez expressément que votre utilisation de cette application est à vos propres risques. Dans la mesure maximale permise par la loi applicable, cette application et tous les services exécutés ou fournis par cette application sont fournis « tels quels » et « selon disponibilité », avec tous les défauts et sans garanties d'aucune sorte, et le concédant décline par les présentes toutes les garanties et conditions concernant cette application et tous les services, qu'elles soient expresses, implicites ou légales, y compris mais sans s'y limiter, les garanties et/ou conditions implicites de qualité marchande, de qualité satisfaisante, d'adéquation à un usage particulier, d'exactitude, de jouissance paisible et de non-contrefaçon de droits de tiers. Aucune information ou conseil oral ou écrit donné par le concédant ou ses représentants autorisés ne créera de garantie. Si cette application ou les services s'avèrent défectueux, vous assumez l'intégralité du coût de tout entretien, réparation ou correction nécessaire. Certaines juridictions n'autorisent pas l'exclusion des garanties implicites ou les limitations des droits légaux applicables des consommateurs, de sorte que les exclusions et limitations ci-dessus peuvent ne pas s'appliquer à vous.",
+              "10.2 Le concédant utilisera des technologies de sécurité standard de l'industrie pour assurer le fonctionnement stable des services. Dans la mesure permise par les lois et règlements, le concédant ne sera pas responsable de l'indemnisation pour les interruptions de service ou les anomalies temporaires de données causées par un cas de force majeure, des catastrophes naturelles, des guerres, des interdictions gouvernementales, des pannes de réseau, la maintenance du système, des attaques de pirates, des virus, des défaillances de services tiers, des anomalies d'appareil ou d'autres facteurs indépendants de la volonté du concédant.",
+              "10.3 Si les services sont suspendus ou interrompus en raison d'une maintenance du système, de mises à niveau de version, de rectifications de conformité ou d'ajustements commerciaux, nous fournirons un préavis raisonnable à l'avance via des annonces dans l'application et le site officiel.",
+              "10.4 Si votre appareil est endommagé ou des données sont perdues en raison de vos propres erreurs d'exploitation, de pannes d'appareil, de paramètres réseau incorrects ou d'une utilisation inappropriée de ce logiciel, vous supporterez toutes les pertes.",
+              "10.5 Nous avons le droit d'ajuster les fonctionnalités du service, de modifier le contenu du service ou de nettoyer les données du serveur en fonction d'opérations légitimes, de la sécurité du système, de la rectification de la conformité et d'autres raisons. Nous ne supprimerons pas les données des utilisateurs sans motif.",
+              "10.6 Limitation de responsabilité",
+              "Dans la mesure non interdite par la loi, le concédant ne sera en aucun cas responsable des dommages corporels ou de tout dommage accessoire, spécial, indirect ou consécutif, y compris mais sans s'y limiter, la perte de bénéfices, la perte de données, l'interruption d'activité ou tout autre dommage ou perte commerciale, découlant de ou liés à votre utilisation ou à votre incapacité à utiliser l'application sous licence, quel que soit le fondement de la responsabilité (contrat, délit ou autre), même si le concédant a été informé de la possibilité de tels dommages. Certaines juridictions n'autorisent pas la limitation de responsabilité pour les dommages corporels ou les dommages accessoires ou consécutifs, de sorte que cette limitation peut ne pas s'appliquer à vous.",
+              "Sauf dispositions impératives du droit local concernant les dommages corporels, la responsabilité totale du concédant pour tous les dommages ne dépassera pas 1 dollar américain (1,00 USD). Les limitations ci-dessus s'appliquent même si le remède ci-dessus ne remplit pas son objectif essentiel.",
+              "Pour les juridictions telles que l'Union européenne, l'Espace économique européen et le Royaume-Uni, cette clause de limitation de responsabilité s'appliquera strictement conformément aux lois locales de protection des consommateurs."
+            ]
+          },
+          {
+            "key": "agreement-section-11",
+            "title": "11 Dispositions diverses",
+            "paragraphs": [
+              "11.1 Droit applicable",
+              "Le présent Contrat et la relation entre vous et le concédant seront régis par les lois de la Région administrative spéciale de Hong Kong de la République populaire de Chine, à l'exclusion des dispositions relatives aux conflits de lois. La Convention des Nations Unies sur les contrats de vente internationale de marchandises ne s'applique pas au présent Contrat.",
+              "11.2 Règlement des litiges",
+              "Tout litige découlant du présent Contrat ou en relation avec celui-ci sera d'abord résolu par une négociation amiable. Si la négociation échoue, vous et le concédant acceptez de soumettre le litige aux tribunaux compétents de la Région administrative spéciale de Hong Kong de la République populaire de Chine.",
+              "Si vous êtes résident d'un État membre de l'UE, cette clause de juridiction n'affecte pas vos droits légaux en vertu des lois impératives locales de protection des consommateurs.",
+              "11.3 Modifications du Contrat",
+              "Le concédant a le droit de modifier le présent Contrat pendant les tests du produit et l'exploitation officielle, et publiera les modifications par des moyens raisonnables tels que des annonces dans l'application et le site officiel. Une fois publiées, les conditions modifiées deviennent une partie effective du présent Contrat et ont la même valeur juridique.",
+              "11.4 Relation entre les parties",
+              "Vous et le concédant êtes des sujets civils indépendants. Le présent Contrat ne constitue aucune relation juridique telle que mandat, partenariat, emploi, association ou coentreprise. Apple Inc. et Google LLC ne sont que des canaux de distribution et de paiement pour ce logiciel et ne participent pas au développement ou à l'exploitation de ce logiciel, et n'assument aucune responsabilité légale pour ce logiciel ou ses services.",
+              "11.5 Effet et résiliation",
+              "Le présent Contrat prend effet à la date à laquelle vous acceptez les conditions et créez un compte. Il prend fin lorsque le concédant met fin aux services ou que vous perdez le droit d'utiliser le logiciel. Après la résiliation, vos obligations et responsabilités pendant la durée d'utilisation restent en vigueur.",
+              "11.6 Titres",
+              "Les titres des sections du présent Contrat sont fournis à titre de commodité uniquement et n'affectent pas l'interprétation ou l'application des conditions.",
+              "11.7 Déclaration de droits d'auteur et de droits",
+              "Le droit d'auteur du texte du présent Contrat appartient au concédant. Le concédant a le droit de modifier le Contrat conformément aux lois, règlements et besoins commerciaux, et a le droit de l'interpréter légalement."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

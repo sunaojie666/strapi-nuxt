@@ -1,0 +1,116 @@
+{
+  "cards": [
+    {
+      "title": "如何新建直播间",
+      "tag_1": "手机端",
+      "tag_2": "新手教程"
+    },
+    {
+      "title": "认识VicastCam的抠像模式",
+      "tag_1": "手机端",
+      "tag_2": "功能教程"
+    },
+    {
+      "title": "如何使用VicastCam的图层功能",
+      "tag_1": "手机端",
+      "tag_2": "核心功能"
+    },
+    {
+      "title": "认识 VicastCam 电脑端",
+      "tag_1": "电脑端",
+      "tag_2": "新手教程"
+    },
+    {
+      "title": "苹果手机如何无线连接 VicastCam",
+      "tag_1": "苹果端",
+      "tag_2": "链接教程"
+    },
+    {
+      "title": "如何添加和使用本地素材",
+      "tag_1": "电脑端",
+      "tag_2": "使用教程"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "全球社区",
+        "title_main": "赋能全球直播",
+        "title_highlight": "铸就行业信赖标杆",
+        "desc": "深耕全球 150 个国家和地区，陪伴万千主播从入门进阶为专业直播创作者",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "国家"
+          },
+          {
+            "number": "2000+",
+            "name": "活跃主播"
+          },
+          {
+            "number": "5000+",
+            "name": "热度提升"
+          },
+          {
+            "number": "99.9%",
+            "name": "稳定性"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "zh",
+        "faq_section": {
+          "tag": "常见问题",
+          "title_main": "有疑问吗？",
+          "title_highlight": "我们有解答。",
+          "description": "关于VicastCam的常见问题都在下方，没有找到你想要的答案？请联系我们的团队",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "我可以用VicastCam在哪些平台进行直播？",
+              "answer": "VicastCam支持在YouTube、Twitch、TikTok、Facebook Live、Instagram等主流平台推流直播。"
+            },
+            {
+              "id": "q2",
+              "question": "VicastCam的抠图效果需要绿幕吗？",
+              "answer": "不需要。VicastCam采用AI智能抠图，无需绿幕即可实现实时背景替换。"
+            },
+            {
+              "id": "q3",
+              "question": "我可以用手机使用VicastCam吗？",
+              "answer": "可以。VicastCam支持iOS和Android，所有专业功能都能在手机上使用。"
+            },
+            {
+              "id": "q4",
+              "question": "VicastCam的稳定性如何？",
+              "answer": "VicastCam拥有99.9%的稳定性，支持全球主播7x24小时不间断直播。"
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam支持多机位直播吗？",
+              "answer": "支持。直播过程中可无缝切换多个机位，轻松实现专业直播效果。"
+            }
+          ],
+          "view_more": {
+            "text": "查看更多"
+          }
+        }
+      }
+    }
+  ],
+  "tutorials": [
+    {
+      "data": {
+        "sectionTag": "教程中心",
+        "titleMain": "开启您的VicastCam",
+        "titleHighlight": "学习之旅",
+        "description": "让您充分掌握软件使用方法，更快上手软件",
+        "buttonText": "查看更多"
+      }
+    }
+  ]
+}

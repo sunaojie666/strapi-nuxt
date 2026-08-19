@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Historia zakupów",
+    "title": "Historia zakupów",
+    "tabTitle": "Zakupy",
+    "exchangeTabTitle": "Wymiany",
+    "tableHeaders": {
+      "title": "Typ",
+      "date": "Czas płatności",
+      "price": "Kwota",
+      "paymentMethod": "Metoda płatności",
+      "status": "Status",
+      "exchangeDate": "Czas wymiany",
+      "exchangeCode": "Kod wymiany"
+    },
+    "exchangeTableHeaders": {
+      "date": "Czas wymiany",
+      "code": "Kod wymiany"
+    },
+    "cardTypes": {
+      "month": "Karnet miesięczny",
+      "year": "Karnet roczny",
+      "life": "Karnet dożywotni",
+      "default": "Karnet członkowski"
+    },
+    "orderStatuses": {
+      "pending": "Oczekuje na płatność",
+      "paid": "Opłacono",
+      "closed": "Zamknięto",
+      "refunded": "Zwrócono",
+      "unknown": "Nieznany"
+    },
+    "secretLabels": {
+      "show": "Pokaż hasło",
+      "hide": "Ukryj hasło"
+    },
+    "secretMask": "******",
+    "emptyText": "Brak rekordów zakupów",
+    "exchangeEmptyText": "Brak rekordów wymian",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Karta bankowa",
+      "creditcard": "Karta kredytowa",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Kryptowaluta",
+      "balance": "Saldo",
+      "free": "Bezpłatnie"
+    }
+  },
+  "team": {
+    "ariaLabel": "Mój zespół",
+    "title": "Mój zespół",
+    "referrerLabel": "Mój polecający",
+    "levelOne": "Członkowie poziomu 1",
+    "levelTwo": "Członkowie poziomu 2",
+    "tableHeaders": {
+      "name": "Nazwa członka",
+      "status": "Status członkostwa",
+      "joinedAt": "Data dołączenia"
+    },
+    "memberStatus": {
+      "free": "Użytkownik bezpłatny",
+      "vip": "Użytkownik VIP"
+    },
+    "emptyMemberName": "Użytkownik bez nazwy",
+    "emptyReferrer": "Brak polecającego",
+    "emptyTeam": "Brak członków zespołu",
+    "errors": {
+      "loadFail": "Nie udało się załadować członków zespołu. Spróbuj ponownie później."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Centrum zarobków",
+    "title": "Przegląd zarobków",
+    "commissionTitle": "Szczegóły prowizji",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Łączne zarobki",
+        "desc": "Łączna prowizja zarobiona do tej pory"
+      },
+      {
+        "key": "month",
+        "title": "Ten miesiąc",
+        "desc": "Prowizja zarobiona w tym miesiącu"
+      },
+      {
+        "key": "settling",
+        "title": "Oczekujące na rozliczenie",
+        "value": "0.00",
+        "desc": "Kwota oczekująca na rozliczenie"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Do wypłaty",
+        "desc": "Kwota aktualnie dostępna do wypłaty",
+        "action": "Wypłać"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nazwa użytkownika",
+      "saleTime": "Czas sprzedaży",
+      "goodsInfo": "Produkt",
+      "commission": "Prowizja"
+    },
+    "emptyCommission": "Brak rekordów prowizji",
+    "errors": {
+      "loadFail": "Nie udało się załadować szczegółów prowizji. Spróbuj ponownie później."
+    },
+    "withdraw": {
+      "ariaLabel": "Wniosek o wypłatę",
+      "title": "Wniosek o wypłatę",
+      "closeLabel": "Zamknij okno wypłaty",
+      "balanceLabel": "Saldo do wypłaty",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Kwota wypłaty",
+      "amountPlaceholder": "Wpisz kwotę wypłaty",
+      "allButton": "Wszystko",
+      "allAmountValue": "0.00",
+      "amountTip": "Sprawdź poprawność kwoty. Po przesłaniu wniosek zostanie zweryfikowany ręcznie.",
+      "methodLabel": "Metoda wypłaty",
+      "methods": [
+        "Karta bankowa",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Karta bankowa",
+      "nameLabel": "Nazwa odbiorcy",
+      "namePlaceholder": "Wpisz nazwę odbiorcy",
+      "defaultName": "",
+      "bankCardLabel": "Numer konta",
+      "bankCardPlaceholder": "Wpisz numer karty bankowej, e-mail PayPal lub adres portfela",
+      "remarkLabel": "Uwagi",
+      "remarkPlaceholder": "Dodaj dodatkowe notatki",
+      "note": "Wnioski o wypłatę są przetwarzane w ciągu 1-3 dni roboczych.",
+      "cancelButton": "Anuluj",
+      "submitButton": "Wyślij wniosek"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Wymiana zakończona sukcesem",
+    "operationFailed": "Wymiana nie powiodła się",
+    "invalidCard": "Nieprawidłowy kod wymiany",
+    "cardNotFound": "Nie znaleziono kodu wymiany",
+    "cardDisabled": "Kod wymiany jest wyłączony",
+    "cardExpired": "Kod wymiany wygasł"
+  },
+  "successMessage": "Operacja zakończona sukcesem"
+}

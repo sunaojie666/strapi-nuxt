@@ -1,0 +1,42 @@
+{
+  "complete": true,
+  "slot": "2",
+  "results": [
+    {
+      "locale": "id",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 7,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-25-05-945Z\\id.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ja",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 37,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-25-05-945Z\\ja.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "nl",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "issueCount": 42,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-25-05-945Z\\nl.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    }
+  ]
+}

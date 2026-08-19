@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "การตั้งค่าคอมพิวเตอร์",
+      "count": "7 บทเรียน",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "เริ่มต้นใช้งาน VicastCam",
+          "description": "ภาพรวมของอินเทอร์เฟซและฟีเจอร์หลัก",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "เชื่อมต่อแบบมีสาย – iPhone",
+          "description": "เชื่อมต่อ iPhone ของคุณกับ VicastCam โดยใช้สาย",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "เชื่อมต่อไร้สาย – iPhone",
+          "description": "เชื่อมต่อ iPhone ของคุณกับ VicastCam ผ่าน Wi-Fi",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "เชื่อมต่อแบบมีสาย – Android",
+          "description": "เชื่อมต่ออุปกรณ์ Android ของคุณกับ VicastCam โดยใช้สาย",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "เชื่อมต่อไร้สาย – Android",
+          "description": "เชื่อมต่ออุปกรณ์ Android ของคุณกับ VicastCam ผ่าน Wi-Fi",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "เพิ่มและใช้สื่อในเครื่อง",
+          "description": "นำเข้าและใช้ไฟล์สื่อในเครื่องสำหรับโปรเจกต์ของคุณ",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "สิ่งที่ต้องทำหลังเชื่อมต่อ",
+          "description": "เริ่มสตรีมของคุณทันทีที่อุปกรณ์เชื่อมต่อแล้ว",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

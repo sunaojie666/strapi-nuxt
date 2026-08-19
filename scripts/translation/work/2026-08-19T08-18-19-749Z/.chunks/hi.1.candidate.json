@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "खाता केंद्र",
+    "description": "VicastCam खाता केंद्र पृष्ठ"
+  },
+  "common": {
+    "sidebarAriaLabel": "खाता नेविगेशन",
+    "defaultProfileName": "उपयोगकर्ता",
+    "emptyContent": "कोई सामग्री नहीं",
+    "copyButtonLabel": "कॉपी करें",
+    "monthSelectLabel": "महीना चुनें",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "उपयोगकर्ता जानकारी नहीं मिली। कृपया फिर से लॉग इन करें।",
+    "paginationLabel": "पेजिनेशन",
+    "previousPageLabel": "पिछला पेज",
+    "nextPageLabel": "अगला पेज",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "पेज पर जाएं",
+      "unit": "पेज",
+      "ariaLabel": "किसी विशिष्ट पेज पर जाएं",
+      "buttonLabel": "जाएं"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "खाता केंद्र",
+    "logout": "लॉग आउट",
+    "profileAriaSuffix": "खाता मेनू"
+  },
+  "sidebar": {
+    "ariaLabel": "खाता नेविगेशन",
+    "menus": {
+      "account": "खाता जानकारी",
+      "membership": "सदस्यता",
+      "redeem": "कोड रिडीम करें",
+      "purchaseHistory": "खरीद इतिहास",
+      "team": "मेरी टीम",
+      "earnings": "कमाई"
+    }
+  },
+  "account": {
+    "ariaLabel": "खाता जानकारी",
+    "profileTitle": "खाता जानकारी",
+    "usernameLabel": "उपयोगकर्ता नाम",
+    "passwordLabel": "पासवर्ड",
+    "passwordMask": "********",
+    "defaultUsername": "कोई उपनाम सेट नहीं",
+    "emailLabel": "लिंक किया गया ईमेल",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें",
+    "codePlaceholder": "सत्यापन कोड दर्ज करें",
+    "sendCodeButton": "कोड प्राप्त करें",
+    "bindButton": "ईमेल लिंक करें",
+    "alreadyBound": "लिंक किया गया",
+    "unboundEmail": "लिंक नहीं किया गया",
+    "emailBindTip": "एक बार लिंक करने के बाद, ईमेल बदला नहीं जा सकता। कृपया सुनिश्चित करें कि ईमेल पता सही है।",
+    "emailRequired": "कृपया एक मान्य ईमेल दर्ज करें",
+    "codeRequired": "कृपया सत्यापन कोड दर्ज करें",
+    "codeSent": "सत्यापन कोड भेज दिया गया है। अपना ईमेल जांचें।",
+    "bindSuccess": "ईमेल सफलतापूर्वक लिंक हो गया",
+    "bindFailed": "ईमेल लिंक करने में विफल। कोड जांचें और पुनः प्रयास करें।",
+    "requestFailed": "अनुरोध विफल। कृपया बाद में पुनः प्रयास करें।",
+    "inviteTitle": "इनवाइट लिंक",
+    "inviteDescription": "अपना व्यक्तिगत इनवाइट लिंक कॉपी करें। जब मित्र पंजीकरण करें और सदस्यता खरीदें, तो आपको पुरस्कार मिलते हैं।",
+    "emptyInviteLink": "कोई इनवाइट लिंक उपलब्ध नहीं"
+  }
+}

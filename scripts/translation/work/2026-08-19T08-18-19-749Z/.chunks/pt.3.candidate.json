@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Histórico de compras",
+    "title": "Histórico de compras",
+    "tabTitle": "Compras",
+    "exchangeTabTitle": "Resgates",
+    "tableHeaders": {
+      "title": "Tipo",
+      "date": "Data de pagamento",
+      "price": "Montante",
+      "paymentMethod": "Método de pagamento",
+      "status": "Estado",
+      "exchangeDate": "Data de resgate",
+      "exchangeCode": "Código de resgate"
+    },
+    "exchangeTableHeaders": {
+      "date": "Data de resgate",
+      "code": "Código de resgate"
+    },
+    "cardTypes": {
+      "month": "Cartão mensal",
+      "year": "Cartão anual",
+      "life": "Cartão vitalício",
+      "default": "Cartão de membro"
+    },
+    "orderStatuses": {
+      "pending": "Pagamento pendente",
+      "paid": "Pago",
+      "closed": "Fechado",
+      "refunded": "Reembolsado",
+      "unknown": "Desconhecido"
+    },
+    "secretLabels": {
+      "show": "Mostrar palavra-passe",
+      "hide": "Ocultar palavra-passe"
+    },
+    "secretMask": "******",
+    "emptyText": "Ainda não existem registos de compras",
+    "exchangeEmptyText": "Ainda não existem registos de resgates",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Cartão bancário",
+      "creditcard": "Cartão de crédito",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Criptomoeda",
+      "balance": "Saldo",
+      "free": "Grátis"
+    }
+  },
+  "team": {
+    "ariaLabel": "A minha equipa",
+    "title": "A minha equipa",
+    "referrerLabel": "O meu indicador",
+    "levelOne": "Membros de nível 1",
+    "levelTwo": "Membros de nível 2",
+    "tableHeaders": {
+      "name": "Nome do membro",
+      "status": "Estado de membro",
+      "joinedAt": "Data de adesão"
+    },
+    "memberStatus": {
+      "free": "Utilizador gratuito",
+      "vip": "Utilizador VIP"
+    },
+    "emptyMemberName": "Utilizador sem nome",
+    "emptyReferrer": "Sem indicador",
+    "emptyTeam": "Ainda não existem membros na equipa",
+    "errors": {
+      "loadFail": "Não foi possível carregar os membros da equipa. Tente novamente mais tarde."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Centro de ganhos",
+    "title": "Resumo de ganhos",
+    "commissionTitle": "Detalhes de comissão",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Ganhos totais",
+        "desc": "Comissão total ganha até à data"
+      },
+      {
+        "key": "month",
+        "title": "Este mês",
+        "desc": "Comissão ganha este mês"
+      },
+      {
+        "key": "settling",
+        "title": "Em liquidação",
+        "value": "0.00",
+        "desc": "Montante em liquidação"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Levantável",
+        "desc": "Montante atualmente disponível para levantamento",
+        "action": "Levantar"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nome de utilizador",
+      "saleTime": "Data de venda",
+      "goodsInfo": "Produto",
+      "commission": "Comissão"
+    },
+    "emptyCommission": "Ainda não existem registos de comissão",
+    "errors": {
+      "loadFail": "Não foi possível carregar os detalhes de comissão. Tente novamente mais tarde."
+    },
+    "withdraw": {
+      "ariaLabel": "Pedido de levantamento",
+      "title": "Pedido de levantamento",
+      "closeLabel": "Fechar diálogo de levantamento",
+      "balanceLabel": "Saldo levantável",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Montante a levantar",
+      "amountPlaceholder": "Introduza o montante a levantar",
+      "allButton": "Tudo",
+      "allAmountValue": "0.00",
+      "amountTip": "Confirme que o montante está correto. O seu pedido será analisado manualmente após o envio.",
+      "methodLabel": "Método de levantamento",
+      "methods": [
+        "Cartão bancário",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Cartão bancário",
+      "nameLabel": "Nome do beneficiário",
+      "namePlaceholder": "Introduza o nome do beneficiário",
+      "defaultName": "",
+      "bankCardLabel": "Número de conta",
+      "bankCardPlaceholder": "Introduza o número do cartão bancário, e-mail PayPal ou endereço de carteira",
+      "remarkLabel": "Observações",
+      "remarkPlaceholder": "Adicione notas adicionais",
+      "note": "Os pedidos de levantamento são processados em 1-3 dias úteis.",
+      "cancelButton": "Cancelar",
+      "submitButton": "Submeter pedido"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Resgate bem-sucedido",
+    "operationFailed": "Falha no resgate",
+    "invalidCard": "Código de resgate inválido",
+    "cardNotFound": "Código de resgate não encontrado",
+    "cardDisabled": "Código de resgate desativado",
+    "cardExpired": "Código de resgate expirado"
+  },
+  "successMessage": "Operação bem-sucedida"
+}

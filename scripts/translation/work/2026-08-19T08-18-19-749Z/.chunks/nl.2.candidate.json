@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Lidmaatschap",
+    "title": "Mijn lidmaatschap",
+    "badgeAlt": "Lidmaatschapsbadge",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Gratis gebruiker",
+    "activeVipName": "VIP-lid",
+    "expirePrefix": "Verloopt op",
+    "emptyExpireDate": "Niet geactiveerd",
+    "activeStatus": "Actief",
+    "inactiveStatus": "Inactief",
+    "compareTitle": "Abonnementen vergelijken",
+    "compareHeaders": {
+      "feature": "Functie",
+      "normal": "Gratis",
+      "month": "Maandelijks",
+      "year": "Jaarlijks",
+      "life": "Levenslang"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Maandelijks",
+        "subtitle": "Geschikt voor kort gebruik",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/maand",
+        "cta": "Aan de slag",
+        "benefits": [
+          "Basis virtuele camerafuncties",
+          "Virtuele achtergronden en schoonheidsfilters",
+          "Streamen naar meerdere platforms",
+          "Standaard updates"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Jaarlijks",
+        "subtitle": "Betere prijs voor langdurig gebruik",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/jaar",
+        "cta": "Aan de slag",
+        "benefits": [
+          "Alles uit het maandabonnement",
+          "Alle premiumfuncties voor een jaar",
+          "Prioriteit bij functie-updates",
+          "Speciale ondersteuning voor leden"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Levenslang",
+        "subtitle": "Betaal eenmalig, gebruik voor altijd",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/levenslang",
+        "cta": "Aan de slag",
+        "benefits": [
+          "Alles uit het jaarabonnement",
+          "Premiumfuncties voor altijd",
+          "Updates op lange termijn",
+          "Exclusief ondersteuningskanaal"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Lidmaatschapsduur",
+        "normal": "Gratis voor altijd",
+        "month": "30 dagen",
+        "year": "365 dagen",
+        "life": "Levenslang"
+      },
+      {
+        "feature": "Desktop virtuele camera",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Aangepaste virtuele achtergronden",
+        "normal": "1 set",
+        "month": "Onbeperkt",
+        "year": "Onbeperkt",
+        "life": "Onbeperkt"
+      },
+      {
+        "feature": "Streamingvoorinstellingen",
+        "normal": "Nee",
+        "month": "Onbeperkt",
+        "year": "Onbeperkt",
+        "life": "Onbeperkt"
+      },
+      {
+        "feature": "Officiële assets",
+        "normal": "Beperkt",
+        "month": "Onbeperkt",
+        "year": "Onbeperkt",
+        "life": "Onbeperkt"
+      },
+      {
+        "feature": "Bediening op afstand via controller",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Scènevergelijkingsmodus",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Scène-ondertitels",
+        "normal": "Beperkt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Scènemuziek",
+        "normal": "Beperkt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Meerdere camera-ingangen",
+        "normal": "Nee",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Geavanceerde schoonheidsfilters",
+        "normal": "Basis",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "AI-greenscreen-matten",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Bewegingsanimaties",
+        "normal": "Beperkt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Scènecameraeffecten",
+        "normal": "Beperkt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "VIP-effectbibliotheek",
+        "normal": "Beperkt",
+        "month": "Onbeperkt",
+        "year": "Onbeperkt",
+        "life": "Onbeperkt"
+      },
+      {
+        "feature": "Streamen naar platforms",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "4K-uitvoer",
+        "normal": "Nee",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Verwijzingscommissie",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Sub-affiliate korting",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Ondersteuningskanaal",
+        "normal": "Community zelfhulp",
+        "month": "Standaard wachtrij",
+        "year": "Prioriteit bij reactie",
+        "life": "Speciale ondersteuning"
+      },
+      {
+        "feature": "Vroege toegang tot nieuwe functies",
+        "normal": "Nee",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Code inwisselen",
+    "title": "Code inwisselen",
+    "tip": "Voer je lidmaatschapsinwisselcode in. Je lidmaatschap wordt direct na het inwisselen geactiveerd.",
+    "placeholder": "Voer inwisselcode in",
+    "submitButton": "Inwisselen",
+    "agreementPrefix": "Door in te wisselen ga je akkoord met de",
+    "userProtocolText": "Gebruikersovereenkomst",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Inwisselen mislukt. Controleer de code en probeer het opnieuw."
+    }
+  }
+}

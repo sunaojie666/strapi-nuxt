@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Trợ giúp Android & iOS",
+    "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam trên Android và iOS, bao gồm thiết lập tài khoản, quyền truy cập phương tiện, kết nối mạng và các vấn đề hiển thị khi phát trực tiếp.",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "Trợ giúp VicastCam",
+    "titleHighlight": "Tìm câu trả lời nhanh chóng",
+    "description": "Chọn hướng dẫn Android hoặc iOS để xem các sự cố thường gặp và giải pháp cho thiết bị của bạn."
+  },
+  "content": {
+    "sectionAriaLabel": "FAQ",
+    "catalogAriaLabel": "Danh mục câu hỏi",
+    "answerLabel": "Câu trả lời",
+    "questionProgressTemplate": "{group} · Câu hỏi {current} trên {total}"
+  }
+}

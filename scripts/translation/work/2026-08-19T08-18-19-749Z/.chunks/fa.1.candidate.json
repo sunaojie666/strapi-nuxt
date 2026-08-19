@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "مرکز حساب کاربری",
+    "description": "صفحه مرکز حساب کاربری VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "ناوبری حساب",
+    "defaultProfileName": "کاربر",
+    "emptyContent": "محتوایی وجود ندارد",
+    "copyButtonLabel": "کپی",
+    "monthSelectLabel": "انتخاب ماه",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "اطلاعات کاربر یافت نشد. لطفاً دوباره وارد شوید.",
+    "paginationLabel": "صفحه‌بندی",
+    "previousPageLabel": "صفحه قبلی",
+    "nextPageLabel": "صفحه بعدی",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "برو به",
+      "unit": "صفحه",
+      "ariaLabel": "رفتن به صفحه خاص",
+      "buttonLabel": "برو"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "مرکز حساب کاربری",
+    "logout": "خروج",
+    "profileAriaSuffix": "منوی حساب"
+  },
+  "sidebar": {
+    "ariaLabel": "ناوبری حساب",
+    "menus": {
+      "account": "اطلاعات حساب",
+      "membership": "عضویت",
+      "redeem": "کد تخفیف",
+      "purchaseHistory": "تاریخچه خرید",
+      "team": "تیم من",
+      "earnings": "درآمد"
+    }
+  },
+  "account": {
+    "ariaLabel": "اطلاعات حساب",
+    "profileTitle": "اطلاعات حساب",
+    "usernameLabel": "نام کاربری",
+    "passwordLabel": "رمز عبور",
+    "passwordMask": "********",
+    "defaultUsername": "نام مستعار تنظیم نشده",
+    "emailLabel": "ایمیل متصل",
+    "emailPlaceholder": "ایمیل خود را وارد کنید",
+    "codePlaceholder": "کد تأیید را وارد کنید",
+    "sendCodeButton": "دریافت کد",
+    "bindButton": "اتصال ایمیل",
+    "alreadyBound": "متصل شده",
+    "unboundEmail": "متصل نشده",
+    "emailBindTip": "پس از اتصال، ایمیل قابل تغییر نیست. لطفاً از صحت آدرس ایمیل اطمینان حاصل کنید.",
+    "emailRequired": "لطفاً یک ایمیل معتبر وارد کنید",
+    "codeRequired": "لطفاً کد تأیید را وارد کنید",
+    "codeSent": "کد تأیید ارسال شد. ایمیل خود را بررسی کنید.",
+    "bindSuccess": "ایمیل با موفقیت متصل شد",
+    "bindFailed": "اتصال ایمیل ناموفق بود. کد را بررسی کرده و دوباره تلاش کنید.",
+    "requestFailed": "درخواست ناموفق بود. لطفاً بعداً دوباره تلاش کنید.",
+    "inviteTitle": "لینک دعوت",
+    "inviteDescription": "لینک دعوت شخصی خود را کپی کنید. وقتی دوستان ثبت‌نام کرده و عضویت خریداری کنند، پاداش دریافت می‌کنید.",
+    "emptyInviteLink": "لینک دعوتی در دسترس نیست"
+  }
+}

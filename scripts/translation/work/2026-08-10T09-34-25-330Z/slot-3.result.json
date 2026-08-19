@@ -1,0 +1,24 @@
+{
+  "complete": true,
+  "slot": "3",
+  "results": [
+    {
+      "locale": "ms",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "$: object keys changed"
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation tr failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation hi failed after 3 attempts: translation hi returned invalid JSON: Unterminated string in JSON at position 15471 (line 105 column 270)"
+    }
+  ]
+}

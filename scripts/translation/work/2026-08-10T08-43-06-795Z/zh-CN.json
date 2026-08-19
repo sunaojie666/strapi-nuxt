@@ -1,0 +1,195 @@
+{
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "套餐价格",
+          "titleMain": "请选择你想要的",
+          "titleHighlight": "订阅计划",
+          "description": "免费试用，也可以选择其他套餐",
+          "priceAltSuffix": "价格",
+          "freePlanMessage": "免费用户无需购买",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "免费",
+              "description": "下载注册零门槛，基础功能免费畅用",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/月",
+              "priceNote": "",
+              "cta": "购买",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "支持单场景创意搭建",
+                "畅享四层图层自由布局",
+                "适配多款直播背景素材",
+                "支持电脑投屏基础画质",
+                "搭载原生自然美颜效果"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "月卡",
+              "description": "激活即享整月使用权，低门槛轻松体验",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/月",
+              "priceNote": "月卡30天使用权",
+              "cta": "购买",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "畅享手机端全量功能",
+                "开启电脑端投屏直播",
+                "解锁高清直播画质",
+                "启用进阶美颜效果",
+                "畅享海量专属直播特效"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "年卡",
+              "description": "年度超值特惠，性价比拉满更省钱",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/年",
+              "priceNote": "年卡365天使用权",
+              "cta": "购买",
+              "badgeText": "最受欢迎",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "畅享手机端全量功能",
+                "开启电脑端投屏直播",
+                "解锁高清直播画质",
+                "启用进阶美颜效果",
+                "畅享海量专属直播特效"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "终身卡",
+              "description": "一次购买永久使用，长期创作更安心",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "终身卡永久使用权",
+              "cta": "购买",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "畅享手机端全量功能",
+                "开启电脑端投屏直播",
+                "解锁高清直播画质",
+                "启用进阶美颜效果",
+                "畅享海量专属直播特效"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月卡",
+                "subtitle": "激活即享整月使用权，低门槛轻松体验",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "购买",
+                "benefits": [
+                  "畅享手机端全量功能",
+                  "开启电脑端投屏直播",
+                  "解锁高清直播画质",
+                  "启用进阶美颜效果",
+                  "畅享海量专属直播特效"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年卡",
+                "subtitle": "年度超值特惠，性价比拉满更省钱",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/年",
+                "cta": "购买",
+                "benefits": [
+                  "畅享手机端全量功能",
+                  "开启电脑端投屏直播",
+                  "解锁高清直播画质",
+                  "启用进阶美颜效果",
+                  "畅享海量专属直播特效"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "终身卡",
+                "subtitle": "一次购买永久使用，长期创作更安心",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "购买",
+                "benefits": [
+                  "畅享手机端全量功能",
+                  "开启电脑端投屏直播",
+                  "解锁高清直播画质",
+                  "启用进阶美颜效果",
+                  "畅享海量专属直播特效"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    }
+  ]
+}

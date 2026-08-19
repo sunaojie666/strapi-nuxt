@@ -1,0 +1,249 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginBox.loginPageTitle",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Use 'Iniciar Sessão / Criar Conta' instead of 'Registar' to match European Portuguese conventions for sign-up."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.codeLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Login com Código' for clarity and consistency with the tab context."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.pwdLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Login com Palavra-passe' for clarity and consistency with the tab context."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.qrLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Login com Código QR' for clarity and consistency with the tab context."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Li e aceito' instead of 'Li e concordo' for a more natural European Portuguese phrasing."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolPrefix",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Li e aceito' instead of 'Li e concordo' for consistency."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.agreeProtocolRequired",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'Leia e aceite' instead of 'Leia e aceite' (already correct) but ensure consistency with 'aceito' in other strings; consider 'Leia e aceite' is fine, but for consistency use 'Leia e aceite' as is."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Use 'transmissão de ecrã' instead of 'transmissão de ecrã' (already correct) but ensure consistency; it is fine."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Transferências' is acceptable, but 'Downloads' is also common; no change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Documentação da API' is fine; no change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Tutoriais em Vídeo' is fine; no change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Torne-se Revendedor' is fine; no change needed."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Use 'Pedidos Comerciais' is fine; no change needed."
+    },
+    {
+      "path": "$.navigations[0].nav_auth",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Use 'Iniciar Sessão / Criar Conta' instead of 'Registar' to match European Portuguese conventions."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "pt",
+          "loginTitle1": "Altere o seu fundo virtual instantaneamente",
+          "loginTitle2": "Transmita com impacto",
+          "loginDes1": "Uma ferramenta profissional de transmissão ao vivo com tecnologia AI",
+          "loginDes2": "Fundos virtuais, melhorias em direto e transmissão multi-plataforma simplificadas",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "Substituição de fundo em tempo real",
+          "featureTitle2": "Transmissão Multi-Plataforma",
+          "featureSubTitle2": "Comece a transmitir com um toque",
+          "featureTitle3": "Câmara Virtual",
+          "featureSubTitle3": "Transforme o seu telemóvel numa webcam",
+          "loginBox": {
+            "loginPageTitle": "Iniciar Sessão / Criar Conta",
+            "codeLoginTab": "Login com Código",
+            "pwdLoginTab": "Login com Palavra-passe",
+            "qrLoginTab": "Login com Código QR",
+            "emailInputPlaceholder": "Introduza o seu email para iniciar sessão",
+            "pwdInputPlaceholder": "Introduza a sua palavra-passe",
+            "verifyCodePlaceholder": "Introduza o código de verificação",
+            "getVerifyCodeText": "Obter Código",
+            "loginBtnText": "Iniciar Sessão",
+            "qrLoginTip": "Digitalize com a aplicação VicastCam para iniciar sessão",
+            "qrWaitingTip": "A aguardar confirmação da digitalização",
+            "agreeProtocolText": "Li e aceito a Política de Privacidade e o Acordo de Utilizador",
+            "userProtocolText": "Acordo de Utilizador",
+            "privacyPolicyText": "Política de Privacidade",
+            "agreeProtocolPrefix": "Li e aceito"
+          },
+          "toastBox": {
+            "closeToastLabel": "Fechar notificação",
+            "requestLoading": "A carregar...",
+            "requestSuccess": "Pedido concluído com sucesso",
+            "requestFail": "O pedido falhou",
+            "passwordLoginNotReady": "O início de sessão com palavra-passe ainda não está disponível",
+            "passwordRequired": "Introduza a sua palavra-passe",
+            "emailRequired": "Introduza o seu email para iniciar sessão",
+            "verifyCodeRequired": "Introduza o código de verificação",
+            "agreeProtocolRequired": "Leia e aceite primeiro a Política de Privacidade e o Acordo de Utilizador",
+            "qrcodeExpired": "O código QR expirou. Solicite um novo."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "pt",
+          "hero_section": {
+            "tag": "Ferramenta de transmissão ao vivo com tecnologia AI",
+            "title_main": "Efeitos de ecrã verde e transmissão de ecrã a partir do seu telemóvel",
+            "title_highlight": "A potenciar transmissões ao vivo em todo o mundo",
+            "description": "A VicastCam utiliza tecnologia avançada de AI matting para permitir que altere os seus fundos virtuais a qualquer momento durante a transmissão, adicionando efeitos imersivos que lhe conferem uma presença profissional em qualquer plataforma.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Descarregar"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Descarregar"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "A VicastCam oferece aos criadores fundos virtuais, melhorias para transmissões ao vivo e ferramentas multiplataforma."
+            },
+            "columns": [
+              {
+                "title": "Produto",
+                "links": [
+                  {
+                    "text": "Funcionalidades"
+                  },
+                  {
+                    "text": "Preços"
+                  },
+                  {
+                    "text": "Transferências"
+                  }
+                ]
+              },
+              {
+                "title": "Programadores",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Documentação da API"
+                  }
+                ]
+              },
+              {
+                "title": "Empresa",
+                "links": [
+                  {
+                    "text": "Sobre Nós"
+                  },
+                  {
+                    "text": "Política de Privacidade"
+                  },
+                  {
+                    "text": "Acordo de Utilizador"
+                  },
+                  {
+                    "text": "Acordo de Adesão"
+                  }
+                ]
+              },
+              {
+                "title": "Suporte",
+                "links": [
+                  {
+                    "text": "Tutoriais em Vídeo"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Contacte-nos"
+                  }
+                ]
+              },
+              {
+                "title": "Parcerias",
+                "links": [
+                  {
+                    "text": "Torne-se Revendedor"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Pedidos Comerciais"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Funcionalidades",
+        "nav_pricing": "Preços",
+        "nav_faq": "FAQ",
+        "nav_auth": "Iniciar Sessão / Criar Conta",
+        "nav_team": "Parcerias"
+      }
+    ]
+  }
+}

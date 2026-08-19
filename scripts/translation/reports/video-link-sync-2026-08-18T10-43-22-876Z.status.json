@@ -1,0 +1,127 @@
+{
+  "runId": "video-link-sync-2026-08-18T10-43-22-876Z",
+  "table": "videos",
+  "sourceLocale": "zh-CN",
+  "traditionalLocale": "zh-TW",
+  "lessonCount": 24,
+  "result": {
+    "en": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "zh-TW": {
+      "updated": 2,
+      "linkSource": "zh-CN"
+    },
+    "id": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ms": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "th": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "vi": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "fil": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "es": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "pt": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ar": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ja": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "tr": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "it": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "de": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "fr": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ko": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ru": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "pl": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "nl": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "hi": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "ur": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "bn": {
+      "updated": 2,
+      "linkSource": "en"
+    },
+    "fa": {
+      "updated": 2,
+      "linkSource": "en"
+    }
+  },
+  "verification": {
+    "en": true,
+    "zh-TW": true,
+    "id": true,
+    "ms": true,
+    "th": true,
+    "vi": true,
+    "fil": true,
+    "es": true,
+    "pt": true,
+    "ar": true,
+    "ja": true,
+    "tr": true,
+    "it": true,
+    "de": true,
+    "fr": true,
+    "ko": true,
+    "ru": true,
+    "pl": true,
+    "nl": true,
+    "hi": true,
+    "ur": true,
+    "bn": true,
+    "fa": true
+  },
+  "backupPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\.tmp\\translation-backups\\video-link-sync-2026-08-18T10-43-22-876Z.data.db"
+}

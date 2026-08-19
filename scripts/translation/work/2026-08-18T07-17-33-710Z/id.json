@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Pilih Metode Pembayaran",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Bayar dengan saldo PayPal, kartu bank, atau kartu kredit",
+            "secureBadge": "Pembayaran Aman",
+            "methodLabel": "Metode Pembayaran",
+            "accountLabel": "Akun Saat Ini",
+            "signInRequired": "Silakan masuk untuk melanjutkan pembelian Anda",
+            "signInAction": "Masuk",
+            "summaryHint": "Klik tombol PayPal untuk menyelesaikan pembayaran Anda",
+            "trustItems": [
+              "Pembayaran diproses secara aman oleh PayPal",
+              "Mendukung saldo PayPal, kartu bank, dan kartu kredit",
+              "Manfaat keanggotaan diaktifkan secara otomatis setelah pembayaran berhasil"
+            ],
+            "buttonPay": "Bayar dengan PayPal",
+            "buttonPending": "Pesanan Menunggu",
+            "buttonCreating": "Membuat Pesanan...",
+            "sdkLoading": "Memuat PayPal...",
+            "sdkError": "Gagal memuat PayPal. Periksa jaringan Anda dan coba lagi.",
+            "sdkIneligible": "Pembayaran PayPal tidak didukung di lingkungan ini",
+            "sdkMissingConfig": "PayPal tidak dikonfigurasi. Hubungi administrator.",
+            "orderCreating": "Membuat pesanan pembayaran...",
+            "orderCreateFailed": "Gagal membuat pesanan. Silakan coba lagi.",
+            "orderProcessing": "Hasil pembayaran masih dikonfirmasi. Silakan periksa lagi nanti.",
+            "orderSuccess": "Pembayaran berhasil. Manfaat keanggotaan Anda telah diaktifkan.",
+            "orderFailed": "Pembayaran tidak berhasil. Silakan coba lagi.",
+            "orderPending": "Pembayaran belum selesai. Selesaikan pembayaran dan periksa lagi.",
+            "orderExpired": "Pesanan pembayaran telah kedaluwarsa. Silakan coba lagi.",
+            "statusQueryFailed": "Gagal memeriksa status pembayaran. Silakan coba lagi nanti.",
+            "invalidPlan": "Paket yang dipilih tidak valid. Silakan kembali dan pilih lagi.",
+            "popupBlocked": "Jendela pembayaran diblokir oleh browser Anda. Izinkan pop-up untuk situs ini dan coba lagi.",
+            "popupOpened": "Jendela pembayaran PayPal telah terbuka. Selesaikan pembayaran di jendela tersebut.",
+            "popupClosedChecking": "Jendela pembayaran telah ditutup. Mengonfirmasi hasil pembayaran...",
+            "popupClosedFailed": "Jendela pembayaran telah ditutup, tetapi pesanan belum selesai. Silakan coba lagi."
+          },
+          "summary": {
+            "title": "Ringkasan Pesanan",
+            "periodLabel": "Periode Keanggotaan",
+            "paymentMethodLabel": "Metode Pembayaran",
+            "amountLabel": "Jumlah yang Harus Dibayar",
+            "paymentMethod": "Pembayaran Online PayPal",
+            "note": "Setelah pembayaran berhasil, manfaat keanggotaan akan diberikan secara otomatis ke akun Anda saat ini.",
+            "periodMonth": "1 Bulan",
+            "periodYear": "1 Tahun",
+            "periodLife": "Seumur Hidup",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Mengonfirmasi hasil pembayaran...",
+            "closeLabel": "Tutup",
+            "iconAlt": "Hasil Pembayaran",
+            "titlePrefix": "Pembayaran",
+            "successTitleHighlight": "Berhasil!",
+            "failureTitleHighlight": "Gagal!",
+            "successDescription": "Terima kasih atas pembelian Anda. Keanggotaan Anda telah diaktifkan.",
+            "failureDescription": "Pembayaran Anda tidak dapat diselesaikan. Silakan coba lagi atau gunakan metode pembayaran lain.",
+            "orderNumber": "Nomor Pesanan",
+            "membershipType": "Jenis Keanggotaan",
+            "expiry": "Tanggal Kedaluwarsa",
+            "orderStatus": "Status Pesanan",
+            "successStatus": "Dibayar",
+            "failureStatus": "Belum Dibayar",
+            "successPrimaryAction": "Lihat di Pusat Keanggotaan",
+            "failurePrimaryAction": "Ganti Metode Pembayaran",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Kembali ke Halaman",
+            "copyOrderNumber": "Salin Nomor Pesanan",
+            "copied": "Disalin",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Konfirmasi Pembelian | VicastCam",
+            "description": "Konfirmasi paket keanggotaan VicastCam Anda dan selesaikan pembayaran melalui PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Keanggotaan Bulanan",
+              "description": "Nikmati semua fitur keanggotaan VicastCam secara bulanan",
+              "period": "1 Bulan"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Keanggotaan Tahunan",
+              "description": "Nikmati semua fitur keanggotaan VicastCam selama satu tahun penuh",
+              "period": "1 Tahun"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Keanggotaan Seumur Hidup",
+              "description": "Pembelian sekali, akses jangka panjang ke fitur keanggotaan VicastCam",
+              "period": "Seumur Hidup"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

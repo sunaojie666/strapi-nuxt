@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Центр обучения",
+          "titleMain": "Начните обучение",
+          "titleHighlight": "работе с VicastCam",
+          "descriptionMain": "Освойте все функции программы",
+          "descriptionHighlight": "Быстрый старт и уверенная работа"
+        },
+        "player": {
+          "sectionAriaLabel": "Список уроков",
+          "catalogAriaLabel": "Каталог уроков",
+          "previousLabel": "Назад",
+          "nextLabel": "Вперед",
+          "firstLessonText": "Вы на первом уроке",
+          "lastLessonText": "Вы на последнем уроке",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Начало работы",
+            "count": "11 уроков",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Создание первой виртуальной студии",
+                "description": "Настройте и сконфигурируйте свою первую виртуальную студию с нуля.",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Инструменты для работы с изображениями",
+                "description": "Изучите основы инструментов для работы с изображениями и их типичные сценарии использования.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Работа со слоями",
+                "description": "Познакомьтесь с панелью слоёв и научитесь эффективно управлять слоями.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Использование фоновых слоёв",
+                "description": "Узнайте, как добавлять и настраивать фоновые слои для вашей сцены.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Использование слоёв с изображением человека",
+                "description": "Добавляйте слои с изображением человека, чтобы улучшить вашу прямую трансляцию.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Использование слоёв с изображениями",
+                "description": "Добавляйте и редактируйте слои с изображениями в вашей студии.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Использование видеослоёв",
+                "description": "Добавляйте видеоклипы и управляйте настройками воспроизведения.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Использование слоёв эффектов",
+                "description": "Применяйте визуальные эффекты к прямой трансляции с помощью слоёв эффектов.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Использование слоёв с субтитрами",
+                "description": "Создавайте субтитры и настраивайте их внешний вид.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "Использование виртуальных аватаров",
+                "description": "Оживите свою трансляцию с помощью виртуальных аватаров.",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "Использование сцен",
+                "description": "Бесшовно переключайтесь между различными макетами сцен во время трансляции.",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Продвинутые уроки",
+            "count": "6 уроков",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Использование слоёв движения камеры",
+                "description": "Создавайте динамичные кадры с помощью слоёв движения камеры.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Анимация по траектории",
+                "description": "Управляйте траекторией движения элементов с помощью функции пути.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Использование многокамерных слоёв",
+                "description": "Настройте многокамерные слои для быстрого переключения ракурсов.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Использование контроллера",
+                "description": "Управляйте всей трансляцией с единой панели управления.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Настройка и микширование звука",
+                "description": "Настройте аудиовходы, выходы и параметры микширования.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Резервное копирование и восстановление",
+                "description": "Создавайте резервные копии конфигурации студии и восстанавливайте их при необходимости.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "Настройка компьютера",
+            "count": "7 уроков",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "Начало работы с VicastCam",
+                "description": "Обзор интерфейса и основных функций.",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "Подключение по кабелю – iPhone",
+                "description": "Подключите iPhone к VicastCam с помощью кабеля.",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "Беспроводное подключение – iPhone",
+                "description": "Подключите iPhone к VicastCam через Wi-Fi.",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "Подключение по кабелю – Android",
+                "description": "Подключите устройство Android к VicastCam с помощью кабеля.",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "Беспроводное подключение – Android",
+                "description": "Подключите устройство Android к VicastCam через Wi-Fi.",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "Добавление и использование локальных медиафайлов",
+                "description": "Импортируйте и используйте локальные медиафайлы в своих проектах.",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "Что делать после подключения",
+                "description": "Запустите трансляцию после подключения устройств.",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "راه‌اندازی رایانه",
+      "count": "۷ درس",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "شروع کار با VicastCam",
+          "description": "مروری کلی بر رابط کاربری و ویژگی‌های اصلی.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "اتصال با کابل – آیفون",
+          "description": "آیفون خود را با استفاده از اتصال کابلی به VicastCam متصل کنید.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "اتصال بی‌سیم – آیفون",
+          "description": "آیفون خود را از طریق وای‌فای به VicastCam متصل کنید.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "اتصال با کابل – اندروید",
+          "description": "دستگاه اندرویدی خود را با استفاده از اتصال کابلی به VicastCam متصل کنید.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "اتصال بی‌سیم – اندروید",
+          "description": "دستگاه اندرویدی خود را از طریق وای‌فای به VicastCam متصل کنید.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "افزودن و استفاده از رسانه محلی",
+          "description": "فایل‌های رسانه محلی را در پروژه‌های خود وارد و استفاده کنید.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "پس از اتصال چه کاری انجام دهیم",
+          "description": "پس از اتصال دستگاه‌ها، استریم خود را راه‌اندازی کنید.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

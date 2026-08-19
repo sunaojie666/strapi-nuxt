@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Bilgisayardan yayın yaparken ekran tam görünmüyorsa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Telefonunuzdan bir canlı yayın yardımcı uygulaması veya başka bir yazılım aracılığıyla yayın yaparken ekran tam görünmüyorsa, ayarlamak için şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "VicastCam'i açın, canlı yayın sayfasına girmek için alttaki kamera simgesine dokunun, ardından [Sağ menü - Diğer Ayarlar - En Boy Oranı - 9:16] bölümüne gidin.",
+            "Canlı yayın yardımcısına yansıttıktan sonra önce sığdırmak için ölçekleyin, ardından ekranı yukarı veya aşağı sürükleyerek tüm ekranı doldurun."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Not: Yayınınıza başlamadan önce önce en boy oranını ayarlayın, ardından içeriklerinizi ekleyin."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Ağ isteği başarısız olursa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Ağ isteği hatalarıyla karşılaşırsanız şunları deneyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Telefonunuzun Ayarlar bölümünü açın, [İzin Yönetimi - VicastCam - Hücresel Veri ve Wi-Fi] bölümüne giderek ağ erişimini etkinleştirin.",
+            "Telefonunuzdaki güç tasarrufu modunu ve arka plan kısıtlamalarını kapatın.",
+            "Ağ değiştirin, telefonunuzu yeniden başlatın, uçak modunu açıp kapatın veya uygulamayı en son sürüme güncelleyin.",
+            "Sorun devam ederse, hatanın ekran görüntüsünü alın ve müşteri desteğine başvurun."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Canlı yayın sırasında ağ içerik katmanları neden titriyor veya siyah ekran oluyor?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Canlı yayın sırasında ağ içerikleri eklerken titreme veya siyah ekran sorunu yaşıyorsanız, şu şekilde çözebilirsiniz:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Yayında kullanmayı planladığınız içerikleri ve katmanları önceden indirip önizleyin. Yayına çıkmadan önce düzgün çalıştıklarından emin olun.",
+            "Yazılımla birlikte gelen bazı içerikler sunucularda saklanır. Yayınınıza başlamadan önce bunları indirin, böylece yayın sırasında yeniden yüklemeden doğrudan kullanabilirsiniz.",
+            "Yayın sırasında içerik yüklemek, yayın kaynaklarını, telefon belleğini ve performansı tüketir ve bu da gecikmeye neden olabilir. Düşük donanımlı telefonlarda çökme veya siyah ekran sorunlarına bile yol açabilir."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Önemli not"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yayınınızı önceden planlayın ve prova yapın. Yayına çıkmadan önce her bölümün sorunsuz çalıştığından emin olmak için pratik yapın. Her yayına özen gösterin, yayınınız da size karşılığını verecektir."
+        }
+      ]
+    }
+  ]
+}

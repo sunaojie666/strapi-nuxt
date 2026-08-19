@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "계정 센터",
+    "description": "VicastCam 계정 센터 페이지"
+  },
+  "common": {
+    "sidebarAriaLabel": "계정 내비게이션",
+    "defaultProfileName": "사용자",
+    "emptyContent": "콘텐츠 없음",
+    "copyButtonLabel": "복사",
+    "monthSelectLabel": "월 선택",
+    "yearSuffix": "년",
+    "monthSuffix": "월",
+    "userMissing": "사용자 정보를 찾을 수 없습니다. 다시 로그인해 주세요.",
+    "paginationLabel": "페이지네이션",
+    "previousPageLabel": "이전 페이지",
+    "nextPageLabel": "다음 페이지",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "이동",
+      "unit": "페이지",
+      "ariaLabel": "특정 페이지로 이동",
+      "buttonLabel": "이동"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "계정 센터",
+    "logout": "로그아웃",
+    "profileAriaSuffix": "계정 메뉴"
+  },
+  "sidebar": {
+    "ariaLabel": "계정 내비게이션",
+    "menus": {
+      "account": "계정 정보",
+      "membership": "멤버십",
+      "redeem": "코드 사용",
+      "purchaseHistory": "구매 내역",
+      "team": "내 팀",
+      "earnings": "수익"
+    }
+  },
+  "account": {
+    "ariaLabel": "계정 정보",
+    "profileTitle": "계정 정보",
+    "usernameLabel": "사용자 이름",
+    "passwordLabel": "비밀번호",
+    "passwordMask": "********",
+    "defaultUsername": "닉네임 없음",
+    "emailLabel": "연동 이메일",
+    "emailPlaceholder": "이메일 입력",
+    "codePlaceholder": "인증 코드 입력",
+    "sendCodeButton": "인증 코드 받기",
+    "bindButton": "이메일 연동",
+    "alreadyBound": "연동됨",
+    "unboundEmail": "연동 안 됨",
+    "emailBindTip": "연동 후에는 이메일을 변경할 수 없습니다. 이메일 주소가 올바른지 확인하세요.",
+    "emailRequired": "유효한 이메일을 입력하세요",
+    "codeRequired": "인증 코드를 입력하세요",
+    "codeSent": "인증 코드가 전송되었습니다. 이메일을 확인하세요.",
+    "bindSuccess": "이메일 연동 성공",
+    "bindFailed": "이메일 연동 실패. 코드를 확인하고 다시 시도하세요.",
+    "requestFailed": "요청 실패. 나중에 다시 시도하세요.",
+    "inviteTitle": "초대 링크",
+    "inviteDescription": "개인 초대 링크를 복사하세요. 친구가 가입하고 멤버십을 구매하면 보상을 받을 수 있습니다.",
+    "emptyInviteLink": "사용 가능한 초대 링크 없음"
+  }
+}

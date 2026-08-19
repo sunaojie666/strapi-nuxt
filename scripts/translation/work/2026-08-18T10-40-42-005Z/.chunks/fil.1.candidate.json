@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Tutorial Center",
+    "titleMain": "Simulan ang Iyong",
+    "titleHighlight": "Paglalakbay sa Pag-aaral ng VicastCam",
+    "descriptionMain": "Master ang bawat feature ng software",
+    "descriptionHighlight": "Mabilis na makapagsimula"
+  },
+  "player": {
+    "sectionAriaLabel": "Listahan ng Tutorial",
+    "catalogAriaLabel": "Katalogo ng Tutorial",
+    "previousLabel": "Nakaraan",
+    "nextLabel": "Susunod",
+    "firstLessonText": "Nasa unang aralin ka na",
+    "lastLessonText": "Nasa huling aralin ka na",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

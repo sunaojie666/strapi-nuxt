@@ -1,0 +1,46 @@
+{
+  "runId": "2026-08-11T00-38-20-317Z",
+  "startedAt": "2026-08-11T00-38-20-317Z",
+  "completedAt": "2026-08-11T00:38:29.595Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "legal",
+  "concurrency": 1,
+  "writeMode": "仅生成文件，未写数据库",
+  "selectedTables": [
+    "agreements"
+  ],
+  "beforeStatus": {
+    "en": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "agreements": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 100,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required"
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "未翻译",
+      "approved": false,
+      "error": "[pl] 内容较长，正在分块调用 DeepSeek 翻译\nError: $: array structure changed\n    at assertSameShape (file:///C:/Users/sunao/Desktop/%E5%89%8D%E7%AB%AF/strapi-nuxt/scripts/translation/run-content-translation.mjs:88:13)\n    at translateChunked (file:///C:/Users/sunao/Desktop/%E5%89%8D%E7%AB%AF/strapi-nuxt/scripts/translation/run-content-translation.mjs:318:5)\n    at async translateAndReview (file:///C:/Users/sunao/Desktop/%E5%89%8D%E7%AB%AF/strapi-nuxt/scripts/translation/run-content-translation.mjs:403:32)\n    at async workerMain (file:///C:/Users/sunao/Desktop/%E5%89%8D%E7%AB%AF/strapi-nuxt/scripts/translation/run-content-translation.mjs:504:18)\n    at async main (file:///C:/Users/sunao/Desktop/%E5%89%8D%E7%AB%AF/strapi-nuxt/scripts/translation/run-content-translation.mjs:996:5)"
+    }
+  ]
+}

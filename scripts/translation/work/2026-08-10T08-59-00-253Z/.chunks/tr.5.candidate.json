@@ -1,0 +1,27 @@
+{
+  "__chunk": [
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Huawei telefonum çoklu kamera veya sanal klavyeden sürekli bağlantı koparıyorsa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Huawei telefonlarda çoklu kamera veya sanal klavye ile bağlantı kopması yaşıyorsanız şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Telefonunuzun Ayarlar bölümüne gidin.",
+            "Üstteki arama çubuğuna 'Uygulama başlatma yönetimi' yazın.",
+            "Uygulama başlatma yönetimi sayfasına gidin ve VicastCam'i bulmak için aşağı kaydırın.",
+            "Sağdaki anahtarı kapatın (simge gri olur) ve açılan pencerede üç seçeneğin tümünü etkinleştirin (mavi olurlar)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ayrıca 'Huawei telefonlarda çoklu kamera ve sanal klavye bağlantı kopmalarını önleme' video eğitimine de başvurabilirsiniz."
+        }
+      ]
+    }
+  ]
+}

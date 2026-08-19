@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Quali sono le dimensioni consigliate per gli asset di streaming live?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensioni consigliate per gli asset di streaming live:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Per le immagini di sfondo live, consigliamo 1080 x 1920 pixel; per i video, consigliamo anche 1080 x 1920 pixel.",
+            "Importante: le sovrapposizioni a schermo intero devono utilizzare un rapporto di aspetto 9:16 per garantire un allineamento perfetto quando si passa tra le modalità a schermo intero e 9:16, offrendo un adattamento senza soluzione di continuità."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Quali modalità di output sono supportate per lo streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Lo streaming supporta due modalità di output: streaming 9:16 e streaming a schermo intero. Segui questi passaggi per selezionare la modalità sul tuo dispositivo Apple:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri VicastCam, vai alla pagina di live streaming e tocca l'icona del menu sul lato destro."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Voce di menu sul lato destro della pagina di live streaming Apple",
+          "caption": "Passaggio 1: tocca l'icona del menu sul lato destro della pagina di live streaming."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In Impostazioni avanzate, trova 'Proporzioni' e seleziona 'Schermo intero' o '9:16' come necessario."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Opzioni delle proporzioni in Impostazioni avanzate su Apple",
+          "caption": "Passaggio 2: in 'Proporzioni', seleziona 'Schermo intero' o '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Informazioni sulle due modalità"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming 9:16: il rapporto di aspetto di output è fisso a 9:16, quindi la piattaforma live riceve un'immagine 9:16.",
+            "Streaming a schermo intero: trasmette l'intero schermo del telefono così com'è, preservando il contenuto nativo senza ritagli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Qual è la differenza tra Streaming di sistema e Streaming software?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "I dispositivi Apple offrono due modalità di acquisizione per lo streaming, che differiscono significativamente nelle regole di funzionamento in background. Segui questi passaggi per scegliere una modalità di streaming:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Apri VicastCam, vai alla pagina di live streaming e tocca l'icona del menu sul lato destro."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Voce di menu sul lato destro della pagina di live streaming Apple",
+          "caption": "Passaggio 1: tocca l'icona del menu sul lato destro della pagina di live streaming."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In Impostazioni avanzate, trova 'Modalità di streaming' e seleziona 'Streaming di sistema' o 'Streaming software' come necessario."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Opzioni della modalità di streaming in Impostazioni avanzate su Apple",
+          "caption": "Passaggio 2: in 'Modalità di streaming', seleziona 'Streaming di sistema' o 'Streaming software'."
+        },
+        {
+          "type": "heading",
+          "text": "Informazioni sulle due modalità"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Streaming di sistema (registrazione schermo ReplayKit): utilizza la registrazione schermo di sistema iOS per catturare lo schermo, consentendo lo streaming continuo anche quando l'app è in background. Puoi passare ad altre app e catturare comunque qualsiasi contenuto dello schermo senza interrompere lo streaming.",
+            "Streaming software (acquisizione diretta in primo piano): l'app cattura lo schermo direttamente. A causa delle limitazioni del sistema iOS, l'app deve rimanere in primo piano. Se passi a un'altra app o torni alla schermata Home, lo streaming si interrompe immediatamente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Come posso eliminare il mio account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Accedi all'app VicastCam, quindi vai su [Account - icona in alto a destra - Gestione account - Elimina account - Invia richiesta di eliminazione]."
+        },
+        {
+          "type": "heading",
+          "text": "Informazioni sull'account"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo l'eliminazione dell'account, elimineremo definitivamente la tua email collegata, i record del dispositivo e altre informazioni di identità e revocheremo la tua autorizzazione di accesso tramite account Google e Apple. Dopo la revoca, non potrai più utilizzare tali account di terze parti per accedere rapidamente a questa app. Per utilizzare nuovamente l'app, dovrai riautorizzare e ricollegare il tuo account."
+        },
+        {
+          "type": "heading",
+          "text": "Contenuti e asset"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tutti gli asset di live streaming, video, immagini e file di progetto sono memorizzati solo sul tuo dispositivo. Il cloud della piattaforma non conserva alcun asset creativo. Dopo l'eliminazione, la funzione di gestione degli asset non sarà più disponibile. Ti preghiamo di eseguire il backup dei tuoi asset in anticipo utilizzando 'Esportazione asset'.",
+            "Se disinstalli e reinstalli l'app, cambi dispositivo o non riesci a esportare un backup in anticipo, i tuoi asset andranno persi definitivamente."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vantaggi dell'abbonamento"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo l'eliminazione dell'account, i tuoi vantaggi di abbonamento termineranno immediatamente. Poiché i servizi di abbonamento sono gestiti da Apple, la piattaforma non può elaborare rimborsi direttamente. Per richiedere un rimborso, invia una richiesta tramite i canali ufficiali di Apple (cronologia acquisti App Store). Prima di eliminare l'account, assicurati di annullare manualmente il rinnovo automatico per evitare addebiti futuri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se hai domande, contatta l'assistenza clienti."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Perché non riesco ad accedere a foto e video del mio telefono quando li aggiungo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se la tua libreria fotografica appare vuota quando aggiungi asset, vai alle Impostazioni del tuo iPhone, scorri verso il basso per trovare VicastCam, tocca [Foto - Tutte le foto] per abilitare l'accesso."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "튜토리얼 센터",
+    "titleMain": "VicastCam",
+    "titleHighlight": "학습 여정 시작하기",
+    "descriptionMain": "소프트웨어의 모든 기능을 마스터하세요",
+    "descriptionHighlight": "빠르게 시작하고 실행하세요"
+  },
+  "player": {
+    "sectionAriaLabel": "튜토리얼 목록",
+    "catalogAriaLabel": "튜토리얼 카탈로그",
+    "previousLabel": "이전",
+    "nextLabel": "다음",
+    "firstLessonText": "첫 번째 강의입니다",
+    "lastLessonText": "마지막 강의입니다",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

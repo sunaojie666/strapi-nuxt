@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "slot": "4",
+  "results": [
+    {
+      "locale": "th",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation th failed after 3 attempts: This operation was aborted"
+    },
+    {
+      "locale": "it",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "issueCount": 0,
+      "validationStatus": "needs-human-review",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-34-25-330Z\\it.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation ur failed after 3 attempts: translation ur returned invalid JSON: Unterminated string in JSON at position 18719 (line 141 column 123)"
+    }
+  ]
+}

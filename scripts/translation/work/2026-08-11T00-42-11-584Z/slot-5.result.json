@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "slot": "5",
+  "results": [
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "translation tr chunk 4/6 failed after 8 attempts: translation tr chunk 4/6 returned invalid JSON: Unexpected non-whitespace character after JSON at position 3105 (line 19 column 2)"
+    }
+  ]
+}

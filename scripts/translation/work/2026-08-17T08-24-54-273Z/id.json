@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "FAQ VicastCam | Bantuan untuk Android dan iOS",
+          "description": "Temukan jawaban atas pertanyaan umum tentang VicastCam untuk Android dan iOS, termasuk pengaturan akun, izin media, koneksi jaringan, dan masalah live streaming.",
+          "imageAlt": "FAQ VicastCam"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Bantuan VicastCam",
+          "titleHighlight": "Temukan Jawaban dengan Cepat",
+          "description": "Pilih platform Anda (Android atau iOS) untuk melihat pertanyaan umum dan solusi untuk perangkat Anda."
+        },
+        "content": {
+          "sectionAriaLabel": "Pertanyaan yang sering diajukan",
+          "catalogAriaLabel": "Kategori pertanyaan",
+          "answerLabel": "Jawaban",
+          "questionProgressTemplate": "{group} · Pertanyaan {current} dari {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Tutorial Android",
+            "count": "9 pertanyaan",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Berapa ukuran yang disarankan untuk aset live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ukuran yang disarankan untuk aset live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk gambar latar live streaming, kami menyarankan 1080 x 1920 piksel; untuk video, kami juga menyarankan 1080 x 1920 piksel.",
+                      "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar peralihan antara mode layar penuh dan 9:16 berjalan mulus tanpa pergeseran, sehingga hasilnya pas sempurna."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Mode output apa saja yang didukung untuk streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Streaming mendukung dua mode output: streaming 9:16 dan streaming layar penuh. Ikuti langkah-langkah berikut untuk memilih salah satunya di perangkat Android Anda:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Ikon menu di sisi kanan halaman live streaming Android",
+                    "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Di Pengaturan Lainnya, temukan 'Rasio Aspek' dan pilih 'Layar Penuh' atau '9:16' sesuai kebutuhan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Opsi rasio aspek di Pengaturan Lainnya di Android",
+                    "caption": "Langkah 2: Di 'Rasio Aspek', pilih 'Layar Penuh' atau '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Penjelasan kedua mode"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Streaming 9:16: Rasio aspek output ditetapkan pada 9:16, sehingga platform live menerima gambar 9:16.",
+                      "Streaming layar penuh: Menyiarkan seluruh layar ponsel apa adanya, mempertahankan konten asli tanpa memotong."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Bagaimana cara menghapus akun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Silakan masuk ke aplikasi VicastCam, lalu buka [Akun - ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informasi akun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akun dihapus, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya, serta mencabut otorisasi login pihak ketiga melalui akun Google dan Apple. Setelah pencabutan, Anda tidak akan dapat lagi menggunakan akun pihak ketiga tersebut untuk login cepat; untuk menggunakan aplikasi lagi, Anda perlu memberikan otorisasi ulang dan menautkan ulang."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Konten dan aset"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua aset live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda; cloud tidak menyimpan aset kreatif apa pun. Setelah penghapusan, fitur manajemen aset di aplikasi tidak akan berfungsi lagi, jadi harap cadangkan aset Anda terlebih dahulu melalui 'Ekspor Aset'.",
+                      "Jika Anda menghapus instalasi dan menginstal ulang, mengganti perangkat, atau gagal mengekspor cadangan sebelumnya, aset Anda tidak akan dapat dipulihkan secara permanen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Manfaat keanggotaan"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah akun dihapus, manfaat keanggotaan Anda akan berakhir segera. Jika Anda memiliki langganan Google Play aktif, menghapus akun aplikasi tidak akan membatalkan langganan secara otomatis, dan Anda mungkin akan terus dikenakan biaya. Silakan buka 'Pembayaran & langganan - Langganan' di Google Play untuk membatalkan secara manual."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda memiliki pertanyaan, silakan hubungi tim dukungan pelanggan kami."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Mengapa saya tidak bisa mengakses foto dan video di ponsel saat menambahkannya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika album foto Anda tampak kosong saat menambahkan aset, Anda dapat mengaktifkan izin akses foto sebagai berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Buka Pengaturan ponsel Anda, gulir ke bawah untuk menemukan VicastCam, ketuk [Foto - Semua Foto] untuk mengaktifkan akses.",
+                      "Android: Buka Pengaturan ponsel Anda, temukan VicastCam di [Manajemen Izin] atau [Manajemen Aplikasi], lalu ketuk [Manajemen Izin - Foto - Semua Foto] untuk mengaktifkan akses.",
+                      "Jika masalah berlanjut, coba hapus instalasi dan instal ulang aplikasi, atau hubungi dukungan online melalui fitur umpan balik."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Apa yang harus saya lakukan jika layar tidak tampil penuh saat streaming dari komputer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika layar tampak tidak lengkap saat streaming dari ponsel melalui aplikasi pendamping live streaming atau perangkat lunak lain, ikuti langkah-langkah berikut untuk menyesuaikan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live streaming, lalu buka [Menu sisi kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+                      "Setelah melakukan casting ke pendamping live streaming, pertama-tama sesuaikan layar dengan kanvas, lalu seret secara vertikal untuk mengisi layar."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Catatan: Sebelum memulai streaming, sesuaikan rasio aspek terlebih dahulu, lalu tambahkan aset Anda."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Apa yang harus saya lakukan jika permintaan jaringan gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda, buka [Manajemen Izin - VicastCam - Data Seluler dan Wi-Fi] dan aktifkan akses jaringan.",
+                      "Matikan mode hemat daya dan batasan latar belakang apa pun di ponsel Anda.",
+                      "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi ke versi terbaru.",
+                      "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi dukungan pelanggan untuk bantuan."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Mengapa aset jaringan atau overlay berkedip atau layar menjadi hitam saat live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kedipan atau layar hitam saat menambahkan aset jaringan selama live streaming, berikut cara mengatasinya:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Unduh dan pratinjau aset atau overlay yang akan digunakan selama streaming terlebih dahulu, dan pastikan semuanya berfungsi dengan baik sebelum memulai live.",
+                      "Beberapa aset yang disertakan dengan perangkat lunak disimpan di server. Jika Anda mengunduhnya sebelum live, Anda dapat menggunakannya langsung selama streaming tanpa memuat ulang.",
+                      "Memuat aset di tengah streaming menghabiskan sumber daya streaming, memori ponsel, dan kinerja, yang dapat menyebabkan lag; pada ponsel kelas bawah, hal ini bahkan dapat menyebabkan crash atau layar hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Catatan penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sebelum live, rencanakan dan latih streaming Anda secara menyeluruh untuk memastikan setiap elemen berfungsi dengan sempurna sebelum Anda mulai."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Apa yang harus saya lakukan jika sebagian tombol keyboard tertutup?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika sebagian tombol pada keyboard virtual tertutup, coba langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Jika Anda menggunakan ponsel 16:9 lama sebagai remote, dan sebagian tombol tertutup, ketuk tombol kedua di pojok kiri atas keyboard untuk mengaktifkan mode layar penuh.",
+                      "Jika tata letak keyboard tidak sejajar, buka Pengaturan ponsel Anda dan atur ukuran font ke normal.",
+                      "Beberapa ponsel memiliki mode lansia yang aktif; mematikannya akan mengembalikan keyboard ke tampilan normal."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Masalah tampilan biasanya disebabkan oleh ukuran font yang terlalu besar atau antarmuka tema ponsel yang terlalu besar. Mengatur ulang ke mode standar akan menyelesaikan masalah."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Apa yang harus saya lakukan jika ponsel Huawei saya terus terputus dari multi-kamera atau keyboard virtual?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika ponsel Huawei Anda mengalami pemutusan koneksi dengan multi-kamera atau keyboard virtual, ikuti langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda.",
+                      "Di bilah pencarian di bagian atas, ketik 'Manajemen peluncuran aplikasi'.",
+                      "Buka halaman Manajemen peluncuran aplikasi, gulir ke bawah untuk menemukan VicastCam.",
+                      "Matikan sakelar di sebelah kanan sehingga ikon berubah menjadi abu-abu; pada saat yang sama, aktifkan ketiga opsi di popup sehingga berubah menjadi biru."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Anda juga dapat merujuk pada tutorial video 'Cara mencegah pemutusan koneksi dengan multi-kamera dan keyboard virtual di ponsel Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Tutorial iOS",
+            "count": "8 pertanyaan",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Berapa ukuran yang disarankan untuk aset live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ukuran yang disarankan untuk aset live streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Untuk gambar latar live, kami menyarankan 1080 x 1920 piksel; untuk video, kami juga menyarankan 1080 x 1920 piksel.",
+                      "Penting: Overlay layar penuh harus menggunakan rasio aspek 9:16 agar sejajar sempurna saat beralih antara mode layar penuh dan 9:16, memberikan tampilan yang mulus."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Mode output apa saja yang didukung untuk streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Streaming mendukung dua mode output: streaming 9:16 dan streaming layar penuh. Ikuti langkah-langkah berikut untuk memilih mode di perangkat Apple Anda:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Entri menu di sisi kanan halaman live streaming Apple",
+                    "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Di Pengaturan Lainnya, temukan 'Rasio Aspek' dan pilih 'Layar Penuh' atau '9:16' sesuai kebutuhan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Opsi rasio aspek di Pengaturan Lainnya di Apple",
+                    "caption": "Langkah 2: Di 'Rasio Aspek', pilih 'Layar Penuh' atau '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Tentang kedua mode"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Streaming 9:16: Rasio aspek output tetap 9:16, sehingga platform live menerima gambar 9:16.",
+                      "Streaming layar penuh: Mengalirkan seluruh layar ponsel apa adanya, mempertahankan konten asli tanpa memotong."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Apa perbedaan antara Streaming Sistem dan Streaming Perangkat Lunak?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Perangkat Apple menawarkan dua mode penangkapan streaming, yang berbeda signifikan dalam aturan operasi latar belakang. Ikuti langkah-langkah berikut untuk memilih mode streaming:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, masuk ke halaman live streaming, dan ketuk ikon menu di sisi kanan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Entri menu di sisi kanan halaman live streaming Apple",
+                    "caption": "Langkah 1: Ketuk ikon menu di sisi kanan halaman live streaming."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Di Pengaturan Lainnya, temukan 'Mode Streaming' dan pilih 'Streaming Sistem' atau 'Streaming Perangkat Lunak' sesuai kebutuhan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Opsi mode streaming di Pengaturan Lainnya di Apple",
+                    "caption": "Langkah 2: Di 'Mode Streaming', pilih 'Streaming Sistem' atau 'Streaming Perangkat Lunak'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Tentang kedua mode"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Streaming Sistem (perekaman layar ReplayKit): Menggunakan perekaman layar sistem iOS untuk menangkap layar, memungkinkan streaming berlanjut bahkan saat aplikasi berada di latar belakang. Anda dapat beralih ke aplikasi lain dan tetap menangkap konten layar apa pun tanpa mengganggu streaming.",
+                      "Streaming Perangkat Lunak (penangkapan langsung di latar depan): Aplikasi menangkap layar secara langsung. Karena keterbatasan sistem iOS, aplikasi harus tetap di latar depan. Jika Anda beralih ke aplikasi lain atau kembali ke layar beranda, streaming akan berhenti segera."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Bagaimana cara menghapus akun saya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Silakan masuk ke aplikasi VicastCam, lalu buka [Akun - ikon kanan atas - Manajemen Akun - Hapus Akun - Kirim Permintaan Penghapusan]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Informasi akun"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah penghapusan akun, kami akan menghapus secara permanen email tertaut, catatan perangkat, dan informasi identitas lainnya, serta mencabut otorisasi login pihak ketiga melalui akun Google dan Apple. Setelah pencabutan, Anda tidak akan dapat lagi menggunakan akun pihak ketiga tersebut untuk masuk cepat ke aplikasi ini. Untuk menggunakan aplikasi lagi, Anda perlu memberikan otorisasi ulang dan menautkan akun."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Konten dan aset"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Semua aset live streaming, video, gambar, dan file proyek hanya disimpan di perangkat Anda. Cloud platform tidak menyimpan aset kreatif apa pun. Setelah penghapusan, fitur manajemen aset tidak akan tersedia lagi. Harap cadangkan aset Anda terlebih dahulu menggunakan 'Ekspor Aset'.",
+                      "Jika Anda menghapus instalasi dan menginstal ulang aplikasi, mengganti perangkat, atau gagal mengekspor cadangan sebelumnya, aset Anda akan hilang secara permanen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Manfaat keanggotaan"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Setelah penghapusan akun, manfaat keanggotaan Anda akan berakhir segera. Karena layanan langganan dikelola oleh Apple, platform tidak dapat memproses pengembalian dana secara langsung. Untuk meminta pengembalian dana, silakan ajukan permintaan melalui saluran resmi Apple (riwayat pembelian App Store). Sebelum menghapus akun, pastikan untuk membatalkan perpanjangan otomatis secara manual untuk menghindari biaya di masa mendatang."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda memiliki pertanyaan, silakan hubungi dukungan pelanggan."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Mengapa saya tidak bisa mengakses foto dan video di ponsel saat menambahkannya?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika pustaka foto Anda tampak kosong saat menambahkan aset, buka Pengaturan iPhone Anda, gulir ke bawah untuk menemukan VicastCam, ketuk [Foto - Semua Foto] untuk mengaktifkan akses."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Apa yang harus saya lakukan jika layar tidak tampil penuh saat streaming dari komputer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika layar tidak tampil penuh saat streaming dari ponsel melalui aplikasi pendamping live streaming atau perangkat lunak lain, ikuti langkah-langkah berikut untuk menyesuaikan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka VicastCam, ketuk ikon kamera di bagian bawah untuk masuk ke halaman live streaming, lalu buka [Menu Kanan - Pengaturan Lainnya - Rasio Aspek - 9:16].",
+                      "Setelah melakukan casting ke pendamping live streaming, pertama-tama sesuaikan skala agar pas, lalu seret layar ke atas atau ke bawah untuk mengisi seluruh layar."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Catatan: Sebelum memulai streaming, atur rasio aspek terlebih dahulu, lalu tambahkan aset Anda."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Apa yang harus saya lakukan jika permintaan jaringan gagal?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kegagalan permintaan jaringan, coba langkah-langkah berikut:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buka Pengaturan ponsel Anda, masuk ke [Manajemen Izin - VicastCam - Gunakan Data Seluler dan Wi-Fi] dan aktifkan akses jaringan.",
+                      "Matikan mode hemat daya dan batasan latar belakang apa pun di ponsel Anda.",
+                      "Ganti jaringan, mulai ulang ponsel, aktifkan mode pesawat, atau perbarui aplikasi ke versi terbaru.",
+                      "Jika masalah berlanjut, ambil tangkapan layar kesalahan dan hubungi dukungan pelanggan untuk bantuan."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Mengapa overlay aset jaringan berkedip atau menjadi hitam selama live streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Jika Anda mengalami kedipan atau layar hitam saat menambahkan aset jaringan selama live streaming, berikut cara mengatasinya:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Unduh dan pratinjau semua aset dan overlay yang akan Anda gunakan selama streaming sebelumnya. Pastikan semuanya berfungsi dengan baik sebelum memulai live.",
+                      "Beberapa aset yang disertakan dengan perangkat lunak disimpan di server. Unduh sebelum memulai streaming sehingga Anda dapat menggunakannya secara langsung selama streaming tanpa memuat ulang.",
+                      "Memuat aset di tengah streaming mengonsumsi sumber daya streaming, memori ponsel, dan kinerja, yang dapat menyebabkan lag. Pada ponsel kelas bawah, hal ini bahkan dapat menyebabkan crash atau layar hitam."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Catatan penting"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Rencanakan dan latih streaming Anda sebelumnya. Latih setiap segmen untuk memastikan semuanya berjalan lancar sebelum memulai live. Perlakukan setiap streaming dengan serius, dan streaming Anda akan memberi imbalan sebagai balasannya."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

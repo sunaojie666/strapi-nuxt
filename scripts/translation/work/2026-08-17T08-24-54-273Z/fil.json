@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Tulong para sa Android at iOS",
+          "description": "Maghanap ng mga sagot sa mga karaniwang tanong tungkol sa VicastCam para sa Android at iOS, kabilang ang pag-setup ng account, mga pahintulot sa media, koneksyon sa network, at mga isyu sa live streaming.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "Tulong sa VicastCam",
+          "titleHighlight": "Mabilis na Makahanap ng mga Sagot",
+          "description": "Piliin ang iyong platform (Android o iOS) upang makita ang mga karaniwang tanong at solusyon para sa iyong device."
+        },
+        "content": {
+          "sectionAriaLabel": "Mga madalas itanong",
+          "catalogAriaLabel": "Mga kategorya ng tanong",
+          "answerLabel": "Sagot",
+          "questionProgressTemplate": "{group} · Tanong {current} ng {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android Tutorials",
+            "count": "9 questions",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Ano ang mga inirerekomendang sukat para sa mga live stream assets?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Narito ang mga inirerekomendang sukat para sa mga live stream assets:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para sa mga live stream background images, inirerekomenda namin ang 1080 x 1920 pixels; para sa mga video, 1080 x 1920 pixels din ang rekomendasyon.",
+                      "Mahalaga: Ang mga full-screen overlays ay dapat gumamit ng 9:16 aspect ratio upang matiyak na walang misalignment kapag nagpapalipat-lipat sa full-screen at 9:16 modes, at makamit ang perpektong fit."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Ano ang mga output mode na suportado para sa streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "May dalawang output mode ang streaming: 9:16 streaming at full-screen streaming. Sundan ang mga hakbang na ito para pumili sa iyong Android device:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, pumunta sa live streaming page, at i-tap ang menu icon sa kanang bahagi."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Menu entry sa kanang bahagi ng Android live streaming page",
+                    "caption": "Hakbang 1: I-tap ang menu icon sa kanang bahagi ng live streaming page."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Sa More Settings, hanapin ang 'Aspect Ratio' at piliin ang 'Full Screen' o '9:16' ayon sa iyong pangangailangan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Mga pagpipilian sa aspect ratio sa More Settings sa Android",
+                    "caption": "Hakbang 2: Sa 'Aspect Ratio', piliin ang 'Full Screen' o '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Paliwanag sa dalawang mode"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 streaming: Ang output aspect ratio ay naka-fix sa 9:16, kaya ang live platform ay makakatanggap ng 9:16 na imahe.",
+                      "Full-screen streaming: Ini-stream ang buong screen ng phone nang walang pagbabago, pinapanatili ang native content nang walang crop."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Paano ko tatanggalin ang aking account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mangyaring mag-log in sa VicastCam app, pagkatapos ay pumunta sa [Account - top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Impormasyon ng account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pagkatapos ng pagtanggal ng account, permanenteng tatanggalin namin ang iyong naka-link na email, mga device records, at iba pang identity information, at bawiin ang iyong third-party login authorization sa pamamagitan ng Google at Apple accounts. Pagkatapos nito, hindi mo na magagamit ang mga third-party account na iyon para sa mabilis na pag-login; upang magamit muli ang app, kailangan mong mag-re-authorize at mag-re-link."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content at assets"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ang lahat ng live stream assets, videos, images, at project files ay naka-store lamang sa iyong device; ang cloud ay hindi nagtatago ng anumang creative assets. Pagkatapos ng pagtanggal, hindi na gagana ang asset management feature sa app, kaya mangyaring i-back up ang iyong mga assets nang maaga sa pamamagitan ng 'Asset Export'.",
+                      "Kung mag-uninstall at mag-reinstall ka, magpalit ng device, o hindi nakapag-export ng backup nang maaga, ang iyong mga assets ay permanenteng hindi na mababawi."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mga benepisyo ng membership"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pagkatapos ng pagtanggal ng account, agad na matatapos ang iyong membership benefits. Kung mayroon kang aktibong Google Play subscription, ang pagtanggal ng iyong app account ay hindi awtomatikong kakanselahin ang subscription, at maaari kang patuloy na ma-charge. Mangyaring pumunta sa Google Play's 'Payments & subscriptions - Subscriptions' upang manu-manong i-cancel."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mayroon kang mga katanungan, mangyaring makipag-ugnayan sa aming customer support team."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Bakit hindi ko ma-access ang mga photos at videos sa aking phone kapag nagdadagdag?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mukhang walang laman ang iyong photo album kapag nagdadagdag ng assets, maaari mong paganahin ang photo access permissions sa ganitong paraan:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Buksan ang Settings ng iyong phone, i-scroll pababa upang mahanap ang VicastCam, i-tap ang [Photos - All Photos] upang paganahin ang access.",
+                      "Android: Buksan ang Settings ng iyong phone, hanapin ang VicastCam sa ilalim ng [Permission Management] o [App Management], pagkatapos ay i-tap ang [Permission Management - Photos - All Photos] upang paganahin ang access.",
+                      "Kung magpapatuloy ang isyu, subukang i-uninstall at i-reinstall ang app, o makipag-ugnayan sa online support sa pamamagitan ng feedback feature."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Ano ang gagawin ko kung hindi buo ang screen kapag nag-stream mula sa computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mukhang hindi kumpleto ang screen kapag nag-stream mula sa iyong phone sa pamamagitan ng live streaming companion app o ibang software, sundan ang mga hakbang na ito upang ayusin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, i-tap ang camera icon sa ibaba upang pumasok sa live streaming page, pagkatapos ay pumunta sa [Right-side menu - More Settings - Aspect Ratio - 9:16].",
+                      "Pagkatapos i-cast sa live streaming companion, i-fit muna ang screen sa canvas, pagkatapos ay i-drag nang patayo upang mapuno ang screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Tandaan: Bago simulan ang iyong stream, ayusin muna ang aspect ratio, pagkatapos ay idagdag ang iyong mga assets."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Ano ang gagawin ko kung may network request failure?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung makaranas ka ng network request failures, subukan ang mga sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang Settings ng iyong phone, pumunta sa [Permission Management - VicastCam - Mobile Data and Wi-Fi] at paganahin ang network access.",
+                      "I-off ang power-saving mode at anumang background restrictions sa iyong phone.",
+                      "Magpalit ng network, i-restart ang iyong phone, i-toggle ang airplane mode, o i-update ang app sa pinakabagong bersyon.",
+                      "Kung magpapatuloy ang isyu, kumuha ng screenshot ng error at makipag-ugnayan sa customer support para sa tulong."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Bakit kumukutitap o nagiging black screen ang mga network asset o overlay habang nagli-live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung nakakaranas ka ng pagkutitap o black screen kapag nagdadagdag ng network asset habang nagli-live stream, narito ang dapat mong gawin:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "I-download at i-preview nang maaga ang mga asset o overlay na balak mong gamitin sa stream, at tiyaking gumagana ang mga ito bago ka mag-live.",
+                      "Ang ilang asset na kasama sa software ay naka-imbak sa mga server. Kung i-download mo ang mga ito bago mag-live, magagamit mo agad ang mga ito sa stream nang hindi na kailangang i-reload.",
+                      "Ang pag-load ng asset habang nag-stream ay kumukonsumo ng streaming resources, memorya ng phone, at performance, na maaaring magdulot ng lag; sa mga lower-end phone, maaari pa itong magdulot ng crash o black screen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mahalagang paalala"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Bago mag-live, planuhin at i-rehearse nang mabuti ang iyong stream upang matiyak na maayos ang lahat ng elemento bago ka magsimula."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Ano ang gagawin ko kung natatakpan ang ilang key sa keyboard?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung natatakpan ang ilang key sa virtual keyboard, subukan ang mga sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Kung gumagamit ka ng mas lumang 16:9 phone bilang remote, at natatakpan ang ilang key, i-tap ang pangalawang button sa kaliwang sulok sa itaas ng keyboard upang paganahin ang full-screen operation mode.",
+                      "Kung hindi maayos ang pagkakaayos ng keyboard, pumunta sa Settings ng iyong phone at itakda ang font size sa normal.",
+                      "Ang ilang phone ay may naka-enable na elderly mode; ang pag-off nito ay dapat maibalik sa normal ang display ng keyboard."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Ang mga isyu sa display ay karaniwang sanhi ng masyadong malaking font o masyadong malaking theme interface ng phone. Ang pag-reset ng mga ito sa standard mode ay dapat malutas ang problema."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Ano ang gagawin ko kung paulit-ulit na nadidisconnect ang Huawei phone ko sa multi-camera o virtual keyboard?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung nakakaranas ang iyong Huawei phone ng disconnection sa multi-camera o virtual keyboard, sundin ang mga hakbang na ito:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Pumunta sa Settings ng iyong phone.",
+                      "Sa search bar sa itaas, i-type ang 'App launch management'.",
+                      "Pumunta sa App launch management page, mag-scroll pababa upang mahanap ang VicastCam.",
+                      "I-off ang toggle sa kanan upang maging gray ang icon; sabay na i-enable ang lahat ng tatlong opsyon sa popup upang maging blue ang mga ito."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Maaari mo ring panoorin ang video tutorial na 'Paano maiwasan ang disconnection sa multi-camera at virtual keyboard sa mga Huawei phone'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS Tutorials",
+            "count": "8 questions",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Ano ang mga inirerekomendang sukat para sa mga live streaming assets?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Narito ang mga inirerekomendang sukat para sa mga live streaming assets:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Para sa mga live background image, inirerekomenda namin ang 1080 x 1920 pixels; para sa mga video, 1080 x 1920 pixels din ang rekomendasyon.",
+                      "Mahalaga: Ang mga full-screen overlay ay dapat gumamit ng 9:16 aspect ratio upang perpektong mag-align kapag lumilipat sa pagitan ng full-screen at 9:16 modes, para walang putol na fit."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Ano ang mga supported output modes para sa streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "May dalawang output modes ang streaming: 9:16 streaming at full-screen streaming. Sundan ang mga hakbang na ito para pumili ng mode sa iyong Apple device:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, pumunta sa live streaming page, at i-tap ang menu icon sa kanang bahagi."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Menu entry sa kanang bahagi ng Apple live streaming page",
+                    "caption": "Hakbang 1: I-tap ang menu icon sa kanang bahagi ng live streaming page."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Sa More Settings, hanapin ang 'Aspect Ratio' at piliin ang 'Full Screen' o '9:16' ayon sa iyong pangangailangan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Mga opsyon sa aspect ratio sa More Settings sa Apple",
+                    "caption": "Hakbang 2: Sa 'Aspect Ratio', piliin ang 'Full Screen' o '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Tungkol sa dalawang modes"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 streaming: Ang output aspect ratio ay naka-fix sa 9:16, kaya ang live platform ay makakatanggap ng 9:16 na imahe.",
+                      "Full-screen streaming: Ini-stream ang buong screen ng phone nang walang pagbabago, pinapanatili ang native content nang walang crop."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Ano ang pagkakaiba ng System Streaming at Software Streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Ang mga Apple device ay may dalawang streaming capture modes, na malaki ang pagkakaiba sa mga patakaran sa background operation. Sundan ang mga hakbang na ito para pumili ng streaming mode:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, pumunta sa live streaming page, at i-tap ang menu icon sa kanang bahagi."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Menu entry sa kanang bahagi ng Apple live streaming page",
+                    "caption": "Hakbang 1: I-tap ang menu icon sa kanang bahagi ng live streaming page."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Sa More Settings, hanapin ang 'Streaming Mode' at piliin ang 'System Streaming' o 'Software Streaming' ayon sa iyong pangangailangan."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Mga opsyon sa streaming mode sa More Settings sa Apple",
+                    "caption": "Hakbang 2: Sa 'Streaming Mode', piliin ang 'System Streaming' o 'Software Streaming'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Tungkol sa dalawang modes"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "System Streaming (ReplayKit screen recording): Gumagamit ng iOS system screen recording para makuha ang screen, na nagpapahintulot ng tuloy-tuloy na streaming kahit naka-background ang app. Maaari kang lumipat sa ibang apps at makuha pa rin ang anumang screen content nang hindi naaantala ang stream.",
+                      "Software Streaming (direct capture sa foreground): Direktang kinukuha ng app ang screen. Dahil sa mga limitasyon ng iOS system, dapat manatili ang app sa foreground. Kung lumipat ka sa ibang app o bumalik sa home screen, agad na hihinto ang streaming."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Paano ko tatanggalin ang aking account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Mangyaring mag-log in sa VicastCam app, pagkatapos ay pumunta sa [Account - top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Impormasyon ng account"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pagkatapos tanggalin ang account, permanenteng tatanggalin namin ang iyong naka-link na email, mga device record, at iba pang identity information, at bawiin ang iyong third-party login authorization sa pamamagitan ng Google at Apple accounts. Pagkatapos mabawi, hindi mo na magagamit ang mga third-party account na iyon para mabilis na mag-log in sa app na ito. Upang magamit muli ang app, kakailanganin mong mag-re-authorize at i-link muli ang iyong account."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Content at assets"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ang lahat ng live streaming assets, video, image, at project files ay naka-store lamang sa iyong device. Ang platform cloud ay hindi nag-iimbak ng anumang creative assets. Pagkatapos ng pagtanggal, hindi na magagamit ang asset management feature. Mangyaring i-back up ang iyong mga assets nang maaga gamit ang 'Asset Export'.",
+                      "Kung i-uninstall at i-reinstall mo ang app, lumipat ng device, o hindi nakapag-export ng backup nang maaga, permanenteng mawawala ang iyong mga assets."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mga benepisyo ng membership"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Pagkatapos tanggalin ang account, agad na matatapos ang iyong membership benefits. Dahil ang mga subscription services ay pinamamahalaan ng Apple, hindi direktang makakapag-proseso ng refund ang platform. Upang humiling ng refund, mangyaring magsumite ng kahilingan sa pamamagitan ng mga opisyal na channel ng Apple (App Store purchase history). Bago tanggalin ang iyong account, siguraduhing manu-manong i-cancel ang auto-renewal upang maiwasan ang mga susunod na singil."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mayroon kang mga katanungan, mangyaring makipag-ugnayan sa customer support."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Bakit hindi ko ma-access ang mga photos at videos ng aking phone kapag nagdadagdag?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung mukhang walang laman ang iyong photo library kapag nagdadagdag ng assets, pumunta sa Settings ng iyong iPhone, i-scroll pababa upang mahanap ang VicastCam, i-tap ang [Photos - All Photos] upang paganahin ang access."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Ano ang gagawin ko kung hindi buo ang screen kapag nag-stream mula sa computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung hindi buo ang screen kapag nag-stream mula sa iyong phone gamit ang live streaming companion app o ibang software, sundin ang mga hakbang na ito para i-adjust:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang VicastCam, i-tap ang camera icon sa ibaba para pumasok sa live streaming page, pagkatapos ay pumunta sa [Right menu - More Settings - Aspect Ratio - 9:16].",
+                      "Pagkatapos i-cast sa live streaming companion, i-scale muna para magkasya, pagkatapos ay i-drag ang screen pataas o pababa para mapuno ang buong screen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Tandaan: Bago simulan ang iyong stream, i-adjust muna ang aspect ratio, pagkatapos ay idagdag ang iyong mga assets."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Ano ang gagawin ko kung may network request failure?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung makaranas ka ng network request failures, subukan ang mga sumusunod:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Buksan ang Settings ng iyong phone, pumunta sa [Permission Management - VicastCam - Use Cellular Data and Wi-Fi] at i-enable ang network access.",
+                      "I-off ang power-saving mode at anumang background restrictions sa iyong phone.",
+                      "Magpalit ng network, i-restart ang phone, i-toggle ang airplane mode, o i-update ang app sa pinakabagong bersyon.",
+                      "Kung magpapatuloy ang isyu, kumuha ng screenshot ng error at makipag-ugnayan sa customer support para sa tulong."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Bakit nag-flicker o nagiging black screen ang network asset overlays habang nag-live stream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kung nakakaranas ka ng flickering o black screens kapag nagdadagdag ng network assets habang nag-live stream, narito kung paano ito i-handle:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "I-download at i-preview nang maaga ang anumang assets at overlays na balak mong gamitin sa stream. Siguraduhing gumagana ang mga ito bago mag-live.",
+                      "Ang ilang assets na kasama sa software ay naka-store sa mga server. I-download ang mga ito bago simulan ang iyong stream para magamit mo nang direkta sa stream nang hindi na kailangang i-reload.",
+                      "Ang pag-load ng assets habang nag-stream ay kumukonsumo ng streaming resources, phone memory, at performance, na maaaring magdulot ng lag. Sa mga lower-end phones, maaari pa itong magdulot ng crashes o black screens."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Mahalagang paalala"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Planuhin at i-rehearse ang iyong stream nang maaga. I-practice ang bawat segment para matiyak na maayos ang lahat bago mag-live. Tratuhin ang bawat stream nang may pag-iingat, at gagantihan ka ng iyong stream."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "ko",
+        "loginTitle1": "원클릭으로 가상 배경 변경",
+        "loginTitle2": "더 강력한 임팩트로 스트리밍",
+        "loginDes1": "AI 기반 전문 라이브 스트리밍 도구",
+        "loginDes2": "가상 배경, 라이브 향상, 멀티 플랫폼 스트리밍을 간편하게",
+        "featureTitle1": "AI 매팅",
+        "featureSubTitle1": "실시간 배경 교체",
+        "featureTitle2": "멀티 플랫폼 스트리밍",
+        "featureSubTitle2": "원탭으로 라이브 시작",
+        "featureTitle3": "가상 카메라",
+        "featureSubTitle3": "휴대폰을 웹캠으로",
+        "loginBox": {
+          "loginPageTitle": "로그인 / 회원가입",
+          "codeLoginTab": "코드 로그인",
+          "pwdLoginTab": "비밀번호 로그인",
+          "qrLoginTab": "QR 코드 로그인",
+          "emailInputPlaceholder": "로그인할 이메일을 입력하세요",
+          "pwdInputPlaceholder": "비밀번호를 입력하세요",
+          "verifyCodePlaceholder": "인증 코드를 입력하세요",
+          "getVerifyCodeText": "코드 받기",
+          "loginBtnText": "로그인",
+          "qrLoginTip": "VicastCam 앱으로 스캔하여 로그인하세요",
+          "qrWaitingTip": "스캔 확인 대기 중",
+          "agreeProtocolText": "개인정보 처리방침 및 이용약관을 읽고 동의합니다",
+          "userProtocolText": "이용약관",
+          "privacyPolicyText": "개인정보 처리방침",
+          "agreeProtocolPrefix": "다음을 읽고 동의합니다"
+        },
+        "toastBox": {
+          "closeToastLabel": "알림 닫기",
+          "requestLoading": "로딩 중",
+          "requestSuccess": "요청 성공",
+          "requestFail": "요청 실패",
+          "passwordLoginNotReady": "비밀번호 로그인은 아직 사용할 수 없습니다",
+          "passwordRequired": "비밀번호를 입력하세요",
+          "emailRequired": "로그인할 이메일을 입력하세요",
+          "verifyCodeRequired": "인증 코드를 입력하세요",
+          "agreeProtocolRequired": "먼저 개인정보 처리방침 및 이용약관을 읽고 동의해 주세요",
+          "qrcodeExpired": "QR 코드가 만료되었습니다. 새로 요청해 주세요."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "ko",
+        "hero_section": {
+          "tag": "AI 기반 라이브 스트리밍 도구",
+          "title_main": "휴대폰에서 그린 스크린 효과와 화면 전송",
+          "title_highlight": "전 세계 라이브 스트리밍을 지원합니다",
+          "description": "VicastCam은 고급 AI 매팅을 사용하여 스트리밍 중 언제든지 가상 배경을 전환할 수 있게 하여, 라이브 방송에 몰입감 있는 효과와 전문적인 느낌을 더합니다.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "다운로드"
+            },
+            {
+              "platform": "Google Play",
+              "text": "다운로드"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam은 크리에이터에게 가상 배경, 라이브 향상, 멀티 플랫폼 도구를 제공합니다."
+          },
+          "columns": [
+            {
+              "title": "제품",
+              "links": [
+                {
+                  "text": "기능"
+                },
+                {
+                  "text": "가격"
+                },
+                {
+                  "text": "다운로드"
+                }
+              ]
+            },
+            {
+              "title": "개발자",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API 문서"
+                }
+              ]
+            },
+            {
+              "title": "회사",
+              "links": [
+                {
+                  "text": "회사 소개"
+                },
+                {
+                  "text": "개인정보 처리방침"
+                },
+                {
+                  "text": "이용약관"
+                },
+                {
+                  "text": "멤버십 약관"
+                }
+              ]
+            },
+            {
+              "title": "지원",
+              "links": [
+                {
+                  "text": "동영상 튜토리얼"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "문의하기"
+                }
+              ]
+            },
+            {
+              "title": "파트너십",
+              "links": [
+                {
+                  "text": "리셀러 되기"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "비즈니스 문의"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "기능",
+      "nav_pricing": "가격",
+      "nav_faq": "FAQ",
+      "nav_auth": "로그인 / 회원가입",
+      "nav_team": "파트너십"
+    }
+  ]
+}

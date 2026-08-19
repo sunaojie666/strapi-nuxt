@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Android・iOS向けヘルプ",
+    "description": "VicastCamのAndroid・iOS版に関するよくある質問と回答をまとめました。アカウント設定、メディアの権限、ネットワーク接続、ライブ配信の問題などについて解説します。",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "VicastCamヘルプ",
+    "titleHighlight": "すぐに答えが見つかる",
+    "description": "お使いのプラットフォーム（AndroidまたはiOS）を選択すると、デバイスに合わせたよくある質問と解決策が表示されます。"
+  },
+  "content": {
+    "sectionAriaLabel": "よくある質問",
+    "catalogAriaLabel": "質問カテゴリ",
+    "answerLabel": "回答",
+    "questionProgressTemplate": "{group}・質問 {current} / {total}"
+  }
+}

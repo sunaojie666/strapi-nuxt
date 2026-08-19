@@ -1,0 +1,105 @@
+{
+  "cards": [
+    {
+      "title": "Cách tạo phòng live mới",
+      "tag_1": "Di động",
+      "tag_2": "Hướng dẫn cơ bản"
+    },
+    {
+      "title": "Hiểu về các chế độ tách nền của VicastCam",
+      "tag_1": "Di động",
+      "tag_2": "Hướng dẫn tính năng"
+    },
+    {
+      "title": "Cách sử dụng tính năng Layer của VicastCam",
+      "tag_1": "Di động",
+      "tag_2": "Tính năng cốt lõi"
+    },
+    {
+      "title": "Làm quen với VicastCam trên máy tính",
+      "tag_1": "Máy tính",
+      "tag_2": "Hướng dẫn cơ bản"
+    },
+    {
+      "title": "Cách kết nối iPhone với VicastCam không dây",
+      "tag_1": "iOS",
+      "tag_2": "Hướng dẫn kết nối"
+    },
+    {
+      "title": "Cách thêm và sử dụng phương tiện cục bộ",
+      "tag_1": "Máy tính",
+      "tag_2": "Hướng dẫn sử dụng"
+    }
+  ],
+  "communitys": [
+    {
+      "content": {
+        "tag": "Cộng đồng toàn cầu",
+        "title_main": "Phát trực tiếp hoạt động ở mọi nơi",
+        "title_highlight": "Được tin dùng bởi streamer tại hơn 150 quốc gia",
+        "desc": "Phục vụ hơn 150 quốc gia và vùng lãnh thổ, chúng tôi giúp vô số streamer phát triển từ người mới bắt đầu thành những nhà sáng tạo nội dung trực tiếp chuyên nghiệp.",
+        "data_list": [
+          {
+            "number": "150+",
+            "name": "Quốc gia"
+          },
+          {
+            "number": "2000+",
+            "name": "Streamer hoạt động"
+          },
+          {
+            "number": "5000+",
+            "name": "Tăng mức độ phổ biến"
+          },
+          {
+            "number": "99.9%",
+            "name": "Độ ổn định"
+          }
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "faq_data": {
+        "locale": "vi",
+        "faq_section": {
+          "tag": "FAQ",
+          "title_main": "Có thắc mắc?",
+          "title_highlight": "Chúng tôi có câu trả lời.",
+          "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam bên dưới. Không tìm thấy điều bạn cần? Hãy liên hệ với đội ngũ của chúng tôi.",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Tôi có thể phát trực tiếp đến những nền tảng nào với VicastCam?",
+              "answer": "VicastCam hỗ trợ phát trực tiếp đến các nền tảng lớn như YouTube, Twitch, TikTok, Facebook Live và Instagram."
+            },
+            {
+              "id": "q2",
+              "question": "Tính năng xóa phông của VicastCam có cần phông xanh không?",
+              "answer": "Không. VicastCam sử dụng công nghệ xóa phông bằng AI, vì vậy bạn có thể thay đổi phông nền theo thời gian thực mà không cần phông xanh."
+            },
+            {
+              "id": "q3",
+              "question": "Tôi có thể sử dụng VicastCam trên điện thoại không?",
+              "answer": "Có. VicastCam có sẵn trên iOS và Android, và tất cả các tính năng chuyên nghiệp đều có trên di động."
+            },
+            {
+              "id": "q4",
+              "question": "VicastCam có độ tin cậy như thế nào?",
+              "answer": "VicastCam cung cấp độ ổn định 99.9%, hỗ trợ streamer trên toàn thế giới với khả năng phát trực tiếp không gián đoạn 24/7."
+            },
+            {
+              "id": "q5",
+              "question": "VicastCam có hỗ trợ phát trực tiếp nhiều camera không?",
+              "answer": "Có. Bạn có thể chuyển đổi linh hoạt giữa nhiều camera trong buổi phát trực tiếp để tạo ra một sản phẩm chuyên nghiệp."
+            }
+          ],
+          "view_more": {
+            "text": "Xem thêm"
+          }
+        }
+      }
+    }
+  ]
+}

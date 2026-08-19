@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Личный кабинет",
+    "description": "Страница личного кабинета VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Навигация по аккаунту",
+    "defaultProfileName": "Пользователь",
+    "emptyContent": "Нет контента",
+    "copyButtonLabel": "Копировать",
+    "monthSelectLabel": "Выберите месяц",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Информация о пользователе не найдена. Пожалуйста, войдите снова.",
+    "paginationLabel": "Пагинация",
+    "previousPageLabel": "Предыдущая страница",
+    "nextPageLabel": "Следующая страница",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Перейти",
+      "unit": "стр.",
+      "ariaLabel": "Перейти на конкретную страницу",
+      "buttonLabel": "Перейти"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Личный кабинет",
+    "logout": "Выйти",
+    "profileAriaSuffix": "Меню аккаунта"
+  },
+  "sidebar": {
+    "ariaLabel": "Навигация по аккаунту",
+    "menus": {
+      "account": "Информация об аккаунте",
+      "membership": "Подписка",
+      "redeem": "Активация кода",
+      "purchaseHistory": "История покупок",
+      "team": "Моя команда",
+      "earnings": "Доход"
+    }
+  },
+  "account": {
+    "ariaLabel": "Информация об аккаунте",
+    "profileTitle": "Информация об аккаунте",
+    "usernameLabel": "Имя пользователя",
+    "passwordLabel": "Пароль",
+    "passwordMask": "********",
+    "defaultUsername": "Псевдоним не задан",
+    "emailLabel": "Привязанная почта",
+    "emailPlaceholder": "Введите email",
+    "codePlaceholder": "Введите код подтверждения",
+    "sendCodeButton": "Получить код",
+    "bindButton": "Привязать email",
+    "alreadyBound": "Привязан",
+    "unboundEmail": "Не привязан",
+    "emailBindTip": "После привязки email нельзя изменить. Убедитесь, что адрес указан верно.",
+    "emailRequired": "Введите корректный email",
+    "codeRequired": "Введите код подтверждения",
+    "codeSent": "Код подтверждения отправлен. Проверьте почту.",
+    "bindSuccess": "Email успешно привязан",
+    "bindFailed": "Не удалось привязать email. Проверьте код и попробуйте снова.",
+    "requestFailed": "Ошибка запроса. Попробуйте позже.",
+    "inviteTitle": "Пригласительная ссылка",
+    "inviteDescription": "Скопируйте свою персональную пригласительную ссылку. Когда друзья зарегистрируются и купят подписку, вы получите вознаграждение.",
+    "emptyInviteLink": "Пригласительная ссылка недоступна"
+  }
+}

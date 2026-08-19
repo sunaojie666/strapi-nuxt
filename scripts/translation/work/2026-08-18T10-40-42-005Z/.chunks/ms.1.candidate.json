@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "Pusat Tutorial",
+    "titleMain": "Mulakan Perjalanan",
+    "titleHighlight": "Pembelajaran VicastCam Anda",
+    "descriptionMain": "Kuasai setiap ciri perisian",
+    "descriptionHighlight": "Mula menggunakan dengan pantas"
+  },
+  "player": {
+    "sectionAriaLabel": "Senarai Tutorial",
+    "catalogAriaLabel": "Katalog Tutorial",
+    "previousLabel": "Sebelumnya",
+    "nextLabel": "Seterusnya",
+    "firstLessonText": "Anda berada pada pelajaran pertama",
+    "lastLessonText": "Anda berada pada pelajaran terakhir",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

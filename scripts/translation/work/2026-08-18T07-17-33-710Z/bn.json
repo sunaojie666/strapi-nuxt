@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "পেমেন্ট পদ্ধতি বেছে নিন",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "PayPal ব্যালেন্স, ব্যাংক কার্ড বা ক্রেডিট কার্ড দিয়ে পেমেন্ট করুন",
+            "secureBadge": "নিরাপদ পেমেন্ট",
+            "methodLabel": "পেমেন্ট পদ্ধতি",
+            "accountLabel": "বর্তমান অ্যাকাউন্ট",
+            "signInRequired": "কেনাকাটা চালিয়ে যেতে সাইন ইন করুন",
+            "signInAction": "সাইন ইন",
+            "summaryHint": "পেমেন্ট সম্পূর্ণ করতে PayPal বাটনে ক্লিক করুন",
+            "trustItems": [
+              "পেমেন্ট PayPal দ্বারা নিরাপদে প্রক্রিয়া করা হয়",
+              "PayPal ব্যালেন্স, ব্যাংক কার্ড এবং ক্রেডিট কার্ড সমর্থন করে",
+              "সফল পেমেন্টের পর সদস্যপদ সুবিধা স্বয়ংক্রিয়ভাবে সক্রিয় হয়"
+            ],
+            "buttonPay": "PayPal দিয়ে পেমেন্ট করুন",
+            "buttonPending": "অর্ডার অপেক্ষমাণ",
+            "buttonCreating": "অর্ডার তৈরি হচ্ছে...",
+            "sdkLoading": "PayPal লোড হচ্ছে...",
+            "sdkError": "PayPal লোড করা যায়নি। আপনার নেটওয়ার্ক পরীক্ষা করে আবার চেষ্টা করুন।",
+            "sdkIneligible": "এই পরিবেশে PayPal পেমেন্ট সমর্থিত নয়",
+            "sdkMissingConfig": "PayPal কনফিগার করা নেই। প্রশাসকের সাথে যোগাযোগ করুন।",
+            "orderCreating": "পেমেন্ট অর্ডার তৈরি হচ্ছে...",
+            "orderCreateFailed": "অর্ডার তৈরি করা যায়নি। আবার চেষ্টা করুন।",
+            "orderProcessing": "পেমেন্ট ফলাফল নিশ্চিত করা হচ্ছে। পরে আবার চেক করুন।",
+            "orderSuccess": "পেমেন্ট সফল হয়েছে। আপনার সদস্যপদ সুবিধা সক্রিয় হয়েছে।",
+            "orderFailed": "পেমেন্ট সফল হয়নি। আবার চেষ্টা করুন।",
+            "orderPending": "পেমেন্ট সম্পূর্ণ হয়নি। পেমেন্ট সম্পূর্ণ করে আবার চেক করুন।",
+            "orderExpired": "পেমেন্ট অর্ডারের মেয়াদ শেষ হয়েছে। আবার চেষ্টা করুন।",
+            "statusQueryFailed": "পেমেন্ট স্ট্যাটাস চেক করা যায়নি। পরে আবার চেষ্টা করুন।",
+            "invalidPlan": "নির্বাচিত প্ল্যানটি সঠিক নয়। ফিরে গিয়ে আবার বেছে নিন।",
+            "popupBlocked": "পেমেন্ট উইন্ডোটি আপনার ব্রাউজার দ্বারা ব্লক করা হয়েছে। এই সাইটের জন্য পপ-আপ অনুমতি দিন এবং আবার চেষ্টা করুন।",
+            "popupOpened": "PayPal পেমেন্ট উইন্ডো খোলা হয়েছে। উইন্ডোতে পেমেন্ট সম্পূর্ণ করুন।",
+            "popupClosedChecking": "পেমেন্ট উইন্ডো বন্ধ হয়েছে। পেমেন্ট ফলাফল নিশ্চিত করা হচ্ছে...",
+            "popupClosedFailed": "পেমেন্ট উইন্ডো বন্ধ হয়েছে, কিন্তু অর্ডার সম্পূর্ণ হয়নি। আবার চেষ্টা করুন।"
+          },
+          "summary": {
+            "title": "অর্ডার সারাংশ",
+            "periodLabel": "সদস্যপদ সময়কাল",
+            "paymentMethodLabel": "পেমেন্ট পদ্ধতি",
+            "amountLabel": "পরিশোধযোগ্য পরিমাণ",
+            "paymentMethod": "PayPal অনলাইন পেমেন্ট",
+            "note": "সফল পেমেন্টের পর, সদস্যপদ সুবিধা স্বয়ংক্রিয়ভাবে আপনার বর্তমান অ্যাকাউন্টে দেওয়া হবে।",
+            "periodMonth": "১ মাস",
+            "periodYear": "১ বছর",
+            "periodLife": "আজীবন",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "পেমেন্ট ফলাফল নিশ্চিত করা হচ্ছে...",
+            "closeLabel": "বন্ধ করুন",
+            "iconAlt": "পেমেন্ট ফলাফল",
+            "titlePrefix": "পেমেন্ট",
+            "successTitleHighlight": "সফল!",
+            "failureTitleHighlight": "ব্যর্থ!",
+            "successDescription": "কেনাকাটার জন্য ধন্যবাদ। আপনার সদস্যপদ সক্রিয় হয়েছে।",
+            "failureDescription": "আপনার পেমেন্ট সম্পূর্ণ করা যায়নি। আবার চেষ্টা করুন বা অন্য পেমেন্ট পদ্ধতি ব্যবহার করুন।",
+            "orderNumber": "অর্ডার নম্বর",
+            "membershipType": "সদস্যপদের ধরন",
+            "expiry": "মেয়াদ শেষ হওয়ার তারিখ",
+            "orderStatus": "অর্ডার স্ট্যাটাস",
+            "successStatus": "পরিশোধিত",
+            "failureStatus": "অপরিশোধিত",
+            "successPrimaryAction": "সদস্যপদ কেন্দ্রে দেখুন",
+            "failurePrimaryAction": "পেমেন্ট পদ্ধতি পরিবর্তন করুন",
+            "successSecondaryAction": "ঠিক আছে",
+            "failureSecondaryAction": "পৃষ্ঠায় ফিরে যান",
+            "copyOrderNumber": "অর্ডার নম্বর কপি করুন",
+            "copied": "কপি হয়েছে",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "কেনাকাটা নিশ্চিত করুন | VicastCam",
+            "description": "আপনার VicastCam সদস্যপদ প্ল্যান নিশ্চিত করুন এবং PayPal এর মাধ্যমে পেমেন্ট সম্পূর্ণ করুন।"
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "মাসিক সদস্যপদ",
+              "description": "মাসিক ভিত্তিতে VicastCam-এর সব সদস্যপদ সুবিধা উপভোগ করুন",
+              "period": "১ মাস"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "বার্ষিক সদস্যপদ",
+              "description": "পুরো এক বছরের জন্য VicastCam-এর সব সদস্যপদ সুবিধা উপভোগ করুন",
+              "period": "১ বছর"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "আজীবন সদস্যপদ",
+              "description": "এককালীন কেনাকাটা, VicastCam সদস্যপদ সুবিধায় দীর্ঘমেয়াদী অ্যাক্সেস",
+              "period": "আজীবন"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

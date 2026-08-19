@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Mitgliedschaft",
+    "title": "Meine Mitgliedschaft",
+    "badgeAlt": "Mitgliedschaftsabzeichen",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Kostenloser Benutzer",
+    "activeVipName": "VIP-Mitglied",
+    "expirePrefix": "Läuft ab",
+    "emptyExpireDate": "Nicht aktiviert",
+    "activeStatus": "Aktiv",
+    "inactiveStatus": "Inaktiv",
+    "compareTitle": "Pläne vergleichen",
+    "compareHeaders": {
+      "feature": "Funktion",
+      "normal": "Kostenlos",
+      "month": "Monatlich",
+      "year": "Jährlich",
+      "life": "Lebenslang"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Monatlich",
+        "subtitle": "Ideal für kurzfristige Nutzung",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/Monat",
+        "cta": "Loslegen",
+        "benefits": [
+          "Kernfunktionen der virtuellen Kamera",
+          "Virtuelle Hintergründe & Verschönerung",
+          "Multi-Plattform-Livestreaming",
+          "Standard-Updates"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Jährlich",
+        "subtitle": "Besseres Preis-Leistungs-Verhältnis für langfristige Nutzung",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/Jahr",
+        "cta": "Loslegen",
+        "benefits": [
+          "Alles aus dem Monatsplan",
+          "Alle Premium-Funktionen für ein Jahr",
+          "Priorisierte Funktionsupdates",
+          "Dedizierter Mitgliedersupport"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Lebenslang",
+        "subtitle": "Einmal zahlen, dauerhaft nutzen",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/lebenslang",
+        "cta": "Loslegen",
+        "benefits": [
+          "Alles aus dem Jahresplan",
+          "Premium-Funktionen für immer",
+          "Langfristige Updates",
+          "Exklusiver Support-Kanal"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Mitgliedschaftsdauer",
+        "normal": "Für immer kostenlos",
+        "month": "30 Tage",
+        "year": "365 Tage",
+        "life": "Lebenslang"
+      },
+      {
+        "feature": "Desktop-Virtualkamera",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Benutzerdefinierte virtuelle Hintergründe",
+        "normal": "1 Satz",
+        "month": "Unbegrenzt",
+        "year": "Unbegrenzt",
+        "life": "Unbegrenzt"
+      },
+      {
+        "feature": "Streaming-Voreinstellungen",
+        "normal": "Nein",
+        "month": "Unbegrenzt",
+        "year": "Unbegrenzt",
+        "life": "Unbegrenzt"
+      },
+      {
+        "feature": "Offizielle Assets",
+        "normal": "Begrenzt",
+        "month": "Unbegrenzt",
+        "year": "Unbegrenzt",
+        "life": "Unbegrenzt"
+      },
+      {
+        "feature": "Fernsteuerung über Controller",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Szenenvergleichsmodus",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Szenenuntertitel",
+        "normal": "Begrenzt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Szenenmusik",
+        "normal": "Begrenzt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Multi-Kamera-Eingang",
+        "normal": "Nein",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Erweiterte Beauty-Filter",
+        "normal": "Basis",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "AI-Greenscreen-Matting",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Bewegungsverfolgungs-Animationen",
+        "normal": "Begrenzt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Szenen-Kameraeffekte",
+        "normal": "Begrenzt",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "VIP-Effektbibliothek",
+        "normal": "Begrenzt",
+        "month": "Unbegrenzt",
+        "year": "Unbegrenzt",
+        "life": "Unbegrenzt"
+      },
+      {
+        "feature": "Plattform-Streaming",
+        "normal": "Ja",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "4K-Ausgabe",
+        "normal": "Nein",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      },
+      {
+        "feature": "Provision für Empfehlungen",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Unter-Affiliate-Rabatt",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Support-Kanal",
+        "normal": "Community-Self-Service",
+        "month": "Standard-Warteschlange",
+        "year": "Priorisierte Antwort",
+        "life": "Dedizierter Support"
+      },
+      {
+        "feature": "Früher Zugang zu neuen Funktionen",
+        "normal": "Nein",
+        "month": "Ja",
+        "year": "Ja",
+        "life": "Ja"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Code einlösen",
+    "title": "Code einlösen",
+    "tip": "Geben Sie Ihren Mitgliedschafts-Einlösecode ein. Ihre Mitgliedschaft wird nach dem Einlösen sofort aktiviert.",
+    "placeholder": "Einlösecode eingeben",
+    "submitButton": "Einlösen",
+    "agreementPrefix": "Mit dem Einlösen stimmen Sie der",
+    "userProtocolText": "Nutzungsvereinbarung",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Einlösung fehlgeschlagen. Überprüfen Sie den Code und versuchen Sie es erneut."
+    }
+  }
+}

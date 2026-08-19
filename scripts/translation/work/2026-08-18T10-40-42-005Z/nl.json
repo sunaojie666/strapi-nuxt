@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Tutorialcentrum",
+          "titleMain": "Start je VicastCam",
+          "titleHighlight": "leertraject",
+          "descriptionMain": "Beheers elke functie van de software",
+          "descriptionHighlight": "Snel aan de slag"
+        },
+        "player": {
+          "sectionAriaLabel": "Tutoriallijst",
+          "catalogAriaLabel": "Tutorialcatalogus",
+          "previousLabel": "Vorige",
+          "nextLabel": "Volgende",
+          "firstLessonText": "Je bent bij de eerste les",
+          "lastLessonText": "Je bent bij de laatste les",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Aan de slag",
+            "count": "11 lessen",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "Je eerste virtuele studio maken",
+                "description": "Stel je eerste virtuele studio vanaf nul in en configureer deze.",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Beeldtools begrijpen",
+                "description": "Ontdek de basis van beeldtools en hun veelvoorkomende toepassingen.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Werken met lagen",
+                "description": "Maak kennis met het deelvenster Lagen en beheer lagen effectief.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Achtergrondlagen gebruiken",
+                "description": "Leer achtergrondlagen toevoegen en aanpassen voor je scène.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Portretlagen gebruiken",
+                "description": "Voeg portretlagen toe om je liveproductie te verbeteren.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Afbeeldingslagen gebruiken",
+                "description": "Voeg afbeeldingslagen toe en bewerk ze in je studio-opstelling.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Videolagen gebruiken",
+                "description": "Voeg videoclips toe en beheer de afspeelinstellingen.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Effectlagen gebruiken",
+                "description": "Pas visuele effecten toe op je livestream met effectlagen.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Bijschriftlagen gebruiken",
+                "description": "Maak bijschriften en pas hun weergave aan.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "Virtuele avatars gebruiken",
+                "description": "Breng je stream tot leven met integratie van virtuele avatars.",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "Scènes gebruiken",
+                "description": "Schakel naadloos tussen verschillende scène-indelingen tijdens je stream.",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "Geavanceerde tutorials",
+            "count": "6 lessen",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Camerabewegingslagen gebruiken",
+                "description": "Maak dynamische shots met camerabewegingslagen.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Padanimatie gebruiken",
+                "description": "Bestuur de bewegingspaden van elementen met de trajectfunctie.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Meerdere cameralagen gebruiken",
+                "description": "Stel meerdere cameralagen in voor snelle camerawisselingen.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "De controller gebruiken",
+                "description": "Beheer je hele uitzending vanuit één bedieningspaneel.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Audio-instellingen en mixen",
+                "description": "Configureer audio-ingangen, -uitgangen en mixinstellingen.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Back-up en herstel",
+                "description": "Maak een back-up van je studioconfiguratie en herstel deze wanneer nodig.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "Computer instellen",
+            "count": "7 lessen",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "Aan de slag met VicastCam",
+                "description": "Een overzicht van de interface en de belangrijkste functies.",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "Bekabelde verbinding – iPhone",
+                "description": "Verbind je iPhone met VicastCam via een bekabelde verbinding.",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "Draadloze verbinding – iPhone",
+                "description": "Verbind je iPhone met VicastCam via Wi-Fi.",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "Bekabelde verbinding – Android",
+                "description": "Verbind je Android-apparaat met VicastCam via een bekabelde verbinding.",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "Draadloze verbinding – Android",
+                "description": "Verbind je Android-apparaat met VicastCam via Wi-Fi.",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "Lokale media toevoegen en gebruiken",
+                "description": "Importeer en gebruik lokale mediabestanden in je projecten.",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "Wat te doen na het verbinden",
+                "description": "Zet je stream op zodra je apparaten zijn verbonden.",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

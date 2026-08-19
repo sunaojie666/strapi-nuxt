@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Payment not yet available",
+          "payment": {
+            "providerName": "Online payment not live",
+            "providerDescription": "Payment processing is being set up. This page only shows order details.",
+            "unavailableTitle": "Payment not yet available",
+            "unavailableDescription": "We are integrating the official payment and order confirmation process. Until launch, this page will not charge you or create a real order.",
+            "unavailableItems": [
+              "No third-party payment components will load",
+              "No payment information will be submitted",
+              "No real payment order will be created"
+            ],
+            "feedback": "To purchase or activate a membership, please contact business@vicastcam.com."
+          },
+          "summary": {
+            "title": "Order Summary",
+            "periodLabel": "Membership Period",
+            "paymentMethodLabel": "Payment Method",
+            "amountLabel": "Amount Due",
+            "submitLabel": "Not yet available",
+            "note": "Payment is not yet available. The order details below are for confirming your plan.",
+            "unavailablePaymentMethod": "Not yet available",
+            "fallbackProductName": "No plan selected",
+            "fallbackProductDescription": "Please return to the homepage and select a membership plan.",
+            "periodMonth": "1 month",
+            "periodYear": "1 year",
+            "periodLife": "Lifetime",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "Subscription Checkout",
+            "description": "VicastCam subscription checkout page."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "Monthly Plan",
+              "description": "Get a full month of access upon activation. A low-cost way to try it out."
+            },
+            {
+              "type": "year",
+              "name": "Yearly Plan",
+              "description": "Get a full year of access upon activation. Ideal for long-term, stable use."
+            },
+            {
+              "type": "life",
+              "name": "Lifetime Plan",
+              "description": "Activate once and use for the long term. Enjoy membership benefits continuously."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "en",
+        "multi_platform_section": {
+          "tag": "Multi-Platform Support",
+          "title_main": "Reach the World's Leading Live Streaming Platforms",
+          "title_highlight": "Unlock a Global Audience with One Click",
+          "description": "Connect to global traffic sources and build a new cross-border live streaming ecosystem."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Account Center",
+            "description": "VicastCam account center page"
+          },
+          "common": {
+            "sidebarAriaLabel": "Account center navigation",
+            "defaultProfileName": "User",
+            "emptyContent": "No content",
+            "copyButtonLabel": "Copy",
+            "monthSelectLabel": "Select month",
+            "yearSuffix": "y",
+            "monthSuffix": "mo",
+            "userMissing": "User information not found. Please log in again.",
+            "paginationLabel": "Pagination",
+            "previousPageLabel": "Previous page",
+            "nextPageLabel": "Next page",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Go to",
+              "unit": "page",
+              "ariaLabel": "Go to a specific page",
+              "buttonLabel": "Go"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Account Center",
+            "logout": "Log out",
+            "profileAriaSuffix": "Account center menu"
+          },
+          "sidebar": {
+            "ariaLabel": "Account center navigation",
+            "menus": {
+              "account": "Account Info",
+              "membership": "Membership",
+              "redeem": "Redeem Code",
+              "purchaseHistory": "Purchase History",
+              "team": "My Team",
+              "earnings": "Earnings"
+            }
+          },
+          "account": {
+            "ariaLabel": "Account info",
+            "profileTitle": "Account Info",
+            "usernameLabel": "Username",
+            "passwordLabel": "Password",
+            "passwordMask": "********",
+            "defaultUsername": "No nickname set",
+            "inviteTitle": "Invite Link",
+            "inviteDescription": "Copy your personal invite link. When friends sign up and activate a membership, you earn rewards.",
+            "emptyInviteLink": "No invite link yet"
+          },
+          "membership": {
+            "ariaLabel": "Membership",
+            "title": "My Membership",
+            "badgeAlt": "Membership badge",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Free User",
+            "activeVipName": "VIP Member",
+            "expirePrefix": "Expires",
+            "emptyExpireDate": "Not activated",
+            "activeStatus": "Active",
+            "inactiveStatus": "Not activated",
+            "compareTitle": "Compare Membership Benefits",
+            "compareHeaders": {
+              "feature": "Feature",
+              "normal": "Free",
+              "month": "Monthly",
+              "year": "Yearly",
+              "life": "Lifetime"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Monthly Membership",
+                "subtitle": "Great for short-term use",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/month",
+                "cta": "Get Started",
+                "benefits": [
+                  "Core virtual camera features",
+                  "Virtual backgrounds and beautification",
+                  "Multi-platform live streaming support",
+                  "Standard updates"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Yearly Membership",
+                "subtitle": "Better value for long-term use",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/year",
+                "cta": "Get Started",
+                "benefits": [
+                  "All Monthly benefits",
+                  "All advanced features for a year",
+                  "Priority feature updates",
+                  "Dedicated member support"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Lifetime Membership",
+                "subtitle": "Pay once, use for the long term",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/lifetime",
+                "cta": "Get Started",
+                "benefits": [
+                  "All Yearly benefits",
+                  "Advanced features forever",
+                  "Long-term updates",
+                  "Dedicated support channel"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Membership duration",
+                "normal": "Free forever",
+                "month": "30 days",
+                "year": "365 days",
+                "life": "Lifetime"
+              },
+              {
+                "feature": "Desktop virtual camera",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Custom virtual backgrounds",
+                "normal": "One set",
+                "month": "Unlimited",
+                "year": "Unlimited",
+                "life": "Unlimited"
+              },
+              {
+                "feature": "Live streaming presets",
+                "normal": "cross",
+                "month": "Unlimited",
+                "year": "Unlimited",
+                "life": "Unlimited"
+              },
+              {
+                "feature": "Official website assets",
+                "normal": "Limited",
+                "month": "Unlimited",
+                "year": "Unlimited",
+                "life": "Unlimited"
+              },
+              {
+                "feature": "Remote control via controller",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Live scene comparison mode",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene subtitles",
+                "normal": "Limited",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene music",
+                "normal": "Limited",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Multi-camera input",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Advanced beauty filters",
+                "normal": "Basic",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "AI smart green screen matting",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Dynamic motion trail animations",
+                "normal": "Limited",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Scene camera motion effects",
+                "normal": "Limited",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "VIP effects library",
+                "normal": "Limited",
+                "month": "Unlimited",
+                "year": "Unlimited",
+                "life": "Unlimited"
+              },
+              {
+                "feature": "Platform streaming",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "4K UHD output",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Promotion commission rate",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Referral rewards",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Support channel",
+                "normal": "Community self-service",
+                "month": "Standard queue",
+                "year": "Priority response",
+                "life": "Dedicated support"
+              },
+              {
+                "feature": "Early access to new features",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Redeem code",
+            "title": "Redeem Code",
+            "tip": "Enter your membership redemption code. Your benefits will be activated immediately after redemption.",
+            "placeholder": "Enter redemption code",
+            "submitButton": "Redeem Now",
+            "agreementPrefix": "By redeeming, you agree to the",
+            "userProtocolText": "User Agreement",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Redemption failed. Please check the code and try again."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Purchase history",
+            "title": "Purchase History",
+            "tabTitle": "Purchases",
+            "exchangeTabTitle": "Redemptions",
+            "tableHeaders": {
+              "title": "Type",
+              "date": "Payment Date",
+              "price": "Amount",
+              "paymentMethod": "Payment Method",
+              "status": "Status",
+              "exchangeDate": "Redemption Date",
+              "exchangeCode": "Redemption Code"
+            },
+            "exchangeTableHeaders": {
+              "date": "Redemption Date",
+              "code": "Redemption Code"
+            },
+            "cardTypes": {
+              "month": "Monthly Plan",
+              "year": "Yearly Plan",
+              "life": "Lifetime Plan",
+              "default": "Membership"
+            },
+            "orderStatuses": {
+              "pending": "Pending",
+              "paid": "Paid",
+              "closed": "Closed",
+              "refunded": "Refunded",
+              "unknown": "Unknown"
+            },
+            "secretLabels": {
+              "show": "Show password",
+              "hide": "Hide password"
+            },
+            "secretMask": "******",
+            "emptyText": "No purchase history",
+            "exchangeEmptyText": "No redemption history",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Bank card",
+              "creditcard": "Credit card",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Cryptocurrency",
+              "balance": "Balance",
+              "free": "Free"
+            }
+          },
+          "team": {
+            "ariaLabel": "My team",
+            "title": "My Team",
+            "referrerLabel": "My Referrer",
+            "levelOne": "Level 1 Members",
+            "levelTwo": "Level 2 Members",
+            "tableHeaders": {
+              "name": "Member Name",
+              "status": "Membership Status",
+              "joinedAt": "Joined"
+            },
+            "memberStatus": {
+              "free": "Free User",
+              "vip": "VIP User"
+            },
+            "emptyMemberName": "Unnamed User",
+            "emptyReferrer": "No referrer",
+            "emptyTeam": "No team members yet",
+            "errors": {
+              "loadFail": "Failed to load team members. Please try again later."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Earnings",
+            "title": "Earnings Overview",
+            "commissionTitle": "Commission Details",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Total Earnings",
+                "desc": "Total commission earned to date"
+              },
+              {
+                "key": "month",
+                "title": "This Month",
+                "desc": "Commission earned this month"
+              },
+              {
+                "key": "settling",
+                "title": "Pending Settlement",
+                "value": "0.00",
+                "desc": "Amount awaiting settlement"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Withdrawable",
+                "desc": "Amount currently available for withdrawal",
+                "action": "Withdraw"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Username",
+              "saleTime": "Sale Time",
+              "goodsInfo": "Product",
+              "commission": "Commission"
+            },
+            "emptyCommission": "No commission records",
+            "errors": {
+              "loadFail": "Failed to load commission details. Please try again later."
+            },
+            "withdraw": {
+              "ariaLabel": "Withdrawal request",
+              "title": "Withdrawal Request",
+              "closeLabel": "Close withdrawal dialog",
+              "balanceLabel": "Withdrawable Balance",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Withdrawal Amount",
+              "amountPlaceholder": "Enter withdrawal amount",
+              "allButton": "All",
+              "allAmountValue": "0.00",
+              "amountTip": "Please confirm the amount is correct. Your request will be reviewed manually after submission.",
+              "methodLabel": "Withdrawal Method",
+              "methods": [
+                "Bank card",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Bank card",
+              "nameLabel": "Recipient Name",
+              "namePlaceholder": "Enter recipient name",
+              "defaultName": "",
+              "bankCardLabel": "Account Number",
+              "bankCardPlaceholder": "Enter bank card number, PayPal email, or wallet address",
+              "remarkLabel": "Note",
+              "remarkPlaceholder": "Optional additional information",
+              "note": "Withdrawal requests are processed within 1-3 business days.",
+              "cancelButton": "Cancel",
+              "submitButton": "Submit Request"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Redemption successful",
+            "operationFailed": "Redemption failed",
+            "invalidCard": "Invalid redemption code",
+            "cardNotFound": "Redemption code not found",
+            "cardDisabled": "Redemption code disabled",
+            "cardExpired": "Redemption code expired"
+          },
+          "successMessage": "Operation successful"
+        }
+      }
+    }
+  ]
+}

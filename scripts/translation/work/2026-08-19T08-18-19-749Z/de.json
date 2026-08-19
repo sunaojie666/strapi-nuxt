@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Kontozentrum",
+            "description": "VicastCam Kontozentrum Seite"
+          },
+          "common": {
+            "sidebarAriaLabel": "Kontonavigation",
+            "defaultProfileName": "Benutzer",
+            "emptyContent": "Kein Inhalt",
+            "copyButtonLabel": "Kopieren",
+            "monthSelectLabel": "Monat auswählen",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "Benutzerinformationen nicht gefunden. Bitte melden Sie sich erneut an.",
+            "paginationLabel": "Seitennummerierung",
+            "previousPageLabel": "Vorherige Seite",
+            "nextPageLabel": "Nächste Seite",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Gehe zu",
+              "unit": "Seite",
+              "ariaLabel": "Zu einer bestimmten Seite gehen",
+              "buttonLabel": "Los"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Kontozentrum",
+            "logout": "Abmelden",
+            "profileAriaSuffix": "Kontomenü"
+          },
+          "sidebar": {
+            "ariaLabel": "Kontonavigation",
+            "menus": {
+              "account": "Kontoinformationen",
+              "membership": "Mitgliedschaft",
+              "redeem": "Code einlösen",
+              "purchaseHistory": "Kaufverlauf",
+              "team": "Mein Team",
+              "earnings": "Einnahmen"
+            }
+          },
+          "account": {
+            "ariaLabel": "Kontoinformationen",
+            "profileTitle": "Kontoinformationen",
+            "usernameLabel": "Benutzername",
+            "passwordLabel": "Passwort",
+            "passwordMask": "********",
+            "defaultUsername": "Kein Spitzname festgelegt",
+            "emailLabel": "Verknüpfte E-Mail",
+            "emailPlaceholder": "E-Mail eingeben",
+            "codePlaceholder": "Verifizierungscode eingeben",
+            "sendCodeButton": "Code anfordern",
+            "bindButton": "E-Mail verknüpfen",
+            "alreadyBound": "Verknüpft",
+            "unboundEmail": "Nicht verknüpft",
+            "emailBindTip": "Nach der Verknüpfung kann die E-Mail nicht mehr geändert werden. Bitte bestätigen Sie, dass die E-Mail-Adresse korrekt ist.",
+            "emailRequired": "Bitte geben Sie eine gültige E-Mail ein",
+            "codeRequired": "Bitte geben Sie den Verifizierungscode ein",
+            "codeSent": "Verifizierungscode gesendet. Überprüfen Sie Ihre E-Mail.",
+            "bindSuccess": "E-Mail erfolgreich verknüpft",
+            "bindFailed": "E-Mail-Verknüpfung fehlgeschlagen. Überprüfen Sie den Code und versuchen Sie es erneut.",
+            "requestFailed": "Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut.",
+            "inviteTitle": "Einladungslink",
+            "inviteDescription": "Kopieren Sie Ihren persönlichen Einladungslink. Wenn Freunde sich registrieren und eine Mitgliedschaft erwerben, erhalten Sie Belohnungen.",
+            "emptyInviteLink": "Kein Einladungslink verfügbar"
+          },
+          "membership": {
+            "ariaLabel": "Mitgliedschaft",
+            "title": "Meine Mitgliedschaft",
+            "badgeAlt": "Mitgliedschaftsabzeichen",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Kostenloser Benutzer",
+            "activeVipName": "VIP-Mitglied",
+            "expirePrefix": "Läuft ab",
+            "emptyExpireDate": "Nicht aktiviert",
+            "activeStatus": "Aktiv",
+            "inactiveStatus": "Inaktiv",
+            "compareTitle": "Pläne vergleichen",
+            "compareHeaders": {
+              "feature": "Funktion",
+              "normal": "Kostenlos",
+              "month": "Monatlich",
+              "year": "Jährlich",
+              "life": "Lebenslang"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Monatlich",
+                "subtitle": "Ideal für kurzfristige Nutzung",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/Monat",
+                "cta": "Loslegen",
+                "benefits": [
+                  "Kernfunktionen der virtuellen Kamera",
+                  "Virtuelle Hintergründe & Verschönerung",
+                  "Multi-Plattform-Livestreaming",
+                  "Standard-Updates"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Jährlich",
+                "subtitle": "Besseres Preis-Leistungs-Verhältnis für langfristige Nutzung",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/Jahr",
+                "cta": "Loslegen",
+                "benefits": [
+                  "Alles aus dem Monatsplan",
+                  "Alle Premium-Funktionen für ein Jahr",
+                  "Priorisierte Funktionsupdates",
+                  "Dedizierter Mitgliedersupport"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Lebenslang",
+                "subtitle": "Einmal zahlen, dauerhaft nutzen",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/lebenslang",
+                "cta": "Loslegen",
+                "benefits": [
+                  "Alles aus dem Jahresplan",
+                  "Premium-Funktionen für immer",
+                  "Langfristige Updates",
+                  "Exklusiver Support-Kanal"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Mitgliedschaftsdauer",
+                "normal": "Für immer kostenlos",
+                "month": "30 Tage",
+                "year": "365 Tage",
+                "life": "Lebenslang"
+              },
+              {
+                "feature": "Desktop-Virtualkamera",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Benutzerdefinierte virtuelle Hintergründe",
+                "normal": "1 Satz",
+                "month": "Unbegrenzt",
+                "year": "Unbegrenzt",
+                "life": "Unbegrenzt"
+              },
+              {
+                "feature": "Streaming-Voreinstellungen",
+                "normal": "Nein",
+                "month": "Unbegrenzt",
+                "year": "Unbegrenzt",
+                "life": "Unbegrenzt"
+              },
+              {
+                "feature": "Offizielle Assets",
+                "normal": "Begrenzt",
+                "month": "Unbegrenzt",
+                "year": "Unbegrenzt",
+                "life": "Unbegrenzt"
+              },
+              {
+                "feature": "Fernsteuerung über Controller",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Szenenvergleichsmodus",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Szenenuntertitel",
+                "normal": "Begrenzt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Szenenmusik",
+                "normal": "Begrenzt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Multi-Kamera-Eingang",
+                "normal": "Nein",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Erweiterte Beauty-Filter",
+                "normal": "Basis",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "AI-Greenscreen-Matting",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Bewegungsverfolgungs-Animationen",
+                "normal": "Begrenzt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Szenen-Kameraeffekte",
+                "normal": "Begrenzt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "VIP-Effektbibliothek",
+                "normal": "Begrenzt",
+                "month": "Unbegrenzt",
+                "year": "Unbegrenzt",
+                "life": "Unbegrenzt"
+              },
+              {
+                "feature": "Plattform-Streaming",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "4K-Ausgabe",
+                "normal": "Nein",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Provision für Empfehlungen",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Unter-Affiliate-Rabatt",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Support-Kanal",
+                "normal": "Community-Self-Service",
+                "month": "Standard-Warteschlange",
+                "year": "Priorisierte Antwort",
+                "life": "Dedizierter Support"
+              },
+              {
+                "feature": "Früher Zugang zu neuen Funktionen",
+                "normal": "Nein",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Code einlösen",
+            "title": "Code einlösen",
+            "tip": "Geben Sie Ihren Mitgliedschafts-Einlösecode ein. Ihre Mitgliedschaft wird nach dem Einlösen sofort aktiviert.",
+            "placeholder": "Einlösecode eingeben",
+            "submitButton": "Einlösen",
+            "agreementPrefix": "Mit dem Einlösen stimmen Sie der",
+            "userProtocolText": "Nutzungsvereinbarung",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Einlösung fehlgeschlagen. Überprüfen Sie den Code und versuchen Sie es erneut."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Kaufverlauf",
+            "title": "Kaufverlauf",
+            "tabTitle": "Käufe",
+            "exchangeTabTitle": "Einlösungen",
+            "tableHeaders": {
+              "title": "Typ",
+              "date": "Zahlungszeitpunkt",
+              "price": "Betrag",
+              "paymentMethod": "Zahlungsmethode",
+              "status": "Status",
+              "exchangeDate": "Einlösungszeitpunkt",
+              "exchangeCode": "Einlösecode"
+            },
+            "exchangeTableHeaders": {
+              "date": "Einlösungszeitpunkt",
+              "code": "Einlösecode"
+            },
+            "cardTypes": {
+              "month": "Monatskarte",
+              "year": "Jahreskarte",
+              "life": "Lebenslange Karte",
+              "default": "Mitgliedskarte"
+            },
+            "orderStatuses": {
+              "pending": "Zahlung ausstehend",
+              "paid": "Bezahlt",
+              "closed": "Geschlossen",
+              "refunded": "Erstattet",
+              "unknown": "Unbekannt"
+            },
+            "secretLabels": {
+              "show": "Passwort anzeigen",
+              "hide": "Passwort verbergen"
+            },
+            "secretMask": "******",
+            "emptyText": "Noch keine Käufe vorhanden",
+            "exchangeEmptyText": "Noch keine Einlösungen vorhanden",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Bankkarte",
+              "creditcard": "Kreditkarte",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Kryptowährung",
+              "balance": "Guthaben",
+              "free": "Kostenlos"
+            }
+          },
+          "team": {
+            "ariaLabel": "Mein Team",
+            "title": "Mein Team",
+            "referrerLabel": "Mein Empfehler",
+            "levelOne": "Mitglieder der Stufe 1",
+            "levelTwo": "Mitglieder der Stufe 2",
+            "tableHeaders": {
+              "name": "Mitgliedsname",
+              "status": "Mitgliedschaftsstatus",
+              "joinedAt": "Beitrittszeit"
+            },
+            "memberStatus": {
+              "free": "Kostenloser Benutzer",
+              "vip": "VIP-Benutzer"
+            },
+            "emptyMemberName": "Unbenannter Benutzer",
+            "emptyReferrer": "Kein Empfehler",
+            "emptyTeam": "Noch keine Teammitglieder",
+            "errors": {
+              "loadFail": "Teammitglieder konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Einnahmenzentrum",
+            "title": "Einnahmenübersicht",
+            "commissionTitle": "Provisionsdetails",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Gesamteinnahmen",
+                "desc": "Gesamte Provision bisher verdient"
+              },
+              {
+                "key": "month",
+                "title": "Dieser Monat",
+                "desc": "Provision in diesem Monat verdient"
+              },
+              {
+                "key": "settling",
+                "title": "Ausstehende Abrechnung",
+                "value": "0.00",
+                "desc": "Betrag, der auf Abrechnung wartet"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Abhebbar",
+                "desc": "Betrag, der derzeit zur Auszahlung verfügbar ist",
+                "action": "Abheben"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Benutzername",
+              "saleTime": "Verkaufszeitpunkt",
+              "goodsInfo": "Produkt",
+              "commission": "Provision"
+            },
+            "emptyCommission": "Noch keine Provisionsaufzeichnungen",
+            "errors": {
+              "loadFail": "Provisionsdetails konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
+            },
+            "withdraw": {
+              "ariaLabel": "Auszahlungsanfrage",
+              "title": "Auszahlungsanfrage",
+              "closeLabel": "Auszahlungsdialog schließen",
+              "balanceLabel": "Abhebbares Guthaben",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Auszahlungsbetrag",
+              "amountPlaceholder": "Auszahlungsbetrag eingeben",
+              "allButton": "Alles",
+              "allAmountValue": "0.00",
+              "amountTip": "Bitte bestätigen Sie, dass der Betrag korrekt ist. Ihre Anfrage wird nach dem Absenden manuell geprüft.",
+              "methodLabel": "Auszahlungsmethode",
+              "methods": [
+                "Bankkarte",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Bankkarte",
+              "nameLabel": "Name des Zahlungsempfängers",
+              "namePlaceholder": "Name des Zahlungsempfängers eingeben",
+              "defaultName": "",
+              "bankCardLabel": "Kontonummer",
+              "bankCardPlaceholder": "Bankkartennummer, PayPal-E-Mail oder Wallet-Adresse eingeben",
+              "remarkLabel": "Bemerkungen",
+              "remarkPlaceholder": "Zusätzliche Hinweise hinzufügen",
+              "note": "Auszahlungsanfragen werden innerhalb von 1-3 Werktagen bearbeitet.",
+              "cancelButton": "Abbrechen",
+              "submitButton": "Anfrage absenden"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Einlösung erfolgreich",
+            "operationFailed": "Einlösung fehlgeschlagen",
+            "invalidCard": "Ungültiger Einlösecode",
+            "cardNotFound": "Einlösecode nicht gefunden",
+            "cardDisabled": "Einlösecode deaktiviert",
+            "cardExpired": "Einlösecode abgelaufen"
+          },
+          "successMessage": "Vorgang erfolgreich"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Canlı yayın öğeleri için önerilen boyutlar nelerdir?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Canlı yayın öğeleri için önerilen boyutlar:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Canlı yayın arka plan görselleri için 1080 x 1920 piksel öneriyoruz; videolar için de 1080 x 1920 piksel öneriyoruz.",
+            "Önemli: Tam ekran kaplamalar 9:16 en-boy oranını kullanmalıdır. Böylece tam ekran ve 9:16 modları arasında hizasız geçiş olmaz ve kusursuz bir uyum elde edilir."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Yayın için hangi çıkış modları destekleniyor?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Yayın iki çıkış modunu destekler: 9:16 yayın ve tam ekran yayın. Android cihazınızda birini seçmek için şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "VicastCam'i açın, canlı yayın sayfasına gidin ve sağ taraftaki menü simgesine dokunun."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Android canlı yayın sayfasının sağ tarafındaki menü girişi",
+          "caption": "Adım 1: Canlı yayın sayfasının sağ tarafındaki menü simgesine dokunun."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Diğer Ayarlar'da 'En-Boy Oranı'nı bulun ve ihtiyacınıza göre 'Tam Ekran' veya '9:16' seçin."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Android'de Diğer Ayarlar'daki en-boy oranı seçenekleri",
+          "caption": "Adım 2: 'En-Boy Oranı'nda 'Tam Ekran' veya '9:16'yı seçin."
+        },
+        {
+          "type": "heading",
+          "text": "İki modun açıklaması"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 yayın: Çıkış en-boy oranı sabit olarak 9:16'dır, böylece yayın platformu 9:16 görüntü alır.",
+            "Tam ekran yayın: Telefon ekranının tamamını olduğu gibi iletir, yerel içeriği kırpmadan korur."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Hesabımı nasıl silebilirim?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Lütfen VicastCam uygulamasına giriş yapın, ardından [Hesap - sağ üst simge - Hesap Yönetimi - Hesabı Sil - Silme Talebi Gönder] adımlarını izleyin."
+        },
+        {
+          "type": "heading",
+          "text": "Hesap bilgileri"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hesap silindikten sonra bağlı e-postanızı, cihaz kayıtlarınızı ve diğer kimlik bilgilerinizi kalıcı olarak sileceğiz ve Google ve Apple hesapları aracılığıyla yaptığınız üçüncü taraf giriş yetkilendirmesini iptal edeceğiz. Yetkilendirme iptal edildikten sonra bu üçüncü taraf hesaplarla hızlı giriş yapamazsınız; uygulamayı tekrar kullanmak için yeniden yetkilendirme ve bağlama yapmanız gerekecektir."
+        },
+        {
+          "type": "heading",
+          "text": "İçerik ve öğeler"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tüm canlı yayın öğeleri, videolar, görseller ve proje dosyaları yalnızca cihazınızda saklanır; bulut hiçbir yaratıcı öğeyi tutmaz. Silme işleminden sonra uygulamadaki öğe yönetimi özelliği çalışmaz, bu nedenle öğelerinizi önceden 'Öğe Dışa Aktar' ile yedekleyin.",
+            "Uygulamayı kaldırıp yeniden kurarsanız, cihaz değiştirirseniz veya önceden yedek almayı unutursanız, öğeleriniz kalıcı olarak kurtarılamaz."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Üyelik avantajları"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hesap silindikten sonra üyelik avantajlarınız anında sona erer. Aktif bir Google Play aboneliğiniz varsa, uygulama hesabınızı silmek aboneliği otomatik olarak iptal etmez ve ücretlendirilmeye devam edebilirsiniz. Lütfen Google Play'in 'Ödemeler ve abonelikler - Abonelikler' bölümünden manuel olarak iptal edin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Herhangi bir sorunuz varsa, lütfen müşteri destek ekibimizle iletişime geçin."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Öğe eklerken telefonumdaki fotoğraflara ve videolara neden erişemiyorum?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Öğe eklerken fotoğraf albümünüz boş görünüyorsa, fotoğraf erişim izinlerini şu şekilde etkinleştirebilirsiniz:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Telefonunuzun Ayarlar'ını açın, VicastCam'i bulmak için aşağı kaydırın, [Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunarak erişimi etkinleştirin.",
+            "Android: Telefonunuzun Ayarlar'ını açın, [İzin Yönetimi] veya [Uygulama Yönetimi] altında VicastCam'i bulun, ardından [İzin Yönetimi - Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunarak erişimi etkinleştirin.",
+            "Sorun devam ederse, uygulamayı kaldırıp yeniden kurmayı deneyin veya geri bildirim özelliği aracılığıyla çevrimiçi destekle iletişime geçin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "Bilgisayardan yayın yaparken ekran tam görüntülenmiyorsa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Telefonunuzdan canlı yayın yardımcı uygulaması veya başka bir yazılım aracılığıyla yayın yaparken ekran eksik görünüyorsa, ayarlamak için şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "VicastCam'i açın, canlı yayın sayfasına girmek için alttaki kamera simgesine dokunun, ardından [Sağ menü - Diğer Ayarlar - En-Boy Oranı - 9:16] seçeneğine gidin.",
+            "Canlı yayın yardımcısına yansıttıktan sonra, önce ekranı tuval üzerine sığdırın, ardından ekranı doldurmak için dikey olarak sürükleyin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Not: Yayına başlamadan önce, önce en-boy oranını ayarlayın, ardından öğelerinizi ekleyin."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "Ağ isteği başarısız olursa ne yapmalıyım?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Ağ isteği hatalarıyla karşılaşırsanız, şunları deneyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Telefonunuzun Ayarlar'ını açın, [İzin Yönetimi - VicastCam - Mobil Veri ve Wi-Fi] bölümüne gidin ve ağ erişimini etkinleştirin.",
+            "Telefonunuzdaki güç tasarrufu modunu ve arka plan kısıtlamalarını kapatın.",
+            "Ağ değiştirin, telefonunuzu yeniden başlatın, uçak modunu açıp kapatın veya uygulamayı en son sürüme güncelleyin.",
+            "Sorun devam ederse, hatanın ekran görüntüsünü alın ve yardım için müşteri desteğiyle iletişime geçin."
+          ]
+        }
+      ]
+    }
+  ]
+}

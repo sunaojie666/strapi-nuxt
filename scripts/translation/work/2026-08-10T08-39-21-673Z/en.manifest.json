@@ -1,0 +1,17 @@
+{
+  "id": "ed2223e0-9222-4ed0-88ba-35c08f58f593",
+  "locale": "en",
+  "contentType": "marketing",
+  "status": "approved",
+  "score": 100,
+  "reviewer": "independent-deepseek-chat",
+  "model": "deepseek-chat",
+  "promptVersion": "1.0.0",
+  "runId": "2026-08-10T08-39-21-673Z",
+  "sourcePath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T08-39-21-673Z\\zh-CN.json",
+  "translationPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T08-39-21-673Z\\en.json",
+  "sourceHash": "57c8d269bbfb6473dac0ef2325d1ef55a3c2a3ef7d0c9ed22a0e2011010ab415",
+  "translationHash": "3a63b353ff9856561d7284a6fb9f00c6e8307a1d43eb645c6ed8715f848cea7a",
+  "workflowVersion": "1.0.0",
+  "createdAt": "2026-08-10T08:39:21.683Z"
+}

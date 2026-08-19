@@ -1,0 +1,48 @@
+{
+  "__chunk": [
+    {
+      "key": "agreement-section-3",
+      "title": "3 Account Management",
+      "paragraphs": [
+        "3.1 You may register an account yourself or use a legitimate third-party platform account to log in. Third-party accounts must be verified with real-name information and comply with platform rules. You are responsible for safeguarding your account and password and for all actions taken under your account.",
+        "3.2 In accordance with network supervision and real-name registration requirements worldwide, you must provide true, accurate, and valid identity information and contact details (such as email) when registering. If the information is false or questionable, the Licensor has the right to require correction, restrict or terminate services. Some registration information cannot be modified for security verification purposes.",
+        "3.3 Some basic features may be used without logging in. Full functionality and paid services require registration, login, and identity verification.",
+        "3.4 Account information such as nickname, avatar, and bio must not impersonate others' names, trademarks, portraits, or other legal rights, and must not contain illegal, vulgar, or misleading content. The Licensor has the right to review account information and take measures such as resetting, restricting functions, or banning accounts for violations.",
+        "3.5 Accounts are for personal use only and may be logged in on devices you legally control. Gifting, lending, renting, transferring, or selling accounts is prohibited. If the user is found to be inconsistent with the registrant, the Licensor has the right to suspend or terminate services.",
+        "3.6 You are responsible for the security and confidentiality of your account and bear full legal responsibility for all operations, content, and actions under your account.",
+        "3.7 If your account is stolen or you forget your password, you can recover it through the official appeal channel.",
+        "3.7.1 If your account is stolen, information is leaked, or property is lost due to improper custody, device loss, or voluntary disclosure of account credentials, you shall bear full responsibility.",
+        "3.7.2 Account recovery services only verify information stored in the system and cannot determine the true identity of the user. You bear the related risks. If you notice any abnormal account activity, please contact official customer service immediately.",
+        "3.8 Account Cancellation and Data Processing",
+        "3.8.1 You can apply for account cancellation through the Software's \"Me > Settings > Account Management > Cancel Account\" or via the official email. Ownership verification is required before cancellation.",
+        "3.8.2 After account cancellation, a 30-day data buffer period is reserved (only for financial reconciliation, dispute resolution, and after-sales verification). After this period, permanent physical deletion will be executed, except for transaction records that must be retained as required by law.",
+        "3.8.3 After account cancellation, the account and data cannot be recovered. Obligations and liabilities incurred during your use are not exempted by cancellation."
+      ]
+    },
+    {
+      "key": "agreement-section-4",
+      "title": "4 User Conduct",
+      "paragraphs": [
+        "4.1 You undertake to comply with global laws on network security, intellectual property, portrait rights, and privacy while using this Software, and to respect the legal rights of others. Unless permitted by law or authorized in writing by the Licensor, the following acts are prohibited:",
+        "4.1.1 Uploading or disseminating unauthorized personal information, trade secrets, or infringing content.",
+        "4.1.2 Using cheats, plugins, or third-party tools to interfere with or disrupt the normal operation of this Software.",
+        "4.1.3 Engaging in illegal network intrusion, data theft, virus dissemination, vulnerability scanning, forging network data packets, or other cyber attacks.",
+        "4.1.4 Mass malicious registration of accounts.",
+        "4.1.5 Reverse engineering, decompiling, disassembling, or attempting to crack the source code of this Software.",
+        "4.1.6 Creating or disseminating pornographic, violent, defamatory, or illegal content.",
+        "4.1.7 Promoting tobacco, alcohol, gambling, weapons, or prohibited items.",
+        "4.1.8 Secretly photographing, recording, or disseminating others' images, voices, or private information without authorization, infringing on their portrait or privacy rights.",
+        "4.1.9 Other acts that violate local laws, this Agreement, or platform rules.",
+        "4.1.10 If you violate this Agreement, the Licensor has the right to delete violating content without notice and impose penalties such as warnings, feature bans, device bans, or permanent account bans, depending on the severity. Violating users may submit appeals via the official email, and the Licensor has the final review authority.",
+        "4.2 When creating content with this Software, you are prohibited from using built-in materials, effects, or logos for third-party trademarks, logos, or commercial identifiers (except for your own copyrighted content).",
+        "4.3 You must not use this Software to publish or disseminate violent, pornographic, defamatory, doxxing, privacy-infringing, spam, or other content that violates laws or public order and good customs.",
+        "4.4 The Licensor has the right to supervise and review user behavior and may require rectification, delete content, suspend or terminate services upon discovering violations.",
+        "4.5 Special Feature Restrictions",
+        "4.5.1 Camera and Live Streaming: Before using the camera, live streaming, or screen recording features, you must obtain explicit consent from all persons being filmed or recorded. It is strictly prohibited to use this Software for secret photography, secret recording, illegal live streaming, or other illegal acts. You bear all related responsibilities.",
+        "4.5.2 AI Features: The intellectual property rights of the AI algorithms, models, effects, and visual materials in this Software belong to the Licensor or cooperating third parties. You may only use them for personal, non-commercial, legal creation. You are prohibited from creating deepfakes, fake audio/video, fraud, or illegal content.",
+        "4.5.3 Regional Compliance: You must strictly comply with the regulatory requirements of your country/region regarding live streaming, biometric data collection, and AI content.",
+        "4.6 If your violation causes losses to the Licensor, paid fees will not be refunded, and you must fully compensate the Licensor for all economic and reputational losses."
+      ]
+    }
+  ]
+}

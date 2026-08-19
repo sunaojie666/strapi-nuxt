@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Trung tâm tài khoản",
+    "description": "Trang Trung tâm tài khoản VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "Điều hướng tài khoản",
+    "defaultProfileName": "Người dùng",
+    "emptyContent": "Không có nội dung",
+    "copyButtonLabel": "Sao chép",
+    "monthSelectLabel": "Chọn tháng",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "Không tìm thấy thông tin người dùng. Vui lòng đăng nhập lại.",
+    "paginationLabel": "Phân trang",
+    "previousPageLabel": "Trang trước",
+    "nextPageLabel": "Trang sau",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Đi tới",
+      "unit": "trang",
+      "ariaLabel": "Đi tới trang cụ thể",
+      "buttonLabel": "Đi"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Trung tâm tài khoản",
+    "logout": "Đăng xuất",
+    "profileAriaSuffix": "Menu tài khoản"
+  },
+  "sidebar": {
+    "ariaLabel": "Điều hướng tài khoản",
+    "menus": {
+      "account": "Thông tin tài khoản",
+      "membership": "Gói thành viên",
+      "redeem": "Nhập mã",
+      "purchaseHistory": "Lịch sử mua",
+      "team": "Đội của tôi",
+      "earnings": "Thu nhập"
+    }
+  },
+  "account": {
+    "ariaLabel": "Thông tin tài khoản",
+    "profileTitle": "Thông tin tài khoản",
+    "usernameLabel": "Tên người dùng",
+    "passwordLabel": "Mật khẩu",
+    "passwordMask": "********",
+    "defaultUsername": "Chưa đặt biệt danh",
+    "emailLabel": "Email liên kết",
+    "emailPlaceholder": "Nhập email của bạn",
+    "codePlaceholder": "Nhập mã xác minh",
+    "sendCodeButton": "Lấy mã",
+    "bindButton": "Liên kết email",
+    "alreadyBound": "Đã liên kết",
+    "unboundEmail": "Chưa liên kết",
+    "emailBindTip": "Sau khi liên kết, email không thể thay đổi. Vui lòng xác nhận địa chỉ email chính xác.",
+    "emailRequired": "Vui lòng nhập email hợp lệ",
+    "codeRequired": "Vui lòng nhập mã xác minh",
+    "codeSent": "Mã xác minh đã được gửi. Kiểm tra email của bạn.",
+    "bindSuccess": "Liên kết email thành công",
+    "bindFailed": "Liên kết email thất bại. Kiểm tra mã và thử lại.",
+    "requestFailed": "Yêu cầu thất bại. Vui lòng thử lại sau.",
+    "inviteTitle": "Liên kết mời",
+    "inviteDescription": "Sao chép liên kết mời cá nhân của bạn. Khi bạn bè đăng ký và mua gói thành viên, bạn sẽ nhận được phần thưởng.",
+    "emptyInviteLink": "Không có liên kết mời"
+  }
+}

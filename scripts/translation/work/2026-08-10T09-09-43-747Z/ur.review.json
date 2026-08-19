@@ -1,0 +1,158 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.cards[1].title",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'AI matting' for 'AI 抠像'. Translate 'Matting Modes' as 'AI میٹنگ موڈز' or 'AI میٹنگ کے طریقے'."
+    },
+    {
+      "path": "$.cards[2].title",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'virtual camera' for '虚拟摄像头'. Translate 'Layer Feature' as 'ورچوئل کیمرہ لیئر فیچر' or 'ورچوئل کیمرے کی لیئر فیچر'."
+    },
+    {
+      "path": "$.communitys[0].content.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider rephrasing for more natural Urdu: '150+ ممالک میں اسٹریمرز کا اعتماد' is acceptable but could be '150+ ممالک میں اسٹریمرز کی پسندیدگی' or '150+ ممالک میں اسٹریمرز کا بھروسہ'."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[1].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'AI سے چلنے والی بیک گراؤنڈ ہٹانے کی صلاحیت' is slightly awkward. Suggest 'AI پر مبنی بیک گراؤنڈ ہٹانے کی صلاحیت' or 'AI سے چلنے والا بیک گراؤنڈ ہٹانے کا نظام'."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[4].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'متعدد کیمروں کے درمیان آسانی سے سوئچ کر سکتے ہیں' is fine, but 'کیمروں' could be 'کیمرہ جات' for more formal Urdu. Also consider 'سوئچ' as 'تبدیل' for clarity."
+    },
+    {
+      "path": "$.tutorials[0].data.titleMain",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'اپنا VicastCam' is incomplete. Suggest 'اپنا VicastCam شروع کریں' or 'VicastCam کے ساتھ آغاز کریں'."
+    }
+  ],
+  "revisedContent": {
+    "cards": [
+      {
+        "title": "نئی لائیو روم کیسے بنائیں",
+        "tag_1": "موبائل",
+        "tag_2": "ابتدائی ٹیوٹوریل"
+      },
+      {
+        "title": "VicastCam کے AI میٹنگ موڈز کو سمجھنا",
+        "tag_1": "موبائل",
+        "tag_2": "فیچر ٹیوٹوریل"
+      },
+      {
+        "title": "VicastCam کی ورچوئل کیمرہ لیئر فیچر کیسے استعمال کریں",
+        "tag_1": "موبائل",
+        "tag_2": "بنیادی فیچر"
+      },
+      {
+        "title": "ڈیسک ٹاپ پر VicastCam سے واقفیت",
+        "tag_1": "ڈیسک ٹاپ",
+        "tag_2": "ابتدائی ٹیوٹوریل"
+      },
+      {
+        "title": "iPhone کو VicastCam سے وائرلیس کیسے جوڑیں",
+        "tag_1": "iOS",
+        "tag_2": "کنکشن ٹیوٹوریل"
+      },
+      {
+        "title": "لوکل میڈیا کیسے شامل کریں اور استعمال کریں",
+        "tag_1": "ڈیسک ٹاپ",
+        "tag_2": "استعمال کا ٹیوٹوریل"
+      }
+    ],
+    "communitys": [
+      {
+        "content": {
+          "tag": "عالمی کمیونٹی",
+          "title_main": "لائیو اسٹریمنگ جو ہر جگہ کام کرتی ہے",
+          "title_highlight": "150+ ممالک میں اسٹریمرز کا اعتماد",
+          "desc": "150 سے زائد ممالک اور خطوں میں خدمات فراہم کرتے ہوئے، ہم بے شمار اسٹریمرز کو ابتدائی سے پیشہ ور لائیو مواد تخلیق کار بننے میں مدد دیتے ہیں۔",
+          "data_list": [
+            {
+              "number": "150+",
+              "name": "ممالک"
+            },
+            {
+              "number": "2000+",
+              "name": "فعال اسٹریمرز"
+            },
+            {
+              "number": "5000+",
+              "name": "مقبولیت میں اضافہ"
+            },
+            {
+              "number": "99.9%",
+              "name": "استحکام"
+            }
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "faq_data": {
+          "locale": "ur",
+          "faq_section": {
+            "tag": "عمومی سوالات",
+            "title_main": "سوالات؟",
+            "title_highlight": "ہمارے پاس جوابات ہیں۔",
+            "description": "ذیل میں VicastCam کے بارے میں عام سوالات کے جوابات تلاش کریں۔ جو آپ ڈھونڈ رہے ہیں وہ نہیں مل رہا؟ ہماری ٹیم سے رابطہ کریں۔",
+            "questions": [
+              {
+                "id": "q1",
+                "question": "VicastCam کے ساتھ میں کن پلیٹ فارمز پر اسٹریم کر سکتا ہوں؟",
+                "answer": "VicastCam YouTube، Twitch، TikTok، Facebook Live اور Instagram جیسے بڑے پلیٹ فارمز پر اسٹریمنگ کی حمایت کرتا ہے۔"
+              },
+              {
+                "id": "q2",
+                "question": "کیا VicastCam کے بیک گراؤنڈ ہٹانے کے لیے گرین اسکرین کی ضرورت ہے؟",
+                "answer": "نہیں۔ VicastCam AI پر مبنی بیک گراؤنڈ ہٹانے کی صلاحیت استعمال کرتا ہے، لہذا آپ گرین اسکرین کے بغیر حقیقی وقت میں اپنا بیک گراؤنڈ تبدیل کر سکتے ہیں۔"
+              },
+              {
+                "id": "q3",
+                "question": "کیا میں اپنے فون پر VicastCam استعمال کر سکتا ہوں؟",
+                "answer": "جی ہاں۔ VicastCam iOS اور Android پر دستیاب ہے، اور تمام پیشہ ورانہ خصوصیات موبائل پر دستیاب ہیں۔"
+              },
+              {
+                "id": "q4",
+                "question": "VicastCam کتنا قابل اعتماد ہے؟",
+                "answer": "VicastCam 99.9% استحکام فراہم کرتا ہے، جو دنیا بھر کے اسٹریمرز کو 24/7 بلاتعطل اسٹریمنگ کی حمایت کرتا ہے۔"
+              },
+              {
+                "id": "q5",
+                "question": "کیا VicastCam ملٹی کیمرہ اسٹریمنگ کو سپورٹ کرتا ہے؟",
+                "answer": "جی ہاں۔ آپ لائیو اسٹریم کے دوران متعدد کیمرہ جات کے درمیان آسانی سے تبدیل کر سکتے ہیں تاکہ پیشہ ورانہ پروڈکشن حاصل کی جا سکے۔"
+              }
+            ],
+            "view_more": {
+              "text": "مزید دیکھیں"
+            }
+          }
+        }
+      }
+    ],
+    "tutorials": [
+      {
+        "data": {
+          "sectionTag": "ٹیوٹوریل سینٹر",
+          "titleMain": "اپنا VicastCam شروع کریں",
+          "titleHighlight": "سیکھنے کا سفر شروع کریں",
+          "description": "سافٹ ویئر پر عبور حاصل کریں اور تیزی سے آگے بڑھیں",
+          "buttonText": "مزید دیکھیں"
+        }
+      }
+    ]
+  }
+}

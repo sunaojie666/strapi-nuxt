@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Dlaczego zasoby sieciowe lub nakładki migoczą lub stają się czarne podczas transmisji na żywo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli podczas transmisji na żywo występują migotania lub czarne ekrany po dodaniu zasobów sieciowych, oto jak sobie z tym poradzić:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pobierz i wyświetl podgląd wszystkich zasobów lub nakładek, które planujesz użyć podczas transmisji, z wyprzedzeniem i upewnij się, że działają poprawnie przed rozpoczęciem transmisji.",
+            "Niektóre zasoby dołączone do oprogramowania są przechowywane na serwerach. Jeśli pobierzesz je przed rozpoczęciem transmisji, będziesz mógł ich używać bezpośrednio podczas transmisji bez ponownego ładowania.",
+            "Ładowanie zasobów w trakcie transmisji zużywa zasoby strumieniowania, pamięć telefonu i wydajność, co może powodować opóźnienia; na słabszych telefonach może nawet prowadzić do awarii lub czarnych ekranów."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ważna uwaga"
+        },
+        {
+          "type": "paragraph",
+          "text": "Przed rozpoczęciem transmisji na żywo dokładnie zaplanuj i przećwicz transmisję, aby upewnić się, że każdy element działa bez zarzutu, zanim zaczniesz."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Co zrobić, jeśli niektóre klawisze na klawiaturze są zasłonięte?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli niektóre klawisze na klawiaturze wirtualnej są zasłonięte, spróbuj wykonać następujące czynności:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Jeśli używasz starszego telefonu 16:9 jako pilota i niektóre klawisze są zasłonięte, dotknij drugiego przycisku w lewym górnym rogu klawiatury, aby włączyć tryb pełnoekranowy.",
+            "Jeśli układ klawiatury jest nieprawidłowy, przejdź do ustawień telefonu i ustaw rozmiar czcionki na normalny.",
+            "Niektóre telefony mają włączony tryb dla seniorów; wyłączenie go powinno przywrócić normalne wyświetlanie klawiatury."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Problemy z wyświetlaniem są zwykle spowodowane zbyt dużą czcionką lub zbyt dużym motywem interfejsu telefonu. Zresetowanie ich do standardowego trybu powinno rozwiązać problem."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Co zrobić, jeśli mój telefon Huawei ciągle rozłącza się z funkcją multi-kamera lub wirtualną klawiaturą?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jeśli Twój telefon Huawei doświadcza rozłączeń z funkcją multi-kamera lub wirtualną klawiaturą, wykonaj następujące kroki:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Przejdź do ustawień telefonu.",
+            "W pasku wyszukiwania u góry wpisz „Zarządzanie uruchamianiem aplikacji”.",
+            "Przejdź do strony zarządzania uruchamianiem aplikacji, przewiń w dół i znajdź VicastCam.",
+            "Wyłącz przełącznik po prawej stronie, aby ikona zmieniła kolor na szary; jednocześnie włącz wszystkie trzy opcje w wyskakującym oknie, aby zmieniły kolor na niebieski."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Możesz również zapoznać się z samouczkiem wideo „Jak zapobiegać rozłączaniu się z funkcją multi-kamera i wirtualną klawiaturą na telefonach Huawei”."
+        }
+      ]
+    }
+  ]
+}

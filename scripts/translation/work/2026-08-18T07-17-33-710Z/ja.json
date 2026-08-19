@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "お支払い方法を選択",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "PayPal残高、銀行カード、クレジットカードでお支払いいただけます",
+            "secureBadge": "安全なお支払い",
+            "methodLabel": "お支払い方法",
+            "accountLabel": "現在のアカウント",
+            "signInRequired": "購入を続けるにはサインインしてください",
+            "signInAction": "サインイン",
+            "summaryHint": "PayPalボタンをクリックして支払いを完了してください",
+            "trustItems": [
+              "お支払いはPayPalによって安全に処理されます",
+              "PayPal残高、銀行カード、クレジットカードに対応",
+              "支払い成功後、メンバーシップ特典が自動的に有効になります"
+            ],
+            "buttonPay": "PayPalで支払う",
+            "buttonPending": "注文処理中",
+            "buttonCreating": "注文を作成中...",
+            "sdkLoading": "PayPalを読み込んでいます...",
+            "sdkError": "PayPalの読み込みに失敗しました。ネットワークを確認して、もう一度お試しください。",
+            "sdkIneligible": "この環境ではPayPalでのお支払いはサポートされていません",
+            "sdkMissingConfig": "PayPalが設定されていません。管理者にお問い合わせください。",
+            "orderCreating": "支払い注文を作成しています...",
+            "orderCreateFailed": "注文の作成に失敗しました。もう一度お試しください。",
+            "orderProcessing": "支払い結果の確認中です。後でもう一度お試しください。",
+            "orderSuccess": "支払いが完了しました。メンバーシップ特典が有効になりました。",
+            "orderFailed": "支払いが完了しませんでした。もう一度お試しください。",
+            "orderPending": "支払いが完了していません。支払いを完了して、もう一度確認してください。",
+            "orderExpired": "支払い注文の有効期限が切れました。もう一度お試しください。",
+            "statusQueryFailed": "支払い状況の確認に失敗しました。後でもう一度お試しください。",
+            "invalidPlan": "選択したプランが無効です。戻って選択し直してください。",
+            "popupBlocked": "支払いウィンドウがブラウザにブロックされました。このサイトのポップアップを許可して、もう一度お試しください。",
+            "popupOpened": "PayPalの支払いウィンドウが開きました。ウィンドウで支払いを完了してください。",
+            "popupClosedChecking": "支払いウィンドウが閉じられました。支払い結果を確認しています...",
+            "popupClosedFailed": "支払いウィンドウが閉じられましたが、注文は完了していません。もう一度お試しください。"
+          },
+          "summary": {
+            "title": "注文概要",
+            "periodLabel": "メンバーシップ期間",
+            "paymentMethodLabel": "お支払い方法",
+            "amountLabel": "お支払い金額",
+            "paymentMethod": "PayPalオンライン決済",
+            "note": "支払いが完了すると、メンバーシップ特典が現在のアカウントに自動的に付与されます。",
+            "periodMonth": "1ヶ月",
+            "periodYear": "1年間",
+            "periodLife": "永久",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "支払い結果を確認しています...",
+            "closeLabel": "閉じる",
+            "iconAlt": "支払い結果",
+            "titlePrefix": "支払い",
+            "successTitleHighlight": "成功",
+            "failureTitleHighlight": "失敗",
+            "successDescription": "ご購入ありがとうございます。メンバーシップが有効になりました。",
+            "failureDescription": "お支払いを完了できませんでした。もう一度お試しいただくか、別のお支払い方法をご利用ください。",
+            "orderNumber": "注文番号",
+            "membershipType": "メンバーシップの種類",
+            "expiry": "有効期限",
+            "orderStatus": "注文ステータス",
+            "successStatus": "支払い済み",
+            "failureStatus": "未払い",
+            "successPrimaryAction": "メンバーシップセンターで確認",
+            "failurePrimaryAction": "お支払い方法を変更",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "ページに戻る",
+            "copyOrderNumber": "注文番号をコピー",
+            "copied": "コピーしました",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "購入確認 | VicastCam",
+            "description": "VicastCamのメンバーシッププランを確認し、PayPalでお支払いを完了します。"
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "月額メンバーシップ",
+              "description": "VicastCamの全メンバーシップ機能を月額でお楽しみいただけます",
+              "period": "1ヶ月"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "年間メンバーシップ",
+              "description": "VicastCamの全メンバーシップ機能を1年間お楽しみいただけます",
+              "period": "1年間"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "永久メンバーシップ",
+              "description": "一度のお支払いで、VicastCamのメンバーシップ機能を長期間ご利用いただけます",
+              "period": "永久"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

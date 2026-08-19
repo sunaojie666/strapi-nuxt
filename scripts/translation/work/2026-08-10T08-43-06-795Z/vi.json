@@ -1,0 +1,195 @@
+{
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Bảng giá",
+          "titleMain": "Chọn gói",
+          "titleHighlight": "phù hợp với bạn",
+          "description": "Dùng thử miễn phí hoặc chọn gói khác",
+          "priceAltSuffix": "Giá",
+          "freePlanMessage": "Người dùng miễn phí không cần mua",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Miễn phí",
+              "description": "Tải và đăng ký miễn phí, có sẵn các tính năng cơ bản.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/tháng",
+              "priceNote": "",
+              "cta": "Bắt đầu",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Tạo với một cảnh duy nhất",
+                "Tự do sắp xếp tối đa bốn lớp",
+                "Truy cập nhiều hình nền trực tiếp",
+                "Chất lượng cơ bản cho chiếu màn hình PC",
+                "Hiệu ứng làm đẹp tự nhiên tích hợp"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Theo tháng",
+              "description": "Kích hoạt và tận hưởng quyền truy cập trọn tháng, một cách dùng thử với chi phí thấp.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/tháng",
+              "priceNote": "Truy cập 30 ngày",
+              "cta": "Mua",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Tất cả tính năng trên di động",
+                "Phát trực tiếp với chiếu màn hình PC",
+                "Chất lượng phát trực tiếp HD",
+                "Hiệu ứng làm đẹp nâng cao",
+                "Hiệu ứng phát trực tiếp độc quyền"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Theo năm",
+              "description": "Tiết kiệm nhất với ưu đãi theo năm.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/năm",
+              "priceNote": "Truy cập 365 ngày",
+              "cta": "Mua",
+              "badgeText": "Phổ biến nhất",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Tất cả tính năng trên di động",
+                "Phát trực tiếp với chiếu màn hình PC",
+                "Chất lượng phát trực tiếp HD",
+                "Hiệu ứng làm đẹp nâng cao",
+                "Hiệu ứng phát trực tiếp độc quyền"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Trọn đời",
+              "description": "Thanh toán một lần cho quyền truy cập trọn đời, lý tưởng cho những người sáng tạo lâu dài.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Truy cập trọn đời",
+              "cta": "Mua",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Tất cả tính năng trên di động",
+                "Phát trực tiếp với chiếu màn hình PC",
+                "Chất lượng phát trực tiếp HD",
+                "Hiệu ứng làm đẹp nâng cao",
+                "Hiệu ứng phát trực tiếp độc quyền"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Theo tháng",
+                "subtitle": "Kích hoạt và tận hưởng quyền truy cập trọn tháng, một cách dùng thử với chi phí thấp.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/tháng",
+                "cta": "Mua",
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Theo năm",
+                "subtitle": "Tiết kiệm nhất với ưu đãi theo năm.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/năm",
+                "cta": "Mua",
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Trọn đời",
+                "subtitle": "Thanh toán một lần cho quyền truy cập trọn đời, lý tưởng cho những người sáng tạo lâu dài.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Mua",
+                "benefits": [
+                  "Tất cả tính năng trên di động",
+                  "Phát trực tiếp với chiếu màn hình PC",
+                  "Chất lượng phát trực tiếp HD",
+                  "Hiệu ứng làm đẹp nâng cao",
+                  "Hiệu ứng phát trực tiếp độc quyền"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    }
+  ]
+}

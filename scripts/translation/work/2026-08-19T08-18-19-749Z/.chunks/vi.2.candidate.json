@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Gói thành viên",
+    "title": "Gói thành viên của tôi",
+    "badgeAlt": "Huy hiệu thành viên",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Người dùng miễn phí",
+    "activeVipName": "Thành viên VIP",
+    "expirePrefix": "Hết hạn",
+    "emptyExpireDate": "Chưa kích hoạt",
+    "activeStatus": "Đang hoạt động",
+    "inactiveStatus": "Không hoạt động",
+    "compareTitle": "So sánh gói",
+    "compareHeaders": {
+      "feature": "Tính năng",
+      "normal": "Miễn phí",
+      "month": "Theo tháng",
+      "year": "Theo năm",
+      "life": "Trọn đời"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Theo tháng",
+        "subtitle": "Phù hợp cho nhu cầu ngắn hạn",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/tháng",
+        "cta": "Bắt đầu",
+        "benefits": [
+          "Tính năng camera ảo cơ bản",
+          "Phông nền ảo và làm đẹp",
+          "Phát trực tiếp đa nền tảng",
+          "Cập nhật tiêu chuẩn"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Theo năm",
+        "subtitle": "Tiết kiệm hơn cho nhu cầu dài hạn",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/năm",
+        "cta": "Bắt đầu",
+        "benefits": [
+          "Mọi tính năng của gói Theo tháng",
+          "Tất cả tính năng cao cấp trong một năm",
+          "Ưu tiên cập nhật tính năng",
+          "Hỗ trợ thành viên chuyên biệt"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Trọn đời",
+        "subtitle": "Trả phí một lần, dùng mãi mãi",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/trọn đời",
+        "cta": "Bắt đầu",
+        "benefits": [
+          "Mọi tính năng của gói Theo năm",
+          "Tính năng cao cấp mãi mãi",
+          "Cập nhật dài hạn",
+          "Kênh hỗ trợ riêng"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Thời hạn thành viên",
+        "normal": "Miễn phí mãi mãi",
+        "month": "30 ngày",
+        "year": "365 ngày",
+        "life": "Trọn đời"
+      },
+      {
+        "feature": "Camera ảo trên máy tính",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Phông nền ảo tùy chỉnh",
+        "normal": "1 bộ",
+        "month": "Không giới hạn",
+        "year": "Không giới hạn",
+        "life": "Không giới hạn"
+      },
+      {
+        "feature": "Cấu hình phát trực tiếp",
+        "normal": "Không",
+        "month": "Không giới hạn",
+        "year": "Không giới hạn",
+        "life": "Không giới hạn"
+      },
+      {
+        "feature": "Tài nguyên chính thức",
+        "normal": "Có giới hạn",
+        "month": "Không giới hạn",
+        "year": "Không giới hạn",
+        "life": "Không giới hạn"
+      },
+      {
+        "feature": "Điều khiển từ xa qua bộ điều khiển",
+        "normal": "Có",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Chế độ so sánh cảnh",
+        "normal": "Có",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Phụ đề cảnh",
+        "normal": "Có giới hạn",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Nhạc nền cảnh",
+        "normal": "Có giới hạn",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Đầu vào nhiều camera",
+        "normal": "Không",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Bộ lọc làm đẹp nâng cao",
+        "normal": "Cơ bản",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "AI tách nền phông xanh",
+        "normal": "Có",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Hiệu ứng hoạt hình theo chuyển động",
+        "normal": "Có giới hạn",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Hiệu ứng camera cảnh",
+        "normal": "Có giới hạn",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Thư viện hiệu ứng VIP",
+        "normal": "Có giới hạn",
+        "month": "Không giới hạn",
+        "year": "Không giới hạn",
+        "life": "Không giới hạn"
+      },
+      {
+        "feature": "Phát trực tiếp đa nền tảng",
+        "normal": "Có",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Độ phân giải 4K",
+        "normal": "Không",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      },
+      {
+        "feature": "Tỷ lệ hoa hồng giới thiệu",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Hoa hồng cho đại lý cấp dưới",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Kênh hỗ trợ",
+        "normal": "Cộng đồng tự phục vụ",
+        "month": "Hàng đợi tiêu chuẩn",
+        "year": "Ưu tiên phản hồi",
+        "life": "Hỗ trợ riêng"
+      },
+      {
+        "feature": "Truy cập sớm tính năng mới",
+        "normal": "Không",
+        "month": "Có",
+        "year": "Có",
+        "life": "Có"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Nhập mã",
+    "title": "Nhập mã",
+    "tip": "Nhập mã kích hoạt thành viên của bạn. Thành viên sẽ được kích hoạt ngay sau khi nhập.",
+    "placeholder": "Nhập mã kích hoạt",
+    "submitButton": "Kích hoạt",
+    "agreementPrefix": "Khi kích hoạt, bạn đồng ý với",
+    "userProtocolText": "Thỏa thuận người dùng",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Kích hoạt thất bại. Kiểm tra mã và thử lại."
+    }
+  }
+}

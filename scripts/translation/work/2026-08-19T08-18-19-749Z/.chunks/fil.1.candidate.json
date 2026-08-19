@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Account Center",
+    "description": "VicastCam Account Center page"
+  },
+  "common": {
+    "sidebarAriaLabel": "Account navigation",
+    "defaultProfileName": "User",
+    "emptyContent": "No content",
+    "copyButtonLabel": "Copy",
+    "monthSelectLabel": "Select month",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "User information not found. Please log in again.",
+    "paginationLabel": "Pagination",
+    "previousPageLabel": "Previous page",
+    "nextPageLabel": "Next page",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "Go to",
+      "unit": "page",
+      "ariaLabel": "Go to a specific page",
+      "buttonLabel": "Go"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "Account Center",
+    "logout": "Log out",
+    "profileAriaSuffix": "Account menu"
+  },
+  "sidebar": {
+    "ariaLabel": "Account navigation",
+    "menus": {
+      "account": "Account Info",
+      "membership": "Membership",
+      "redeem": "Redeem Code",
+      "purchaseHistory": "Purchase History",
+      "team": "My Team",
+      "earnings": "Earnings"
+    }
+  },
+  "account": {
+    "ariaLabel": "Account Info",
+    "profileTitle": "Account Info",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "passwordMask": "********",
+    "defaultUsername": "No nickname set",
+    "emailLabel": "Linked Email",
+    "emailPlaceholder": "Enter your email",
+    "codePlaceholder": "Enter verification code",
+    "sendCodeButton": "Get Code",
+    "bindButton": "Link Email",
+    "alreadyBound": "Linked",
+    "unboundEmail": "Not linked",
+    "emailBindTip": "Once linked, the email cannot be changed. Please confirm the email address is correct.",
+    "emailRequired": "Please enter a valid email",
+    "codeRequired": "Please enter the verification code",
+    "codeSent": "Verification code sent. Check your email.",
+    "bindSuccess": "Email linked successfully",
+    "bindFailed": "Failed to link email. Check the code and try again.",
+    "requestFailed": "Request failed. Please try again later.",
+    "inviteTitle": "Invite Link",
+    "inviteDescription": "Copy your personal invite link. When friends register and purchase a membership, you earn rewards.",
+    "emptyInviteLink": "No invite link available"
+  }
+}

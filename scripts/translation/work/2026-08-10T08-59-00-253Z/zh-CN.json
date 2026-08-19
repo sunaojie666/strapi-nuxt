@@ -1,0 +1,162 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "教程中心",
+          "titleMain": "开启您的VicastCam",
+          "titleHighlight": "学习之旅",
+          "descriptionMain": "让您充分掌握软件使用方法",
+          "descriptionHighlight": "更快上手软件"
+        },
+        "player": {
+          "sectionAriaLabel": "教程列表",
+          "catalogAriaLabel": "教程目录",
+          "previousLabel": "上一节",
+          "nextLabel": "下一节",
+          "firstLessonText": "已经是第一节",
+          "lastLessonText": "已经是最后一节",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "入门教程",
+            "count": "9 节",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "创建第一个虚拟直播间",
+                "description": "从零开始创建并配置第一个虚拟直播间。",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "认识图像功能",
+                "description": "了解图像功能的基本操作和使用场景。",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "图层如何使用",
+                "description": "掌握图层面板的基本使用方式。",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "背景图层如何使用",
+                "description": "学习添加和调整背景图层。",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "人像图层如何使用",
+                "description": "学习使用人像图层制作画面效果。",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "图片图层如何使用",
+                "description": "了解图片图层的添加与编辑。",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "视频图层如何使用",
+                "description": "学习添加视频素材并进行播放设置。",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "特效图层如何使用",
+                "description": "为直播画面添加特效图层。",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "字幕图层如何使用",
+                "description": "创建字幕并调整字幕图层样式。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "高级教程",
+            "count": "6 节",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "运镜图层如何使用",
+                "description": "使用运镜图层制作更丰富的镜头运动。",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "轨迹功能如何使用",
+                "description": "通过轨迹功能控制元素的运动路径。",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "多机位图层如何使用",
+                "description": "配置多机位图层，快速切换不同画面。",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "控制器功能如何使用",
+                "description": "使用控制器统一管理直播画面。",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "音频功能如何使用",
+                "description": "配置音频输入、输出和混音效果。",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "备份功能如何使用",
+                "description": "备份和恢复直播间配置与素材。",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "__chunk": [
+    {
+      "key": "agreement-section-5",
+      "title": "5 Kişisel Bilgilerin Korunması",
+      "paragraphs": [
+        "5.1 Kişisel bilgilerinizi, AB GDPR, Birleşik Krallık Veri Koruma Yasası, Hong Kong Kişisel Veriler (Gizlilik) Yönetmeliği ve dünya genelindeki veri koruma düzenlemelerine uygun olarak titizlikle işleriz. GDPR'nin 27. Maddesi uyarınca, AB ve Birleşik Krallık'ta yerel uyum temsilcileri atadık. Belirli iletişim bilgileri için lütfen \"GDPR ve Veri Koruma\" belgesine bakın.",
+        "5.2 Lisans Veren'in, bu Sözleşme ve Gizlilik Politikası uyarınca kişisel bilgileri toplayabileceğini, kullanabileceğini ve saklayabileceğini kabul edersiniz. Gizlilik Politikası, bu Sözleşme ile aynı yasal etkiye sahiptir.",
+        "5.3 Kişisel bilgilerinizi sızıntıya, kurcalamaya ve yetkisiz erişime karşı korumak için şifreleme ve anonimleştirme gibi güvenlik teknolojileri kullanırız.",
+        "5.4 Açık onayınız olmadan kişisel bilgilerinizi üçüncü taraflarla paylaşmayız; aşağıdaki durumlar hariç:",
+        "(1) Bunları kendiniz üçüncü taraflara ifşa ederseniz;",
+        "(2) Ulusal güvenlik, kamu güvenliği, halk sağlığı ve yasal adli veya idari gereklilikler tarafından zorunlu kılınırsa;",
+        "(3) Bu Yazılımın, diğer kullanıcıların veya üçüncü tarafların büyük yasal haklarını ve çıkarlarını korumak ve yasal hükümlere uygun olarak;",
+        "(4) Meşru kamu kaynaklarından elde edilen bilgiler;",
+        "(5) Kanun ve yönetmeliklerin öngördüğü diğer durumlar.",
+        "5.5 Kişisel bilgilerinizle ilgili olarak bilgi edinme, düzeltme, silme ve yetkiyi geri çekme yasal hakkına sahipsiniz. Kişisel bilgilerle ilgili ayrıntılı kurallar için lütfen Gizlilik Politikası'na bakın."
+      ]
+    },
+    {
+      "key": "agreement-section-6",
+      "title": "6 Şikayetler ve Bildirimler",
+      "paragraphs": [
+        "6.1 İhlal edici içeriği istemci üzerinden veya resmi iletişim e-postası aracılığıyla bildirebilir veya ihlal edici eylemler hakkında şikayette bulunabilirsiniz.",
+        "6.2 Haklarınız ihlal edilirse, şikayette bulunmak için hak kanıtı sunabilirsiniz. Şikayet edilen taraf, itiraz etmek için mülkiyet kanıtı sunabilir.",
+        "6.3 Genellikle incelemeyi 15 iş günü içinde tamamlar ve geri bildirim sağlarız. Karmaşık durumlarda, ilerleme hakkında sizi bilgilendiririz."
+      ]
+    },
+    {
+      "key": "agreement-section-7",
+      "title": "7 İhlallerin Ele Alınması",
+      "paragraphs": [
+        "7.1 Bu Sözleşmeyi, platform kurallarını veya yerel yasa ve yönetmelikleri ihlal ederseniz, Lisans Veren uyarılar, özellik kısıtlamaları, içerik silme, hizmet askıya alma veya kalıcı hesap yasaklama gibi önlemler alabilir. Bu tür önlemlerden kaynaklanan kayıplar size ait olacaktır ve silinen içerik ve veriler geri yüklenmeyecektir.",
+        "7.2 Şüpheli yasa dışı veya suç teşkil eden faaliyetler keşfedilirse, Lisans Veren kanıtları saklayacak ve kolluk kuvvetlerine bildirecek ve soruşturmalarla işbirliği yapacaktır.",
+        "7.3 İhlaliniz, Lisans Veren'in üçüncü taraflarca talep edilmesine, idari yaptırımlara tabi tutulmasına veya itibar veya ekonomik kayıplara uğramasına neden olursa, Lisans Veren'in tüm kayıplarını üstlenirsiniz."
+      ]
+    },
+    {
+      "key": "agreement-section-8",
+      "title": "8 Fikri Mülkiyet",
+      "paragraphs": [
+        "8.1 Bu Yazılımın kod, arayüz, metin, görüntü, ses/video, efekt, ticari marka ve logolarının fikri mülkiyet hakları Lisans Veren'e aittir.",
+        "8.2 Lisans Veren, ürünün işletilmesi sırasında üretilen meşru veri ve bilgilerin tüm haklarına sahiptir.",
+        "8.3 Lisans Veren'in açık yazılı izni olmadan \"VicastCam\" markasını, ticari markalarını, alan adlarını, logolarını vb. kullanmanız, kopyalamanız, taklit etmeniz veya kaydetmeniz yasaktır. Yetkisiz kullanım nedeniyle kayıplara neden olursanız, tüm yasal sorumluluğu üstlenirsiniz.",
+        "8.4 Bu Yazılım, açık kaynak lisansları ve üçüncü taraf lisansları altında dağıtılan yazılım bileşenlerini içerir. Bu tür bileşenleri kullanırken ilgili lisans koşullarına kesinlikle uymalısınız."
+      ]
+    },
+    {
+      "key": "agreement-section-9",
+      "title": "9 Küçükler için Koşullar",
+      "paragraphs": [
+        "9.1 Küçükler, bu Yazılımı kullanmadan önce yasal vasilerinin açık onayını almalı ve vasinin gözetiminde kullanmalıdır. Vasiler, küçük kullanıcının hesabının kısıtlanmasını veya iptal edilmesini talep etme hakkına sahiptir.",
+        "9.2 Lisans Veren, küçük kullanıcıların kişisel bilgilerini dikkatli bir şekilde toplar. Vasiler, küçükleri kişisel gizliliklerini ve ağ güvenliğini korumaları için yönlendirmelidir.",
+        "9.3 Vasiler, yasalara uygun olarak vasılık görevlerini yerine getirmeli, küçükleri sağlıklı internet kullanımına yönlendirmeli ve internet bağımlılığını önlemelidir.",
+        "9.4 Küçükler ve vasileri, küçüğün kullanımından kaynaklanan tüm eylem ve sonuçlardan yasal olarak sorumludur.",
+        "9.5 Küçükler, canlı yayın için kamerayı kullanamaz veya videolarda tek başına görünemez ve yasa dışı veya kaba içerik yayınlayamaz.",
+        "9.6 Lisans Veren, bir küçüğün vasi onayı olmadan Yazılımı kullandığını tespit ederse, ilgili hesabı doğrudan kısıtlama veya yasaklama hakkına sahiptir.",
+        "9.7 Vasiler, küçüklerin yetkisiz ücretlendirmesini önlemek için ödeme hesaplarını ve şifrelerini uygun şekilde saklamalıdır. Herhangi bir sorunuz varsa, lütfen resmi müşteri hizmetleriyle iletişime geçin."
+      ]
+    }
+  ]
+}

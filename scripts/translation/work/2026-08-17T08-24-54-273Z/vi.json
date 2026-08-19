@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "Câu hỏi thường gặp về VicastCam | Trợ giúp cho Android và iOS",
+          "description": "Tìm câu trả lời cho các câu hỏi thường gặp về VicastCam trên Android và iOS, bao gồm thiết lập tài khoản, quyền truy cập phương tiện, kết nối mạng và các vấn đề phát trực tiếp.",
+          "imageAlt": "Câu hỏi thường gặp về VicastCam"
+        },
+        "hero": {
+          "eyebrow": "Câu hỏi thường gặp",
+          "titleMain": "Trợ giúp VicastCam",
+          "titleHighlight": "Tìm câu trả lời nhanh chóng",
+          "description": "Chọn nền tảng của bạn (Android hoặc iOS) để xem các câu hỏi và giải pháp phổ biến cho thiết bị của bạn."
+        },
+        "content": {
+          "sectionAriaLabel": "Câu hỏi thường gặp",
+          "catalogAriaLabel": "Danh mục câu hỏi",
+          "answerLabel": "Câu trả lời",
+          "questionProgressTemplate": "{group} · Câu hỏi {current} trên {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Hướng dẫn Android",
+            "count": "9 câu hỏi",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp là gì?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Đối với ảnh nền phát trực tiếp, chúng tôi khuyến nghị 1080 x 1920 pixel; đối với video, chúng tôi cũng khuyến nghị 1080 x 1920 pixel.",
+                      "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo chuyển đổi liền mạch giữa chế độ toàn màn hình và 9:16 mà không bị lệch, đạt được hiệu ứng khớp hoàn hảo."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Các chế độ đầu ra nào được hỗ trợ khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Phát trực tiếp hỗ trợ hai chế độ đầu ra: phát 9:16 và phát toàn màn hình. Thực hiện theo các bước sau để chọn trên thiết bị Android của bạn:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, vào trang phát trực tiếp và nhấn vào biểu tượng menu ở phía bên phải."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Mục menu ở phía bên phải của trang phát trực tiếp trên Android",
+                    "caption": "Bước 1: Nhấn vào biểu tượng menu ở phía bên phải của trang phát trực tiếp."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Trong Cài đặt khác, tìm 'Tỷ lệ khung hình' và chọn 'Toàn màn hình' hoặc '9:16' tùy theo nhu cầu."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Tùy chọn tỷ lệ khung hình trong Cài đặt khác trên Android",
+                    "caption": "Bước 2: Trong 'Tỷ lệ khung hình', chọn 'Toàn màn hình' hoặc '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Giải thích về hai chế độ"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Phát 9:16: Tỷ lệ khung hình đầu ra được cố định ở 9:16, vì vậy nền tảng phát trực tiếp nhận được hình ảnh 9:16.",
+                      "Phát toàn màn hình: Phát toàn bộ màn hình điện thoại như hiện tại, giữ nguyên nội dung gốc mà không cắt xén."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Làm cách nào để xóa tài khoản của tôi?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Vui lòng đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Thông tin tài khoản"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sau khi xóa tài khoản, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và các thông tin nhận dạng khác của bạn, đồng thời thu hồi ủy quyền đăng nhập bên thứ ba qua tài khoản Google và Apple. Sau khi thu hồi, bạn sẽ không thể sử dụng các tài khoản bên thứ ba đó để đăng nhập nhanh; để sử dụng lại ứng dụng, bạn cần ủy quyền và liên kết lại."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nội dung và tài nguyên"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tất cả tài nguyên phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn; đám mây không lưu giữ bất kỳ tài nguyên sáng tạo nào. Sau khi xóa, tính năng quản lý tài nguyên trong ứng dụng sẽ không còn hoạt động, vì vậy vui lòng sao lưu tài nguyên của bạn trước thông qua 'Xuất tài nguyên'.",
+                      "Nếu bạn gỡ cài đặt và cài đặt lại, chuyển thiết bị hoặc không xuất bản sao lưu trước, tài nguyên của bạn sẽ không thể khôi phục vĩnh viễn."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quyền lợi thành viên"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sau khi xóa tài khoản, quyền lợi thành viên của bạn sẽ chấm dứt ngay lập tức. Nếu bạn có đăng ký Google Play đang hoạt động, việc xóa tài khoản ứng dụng sẽ không tự động hủy đăng ký và bạn có thể tiếp tục bị tính phí. Vui lòng truy cập 'Thanh toán & đăng ký - Đăng ký' trên Google Play để hủy thủ công."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với đội ngũ hỗ trợ khách hàng của chúng tôi."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Tại sao tôi không thể truy cập ảnh và video trên điện thoại khi thêm chúng?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu thư viện ảnh của bạn trống khi thêm tài nguyên, bạn có thể bật quyền truy cập ảnh như sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Mở Cài đặt trên điện thoại, cuộn xuống để tìm VicastCam, nhấn vào [Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+                      "Android: Mở Cài đặt trên điện thoại, tìm VicastCam trong [Quản lý quyền] hoặc [Quản lý ứng dụng], sau đó nhấn vào [Quản lý quyền - Ảnh - Tất cả ảnh] để bật quyền truy cập.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy thử gỡ cài đặt và cài đặt lại ứng dụng hoặc liên hệ hỗ trợ trực tuyến qua tính năng phản hồi."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Tôi nên làm gì nếu màn hình không hiển thị đầy đủ khi phát trực tiếp từ máy tính?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu màn hình xuất hiện không đầy đủ khi phát trực tiếp từ điện thoại qua ứng dụng đồng hành phát trực tiếp hoặc phần mềm khác, hãy làm theo các bước sau để điều chỉnh:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, nhấn vào biểu tượng camera ở phía dưới để vào trang phát trực tiếp, sau đó đi tới [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+                      "Sau khi chiếu lên ứng dụng đồng hành phát trực tiếp, trước tiên hãy khớp màn hình với canvas, sau đó kéo dọc để lấp đầy màn hình."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lưu ý: Trước khi bắt đầu phát trực tiếp, hãy điều chỉnh tỷ lệ khung hình trước, sau đó thêm tài nguyên của bạn."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Tôi nên làm gì nếu yêu cầu mạng thất bại?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở Cài đặt trên điện thoại, đi tới [Quản lý quyền - VicastCam - Dữ liệu di động và Wi-Fi] và bật quyền truy cập mạng.",
+                      "Tắt chế độ tiết kiệm pin và mọi hạn chế nền trên điện thoại của bạn.",
+                      "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng lên phiên bản mới nhất.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ với bộ phận hỗ trợ khách hàng để được trợ giúp."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Tại sao tài nguyên mạng hoặc lớp phủ bị nhấp nháy hoặc chuyển sang màn hình đen khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp tình trạng nhấp nháy hoặc màn hình đen khi thêm tài nguyên mạng trong lúc phát trực tiếp, đây là cách xử lý:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tải xuống và xem trước mọi tài nguyên hoặc lớp phủ bạn định sử dụng trong buổi phát trước, và xác nhận chúng hoạt động bình thường trước khi bắt đầu phát.",
+                      "Một số tài nguyên đi kèm phần mềm được lưu trữ trên máy chủ. Nếu bạn tải chúng trước khi phát, bạn có thể sử dụng trực tiếp trong buổi phát mà không cần tải lại.",
+                      "Tải tài nguyên giữa buổi phát tiêu tốn tài nguyên phát trực tiếp, bộ nhớ điện thoại và hiệu suất, có thể gây lag; trên điện thoại cấu hình thấp, thậm chí có thể dẫn đến treo hoặc màn hình đen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lưu ý quan trọng"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Trước khi phát trực tiếp, hãy lên kế hoạch và diễn tập kỹ lưỡng để đảm bảo mọi yếu tố hoạt động hoàn hảo trước khi bạn bắt đầu."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Tôi nên làm gì nếu một số phím trên bàn phím bị che khuất?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu một số phím trên bàn phím ảo bị che khuất, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Nếu bạn đang sử dụng điện thoại 16:9 cũ làm điều khiển từ xa và một số phím bị che, hãy chạm vào nút thứ hai ở góc trên bên trái của bàn phím để bật chế độ toàn màn hình.",
+                      "Nếu bố cục bàn phím bị lệch, hãy vào Cài đặt điện thoại và đặt cỡ chữ về bình thường.",
+                      "Một số điện thoại có chế độ người cao tuổi được bật; tắt nó sẽ khôi phục bàn phím hiển thị bình thường."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Các vấn đề hiển thị thường do cỡ chữ quá lớn hoặc giao diện chủ đề điện thoại quá lớn. Đặt lại chúng về chế độ tiêu chuẩn sẽ giải quyết được vấn đề."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Tôi nên làm gì nếu điện thoại Huawei của tôi liên tục ngắt kết nối với đa camera hoặc bàn phím ảo?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu điện thoại Huawei của bạn gặp sự cố ngắt kết nối với đa camera hoặc bàn phím ảo, hãy làm theo các bước sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Vào Cài đặt trên điện thoại của bạn.",
+                      "Trong thanh tìm kiếm ở trên cùng, nhập 'Quản lý khởi động ứng dụng'.",
+                      "Vào trang Quản lý khởi động ứng dụng, cuộn xuống để tìm VicastCam.",
+                      "Tắt công tắc ở bên phải để biểu tượng chuyển sang màu xám; đồng thời, bật cả ba tùy chọn trong cửa sổ bật lên để chúng chuyển sang màu xanh."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Bạn cũng có thể tham khảo video hướng dẫn 'Cách ngăn ngắt kết nối với đa camera và bàn phím ảo trên điện thoại Huawei'."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "Hướng dẫn iOS",
+            "count": "8 câu hỏi",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp là gì?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Kích thước khuyến nghị cho tài nguyên phát trực tiếp:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Đối với ảnh nền phát trực tiếp, chúng tôi khuyến nghị 1080 x 1920 pixel; đối với video, chúng tôi cũng khuyến nghị 1080 x 1920 pixel.",
+                      "Quan trọng: Lớp phủ toàn màn hình phải sử dụng tỷ lệ khung hình 9:16 để đảm bảo căn chỉnh hoàn hảo khi chuyển đổi giữa chế độ toàn màn hình và 9:16, mang lại sự khớp liền mạch."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Các chế độ đầu ra nào được hỗ trợ khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Phát trực tiếp hỗ trợ hai chế độ đầu ra: phát 9:16 và phát toàn màn hình. Thực hiện theo các bước sau để chọn chế độ trên thiết bị Apple của bạn:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, vào trang phát trực tiếp và nhấn vào biểu tượng menu ở bên phải."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Mục menu ở bên phải trang phát trực tiếp trên Apple",
+                    "caption": "Bước 1: Nhấn vào biểu tượng menu ở bên phải trang phát trực tiếp."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Trong Cài đặt khác, tìm 'Tỷ lệ khung hình' và chọn 'Toàn màn hình' hoặc '9:16' tùy nhu cầu."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Tùy chọn tỷ lệ khung hình trong Cài đặt khác trên Apple",
+                    "caption": "Bước 2: Trong 'Tỷ lệ khung hình', chọn 'Toàn màn hình' hoặc '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Về hai chế độ"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Phát 9:16: Tỷ lệ khung hình đầu ra cố định ở 9:16, vì vậy nền tảng phát trực tiếp nhận được hình ảnh 9:16.",
+                      "Phát toàn màn hình: Phát toàn bộ màn hình điện thoại như hiện tại, giữ nguyên nội dung gốc mà không cắt xén."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Sự khác biệt giữa Phát trực tiếp hệ thống và Phát trực tiếp phần mềm là gì?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Thiết bị Apple cung cấp hai chế độ thu phát trực tiếp, khác biệt đáng kể về quy tắc hoạt động nền. Thực hiện theo các bước sau để chọn chế độ phát trực tiếp:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, vào trang phát trực tiếp và nhấn vào biểu tượng menu ở bên phải."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Mục menu ở bên phải trang phát trực tiếp trên Apple",
+                    "caption": "Bước 1: Nhấn vào biểu tượng menu ở bên phải trang phát trực tiếp."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Trong Cài đặt khác, tìm 'Chế độ phát trực tiếp' và chọn 'Phát trực tiếp hệ thống' hoặc 'Phát trực tiếp phần mềm' tùy nhu cầu."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Tùy chọn chế độ phát trực tiếp trong Cài đặt khác trên Apple",
+                    "caption": "Bước 2: Trong 'Chế độ phát trực tiếp', chọn 'Phát trực tiếp hệ thống' hoặc 'Phát trực tiếp phần mềm'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Về hai chế độ"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Phát trực tiếp hệ thống (Ghi màn hình ReplayKit): Sử dụng tính năng ghi màn hình hệ thống iOS để thu màn hình, cho phép phát trực tiếp liên tục ngay cả khi ứng dụng ở chế độ nền. Bạn có thể chuyển sang ứng dụng khác và vẫn thu được bất kỳ nội dung màn hình nào mà không làm gián đoạn luồng phát.",
+                      "Phát trực tiếp phần mềm (thu trực tiếp ở tiền cảnh): Ứng dụng thu màn hình trực tiếp. Do giới hạn hệ thống iOS, ứng dụng phải ở tiền cảnh. Nếu bạn chuyển sang ứng dụng khác hoặc quay lại màn hình chính, việc phát trực tiếp sẽ dừng ngay lập tức."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Làm cách nào để xóa tài khoản của tôi?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Vui lòng đăng nhập vào ứng dụng VicastCam, sau đó đi tới [Tài khoản - biểu tượng góc trên bên phải - Quản lý tài khoản - Xóa tài khoản - Gửi yêu cầu xóa]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Thông tin tài khoản"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sau khi xóa tài khoản, chúng tôi sẽ xóa vĩnh viễn email liên kết, hồ sơ thiết bị và thông tin nhận dạng khác của bạn, đồng thời thu hồi ủy quyền đăng nhập bên thứ ba qua tài khoản Google và Apple. Sau khi thu hồi, bạn sẽ không thể sử dụng các tài khoản bên thứ ba đó để đăng nhập nhanh vào ứng dụng này. Để sử dụng lại ứng dụng, bạn cần ủy quyền và liên kết lại tài khoản."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Nội dung và tài nguyên"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tất cả tài nguyên phát trực tiếp, video, hình ảnh và tệp dự án chỉ được lưu trữ trên thiết bị của bạn. Đám mây nền tảng không lưu giữ bất kỳ tài nguyên sáng tạo nào. Sau khi xóa, tính năng quản lý tài nguyên sẽ không còn khả dụng. Vui lòng sao lưu tài nguyên của bạn trước bằng cách sử dụng 'Xuất tài nguyên'.",
+                      "Nếu bạn gỡ cài đặt và cài đặt lại ứng dụng, chuyển thiết bị hoặc không xuất bản sao lưu trước, tài nguyên của bạn sẽ bị mất vĩnh viễn."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Quyền lợi thành viên"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Sau khi xóa tài khoản, quyền lợi thành viên của bạn sẽ kết thúc ngay lập tức. Vì dịch vụ đăng ký do Apple quản lý, nền tảng không thể xử lý hoàn tiền trực tiếp. Để yêu cầu hoàn tiền, vui lòng gửi yêu cầu qua các kênh chính thức của Apple (lịch sử mua hàng trên App Store). Trước khi xóa tài khoản, hãy đảm bảo hủy gia hạn tự động theo cách thủ công để tránh các khoản phí trong tương lai."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận hỗ trợ khách hàng."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Tại sao tôi không thể truy cập ảnh và video trên điện thoại khi thêm chúng?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu thư viện ảnh của bạn trống khi thêm tài nguyên, hãy đi tới Cài đặt trên iPhone của bạn, cuộn xuống để tìm VicastCam, nhấn vào [Ảnh - Tất cả ảnh] để bật quyền truy cập."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Khi phát trực tiếp từ máy tính mà màn hình không hiển thị đầy đủ thì phải làm sao?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu khi phát trực tiếp từ điện thoại qua ứng dụng đồng hành phát trực tiếp hoặc phần mềm khác mà màn hình không hiển thị đầy đủ, hãy làm theo các bước sau để điều chỉnh:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở VicastCam, chạm vào biểu tượng camera ở phía dưới để vào trang phát trực tiếp, sau đó vào [Menu bên phải - Cài đặt khác - Tỷ lệ khung hình - 9:16].",
+                      "Sau khi chiếu lên ứng dụng đồng hành phát trực tiếp, trước tiên hãy thu nhỏ để vừa màn hình, sau đó kéo màn hình lên hoặc xuống để lấp đầy toàn bộ màn hình."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Lưu ý: Trước khi bắt đầu phát trực tiếp, hãy điều chỉnh tỷ lệ khung hình trước, sau đó mới thêm tài nguyên của bạn."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Khi yêu cầu mạng thất bại thì phải làm sao?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp lỗi yêu cầu mạng, hãy thử các cách sau:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Mở Cài đặt trên điện thoại, vào [Quản lý quyền - VicastCam - Sử dụng dữ liệu di động và Wi-Fi] và bật quyền truy cập mạng.",
+                      "Tắt chế độ tiết kiệm pin và mọi hạn chế chạy nền trên điện thoại.",
+                      "Chuyển mạng, khởi động lại điện thoại, bật/tắt chế độ máy bay hoặc cập nhật ứng dụng lên phiên bản mới nhất.",
+                      "Nếu sự cố vẫn tiếp diễn, hãy chụp ảnh màn hình lỗi và liên hệ bộ phận hỗ trợ khách hàng để được trợ giúp."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Tại sao lớp phủ tài nguyên mạng bị nhấp nháy hoặc chuyển sang màn hình đen khi phát trực tiếp?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Nếu bạn gặp hiện tượng nhấp nháy hoặc màn hình đen khi thêm tài nguyên mạng trong lúc phát trực tiếp, đây là cách xử lý:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Tải xuống và xem trước mọi tài nguyên và lớp phủ bạn định sử dụng trong buổi phát trực tiếp trước. Đảm bảo chúng hoạt động bình thường trước khi phát trực tiếp.",
+                      "Một số tài nguyên đi kèm phần mềm được lưu trữ trên máy chủ. Hãy tải chúng xuống trước khi bắt đầu phát trực tiếp để có thể sử dụng trực tiếp trong buổi phát mà không cần tải lại.",
+                      "Tải tài nguyên giữa buổi phát sẽ tiêu tốn tài nguyên phát trực tiếp, bộ nhớ điện thoại và hiệu suất, có thể gây lag. Trên điện thoại cấu hình thấp, thậm chí có thể dẫn đến treo hoặc màn hình đen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lưu ý quan trọng"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Hãy lên kế hoạch và diễn tập buổi phát trực tiếp trước. Thực hành từng phân đoạn để đảm bảo mọi thứ diễn ra suôn sẻ trước khi phát trực tiếp. Hãy trân trọng từng buổi phát, và buổi phát của bạn sẽ đền đáp lại."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

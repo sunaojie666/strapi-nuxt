@@ -1,0 +1,285 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'वर्चुअल बैकग्राउंड' consistently; it's fine, but 'बैकग्राउंड' is more common. No change needed."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'अब आसान' is slightly awkward; consider 'अब सरल' or 'आसान बना दिया गया है'."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.codeLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'कोड से लॉगिन' is acceptable, but 'कोड लॉगिन' is more concise and matches the pattern of other tabs."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.qrLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'QR कोड लॉगिन' is fine; consider 'QR लॉगिन' for brevity."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'पढ़ लिया है और उनसे सहमत हूँ' is correct but slightly formal; consider 'पढ़ लिया है और सहमत हूँ'."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestSuccess",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'अनुरोध सफल' is acceptable; consider 'अनुरोध सफल रहा' for naturalness."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestFail",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'अनुरोध विफल' is acceptable; consider 'अनुरोध विफल रहा'."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'ग्रीन स्क्रीन इफेक्ट और स्क्रीन कास्टिंग' is fine; consider 'ग्रीन स्क्रीन इफेक्ट्स' for plural."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'प्रोडक्ट' is acceptable; consider 'उत्पाद' for a more Hindi tone, but 'प्रोडक्ट' is common in Indian tech sites."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'फ़ीचर्स' is fine; consider 'विशेषताएँ' but 'फ़ीचर्स' is widely understood."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[0].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'मूल्य निर्धारण' is correct; consider 'कीमतें' for a more common term."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'डेवलपर्स' is fine; consider 'डेवलपर' for singular, but plural is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'कंपनी' is correct; consider 'हमारी कंपनी' for a more personal tone."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[3].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'सहायता' is correct; consider 'सपोर्ट' as it's common in Indian tech sites."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'व्यावसायिक सहयोग' is correct; consider 'बिज़नेस सहयोग' for a more common term."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'रिसेलर बनें' is fine; consider 'पुनर्विक्रेता बनें' for a more formal tone, but 'रिसेलर' is common."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[2].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'व्यावसायिक पूछताछ' is correct; consider 'बिज़नेस पूछताछ' for consistency."
+    },
+    {
+      "path": "$.navigations[0].nav_features",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'फ़ीचर्स' is fine; consider 'विशेषताएँ' but 'फ़ीचर्स' is widely understood."
+    },
+    {
+      "path": "$.navigations[0].nav_pricing",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'मूल्य निर्धारण' is correct; consider 'कीमतें' for a more common term."
+    },
+    {
+      "path": "$.navigations[0].nav_team",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'व्यावसायिक सहयोग' is correct; consider 'बिज़नेस सहयोग' for a more common term."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "hi",
+          "loginTitle1": "अपना वर्चुअल बैकग्राउंड तुरंत बदलें",
+          "loginTitle2": "ज़्यादा प्रभाव के साथ स्ट्रीम करें",
+          "loginDes1": "AI द्वारा संचालित एक पेशेवर लाइव स्ट्रीमिंग टूल",
+          "loginDes2": "वर्चुअल बैकग्राउंड, लाइव एन्हांसमेंट और मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग अब आसान",
+          "featureTitle1": "AI मैटिंग",
+          "featureSubTitle1": "रीयल-टाइम बैकग्राउंड रिप्लेसमेंट",
+          "featureTitle2": "मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग",
+          "featureSubTitle2": "एक टैप से लाइव जाएं",
+          "featureTitle3": "वर्चुअल कैमरा",
+          "featureSubTitle3": "अपने फ़ोन को वेबकैम में बदलें",
+          "loginBox": {
+            "loginPageTitle": "लॉग इन / साइन अप",
+            "codeLoginTab": "कोड लॉगिन",
+            "pwdLoginTab": "पासवर्ड लॉगिन",
+            "qrLoginTab": "QR लॉगिन",
+            "emailInputPlaceholder": "लॉग इन करने के लिए अपना ईमेल दर्ज करें",
+            "pwdInputPlaceholder": "अपना पासवर्ड दर्ज करें",
+            "verifyCodePlaceholder": "वेरिफिकेशन कोड दर्ज करें",
+            "getVerifyCodeText": "कोड प्राप्त करें",
+            "loginBtnText": "लॉग इन करें",
+            "qrLoginTip": "लॉग इन करने के लिए VicastCam ऐप से स्कैन करें",
+            "qrWaitingTip": "स्कैन की पुष्टि की प्रतीक्षा है",
+            "agreeProtocolText": "मैंने प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ लिया है और सहमत हूँ",
+            "userProtocolText": "यूज़र एग्रीमेंट",
+            "privacyPolicyText": "प्राइवेसी पॉलिसी",
+            "agreeProtocolPrefix": "मैंने पढ़ लिया है और सहमत हूँ"
+          },
+          "toastBox": {
+            "closeToastLabel": "सूचना बंद करें",
+            "requestLoading": "लोड हो रहा है",
+            "requestSuccess": "अनुरोध सफल रहा",
+            "requestFail": "अनुरोध विफल रहा",
+            "passwordLoginNotReady": "पासवर्ड लॉगिन अभी उपलब्ध नहीं है",
+            "passwordRequired": "कृपया अपना पासवर्ड दर्ज करें",
+            "emailRequired": "लॉग इन करने के लिए कृपया अपना ईमेल दर्ज करें",
+            "verifyCodeRequired": "कृपया वेरिफिकेशन कोड दर्ज करें",
+            "agreeProtocolRequired": "कृपया पहले प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ें और सहमत हों",
+            "qrcodeExpired": "QR कोड समाप्त हो गया है। कृपया नया कोड प्राप्त करें।"
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "hi",
+          "hero_section": {
+            "tag": "AI-संचालित लाइव स्ट्रीमिंग टूल",
+            "title_main": "अपने फ़ोन से ग्रीन स्क्रीन इफेक्ट्स और स्क्रीन कास्टिंग",
+            "title_highlight": "कहीं भी लाइव स्ट्रीमिंग के लिए",
+            "description": "VicastCam उन्नत AI मैटिंग का उपयोग करता है ताकि आप अपनी स्ट्रीम के दौरान वर्चुअल बैकग्राउंड को सहजता से बदल सकें, अपने लाइव प्रसारण में पेशेवर इफेक्ट और एक पॉलिश लुक जोड़ सकें।",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "डाउनलोड करें"
+              },
+              {
+                "platform": "Google Play",
+                "text": "डाउनलोड करें"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam क्रिएटर्स को वर्चुअल बैकग्राउंड, लाइव एन्हांसमेंट और क्रॉस-प्लेटफ़ॉर्म टूल प्रदान करता है।"
+            },
+            "columns": [
+              {
+                "title": "प्रोडक्ट",
+                "links": [
+                  {
+                    "text": "फ़ीचर्स"
+                  },
+                  {
+                    "text": "मूल्य निर्धारण"
+                  },
+                  {
+                    "text": "डाउनलोड"
+                  }
+                ]
+              },
+              {
+                "title": "डेवलपर्स",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "API दस्तावेज़"
+                  }
+                ]
+              },
+              {
+                "title": "कंपनी",
+                "links": [
+                  {
+                    "text": "हमारे बारे में"
+                  },
+                  {
+                    "text": "प्राइवेसी पॉलिसी"
+                  },
+                  {
+                    "text": "यूज़र एग्रीमेंट"
+                  },
+                  {
+                    "text": "मेम्बरशिप एग्रीमेंट"
+                  }
+                ]
+              },
+              {
+                "title": "सहायता",
+                "links": [
+                  {
+                    "text": "वीडियो ट्यूटोरियल"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "संपर्क करें"
+                  }
+                ]
+              },
+              {
+                "title": "व्यावसायिक सहयोग",
+                "links": [
+                  {
+                    "text": "रिसेलर बनें"
+                  },
+                  {
+                    "text": "OEM ब्रांडिंग"
+                  },
+                  {
+                    "text": "व्यावसायिक पूछताछ"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "फ़ीचर्स",
+        "nav_pricing": "मूल्य निर्धारण",
+        "nav_faq": "FAQ",
+        "nav_auth": "लॉग इन / साइन अप",
+        "nav_team": "व्यावसायिक सहयोग"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Scegli il metodo di pagamento",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Paga con il saldo PayPal, carta bancaria o carta di credito",
+            "secureBadge": "Pagamento sicuro",
+            "methodLabel": "Metodo di pagamento",
+            "accountLabel": "Account corrente",
+            "signInRequired": "Accedi per continuare con l'acquisto",
+            "signInAction": "Accedi",
+            "summaryHint": "Fai clic sul pulsante PayPal per completare il pagamento",
+            "trustItems": [
+              "I pagamenti sono elaborati in modo sicuro da PayPal",
+              "Supporta saldo PayPal, carte bancarie e carte di credito",
+              "I vantaggi dell'abbonamento vengono attivati automaticamente dopo il pagamento"
+            ],
+            "buttonPay": "Paga con PayPal",
+            "buttonPending": "Ordine in sospeso",
+            "buttonCreating": "Creazione ordine...",
+            "sdkLoading": "Caricamento PayPal...",
+            "sdkError": "Impossibile caricare PayPal. Controlla la connessione e riprova.",
+            "sdkIneligible": "Il pagamento PayPal non è supportato in questo ambiente",
+            "sdkMissingConfig": "PayPal non è configurato. Contatta l'amministratore.",
+            "orderCreating": "Creazione ordine di pagamento...",
+            "orderCreateFailed": "Impossibile creare l'ordine. Riprova.",
+            "orderProcessing": "Il risultato del pagamento è ancora in fase di conferma. Controlla di nuovo più tardi.",
+            "orderSuccess": "Pagamento riuscito. I vantaggi dell'abbonamento sono stati attivati.",
+            "orderFailed": "Il pagamento non è riuscito. Riprova.",
+            "orderPending": "Il pagamento non è completo. Completa il pagamento e controlla di nuovo.",
+            "orderExpired": "L'ordine di pagamento è scaduto. Riprova.",
+            "statusQueryFailed": "Impossibile verificare lo stato del pagamento. Riprova più tardi.",
+            "invalidPlan": "Il piano selezionato non è valido. Torna indietro e scegli di nuovo.",
+            "popupBlocked": "La finestra di pagamento è stata bloccata dal browser. Consenti i pop-up per questo sito e riprova.",
+            "popupOpened": "La finestra di pagamento PayPal si è aperta. Completa il pagamento nella finestra.",
+            "popupClosedChecking": "La finestra di pagamento si è chiusa. Conferma del risultato del pagamento...",
+            "popupClosedFailed": "La finestra di pagamento si è chiusa, ma l'ordine non è completo. Riprova."
+          },
+          "summary": {
+            "title": "Riepilogo ordine",
+            "periodLabel": "Periodo di abbonamento",
+            "paymentMethodLabel": "Metodo di pagamento",
+            "amountLabel": "Importo dovuto",
+            "paymentMethod": "Pagamento online PayPal",
+            "note": "Dopo il pagamento, i vantaggi dell'abbonamento verranno automaticamente assegnati al tuo account corrente.",
+            "periodMonth": "1 mese",
+            "periodYear": "1 anno",
+            "periodLife": "A vita",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Conferma del risultato del pagamento...",
+            "closeLabel": "Chiudi",
+            "iconAlt": "Risultato del pagamento",
+            "titlePrefix": "Pagamento",
+            "successTitleHighlight": "riuscito!",
+            "failureTitleHighlight": "non riuscito!",
+            "successDescription": "Grazie per l'acquisto. Il tuo abbonamento è stato attivato.",
+            "failureDescription": "Il pagamento non è stato completato. Riprova o utilizza un altro metodo di pagamento.",
+            "orderNumber": "Numero ordine",
+            "membershipType": "Tipo di abbonamento",
+            "expiry": "Data di scadenza",
+            "orderStatus": "Stato ordine",
+            "successStatus": "Pagato",
+            "failureStatus": "Non pagato",
+            "successPrimaryAction": "Vai al Centro abbonamenti",
+            "failurePrimaryAction": "Cambia metodo di pagamento",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Torna alla pagina",
+            "copyOrderNumber": "Copia numero ordine",
+            "copied": "Copiato",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Conferma acquisto | VicastCam",
+            "description": "Conferma il tuo piano di abbonamento VicastCam e completa il pagamento tramite PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Abbonamento mensile",
+              "description": "Goditi tutte le funzionalità dell'abbonamento VicastCam su base mensile",
+              "period": "1 mese"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Abbonamento annuale",
+              "description": "Goditi tutte le funzionalità dell'abbonamento VicastCam per un intero anno",
+              "period": "1 anno"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Abbonamento a vita",
+              "description": "Acquisto una tantum, accesso a lungo termine alle funzionalità dell'abbonamento VicastCam",
+              "period": "A vita"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

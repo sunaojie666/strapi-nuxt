@@ -1,0 +1,206 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "About VicastCam",
+          "titleMain": "The team behind mobile green screen and screen casting technology",
+          "titleHighlight": "",
+          "description": "We focus on mobile imaging, virtual camera, screen casting collaboration, and multi-platform live streaming connectivity, helping creators, educators, and businesses turn their phones into stable, clear, and easy-to-integrate professional live streaming tools.",
+          "primaryButtonText": "Contact Sales",
+          "secondaryButtonText": "View SDK"
+        },
+        "innovation": {
+          "sectionTag": "Core Strengths",
+          "titleMain": "Focused on Innovation",
+          "titleHighlight": "Driving the Future of Live Streaming",
+          "description": "From mobile tools to platform capabilities, VicastCam is expanding across more devices, platforms, and live streaming scenarios.",
+          "featureTag": "Core Capabilities",
+          "featureTitle": "Global live streaming, trusted by the industry",
+          "featureDescription": "We continuously refine the product experience around mobile live streaming, virtual imaging, screen casting collaboration, and cross-platform connectivity, evolving live streaming tools from single-point capabilities into stable, integrable workflows.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Countries and regions",
+              "text": "Serving creators and teams worldwide"
+            },
+            {
+              "value": "2000+",
+              "label": "Compatible platforms",
+              "text": "Covering major live streaming, meeting, and content scenarios"
+            },
+            {
+              "value": "500000+",
+              "label": "Total uses",
+              "text": "Continuously validated for stability and ease of use"
+            },
+            {
+              "value": "99.9%",
+              "label": "Uptime",
+              "text": "Ensuring reliable live streaming workflows"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Roadmap",
+          "titleMain": "Continuously Evolving",
+          "titleHighlight": "Around the Global Live Streaming Ecosystem",
+          "description": "From live streaming tools to platform capabilities, VicastCam is expanding across more devices, platforms, and live streaming scenarios.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Deepening mobile focus and refining core green screen effects",
+              "text": "Focused on the underlying capabilities of mobile virtual live streaming, continuously iterating and optimizing green screen matting algorithms to solve issues like edge distortion, poor lighting adaptation, and lag with multiple overlays. Completed a full suite of virtual effects including stickers, background replacement, and foreground occlusion, establishing a lightweight mobile virtual live streaming foundation. With just a phone, creators can achieve professional green screen live streaming."
+            },
+            {
+              "year": "2024",
+              "title": "Connecting screen casting, developing core virtual camera technology",
+              "text": "Expanded device interconnectivity, focusing on high-definition phone screen casting and cross-device synchronized transmission. Independently developed a universal virtual camera driver for global software capture and output, enabling compatibility across live streaming software, editing tools, and online meetings. Bridged the gap between mobile and desktop, allowing one-tap casting of phone content to PC and multi-output virtual camera positions, enriching live streaming production."
+            },
+            {
+              "year": "2025",
+              "title": "Launching a PC professional 3D live streaming assistant",
+              "text": "Delivered a professional desktop live streaming product line with a complete 3D virtual live streaming assistant. Equipped with 3D virtual scenes, digital human driving, multi-camera switching, and real-time lighting and rendering, it serves commercial live streaming, virtual presentations in showrooms, and large-screen e-commerce live streaming. Enhanced multi-layer compositing, real-time captions, and interactive components to meet the needs of teams delivering large-scale, high-quality professional live streams."
+            },
+            {
+              "year": "2026",
+              "title": "Expanding globally, building a complete live streaming ecosystem",
+              "text": "Comprehensively expanded into overseas live streaming, adapting to major overseas platforms for streaming, low-latency transmission over international networks, and multi-language localization. Integrated the three core products from previous years: mobile green screen, screen casting virtual camera, and PC 3D live streaming, connecting three business lines: individual creators, enterprise commercial use, and developer SDK integration. Unified hardware, software, multi-terminal, and domestic and international services, completing a full-chain live streaming ecosystem from production, cross-device interoperability, to global distribution."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Follow Us",
+          "titleMain": "Contact Us",
+          "titleHighlight": "and Shape the Future of Live Streaming",
+          "description": "Follow our product updates, live streaming tips, and other news",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTube account",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "About Us",
+          "description": "Learn about the VicastCam team, product mission, and capabilities in virtual camera, AI live streaming enhancement, and cross-platform broadcasting."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Download Center",
+            "title": "Download VicastCam"
+          },
+          "platform": {
+            "title": "Choose your platform",
+            "description": "VicastCam supports Windows, iOS, and Android. Start professional live streaming.",
+            "versionLabel": "Version",
+            "updatedAtLabel": "Updated",
+            "sizeLabel": "Package Size",
+            "downloadAriaSuffix": "Download",
+            "closeQrAriaPrefix": "Close",
+            "closeQrAriaSuffix": "Download QR Code",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Supports Android 8.0 and above",
+                "actionLabel": "Download Now",
+                "qrTitle": "Scan to download Android version",
+                "qrDescription": "Use your phone to scan and download"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Supports iOS 13.0 and above",
+                "actionLabel": "App Store",
+                "qrTitle": "Scan to go to App Store",
+                "qrDescription": "Use your phone to scan and download iOS version"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Compatible with Windows 10 and above",
+                "actionLabel": "Download Now",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Why choose VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Secure and reliable",
+                "text": "Multiple security mechanisms protect your data and account."
+              },
+              {
+                "key": "updates",
+                "title": "Continuous updates",
+                "text": "We constantly improve the product to provide a more stable experience."
+              },
+              {
+                "key": "support",
+                "title": "Professional support",
+                "text": "24/7 technical support with quick response to your issues."
+              },
+              {
+                "key": "tutorial",
+                "title": "Video tutorials",
+                "text": "Detailed video tutorials and feature guides to help you get started quickly."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Download Center",
+            "description": "Download the VicastCam client for Windows, iOS, and Android."
+          }
+        }
+      }
+    }
+  ]
+}

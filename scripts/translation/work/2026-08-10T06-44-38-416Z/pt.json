@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "pt",
+        "loginTitle1": "Altere o seu fundo virtual com um clique",
+        "loginTitle2": "Faça brilhar as suas transmissões ao vivo",
+        "loginDes1": "Uma ferramenta profissional de transmissão ao vivo com tecnologia AI",
+        "loginDes2": "Fundos virtuais, melhorias de transmissão ao vivo e transmissão multiplataforma simplificadas",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Substituição de fundo em tempo real",
+        "featureTitle2": "Transmissão Multiplataforma",
+        "featureSubTitle2": "Transmita ao vivo com um clique",
+        "featureTitle3": "Câmara Virtual",
+        "featureSubTitle3": "Transforme o seu telemóvel numa webcam",
+        "loginBox": {
+          "loginPageTitle": "Iniciar sessão / Registar",
+          "codeLoginTab": "Iniciar sessão com código",
+          "pwdLoginTab": "Iniciar sessão com palavra-passe",
+          "qrLoginTab": "Iniciar sessão com código QR",
+          "emailInputPlaceholder": "Introduza o seu email para iniciar sessão",
+          "pwdInputPlaceholder": "Introduza a sua palavra-passe",
+          "verifyCodePlaceholder": "Introduza o código de verificação",
+          "getVerifyCodeText": "Obter código",
+          "loginBtnText": "Iniciar sessão",
+          "qrLoginTip": "Utilize a aplicação VicastCam para digitalizar o código QR",
+          "qrWaitingTip": "A aguardar confirmação da digitalização",
+          "agreeProtocolText": "Li e aceito a Política de Privacidade e o Contrato de Utilizador",
+          "userProtocolText": "Contrato de Utilizador",
+          "privacyPolicyText": "Política de Privacidade",
+          "agreeProtocolPrefix": "Li e aceito"
+        },
+        "toastBox": {
+          "closeToastLabel": "Fechar",
+          "requestLoading": "A carregar",
+          "requestSuccess": "Sucesso",
+          "requestFail": "Pedido falhou",
+          "passwordLoginNotReady": "O início de sessão com palavra-passe ainda não está disponível",
+          "passwordRequired": "Introduza a sua palavra-passe",
+          "emailRequired": "Introduza o seu email para iniciar sessão",
+          "verifyCodeRequired": "Introduza o código de verificação",
+          "agreeProtocolRequired": "Leia e aceite primeiro a Política de Privacidade e o Contrato de Utilizador",
+          "qrcodeExpired": "O código QR expirou. Tente novamente."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "pt",
+        "hero_section": {
+          "tag": "Ferramenta de transmissão ao vivo com tecnologia AI",
+          "title_main": "Efeitos de ecrã verde e transmissão de ecrã a partir do seu telemóvel",
+          "title_highlight": "A potenciar transmissões ao vivo em todo o mundo",
+          "description": "A VicastCam utiliza tecnologia avançada de AI matting para permitir que altere fundos virtuais sem interrupções durante as suas transmissões ao vivo, adicionando efeitos imersivos para criar uma presença profissional.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Descarregar"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Descarregar"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "A VicastCam fornece aos criadores fundos virtuais, melhorias de transmissão ao vivo e ferramentas multiplataforma."
+          },
+          "columns": [
+            {
+              "title": "Produto",
+              "links": [
+                {
+                  "text": "Funcionalidades"
+                },
+                {
+                  "text": "Preços"
+                },
+                {
+                  "text": "Centro de Transferências"
+                }
+              ]
+            },
+            {
+              "title": "Programadores",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Documentação da API"
+                }
+              ]
+            },
+            {
+              "title": "Empresa",
+              "links": [
+                {
+                  "text": "Sobre Nós"
+                },
+                {
+                  "text": "Política de Privacidade"
+                },
+                {
+                  "text": "Contrato de Utilizador"
+                },
+                {
+                  "text": "Contrato de Adesão"
+                }
+              ]
+            },
+            {
+              "title": "Suporte",
+              "links": [
+                {
+                  "text": "Tutoriais em Vídeo"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Contacte-nos"
+                }
+              ]
+            },
+            {
+              "title": "Negócios",
+              "links": [
+                {
+                  "text": "Torne-se Revendedor"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Consultas Comerciais"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Funcionalidades",
+      "nav_pricing": "Preços",
+      "nav_faq": "FAQ",
+      "nav_auth": "Iniciar sessão / Registar",
+      "nav_team": "Negócios"
+    }
+  ]
+}

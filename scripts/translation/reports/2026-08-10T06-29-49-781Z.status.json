@@ -1,0 +1,42 @@
+{
+  "runId": "2026-08-10T06-29-49-781Z",
+  "startedAt": "2026-08-10T06-29-49-781Z",
+  "completedAt": "2026-08-10T06:29:57.701Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "concurrency": 4,
+  "writeMode": "仅生成文件，未写数据库",
+  "selectedTables": [
+    "logins",
+    "footers",
+    "navigations"
+  ],
+  "beforeStatus": {
+    "en": {
+      "logins": {
+        "drafts": 1,
+        "published": 1
+      },
+      "footers": {
+        "drafts": 1,
+        "published": 1
+      },
+      "navigations": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "not-required"
+    }
+  ]
+}

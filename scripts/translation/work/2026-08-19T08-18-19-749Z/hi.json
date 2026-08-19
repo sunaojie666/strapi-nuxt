@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "खाता केंद्र",
+            "description": "VicastCam खाता केंद्र पृष्ठ"
+          },
+          "common": {
+            "sidebarAriaLabel": "खाता नेविगेशन",
+            "defaultProfileName": "उपयोगकर्ता",
+            "emptyContent": "कोई सामग्री नहीं",
+            "copyButtonLabel": "कॉपी करें",
+            "monthSelectLabel": "महीना चुनें",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "उपयोगकर्ता जानकारी नहीं मिली। कृपया फिर से लॉग इन करें।",
+            "paginationLabel": "पेजिनेशन",
+            "previousPageLabel": "पिछला पेज",
+            "nextPageLabel": "अगला पेज",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "पेज पर जाएं",
+              "unit": "पेज",
+              "ariaLabel": "किसी विशिष्ट पेज पर जाएं",
+              "buttonLabel": "जाएं"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "खाता केंद्र",
+            "logout": "लॉग आउट",
+            "profileAriaSuffix": "खाता मेनू"
+          },
+          "sidebar": {
+            "ariaLabel": "खाता नेविगेशन",
+            "menus": {
+              "account": "खाता जानकारी",
+              "membership": "सदस्यता",
+              "redeem": "कोड रिडीम करें",
+              "purchaseHistory": "खरीद इतिहास",
+              "team": "मेरी टीम",
+              "earnings": "कमाई"
+            }
+          },
+          "account": {
+            "ariaLabel": "खाता जानकारी",
+            "profileTitle": "खाता जानकारी",
+            "usernameLabel": "उपयोगकर्ता नाम",
+            "passwordLabel": "पासवर्ड",
+            "passwordMask": "********",
+            "defaultUsername": "कोई उपनाम सेट नहीं",
+            "emailLabel": "लिंक किया गया ईमेल",
+            "emailPlaceholder": "अपना ईमेल दर्ज करें",
+            "codePlaceholder": "सत्यापन कोड दर्ज करें",
+            "sendCodeButton": "कोड प्राप्त करें",
+            "bindButton": "ईमेल लिंक करें",
+            "alreadyBound": "लिंक किया गया",
+            "unboundEmail": "लिंक नहीं किया गया",
+            "emailBindTip": "एक बार लिंक करने के बाद, ईमेल बदला नहीं जा सकता। कृपया सुनिश्चित करें कि ईमेल पता सही है।",
+            "emailRequired": "कृपया एक मान्य ईमेल दर्ज करें",
+            "codeRequired": "कृपया सत्यापन कोड दर्ज करें",
+            "codeSent": "सत्यापन कोड भेज दिया गया है। अपना ईमेल जांचें।",
+            "bindSuccess": "ईमेल सफलतापूर्वक लिंक हो गया",
+            "bindFailed": "ईमेल लिंक करने में विफल। कोड जांचें और पुनः प्रयास करें।",
+            "requestFailed": "अनुरोध विफल। कृपया बाद में पुनः प्रयास करें।",
+            "inviteTitle": "इनवाइट लिंक",
+            "inviteDescription": "अपना व्यक्तिगत इनवाइट लिंक कॉपी करें। जब मित्र पंजीकरण करें और सदस्यता खरीदें, तो आपको पुरस्कार मिलते हैं।",
+            "emptyInviteLink": "कोई इनवाइट लिंक उपलब्ध नहीं"
+          },
+          "membership": {
+            "ariaLabel": "सदस्यता",
+            "title": "मेरी सदस्यता",
+            "badgeAlt": "सदस्यता बैज",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "मुफ्त उपयोगकर्ता",
+            "activeVipName": "VIP सदस्य",
+            "expirePrefix": "समाप्ति",
+            "emptyExpireDate": "सक्रिय नहीं",
+            "activeStatus": "सक्रिय",
+            "inactiveStatus": "निष्क्रिय",
+            "compareTitle": "प्लान तुलना",
+            "compareHeaders": {
+              "feature": "सुविधा",
+              "normal": "मुफ्त",
+              "month": "मासिक",
+              "year": "वार्षिक",
+              "life": "लाइफटाइम"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "मासिक",
+                "subtitle": "थोड़े समय के उपयोग के लिए बढ़िया",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/माह",
+                "cta": "शुरू करें",
+                "benefits": [
+                  "कोर वर्चुअल कैमरा सुविधाएँ",
+                  "वर्चुअल बैकग्राउंड और ब्यूटिफिकेशन",
+                  "मल्टी-प्लेटफ़ॉर्म लाइव स्ट्रीमिंग",
+                  "मानक अपडेट"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "वार्षिक",
+                "subtitle": "लंबे समय के उपयोग के लिए बेहतर मूल्य",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/वर्ष",
+                "cta": "शुरू करें",
+                "benefits": [
+                  "मासिक प्लान की सभी सुविधाएँ",
+                  "एक साल के लिए सभी प्रीमियम सुविधाएँ",
+                  "प्राथमिकता सुविधा अपडेट",
+                  "समर्पित सदस्य सहायता"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "लाइफटाइम",
+                "subtitle": "एक बार भुगतान करें, हमेशा उपयोग करें",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/लाइफटाइम",
+                "cta": "शुरू करें",
+                "benefits": [
+                  "वार्षिक प्लान की सभी सुविधाएँ",
+                  "हमेशा के लिए प्रीमियम सुविधाएँ",
+                  "दीर्घकालिक अपडेट",
+                  "विशेष सहायता चैनल"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "सदस्यता अवधि",
+                "normal": "हमेशा मुफ्त",
+                "month": "30 दिन",
+                "year": "365 दिन",
+                "life": "लाइफटाइम"
+              },
+              {
+                "feature": "डेस्कटॉप वर्चुअल कैमरा",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "कस्टम वर्चुअल बैकग्राउंड",
+                "normal": "1 सेट",
+                "month": "असीमित",
+                "year": "असीमित",
+                "life": "असीमित"
+              },
+              {
+                "feature": "स्ट्रीमिंग प्रीसेट",
+                "normal": "नहीं",
+                "month": "असीमित",
+                "year": "असीमित",
+                "life": "असीमित"
+              },
+              {
+                "feature": "आधिकारिक एसेट्स",
+                "normal": "सीमित",
+                "month": "असीमित",
+                "year": "असीमित",
+                "life": "असीमित"
+              },
+              {
+                "feature": "कंट्रोलर से रिमोट कंट्रोल",
+                "normal": "हाँ",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "सीन तुलना मोड",
+                "normal": "हाँ",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "सीन कैप्शन",
+                "normal": "सीमित",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "सीन संगीत",
+                "normal": "सीमित",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "मल्टी-कैमरा इनपुट",
+                "normal": "नहीं",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "एडवांस्ड ब्यूटी फिल्टर",
+                "normal": "बेसिक",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "AI ग्रीन स्क्रीन मैटिंग",
+                "normal": "हाँ",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "मोशन ट्रैकिंग एनिमेशन",
+                "normal": "सीमित",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "सीन कैमरा इफेक्ट्स",
+                "normal": "सीमित",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "VIP इफेक्ट्स लाइब्रेरी",
+                "normal": "सीमित",
+                "month": "असीमित",
+                "year": "असीमित",
+                "life": "असीमित"
+              },
+              {
+                "feature": "प्लेटफ़ॉर्म स्ट्रीमिंग",
+                "normal": "हाँ",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "4K आउटपुट",
+                "normal": "नहीं",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              },
+              {
+                "feature": "रेफरल कमीशन दर",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "सब-एफिलिएट रिबेट",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "सहायता चैनल",
+                "normal": "कम्युनिटी सेल्फ-सर्विस",
+                "month": "स्टैंडर्ड कतार",
+                "year": "प्राथमिकता प्रतिक्रिया",
+                "life": "समर्पित सहायता"
+              },
+              {
+                "feature": "नई सुविधाओं तक प्रारंभिक पहुंच",
+                "normal": "नहीं",
+                "month": "हाँ",
+                "year": "हाँ",
+                "life": "हाँ"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "कोड रिडीम करें",
+            "title": "कोड रिडीम करें",
+            "tip": "अपना सदस्यता रिडीम्पशन कोड दर्ज करें। रिडीम करने के तुरंत बाद आपकी सदस्यता सक्रिय हो जाएगी।",
+            "placeholder": "रिडीम्पशन कोड दर्ज करें",
+            "submitButton": "रिडीम करें",
+            "agreementPrefix": "रिडीम करके, आप सहमत हैं",
+            "userProtocolText": "उपयोगकर्ता अनुबंध",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "रिडीम विफल। कोड जांचें और पुनः प्रयास करें।"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "खरीदारी का इतिहास",
+            "title": "खरीदारी का इतिहास",
+            "tabTitle": "खरीदारी",
+            "exchangeTabTitle": "रिडेम्प्शन",
+            "tableHeaders": {
+              "title": "प्रकार",
+              "date": "भुगतान समय",
+              "price": "राशि",
+              "paymentMethod": "भुगतान विधि",
+              "status": "स्थिति",
+              "exchangeDate": "रिडेम्प्शन समय",
+              "exchangeCode": "रिडेम्प्शन कोड"
+            },
+            "exchangeTableHeaders": {
+              "date": "रिडेम्प्शन समय",
+              "code": "रिडेम्प्शन कोड"
+            },
+            "cardTypes": {
+              "month": "मासिक कार्ड",
+              "year": "वार्षिक कार्ड",
+              "life": "लाइफटाइम कार्ड",
+              "default": "मेम्बरशिप कार्ड"
+            },
+            "orderStatuses": {
+              "pending": "भुगतान लंबित",
+              "paid": "भुगतान किया गया",
+              "closed": "बंद",
+              "refunded": "रिफंड किया गया",
+              "unknown": "अज्ञात"
+            },
+            "secretLabels": {
+              "show": "पासवर्ड दिखाएँ",
+              "hide": "पासवर्ड छिपाएँ"
+            },
+            "secretMask": "******",
+            "emptyText": "अभी तक कोई खरीदारी रिकॉर्ड नहीं है",
+            "exchangeEmptyText": "अभी तक कोई रिडेम्प्शन रिकॉर्ड नहीं है",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "बैंक कार्ड",
+              "creditcard": "क्रेडिट कार्ड",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "क्रिप्टोकरेंसी",
+              "balance": "बैलेंस",
+              "free": "मुफ़्त"
+            }
+          },
+          "team": {
+            "ariaLabel": "मेरी टीम",
+            "title": "मेरी टीम",
+            "referrerLabel": "मेरा रेफरर",
+            "levelOne": "लेवल 1 सदस्य",
+            "levelTwo": "लेवल 2 सदस्य",
+            "tableHeaders": {
+              "name": "सदस्य का नाम",
+              "status": "मेम्बरशिप स्थिति",
+              "joinedAt": "जुड़ने का समय"
+            },
+            "memberStatus": {
+              "free": "फ्री यूज़र",
+              "vip": "VIP यूज़र"
+            },
+            "emptyMemberName": "बिना नाम का यूज़र",
+            "emptyReferrer": "कोई रेफरर नहीं",
+            "emptyTeam": "अभी तक कोई टीम सदस्य नहीं है",
+            "errors": {
+              "loadFail": "टीम सदस्यों को लोड करने में विफल। कृपया बाद में पुनः प्रयास करें।"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "कमाई केंद्र",
+            "title": "कमाई का अवलोकन",
+            "commissionTitle": "कमीशन विवरण",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "कुल कमाई",
+                "desc": "आज तक अर्जित कुल कमीशन"
+              },
+              {
+                "key": "month",
+                "title": "इस महीने",
+                "desc": "इस महीने अर्जित कमीशन"
+              },
+              {
+                "key": "settling",
+                "title": "निपटान लंबित",
+                "value": "0.00",
+                "desc": "निपटान के लिए लंबित राशि"
+              },
+              {
+                "key": "withdrawable",
+                "title": "निकासी योग्य",
+                "desc": "वर्तमान में निकासी के लिए उपलब्ध राशि",
+                "action": "निकालें"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "यूज़रनेम",
+              "saleTime": "बिक्री समय",
+              "goodsInfo": "उत्पाद",
+              "commission": "कमीशन"
+            },
+            "emptyCommission": "अभी तक कोई कमीशन रिकॉर्ड नहीं है",
+            "errors": {
+              "loadFail": "कमीशन विवरण लोड करने में विफल। कृपया बाद में पुनः प्रयास करें।"
+            },
+            "withdraw": {
+              "ariaLabel": "निकासी अनुरोध",
+              "title": "निकासी अनुरोध",
+              "closeLabel": "निकासी डायलॉग बंद करें",
+              "balanceLabel": "निकासी योग्य बैलेंस",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "निकासी राशि",
+              "amountPlaceholder": "निकासी राशि दर्ज करें",
+              "allButton": "सभी",
+              "allAmountValue": "0.00",
+              "amountTip": "कृपया सुनिश्चित करें कि राशि सही है। आपका अनुरोध सबमिट करने के बाद मैन्युअल रूप से समीक्षा की जाएगी।",
+              "methodLabel": "निकासी विधि",
+              "methods": [
+                "बैंक कार्ड",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "बैंक कार्ड",
+              "nameLabel": "प्राप्तकर्ता का नाम",
+              "namePlaceholder": "प्राप्तकर्ता का नाम दर्ज करें",
+              "defaultName": "",
+              "bankCardLabel": "खाता संख्या",
+              "bankCardPlaceholder": "बैंक कार्ड नंबर, PayPal ईमेल या वॉलेट पता दर्ज करें",
+              "remarkLabel": "टिप्पणी",
+              "remarkPlaceholder": "कोई अतिरिक्त नोट जोड़ें",
+              "note": "निकासी अनुरोध 1-3 कार्य दिवसों के भीतर संसाधित किए जाते हैं।",
+              "cancelButton": "रद्द करें",
+              "submitButton": "अनुरोध सबमिट करें"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "रिडेम्प्शन सफल",
+            "operationFailed": "रिडेम्प्शन विफल",
+            "invalidCard": "अमान्य रिडेम्प्शन कोड",
+            "cardNotFound": "रिडेम्प्शन कोड नहीं मिला",
+            "cardDisabled": "रिडेम्प्शन कोड अक्षम",
+            "cardExpired": "रिडेम्प्शन कोड समाप्त"
+          },
+          "successMessage": "ऑपरेशन सफल"
+        }
+      }
+    }
+  ]
+}

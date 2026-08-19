@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "選擇付款方式",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "使用 PayPal 餘額、銀行卡或信用卡付款",
+            "secureBadge": "安全付款",
+            "methodLabel": "付款方式",
+            "accountLabel": "目前帳戶",
+            "signInRequired": "請先登入以繼續購買",
+            "signInAction": "登入",
+            "summaryHint": "點擊 PayPal 按鈕以完成付款",
+            "trustItems": [
+              "付款由 PayPal 安全處理",
+              "支援 PayPal 餘額、銀行卡和信用卡",
+              "付款成功後，會員權益將自動啟用"
+            ],
+            "buttonPay": "使用 PayPal 付款",
+            "buttonPending": "訂單處理中",
+            "buttonCreating": "建立訂單中...",
+            "sdkLoading": "載入 PayPal...",
+            "sdkError": "無法載入 PayPal，請檢查網路後重試。",
+            "sdkIneligible": "此環境不支援 PayPal 付款",
+            "sdkMissingConfig": "PayPal 尚未設定，請聯絡管理員。",
+            "orderCreating": "建立付款訂單中...",
+            "orderCreateFailed": "建立訂單失敗，請重試。",
+            "orderProcessing": "付款結果仍在確認中，請稍後再查詢。",
+            "orderSuccess": "付款成功，您的會員權益已啟用。",
+            "orderFailed": "付款未成功，請重試。",
+            "orderPending": "付款尚未完成，請完成付款後再查詢。",
+            "orderExpired": "付款訂單已過期，請重試。",
+            "statusQueryFailed": "查詢付款狀態失敗，請稍後再試。",
+            "invalidPlan": "所選方案無效，請返回重新選擇。",
+            "popupBlocked": "付款視窗被瀏覽器封鎖，請允許此網站顯示彈出視窗後重試。",
+            "popupOpened": "PayPal 付款視窗已開啟，請在視窗中完成付款。",
+            "popupClosedChecking": "付款視窗已關閉，正在確認付款結果...",
+            "popupClosedFailed": "付款視窗已關閉，但訂單未完成，請重試。"
+          },
+          "summary": {
+            "title": "訂單摘要",
+            "periodLabel": "會員期間",
+            "paymentMethodLabel": "付款方式",
+            "amountLabel": "應付金額",
+            "paymentMethod": "PayPal 線上付款",
+            "note": "付款成功後，會員權益將自動授予目前帳戶。",
+            "periodMonth": "1 個月",
+            "periodYear": "1 年",
+            "periodLife": "終身",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "確認付款結果中...",
+            "closeLabel": "關閉",
+            "iconAlt": "付款結果",
+            "titlePrefix": "付款",
+            "successTitleHighlight": "成功！",
+            "failureTitleHighlight": "失敗！",
+            "successDescription": "感謝您的購買，您的會員資格已啟用。",
+            "failureDescription": "無法完成付款，請重試或使用其他付款方式。",
+            "orderNumber": "訂單編號",
+            "membershipType": "會員類型",
+            "expiry": "到期日",
+            "orderStatus": "訂單狀態",
+            "successStatus": "已付款",
+            "failureStatus": "未付款",
+            "successPrimaryAction": "前往會員中心",
+            "failurePrimaryAction": "更換付款方式",
+            "successSecondaryAction": "確定",
+            "failureSecondaryAction": "返回頁面",
+            "copyOrderNumber": "複製訂單編號",
+            "copied": "已複製",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "確認購買 | VicastCam",
+            "description": "確認您的 VicastCam 會員方案並透過 PayPal 完成付款。"
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "月費會員",
+              "description": "按月訂閱，享受 VicastCam 所有會員功能",
+              "period": "1 個月"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "年費會員",
+              "description": "全年訂閱，享受 VicastCam 所有會員功能",
+              "period": "1 年"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "終身會員",
+              "description": "一次付費，長期使用 VicastCam 會員功能",
+              "period": "終身"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

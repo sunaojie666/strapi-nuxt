@@ -1,0 +1,589 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[0].benefits[1]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'amélioration de l'apparence' with 'retouche beauté' for a more natural and concise French consumer-tech phrasing."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[0].benefits[2]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Prise en charge du streaming multi-plateformes' with 'Streaming multi-plateformes' to match the concise style of other benefits."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[1].benefits[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Tous les avantages du mensuel' with 'Tous les avantages du plan mensuel' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.plans[2].benefits[0]",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Tous les avantages de l'annuel' with 'Tous les avantages du plan annuel' for clarity."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[2].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Fonds virtuels personnalisés' with 'Arrière-plans virtuels personnalisés' to align with the glossary term 'virtual camera' and common French usage."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[12].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Animations de traînée de mouvement dynamiques' with 'Animations de traînée dynamiques' for conciseness."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[13].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Effets de mouvement de caméra de scène' with 'Effets de mouvement de caméra' for conciseness."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.membership.compareRows[20].feature",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Accès anticipé aux nouvelles fonctionnalités' with 'Accès anticipé aux nouveautés' for a more natural French phrasing."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.purchaseHistory.tableHeaders.title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace 'Type' with 'Type d'abonnement' for clarity in the purchase history table."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.withdraw.balanceValue",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace '$ 0.00' with '0,00 $' to follow French typographic conventions for currency."
+    },
+    {
+      "path": "$.profiles[0].data.profileBox.earnings.withdraw.allAmountValue",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Replace '0.00' with '0,00' to use the French decimal comma."
+    }
+  ],
+  "revisedContent": {
+    "checkouts": [
+      {
+        "data": {
+          "checkout": {
+            "title": "Paiement non disponible pour le moment",
+            "payment": {
+              "providerName": "Paiement en ligne non actif",
+              "providerDescription": "La mise en place du traitement des paiements est en cours. Cette page affiche uniquement les détails de la commande.",
+              "unavailableTitle": "Paiement non disponible pour le moment",
+              "unavailableDescription": "Nous intégrons le processus officiel de paiement et de confirmation de commande. Jusqu'au lancement, cette page ne vous facturera rien et ne créera pas de commande réelle.",
+              "unavailableItems": [
+                "Aucun composant de paiement tiers ne sera chargé",
+                "Aucune information de paiement ne sera soumise",
+                "Aucune commande de paiement réelle ne sera créée"
+              ],
+              "feedback": "Pour acheter ou activer un abonnement, veuillez contacter business@vicastcam.com."
+            },
+            "summary": {
+              "title": "Récapitulatif de la commande",
+              "periodLabel": "Période d'abonnement",
+              "paymentMethodLabel": "Moyen de paiement",
+              "amountLabel": "Montant dû",
+              "submitLabel": "Non disponible pour le moment",
+              "note": "Le paiement n'est pas encore disponible. Les détails de la commande ci-dessous servent à confirmer votre formule.",
+              "unavailablePaymentMethod": "Non disponible pour le moment",
+              "fallbackProductName": "Aucune formule sélectionnée",
+              "fallbackProductDescription": "Veuillez revenir à la page d'accueil et sélectionner une formule d'abonnement.",
+              "periodMonth": "1 mois",
+              "periodYear": "1 an",
+              "periodLife": "À vie",
+              "emptyValue": "-"
+            },
+            "seo": {
+              "title": "Paiement de l'abonnement",
+              "description": "Page de paiement de l'abonnement VicastCam."
+            },
+            "plans": [
+              {
+                "type": "month",
+                "name": "Formule mensuelle",
+                "description": "Bénéficiez d'un mois complet d'accès dès l'activation. Un moyen économique pour essayer."
+              },
+              {
+                "type": "year",
+                "name": "Formule annuelle",
+                "description": "Bénéficiez d'une année complète d'accès dès l'activation. Idéal pour une utilisation stable à long terme."
+              },
+              {
+                "type": "life",
+                "name": "Formule à vie",
+                "description": "Activez une fois et utilisez à long terme. Profitez des avantages de l'abonnement en continu."
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data": {
+          "locale": "fr",
+          "multi_platform_section": {
+            "tag": "Support multi-plateformes",
+            "title_main": "Atteignez les plus grandes plateformes de streaming au monde",
+            "title_highlight": "Accédez à un public mondial en un clic",
+            "description": "Connectez-vous à des sources de trafic mondiales et créez un nouvel écosystème de streaming transfrontalier."
+          }
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "data": {
+          "profileBox": {
+            "seo": {
+              "title": "Centre de compte",
+              "description": "Page du centre de compte VicastCam"
+            },
+            "common": {
+              "sidebarAriaLabel": "Navigation du centre de compte",
+              "defaultProfileName": "Utilisateur",
+              "emptyContent": "Aucun contenu",
+              "copyButtonLabel": "Copier",
+              "monthSelectLabel": "Sélectionner le mois",
+              "yearSuffix": "a",
+              "monthSuffix": "m",
+              "userMissing": "Informations utilisateur introuvables. Veuillez vous reconnecter.",
+              "paginationLabel": "Pagination",
+              "previousPageLabel": "Page précédente",
+              "nextPageLabel": "Page suivante",
+              "vipBadgeText": "VIP",
+              "paginationJump": {
+                "label": "Aller à",
+                "unit": "page",
+                "ariaLabel": "Aller à une page spécifique",
+                "buttonLabel": "Aller"
+              }
+            },
+            "headerUserMenu": {
+              "profile": "Centre de compte",
+              "logout": "Se déconnecter",
+              "profileAriaSuffix": "Menu du centre de compte"
+            },
+            "sidebar": {
+              "ariaLabel": "Navigation du centre de compte",
+              "menus": {
+                "account": "Informations du compte",
+                "membership": "Abonnement",
+                "redeem": "Échanger un code",
+                "purchaseHistory": "Historique des achats",
+                "team": "Mon équipe",
+                "earnings": "Gains"
+              }
+            },
+            "account": {
+              "ariaLabel": "Informations du compte",
+              "profileTitle": "Informations du compte",
+              "usernameLabel": "Nom d'utilisateur",
+              "passwordLabel": "Mot de passe",
+              "passwordMask": "********",
+              "defaultUsername": "Aucun pseudo défini",
+              "inviteTitle": "Lien d'invitation",
+              "inviteDescription": "Copiez votre lien d'invitation personnel. Lorsque des amis s'inscrivent et activent un abonnement, vous gagnez des récompenses.",
+              "emptyInviteLink": "Pas encore de lien d'invitation"
+            },
+            "membership": {
+              "ariaLabel": "Abonnement",
+              "title": "Mon abonnement",
+              "badgeAlt": "Badge d'abonnement",
+              "vipBadgeText": "VIP",
+              "defaultVipName": "Utilisateur gratuit",
+              "activeVipName": "Membre VIP",
+              "expirePrefix": "Expire le",
+              "emptyExpireDate": "Non activé",
+              "activeStatus": "Actif",
+              "inactiveStatus": "Non activé",
+              "compareTitle": "Comparez les avantages de l'abonnement",
+              "compareHeaders": {
+                "feature": "Fonctionnalité",
+                "normal": "Gratuit",
+                "month": "Mensuel",
+                "year": "Annuel",
+                "life": "À vie"
+              },
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "Abonnement mensuel",
+                  "subtitle": "Idéal pour une utilisation à court terme",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/mois",
+                  "cta": "Commencer",
+                  "benefits": [
+                    "Fonctionnalités de base de la caméra virtuelle",
+                    "Fonds virtuels et retouche beauté",
+                    "Streaming multi-plateformes",
+                    "Mises à jour standard"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "Abonnement annuel",
+                  "subtitle": "Meilleur rapport qualité-prix pour une utilisation à long terme",
+                  "price": "$69.99",
+                  "originalPrice": "$119.88",
+                  "unit": "/an",
+                  "cta": "Commencer",
+                  "benefits": [
+                    "Tous les avantages du plan mensuel",
+                    "Toutes les fonctionnalités avancées pendant un an",
+                    "Mises à jour prioritaires des fonctionnalités",
+                    "Assistance dédiée aux membres"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "Abonnement à vie",
+                  "subtitle": "Payez une fois, utilisez à long terme",
+                  "price": "$99.99",
+                  "originalPrice": "",
+                  "unit": "/à vie",
+                  "cta": "Commencer",
+                  "benefits": [
+                    "Tous les avantages du plan annuel",
+                    "Fonctionnalités avancées pour toujours",
+                    "Mises à jour à long terme",
+                    "Canal d'assistance dédié"
+                  ]
+                }
+              ],
+              "compareRows": [
+                {
+                  "feature": "Durée de l'abonnement",
+                  "normal": "Gratuit pour toujours",
+                  "month": "30 jours",
+                  "year": "365 jours",
+                  "life": "À vie"
+                },
+                {
+                  "feature": "Caméra virtuelle de bureau",
+                  "normal": "SD",
+                  "month": "HD/UHD",
+                  "year": "HD/UHD",
+                  "life": "HD/UHD"
+                },
+                {
+                  "feature": "Arrière-plans virtuels personnalisés",
+                  "normal": "Un ensemble",
+                  "month": "Illimité",
+                  "year": "Illimité",
+                  "life": "Illimité"
+                },
+                {
+                  "feature": "Préréglages de streaming",
+                  "normal": "cross",
+                  "month": "Illimité",
+                  "year": "Illimité",
+                  "life": "Illimité"
+                },
+                {
+                  "feature": "Ressources du site officiel",
+                  "normal": "Limité",
+                  "month": "Illimité",
+                  "year": "Illimité",
+                  "life": "Illimité"
+                },
+                {
+                  "feature": "Contrôle à distance via contrôleur",
+                  "normal": "check",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Mode de comparaison de scènes en direct",
+                  "normal": "check",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Sous-titres de scène",
+                  "normal": "Limité",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Musique de scène",
+                  "normal": "Limité",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Entrée multi-caméras",
+                  "normal": "cross",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Filtres de beauté avancés",
+                  "normal": "Basique",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Détourage intelligent par écran vert IA",
+                  "normal": "check",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Animations de traînée dynamiques",
+                  "normal": "Limité",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Effets de mouvement de caméra",
+                  "normal": "Limité",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Bibliothèque d'effets VIP",
+                  "normal": "Limité",
+                  "month": "Illimité",
+                  "year": "Illimité",
+                  "life": "Illimité"
+                },
+                {
+                  "feature": "Streaming sur plateformes",
+                  "normal": "check",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Sortie 4K UHD",
+                  "normal": "cross",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                },
+                {
+                  "feature": "Taux de commission de promotion",
+                  "normal": "5%",
+                  "month": "40%",
+                  "year": "40%",
+                  "life": "40%"
+                },
+                {
+                  "feature": "Récompenses de parrainage",
+                  "normal": "1%",
+                  "month": "7%",
+                  "year": "7%",
+                  "life": "7%"
+                },
+                {
+                  "feature": "Canal d'assistance",
+                  "normal": "Auto-assistance communautaire",
+                  "month": "File standard",
+                  "year": "Réponse prioritaire",
+                  "life": "Assistance dédiée"
+                },
+                {
+                  "feature": "Accès anticipé aux nouveautés",
+                  "normal": "cross",
+                  "month": "check",
+                  "year": "check",
+                  "life": "check"
+                }
+              ]
+            },
+            "redeem": {
+              "ariaLabel": "Échanger un code",
+              "title": "Échanger un code",
+              "tip": "Saisissez votre code d'activation d'abonnement. Vos avantages seront activés immédiatement après l'échange.",
+              "placeholder": "Saisissez le code d'échange",
+              "submitButton": "Échanger maintenant",
+              "agreementPrefix": "En échangeant, vous acceptez les",
+              "userProtocolText": "Conditions d'utilisation",
+              "userProtocolHref": "/terms",
+              "errors": {
+                "activateFail": "Échec de l'échange. Veuillez vérifier le code et réessayer."
+              }
+            },
+            "purchaseHistory": {
+              "ariaLabel": "Historique des achats",
+              "title": "Historique des achats",
+              "tabTitle": "Achats",
+              "exchangeTabTitle": "Échanges",
+              "tableHeaders": {
+                "title": "Type d'abonnement",
+                "date": "Date de paiement",
+                "price": "Montant",
+                "paymentMethod": "Moyen de paiement",
+                "status": "Statut",
+                "exchangeDate": "Date d'échange",
+                "exchangeCode": "Code d'échange"
+              },
+              "exchangeTableHeaders": {
+                "date": "Date d'échange",
+                "code": "Code d'échange"
+              },
+              "cardTypes": {
+                "month": "Formule mensuelle",
+                "year": "Formule annuelle",
+                "life": "Formule à vie",
+                "default": "Abonnement"
+              },
+              "orderStatuses": {
+                "pending": "En attente",
+                "paid": "Payé",
+                "closed": "Clôturé",
+                "refunded": "Remboursé",
+                "unknown": "Inconnu"
+              },
+              "secretLabels": {
+                "show": "Afficher le mot de passe",
+                "hide": "Masquer le mot de passe"
+              },
+              "secretMask": "******",
+              "emptyText": "Aucun historique d'achat",
+              "exchangeEmptyText": "Aucun historique d'échange",
+              "emptyValue": "-",
+              "paymentMethods": {
+                "paypal": "PayPal",
+                "stripe": "Stripe",
+                "card": "Carte bancaire",
+                "creditcard": "Carte de crédit",
+                "alipay": "Alipay",
+                "wechat": "WeChat Pay",
+                "wechatpay": "WeChat Pay",
+                "usdt": "USDT",
+                "crypto": "Cryptomonnaie",
+                "balance": "Solde",
+                "free": "Gratuit"
+              }
+            },
+            "team": {
+              "ariaLabel": "Mon équipe",
+              "title": "Mon équipe",
+              "referrerLabel": "Mon parrain",
+              "levelOne": "Membres de niveau 1",
+              "levelTwo": "Membres de niveau 2",
+              "tableHeaders": {
+                "name": "Nom du membre",
+                "status": "Statut de l'abonnement",
+                "joinedAt": "Inscription"
+              },
+              "memberStatus": {
+                "free": "Utilisateur gratuit",
+                "vip": "Utilisateur VIP"
+              },
+              "emptyMemberName": "Utilisateur sans nom",
+              "emptyReferrer": "Aucun parrain",
+              "emptyTeam": "Aucun membre dans l'équipe pour le moment",
+              "errors": {
+                "loadFail": "Échec du chargement des membres de l'équipe. Veuillez réessayer plus tard."
+              }
+            },
+            "earnings": {
+              "ariaLabel": "Gains",
+              "title": "Aperçu des gains",
+              "commissionTitle": "Détails des commissions",
+              "moneyPrefix": "$",
+              "moneySuffix": "",
+              "summaryCards": [
+                {
+                  "key": "total",
+                  "title": "Gains totaux",
+                  "desc": "Total des commissions gagnées à ce jour"
+                },
+                {
+                  "key": "month",
+                  "title": "Ce mois-ci",
+                  "desc": "Commissions gagnées ce mois-ci"
+                },
+                {
+                  "key": "settling",
+                  "title": "En attente de règlement",
+                  "value": "0.00",
+                  "desc": "Montant en attente de règlement"
+                },
+                {
+                  "key": "withdrawable",
+                  "title": "Retirable",
+                  "desc": "Montant actuellement disponible pour retrait",
+                  "action": "Retirer"
+                }
+              ],
+              "commissionHeaders": {
+                "username": "Nom d'utilisateur",
+                "saleTime": "Date de vente",
+                "goodsInfo": "Produit",
+                "commission": "Commission"
+              },
+              "emptyCommission": "Aucun enregistrement de commission",
+              "errors": {
+                "loadFail": "Échec du chargement des détails des commissions. Veuillez réessayer plus tard."
+              },
+              "withdraw": {
+                "ariaLabel": "Demande de retrait",
+                "title": "Demande de retrait",
+                "closeLabel": "Fermer la boîte de dialogue de retrait",
+                "balanceLabel": "Solde retirable",
+                "balanceValue": "0,00 $",
+                "amountLabel": "Montant du retrait",
+                "amountPlaceholder": "Saisissez le montant du retrait",
+                "allButton": "Tout",
+                "allAmountValue": "0,00",
+                "amountTip": "Veuillez confirmer que le montant est correct. Votre demande sera examinée manuellement après soumission.",
+                "methodLabel": "Méthode de retrait",
+                "methods": [
+                  "Carte bancaire",
+                  "PayPal",
+                  "USDT"
+                ],
+                "defaultMethod": "Carte bancaire",
+                "nameLabel": "Nom du bénéficiaire",
+                "namePlaceholder": "Saisissez le nom du bénéficiaire",
+                "defaultName": "",
+                "bankCardLabel": "Numéro de compte",
+                "bankCardPlaceholder": "Saisissez le numéro de carte bancaire, l'e-mail PayPal ou l'adresse du portefeuille",
+                "remarkLabel": "Remarque",
+                "remarkPlaceholder": "Informations supplémentaires facultatives",
+                "note": "Les demandes de retrait sont traitées sous 1 à 3 jours ouvrés.",
+                "cancelButton": "Annuler",
+                "submitButton": "Soumettre la demande"
+              }
+            },
+            "cardErrors": {
+              "operationSuccess": "Échange réussi",
+              "operationFailed": "Échec de l'échange",
+              "invalidCard": "Code d'échange invalide",
+              "cardNotFound": "Code d'échange introuvable",
+              "cardDisabled": "Code d'échange désactivé",
+              "cardExpired": "Code d'échange expiré"
+            },
+            "successMessage": "Opération réussie"
+          }
+        }
+      }
+    ]
+  }
+}

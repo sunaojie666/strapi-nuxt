@@ -1,0 +1,162 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "Eğitim Merkezi",
+          "titleMain": "VicastCam Öğrenme",
+          "titleHighlight": "Yolculuğunuza Başlayın",
+          "descriptionMain": "Yazılıma hâkim olun",
+          "descriptionHighlight": "Hızla öğrenin"
+        },
+        "player": {
+          "sectionAriaLabel": "Eğitim listesi",
+          "catalogAriaLabel": "Eğitim kataloğu",
+          "previousLabel": "Önceki",
+          "nextLabel": "Sonraki",
+          "firstLessonText": "Bu ilk ders",
+          "lastLessonText": "Bu son ders",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "Başlangıç Eğitimleri",
+            "count": "9 ders",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "İlk Sanal Canlı Yayın Odanızı Oluşturun",
+                "description": "Sıfırdan ilk sanal canlı yayın odanızı oluşturun ve yapılandırın.",
+                "time": "01:59",
+                "video": "https://vicastcam.oss-ap-southeast-1.aliyuncs.com/upload/sys/media/6c/12c2720aec1bab9971a696ce1e328b.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "Görüntü Özelliğini Anlama",
+                "description": "Görüntü özelliğinin temellerini ve kullanım alanlarını öğrenin.",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/Hz7st5KHYNZrGDyBBSZ5adB3.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "Katmanlar Nasıl Kullanılır?",
+                "description": "Katmanlar panelinin temellerini öğrenin.",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/bktkRdBW2X8e6TBTtQNW2dWD.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "Arka Plan Katmanları Nasıl Kullanılır?",
+                "description": "Arka plan katmanlarını eklemeyi ve ayarlamayı öğrenin.",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/RhGHphrjmFt65eWN5tn46Hhj.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "Portre Katmanları Nasıl Kullanılır?",
+                "description": "Görsel efektler oluşturmak için portre katmanlarını kullanmayı öğrenin.",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/e4SA4H8F2cpZRjFptKrfcPF.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "Görüntü Katmanları Nasıl Kullanılır?",
+                "description": "Görüntü katmanlarını eklemeyi ve düzenlemeyi öğrenin.",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/KkRPBzDPEtHTjKkanYJ8j78h.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "Video Katmanları Nasıl Kullanılır?",
+                "description": "Video medyası eklemeyi ve oynatmayı yapılandırmayı öğrenin.",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/6Y8TaFbDDZeNfsFC2yea2ern.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "Efekt Katmanları Nasıl Kullanılır?",
+                "description": "Canlı yayınınıza efekt katmanları ekleyin.",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/zNxZeBy6X7GCDSmzzhxdBMjz.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "Altyazı Katmanları Nasıl Kullanılır?",
+                "description": "Altyazı oluşturun ve altyazı katmanı stillerini ayarlayın.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/St3kGMbcCSQEXTBNTDeyasw5.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "İleri Düzey Eğitimler",
+            "count": "6 ders",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "Kamera Hareket Katmanları Nasıl Kullanılır?",
+                "description": "Daha dinamik çekimler için kamera hareket katmanlarını kullanın.",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/GZNaSGQMZ2a5iTrMxTdSQEAE.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "Yol Özelliği Nasıl Kullanılır?",
+                "description": "Yol özelliği ile öğelerin hareket yolunu kontrol edin.",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/XpepiriewhzWZpz4ndZcz4Yd.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "Çoklu Kamera Katmanları Nasıl Kullanılır?",
+                "description": "Farklı görünümler arasında hızlı geçiş için çoklu kamera katmanlarını yapılandırın.",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/x4tPtZKWyCZt5RGfs4G7aZTF.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "Kontrol Cihazı Özelliği Nasıl Kullanılır?",
+                "description": "Canlı yayın görünümünüzü yönetmek için kontrol cihazını kullanın.",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/Mt6KrWA3pjziApYMPXmhJD5i.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "Ses Özelliği Nasıl Kullanılır?",
+                "description": "Ses girişini, çıkışını ve miksaj efektlerini yapılandırın.",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/ia5ExjpbywiFtGrinypHxswc.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "Yedekleme Özelliği Nasıl Kullanılır?",
+                "description": "Canlı yayın odası yapılandırmalarını ve medyayı yedekleyin ve geri yükleyin.",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/Me8XTz2k5srzWpnDQFCYryfa.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

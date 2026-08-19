@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "VicastCamについて",
+          "titleMain": "モバイルグリーンバックと画面キャスト技術を支えるチーム",
+          "titleHighlight": "",
+          "description": "私たちはモバイル映像、仮想カメラ、画面キャストの連携、マルチプラットフォーム配信の接続性に注力し、クリエイター、教育者、企業がスマートフォンを安定したクリアで統合しやすいプロフェッショナルなライブ配信ツールに変えるお手伝いをしています。",
+          "primaryButtonText": "営業に問い合わせ",
+          "secondaryButtonText": "SDKを見る"
+        },
+        "innovation": {
+          "sectionTag": "コア強み",
+          "titleMain": "革新に注力",
+          "titleHighlight": "ライブ配信の未来を牽引",
+          "description": "モバイルツールからプラットフォーム機能まで、VicastCamはより多くのデバイス、プラットフォーム、ライブ配信シナリオへと拡大しています。",
+          "featureTag": "コア機能",
+          "featureTitle": "グローバルなライブ配信、業界から信頼される",
+          "featureDescription": "モバイルライブ配信、仮想映像、画面キャストの連携、クロスプラットフォーム接続性を中心に製品体験を継続的に磨き上げ、ライブ配信ツールを単一機能から安定した統合可能なワークフローへと進化させています。",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "対応国と地域",
+              "text": "世界中のクリエイターとチームにサービスを提供"
+            },
+            {
+              "value": "2000+",
+              "label": "対応プラットフォーム",
+              "text": "主要なライブ配信、会議、コンテンツシナリオをカバー"
+            },
+            {
+              "value": "500000+",
+              "label": "累計利用数",
+              "text": "安定性と使いやすさを継続的に検証"
+            },
+            {
+              "value": "99.9%",
+              "label": "稼働率",
+              "text": "信頼性の高いライブ配信ワークフローを保証"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "ロードマップ",
+          "titleMain": "継続的に進化",
+          "titleHighlight": "グローバルなライブ配信エコシステムを中心に",
+          "description": "ライブ配信ツールからプラットフォーム機能まで、VicastCamはより多くのデバイス、プラットフォーム、ライブ配信シナリオへと拡大しています。",
+          "items": [
+            {
+              "year": "2023",
+              "title": "モバイルへの注力を深め、コアなグリーンバック効果を磨く",
+              "text": "モバイル仮想ライブ配信の基盤機能に注力し、グリーンバックのマット処理アルゴリズムを継続的に反復・最適化して、エッジの歪み、照明適応の悪さ、複数オーバーレイでのラグなどの問題を解決しました。ステッカー、背景置換、前景オクルージョンを含む一連の仮想エフェクトを完成させ、軽量なモバイル仮想ライブ配信基盤を確立しました。スマートフォンだけで、クリエイターはプロフェッショナルなグリーンバックライブ配信を実現できます。"
+            },
+            {
+              "year": "2024",
+              "title": "画面キャストを接続し、コアな仮想カメラ技術を開発",
+              "text": "デバイス間の相互接続を拡張し、高精細なスマートフォン画面キャストとクロスデバイス同期伝送に注力しました。ソフトウェアキャプチャと出力のための汎用仮想カメラドライバーを独自開発し、ライブ配信ソフトウェア、編集ツール、オンラインミーティングとの互換性を実現しました。モバイルとデスクトップのギャップを埋め、スマートフォンのコンテンツをPCにワンタップでキャストし、複数の仮想カメラ出力を可能にし、ライブ配信制作を豊かにしました。"
+            },
+            {
+              "year": "2025",
+              "title": "PC向けプロフェッショナル3Dライブ配信アシスタントを発表",
+              "text": "完全な3D仮想ライブ配信アシスタントを備えたプロフェッショナルなデスクトップライブ配信製品ラインを提供しました。3D仮想シーン、デジタルヒューマン駆動、マルチカメラ切り替え、リアルタイム照明とレンダリングを備え、商業ライブ配信、ショールームでの仮想プレゼンテーション、大画面ECライブ配信にサービスを提供します。マルチレイヤー合成、リアルタイムキャプション、インタラクティブコンポーネントを強化し、大規模で高品質なプロフェッショナルライブ配信を提供するチームのニーズに応えます。"
+            },
+            {
+              "year": "2026",
+              "title": "グローバルに拡大し、完全なライブ配信エコシステムを構築",
+              "text": "海外ライブ配信に包括的に拡大し、主要な海外プラットフォームへの配信、国際ネットワークでの低遅延伝送、多言語ローカライゼーションに対応しました。過去数年の3つのコア製品（モバイルグリーンバック、画面キャスト仮想カメラ、PC 3Dライブ配信）を統合し、個人クリエイター、企業商業利用、開発者SDK統合の3つのビジネスラインを接続しました。ハードウェア、ソフトウェア、マルチターミナル、国内外のサービスを統一し、制作からクロスデバイス相互運用、グローバル配信までの完全なライブ配信エコシステムを完成させました。"
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "フォローする",
+          "titleMain": "お問い合わせ",
+          "titleHighlight": "ライブ配信の未来を共に創る",
+          "description": "製品アップデート、ライブ配信のヒント、その他のニュースをフォロー",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "YouTubeアカウント",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "YouTubeアカウント",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "YouTubeアカウント",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "YouTubeアカウント",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "YouTubeアカウント",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "会社概要",
+          "description": "VicastCamチーム、製品ミッション、仮想カメラ、AIライブ配信強化、クロスプラットフォーム配信の機能について学ぶ。"
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "ダウンロードセンター",
+            "title": "VicastCamをダウンロード"
+          },
+          "platform": {
+            "title": "プラットフォームを選択",
+            "description": "VicastCamはWindows、iOS、Androidに対応しています。プロフェッショナルなライブ配信を始めましょう。",
+            "versionLabel": "バージョン",
+            "updatedAtLabel": "更新日",
+            "sizeLabel": "パッケージサイズ",
+            "downloadAriaSuffix": "ダウンロード",
+            "closeQrAriaPrefix": "閉じる",
+            "closeQrAriaSuffix": "ダウンロードQRコード",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Android 8.0以上に対応",
+                "actionLabel": "今すぐダウンロード",
+                "qrTitle": "Android版をスキャンしてダウンロード",
+                "qrDescription": "スマートフォンでスキャンしてダウンロード"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "iOS 13.0以上に対応",
+                "actionLabel": "App Store",
+                "qrTitle": "スキャンしてApp Storeへ",
+                "qrDescription": "スマートフォンでスキャンしてiOS版をダウンロード"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64-bit",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115MB",
+                "system": "Windows 10以上に対応",
+                "actionLabel": "今すぐダウンロード",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "VicastCamを選ぶ理由",
+            "items": [
+              {
+                "key": "secure",
+                "title": "安全で信頼性が高い",
+                "text": "複数のセキュリティメカニズムがデータとアカウントを保護します。"
+              },
+              {
+                "key": "updates",
+                "title": "継続的なアップデート",
+                "text": "より安定した体験を提供するために製品を常に改善しています。"
+              },
+              {
+                "key": "support",
+                "title": "プロフェッショナルサポート",
+                "text": "24時間365日のテクニカルサポートで、問題に迅速に対応します。"
+              },
+              {
+                "key": "tutorial",
+                "title": "ビデオチュートリアル",
+                "text": "詳細なビデオチュートリアルと機能ガイドで、すぐに使い始められます。"
+              }
+            ]
+          },
+          "seo": {
+            "title": "ダウンロードセンター",
+            "description": "Windows、iOS、Android向けのVicastCamクライアントをダウンロード。"
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "ja",
+        "features_section": {
+          "title_tag": "機能",
+          "title_main": "オールインワンのライブ配信ソリューション",
+          "title_highlight": "プロフェッショナルなモバイル配信者向け",
+          "description": "コアなライブ配信機能を統合し、どこでも魅力的なシーンを作成し、プロフェッショナルな映像体験を提供します。"
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "画面キャスト＆仮想カメラ",
+            "desc": "スマートフォンをPCにキャストし、仮想カメラ技術でプロフェッショナルなライブ配信を実現。"
+          },
+          {
+            "id": "multi_cam",
+            "title": "マルチカメラ対応",
+            "desc": "ライブ配信中にワンタップで複数のカメラアングルを切り替え、より豊かな視点を提供。"
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "2D/3Dエフェクト",
+            "desc": "見事な2D/3Dエフェクトレイヤーを追加して、ダイナミックで魅力的なライブルームを作成。"
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "マルチプラットフォーム配信",
+            "desc": "YouTube、Twitch、TikTok、Facebook Liveなどに配信。"
+          },
+          {
+            "id": "virtual_controller",
+            "title": "バーチャルコントローラー",
+            "desc": "任意のデバイスからライブ配信をリモートコントロール：シーン切り替え、音声ミュート、エフェクト調整をリアルタイムに。"
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "同時マルチプラットフォーム配信",
+            "desc": "PCからTikTok、YouTube、Twitch、Instagramに同時にライブ配信。"
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "モバイルグリーンバックエフェクト＆画面キャスト",
+      "top_badge": "AI搭載ライブ配信ツール",
+      "hero_subtitle": "グローバルなライブ配信エコシステムを支える",
+      "hero_description_1": "VicastCamは高度なAIマット処理を使用して、ライブ配信中に仮想背景をシームレスに切り替え、",
+      "hero_description_2": "プロフェッショナルなイメージを高める没入感のある体験を提供します。",
+      "user_count_label": "世界のユーザー数",
+      "rating_label": "App Store評価",
+      "download_count_label": "世界のダウンロード数",
+      "app_store_url": "App Storeでダウンロード",
+      "google_play_url": "Androidでダウンロード",
+      "desktop_client_url": "デスクトップクライアントをダウンロード",
+      "request_success": "リクエスト成功",
+      "request_fail": "リクエスト失敗",
+      "request_loading": "読み込み中"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "料金",
+          "titleMain": "プランを選択",
+          "titleHighlight": "あなたに合ったプラン",
+          "description": "無料で試すか、他のプランを選択",
+          "priceAltSuffix": "価格",
+          "freePlanMessage": "無料ユーザーは購入の必要はありません",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "無料",
+              "description": "無料でダウンロード・登録でき、基本機能を無料で利用できます。",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/月",
+              "priceNote": "",
+              "cta": "始める",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "単一シーンで作成",
+                "最大4つのレイヤーを自由に配置",
+                "多彩なライブ背景素材を利用",
+                "PC画面キャストの基本品質",
+                "内蔵の自然な美顔エフェクト"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "月額",
+              "description": "1ヶ月間のフルアクセスを有効化。低コストで試せるプランです。",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/月",
+              "priceNote": "30日間アクセス",
+              "cta": "購入",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "モバイルの全機能",
+                "PC画面キャストライブ配信",
+                "HDライブ配信品質",
+                "高度な美顔エフェクト",
+                "限定ライブ配信エフェクト"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "年額",
+              "description": "年間割引でお得なプラン。",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/年",
+              "priceNote": "365日間アクセス",
+              "cta": "購入",
+              "badgeText": "最も人気",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "モバイルの全機能",
+                "PC画面キャストライブ配信",
+                "HDライブ配信品質",
+                "高度な美顔エフェクト",
+                "限定ライブ配信エフェクト"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "永久",
+              "description": "一度の支払いで永久アクセス。長期的なクリエイターに最適です。",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "永久アクセス",
+              "cta": "購入",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "モバイルの全機能",
+                "PC画面キャストライブ配信",
+                "HDライブ配信品質",
+                "高度な美顔エフェクト",
+                "限定ライブ配信エフェクト"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月額",
+                "subtitle": "1ヶ月間のフルアクセスを有効化。低コストで試せるプランです。",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "購入",
+                "benefits": [
+                  "モバイルの全機能",
+                  "PC画面キャストライブ配信",
+                  "HDライブ配信品質",
+                  "高度な美顔エフェクト",
+                  "限定ライブ配信エフェクト"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年額",
+                "subtitle": "年間割引でお得なプラン。",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/年",
+                "cta": "購入",
+                "benefits": [
+                  "モバイルの全機能",
+                  "PC画面キャストライブ配信",
+                  "HDライブ配信品質",
+                  "高度な美顔エフェクト",
+                  "限定ライブ配信エフェクト"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "永久",
+                "subtitle": "一度の支払いで永久アクセス。長期的なクリエイターに最適です。",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "購入",
+                "benefits": [
+                  "モバイルの全機能",
+                  "PC画面キャストライブ配信",
+                  "HDライブ配信品質",
+                  "高度な美顔エフェクト",
+                  "限定ライブ配信エフェクト"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "マーカス・ジョンソン",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "ドバイ、アラブ首長国連邦"
+    },
+    {
+      "name": "マーカス・ジョンソン",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "ドバイ、アラブ首長国連邦"
+    },
+    {
+      "name": "マーカス・ジョンソン",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "ドバイ、アラブ首長国連邦"
+    },
+    {
+      "name": "マーカス・ジョンソン",
+      "username": "echo",
+      "followers": "100k",
+      "location": "ドバイ、アラブ首長国連邦"
+    },
+    {
+      "name": "マーカス・ジョンソン",
+      "username": "echo",
+      "followers": "100k",
+      "location": "ドバイ、アラブ首長国連邦"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "ja",
+        "slug": "team",
+        "pageName": "ビジネスパートナーシップ",
+        "hero": {
+          "eyebrow": "ビジネスパートナーシップ",
+          "title": "VicastCamグローバル代理店パートナープログラム",
+          "highlight": "参加する",
+          "description": "プロフェッショナルな仮想カメラライブ配信ツール。グローバルなチャネルパートナーを募集しています。USDでの統一決済、地域独占権、フルファネルのマーケティングサポートを提供します。",
+          "actions": {
+            "primary": "今すぐ申し込む",
+            "secondary": "詳細を見る"
+          }
+        },
+        "advantages": {
+          "eyebrow": "パートナーになる理由",
+          "titlePrefix": "なぜ",
+          "titleHighlight": "私たちと提携するのか",
+          "description": "販売しやすく、リスクが低く、高いマージン——VicastCamはそのすべてを実現します。",
+          "items": [
+            {
+              "title": "巨大なクリエイターマーケット",
+              "description": "ライブ配信、EC、ショート動画、コンテンツ制作をカバーし、グローバルなクリエイター需要は着実に成長しており、大きな市場と安定したコンバージョンを提供します。",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "在庫ゼロ、オンライン納品",
+              "description": "純粋なソフトウェアライセンスで、アクティベーションコードをクラウドで即時納品。在庫も物流も不要で低コスト、一括納品と迅速なアクティベーションに対応。",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "フル機能の競争力",
+              "description": "グリーンバックマット処理、仮想背景、マルチプラットフォーム配信、AIエフェクトをすべて一体化。デモ、販売、更新が容易な完全な機能を備えています。",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "パートナーシップ規約",
+          "titlePrefix": "資格",
+          "titleHighlight": "と決済",
+          "description": "透明で公平、予測可能な代理店ポリシーで、すべてのパートナーに安心を提供します。",
+          "agentLevelTitle": "代理店レベル",
+          "agentLevels": [
+            {
+              "title": "スタンダード代理店",
+              "description": "初回注文$30,000 USDで長期販売権、段階的割引、標準チャネルサポートを提供。",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "地域独占代理店",
+              "description": "四半期ごとの購入目標を達成すると、単一地域の独占販売権を獲得。その地域では他のチャネルは認められません。",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "供給と決済",
+          "settlementRules": [
+            "USDでの統一決済、HSBC香港法人口座での支払いに対応",
+            "バッチアクティベーションコードをクラウドで即時納品し、顧客への迅速な提供を実現",
+            "長期パートナーは段階的価格設定を享受。購入量が多いほど単価が下がります"
+          ]
+        },
+        "support": {
+          "eyebrow": "チャネルサポート",
+          "titlePrefix": "4つの柱",
+          "titleHighlight": "サポート",
+          "description": "マテリアルからテクニカルサポート、ブランド認可、新機能の早期アクセスまで、フルファネルのサポートを提供します。",
+          "items": [
+            {
+              "title": "完全なマーケティングマテリアル",
+              "description": "ウェブサイトバナー、ショート動画、Reddit/Facebook広告コピー、製品レビュー資料に即時アクセス。",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "専任の英語テクニカルサポート",
+              "description": "海外の技術スペシャリストがSDKデバッグ、ライブ配信機能のアフターサービス、顧客問題の解決を担当。",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "公式ブランド認可",
+              "description": "VicastCamの商標と製品画像を地域のオンライン・オフラインプロモーションに使用できます。",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "優先ベータアクセス",
+              "description": "代理店はすべてのAIエフェクト、配信アップデート、新機能をテストして販売する早期アクセスを得られます。",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "パートナーシップモデル",
+          "titlePrefix": "柔軟な",
+          "titleHighlight": "パートナーシップモデル",
+          "description": "チャネル、テクノロジーベンダー、エンタープライズサービスプロバイダーなど、あらゆる形態に適したモデルがあります。",
+          "items": [
+            {
+              "title": "チャネル代理店（推奨）",
+              "description": "クロスボーダーソフトウェアストア、ライブ配信機器ショップ、海外MCN、クロスボーダーECチーム向けに、ソフトウェアライセンスを大規模に販売。",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEMホワイトラベルSDK",
+              "description": "VicastCamのブランドをすべて削除し、ロゴ、ソフトウェア名、UIをカスタマイズして、自社ブランドで販売。",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "エンタープライズカスタマイズ",
+              "description": "ライブ配信サービスプロバイダー、教育機関、政府・企業会議プロジェクト向けに、カスタム機能とプライベートデプロイメントオプションを提供。",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "申し込み",
+          "titlePrefix": "フォームに記入して",
+          "titleHighlight": "オンラインで申し込む",
+          "description": "以下の情報を記入してください。1〜3営業日以内にご連絡いたします。",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "担当者名",
+              "placeholder": "お名前を入力"
+            },
+            {
+              "name": "companyName",
+              "label": "会社名",
+              "placeholder": "会社名を入力"
+            },
+            {
+              "name": "email",
+              "label": "メールアドレス",
+              "placeholder": "メールアドレスを入力"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/電話番号",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "ビジネスタイプ",
+              "placeholder": "ビジネスタイプを選択",
+              "options": [
+                "チャネル代理店",
+                "OEMホワイトラベルSDK",
+                "エンタープライズカスタマイズ",
+                "その他"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "主要地域",
+              "placeholder": "例：北米/ヨーロッパ/東南アジア"
+            },
+            {
+              "name": "position",
+              "label": "役職",
+              "placeholder": "役職を入力"
+            },
+            {
+              "name": "budget",
+              "label": "四半期購入予算（見込み）",
+              "placeholder": "予算を入力"
+            },
+            {
+              "name": "country",
+              "label": "国/地域",
+              "placeholder": "国/地域を選択",
+              "options": [
+                "中国",
+                "アメリカ",
+                "インドネシア",
+                "マレーシア",
+                "タイ",
+                "ベトナム",
+                "フィリピン",
+                "スペイン",
+                "ポルトガル",
+                "サウジアラビア",
+                "日本",
+                "トルコ",
+                "イタリア",
+                "ドイツ",
+                "フランス",
+                "韓国",
+                "ロシア",
+                "ポーランド",
+                "オランダ",
+                "インド",
+                "パキスタン",
+                "バングラデシュ",
+                "イラン",
+                "その他"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "会社ウェブサイト",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "パートナーシップの意向",
+          "intentPlaceholder": "ビジネスモデル、ターゲット市場、希望するパートナーシップのアプローチを簡単に説明してください...",
+          "note": "*必須項目です。お客様の情報は機密保持され、パートナーシップの連絡にのみ使用されます。",
+          "submitLabel": "パートナーシップ情報を送信"
+        },
+        "contact": {
+          "title": "ビジネスに関するお問い合わせ",
+          "items": [
+            {
+              "label": "ビジネスメール",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "香港ホットライン",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "営業時間",
+              "value": "GMT+8、月曜〜金曜、9:00〜18:00"
+            }
+          ],
+          "note": "緊急のビジネスニーズがある場合は、WhatsAppまたはメールで直接お問い合わせください。",
+          "qr": {
+            "label": "スキャンしてWhatsAppでお問い合わせ",
+            "alt": "VicastCamビジネス連絡用QRコード"
+          }
+        },
+        "seo": {
+          "title": "VicastCamビジネスパートナーシップ",
+          "description": "チャネル代理店、OEMホワイトラベルSDK、エンタープライズカスタマイズのサポートを提供するVicastCamグローバルパートナープログラムに参加。",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "VicastCamグローバルパートナープログラム"
+        }
+      }
+    }
+  ]
+}

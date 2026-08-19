@@ -1,0 +1,183 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use the approved glossary term 'AI matting' as 'AI matting' (Latin) or 'AI-матинг'? The glossary specifies 'AI matting' => 'AI matting', so keep as 'AI matting' (English) or use 'AI-вырезка'? Since glossary says 'AI matting' => 'AI matting', it should remain 'AI matting' in Latin. Correct to 'AI matting'."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'позволяя вам плавно менять' is a bit awkward; consider 'позволяет вам плавно менять' for better flow."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "The phrase 'Расширяя возможности стриминга по всему миру' is a literal translation; consider a more natural Russian phrase like 'Стриминг для всего мира' or 'Откройте мир стриминга'."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "ru",
+          "loginTitle1": "Меняйте виртуальный фон в один клик",
+          "loginTitle2": "Сделайте свои прямые эфиры яркими",
+          "loginDes1": "Профессиональный инструмент для стриминга на базе AI",
+          "loginDes2": "Виртуальные фоны, улучшение эфиров и мультиплатформенный стриминг — просто",
+          "featureTitle1": "AI matting",
+          "featureSubTitle1": "Замена фона в реальном времени",
+          "featureTitle2": "Мультиплатформенный стриминг",
+          "featureSubTitle2": "Начните эфир в один клик",
+          "featureTitle3": "Виртуальная камера",
+          "featureSubTitle3": "Превратите телефон в веб-камеру",
+          "loginBox": {
+            "loginPageTitle": "Вход / Регистрация",
+            "codeLoginTab": "Вход по коду",
+            "pwdLoginTab": "Вход по паролю",
+            "qrLoginTab": "Вход по QR-коду",
+            "emailInputPlaceholder": "Введите email для входа",
+            "pwdInputPlaceholder": "Введите пароль",
+            "verifyCodePlaceholder": "Введите проверочный код",
+            "getVerifyCodeText": "Получить код",
+            "loginBtnText": "Войти",
+            "qrLoginTip": "Отсканируйте QR-код в приложении VicastCam",
+            "qrWaitingTip": "Ожидание подтверждения сканирования",
+            "agreeProtocolText": "Я прочитал(а) и принимаю Политику конфиденциальности и Пользовательское соглашение",
+            "userProtocolText": "Пользовательское соглашение",
+            "privacyPolicyText": "Политика конфиденциальности",
+            "agreeProtocolPrefix": "Я прочитал(а) и принимаю"
+          },
+          "toastBox": {
+            "closeToastLabel": "Закрыть",
+            "requestLoading": "Загрузка",
+            "requestSuccess": "Успешно",
+            "requestFail": "Запрос не выполнен",
+            "passwordLoginNotReady": "Вход по паролю пока недоступен",
+            "passwordRequired": "Введите пароль",
+            "emailRequired": "Введите email для входа",
+            "verifyCodeRequired": "Введите проверочный код",
+            "agreeProtocolRequired": "Сначала прочитайте и примите Политику конфиденциальности и Пользовательское соглашение",
+            "qrcodeExpired": "QR-код истёк. Попробуйте ещё раз."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "ru",
+          "hero_section": {
+            "tag": "Инструмент для стриминга на базе AI",
+            "title_main": "Эффекты хромакея и трансляция экрана с телефона",
+            "title_highlight": "Стриминг для всего мира",
+            "description": "VicastCam использует передовое AI matting, позволяя вам плавно менять виртуальные фоны во время прямых эфиров, добавляя захватывающие эффекты для создания профессионального образа.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Скачать"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Скачать"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam предоставляет создателям виртуальные фоны, улучшение эфиров и кроссплатформенные инструменты."
+            },
+            "columns": [
+              {
+                "title": "Продукт",
+                "links": [
+                  {
+                    "text": "Возможности"
+                  },
+                  {
+                    "text": "Цены"
+                  },
+                  {
+                    "text": "Центр загрузок"
+                  }
+                ]
+              },
+              {
+                "title": "Разработчикам",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Документация API"
+                  }
+                ]
+              },
+              {
+                "title": "Компания",
+                "links": [
+                  {
+                    "text": "О нас"
+                  },
+                  {
+                    "text": "Политика конфиденциальности"
+                  },
+                  {
+                    "text": "Пользовательское соглашение"
+                  },
+                  {
+                    "text": "Соглашение о членстве"
+                  }
+                ]
+              },
+              {
+                "title": "Поддержка",
+                "links": [
+                  {
+                    "text": "Видеоуроки"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Связаться с нами"
+                  }
+                ]
+              },
+              {
+                "title": "Бизнес",
+                "links": [
+                  {
+                    "text": "Стать реселлером"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "Бизнес-запросы"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Возможности",
+        "nav_pricing": "Цены",
+        "nav_faq": "FAQ",
+        "nav_auth": "Вход / Регистрация",
+        "nav_team": "Бизнес"
+      }
+    ]
+  }
+}

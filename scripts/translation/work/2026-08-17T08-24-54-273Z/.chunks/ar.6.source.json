@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "What are the recommended dimensions for live streaming assets?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Recommended dimensions for live streaming assets:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "For live background images, we recommend 1080 x 1920 pixels; for videos, we also recommend 1080 x 1920 pixels.",
+            "Important: Full-screen overlays must use a 9:16 aspect ratio to ensure they align perfectly when switching between full-screen and 9:16 modes, providing a seamless fit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "What output modes are supported for streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Streaming supports two output modes: 9:16 streaming and full-screen streaming. Follow these steps to select the mode on your Apple device:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, go to the live streaming page, and tap the menu icon on the right side."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Menu entry on the right side of the Apple live streaming page",
+          "caption": "Step 1: Tap the menu icon on the right side of the live streaming page."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In More Settings, find 'Aspect Ratio' and select 'Full Screen' or '9:16' as needed."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Aspect ratio options in More Settings on Apple",
+          "caption": "Step 2: In 'Aspect Ratio', select 'Full Screen' or '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "About the two modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 streaming: The output aspect ratio is fixed at 9:16, so the live platform receives a 9:16 image.",
+            "Full-screen streaming: Streams the entire phone screen as-is, preserving the native content without cropping."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "What's the difference between System Streaming and Software Streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Apple devices offer two streaming capture modes, which differ significantly in background operation rules. Follow these steps to choose a streaming mode:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, go to the live streaming page, and tap the menu icon on the right side."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Menu entry on the right side of the Apple live streaming page",
+          "caption": "Step 1: Tap the menu icon on the right side of the live streaming page."
+        },
+        {
+          "type": "list",
+          "items": [
+            "In More Settings, find 'Streaming Mode' and select 'System Streaming' or 'Software Streaming' as needed."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Streaming mode options in More Settings on Apple",
+          "caption": "Step 2: In 'Streaming Mode', select 'System Streaming' or 'Software Streaming'."
+        },
+        {
+          "type": "heading",
+          "text": "About the two modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "System Streaming (ReplayKit screen recording): Uses iOS system screen recording to capture the screen, allowing continuous streaming even when the app is in the background. You can switch to other apps and still capture any screen content without interrupting the stream.",
+            "Software Streaming (direct capture in the foreground): The app captures the screen directly. Due to iOS system limitations, the app must remain in the foreground. If you switch to another app or return to the home screen, streaming will stop immediately."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "How do I delete my account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Please log in to the VicastCam app, then go to [Account - top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+        },
+        {
+          "type": "heading",
+          "text": "Account information"
+        },
+        {
+          "type": "paragraph",
+          "text": "After account deletion, we will permanently delete your linked email, device records, and other identity information, and revoke your third-party login authorization via Google and Apple accounts. After revocation, you will no longer be able to use those third-party accounts to quickly log in to this app. To use the app again, you will need to re-authorize and link your account."
+        },
+        {
+          "type": "heading",
+          "text": "Content and assets"
+        },
+        {
+          "type": "list",
+          "items": [
+            "All live streaming assets, videos, images, and project files are stored only on your device. The platform cloud does not retain any creative assets. After deletion, the asset management feature will no longer be available. Please back up your assets in advance using 'Asset Export'.",
+            "If you uninstall and reinstall the app, switch devices, or fail to export a backup in advance, your assets will be permanently lost."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Membership benefits"
+        },
+        {
+          "type": "paragraph",
+          "text": "After account deletion, your membership benefits will end immediately. Since subscription services are managed by Apple, the platform cannot process refunds directly. To request a refund, please submit a request through Apple's official channels (App Store purchase history). Before deleting your account, be sure to manually cancel auto-renewal to avoid future charges."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions, please contact customer support."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Why can't I access my phone's photos and videos when adding them?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "If your photo library appears empty when adding assets, go to your iPhone's Settings, scroll down to find VicastCam, tap [Photos - All Photos] to enable access."
+        }
+      ]
+    }
+  ]
+}

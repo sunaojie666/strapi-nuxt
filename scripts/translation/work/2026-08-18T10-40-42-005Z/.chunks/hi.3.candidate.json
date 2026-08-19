@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "कंप्यूटर सेटअप",
+      "count": "7 पाठ",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "VicastCam के साथ शुरुआत",
+          "description": "इंटरफ़ेस और मुख्य सुविधाओं का एक सिंहावलोकन।",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "वायर्ड कनेक्शन – iPhone",
+          "description": "अपने iPhone को वायर्ड कनेक्शन के माध्यम से VicastCam से कनेक्ट करें।",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "वायरलेस कनेक्शन – iPhone",
+          "description": "अपने iPhone को Wi-Fi के माध्यम से VicastCam से कनेक्ट करें।",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "वायर्ड कनेक्शन – Android",
+          "description": "अपने Android डिवाइस को वायर्ड कनेक्शन के माध्यम से VicastCam से कनेक्ट करें।",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "वायरलेस कनेक्शन – Android",
+          "description": "अपने Android डिवाइस को Wi-Fi के माध्यम से VicastCam से कनेक्ट करें।",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "लोकल मीडिया जोड़ना और उपयोग करना",
+          "description": "अपने प्रोजेक्ट्स में लोकल मीडिया फ़ाइलें आयात करें और उपयोग करें।",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "कनेक्ट करने के बाद क्या करें",
+          "description": "डिवाइस कनेक्ट होने के बाद अपना स्ट्रीम शुरू करें।",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

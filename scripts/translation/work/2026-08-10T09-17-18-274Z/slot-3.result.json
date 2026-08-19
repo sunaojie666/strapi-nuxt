@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "slot": "3",
+  "results": [
+    {
+      "locale": "ur",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "issueCount": 15,
+      "validationStatus": "machine-reviewed",
+      "acceptanceMode": "localized-draft",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T09-17-18-274Z\\ur.json",
+      "referenceStatus": "missing-user-accepted",
+      "sourceLocale": "en"
+    }
+  ]
+}

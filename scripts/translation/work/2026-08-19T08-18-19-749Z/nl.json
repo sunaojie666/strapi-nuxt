@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Accountcentrum",
+            "description": "VicastCam Accountcentrum-pagina"
+          },
+          "common": {
+            "sidebarAriaLabel": "Accountnavigatie",
+            "defaultProfileName": "Gebruiker",
+            "emptyContent": "Geen inhoud",
+            "copyButtonLabel": "Kopiëren",
+            "monthSelectLabel": "Selecteer maand",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "Gebruikersgegevens niet gevonden. Log opnieuw in.",
+            "paginationLabel": "Paginering",
+            "previousPageLabel": "Vorige pagina",
+            "nextPageLabel": "Volgende pagina",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Ga naar",
+              "unit": "pagina",
+              "ariaLabel": "Ga naar een specifieke pagina",
+              "buttonLabel": "Ga"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Accountcentrum",
+            "logout": "Uitloggen",
+            "profileAriaSuffix": "Accountmenu"
+          },
+          "sidebar": {
+            "ariaLabel": "Accountnavigatie",
+            "menus": {
+              "account": "Accountgegevens",
+              "membership": "Lidmaatschap",
+              "redeem": "Code inwisselen",
+              "purchaseHistory": "Aankoopgeschiedenis",
+              "team": "Mijn team",
+              "earnings": "Verdiensten"
+            }
+          },
+          "account": {
+            "ariaLabel": "Accountgegevens",
+            "profileTitle": "Accountgegevens",
+            "usernameLabel": "Gebruikersnaam",
+            "passwordLabel": "Wachtwoord",
+            "passwordMask": "********",
+            "defaultUsername": "Geen bijnaam ingesteld",
+            "emailLabel": "Gekoppeld e-mailadres",
+            "emailPlaceholder": "Voer je e-mailadres in",
+            "codePlaceholder": "Voer verificatiecode in",
+            "sendCodeButton": "Code ophalen",
+            "bindButton": "E-mailadres koppelen",
+            "alreadyBound": "Gekoppeld",
+            "unboundEmail": "Niet gekoppeld",
+            "emailBindTip": "Eenmaal gekoppeld, kan het e-mailadres niet meer worden gewijzigd. Controleer of het e-mailadres correct is.",
+            "emailRequired": "Voer een geldig e-mailadres in",
+            "codeRequired": "Voer de verificatiecode in",
+            "codeSent": "Verificatiecode verzonden. Controleer je e-mail.",
+            "bindSuccess": "E-mailadres succesvol gekoppeld",
+            "bindFailed": "E-mailadres koppelen mislukt. Controleer de code en probeer het opnieuw.",
+            "requestFailed": "Aanvraag mislukt. Probeer het later opnieuw.",
+            "inviteTitle": "Uitnodigingslink",
+            "inviteDescription": "Kopieer je persoonlijke uitnodigingslink. Wanneer vrienden zich registreren en een lidmaatschap aanschaffen, verdien jij beloningen.",
+            "emptyInviteLink": "Geen uitnodigingslink beschikbaar"
+          },
+          "membership": {
+            "ariaLabel": "Lidmaatschap",
+            "title": "Mijn lidmaatschap",
+            "badgeAlt": "Lidmaatschapsbadge",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Gratis gebruiker",
+            "activeVipName": "VIP-lid",
+            "expirePrefix": "Verloopt op",
+            "emptyExpireDate": "Niet geactiveerd",
+            "activeStatus": "Actief",
+            "inactiveStatus": "Inactief",
+            "compareTitle": "Abonnementen vergelijken",
+            "compareHeaders": {
+              "feature": "Functie",
+              "normal": "Gratis",
+              "month": "Maandelijks",
+              "year": "Jaarlijks",
+              "life": "Levenslang"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Maandelijks",
+                "subtitle": "Geschikt voor kort gebruik",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/maand",
+                "cta": "Aan de slag",
+                "benefits": [
+                  "Basis virtuele camerafuncties",
+                  "Virtuele achtergronden en schoonheidsfilters",
+                  "Streamen naar meerdere platforms",
+                  "Standaard updates"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Jaarlijks",
+                "subtitle": "Betere prijs voor langdurig gebruik",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/jaar",
+                "cta": "Aan de slag",
+                "benefits": [
+                  "Alles uit het maandabonnement",
+                  "Alle premiumfuncties voor een jaar",
+                  "Prioriteit bij functie-updates",
+                  "Speciale ondersteuning voor leden"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Levenslang",
+                "subtitle": "Betaal eenmalig, gebruik voor altijd",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/levenslang",
+                "cta": "Aan de slag",
+                "benefits": [
+                  "Alles uit het jaarabonnement",
+                  "Premiumfuncties voor altijd",
+                  "Updates op lange termijn",
+                  "Exclusief ondersteuningskanaal"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Lidmaatschapsduur",
+                "normal": "Gratis voor altijd",
+                "month": "30 dagen",
+                "year": "365 dagen",
+                "life": "Levenslang"
+              },
+              {
+                "feature": "Desktop virtuele camera",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Aangepaste virtuele achtergronden",
+                "normal": "1 set",
+                "month": "Onbeperkt",
+                "year": "Onbeperkt",
+                "life": "Onbeperkt"
+              },
+              {
+                "feature": "Streamingvoorinstellingen",
+                "normal": "Nee",
+                "month": "Onbeperkt",
+                "year": "Onbeperkt",
+                "life": "Onbeperkt"
+              },
+              {
+                "feature": "Officiële assets",
+                "normal": "Beperkt",
+                "month": "Onbeperkt",
+                "year": "Onbeperkt",
+                "life": "Onbeperkt"
+              },
+              {
+                "feature": "Bediening op afstand via controller",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Scènevergelijkingsmodus",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Scène-ondertitels",
+                "normal": "Beperkt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Scènemuziek",
+                "normal": "Beperkt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Meerdere camera-ingangen",
+                "normal": "Nee",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Geavanceerde schoonheidsfilters",
+                "normal": "Basis",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "AI-greenscreen-matten",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Bewegingsanimaties",
+                "normal": "Beperkt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Scènecameraeffecten",
+                "normal": "Beperkt",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "VIP-effectbibliotheek",
+                "normal": "Beperkt",
+                "month": "Onbeperkt",
+                "year": "Onbeperkt",
+                "life": "Onbeperkt"
+              },
+              {
+                "feature": "Streamen naar platforms",
+                "normal": "Ja",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "4K-uitvoer",
+                "normal": "Nee",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              },
+              {
+                "feature": "Verwijzingscommissie",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "Sub-affiliate korting",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "Ondersteuningskanaal",
+                "normal": "Community zelfhulp",
+                "month": "Standaard wachtrij",
+                "year": "Prioriteit bij reactie",
+                "life": "Speciale ondersteuning"
+              },
+              {
+                "feature": "Vroege toegang tot nieuwe functies",
+                "normal": "Nee",
+                "month": "Ja",
+                "year": "Ja",
+                "life": "Ja"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Code inwisselen",
+            "title": "Code inwisselen",
+            "tip": "Voer je lidmaatschapsinwisselcode in. Je lidmaatschap wordt direct na het inwisselen geactiveerd.",
+            "placeholder": "Voer inwisselcode in",
+            "submitButton": "Inwisselen",
+            "agreementPrefix": "Door in te wisselen ga je akkoord met de",
+            "userProtocolText": "Gebruikersovereenkomst",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Inwisselen mislukt. Controleer de code en probeer het opnieuw."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Aankoopgeschiedenis",
+            "title": "Aankoopgeschiedenis",
+            "tabTitle": "Aankopen",
+            "exchangeTabTitle": "Inwisselingen",
+            "tableHeaders": {
+              "title": "Type",
+              "date": "Betaaldatum",
+              "price": "Bedrag",
+              "paymentMethod": "Betaalmethode",
+              "status": "Status",
+              "exchangeDate": "Inwisseldatum",
+              "exchangeCode": "Inwisselcode"
+            },
+            "exchangeTableHeaders": {
+              "date": "Inwisseldatum",
+              "code": "Inwisselcode"
+            },
+            "cardTypes": {
+              "month": "Maandkaart",
+              "year": "Jaarkaart",
+              "life": "Levenslange kaart",
+              "default": "Lidmaatschapskaart"
+            },
+            "orderStatuses": {
+              "pending": "In afwachting van betaling",
+              "paid": "Betaald",
+              "closed": "Gesloten",
+              "refunded": "Terugbetaald",
+              "unknown": "Onbekend"
+            },
+            "secretLabels": {
+              "show": "Wachtwoord tonen",
+              "hide": "Wachtwoord verbergen"
+            },
+            "secretMask": "******",
+            "emptyText": "Nog geen aankoopgegevens",
+            "exchangeEmptyText": "Nog geen inwisselgegevens",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Bankkaart",
+              "creditcard": "Creditcard",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Cryptovaluta",
+              "balance": "Saldo",
+              "free": "Gratis"
+            }
+          },
+          "team": {
+            "ariaLabel": "Mijn team",
+            "title": "Mijn team",
+            "referrerLabel": "Mijn verwijzer",
+            "levelOne": "Niveau 1-leden",
+            "levelTwo": "Niveau 2-leden",
+            "tableHeaders": {
+              "name": "Lidnaam",
+              "status": "Lidmaatschapsstatus",
+              "joinedAt": "Aanmelddatum"
+            },
+            "memberStatus": {
+              "free": "Gratis gebruiker",
+              "vip": "VIP-gebruiker"
+            },
+            "emptyMemberName": "Naamloze gebruiker",
+            "emptyReferrer": "Geen verwijzer",
+            "emptyTeam": "Nog geen teamleden",
+            "errors": {
+              "loadFail": "Teamleden laden mislukt. Probeer het later opnieuw."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Verdienstencentrum",
+            "title": "Verdienstenoverzicht",
+            "commissionTitle": "Commissiedetails",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Totale verdiensten",
+                "desc": "Totaal verdiende commissie tot nu toe"
+              },
+              {
+                "key": "month",
+                "title": "Deze maand",
+                "desc": "Commissie verdiend deze maand"
+              },
+              {
+                "key": "settling",
+                "title": "In afwachting van afwikkeling",
+                "value": "0.00",
+                "desc": "Bedrag in afwachting van afwikkeling"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Opneembaar",
+                "desc": "Bedrag dat momenteel beschikbaar is voor opname",
+                "action": "Opnemen"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Gebruikersnaam",
+              "saleTime": "Verkoopdatum",
+              "goodsInfo": "Product",
+              "commission": "Commissie"
+            },
+            "emptyCommission": "Nog geen commissiegegevens",
+            "errors": {
+              "loadFail": "Commissiedetails laden mislukt. Probeer het later opnieuw."
+            },
+            "withdraw": {
+              "ariaLabel": "Opnameverzoek",
+              "title": "Opnameverzoek",
+              "closeLabel": "Opnamedialoog sluiten",
+              "balanceLabel": "Opneembaar saldo",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Opnamebedrag",
+              "amountPlaceholder": "Voer opnamebedrag in",
+              "allButton": "Alles",
+              "allAmountValue": "0.00",
+              "amountTip": "Controleer of het bedrag correct is. Uw verzoek wordt na indiening handmatig beoordeeld.",
+              "methodLabel": "Opnamemethode",
+              "methods": [
+                "Bankkaart",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Bankkaart",
+              "nameLabel": "Naam begunstigde",
+              "namePlaceholder": "Voer naam begunstigde in",
+              "defaultName": "",
+              "bankCardLabel": "Rekeningnummer",
+              "bankCardPlaceholder": "Voer bankkaartnummer, PayPal-e-mail of walletadres in",
+              "remarkLabel": "Opmerkingen",
+              "remarkPlaceholder": "Voeg eventuele extra notities toe",
+              "note": "Opnameverzoeken worden binnen 1-3 werkdagen verwerkt.",
+              "cancelButton": "Annuleren",
+              "submitButton": "Verzoek indienen"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Inwisseling succesvol",
+            "operationFailed": "Inwisseling mislukt",
+            "invalidCard": "Ongeldige inwisselcode",
+            "cardNotFound": "Inwisselcode niet gevonden",
+            "cardDisabled": "Inwisselcode uitgeschakeld",
+            "cardExpired": "Inwisselcode verlopen"
+          },
+          "successMessage": "Bewerking succesvol"
+        }
+      }
+    }
+  ]
+}

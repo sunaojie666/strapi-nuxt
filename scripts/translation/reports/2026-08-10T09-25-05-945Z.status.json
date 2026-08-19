@@ -1,0 +1,962 @@
+{
+  "runId": "2026-08-10T09-25-05-945Z",
+  "startedAt": "2026-08-10T09-25-05-945Z",
+  "completedAt": "2026-08-10T09:33:22.238Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "ui",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "checkouts",
+    "forms",
+    "profiles"
+  ],
+  "beforeStatus": {
+    "en": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "zh-TW": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "id": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ms": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "th": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fil": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "es": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pt": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ar": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ja": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "it": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "de": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fr": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ko": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ru": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "nl": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "checkouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "forms": {
+        "drafts": 1,
+        "published": 1
+      },
+      "profiles": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "not-required",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "zh-TW",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ar",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "id",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "nl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ms",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "th",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "it",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "de",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fil",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": null,
+      "reviewStatus": "review-unavailable",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "es",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ko",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pt",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ru",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "machine-reviewed",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "checkouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "forms": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "profiles": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

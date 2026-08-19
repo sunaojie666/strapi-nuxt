@@ -1,0 +1,274 @@
+{
+  "runId": "2026-08-10T08-32-19-929Z",
+  "startedAt": "2026-08-10T08-32-19-929Z",
+  "completedAt": "2026-08-10T08:34:31.812Z",
+  "pipeline": "zh-CN -> en -> all other locales",
+  "model": "deepseek-chat",
+  "contentType": "marketing",
+  "concurrency": 8,
+  "writeMode": "同步 Strapi 草稿并直接发布",
+  "selectedTables": [
+    "abouts",
+    "downloads"
+  ],
+  "beforeStatus": {
+    "en": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "pl": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "tr": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "hi": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "ur": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "vi": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "bn": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    },
+    "fa": {
+      "abouts": {
+        "drafts": 1,
+        "published": 1
+      },
+      "downloads": {
+        "drafts": 1,
+        "published": 1
+      }
+    }
+  },
+  "locales": [
+    {
+      "locale": "en",
+      "sourceLocale": "zh-CN",
+      "status": "已翻译",
+      "approved": true,
+      "score": 100,
+      "reviewStatus": "approved",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "not-required",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "pl",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "tr",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "hi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "ur",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "vi",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "bn",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 88,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "status": "已翻译",
+      "approved": true,
+      "score": 85,
+      "reviewStatus": "revise",
+      "validationStatus": "needs-human-review",
+      "referenceStatus": "missing-user-accepted",
+      "database": {
+        "abouts": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        },
+        "downloads": {
+          "created": 0,
+          "updated": 2,
+          "status": "published"
+        }
+      }
+    }
+  ]
+}

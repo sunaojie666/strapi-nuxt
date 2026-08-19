@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Pag-setup ng Computer",
+      "count": "7 aralin",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "Pagsisimula sa VicastCam",
+          "description": "Isang pangkalahatang-ideya ng interface at mga pangunahing feature.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Wired Connection – iPhone",
+          "description": "Ikonekta ang iyong iPhone sa VicastCam gamit ang wired connection.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Wireless Connection – iPhone",
+          "description": "Ikonekta ang iyong iPhone sa VicastCam gamit ang Wi-Fi.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Wired Connection – Android",
+          "description": "Ikonekta ang iyong Android device sa VicastCam gamit ang wired connection.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Wireless Connection – Android",
+          "description": "Ikonekta ang iyong Android device sa VicastCam gamit ang Wi-Fi.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Pagdagdag at Paggamit ng Local Media",
+          "description": "Mag-import at gumamit ng mga local media file sa iyong mga proyekto.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Ano ang Gagawin Pagkatapos Kumonekta",
+          "description": "I-set up ang iyong stream at maging handa kapag nakakonekta na ang iyong mga device.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

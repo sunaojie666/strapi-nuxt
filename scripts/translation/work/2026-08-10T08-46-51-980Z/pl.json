@@ -1,0 +1,242 @@
+{
+  "teams": [
+    {
+      "data": {
+        "locale": "pl",
+        "slug": "team",
+        "pageName": "Partnerstwa biznesowe",
+        "hero": {
+          "eyebrow": "Partnerstwa biznesowe",
+          "title": "Globalny program partnerski VicastCam",
+          "highlight": "Dołącz do nas",
+          "description": "Profesjonalne narzędzie do transmisji na żywo z wirtualną kamerą, otwarte dla partnerów kanałowych na całym świecie. Ujednolicone rozliczenia w USD, wyłączność regionalna i pełne wsparcie marketingowe.",
+          "actions": {
+            "primary": "Aplikuj teraz",
+            "secondary": "Dowiedz się więcej"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Dlaczego warto",
+          "titlePrefix": "Dlaczego",
+          "titleHighlight": "warto z nami współpracować",
+          "description": "Łatwa sprzedaż, niskie ryzyko i wysokie marże – VicastCam spełnia wszystkie trzy warunki.",
+          "items": [
+            {
+              "title": "Ogromny rynek twórców",
+              "description": "Obejmując transmisje na żywo, e-commerce, krótkie wideo i tworzenie treści, globalny popyt twórców stale rośnie, oferując duży rynek i stabilne konwersje.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Zero magazynu, dostawa online",
+              "description": "Czysto programowa licencja z natychmiastową dostawą kodów aktywacyjnych w chmurze. Bez zapasów, bez logistyki, niskie koszty, wsparcie dla dostaw zbiorczych i szybkiej aktywacji.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Pełna funkcjonalność jako przewaga",
+              "description": "Kadrowanie zielonym ekranem, wirtualne tła, transmisja na wiele platform i efekty AI w jednym. Kompletne funkcje, które łatwo zaprezentować, sprzedać i odnawiać.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Zasady partnerstwa",
+          "titlePrefix": "Kwalifikowalność",
+          "titleHighlight": "i rozliczenia",
+          "description": "Przejrzyste, uczciwe i przewidywalne zasady współpracy dla spokoju każdego partnera.",
+          "agentLevelTitle": "Poziomy agentów",
+          "agentLevels": [
+            {
+              "title": "Standardowy agent",
+              "description": "Zamówienie początkowe o wartości 30 000 USD zapewnia długoterminowe prawa do dystrybucji, rabaty warstwowe i standardowe wsparcie kanału.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Agent z wyłącznością regionalną",
+              "description": "Osiągaj kwartalne cele zakupowe, aby uzyskać wyłączne prawa do dystrybucji w jednym regionie, bez autoryzacji innych kanałów na tym obszarze.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Dostawa i rozliczenia",
+          "settlementRules": [
+            "Ujednolicone rozliczenia w USD, z obsługą płatności na konta firmowe HSBC w Hongkongu",
+            "Kody aktywacyjne dostarczane natychmiast w chmurze dla szybkiej dostawy do klientów",
+            "Długoterminowi partnerzy korzystają z rabatów warstwowych; większe wolumeny zakupów obniżają koszty jednostkowe"
+          ]
+        },
+        "support": {
+          "eyebrow": "Wsparcie kanału",
+          "titlePrefix": "Cztery filary",
+          "titleHighlight": "wsparcia",
+          "description": "Od materiałów i wsparcia technicznego po autoryzację marki i wczesny dostęp do nowych funkcji – zapewniamy pełne wsparcie na każdym etapie.",
+          "items": [
+            {
+              "title": "Kompletne materiały marketingowe",
+              "description": "Natychmiastowy dostęp do banerów, krótkich filmów, tekstów reklamowych na Reddit/Facebook i materiałów z recenzji produktu.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Dedykowane wsparcie techniczne w języku angielskim",
+              "description": "Zagraniczni specjaliści techniczni do debugowania SDK, obsługi posprzedażowej funkcji transmisji na żywo i rozwiązywania problemów klientów.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Oficjalna autoryzacja marki",
+              "description": "Używaj znaku towarowego VicastCam i zdjęć produktu do regionalnej promocji online i offline.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Priorytetowy dostęp do wersji beta",
+              "description": "Agenci otrzymują wczesny dostęp do testowania i sprzedaży wszystkich efektów AI, aktualizacji transmisji i nowych funkcji.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Modele współpracy",
+          "titlePrefix": "Elastyczne",
+          "titleHighlight": "modele współpracy",
+          "description": "Niezależnie od tego, czy jesteś kanałem dystrybucji, dostawcą technologii czy usług dla przedsiębiorstw, mamy model, który pasuje.",
+          "items": [
+            {
+              "title": "Agencja kanałowa (zalecane)",
+              "description": "Dla międzynarodowych sklepów z oprogramowaniem, sklepów ze sprzętem do transmisji na żywo, zagranicznych MCN i zespołów e-commerce, które chcą dystrybuować licencje na dużą skalę.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "OEM White-Label SDK",
+              "description": "Usuń wszystkie oznaczenia VicastCam, dostosuj logo, nazwę oprogramowania i interfejs, sprzedawaj pod własną marką.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Dostosowanie dla przedsiębiorstw",
+              "description": "Dla dostawców usług transmisji na żywo, instytucji edukacyjnych i projektów spotkań rządowych/przedsiębiorstw, z opcjami niestandardowych funkcji i prywatnego wdrożenia.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Aplikuj",
+          "titlePrefix": "Wypełnij formularz",
+          "titleHighlight": "i aplikuj online",
+          "description": "Wypełnij poniższe informacje, a skontaktujemy się z Tobą w ciągu 1-3 dni roboczych.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Imię i nazwisko",
+              "placeholder": "Wpisz swoje imię i nazwisko"
+            },
+            {
+              "name": "companyName",
+              "label": "Nazwa firmy",
+              "placeholder": "Wpisz nazwę swojej firmy"
+            },
+            {
+              "name": "email",
+              "label": "E-mail",
+              "placeholder": "Wpisz swój e-mail"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Telefon",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Rodzaj działalności",
+              "placeholder": "Wybierz rodzaj działalności",
+              "options": [
+                "Agencja kanałowa",
+                "OEM White-Label SDK",
+                "Dostosowanie dla przedsiębiorstw",
+                "Inne"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Region główny",
+              "placeholder": "np. Ameryka Północna/Europa/Azja Południowo-Wschodnia"
+            },
+            {
+              "name": "position",
+              "label": "Stanowisko",
+              "placeholder": "Wpisz swoje stanowisko"
+            },
+            {
+              "name": "budget",
+              "label": "Szacowany kwartalny budżet zakupowy",
+              "placeholder": "Wpisz swój budżet"
+            },
+            {
+              "name": "country",
+              "label": "Kraj",
+              "placeholder": "Wybierz kraj/region",
+              "options": [
+                "Chiny",
+                "Stany Zjednoczone",
+                "Indonezja",
+                "Malezja",
+                "Tajlandia",
+                "Wietnam",
+                "Filipiny",
+                "Hiszpania",
+                "Portugalia",
+                "Arabia Saudyjska",
+                "Japonia",
+                "Turcja",
+                "Włochy",
+                "Niemcy",
+                "Francja",
+                "Korea Południowa",
+                "Rosja",
+                "Polska",
+                "Holandia",
+                "Indie",
+                "Pakistan",
+                "Bangladesz",
+                "Iran",
+                "Inne"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Strona firmowa",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Intencja współpracy",
+          "intentPlaceholder": "Krótko opisz swój model biznesowy, rynek docelowy i pożądany sposób współpracy...",
+          "note": "*Pola wymagane. Twoje informacje są poufne i wykorzystywane wyłącznie do komunikacji partnerskiej.",
+          "submitLabel": "Wyślij informacje o partnerstwie"
+        },
+        "contact": {
+          "title": "Bezpośredni kontakt biznesowy",
+          "items": [
+            {
+              "label": "E-mail biznesowy",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Infolinia w Hongkongu",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Godziny pracy",
+              "value": "GMT+8, poniedziałek–piątek, 9:00–18:00"
+            }
+          ],
+          "note": "W pilnych sprawach biznesowych skontaktuj się z nami bezpośrednio przez WhatsApp lub e-mail.",
+          "qr": {
+            "label": "Zeskanuj, aby skontaktować się z nami na WhatsApp",
+            "alt": "Kod QR kontaktu biznesowego VicastCam"
+          }
+        },
+        "seo": {
+          "title": "Partnerstwa biznesowe VicastCam",
+          "description": "Dołącz do globalnego programu partnerskiego VicastCam, aby uzyskać wsparcie w zakresie agencji kanałowej, OEM white-label SDK i dostosowania dla przedsiębiorstw.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "Globalny program partnerski VicastCam"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "اکاؤنٹ سینٹر",
+            "description": "VicastCam اکاؤنٹ سینٹر کا صفحہ"
+          },
+          "common": {
+            "sidebarAriaLabel": "اکاؤنٹ نیویگیشن",
+            "defaultProfileName": "صارف",
+            "emptyContent": "کوئی مواد نہیں",
+            "copyButtonLabel": "کاپی کریں",
+            "monthSelectLabel": "مہینہ منتخب کریں",
+            "yearSuffix": "",
+            "monthSuffix": "",
+            "userMissing": "صارف کی معلومات نہیں ملی۔ براہ کرم دوبارہ لاگ ان کریں۔",
+            "paginationLabel": "صفحہ بندی",
+            "previousPageLabel": "پچھلا صفحہ",
+            "nextPageLabel": "اگلا صفحہ",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "جائیں",
+              "unit": "صفحہ",
+              "ariaLabel": "مخصوص صفحہ پر جائیں",
+              "buttonLabel": "جائیں"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "اکاؤنٹ سینٹر",
+            "logout": "لاگ آؤٹ",
+            "profileAriaSuffix": "اکاؤنٹ مینو"
+          },
+          "sidebar": {
+            "ariaLabel": "اکاؤنٹ نیویگیشن",
+            "menus": {
+              "account": "اکاؤنٹ کی معلومات",
+              "membership": "ممبرشپ",
+              "redeem": "ریڈیم کوڈ",
+              "purchaseHistory": "خریداری کی تاریخ",
+              "team": "میری ٹیم",
+              "earnings": "آمدنی"
+            }
+          },
+          "account": {
+            "ariaLabel": "اکاؤنٹ کی معلومات",
+            "profileTitle": "اکاؤنٹ کی معلومات",
+            "usernameLabel": "صارف نام",
+            "passwordLabel": "پاس ورڈ",
+            "passwordMask": "********",
+            "defaultUsername": "کوئی عرفی نام مقرر نہیں",
+            "emailLabel": "منسلک ای میل",
+            "emailPlaceholder": "اپنا ای میل درج کریں",
+            "codePlaceholder": "تصدیقی کوڈ درج کریں",
+            "sendCodeButton": "کوڈ حاصل کریں",
+            "bindButton": "ای میل لنک کریں",
+            "alreadyBound": "لنک شدہ",
+            "unboundEmail": "لنک نہیں",
+            "emailBindTip": "ایک بار لنک کرنے کے بعد، ای میل تبدیل نہیں کی جا سکتی۔ براہ کرم تصدیق کریں کہ ای میل درست ہے۔",
+            "emailRequired": "براہ کرم درست ای میل درج کریں",
+            "codeRequired": "براہ کرم تصدیقی کوڈ درج کریں",
+            "codeSent": "تصدیقی کوڈ بھیج دیا گیا ہے۔ اپنا ای میل چیک کریں۔",
+            "bindSuccess": "ای میل کامیابی سے لنک ہو گیا",
+            "bindFailed": "ای میل لنک کرنے میں ناکامی۔ کوڈ چیک کر کے دوبارہ کوشش کریں۔",
+            "requestFailed": "درخواست ناکام ہوئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
+            "inviteTitle": "دعوتی لنک",
+            "inviteDescription": "اپنا ذاتی دعوتی لنک کاپی کریں۔ جب دوست رجسٹر ہوں اور ممبرشپ خریدیں، تو آپ کو انعامات ملیں گے۔",
+            "emptyInviteLink": "کوئی دعوتی لنک دستیاب نہیں"
+          },
+          "membership": {
+            "ariaLabel": "رکنیت",
+            "title": "میری رکنیت",
+            "badgeAlt": "رکنیت کا بیج",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "مفت صارف",
+            "activeVipName": "VIP رکن",
+            "expirePrefix": "میعاد ختم",
+            "emptyExpireDate": "فعال نہیں",
+            "activeStatus": "فعال",
+            "inactiveStatus": "غیر فعال",
+            "compareTitle": "پلانز کا موازنہ",
+            "compareHeaders": {
+              "feature": "خصوصیت",
+              "normal": "مفت",
+              "month": "ماہانہ",
+              "year": "سالانہ",
+              "life": "لائف ٹائم"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "ماہانہ",
+                "subtitle": "مختصر مدت کے استعمال کے لیے بہترین",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/ماہ",
+                "cta": "شروع کریں",
+                "benefits": [
+                  "بنیادی ورچوئل کیمرہ خصوصیات",
+                  "ورچوئل بیک گراؤنڈز اور خوبصورتی",
+                  "ملٹی پلیٹ فارم لائیو سٹریمنگ",
+                  "معیاری اپ ڈیٹس"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "سالانہ",
+                "subtitle": "طویل مدتی استعمال کے لیے بہتر قیمت",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/سال",
+                "cta": "شروع کریں",
+                "benefits": [
+                  "ماہانہ پلان کی تمام خصوصیات",
+                  "ایک سال کے لیے تمام پریمیم خصوصیات",
+                  "ترجیحی فیچر اپ ڈیٹس",
+                  "خصوصی رکن سپورٹ"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "لائف ٹائم",
+                "subtitle": "ایک بار ادائیگی، ہمیشہ استعمال کریں",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/لائف ٹائم",
+                "cta": "شروع کریں",
+                "benefits": [
+                  "سالانہ پلان کی تمام خصوصیات",
+                  "پریمیم خصوصیات ہمیشہ کے لیے",
+                  "طویل مدتی اپ ڈیٹس",
+                  "خصوصی سپورٹ چینل"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "رکنیت کی مدت",
+                "normal": "ہمیشہ مفت",
+                "month": "30 دن",
+                "year": "365 دن",
+                "life": "لائف ٹائم"
+              },
+              {
+                "feature": "ڈیسک ٹاپ ورچوئل کیمرہ",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "کسٹم ورچوئل بیک گراؤنڈز",
+                "normal": "1 سیٹ",
+                "month": "لا محدود",
+                "year": "لا محدود",
+                "life": "لا محدود"
+              },
+              {
+                "feature": "سٹریمنگ پری سیٹس",
+                "normal": "نہیں",
+                "month": "لا محدود",
+                "year": "لا محدود",
+                "life": "لا محدود"
+              },
+              {
+                "feature": "سرکاری اثاثے",
+                "normal": "محدود",
+                "month": "لا محدود",
+                "year": "لا محدود",
+                "life": "لا محدود"
+              },
+              {
+                "feature": "کنٹرولر کے ذریعے ریموٹ کنٹرول",
+                "normal": "ہاں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "سین موازنہ موڈ",
+                "normal": "ہاں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "سین کیپشنز",
+                "normal": "محدود",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "سین میوزک",
+                "normal": "محدود",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "ملٹی کیمرہ ان پٹ",
+                "normal": "نہیں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "ایڈوانس بیوٹی فلٹرز",
+                "normal": "بنیادی",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "AI گرین اسکرین میٹنگ",
+                "normal": "ہاں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "موشن ٹریکنگ اینیمیشنز",
+                "normal": "محدود",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "سین کیمرہ ایفیکٹس",
+                "normal": "محدود",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "VIP ایفیکٹس لائبریری",
+                "normal": "محدود",
+                "month": "لا محدود",
+                "year": "لا محدود",
+                "life": "لا محدود"
+              },
+              {
+                "feature": "پلیٹ فارم سٹریمنگ",
+                "normal": "ہاں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "4K آؤٹ پٹ",
+                "normal": "نہیں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              },
+              {
+                "feature": "ریفرل کمیشن کی شرح",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "ذیلی الحاق شدہ رعایت",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "سپورٹ چینل",
+                "normal": "کمیونٹی سیلف سروس",
+                "month": "معیاری قطار",
+                "year": "ترجیحی جواب",
+                "life": "خصوصی سپورٹ"
+              },
+              {
+                "feature": "نئی خصوصیات تک ابتدائی رسائی",
+                "normal": "نہیں",
+                "month": "ہاں",
+                "year": "ہاں",
+                "life": "ہاں"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "کوڈ ریڈیم کریں",
+            "title": "کوڈ ریڈیم کریں",
+            "tip": "اپنا رکنیت ریڈیمپشن کوڈ درج کریں۔ ریڈیمپشن کے فوراً بعد آپ کی رکنیت فعال ہو جائے گی۔",
+            "placeholder": "ریڈیمپشن کوڈ درج کریں",
+            "submitButton": "ریڈیم کریں",
+            "agreementPrefix": "ریڈیم کر کے، آپ اس سے متفق ہوتے ہیں",
+            "userProtocolText": "صارف معاہدہ",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "ریڈیمپشن ناکام۔ کوڈ چیک کر کے دوبارہ کوشش کریں۔"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "خریداری کی تاریخ",
+            "title": "خریداری کی تاریخ",
+            "tabTitle": "خریداریاں",
+            "exchangeTabTitle": "ریڈمپشنز",
+            "tableHeaders": {
+              "title": "قسم",
+              "date": "ادائیگی کا وقت",
+              "price": "رقم",
+              "paymentMethod": "ادائیگی کا طریقہ",
+              "status": "حالت",
+              "exchangeDate": "ریڈمپشن کا وقت",
+              "exchangeCode": "ریڈمپشن کوڈ"
+            },
+            "exchangeTableHeaders": {
+              "date": "ریڈمپشن کا وقت",
+              "code": "ریڈمپشن کوڈ"
+            },
+            "cardTypes": {
+              "month": "ماہانہ کارڈ",
+              "year": "سالانہ کارڈ",
+              "life": "لائف ٹائم کارڈ",
+              "default": "ممبرشپ کارڈ"
+            },
+            "orderStatuses": {
+              "pending": "ادائیگی زیر التوا",
+              "paid": "ادا شدہ",
+              "closed": "بند",
+              "refunded": "رقم واپس",
+              "unknown": "نامعلوم"
+            },
+            "secretLabels": {
+              "show": "پاس ورڈ دکھائیں",
+              "hide": "پاس ورڈ چھپائیں"
+            },
+            "secretMask": "******",
+            "emptyText": "ابھی تک کوئی خریداری ریکارڈ نہیں",
+            "exchangeEmptyText": "ابھی تک کوئی ریڈمپشن ریکارڈ نہیں",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "بینک کارڈ",
+              "creditcard": "کریڈٹ کارڈ",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "کرپٹو کرنسی",
+              "balance": "بیلنس",
+              "free": "مفت"
+            }
+          },
+          "team": {
+            "ariaLabel": "میری ٹیم",
+            "title": "میری ٹیم",
+            "referrerLabel": "میرا ریفرر",
+            "levelOne": "لیول 1 ممبران",
+            "levelTwo": "لیول 2 ممبران",
+            "tableHeaders": {
+              "name": "ممبر کا نام",
+              "status": "ممبرشپ کی حالت",
+              "joinedAt": "شامل ہونے کا وقت"
+            },
+            "memberStatus": {
+              "free": "مفت صارف",
+              "vip": "VIP صارف"
+            },
+            "emptyMemberName": "بغیر نام کا صارف",
+            "emptyReferrer": "کوئی ریفرر نہیں",
+            "emptyTeam": "ابھی تک کوئی ٹیم ممبر نہیں",
+            "errors": {
+              "loadFail": "ٹیم ممبران لوڈ کرنے میں ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "آمدنی کا مرکز",
+            "title": "آمدنی کا جائزہ",
+            "commissionTitle": "کمیشن کی تفصیلات",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "کل آمدنی",
+                "desc": "آج تک حاصل کردہ کل کمیشن"
+              },
+              {
+                "key": "month",
+                "title": "اس ماہ",
+                "desc": "اس ماہ حاصل کردہ کمیشن"
+              },
+              {
+                "key": "settling",
+                "title": "زیر التوا تصفیہ",
+                "value": "0.00",
+                "desc": "زیر التوا تصفیہ کی رقم"
+              },
+              {
+                "key": "withdrawable",
+                "title": "نکلوانے کے قابل",
+                "desc": "فی الحال نکلوانے کے لیے دستیاب رقم",
+                "action": "نکلوائیں"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "صارف نام",
+              "saleTime": "فروخت کا وقت",
+              "goodsInfo": "پروڈکٹ",
+              "commission": "کمیشن"
+            },
+            "emptyCommission": "ابھی تک کوئی کمیشن ریکارڈ نہیں",
+            "errors": {
+              "loadFail": "کمیشن کی تفصیلات لوڈ کرنے میں ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
+            },
+            "withdraw": {
+              "ariaLabel": "نکلوانے کی درخواست",
+              "title": "نکلوانے کی درخواست",
+              "closeLabel": "نکلوانے کا ڈائیلاگ بند کریں",
+              "balanceLabel": "نکلوانے کے قابل بیلنس",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "نکلوانے کی رقم",
+              "amountPlaceholder": "نکلوانے کی رقم درج کریں",
+              "allButton": "تمام",
+              "allAmountValue": "0.00",
+              "amountTip": "براہ کرم تصدیق کریں کہ رقم درست ہے۔ جمع کروانے کے بعد آپ کی درخواست کا دستی جائزہ لیا جائے گا۔",
+              "methodLabel": "نکلوانے کا طریقہ",
+              "methods": [
+                "بینک کارڈ",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "بینک کارڈ",
+              "nameLabel": "وصول کنندہ کا نام",
+              "namePlaceholder": "وصول کنندہ کا نام درج کریں",
+              "defaultName": "",
+              "bankCardLabel": "اکاؤنٹ نمبر",
+              "bankCardPlaceholder": "بینک کارڈ نمبر، PayPal ای میل، یا والیٹ ایڈریس درج کریں",
+              "remarkLabel": "ریمارکس",
+              "remarkPlaceholder": "کوئی اضافی نوٹ شامل کریں",
+              "note": "نکلوانے کی درخواستیں 1-3 کاروباری دنوں میں پروسیس ہوتی ہیں۔",
+              "cancelButton": "منسوخ کریں",
+              "submitButton": "درخواست جمع کروائیں"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "ریڈمپشن کامیاب",
+            "operationFailed": "ریڈمپشن ناکام",
+            "invalidCard": "غلط ریڈمپشن کوڈ",
+            "cardNotFound": "ریڈمپشن کوڈ نہیں ملا",
+            "cardDisabled": "ریڈمپشن کوڈ غیر فعال",
+            "cardExpired": "ریڈمپشن کوڈ میعاد ختم"
+          },
+          "successMessage": "آپریشن کامیاب"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Wat moet ik doen als het beeld niet volledig wordt weergegeven bij het streamen vanaf een computer?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als het beeld niet volledig wordt weergegeven wanneer je streamt vanaf je telefoon via een live streaming companion-app of andere software, volg dan deze stappen om het aan te passen:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open VicastCam, tik op het camerapictogram onderaan om naar de live streaming-pagina te gaan, en ga vervolgens naar [Rechts menu - Meer instellingen - Beeldverhouding - 9:16].",
+            "Schaal na het streamen naar de live streaming companion eerst naar passend formaat en sleep het beeld daarna omhoog of omlaag om het hele scherm te vullen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Let op: stel de beeldverhouding eerst in voordat je je stream start en voeg daarna pas je assets toe."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Wat moet ik doen als een netwerkverzoek mislukt?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als je netwerkverzoeken mislukken, probeer dan het volgende:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open de instellingen van je telefoon, ga naar [Rechtenbeheer - VicastCam - Mobiele data en wifi gebruiken] en schakel netwerktoegang in.",
+            "Schakel de energiebesparingsmodus en eventuele achtergrondbeperkingen op je telefoon uit.",
+            "Wissel van netwerk, herstart je telefoon, schakel de vliegtuigmodus in of uit, of update de app naar de nieuwste versie.",
+            "Als het probleem aanhoudt, maak dan een screenshot van de foutmelding en neem contact op met de klantenservice voor hulp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Waarom flikkeren netwerkasset-overlays of worden ze zwart tijdens een livestream?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Als je flikkeringen of zwarte schermen ervaart bij het toevoegen van netwerkassets tijdens een livestream, kun je dit als volgt aanpakken:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Download en bekijk alle assets en overlays die je tijdens de stream wilt gebruiken van tevoren. Zorg ervoor dat ze goed werken voordat je live gaat.",
+            "Sommige assets die bij de software worden geleverd, worden op servers opgeslagen. Download ze voordat je je stream start, zodat je ze tijdens de stream direct kunt gebruiken zonder ze opnieuw te laden.",
+            "Het laden van assets tijdens de stream verbruikt streamingbronnen, telefoongeheugen en prestaties, wat vertraging kan veroorzaken. Op minder krachtige telefoons kan dit zelfs leiden tot crashes of zwarte schermen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Belangrijke opmerking"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plan en oefen je stream van tevoren. Oefen elk onderdeel om ervoor te zorgen dat alles soepel verloopt voordat je live gaat. Behandel elke stream met zorg, en je stream zal je belonen."
+        }
+      ]
+    }
+  ]
+}

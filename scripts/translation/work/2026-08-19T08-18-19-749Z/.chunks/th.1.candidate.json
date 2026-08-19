@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "ศูนย์บัญชี",
+    "description": "หน้าศูนย์บัญชี VicastCam"
+  },
+  "common": {
+    "sidebarAriaLabel": "เมนูบัญชี",
+    "defaultProfileName": "ผู้ใช้",
+    "emptyContent": "ไม่มีเนื้อหา",
+    "copyButtonLabel": "คัดลอก",
+    "monthSelectLabel": "เลือกเดือน",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "ไม่พบข้อมูลผู้ใช้ กรุณาเข้าสู่ระบบอีกครั้ง",
+    "paginationLabel": "การแบ่งหน้า",
+    "previousPageLabel": "หน้าก่อนหน้า",
+    "nextPageLabel": "หน้าถัดไป",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "ไปที่",
+      "unit": "หน้า",
+      "ariaLabel": "ไปยังหน้าที่ต้องการ",
+      "buttonLabel": "ไป"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "ศูนย์บัญชี",
+    "logout": "ออกจากระบบ",
+    "profileAriaSuffix": "เมนูบัญชี"
+  },
+  "sidebar": {
+    "ariaLabel": "เมนูบัญชี",
+    "menus": {
+      "account": "ข้อมูลบัญชี",
+      "membership": "สมาชิก",
+      "redeem": "ใช้รหัส",
+      "purchaseHistory": "ประวัติการซื้อ",
+      "team": "ทีมของฉัน",
+      "earnings": "รายได้"
+    }
+  },
+  "account": {
+    "ariaLabel": "ข้อมูลบัญชี",
+    "profileTitle": "ข้อมูลบัญชี",
+    "usernameLabel": "ชื่อผู้ใช้",
+    "passwordLabel": "รหัสผ่าน",
+    "passwordMask": "********",
+    "defaultUsername": "ยังไม่ได้ตั้งชื่อเล่น",
+    "emailLabel": "อีเมลที่เชื่อมโยง",
+    "emailPlaceholder": "กรอกอีเมลของคุณ",
+    "codePlaceholder": "กรอกรหัสยืนยัน",
+    "sendCodeButton": "รับรหัส",
+    "bindButton": "เชื่อมโยงอีเมล",
+    "alreadyBound": "เชื่อมโยงแล้ว",
+    "unboundEmail": "ยังไม่ได้เชื่อมโยง",
+    "emailBindTip": "เมื่อเชื่อมโยงแล้วจะไม่สามารถเปลี่ยนอีเมลได้ โปรดตรวจสอบว่าอีเมลถูกต้อง",
+    "emailRequired": "กรุณากรอกอีเมลที่ถูกต้อง",
+    "codeRequired": "กรุณากรอกรหัสยืนยัน",
+    "codeSent": "ส่งรหัสยืนยันแล้ว โปรดตรวจสอบอีเมลของคุณ",
+    "bindSuccess": "เชื่อมโยงอีเมลสำเร็จ",
+    "bindFailed": "เชื่อมโยงอีเมลไม่สำเร็จ โปรดตรวจสอบรหัสและลองอีกครั้ง",
+    "requestFailed": "คำขอไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง",
+    "inviteTitle": "ลิงก์เชิญ",
+    "inviteDescription": "คัดลอกลิงก์เชิญส่วนตัวของคุณ เมื่อเพื่อนสมัครและซื้อสมาชิก คุณจะได้รับรางวัล",
+    "emptyInviteLink": "ไม่มีลิงก์เชิญ"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.featureTitle1",
+      "category": "glossary",
+      "severity": "major",
+      "instruction": "Use approved glossary term 'AI-маттинг' instead of 'AI-маттинг'? Actually approved is 'AI matting' => 'AI-маттинг' is acceptable, but ensure consistency. However, the approved glossary says 'AI 抠像' => 'AI matting', so 'AI-маттинг' is fine. No issue."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider rephrasing to avoid the dash and make it more natural: 'Виртуальные фоны, улучшения в реальном времени и мультиплатформенный стриминг — всё просто' or '... — это просто'."
+    },
+    {
+      "path": "$.logins[0].logins.agreeProtocolText",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Use gender-neutral phrasing: 'Я прочитал(а) и согласен(на)' is awkward. Better: 'Я прочитал(а) и принимаю' or 'Я ознакомился(лась) и согласен(на)' but for a checkbox, common is 'Я принимаю условия Политики конфиденциальности и Пользовательского соглашения'."
+    },
+    {
+      "path": "$.logins[0].logins.agreeProtocolPrefix",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Same issue: 'Я прочитал(а) и согласен(на) с' is awkward. Use 'Я принимаю' or 'Я ознакомился(лась) и согласен(на)' but better to use 'Я принимаю' for simplicity."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "literal_translation",
+      "severity": "critical",
+      "instruction": "The word 'seamlessly' is left in English. Replace with 'без проблем' or 'плавно'."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider more natural phrasing: 'Эффекты зеленого экрана и трансляция экрана с телефона' is fine, but 'screen casting' is translated as 'трансляция экрана' which is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'Деловое сотрудничество' is fine, but 'Бизнес-сотрудничество' might be more common. However, 'Деловое' is acceptable."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[1].text",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "'OEM-брендирование' is acceptable, but consider 'OEM-брендинг' as more common in Russian tech context."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "ru",
+          "loginTitle1": "Мгновенно меняйте виртуальный фон",
+          "loginTitle2": "Стримьте с большим эффектом",
+          "loginDes1": "Профессиональный инструмент для стриминга на базе AI",
+          "loginDes2": "Виртуальные фоны, улучшения в реальном времени и мультиплатформенный стриминг — всё просто",
+          "featureTitle1": "AI-маттинг",
+          "featureSubTitle1": "Замена фона в реальном времени",
+          "featureTitle2": "Мультиплатформенный стриминг",
+          "featureSubTitle2": "Начните трансляцию в один клик",
+          "featureTitle3": "Виртуальная камера",
+          "featureSubTitle3": "Превратите телефон в веб-камеру",
+          "loginBox": {
+            "loginPageTitle": "Вход / Регистрация",
+            "codeLoginTab": "Вход по коду",
+            "pwdLoginTab": "Вход по паролю",
+            "qrLoginTab": "Вход по QR-коду",
+            "emailInputPlaceholder": "Введите email для входа",
+            "pwdInputPlaceholder": "Введите пароль",
+            "verifyCodePlaceholder": "Введите проверочный код",
+            "getVerifyCodeText": "Получить код",
+            "loginBtnText": "Войти",
+            "qrLoginTip": "Отсканируйте код в приложении VicastCam для входа",
+            "qrWaitingTip": "Ожидание подтверждения сканирования",
+            "agreeProtocolText": "Я принимаю условия Политики конфиденциальности и Пользовательского соглашения",
+            "userProtocolText": "Пользовательское соглашение",
+            "privacyPolicyText": "Политика конфиденциальности",
+            "agreeProtocolPrefix": "Я принимаю"
+          },
+          "toastBox": {
+            "closeToastLabel": "Закрыть уведомление",
+            "requestLoading": "Загрузка",
+            "requestSuccess": "Запрос выполнен",
+            "requestFail": "Запрос не выполнен",
+            "passwordLoginNotReady": "Вход по паролю пока недоступен",
+            "passwordRequired": "Введите пароль",
+            "emailRequired": "Введите email для входа",
+            "verifyCodeRequired": "Введите проверочный код",
+            "agreeProtocolRequired": "Сначала примите Политику конфиденциальности и Пользовательское соглашение",
+            "qrcodeExpired": "QR-код устарел. Получите новый."
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "ru",
+          "hero_section": {
+            "tag": "Инструмент для стриминга на базе AI",
+            "title_main": "Эффекты зеленого экрана и трансляция экрана с телефона",
+            "title_highlight": "для стриминга где угодно",
+            "description": "VicastCam использует продвинутый AI-маттинг, позволяя вам без проблем менять виртуальные фоны во время стрима, добавляя профессиональные эффекты и безупречный вид вашим трансляциям.",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "Скачать"
+              },
+              {
+                "platform": "Google Play",
+                "text": "Скачать"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam предоставляет создателям виртуальные фоны, улучшения для трансляций и кросс-платформенные инструменты."
+            },
+            "columns": [
+              {
+                "title": "Продукт",
+                "links": [
+                  {
+                    "text": "Возможности"
+                  },
+                  {
+                    "text": "Цены"
+                  },
+                  {
+                    "text": "Загрузки"
+                  }
+                ]
+              },
+              {
+                "title": "Разработчикам",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "Документация API"
+                  }
+                ]
+              },
+              {
+                "title": "Компания",
+                "links": [
+                  {
+                    "text": "О нас"
+                  },
+                  {
+                    "text": "Политика конфиденциальности"
+                  },
+                  {
+                    "text": "Пользовательское соглашение"
+                  },
+                  {
+                    "text": "Соглашение о членстве"
+                  }
+                ]
+              },
+              {
+                "title": "Поддержка",
+                "links": [
+                  {
+                    "text": "Видеоуроки"
+                  },
+                  {
+                    "text": "FAQ"
+                  },
+                  {
+                    "text": "Связаться с нами"
+                  }
+                ]
+              },
+              {
+                "title": "Деловое сотрудничество",
+                "links": [
+                  {
+                    "text": "Стать реселлером"
+                  },
+                  {
+                    "text": "OEM-брендинг"
+                  },
+                  {
+                    "text": "Деловые запросы"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "Возможности",
+        "nav_pricing": "Цены",
+        "nav_faq": "FAQ",
+        "nav_auth": "Вход / Регистрация",
+        "nav_team": "Деловое сотрудничество"
+      }
+    ]
+  }
+}

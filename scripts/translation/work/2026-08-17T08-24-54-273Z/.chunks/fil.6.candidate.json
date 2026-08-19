@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Ano ang mga inirerekomendang sukat para sa mga live streaming assets?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Narito ang mga inirerekomendang sukat para sa mga live streaming assets:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Para sa mga live background image, inirerekomenda namin ang 1080 x 1920 pixels; para sa mga video, 1080 x 1920 pixels din ang rekomendasyon.",
+            "Mahalaga: Ang mga full-screen overlay ay dapat gumamit ng 9:16 aspect ratio upang perpektong mag-align kapag lumilipat sa pagitan ng full-screen at 9:16 modes, para walang putol na fit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Ano ang mga supported output modes para sa streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "May dalawang output modes ang streaming: 9:16 streaming at full-screen streaming. Sundan ang mga hakbang na ito para pumili ng mode sa iyong Apple device:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buksan ang VicastCam, pumunta sa live streaming page, at i-tap ang menu icon sa kanang bahagi."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Menu entry sa kanang bahagi ng Apple live streaming page",
+          "caption": "Hakbang 1: I-tap ang menu icon sa kanang bahagi ng live streaming page."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sa More Settings, hanapin ang 'Aspect Ratio' at piliin ang 'Full Screen' o '9:16' ayon sa iyong pangangailangan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Mga opsyon sa aspect ratio sa More Settings sa Apple",
+          "caption": "Hakbang 2: Sa 'Aspect Ratio', piliin ang 'Full Screen' o '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Tungkol sa dalawang modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 streaming: Ang output aspect ratio ay naka-fix sa 9:16, kaya ang live platform ay makakatanggap ng 9:16 na imahe.",
+            "Full-screen streaming: Ini-stream ang buong screen ng phone nang walang pagbabago, pinapanatili ang native content nang walang crop."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Ano ang pagkakaiba ng System Streaming at Software Streaming?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Ang mga Apple device ay may dalawang streaming capture modes, na malaki ang pagkakaiba sa mga patakaran sa background operation. Sundan ang mga hakbang na ito para pumili ng streaming mode:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Buksan ang VicastCam, pumunta sa live streaming page, at i-tap ang menu icon sa kanang bahagi."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Menu entry sa kanang bahagi ng Apple live streaming page",
+          "caption": "Hakbang 1: I-tap ang menu icon sa kanang bahagi ng live streaming page."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sa More Settings, hanapin ang 'Streaming Mode' at piliin ang 'System Streaming' o 'Software Streaming' ayon sa iyong pangangailangan."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Mga opsyon sa streaming mode sa More Settings sa Apple",
+          "caption": "Hakbang 2: Sa 'Streaming Mode', piliin ang 'System Streaming' o 'Software Streaming'."
+        },
+        {
+          "type": "heading",
+          "text": "Tungkol sa dalawang modes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "System Streaming (ReplayKit screen recording): Gumagamit ng iOS system screen recording para makuha ang screen, na nagpapahintulot ng tuloy-tuloy na streaming kahit naka-background ang app. Maaari kang lumipat sa ibang apps at makuha pa rin ang anumang screen content nang hindi naaantala ang stream.",
+            "Software Streaming (direct capture sa foreground): Direktang kinukuha ng app ang screen. Dahil sa mga limitasyon ng iOS system, dapat manatili ang app sa foreground. Kung lumipat ka sa ibang app o bumalik sa home screen, agad na hihinto ang streaming."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Paano ko tatanggalin ang aking account?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Mangyaring mag-log in sa VicastCam app, pagkatapos ay pumunta sa [Account - top-right icon - Account Management - Delete Account - Submit Deletion Request]."
+        },
+        {
+          "type": "heading",
+          "text": "Impormasyon ng account"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pagkatapos tanggalin ang account, permanenteng tatanggalin namin ang iyong naka-link na email, mga device record, at iba pang identity information, at bawiin ang iyong third-party login authorization sa pamamagitan ng Google at Apple accounts. Pagkatapos mabawi, hindi mo na magagamit ang mga third-party account na iyon para mabilis na mag-log in sa app na ito. Upang magamit muli ang app, kakailanganin mong mag-re-authorize at i-link muli ang iyong account."
+        },
+        {
+          "type": "heading",
+          "text": "Content at assets"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ang lahat ng live streaming assets, video, image, at project files ay naka-store lamang sa iyong device. Ang platform cloud ay hindi nag-iimbak ng anumang creative assets. Pagkatapos ng pagtanggal, hindi na magagamit ang asset management feature. Mangyaring i-back up ang iyong mga assets nang maaga gamit ang 'Asset Export'.",
+            "Kung i-uninstall at i-reinstall mo ang app, lumipat ng device, o hindi nakapag-export ng backup nang maaga, permanenteng mawawala ang iyong mga assets."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mga benepisyo ng membership"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pagkatapos tanggalin ang account, agad na matatapos ang iyong membership benefits. Dahil ang mga subscription services ay pinamamahalaan ng Apple, hindi direktang makakapag-proseso ng refund ang platform. Upang humiling ng refund, mangyaring magsumite ng kahilingan sa pamamagitan ng mga opisyal na channel ng Apple (App Store purchase history). Bago tanggalin ang iyong account, siguraduhing manu-manong i-cancel ang auto-renewal upang maiwasan ang mga susunod na singil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kung mayroon kang mga katanungan, mangyaring makipag-ugnayan sa customer support."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Bakit hindi ko ma-access ang mga photos at videos ng aking phone kapag nagdadagdag?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Kung mukhang walang laman ang iyong photo library kapag nagdadagdag ng assets, pumunta sa Settings ng iyong iPhone, i-scroll pababa upang mahanap ang VicastCam, i-tap ang [Photos - All Photos] upang paganahin ang access."
+        }
+      ]
+    }
+  ]
+}

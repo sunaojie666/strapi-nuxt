@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "الأسئلة الشائعة حول VicastCam | مساعدة لأندرويد وiOS",
+    "description": "اعثر على إجابات للأسئلة الشائعة حول VicastCam لأندرويد وiOS، بما في ذلك إعداد الحساب، وأذونات الوسائط، واتصالات الشبكة، ومشكلات البث المباشر.",
+    "imageAlt": "الأسئلة الشائعة حول VicastCam"
+  },
+  "hero": {
+    "eyebrow": "الأسئلة الشائعة",
+    "titleMain": "مساعدة VicastCam",
+    "titleHighlight": "اعثر على إجابات سريعة",
+    "description": "اختر منصتك (أندرويد أو iOS) لرؤية الأسئلة والحلول الشائعة لجهازك."
+  },
+  "content": {
+    "sectionAriaLabel": "الأسئلة الشائعة",
+    "catalogAriaLabel": "فئات الأسئلة",
+    "answerLabel": "الإجابة",
+    "questionProgressTemplate": "{group} · السؤال {current} من {total}"
+  }
+}

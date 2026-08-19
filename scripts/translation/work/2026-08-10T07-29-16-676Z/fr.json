@@ -1,0 +1,702 @@
+{
+  "abouts": [
+    {
+      "about_box": {
+        "hero": {
+          "eyebrow": "À propos de VicastCam",
+          "titleMain": "L'équipe derrière la technologie d'incrustation d'écran vert et de diffusion d'écran mobile",
+          "titleHighlight": "",
+          "description": "Nous nous concentrons sur l'imagerie mobile, la caméra virtuelle, la collaboration par diffusion d'écran et la connectivité de diffusion en direct multi-plateforme, aidant les créateurs, les éducateurs et les entreprises à transformer leur téléphone en un outil de diffusion en direct professionnel, stable, clair et facile à intégrer.",
+          "primaryButtonText": "Contacter le service commercial",
+          "secondaryButtonText": "Voir le SDK"
+        },
+        "innovation": {
+          "sectionTag": "Points forts",
+          "titleMain": "Axé sur l'innovation",
+          "titleHighlight": "Façonner l'avenir de la diffusion en direct",
+          "description": "Des outils mobiles aux capacités de plateforme, VicastCam s'étend à davantage d'appareils, de plateformes et de scénarios de diffusion en direct.",
+          "featureTag": "Capacités clés",
+          "featureTitle": "Diffusion en direct mondiale, approuvée par l'industrie",
+          "featureDescription": "Nous affinons en continu l'expérience produit autour de la diffusion en direct mobile, de l'imagerie virtuelle, de la collaboration par diffusion d'écran et de la connectivité multiplateforme, faisant évoluer les outils de diffusion en direct de capacités ponctuelles vers des flux de travail stables et intégrables.",
+          "stats": [
+            {
+              "value": "150+",
+              "label": "Pays et régions",
+              "text": "Au service des créateurs et des équipes dans le monde entier"
+            },
+            {
+              "value": "2000+",
+              "label": "Plateformes compatibles",
+              "text": "Couvrant les principaux scénarios de diffusion en direct, de réunion et de contenu"
+            },
+            {
+              "value": "500000+",
+              "label": "Utilisations totales",
+              "text": "Validé en continu pour la stabilité et la facilité d'utilisation"
+            },
+            {
+              "value": "99.9%",
+              "label": "Disponibilité",
+              "text": "Garantir des flux de travail de diffusion en direct fiables"
+            }
+          ]
+        },
+        "roadmap": {
+          "sectionTag": "Feuille de route",
+          "titleMain": "En évolution constante",
+          "titleHighlight": "Autour de l'écosystème mondial de la diffusion en direct",
+          "description": "Des outils de diffusion en direct aux capacités de plateforme, VicastCam s'étend à davantage d'appareils, de plateformes et de scénarios de diffusion en direct.",
+          "items": [
+            {
+              "year": "2023",
+              "title": "Approfondir la focalisation mobile et affiner les effets d'incrustation d'écran vert",
+              "text": "Concentré sur les capacités sous-jacentes de la diffusion en direct virtuelle mobile, en itérant et en optimisant en continu les algorithmes d'incrustation d'écran vert pour résoudre des problèmes tels que la distorsion des bords, la mauvaise adaptation à la lumière et le décalage avec plusieurs superpositions. Achevé une suite complète d'effets virtuels, y compris les autocollants, le remplacement d'arrière-plan et l'occlusion de premier plan, établissant une base légère de diffusion en direct virtuelle mobile. Avec un simple téléphone, les créateurs peuvent réaliser une diffusion en direct professionnelle avec incrustation d'écran vert."
+            },
+            {
+              "year": "2024",
+              "title": "Connecter la diffusion d'écran, développer la technologie de caméra virtuelle",
+              "text": "Élargi l'interconnexion des appareils, en se concentrant sur la diffusion d'écran haute définition et la transmission synchronisée entre appareils. Développé indépendamment un pilote de caméra virtuelle universel pour la capture et la sortie logicielles mondiales, permettant la compatibilité avec les logiciels de diffusion en direct, les outils de montage et les réunions en ligne. Combler le fossé entre mobile et bureau, permettant la diffusion en un clic du contenu du téléphone vers le PC et des positions de caméra virtuelle multi-sorties, enrichissant la production de diffusion en direct."
+            },
+            {
+              "year": "2025",
+              "title": "Lancement d'un assistant de diffusion en direct 3D professionnel pour PC",
+              "text": "Livré une gamme de produits de diffusion en direct professionnels pour ordinateur de bureau avec un assistant de diffusion en direct virtuel 3D complet. Équipé de scènes virtuelles 3D, de conduite d'humain numérique, de commutation multi-caméras et de rendu et d'éclairage en temps réel, il sert la diffusion en direct commerciale, les présentations virtuelles dans les showrooms et la diffusion en direct de commerce électronique sur grand écran. Amélioré la composition multi-couches, les sous-titres en temps réel et les composants interactifs pour répondre aux besoins des équipes diffusant des flux en direct professionnels à grande échelle et de haute qualité."
+            },
+            {
+              "year": "2026",
+              "title": "Expansion mondiale, construction d'un écosystème complet de diffusion en direct",
+              "text": "Expansion complète dans la diffusion en direct à l'étranger, adaptation aux principales plateformes étrangères pour la diffusion, transmission à faible latence sur les réseaux internationaux et localisation multilingue. Intégré les trois produits principaux des années précédentes : incrustation d'écran vert mobile, caméra virtuelle de diffusion d'écran et diffusion en direct 3D sur PC, reliant trois lignes de produits : créateurs individuels, utilisation commerciale en entreprise et intégration SDK pour développeurs. Unifié le matériel, les logiciels, les terminaux multiples et les services nationaux et internationaux, complétant un écosystème de diffusion en direct de bout en bout, de la production à l'interopérabilité entre appareils, jusqu'à la distribution mondiale."
+            }
+          ]
+        },
+        "social": {
+          "sectionTag": "Suivez-nous",
+          "titleMain": "Contactez-nous",
+          "titleHighlight": "et façonnez l'avenir de la diffusion en direct",
+          "description": "Suivez nos mises à jour produit, nos conseils de diffusion en direct et d'autres actualités",
+          "items": [
+            {
+              "key": "youtube-1",
+              "title": "YouTube",
+              "description": "Compte YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-2",
+              "title": "YouTube",
+              "description": "Compte YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-3",
+              "title": "YouTube",
+              "description": "Compte YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-4",
+              "title": "YouTube",
+              "description": "Compte YouTube",
+              "href": "https://www.youtube.com/"
+            },
+            {
+              "key": "youtube-5",
+              "title": "YouTube",
+              "description": "Compte YouTube",
+              "href": "https://www.youtube.com/"
+            }
+          ]
+        },
+        "seo": {
+          "title": "À propos de nous",
+          "description": "Découvrez l'équipe VicastCam, la mission du produit et ses capacités en matière de caméra virtuelle, d'amélioration de la diffusion en direct par IA et de diffusion multiplateforme."
+        }
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "data": {
+        "downloadBox": {
+          "hero": {
+            "eyebrow": "Centre de téléchargement",
+            "title": "Télécharger VicastCam"
+          },
+          "platform": {
+            "title": "Choisissez votre plateforme",
+            "description": "VicastCam prend en charge Windows, iOS et Android. Commencez la diffusion en direct professionnelle.",
+            "versionLabel": "Version",
+            "updatedAtLabel": "Mis à jour",
+            "sizeLabel": "Taille du paquet",
+            "downloadAriaSuffix": "Télécharger",
+            "closeQrAriaPrefix": "Fermer",
+            "closeQrAriaSuffix": "Code QR de téléchargement",
+            "items": [
+              {
+                "key": "android",
+                "name": "Android",
+                "subtitle": "Android 8.0+",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115 Mo",
+                "system": "Prend en charge Android 8.0 et versions ultérieures",
+                "actionLabel": "Télécharger maintenant",
+                "qrTitle": "Scannez pour télécharger la version Android",
+                "qrDescription": "Utilisez votre téléphone pour scanner et télécharger"
+              },
+              {
+                "key": "ios",
+                "name": "iOS",
+                "subtitle": "iPhone / iPad",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115 Mo",
+                "system": "Prend en charge iOS 13.0 et versions ultérieures",
+                "actionLabel": "App Store",
+                "qrTitle": "Scannez pour accéder à l'App Store",
+                "qrDescription": "Utilisez votre téléphone pour scanner et télécharger la version iOS"
+              },
+              {
+                "key": "windows",
+                "name": "Windows",
+                "subtitle": "Windows 10/11 64 bits",
+                "version": "v3.2.0",
+                "updatedAt": "2026-05-13",
+                "size": "115 Mo",
+                "system": "Compatible avec Windows 10 et versions ultérieures",
+                "actionLabel": "Télécharger maintenant",
+                "qrTitle": "",
+                "qrDescription": ""
+              }
+            ]
+          },
+          "reasons": {
+            "title": "Pourquoi choisir VicastCam",
+            "items": [
+              {
+                "key": "secure",
+                "title": "Sécurisé et fiable",
+                "text": "Plusieurs mécanismes de sécurité protègent vos données et votre compte."
+              },
+              {
+                "key": "updates",
+                "title": "Mises à jour continues",
+                "text": "Nous améliorons constamment le produit pour offrir une expérience plus stable."
+              },
+              {
+                "key": "support",
+                "title": "Support professionnel",
+                "text": "Support technique 24h/24 et 7j/7 avec une réponse rapide à vos problèmes."
+              },
+              {
+                "key": "tutorial",
+                "title": "Tutoriels vidéo",
+                "text": "Des tutoriels vidéo détaillés et des guides de fonctionnalités pour vous aider à démarrer rapidement."
+              }
+            ]
+          },
+          "seo": {
+            "title": "Centre de téléchargement",
+            "description": "Téléchargez le client VicastCam pour Windows, iOS et Android."
+          }
+        }
+      }
+    }
+  ],
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "fr",
+        "features_section": {
+          "title_tag": "Fonctionnalités",
+          "title_main": "La solution tout-en-un pour la diffusion en direct",
+          "title_highlight": "pour les diffuseurs mobiles professionnels",
+          "description": "Intégrez des capacités de diffusion en direct essentielles pour créer des scènes captivantes partout et offrir une expérience visuelle professionnelle."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Diffusion d'écran et caméra virtuelle",
+            "desc": "Diffusez votre téléphone sur votre PC et utilisez la technologie de caméra virtuelle pour créer des flux en direct professionnels."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Prise en charge multi-caméras",
+            "desc": "Basculez entre plusieurs angles de caméra en un seul clic pendant les flux en direct pour des perspectives plus riches."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "Effets 2D/3D",
+            "desc": "Ajoutez de superbes couches d'effets 2D/3D pour créer une salle de diffusion dynamique et engageante."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Diffusion multi-plateforme",
+            "desc": "Diffusez sur YouTube, Twitch, TikTok, Facebook Live et plus encore."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Contrôleur virtuel",
+            "desc": "Contrôlez votre flux en direct à distance depuis n'importe quel appareil : changez de scène, coupez le son et ajustez les effets en temps réel."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Diffusion simultanée multi-plateforme",
+            "desc": "Passez en direct sur TikTok, YouTube, Twitch et Instagram simultanément depuis votre PC."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Effets d'incrustation d'écran vert mobile et diffusion d'écran",
+      "top_badge": "Outil de diffusion en direct propulsé par l'IA",
+      "hero_subtitle": "Alimentant l'écosystème mondial de la diffusion en direct",
+      "hero_description_1": "VicastCam utilise un matting IA avancé pour vous permettre de changer d'arrière-plan virtuel en toute fluidité pendant les flux en direct, offrant une",
+      "hero_description_2": "expérience immersive qui rehausse votre image professionnelle.",
+      "user_count_label": "Utilisateurs mondiaux",
+      "rating_label": "Note de l'App Store",
+      "download_count_label": "Téléchargements mondiaux",
+      "app_store_url": "Télécharger sur l'App Store",
+      "google_play_url": "Télécharger sur Android",
+      "desktop_client_url": "Télécharger le client de bureau",
+      "request_success": "Demande réussie",
+      "request_fail": "Échec de la demande",
+      "request_loading": "Chargement"
+    }
+  ],
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Tarifs",
+          "titleMain": "Choisissez le plan",
+          "titleHighlight": "qui vous convient",
+          "description": "Essayez gratuitement, ou choisissez un autre plan",
+          "priceAltSuffix": "Prix",
+          "freePlanMessage": "Les utilisateurs gratuits n'ont pas besoin d'acheter",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Gratuit",
+              "description": "Téléchargement et inscription gratuits, avec des fonctionnalités de base disponibles sans frais.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/mois",
+              "priceNote": "",
+              "cta": "Commencer",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Créez avec une seule scène",
+                "Disposez librement jusqu'à quatre couches",
+                "Accédez à une variété de matériaux d'arrière-plan en direct",
+                "Qualité de base pour la diffusion d'écran PC",
+                "Effets de beauté naturels intégrés"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Mensuel",
+              "description": "Activez et profitez d'un mois complet d'accès, un moyen économique d'essayer.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/mois",
+              "priceNote": "Accès de 30 jours",
+              "cta": "Acheter",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Toutes les fonctionnalités mobiles",
+                "Diffusion en direct par diffusion d'écran PC",
+                "Qualité de diffusion en direct HD",
+                "Effets de beauté avancés",
+                "Effets de diffusion en direct exclusifs"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Annuel",
+              "description": "Meilleur rapport qualité-prix avec des économies annuelles.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/an",
+              "priceNote": "Accès de 365 jours",
+              "cta": "Acheter",
+              "badgeText": "Le plus populaire",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Toutes les fonctionnalités mobiles",
+                "Diffusion en direct par diffusion d'écran PC",
+                "Qualité de diffusion en direct HD",
+                "Effets de beauté avancés",
+                "Effets de diffusion en direct exclusifs"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "À vie",
+              "description": "Achat unique pour un accès à vie, idéal pour les créateurs à long terme.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Accès à vie",
+              "cta": "Acheter",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Toutes les fonctionnalités mobiles",
+                "Diffusion en direct par diffusion d'écran PC",
+                "Qualité de diffusion en direct HD",
+                "Effets de beauté avancés",
+                "Effets de diffusion en direct exclusifs"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Mensuel",
+                "subtitle": "Activez et profitez d'un mois complet d'accès, un moyen économique d'essayer.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/mois",
+                "cta": "Acheter",
+                "benefits": [
+                  "Toutes les fonctionnalités mobiles",
+                  "Diffusion en direct par diffusion d'écran PC",
+                  "Qualité de diffusion en direct HD",
+                  "Effets de beauté avancés",
+                  "Effets de diffusion en direct exclusifs"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Annuel",
+                "subtitle": "Meilleur rapport qualité-prix avec des économies annuelles.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/an",
+                "cta": "Acheter",
+                "benefits": [
+                  "Toutes les fonctionnalités mobiles",
+                  "Diffusion en direct par diffusion d'écran PC",
+                  "Qualité de diffusion en direct HD",
+                  "Effets de beauté avancés",
+                  "Effets de diffusion en direct exclusifs"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "À vie",
+                "subtitle": "Achat unique pour un accès à vie, idéal pour les créateurs à long terme.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Acheter",
+                "benefits": [
+                  "Toutes les fonctionnalités mobiles",
+                  "Diffusion en direct par diffusion d'écran PC",
+                  "Qualité de diffusion en direct HD",
+                  "Effets de beauté avancés",
+                  "Effets de diffusion en direct exclusifs"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubaï, EAU"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubaï, EAU"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubaï, EAU"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubaï, EAU"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubaï, EAU"
+    }
+  ],
+  "teams": [
+    {
+      "data": {
+        "locale": "fr",
+        "slug": "team",
+        "pageName": "Partenariats commerciaux",
+        "hero": {
+          "eyebrow": "Partenariats commerciaux",
+          "title": "Programme de partenariat mondial VicastCam",
+          "highlight": "Rejoignez-nous",
+          "description": "Un outil professionnel de diffusion en direct par caméra virtuelle, ouvert aux partenaires de distribution mondiaux. Règlement unifié en USD, exclusivité régionale et support marketing complet.",
+          "actions": {
+            "primary": "Postuler maintenant",
+            "secondary": "En savoir plus"
+          }
+        },
+        "advantages": {
+          "eyebrow": "Pourquoi devenir partenaire",
+          "titlePrefix": "Pourquoi",
+          "titleHighlight": "devenir partenaire",
+          "description": "Facile à vendre, faible risque et marges élevées - VicastCam répond à ces trois critères.",
+          "items": [
+            {
+              "title": "Marché massif des créateurs",
+              "description": "Couvrant la diffusion en direct, le commerce électronique, les vidéos courtes et la création de contenu, la demande mondiale des créateurs est en croissance constante, offrant un marché important et des conversions stables.",
+              "image": "/images/team/advantage-creators-bg.png"
+            },
+            {
+              "title": "Zéro stock, livraison en ligne",
+              "description": "Licence logicielle pure avec livraison instantanée des codes d'activation via le cloud. Pas de stock, pas de logistique, faible coût, prenant en charge la livraison par lots et l'activation rapide.",
+              "image": "/images/team/advantage-inventory-bg.png"
+            },
+            {
+              "title": "Avantage concurrentiel complet",
+              "description": "Incrustation d'écran vert, arrière-plans virtuels, diffusion multi-plateforme et effets IA, le tout en un. Des fonctionnalités complètes faciles à démontrer, vendre et renouveler.",
+              "image": "/images/team/advantage-competition-bg.png"
+            }
+          ]
+        },
+        "rules": {
+          "eyebrow": "Règles de partenariat",
+          "titlePrefix": "Éligibilité",
+          "titleHighlight": "et règlement",
+          "description": "Des politiques d'agence transparentes, équitables et prévisibles pour la tranquillité d'esprit de chaque partenaire.",
+          "agentLevelTitle": "Niveaux d'agence",
+          "agentLevels": [
+            {
+              "title": "Agent standard",
+              "description": "Une commande initiale de 30 000 USD accorde des droits de distribution à long terme, des remises par paliers et un support de canal standard.",
+              "icon": "/images/team/rule-standard-agent-icon.png"
+            },
+            {
+              "title": "Agent exclusif régional",
+              "description": "Atteignez les objectifs d'achat trimestriels pour obtenir des droits de distribution exclusifs pour une seule région, sans autres canaux autorisés dans cette zone.",
+              "icon": "/images/team/rule-exclusive-agent-icon.png"
+            }
+          ],
+          "settlementTitle": "Approvisionnement et règlement",
+          "settlementRules": [
+            "Règlement unifié en USD, prenant en charge les paiements via les comptes d'entreprise HSBC à Hong Kong",
+            "Codes d'activation par lots livrés instantanément via le cloud pour une livraison rapide aux clients",
+            "Les partenaires à long terme bénéficient de prix par paliers ; des volumes d'achat plus élevés réduisent les coûts unitaires"
+          ]
+        },
+        "support": {
+          "eyebrow": "Support de canal",
+          "titlePrefix": "Quatre piliers de",
+          "titleHighlight": "support",
+          "description": "Des supports marketing et techniques à l'autorisation de marque et à l'accès anticipé aux nouvelles fonctionnalités, nous fournissons un support complet.",
+          "items": [
+            {
+              "title": "Supports marketing complets",
+              "description": "Accédez instantanément aux bannières de site Web, aux vidéos courtes, aux textes publicitaires Reddit/Facebook et aux supports de revue de produit.",
+              "image": "/images/team/support-marketing-materials-bg.png"
+            },
+            {
+              "title": "Support technique dédié en anglais",
+              "description": "Spécialistes techniques à l'étranger pour le débogage SDK, le service après-vente des fonctionnalités de diffusion en direct et la résolution des problèmes clients.",
+              "image": "/images/team/support-technical-service-bg.png"
+            },
+            {
+              "title": "Autorisation officielle de la marque",
+              "description": "Utilisez la marque VicastCam et les images de produit pour la promotion régionale en ligne et hors ligne.",
+              "image": "/images/team/support-brand-authorization-bg.png"
+            },
+            {
+              "title": "Accès bêta prioritaire",
+              "description": "Les agents bénéficient d'un accès anticipé pour tester et vendre tous les effets IA, les mises à jour de diffusion et les nouvelles fonctionnalités.",
+              "image": "/images/team/support-priority-beta-bg.png"
+            }
+          ]
+        },
+        "plans": {
+          "eyebrow": "Modèles de partenariat",
+          "titlePrefix": "Modèles de partenariat",
+          "titleHighlight": "flexibles",
+          "description": "Que vous soyez un canal, un fournisseur de technologie ou un prestataire de services d'entreprise, nous avons un modèle qui vous convient.",
+          "items": [
+            {
+              "title": "Agence de distribution (recommandé)",
+              "description": "Pour les boutiques de logiciels transfrontalières, les magasins d'équipement de diffusion en direct, les MCN à l'étranger et les équipes de commerce électronique transfrontalier afin de distribuer des licences logicielles à grande échelle.",
+              "image": "/images/team/plan-channel-agent-bg.png"
+            },
+            {
+              "title": "SDK OEM en marque blanche",
+              "description": "Supprimez toute la marque VicastCam, personnalisez le logo, le nom du logiciel et l'interface utilisateur, et vendez sous votre propre marque.",
+              "image": "/images/team/plan-oem-sdk-bg.png"
+            },
+            {
+              "title": "Personnalisation entreprise",
+              "description": "Pour les fournisseurs de services de diffusion en direct, les établissements d'enseignement et les projets de réunion gouvernementaux/entreprises, avec des fonctionnalités personnalisées et des options de déploiement privé.",
+              "image": "/images/team/plan-enterprise-custom-bg.png"
+            }
+          ]
+        },
+        "application": {
+          "eyebrow": "Postuler",
+          "titlePrefix": "Remplissez le formulaire",
+          "titleHighlight": "pour postuler en ligne",
+          "description": "Remplissez les informations ci-dessous et nous vous contacterons sous 1 à 3 jours ouvrables.",
+          "fields": [
+            {
+              "name": "contactName",
+              "label": "Nom du contact",
+              "placeholder": "Entrez votre nom"
+            },
+            {
+              "name": "companyName",
+              "label": "Nom de l'entreprise",
+              "placeholder": "Entrez le nom de votre entreprise"
+            },
+            {
+              "name": "email",
+              "label": "E-mail",
+              "placeholder": "Entrez votre e-mail"
+            },
+            {
+              "name": "phone",
+              "label": "WhatsApp/Téléphone",
+              "placeholder": "+852 XXXXXXXX"
+            },
+            {
+              "name": "businessType",
+              "label": "Type d'entreprise",
+              "placeholder": "Sélectionnez le type d'entreprise",
+              "options": [
+                "Agence de distribution",
+                "SDK OEM en marque blanche",
+                "Personnalisation entreprise",
+                "Autre"
+              ]
+            },
+            {
+              "name": "region",
+              "label": "Région principale",
+              "placeholder": "par exemple, Amérique du Nord/Europe/Asie du Sud-Est"
+            },
+            {
+              "name": "position",
+              "label": "Poste",
+              "placeholder": "Entrez votre poste"
+            },
+            {
+              "name": "budget",
+              "label": "Budget d'achat trimestriel estimé",
+              "placeholder": "Entrez votre budget"
+            },
+            {
+              "name": "country",
+              "label": "Pays",
+              "placeholder": "Sélectionnez le pays/région",
+              "options": [
+                "Chine",
+                "États-Unis",
+                "Indonésie",
+                "Malaisie",
+                "Thaïlande",
+                "Vietnam",
+                "Philippines",
+                "Espagne",
+                "Portugal",
+                "Arabie saoudite",
+                "Japon",
+                "Turquie",
+                "Italie",
+                "Allemagne",
+                "France",
+                "Corée du Sud",
+                "Russie",
+                "Pologne",
+                "Pays-Bas",
+                "Inde",
+                "Pakistan",
+                "Bangladesh",
+                "Iran",
+                "Autre"
+              ]
+            },
+            {
+              "name": "website",
+              "label": "Site Web de l'entreprise",
+              "placeholder": "https://xxxxxxxx.com"
+            }
+          ],
+          "intentLabel": "Intention de partenariat",
+          "intentPlaceholder": "Décrivez brièvement votre modèle commercial, votre marché cible et l'approche de partenariat souhaitée...",
+          "note": "*Champs obligatoires. Vos informations sont confidentielles et utilisées uniquement pour la communication de partenariat.",
+          "submitLabel": "Soumettre les informations de partenariat"
+        },
+        "contact": {
+          "title": "Contact commercial immédiat",
+          "items": [
+            {
+              "label": "E-mail commercial",
+              "value": "business@vicastcam.com"
+            },
+            {
+              "label": "Ligne directe Hong Kong",
+              "value": "+852 46405342"
+            },
+            {
+              "label": "Heures de travail",
+              "value": "GMT+8, du lundi au vendredi, 9h00-18h00"
+            }
+          ],
+          "note": "Pour les besoins commerciaux urgents, contactez-nous directement via WhatsApp ou par e-mail.",
+          "qr": {
+            "label": "Scannez pour nous contacter sur WhatsApp",
+            "alt": "Code QR de contact commercial VicastCam"
+          }
+        },
+        "seo": {
+          "title": "Partenariats commerciaux VicastCam",
+          "description": "Rejoignez le programme de partenariat mondial VicastCam pour l'agence de distribution, le SDK OEM en marque blanche et la personnalisation entreprise.",
+          "image": "/images/team/partner-plan-hero-bg.png",
+          "imageAlt": "Programme de partenariat mondial VicastCam"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "__chunk": [
+    {
+      "id": "android-media-size",
+      "title": "Quais são as dimensões recomendadas para os recursos de transmissão ao vivo?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Dimensões recomendadas para os recursos de transmissão ao vivo:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Para imagens de fundo da transmissão ao vivo, recomendamos 1080 x 1920 píxeis; para vídeos, também recomendamos 1080 x 1920 píxeis.",
+            "Importante: As sobreposições de ecrã inteiro devem usar uma proporção de 9:16 para garantir uma alternância perfeita entre os modos de ecrã inteiro e 9:16, sem desalinhamentos, obtendo um efeito perfeitamente ajustado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-stream-output-mode",
+      "title": "Que modos de saída são suportados para a transmissão?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "A transmissão suporta dois modos de saída: transmissão 9:16 e transmissão de ecrã inteiro. Siga estes passos para selecionar um no seu dispositivo Android:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra o VicastCam, vá para a página de transmissão ao vivo e toque no ícone de menu no lado direito."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-menu.png",
+          "alt": "Entrada de menu no lado direito da página de transmissão ao vivo do Android",
+          "caption": "Passo 1: Toque no ícone de menu no lado direito da página de transmissão ao vivo."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Em Mais definições, encontre 'Proporção' e escolha 'Ecrã inteiro' ou '9:16' conforme necessário."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/android-stream-output-aspect-ratio.png",
+          "alt": "Opções de proporção em Mais definições no Android",
+          "caption": "Passo 2: Em 'Proporção', selecione 'Ecrã inteiro' ou '9:16'."
+        },
+        {
+          "type": "heading",
+          "text": "Explicação dos dois modos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transmissão 9:16: A proporção de saída é fixada em 9:16, pelo que a plataforma de transmissão recebe uma imagem 9:16.",
+            "Transmissão de ecrã inteiro: Transmite todo o ecrã do telemóvel como está, preservando o conteúdo nativo sem cortes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-delete-account",
+      "title": "Como posso eliminar a minha conta?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Inicie sessão na aplicação VicastCam e, em seguida, vá a [Conta - ícone no canto superior direito - Gestão de conta - Eliminar conta - Submeter pedido de eliminação]."
+        },
+        {
+          "type": "heading",
+          "text": "Informações da conta"
+        },
+        {
+          "type": "paragraph",
+          "text": "Após a eliminação da conta, eliminaremos permanentemente o seu e-mail associado, registos de dispositivos e outras informações de identidade, e revogaremos a sua autorização de início de sessão de terceiros através de contas Google e Apple. Após a revogação, deixará de poder utilizar essas contas de terceiros para início de sessão rápido; para voltar a utilizar a aplicação, terá de autorizar e associar novamente."
+        },
+        {
+          "type": "heading",
+          "text": "Conteúdo e recursos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Todos os recursos de transmissão ao vivo, vídeos, imagens e ficheiros de projeto são armazenados apenas no seu dispositivo; a nuvem não retém quaisquer recursos criativos. Após a eliminação, a funcionalidade de gestão de recursos na aplicação deixará de funcionar, por isso, faça uma cópia de segurança dos seus recursos com antecedência através de 'Exportar recursos'.",
+            "Se desinstalar e reinstalar, mudar de dispositivo ou não exportar uma cópia de segurança com antecedência, os seus recursos ficarão permanentemente irrecuperáveis."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Benefícios de subscrição"
+        },
+        {
+          "type": "paragraph",
+          "text": "Após a eliminação da conta, os seus benefícios de subscrição terminam imediatamente. Se tiver uma subscrição ativa no Google Play, a eliminação da conta da aplicação não cancelará automaticamente a subscrição, e poderá continuar a ser cobrado. Aceda a 'Pagamentos e subscrições - Subscrições' no Google Play para cancelar manualmente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se tiver alguma dúvida, contacte a nossa equipa de apoio ao cliente."
+        }
+      ]
+    },
+    {
+      "id": "android-media-permission",
+      "title": "Porque não consigo aceder às fotos e vídeos do meu telemóvel ao adicioná-los?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se o seu álbum de fotos aparecer vazio ao adicionar recursos, pode ativar as permissões de acesso às fotos da seguinte forma:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "iOS: Abra as Definições do telemóvel, desça até encontrar o VicastCam, toque em [Fotos - Todas as fotos] para ativar o acesso.",
+            "Android: Abra as Definições do telemóvel, encontre o VicastCam em [Gestão de permissões] ou [Gestão de aplicações] e, em seguida, toque em [Gestão de permissões - Fotos - Todas as fotos] para ativar o acesso.",
+            "Se o problema persistir, tente desinstalar e reinstalar a aplicação, ou contacte o suporte online através da funcionalidade de feedback."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "android-screen-incomplete",
+      "title": "O que devo fazer se o ecrã não for totalmente exibido ao transmitir a partir do computador?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se o ecrã aparecer incompleto ao transmitir a partir do telemóvel através de uma aplicação de transmissão ao vivo ou outro software, siga estes passos para ajustar:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra o VicastCam, toque no ícone de câmara na parte inferior para entrar na página de transmissão ao vivo e, em seguida, vá a [Menu do lado direito - Mais definições - Proporção - 9:16].",
+            "Após transmitir para a aplicação de transmissão ao vivo, primeiro ajuste o ecrã à tela e, em seguida, arraste verticalmente para preencher o ecrã."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nota: Antes de iniciar a transmissão, ajuste primeiro a proporção e só depois adicione os seus recursos."
+        }
+      ]
+    },
+    {
+      "id": "android-network-failed",
+      "title": "O que devo fazer se um pedido de rede falhar?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Se encontrar falhas em pedidos de rede, tente o seguinte:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abra as Definições do telemóvel, vá a [Gestão de permissões - VicastCam - Dados móveis e Wi-Fi] e ative o acesso à rede.",
+            "Desative o modo de poupança de energia e quaisquer restrições em segundo plano no telemóvel.",
+            "Mude de rede, reinicie o telemóvel, ative o modo de avião ou atualize a aplicação para a versão mais recente.",
+            "Se o problema persistir, tire uma captura de ecrã do erro e contacte o apoio ao cliente para obter assistência."
+          ]
+        }
+      ]
+    }
+  ]
+}

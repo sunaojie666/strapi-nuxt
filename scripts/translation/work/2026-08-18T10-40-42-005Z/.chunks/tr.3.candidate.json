@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "Bilgisayar Kurulumu",
+      "count": "7 ders",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "VicastCam'e Başlarken",
+          "description": "Arayüz ve temel özelliklere genel bir bakış.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "Kablolu Bağlantı – iPhone",
+          "description": "iPhone'unuzu kablolu bağlantıyla VicastCam'e bağlayın.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "Kablosuz Bağlantı – iPhone",
+          "description": "iPhone'unuzu Wi-Fi üzerinden VicastCam'e bağlayın.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "Kablolu Bağlantı – Android",
+          "description": "Android cihazınızı kablolu bağlantıyla VicastCam'e bağlayın.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "Kablosuz Bağlantı – Android",
+          "description": "Android cihazınızı Wi-Fi üzerinden VicastCam'e bağlayın.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "Yerel Medya Ekleme ve Kullanma",
+          "description": "Projelerinizde yerel medya dosyalarını içe aktarın ve kullanın.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "Bağlantı Sonrası Yapılacaklar",
+          "description": "Cihazlarınız bağlandıktan sonra yayınınızı başlatın.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "complete": true,
+  "slot": "4",
+  "results": [
+    {
+      "locale": "th",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 13,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\th.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "pt",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 7,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\pt.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "it",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\it.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ru",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 7,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\ru.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "ur",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 7,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-37-11-129Z\\ur.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    }
+  ]
+}

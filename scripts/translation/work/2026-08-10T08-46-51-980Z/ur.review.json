@@ -1,0 +1,290 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.teams[0].data.hero.description",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "Replace 'مکمل فروغ معاونت' with 'مکمل فروغ معاونت' is acceptable, but 'فروغ' is less common; use 'مکمل مارکیٹنگ سپورٹ' for naturalness."
+    },
+    {
+      "path": "$.teams[0].data.advantages.items[0].description",
+      "category": "meaning_change",
+      "severity": "major",
+      "instruction": "The source says 'stable conversions', but the translation 'مستحکم تبدیلی' is ambiguous. Change to 'مستحکم تبدیلیاں' (plural) or 'مستقل تبدیلیاں' to convey stable conversions."
+    },
+    {
+      "path": "$.teams[0].data.rules.agentLevels[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'ابتدائی آرڈر $30,000 USD' should be 'ابتدائی آرڈر $30,000 USD کا' for grammatical correctness."
+    },
+    {
+      "path": "$.teams[0].data.support.description",
+      "category": "grammar",
+      "severity": "major",
+      "instruction": "The phrase 'مکمل فروغ معاونت' is awkward; change to 'مکمل مارکیٹنگ سپورٹ' for natural Urdu."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[4].options[0]",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "The option 'چینل ایجنسی' is fine, but ensure consistency with the glossary term 'Channel Agency' as 'چینل ایجنسی' is acceptable."
+    },
+    {
+      "path": "$.teams[0].data.application.fields[8].options[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The country name 'چین' is correct, but for consistency with other country names, consider 'چین' is fine."
+    },
+    {
+      "path": "$.teams[0].data.contact.items[2].value",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The time format '9:00-18:00' should be '9:00 سے 18:00' for natural Urdu."
+    }
+  ],
+  "revisedContent": {
+    "teams": [
+      {
+        "data": {
+          "locale": "ur",
+          "slug": "team",
+          "pageName": "کاروباری شراکتیں",
+          "hero": {
+            "eyebrow": "کاروباری شراکتیں",
+            "title": "VicastCam گلوبل ایجنسی پارٹنرشپ پروگرام",
+            "highlight": "ہمارے ساتھ شامل ہوں",
+            "description": "ایک پیشہ ور ورچوئل کیمرہ لائیو اسٹریمنگ ٹول، عالمی چینل پارٹنرز کے لیے کھلا۔ یکساں USD تصفیہ، علاقائی خصوصیت، اور مکمل مارکیٹنگ سپورٹ۔",
+            "actions": {
+              "primary": "ابھی درخواست دیں",
+              "secondary": "مزید جانیں"
+            }
+          },
+          "advantages": {
+            "eyebrow": "شراکت کیوں",
+            "titlePrefix": "ہمارے ساتھ",
+            "titleHighlight": "شراکت کیوں کریں",
+            "description": "فروخت میں آسان، کم خطرہ، اور زیادہ منافع — VicastCam تینوں فراہم کرتا ہے۔",
+            "items": [
+              {
+                "title": "بڑی کری ایٹر مارکیٹ",
+                "description": "لائیو اسٹریمنگ، ای-کامرس، شارٹ ویڈیو، اور مواد تخلیق کو کور کرتے ہوئے، عالمی کری ایٹرز کی مانگ مسلسل بڑھ رہی ہے، جو بڑی مارکیٹ اور مستحکم تبدیلیاں فراہم کرتی ہے۔",
+                "image": "/images/team/advantage-creators-bg.png"
+              },
+              {
+                "title": "صفر انوینٹری، آن لائن ڈیلیوری",
+                "description": "خالص سافٹ ویئر لائسنسنگ جس میں ایکٹیویشن کوڈز کی فوری کلاؤڈ ڈیلیوری شامل ہے۔ کوئی اسٹاک نہیں، کوئی لاجسٹکس نہیں، کم لاگت، بیچ ڈیلیوری اور فوری ایکٹیویشن کی حمایت۔",
+                "image": "/images/team/advantage-inventory-bg.png"
+              },
+              {
+                "title": "مکمل خصوصیات کا مسابقتی فائدہ",
+                "description": "گرین اسکرین میٹنگ، ورچوئل بیک گراؤنڈز، ملٹی پلیٹ فارم اسٹریمنگ، اور AI اثرات سب ایک میں۔ مکمل خصوصیات جو ظاہر کرنے، فروخت کرنے اور تجدید کرنے میں آسان ہیں۔",
+                "image": "/images/team/advantage-competition-bg.png"
+              }
+            ]
+          },
+          "rules": {
+            "eyebrow": "شراکت کے قواعد",
+            "titlePrefix": "اہلیت",
+            "titleHighlight": "اور تصفیہ",
+            "description": "ہر پارٹنر کے ذہنی سکون کے لیے شفاف، منصفانہ اور قابلِ پیشن گوئی ایجنسی پالیسیاں۔",
+            "agentLevelTitle": "ایجنٹ کی سطحیں",
+            "agentLevels": [
+              {
+                "title": "معیاری ایجنٹ",
+                "description": "ابتدائی آرڈر $30,000 USD کا طویل مدتی تقسیم کے حقوق، درجہ بند رعایت، اور معیاری چینل سپورٹ فراہم کرتا ہے۔",
+                "icon": "/images/team/rule-standard-agent-icon.png"
+              },
+              {
+                "title": "علاقائی خصوصی ایجنٹ",
+                "description": "سہ ماہی خریداری کے اہداف پورے کریں تاکہ ایک ہی علاقے کے لیے خصوصی تقسیم کے حقوق حاصل ہوں، اس علاقے میں کوئی دوسرا چینل مجاز نہ ہو۔",
+                "icon": "/images/team/rule-exclusive-agent-icon.png"
+              }
+            ],
+            "settlementTitle": "فراہمی اور تصفیہ",
+            "settlementRules": [
+              "یکساں USD تصفیہ، HSBC ہانگ کانگ کارپوریٹ اکاؤنٹس کے ذریعے ادائیگی کی حمایت",
+              "بیچ ایکٹیویشن کوڈز کلاؤڈ کے ذریعے فوری فراہم کیے جاتے ہیں تاکہ صارفین تک تیز ترسیل ہو",
+              "طویل مدتی پارٹنرز درجہ بند قیمتوں سے مستفید ہوتے ہیں؛ زیادہ خریداری کے حجم سے فی یونٹ لاگت کم ہوتی ہے"
+            ]
+          },
+          "support": {
+            "eyebrow": "چینل سپورٹ",
+            "titlePrefix": "سپورٹ کے",
+            "titleHighlight": "چار ستون",
+            "description": "مواد اور تکنیکی معاونت سے لے کر برانڈ اجازت اور نئی خصوصیات تک ابتدائی رسائی تک، ہم مکمل مارکیٹنگ سپورٹ فراہم کرتے ہیں۔",
+            "items": [
+              {
+                "title": "مکمل مارکیٹنگ مواد",
+                "description": "ویب سائٹ بینرز، شارٹ ویڈیوز، Reddit/Facebook اشتہاری کاپی، اور پروڈکٹ ریویو مواد تک فوری رسائی۔",
+                "image": "/images/team/support-marketing-materials-bg.png"
+              },
+              {
+                "title": "سرشار انگریزی تکنیکی معاونت",
+                "description": "SDK ڈیبگنگ، لائیو اسٹریمنگ فیچر کی بعد از فروخت، اور صارفین کے مسائل کے حل کے لیے بیرون ملک تکنیکی ماہرین۔",
+                "image": "/images/team/support-technical-service-bg.png"
+              },
+              {
+                "title": "سرکاری برانڈ اجازت",
+                "description": "علاقائی آن لائن اور آف لائن پروموشن کے لیے VicastCam ٹریڈ مارک اور پروڈکٹ امیجز استعمال کریں۔",
+                "image": "/images/team/support-brand-authorization-bg.png"
+              },
+              {
+                "title": "ترجیحی بیٹا رسائی",
+                "description": "ایجنٹس کو تمام AI اثرات، اسٹریمنگ اپڈیٹس، اور نئی خصوصیات کی جانچ اور فروخت کے لیے ابتدائی رسائی ملتی ہے۔",
+                "image": "/images/team/support-priority-beta-bg.png"
+              }
+            ]
+          },
+          "plans": {
+            "eyebrow": "شراکت کے ماڈل",
+            "titlePrefix": "لچکدار",
+            "titleHighlight": "شراکت کے ماڈل",
+            "description": "چاہے آپ چینل، ٹیکنالوجی وینڈر، یا انٹرپرائز سروس فراہم کنندہ ہوں، ہمارے پاس آپ کے لیے موزوں ماڈل موجود ہے۔",
+            "items": [
+              {
+                "title": "چینل ایجنسی (تجویز کردہ)",
+                "description": "بین الاقوامی سافٹ ویئر اسٹورز، لائیو اسٹریمنگ آلات کی دکانوں، بیرون ملک MCNs، اور بین الاقوامی ای-کامرس ٹیموں کے لیے بڑے پیمانے پر سافٹ ویئر لائسنس تقسیم کرنے کے لیے۔",
+                "image": "/images/team/plan-channel-agent-bg.png"
+              },
+              {
+                "title": "OEM وائٹ-لیبل SDK",
+                "description": "تمام VicastCam برانڈنگ ہٹائیں، لوگو، سافٹ ویئر کا نام، اور UI حسب مرضی بنائیں، اور اپنے برانڈ کے تحت فروخت کریں۔",
+                "image": "/images/team/plan-oem-sdk-bg.png"
+              },
+              {
+                "title": "انٹرپرائز حسب ضرورت",
+                "description": "لائیو اسٹریمنگ سروس فراہم کنندگان، تعلیمی اداروں، اور سرکاری/کارپوریٹ میٹنگ پروجیکٹس کے لیے، حسب ضرورت خصوصیات اور نجی تعیناتی کے اختیارات کے ساتھ۔",
+                "image": "/images/team/plan-enterprise-custom-bg.png"
+              }
+            ]
+          },
+          "application": {
+            "eyebrow": "درخواست دیں",
+            "titlePrefix": "فارم پُر کریں",
+            "titleHighlight": "آن لائن درخواست دیں",
+            "description": "نیچے دی گئی معلومات پُر کریں، ہم 1-3 کاروباری دنوں میں آپ سے رابطہ کریں گے۔",
+            "fields": [
+              {
+                "name": "contactName",
+                "label": "رابطہ کا نام",
+                "placeholder": "اپنا نام درج کریں"
+              },
+              {
+                "name": "companyName",
+                "label": "کمپنی کا نام",
+                "placeholder": "اپنی کمپنی کا نام درج کریں"
+              },
+              {
+                "name": "email",
+                "label": "ای میل",
+                "placeholder": "اپنی ای میل درج کریں"
+              },
+              {
+                "name": "phone",
+                "label": "واٹس ایپ/فون",
+                "placeholder": "+852 XXXXXXXX"
+              },
+              {
+                "name": "businessType",
+                "label": "کاروبار کی قسم",
+                "placeholder": "کاروبار کی قسم منتخب کریں",
+                "options": [
+                  "چینل ایجنسی",
+                  "OEM وائٹ-لیبل SDK",
+                  "انٹرپرائز حسب ضرورت",
+                  "دیگر"
+                ]
+              },
+              {
+                "name": "region",
+                "label": "بنیادی علاقہ",
+                "placeholder": "مثلاً، شمالی امریکہ/یورپ/جنوب مشرقی ایشیا"
+              },
+              {
+                "name": "position",
+                "label": "عہدہ",
+                "placeholder": "اپنا عہدہ درج کریں"
+              },
+              {
+                "name": "budget",
+                "label": "متوقع سہ ماہی خریداری بجٹ",
+                "placeholder": "اپنا بجٹ درج کریں"
+              },
+              {
+                "name": "country",
+                "label": "ملک",
+                "placeholder": "ملک/علاقہ منتخب کریں",
+                "options": [
+                  "چین",
+                  "ریاستہائے متحدہ",
+                  "انڈونیشیا",
+                  "ملائیشیا",
+                  "تھائی لینڈ",
+                  "ویتنام",
+                  "فلپائن",
+                  "اسپین",
+                  "پرتگال",
+                  "سعودی عرب",
+                  "جاپان",
+                  "ترکی",
+                  "اٹلی",
+                  "جرمنی",
+                  "فرانس",
+                  "جنوبی کوریا",
+                  "روس",
+                  "پولینڈ",
+                  "نیدرلینڈز",
+                  "بھارت",
+                  "پاکستان",
+                  "بنگلہ دیش",
+                  "ایران",
+                  "دیگر"
+                ]
+              },
+              {
+                "name": "website",
+                "label": "کمپنی کی ویب سائٹ",
+                "placeholder": "https://xxxxxxxx.com"
+              }
+            ],
+            "intentLabel": "شراکت کا ارادہ",
+            "intentPlaceholder": "اپنے کاروباری ماڈل، ہدف مارکیٹ، اور مطلوبہ شراکت کے طریقہ کار کی مختصر وضاحت کریں...",
+            "note": "*لازمی فیلڈز۔ آپ کی معلومات خفیہ رکھی جاتی ہیں اور صرف شراکت کے مواصلت کے لیے استعمال ہوتی ہیں۔",
+            "submitLabel": "شراکت کی معلومات جمع کریں"
+          },
+          "contact": {
+            "title": "فوری کاروباری رابطہ",
+            "items": [
+              {
+                "label": "کاروباری ای میل",
+                "value": "business@vicastcam.com"
+              },
+              {
+                "label": "ہانگ کانگ ہاٹ لائن",
+                "value": "+852 46405342"
+              },
+              {
+                "label": "کام کے اوقات",
+                "value": "GMT+8، پیر سے جمعہ، 9:00 سے 18:00"
+              }
+            ],
+            "note": "فوری کاروباری ضروریات کے لیے، براہِ راست واٹس ایپ یا ای میل کے ذریعے ہم سے رابطہ کریں۔",
+            "qr": {
+              "label": "واٹس ایپ پر ہم سے رابطہ کرنے کے لیے اسکین کریں",
+              "alt": "VicastCam کاروباری رابطہ QR کوڈ"
+            }
+          },
+          "seo": {
+            "title": "VicastCam کاروباری شراکتیں",
+            "description": "چینل ایجنسی، OEM وائٹ-لیبل SDK، اور انٹرپرائز حسب ضرورت سپورٹ کے لیے VicastCam گلوبل پارٹنر پروگرام میں شامل ہوں۔",
+            "image": "/images/team/partner-plan-hero-bg.png",
+            "imageAlt": "VicastCam گلوبل پارٹنر پروگرام"
+          }
+        }
+      }
+    ]
+  }
+}

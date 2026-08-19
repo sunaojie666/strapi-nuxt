@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "hi",
+        "loginTitle1": "अपना वर्चुअल बैकग्राउंड एक क्लिक में बदलें",
+        "loginTitle2": "ज़्यादा प्रभाव के साथ स्ट्रीम करें",
+        "loginDes1": "AI द्वारा संचालित एक प्रोफेशनल लाइव स्ट्रीमिंग टूल",
+        "loginDes2": "वर्चुअल बैकग्राउंड, लाइव एन्हांसमेंट और मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग अब आसान हो गई",
+        "featureTitle1": "AI मैटिंग",
+        "featureSubTitle1": "रीयल-टाइम बैकग्राउंड बदलना",
+        "featureTitle2": "मल्टी-प्लेटफ़ॉर्म स्ट्रीमिंग",
+        "featureSubTitle2": "एक टैप से लाइव जाएं",
+        "featureTitle3": "वर्चुअल कैमरा",
+        "featureSubTitle3": "अपने फ़ोन को वेबकैम में बदलें",
+        "loginBox": {
+          "loginPageTitle": "लॉग इन / साइन अप",
+          "codeLoginTab": "कोड से लॉग इन",
+          "pwdLoginTab": "पासवर्ड से लॉग इन",
+          "qrLoginTab": "QR कोड से लॉग इन",
+          "emailInputPlaceholder": "लॉग इन करने के लिए अपना ईमेल दर्ज करें",
+          "pwdInputPlaceholder": "अपना पासवर्ड दर्ज करें",
+          "verifyCodePlaceholder": "वेरिफिकेशन कोड दर्ज करें",
+          "getVerifyCodeText": "कोड प्राप्त करें",
+          "loginBtnText": "लॉग इन",
+          "qrLoginTip": "लॉग इन करने के लिए VicastCam ऐप से स्कैन करें",
+          "qrWaitingTip": "स्कैन की पुष्टि की प्रतीक्षा है",
+          "agreeProtocolText": "मैंने प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ लिया है और उनसे सहमत हूँ",
+          "userProtocolText": "यूज़र एग्रीमेंट",
+          "privacyPolicyText": "प्राइवेसी पॉलिसी",
+          "agreeProtocolPrefix": "मैंने पढ़ लिया है और सहमत हूँ"
+        },
+        "toastBox": {
+          "closeToastLabel": "सूचना बंद करें",
+          "requestLoading": "लोड हो रहा है",
+          "requestSuccess": "अनुरोध सफल रहा",
+          "requestFail": "अनुरोध विफल रहा",
+          "passwordLoginNotReady": "पासवर्ड लॉगिन अभी उपलब्ध नहीं है",
+          "passwordRequired": "कृपया अपना पासवर्ड दर्ज करें",
+          "emailRequired": "लॉग इन करने के लिए कृपया अपना ईमेल दर्ज करें",
+          "verifyCodeRequired": "कृपया वेरिफिकेशन कोड दर्ज करें",
+          "agreeProtocolRequired": "कृपया पहले प्राइवेसी पॉलिसी और यूज़र एग्रीमेंट पढ़ें और सहमत हों",
+          "qrcodeExpired": "QR कोड समाप्त हो गया है। कृपया नया कोड प्राप्त करें।"
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "hi",
+        "hero_section": {
+          "tag": "AI-संचालित लाइव स्ट्रीमिंग टूल",
+          "title_main": "अपने फ़ोन से ग्रीन स्क्रीन इफेक्ट और स्क्रीन कास्टिंग करें",
+          "title_highlight": "दुनिया भर में लाइव स्ट्रीमिंग को सशक्त बनाना",
+          "description": "VicastCam उन्नत AI मैटिंग का उपयोग करता है, जिससे आप अपनी स्ट्रीम के दौरान कभी भी वर्चुअल बैकग्राउंड बदल सकते हैं, और अपने लाइव प्रसारण में इमर्सिव इफेक्ट और प्रोफेशनल लुक जोड़ सकते हैं।",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "डाउनलोड करें"
+            },
+            {
+              "platform": "Google Play",
+              "text": "डाउनलोड करें"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam क्रिएटर्स को वर्चुअल बैकग्राउंड, लाइव एन्हांसमेंट और क्रॉस-प्लेटफ़ॉर्म टूल प्रदान करता है।"
+          },
+          "columns": [
+            {
+              "title": "प्रोडक्ट",
+              "links": [
+                {
+                  "text": "फीचर्स"
+                },
+                {
+                  "text": "मूल्य निर्धारण"
+                },
+                {
+                  "text": "डाउनलोड"
+                }
+              ]
+            },
+            {
+              "title": "डेवलपर्स",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API दस्तावेज़"
+                }
+              ]
+            },
+            {
+              "title": "कंपनी",
+              "links": [
+                {
+                  "text": "हमारे बारे में"
+                },
+                {
+                  "text": "प्राइवेसी पॉलिसी"
+                },
+                {
+                  "text": "यूज़र एग्रीमेंट"
+                },
+                {
+                  "text": "मेम्बरशिप एग्रीमेंट"
+                }
+              ]
+            },
+            {
+              "title": "सहायता",
+              "links": [
+                {
+                  "text": "वीडियो ट्यूटोरियल"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "संपर्क करें"
+                }
+              ]
+            },
+            {
+              "title": "पार्टनरशिप",
+              "links": [
+                {
+                  "text": "रिसेलर बनें"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "व्यावसायिक पूछताछ"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "फीचर्स",
+      "nav_pricing": "मूल्य निर्धारण",
+      "nav_faq": "FAQ",
+      "nav_auth": "लॉग इन / साइन अप",
+      "nav_team": "पार्टनरशिप"
+    }
+  ]
+}

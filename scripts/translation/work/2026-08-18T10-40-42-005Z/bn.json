@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "data": {
+        "hero": {
+          "eyebrow": "টিউটোরিয়াল সেন্টার",
+          "titleMain": "VicastCam শেখার যাত্রা",
+          "titleHighlight": "শুরু করুন",
+          "descriptionMain": "সফটওয়্যারের প্রতিটি ফিচার আয়ত্ত করুন",
+          "descriptionHighlight": "দ্রুত শুরু করুন"
+        },
+        "player": {
+          "sectionAriaLabel": "টিউটোরিয়াল তালিকা",
+          "catalogAriaLabel": "টিউটোরিয়াল ক্যাটালগ",
+          "previousLabel": "আগের",
+          "nextLabel": "পরের",
+          "firstLessonText": "আপনি প্রথম পাঠে আছেন",
+          "lastLessonText": "আপনি শেষ পাঠে আছেন",
+          "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+        },
+        "groups": [
+          {
+            "key": "beginner",
+            "title": "শুরু করা",
+            "count": "১১টি পাঠ",
+            "icon": "lucide:folder-open",
+            "lessons": [
+              {
+                "id": "beginner-1",
+                "index": 1,
+                "title": "আপনার প্রথম ভার্চুয়াল স্টুডিও তৈরি করুন",
+                "description": "স্ক্র্যাচ থেকে আপনার প্রথম ভার্চুয়াল স্টুডিও সেট আপ এবং কনফিগার করুন।",
+                "time": "01:59",
+                "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+              },
+              {
+                "id": "beginner-2",
+                "index": 2,
+                "title": "ইমেজ টুল বোঝা",
+                "description": "ইমেজ টুলের মৌলিক বিষয় এবং তাদের সাধারণ ব্যবহারের ক্ষেত্রগুলি অন্বেষণ করুন।",
+                "time": "02:33",
+                "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+              },
+              {
+                "id": "beginner-3",
+                "index": 3,
+                "title": "লেয়ার নিয়ে কাজ করা",
+                "description": "লেয়ার প্যানেল এবং কার্যকরভাবে লেয়ার পরিচালনার পদ্ধতি জানুন।",
+                "time": "04:02",
+                "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+              },
+              {
+                "id": "beginner-4",
+                "index": 4,
+                "title": "ব্যাকগ্রাউন্ড লেয়ার ব্যবহার",
+                "description": "আপনার দৃশ্যের জন্য ব্যাকগ্রাউন্ড লেয়ার যোগ এবং সামঞ্জস্য করার উপায় শিখুন।",
+                "time": "05:17",
+                "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+              },
+              {
+                "id": "beginner-5",
+                "index": 5,
+                "title": "পোর্ট্রেট লেয়ার ব্যবহার",
+                "description": "আপনার লাইভ প্রোডাকশন উন্নত করতে পোর্ট্রেট লেয়ার যোগ করুন।",
+                "time": "06:04",
+                "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+              },
+              {
+                "id": "beginner-6",
+                "index": 6,
+                "title": "ইমেজ লেয়ার ব্যবহার",
+                "description": "আপনার স্টুডিও সেটআপে ইমেজ লেয়ার যোগ এবং সম্পাদনা করুন।",
+                "time": "03:11",
+                "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+              },
+              {
+                "id": "beginner-7",
+                "index": 7,
+                "title": "ভিডিও লেয়ার ব্যবহার",
+                "description": "ভিডিও ক্লিপ যোগ করুন এবং প্লেব্যাক সেটিংস নিয়ন্ত্রণ করুন।",
+                "time": "04:16",
+                "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+              },
+              {
+                "id": "beginner-8",
+                "index": 8,
+                "title": "ইফেক্ট লেয়ার ব্যবহার",
+                "description": "ইফেক্ট লেয়ারের মাধ্যমে আপনার লাইভ স্ট্রিমে ভিজ্যুয়াল ইফেক্ট প্রয়োগ করুন।",
+                "time": "05:37",
+                "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+              },
+              {
+                "id": "beginner-9",
+                "index": 9,
+                "title": "ক্যাপশন লেয়ার ব্যবহার",
+                "description": "ক্যাপশন তৈরি করুন এবং তাদের চেহারা কাস্টমাইজ করুন।",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+              },
+              {
+                "id": "beginner-10",
+                "index": 10,
+                "title": "ভার্চুয়াল অ্যাভাটার ব্যবহার",
+                "description": "ভার্চুয়াল অ্যাভাটার ইন্টিগ্রেশনের মাধ্যমে আপনার স্ট্রিমে প্রাণ আনুন।",
+                "time": "02:00",
+                "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+              },
+              {
+                "id": "beginner-11",
+                "index": 11,
+                "title": "সিন ব্যবহার",
+                "description": "স্ট্রিম চলাকালীন বিভিন্ন সিন লেআউটের মধ্যে নির্বিঘ্নে স্যুইচ করুন।",
+                "time": "02:30",
+                "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+              }
+            ]
+          },
+          {
+            "key": "advanced",
+            "title": "উন্নত টিউটোরিয়াল",
+            "count": "৬টি পাঠ",
+            "icon": "lucide:folder",
+            "lessons": [
+              {
+                "id": "advanced-1",
+                "index": 1,
+                "title": "ক্যামেরা মুভমেন্ট লেয়ার ব্যবহার",
+                "description": "ক্যামেরা মুভমেন্ট লেয়ারের মাধ্যমে ডায়নামিক শট তৈরি করুন।",
+                "time": "06:51",
+                "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+              },
+              {
+                "id": "advanced-2",
+                "index": 2,
+                "title": "পাথ অ্যানিমেশন ব্যবহার",
+                "description": "ট্র্যাজেক্টরি ফিচারের মাধ্যমে এলিমেন্টের গতিপথ নিয়ন্ত্রণ করুন।",
+                "time": "08:27",
+                "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+              },
+              {
+                "id": "advanced-3",
+                "index": 3,
+                "title": "মাল্টি-ক্যামেরা লেয়ার ব্যবহার",
+                "description": "দ্রুত অ্যাঙ্গেল পরিবর্তনের জন্য মাল্টি-ক্যামেরা লেয়ার সেট আপ করুন।",
+                "time": "06:25",
+                "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+              },
+              {
+                "id": "advanced-4",
+                "index": 4,
+                "title": "কন্ট্রোলার ব্যবহার",
+                "description": "একটি একক কন্ট্রোল প্যানেল থেকে আপনার সম্পূর্ণ সম্প্রচার পরিচালনা করুন।",
+                "time": "04:39",
+                "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+              },
+              {
+                "id": "advanced-5",
+                "index": 5,
+                "title": "অডিও সেটআপ এবং মিক্সিং",
+                "description": "অডিও ইনপুট, আউটপুট এবং মিক্স সেটিংস কনফিগার করুন।",
+                "time": "03:56",
+                "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+              },
+              {
+                "id": "advanced-6",
+                "index": 6,
+                "title": "ব্যাকআপ এবং রিস্টোর",
+                "description": "আপনার স্টুডিও কনফিগারেশন ব্যাকআপ করুন এবং প্রয়োজন হলে পুনরুদ্ধার করুন।",
+                "time": "04:31",
+                "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+              }
+            ]
+          },
+          {
+            "key": "computer",
+            "title": "কম্পিউটার সেটআপ",
+            "count": "৭টি পাঠ",
+            "icon": "lucide:monitor",
+            "lessons": [
+              {
+                "id": "computer-1",
+                "index": 1,
+                "title": "VicastCam দিয়ে শুরু করুন",
+                "description": "ইন্টারফেস এবং মূল ফিচারগুলোর একটি উচ্চ-স্তরের ওভারভিউ।",
+                "time": "1:46",
+                "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+              },
+              {
+                "id": "computer-2",
+                "index": 2,
+                "title": "ওয়্যার্ড সংযোগ – iPhone",
+                "description": "ওয়্যার্ড সংযোগ ব্যবহার করে আপনার iPhone-কে VicastCam-এর সাথে যুক্ত করুন।",
+                "time": "0:41",
+                "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+              },
+              {
+                "id": "computer-3",
+                "index": 3,
+                "title": "ওয়্যারলেস সংযোগ – iPhone",
+                "description": "Wi-Fi-এর মাধ্যমে আপনার iPhone-কে VicastCam-এর সাথে যুক্ত করুন।",
+                "time": "0:29",
+                "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+              },
+              {
+                "id": "computer-4",
+                "index": 4,
+                "title": "ওয়্যার্ড সংযোগ – Android",
+                "description": "ওয়্যার্ড সংযোগ ব্যবহার করে আপনার Android ডিভাইসকে VicastCam-এর সাথে যুক্ত করুন।",
+                "time": "0:45",
+                "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+              },
+              {
+                "id": "computer-5",
+                "index": 5,
+                "title": "ওয়্যারলেস সংযোগ – Android",
+                "description": "Wi-Fi-এর মাধ্যমে আপনার Android ডিভাইসকে VicastCam-এর সাথে যুক্ত করুন।",
+                "time": "1:01",
+                "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+              },
+              {
+                "id": "computer-6",
+                "index": 6,
+                "title": "লোকাল মিডিয়া যোগ করা এবং ব্যবহার করা",
+                "description": "আপনার প্রজেক্টে লোকাল মিডিয়া ফাইল ইমপোর্ট এবং ব্যবহার করুন।",
+                "time": "1:18",
+                "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+              },
+              {
+                "id": "computer-7",
+                "index": 7,
+                "title": "সংযোগের পরে কী করবেন",
+                "description": "ডিভাইস সংযুক্ত হয়ে গেলে আপনার স্ট্রিম চালু করুন।",
+                "time": "1:36",
+                "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.pricings[0].data.pricingBox.sectionTag",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider using 'قیمت' or 'قیمتوں' for 'Pricing' to be more natural in Urdu; 'قیمتیں' is acceptable but 'قیمت' is more common as a section label."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.titleMain",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "The phrase 'منصوبہ منتخب کریں' is correct but could be more natural as 'منصوبہ چنیں' or 'منصوبہ منتخب کیجیے' for a respectful tone. However, current is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.titleHighlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'جو آپ کے لیے موزوں ہو' is correct, but 'جو آپ کے مطابق ہو' might be more natural. Current is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'مفت آزمائیں، یا کوئی اور منصوبہ منتخب کریں' is acceptable, but 'مفت آزمائیں، یا کوئی اور منصوبہ چنیں' might be more concise. Current is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.freePlanMessage",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'مفت صارفین کو خریداری کی ضرورت نہیں' is correct, but 'مفت صارفین کو خریدنے کی ضرورت نہیں' is more natural. Consider revising."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'مفت' is correct for 'Free', but in context of a plan name, 'مفت' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'ڈاؤن لوڈ اور رجسٹریشن مفت ہے' - 'ہے' should be 'ہیں' because the subject is plural (download and registration). Correct to 'ڈاؤن لوڈ اور رجسٹریشن مفت ہیں'."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[0]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'ایک منظر کے ساتھ تخلیق کریں' is correct, but 'ایک منظر کے ساتھ بنائیں' might be more natural. Current is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[1]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'آزادانہ طور پر چار تہوں تک ترتیب دیں' is correct, but 'آزادانہ طور پر چار تہوں تک ترتیب دیں' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[2]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'مختلف لائیو پس منظر کے مواد تک رسائی' is correct, but 'مختلف لائیو پس منظر کے مواد تک رسائی حاصل کریں' might be more complete. Current is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[3]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'PC اسکرین کاسٹنگ کے لیے بنیادی معیار' is correct, but 'PC اسکرین کاسٹنگ کے لیے بنیادی کوالٹی' might be more consistent with other uses of 'کوالٹی'. Consider revising."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[0].benefits[4]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'بلٹ ان قدرتی خوبصورتی اثرات' is correct, but 'بلٹ ان قدرتی خوبصورتی اثرات' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'ایک مکمل مہینے کی رسائی کو فعال کریں اور لطف اٹھائیں، آزمائش کا کم لاگت طریقہ۔' - The comma usage might be better with a full stop or semicolon. Also, 'کم لاگت طریقہ' could be 'کم قیمت طریقہ' for clarity. Consider revising."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[1]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'PC اسکرین کاسٹنگ لائیو سٹریمنگ' - This is a literal translation. In Urdu, it might be better as 'PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ' or 'PC اسکرین کاسٹنگ لائیو سٹریمنگ' is acceptable but could be clearer."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[2]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'HD لائیو سٹریمنگ کوالٹی' is correct, but 'HD لائیو سٹریمنگ کوالٹی' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[3]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'اعلیٰ خوبصورتی اثرات' is correct, but 'اعلیٰ خوبصورتی اثرات' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[1].benefits[4]",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'خصوصی لائیو سٹریمنگ اثرات' is correct, but 'خصوصی لائیو سٹریمنگ اثرات' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'سالانہ بچت کے ساتھ بہترین قیمت۔' is correct, but 'سالانہ بچت کے ساتھ بہترین قیمت' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[2].badgeText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'سب سے مقبول' is correct for 'Most Popular', but 'مقبول ترین' might be more natural. Consider revising."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "'زندگی بھر کی رسائی کے لیے ایک بار خریداری، طویل مدتی تخلیق کاروں کے لیے مثالی۔' - The comma usage might be better with a full stop. Also, 'طویل مدتی تخلیق کاروں' could be 'طویل مدتی تخلیق کاروں' is fine."
+    },
+    {
+      "path": "$.pricings[0].data.pricingBox.plans[3].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'زندگی بھر' is correct for 'Lifetime', but 'لائف ٹائم' might be more common in Pakistani Urdu. However, 'زندگی بھر' is acceptable."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[0].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as monthly plan description, consider revising for clarity."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[1].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as yearly plan description, consider revising for clarity."
+    },
+    {
+      "path": "$.pricings[0].data.profileBox.membership.plans[2].subtitle",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Same as lifetime plan description, consider revising for clarity."
+    },
+    {
+      "path": "$.streamers[0].name",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'مارکس جانسن' is a transliteration of 'Marcus Johnson'. It is acceptable, but ensure consistency with other names."
+    },
+    {
+      "path": "$.streamers[0].location",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'دبئی، متحدہ عرب امارات' is correct for 'Dubai, UAE', but 'دبئی، یو اے ای' might be more common. However, current is fine."
+    }
+  ],
+  "revisedContent": {
+    "pricings": [
+      {
+        "data": {
+          "pricingBox": {
+            "sectionTag": "قیمتیں",
+            "titleMain": "منصوبہ منتخب کریں",
+            "titleHighlight": "جو آپ کے لیے موزوں ہو",
+            "description": "مفت آزمائیں، یا کوئی اور منصوبہ منتخب کریں",
+            "priceAltSuffix": "قیمت",
+            "freePlanMessage": "مفت صارفین کو خریدنے کی ضرورت نہیں",
+            "plans": [
+              {
+                "id": "free-plan",
+                "type": "free",
+                "name": "مفت",
+                "description": "ڈاؤن لوڈ اور رجسٹریشن مفت ہیں، بنیادی خصوصیات بغیر کسی قیمت کے دستیاب ہیں۔",
+                "price": "$0",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/ماہ",
+                "priceNote": "",
+                "cta": "شروع کریں",
+                "badgeText": "",
+                "featured": false,
+                "delay": 0,
+                "benefits": [
+                  "ایک منظر کے ساتھ تخلیق کریں",
+                  "آزادانہ طور پر چار تہوں تک ترتیب دیں",
+                  "مختلف لائیو پس منظر کے مواد تک رسائی",
+                  "PC اسکرین کاسٹنگ کے لیے بنیادی کوالٹی",
+                  "بلٹ ان قدرتی خوبصورتی اثرات"
+                ]
+              },
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "ماہانہ",
+                "description": "ایک مکمل مہینے کی رسائی کو فعال کریں اور لطف اٹھائیں، آزمائش کا کم قیمت طریقہ۔",
+                "price": "$9.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/ماہ",
+                "priceNote": "30 دن کی رسائی",
+                "cta": "خریدیں",
+                "badgeText": "",
+                "featured": false,
+                "delay": 120,
+                "benefits": [
+                  "تمام موبائل خصوصیات",
+                  "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                  "HD لائیو سٹریمنگ کوالٹی",
+                  "اعلیٰ خوبصورتی اثرات",
+                  "خصوصی لائیو سٹریمنگ اثرات"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "سالانہ",
+                "description": "سالانہ بچت کے ساتھ بہترین قیمت۔",
+                "price": "$69.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "/سال",
+                "priceNote": "365 دن کی رسائی",
+                "cta": "خریدیں",
+                "badgeText": "مقبول ترین",
+                "featured": true,
+                "delay": 240,
+                "benefits": [
+                  "تمام موبائل خصوصیات",
+                  "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                  "HD لائیو سٹریمنگ کوالٹی",
+                  "اعلیٰ خوبصورتی اثرات",
+                  "خصوصی لائیو سٹریمنگ اثرات"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "زندگی بھر",
+                "description": "زندگی بھر کی رسائی کے لیے ایک بار خریداری، طویل مدتی تخلیق کاروں کے لیے مثالی۔",
+                "price": "$89.99",
+                "priceImage": "",
+                "originalPrice": "",
+                "unit": "",
+                "priceNote": "زندگی بھر کی رسائی",
+                "cta": "خریدیں",
+                "badgeText": "",
+                "featured": false,
+                "delay": 360,
+                "benefits": [
+                  "تمام موبائل خصوصیات",
+                  "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                  "HD لائیو سٹریمنگ کوالٹی",
+                  "اعلیٰ خوبصورتی اثرات",
+                  "خصوصی لائیو سٹریمنگ اثرات"
+                ]
+              }
+            ]
+          },
+          "profileBox": {
+            "membership": {
+              "plans": [
+                {
+                  "id": "monthly-plan",
+                  "type": "month",
+                  "name": "ماہانہ",
+                  "subtitle": "ایک مکمل مہینے کی رسائی کو فعال کریں اور لطف اٹھائیں، آزمائش کا کم قیمت طریقہ۔",
+                  "price": "$9.99",
+                  "originalPrice": "",
+                  "unit": "/ماہ",
+                  "cta": "خریدیں",
+                  "benefits": [
+                    "تمام موبائل خصوصیات",
+                    "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                    "HD لائیو سٹریمنگ کوالٹی",
+                    "اعلیٰ خوبصورتی اثرات",
+                    "خصوصی لائیو سٹریمنگ اثرات"
+                  ]
+                },
+                {
+                  "id": "yearly-plan",
+                  "type": "year",
+                  "name": "سالانہ",
+                  "subtitle": "سالانہ بچت کے ساتھ بہترین قیمت۔",
+                  "price": "$69.99",
+                  "originalPrice": "",
+                  "unit": "/سال",
+                  "cta": "خریدیں",
+                  "benefits": [
+                    "تمام موبائل خصوصیات",
+                    "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                    "HD لائیو سٹریمنگ کوالٹی",
+                    "اعلیٰ خوبصورتی اثرات",
+                    "خصوصی لائیو سٹریمنگ اثرات"
+                  ]
+                },
+                {
+                  "id": "lifetime-plan",
+                  "type": "life",
+                  "name": "زندگی بھر",
+                  "subtitle": "زندگی بھر کی رسائی کے لیے ایک بار خریداری، طویل مدتی تخلیق کاروں کے لیے مثالی۔",
+                  "price": "$89.99",
+                  "originalPrice": "",
+                  "unit": "",
+                  "cta": "خریدیں",
+                  "benefits": [
+                    "تمام موبائل خصوصیات",
+                    "PC اسکرین کاسٹنگ کے ساتھ لائیو سٹریمنگ",
+                    "HD لائیو سٹریمنگ کوالٹی",
+                    "اعلیٰ خوبصورتی اثرات",
+                    "خصوصی لائیو سٹریمنگ اثرات"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "streamers": [
+      {
+        "name": "مارکس جانسن",
+        "username": "@Musk",
+        "followers": "100k",
+        "location": "دبئی، متحدہ عرب امارات"
+      },
+      {
+        "name": "مارکس جانسن",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "دبئی، متحدہ عرب امارات"
+      },
+      {
+        "name": "مارکس جانسن",
+        "username": "@marcusi",
+        "followers": "50k",
+        "location": "دبئی، متحدہ عرب امارات"
+      },
+      {
+        "name": "مارکس جانسن",
+        "username": "echo",
+        "followers": "100k",
+        "location": "دبئی، متحدہ عرب امارات"
+      },
+      {
+        "name": "مارکس جانسن",
+        "username": "echo",
+        "followers": "100k",
+        "location": "دبئی، متحدہ عرب امارات"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "feature_obj": {
+        "locale": "vi",
+        "features_section": {
+          "title_tag": "Tính năng",
+          "title_main": "Giải pháp phát trực tiếp tất cả trong một",
+          "title_highlight": "dành cho nhà phát sóng chuyên nghiệp trên di động",
+          "description": "Tích hợp các khả năng phát trực tiếp cốt lõi để tạo cảnh quay hấp dẫn ở mọi nơi và mang đến trải nghiệm hình ảnh chuyên nghiệp."
+        },
+        "feature_items": [
+          {
+            "id": "chroma_key",
+            "title": "Chiếu màn hình & Camera ảo",
+            "desc": "Chiếu điện thoại lên PC và sử dụng công nghệ camera ảo để tạo các buổi phát trực tiếp chuyên nghiệp."
+          },
+          {
+            "id": "multi_cam",
+            "title": "Hỗ trợ nhiều camera",
+            "desc": "Chuyển đổi giữa nhiều góc máy chỉ với một chạm trong khi phát trực tiếp để có góc nhìn phong phú hơn."
+          },
+          {
+            "id": "2d3d_effects",
+            "title": "Hiệu ứng 2D/3D",
+            "desc": "Thêm các lớp hiệu ứng 2D/3D ấn tượng để tạo phòng live động và hấp dẫn."
+          },
+          {
+            "id": "multi_platform_push",
+            "title": "Phát trực tiếp đa nền tảng",
+            "desc": "Phát trực tiếp lên YouTube, Twitch, TikTok, Facebook Live và nhiều nền tảng khác."
+          },
+          {
+            "id": "virtual_controller",
+            "title": "Bộ điều khiển ảo",
+            "desc": "Điều khiển buổi phát trực tiếp từ xa trên mọi thiết bị: chuyển cảnh, tắt tiếng và điều chỉnh hiệu ứng theo thời gian thực."
+          },
+          {
+            "id": "multi_platform_live",
+            "title": "Phát trực tiếp đồng thời đa nền tảng",
+            "desc": "Phát trực tiếp lên TikTok, YouTube, Twitch và Instagram cùng lúc từ PC của bạn."
+          }
+        ]
+      }
+    }
+  ],
+  "homes": [
+    {
+      "hero_title": "Hiệu ứng phông xanh di động & Chiếu màn hình",
+      "top_badge": "Công cụ phát trực tiếp hỗ trợ AI",
+      "hero_subtitle": "Nền tảng phát trực tiếp toàn cầu",
+      "hero_description_1": "VicastCam sử dụng công nghệ AI matting tiên tiến để bạn có thể chuyển đổi hậu cảnh ảo mượt mà trong khi phát trực tiếp, mang đến trải nghiệm",
+      "hero_description_2": "sống động, nâng tầm hình ảnh chuyên nghiệp của bạn.",
+      "user_count_label": "Người dùng toàn cầu",
+      "rating_label": "Đánh giá trên App Store",
+      "download_count_label": "Lượt tải toàn cầu",
+      "app_store_url": "Tải trên App Store",
+      "google_play_url": "Tải trên Android",
+      "desktop_client_url": "Tải ứng dụng máy tính",
+      "request_success": "Yêu cầu thành công",
+      "request_fail": "Yêu cầu thất bại",
+      "request_loading": "Đang tải"
+    }
+  ]
+}

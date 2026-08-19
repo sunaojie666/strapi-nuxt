@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Üyelik",
+    "title": "Üyeliğim",
+    "badgeAlt": "Üyelik rozeti",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Ücretsiz Kullanıcı",
+    "activeVipName": "VIP Üye",
+    "expirePrefix": "Bitiş",
+    "emptyExpireDate": "Aktif değil",
+    "activeStatus": "Aktif",
+    "inactiveStatus": "Pasif",
+    "compareTitle": "Planları Karşılaştır",
+    "compareHeaders": {
+      "feature": "Özellik",
+      "normal": "Ücretsiz",
+      "month": "Aylık",
+      "year": "Yıllık",
+      "life": "Ömür Boyu"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Aylık",
+        "subtitle": "Kısa süreli kullanım için ideal",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/ay",
+        "cta": "Başla",
+        "benefits": [
+          "Temel sanal kamera özellikleri",
+          "Sanal arka planlar ve güzelleştirme",
+          "Çok platformlu canlı yayın",
+          "Standart güncellemeler"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Yıllık",
+        "subtitle": "Uzun süreli kullanım için daha avantajlı",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/yıl",
+        "cta": "Başla",
+        "benefits": [
+          "Aylık plandaki her şey",
+          "Bir yıl boyunca tüm premium özellikler",
+          "Öncelikli özellik güncellemeleri",
+          "Özel üye desteği"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "Ömür Boyu",
+        "subtitle": "Bir kez öde, sonsuza dek kullan",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/ömür boyu",
+        "cta": "Başla",
+        "benefits": [
+          "Yıllık plandaki her şey",
+          "Sonsuza dek premium özellikler",
+          "Uzun vadeli güncellemeler",
+          "Özel destek kanalı"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Üyelik süresi",
+        "normal": "Sonsuza dek ücretsiz",
+        "month": "30 gün",
+        "year": "365 gün",
+        "life": "Ömür boyu"
+      },
+      {
+        "feature": "Masaüstü sanal kamera",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Özel sanal arka planlar",
+        "normal": "1 set",
+        "month": "Sınırsız",
+        "year": "Sınırsız",
+        "life": "Sınırsız"
+      },
+      {
+        "feature": "Yayın ön ayarları",
+        "normal": "Hayır",
+        "month": "Sınırsız",
+        "year": "Sınırsız",
+        "life": "Sınırsız"
+      },
+      {
+        "feature": "Resmi varlıklar",
+        "normal": "Sınırlı",
+        "month": "Sınırsız",
+        "year": "Sınırsız",
+        "life": "Sınırsız"
+      },
+      {
+        "feature": "Kumanda ile uzaktan kontrol",
+        "normal": "Evet",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Sahne karşılaştırma modu",
+        "normal": "Evet",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Sahne altyazıları",
+        "normal": "Sınırlı",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Sahne müziği",
+        "normal": "Sınırlı",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Çoklu kamera girişi",
+        "normal": "Hayır",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Gelişmiş güzelleştirme filtreleri",
+        "normal": "Temel",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "AI yeşil perde arka plan silme",
+        "normal": "Evet",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Hareket takipli animasyonlar",
+        "normal": "Sınırlı",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Sahne kamera efektleri",
+        "normal": "Sınırlı",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "VIP efekt kütüphanesi",
+        "normal": "Sınırlı",
+        "month": "Sınırsız",
+        "year": "Sınırsız",
+        "life": "Sınırsız"
+      },
+      {
+        "feature": "Platform yayını",
+        "normal": "Evet",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "4K çıkış",
+        "normal": "Hayır",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      },
+      {
+        "feature": "Referans komisyon oranı",
+        "normal": "%5",
+        "month": "%40",
+        "year": "%40",
+        "life": "%40"
+      },
+      {
+        "feature": "Alt ortaklık iadesi",
+        "normal": "%1",
+        "month": "%7",
+        "year": "%7",
+        "life": "%7"
+      },
+      {
+        "feature": "Destek kanalı",
+        "normal": "Topluluk self-servis",
+        "month": "Standart kuyruk",
+        "year": "Öncelikli yanıt",
+        "life": "Özel destek"
+      },
+      {
+        "feature": "Yeni özelliklere erken erişim",
+        "normal": "Hayır",
+        "month": "Evet",
+        "year": "Evet",
+        "life": "Evet"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Kodu Kullan",
+    "title": "Kodu Kullan",
+    "tip": "Üyelik kullanım kodunuzu girin. Kod kullanıldıktan sonra üyeliğiniz hemen aktifleşir.",
+    "placeholder": "Kullanım kodunu girin",
+    "submitButton": "Kullan",
+    "agreementPrefix": "Kodu kullanarak",
+    "userProtocolText": "Kullanıcı Sözleşmesi'ni",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "Kod kullanılamadı. Kodu kontrol edip tekrar deneyin."
+    }
+  }
+}

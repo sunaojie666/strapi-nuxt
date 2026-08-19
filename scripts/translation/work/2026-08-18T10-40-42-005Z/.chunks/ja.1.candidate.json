@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "チュートリアルセンター",
+    "titleMain": "VicastCamの学習を",
+    "titleHighlight": "はじめましょう",
+    "descriptionMain": "ソフトウェアのすべての機能をマスター",
+    "descriptionHighlight": "すぐに使い始められます"
+  },
+  "player": {
+    "sectionAriaLabel": "チュートリアル一覧",
+    "catalogAriaLabel": "チュートリアルカタログ",
+    "previousLabel": "前へ",
+    "nextLabel": "次へ",
+    "firstLessonText": "最初のレッスンです",
+    "lastLessonText": "最後のレッスンです",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

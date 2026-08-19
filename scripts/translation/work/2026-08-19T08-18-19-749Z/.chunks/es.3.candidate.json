@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Historial de compras",
+    "title": "Historial de compras",
+    "tabTitle": "Compras",
+    "exchangeTabTitle": "Canjes",
+    "tableHeaders": {
+      "title": "Tipo",
+      "date": "Fecha de pago",
+      "price": "Importe",
+      "paymentMethod": "Método de pago",
+      "status": "Estado",
+      "exchangeDate": "Fecha de canje",
+      "exchangeCode": "Código de canje"
+    },
+    "exchangeTableHeaders": {
+      "date": "Fecha de canje",
+      "code": "Código de canje"
+    },
+    "cardTypes": {
+      "month": "Suscripción mensual",
+      "year": "Suscripción anual",
+      "life": "Suscripción vitalicia",
+      "default": "Suscripción"
+    },
+    "orderStatuses": {
+      "pending": "Pago pendiente",
+      "paid": "Pagado",
+      "closed": "Cerrado",
+      "refunded": "Reembolsado",
+      "unknown": "Desconocido"
+    },
+    "secretLabels": {
+      "show": "Mostrar contraseña",
+      "hide": "Ocultar contraseña"
+    },
+    "secretMask": "******",
+    "emptyText": "Aún no hay registros de compra",
+    "exchangeEmptyText": "Aún no hay registros de canje",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Tarjeta bancaria",
+      "creditcard": "Tarjeta de crédito",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Criptomoneda",
+      "balance": "Saldo",
+      "free": "Gratis"
+    }
+  },
+  "team": {
+    "ariaLabel": "Mi equipo",
+    "title": "Mi equipo",
+    "referrerLabel": "Mi referidor",
+    "levelOne": "Miembros de nivel 1",
+    "levelTwo": "Miembros de nivel 2",
+    "tableHeaders": {
+      "name": "Nombre del miembro",
+      "status": "Estado de la suscripción",
+      "joinedAt": "Fecha de alta"
+    },
+    "memberStatus": {
+      "free": "Usuario gratuito",
+      "vip": "Usuario VIP"
+    },
+    "emptyMemberName": "Usuario sin nombre",
+    "emptyReferrer": "Sin referidor",
+    "emptyTeam": "Aún no hay miembros en el equipo",
+    "errors": {
+      "loadFail": "No se pudieron cargar los miembros del equipo. Inténtalo de nuevo más tarde."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Centro de ganancias",
+    "title": "Resumen de ganancias",
+    "commissionTitle": "Detalle de comisiones",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Ganancias totales",
+        "desc": "Comisión total acumulada hasta la fecha"
+      },
+      {
+        "key": "month",
+        "title": "Este mes",
+        "desc": "Comisión obtenida este mes"
+      },
+      {
+        "key": "settling",
+        "title": "Pendiente de liquidación",
+        "value": "0.00",
+        "desc": "Importe pendiente de liquidación"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Disponible para retirar",
+        "desc": "Importe actualmente disponible para retirar",
+        "action": "Retirar"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Nombre de usuario",
+      "saleTime": "Fecha de venta",
+      "goodsInfo": "Producto",
+      "commission": "Comisión"
+    },
+    "emptyCommission": "Aún no hay registros de comisión",
+    "errors": {
+      "loadFail": "No se pudieron cargar los detalles de comisión. Inténtalo de nuevo más tarde."
+    },
+    "withdraw": {
+      "ariaLabel": "Solicitud de retiro",
+      "title": "Solicitud de retiro",
+      "closeLabel": "Cerrar diálogo de retiro",
+      "balanceLabel": "Saldo disponible para retirar",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Importe a retirar",
+      "amountPlaceholder": "Introduce el importe a retirar",
+      "allButton": "Todo",
+      "allAmountValue": "0.00",
+      "amountTip": "Confirma que el importe es correcto. Tu solicitud será revisada manualmente después de enviarla.",
+      "methodLabel": "Método de retiro",
+      "methods": [
+        "Tarjeta bancaria",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Tarjeta bancaria",
+      "nameLabel": "Nombre del beneficiario",
+      "namePlaceholder": "Introduce el nombre del beneficiario",
+      "defaultName": "",
+      "bankCardLabel": "Número de cuenta",
+      "bankCardPlaceholder": "Introduce el número de tarjeta bancaria, el correo de PayPal o la dirección de la billetera",
+      "remarkLabel": "Observaciones",
+      "remarkPlaceholder": "Añade notas adicionales",
+      "note": "Las solicitudes de retiro se procesan en un plazo de 1 a 3 días laborables.",
+      "cancelButton": "Cancelar",
+      "submitButton": "Enviar solicitud"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Canje realizado correctamente",
+    "operationFailed": "El canje ha fallado",
+    "invalidCard": "Código de canje no válido",
+    "cardNotFound": "Código de canje no encontrado",
+    "cardDisabled": "Código de canje deshabilitado",
+    "cardExpired": "Código de canje caducado"
+  },
+  "successMessage": "Operación realizada correctamente"
+}

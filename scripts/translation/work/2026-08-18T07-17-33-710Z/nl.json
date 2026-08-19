@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Kies betaalmethode",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Betaal met je PayPal-saldo, bankkaart of creditcard",
+            "secureBadge": "Veilige betaling",
+            "methodLabel": "Betaalmethode",
+            "accountLabel": "Huidig account",
+            "signInRequired": "Log in om verder te gaan met je aankoop",
+            "signInAction": "Inloggen",
+            "summaryHint": "Klik op de PayPal-knop om je betaling te voltooien",
+            "trustItems": [
+              "Betalingen worden veilig verwerkt door PayPal",
+              "Ondersteunt PayPal-saldo, bankkaarten en creditcards",
+              "Lidmaatschapsvoordelen worden automatisch geactiveerd na succesvolle betaling"
+            ],
+            "buttonPay": "Betaal met PayPal",
+            "buttonPending": "Bestelling in behandeling",
+            "buttonCreating": "Bestelling maken...",
+            "sdkLoading": "PayPal laden...",
+            "sdkError": "Kan PayPal niet laden. Controleer je netwerk en probeer het opnieuw.",
+            "sdkIneligible": "PayPal-betaling wordt niet ondersteund in deze omgeving",
+            "sdkMissingConfig": "PayPal is niet geconfigureerd. Neem contact op met de beheerder.",
+            "orderCreating": "Betaalopdracht maken...",
+            "orderCreateFailed": "Kan bestelling niet maken. Probeer het opnieuw.",
+            "orderProcessing": "Het betalingsresultaat wordt nog bevestigd. Controleer het later opnieuw.",
+            "orderSuccess": "Betaling geslaagd. Je lidmaatschapsvoordelen zijn geactiveerd.",
+            "orderFailed": "Betaling is niet gelukt. Probeer het opnieuw.",
+            "orderPending": "Betaling is niet voltooid. Voltooi de betaling en controleer opnieuw.",
+            "orderExpired": "Betaalopdracht is verlopen. Probeer het opnieuw.",
+            "statusQueryFailed": "Kan betalingsstatus niet controleren. Probeer het later opnieuw.",
+            "invalidPlan": "Het geselecteerde abonnement is ongeldig. Ga terug en kies opnieuw.",
+            "popupBlocked": "Het betalingsvenster is geblokkeerd door je browser. Sta pop-ups toe voor deze site en probeer het opnieuw.",
+            "popupOpened": "Het PayPal-betalingsvenster is geopend. Voltooi de betaling in het venster.",
+            "popupClosedChecking": "Het betalingsvenster is gesloten. Betalingsresultaat bevestigen...",
+            "popupClosedFailed": "Het betalingsvenster is gesloten, maar de bestelling is niet voltooid. Probeer het opnieuw."
+          },
+          "summary": {
+            "title": "Bestellingsoverzicht",
+            "periodLabel": "Lidmaatschapsperiode",
+            "paymentMethodLabel": "Betaalmethode",
+            "amountLabel": "Te betalen bedrag",
+            "paymentMethod": "PayPal online betaling",
+            "note": "Na succesvolle betaling worden de lidmaatschapsvoordelen automatisch toegekend aan je huidige account.",
+            "periodMonth": "1 maand",
+            "periodYear": "1 jaar",
+            "periodLife": "Levenslang",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Betalingsresultaat bevestigen...",
+            "closeLabel": "Sluiten",
+            "iconAlt": "Betalingsresultaat",
+            "titlePrefix": "Betaling",
+            "successTitleHighlight": "geslaagd!",
+            "failureTitleHighlight": "mislukt!",
+            "successDescription": "Bedankt voor je aankoop. Je lidmaatschap is geactiveerd.",
+            "failureDescription": "Je betaling kon niet worden voltooid. Probeer het opnieuw of gebruik een andere betaalmethode.",
+            "orderNumber": "Bestelnummer",
+            "membershipType": "Lidmaatschapstype",
+            "expiry": "Vervaldatum",
+            "orderStatus": "Bestelstatus",
+            "successStatus": "Betaald",
+            "failureStatus": "Onbetaald",
+            "successPrimaryAction": "Bekijk in Lidmaatschapscentrum",
+            "failurePrimaryAction": "Wijzig betaalmethode",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Terug naar pagina",
+            "copyOrderNumber": "Kopieer bestelnummer",
+            "copied": "Gekopieerd",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Bevestig aankoop | VicastCam",
+            "description": "Bevestig je VicastCam-lidmaatschapsplan en voltooi de betaling via PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Maandlidmaatschap",
+              "description": "Geniet maandelijks van alle VicastCam-lidmaatschapsfuncties",
+              "period": "1 maand"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Jaarlidmaatschap",
+              "description": "Geniet een heel jaar van alle VicastCam-lidmaatschapsfuncties",
+              "period": "1 jaar"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Levenslang lidmaatschap",
+              "description": "Eenmalige aankoop, langdurige toegang tot VicastCam-lidmaatschapsfuncties",
+              "period": "Levenslang"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

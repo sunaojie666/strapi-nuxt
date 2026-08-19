@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "eyebrow": "سبق مرکز",
+    "titleMain": "اپنا VicastCam",
+    "titleHighlight": "سیکھنے کا سفر شروع کریں",
+    "descriptionMain": "سافٹ ویئر کی ہر خصوصیت میں مہارت حاصل کریں",
+    "descriptionHighlight": "جلدی سے تیار ہو جائیں"
+  },
+  "player": {
+    "sectionAriaLabel": "سبق کی فہرست",
+    "catalogAriaLabel": "سبق کی فہرست",
+    "previousLabel": "پچھلا",
+    "nextLabel": "اگلا",
+    "firstLessonText": "آپ پہلے سبق پر ہیں",
+    "lastLessonText": "آپ آخری سبق پر ہیں",
+    "poster": "https://cdn2.douyinggongchang.com/vicastcam-website-media-20260721/images/login/background.png"
+  }
+}

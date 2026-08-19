@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "付款暂未开放",
+          "payment": {
+            "providerName": "在线付款未上线",
+            "providerDescription": "当前付款通道正在配置中，页面仅用于展示订单信息。",
+            "unavailableTitle": "付款功能暂未开放",
+            "unavailableDescription": "我们正在接入正式支付与订单确认流程。上线前，此页面不会发起扣款或创建真实订单。",
+            "unavailableItems": [
+              "不会加载第三方支付组件",
+              "不会提交付款信息",
+              "不会创建真实付款订单"
+            ],
+            "feedback": "如需购买或开通会员，请先联系 business@vicastcam.com。"
+          },
+          "summary": {
+            "title": "订单摘要",
+            "periodLabel": "会员周期",
+            "paymentMethodLabel": "支付方式",
+            "amountLabel": "应付金额",
+            "submitLabel": "暂未开放",
+            "note": "付款功能暂未开放，当前订单信息仅供确认套餐内容。",
+            "unavailablePaymentMethod": "暂未开放",
+            "fallbackProductName": "未选择套餐",
+            "fallbackProductDescription": "请返回首页选择一个会员套餐。",
+            "periodMonth": "1个月",
+            "periodYear": "1年",
+            "periodLife": "终身",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "订阅结算",
+            "description": "VicastCam 订阅结算页面。"
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "月卡",
+              "description": "激活即享整月使用权，低门槛轻松体验"
+            },
+            {
+              "type": "year",
+              "name": "年卡",
+              "description": "激活即享全年使用权，更适合长期稳定使用"
+            },
+            {
+              "type": "life",
+              "name": "终身卡",
+              "description": "一次激活长期使用，持续享受会员权益"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "zh",
+        "multi_platform_section": {
+          "tag": "多平台支持",
+          "title_main": "覆盖全球主流直播平台",
+          "title_highlight": "一键解锁全球流量矩阵",
+          "description": "汇聚全球流量入口，构筑跨境直播新生态"
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "个人中心",
+            "description": "VicastCam 个人中心页面"
+          },
+          "common": {
+            "sidebarAriaLabel": "个人中心导航",
+            "defaultProfileName": "用户",
+            "emptyContent": "暂无内容",
+            "copyButtonLabel": "复制",
+            "monthSelectLabel": "选择月份",
+            "yearSuffix": "年",
+            "monthSuffix": "月",
+            "userMissing": "用户信息不存在，请重新登录",
+            "paginationLabel": "分页",
+            "previousPageLabel": "上一页",
+            "nextPageLabel": "下一页",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "跳至",
+              "unit": "页",
+              "ariaLabel": "跳转到指定页",
+              "buttonLabel": "跳转"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "个人中心",
+            "logout": "退出登录",
+            "profileAriaSuffix": "个人中心菜单"
+          },
+          "sidebar": {
+            "ariaLabel": "个人中心导航",
+            "menus": {
+              "account": "账户信息",
+              "membership": "会员中心",
+              "redeem": "会员兑换",
+              "purchaseHistory": "购买记录",
+              "team": "我的团队",
+              "earnings": "收益中心"
+            }
+          },
+          "account": {
+            "ariaLabel": "账户信息",
+            "profileTitle": "账户信息",
+            "usernameLabel": "用户名",
+            "passwordLabel": "密码",
+            "passwordMask": "********",
+            "defaultUsername": "未设置昵称",
+            "inviteTitle": "邀请链接",
+            "inviteDescription": "复制你的专属邀请链接，邀请好友注册并开通会员后可获得相应收益。",
+            "emptyInviteLink": "暂无邀请链接"
+          },
+          "membership": {
+            "ariaLabel": "会员中心",
+            "title": "我的会员",
+            "badgeAlt": "会员徽章",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "普通用户",
+            "activeVipName": "VIP会员",
+            "expirePrefix": "到期时间",
+            "emptyExpireDate": "暂未开通",
+            "activeStatus": "生效中",
+            "inactiveStatus": "未开通",
+            "compareTitle": "会员权益对比",
+            "compareHeaders": {
+              "feature": "功能",
+              "normal": "普通用户",
+              "month": "月度会员",
+              "year": "年度会员",
+              "life": "终身会员"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "月度会员",
+                "subtitle": "适合短期体验",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/月",
+                "cta": "立即开通",
+                "benefits": [
+                  "虚拟摄像头基础功能",
+                  "虚拟背景与美化",
+                  "多平台直播支持",
+                  "标准更新服务"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "年度会员",
+                "subtitle": "长期使用更划算",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/年",
+                "cta": "立即开通",
+                "benefits": [
+                  "包含月度会员全部权益",
+                  "全年高级功能",
+                  "优先功能更新",
+                  "专属会员支持"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "永久会员",
+                "subtitle": "一次开通长期使用",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/永久",
+                "cta": "立即开通",
+                "benefits": [
+                  "包含年度会员全部权益",
+                  "永久高级功能",
+                  "长期版本更新",
+                  "专属服务通道"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "会员有效时长",
+                "normal": "永久免费",
+                "month": "30天",
+                "year": "365天",
+                "life": "终身有效"
+              },
+              {
+                "feature": "电脑版虚拟相机",
+                "normal": "标清",
+                "month": "高清/超清",
+                "year": "高清/超清",
+                "life": "高清/超清"
+              },
+              {
+                "feature": "自定义虚拟背景",
+                "normal": "一组",
+                "month": "不限",
+                "year": "不限",
+                "life": "不限"
+              },
+              {
+                "feature": "直播方案",
+                "normal": "cross",
+                "month": "不限",
+                "year": "不限",
+                "life": "不限"
+              },
+              {
+                "feature": "官网素材",
+                "normal": "受限",
+                "month": "不限",
+                "year": "不限",
+                "life": "不限"
+              },
+              {
+                "feature": "控制器远程操控",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "直播场景对比模式",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "场景字幕功能",
+                "normal": "受限",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "场景音乐功能",
+                "normal": "受限",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "多机位画面接入",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "高级美颜类型/滤镜",
+                "normal": "基础",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "AI智能绿幕抠像",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "动态运动轨迹动画",
+                "normal": "受限",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "场景运镜特效",
+                "normal": "受限",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "VIP特效素材库",
+                "normal": "受限",
+                "month": "无限使用",
+                "year": "无限使用",
+                "life": "无限使用"
+              },
+              {
+                "feature": "平台推流",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "4K超清输出",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "推广分成比例",
+                "normal": "5%",
+                "month": "40%",
+                "year": "40%",
+                "life": "40%"
+              },
+              {
+                "feature": "下级邀请返利",
+                "normal": "1%",
+                "month": "7%",
+                "year": "7%",
+                "life": "7%"
+              },
+              {
+                "feature": "客服通道",
+                "normal": "社区自助",
+                "month": "普通排队",
+                "year": "优先响应",
+                "life": "专属客服"
+              },
+              {
+                "feature": "新功能抢先体验",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "会员兑换",
+            "title": "会员兑换",
+            "tip": "请输入会员兑换码，兑换成功后会员权益会自动生效。",
+            "placeholder": "请输入兑换码",
+            "submitButton": "立即兑换",
+            "agreementPrefix": "兑换即表示你同意",
+            "userProtocolText": "《用户协议》",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "兑换失败，请检查兑换码后重试"
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "购买记录",
+            "title": "购买记录",
+            "tabTitle": "购买记录",
+            "exchangeTabTitle": "兑换记录",
+            "tableHeaders": {
+              "title": "类型",
+              "date": "支付时间",
+              "price": "金额",
+              "paymentMethod": "支付方式",
+              "status": "状态",
+              "exchangeDate": "兑换时间",
+              "exchangeCode": "兑换码"
+            },
+            "exchangeTableHeaders": {
+              "date": "兑换时间",
+              "code": "兑换码"
+            },
+            "cardTypes": {
+              "month": "月卡",
+              "year": "年卡",
+              "life": "永久卡",
+              "default": "会员卡"
+            },
+            "orderStatuses": {
+              "pending": "待支付",
+              "paid": "已支付",
+              "closed": "已关闭",
+              "refunded": "已退款",
+              "unknown": "未知"
+            },
+            "secretLabels": {
+              "show": "查看密码",
+              "hide": "隐藏密码"
+            },
+            "secretMask": "******",
+            "emptyText": "暂无购买记录",
+            "exchangeEmptyText": "暂无兑换记录",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "银行卡",
+              "creditcard": "信用卡",
+              "alipay": "支付宝",
+              "wechat": "微信支付",
+              "wechatpay": "微信支付",
+              "usdt": "USDT",
+              "crypto": "加密货币",
+              "balance": "余额",
+              "free": "免费"
+            }
+          },
+          "team": {
+            "ariaLabel": "我的团队",
+            "title": "我的团队",
+            "referrerLabel": "我的上级",
+            "levelOne": "一级成员",
+            "levelTwo": "二级成员",
+            "tableHeaders": {
+              "name": "成员名称",
+              "status": "会员状态",
+              "joinedAt": "加入时间"
+            },
+            "memberStatus": {
+              "free": "普通用户",
+              "vip": "VIP用户"
+            },
+            "emptyMemberName": "未命名用户",
+            "emptyReferrer": "暂无上级",
+            "emptyTeam": "暂无团队成员",
+            "errors": {
+              "loadFail": "团队成员加载失败，请稍后重试"
+            }
+          },
+          "earnings": {
+            "ariaLabel": "收益中心",
+            "title": "收益概览",
+            "commissionTitle": "佣金明细",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "累计收益",
+                "desc": "历史累计佣金收入"
+              },
+              {
+                "key": "month",
+                "title": "本月收益",
+                "desc": "当前月份佣金收入"
+              },
+              {
+                "key": "settling",
+                "title": "结算中",
+                "value": "0.00",
+                "desc": "待结算金额"
+              },
+              {
+                "key": "withdrawable",
+                "title": "可提现",
+                "desc": "当前可申请提现金额",
+                "action": "提现"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "用户名",
+              "saleTime": "销售时间",
+              "goodsInfo": "商品信息",
+              "commission": "佣金"
+            },
+            "emptyCommission": "暂无佣金记录",
+            "errors": {
+              "loadFail": "佣金明细加载失败，请稍后重试"
+            },
+            "withdraw": {
+              "ariaLabel": "提现申请",
+              "title": "提现申请",
+              "closeLabel": "关闭提现弹窗",
+              "balanceLabel": "可提现余额",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "提现金额",
+              "amountPlaceholder": "请输入提现金额",
+              "allButton": "全部",
+              "allAmountValue": "0.00",
+              "amountTip": "请确认金额无误，提交后将进入人工审核。",
+              "methodLabel": "提现方式",
+              "methods": [
+                "银行卡",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "银行卡",
+              "nameLabel": "收款人姓名",
+              "namePlaceholder": "请输入收款人姓名",
+              "defaultName": "",
+              "bankCardLabel": "收款账号",
+              "bankCardPlaceholder": "请输入银行卡号、PayPal 邮箱或钱包地址",
+              "remarkLabel": "备注",
+              "remarkPlaceholder": "可填写补充说明",
+              "note": "提现申请提交后，工作人员会在 1-3 个工作日内处理。",
+              "cancelButton": "取消",
+              "submitButton": "提交申请"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "兑换成功",
+            "operationFailed": "兑换失败",
+            "invalidCard": "兑换码无效",
+            "cardNotFound": "兑换码不存在",
+            "cardDisabled": "兑换码已停用",
+            "cardExpired": "兑换码已过期"
+          },
+          "successMessage": "操作成功"
+        }
+      }
+    }
+  ]
+}

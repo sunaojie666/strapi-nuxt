@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "Membresía",
+    "title": "Mi Membresía",
+    "badgeAlt": "Insignia de membresía",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "Usuario Gratuito",
+    "activeVipName": "Miembro VIP",
+    "expirePrefix": "Expira",
+    "emptyExpireDate": "No activada",
+    "activeStatus": "Activa",
+    "inactiveStatus": "Inactiva",
+    "compareTitle": "Comparar Planes",
+    "compareHeaders": {
+      "feature": "Característica",
+      "normal": "Gratis",
+      "month": "Mensual",
+      "year": "Anual",
+      "life": "De por vida"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "Mensual",
+        "subtitle": "Ideal para uso a corto plazo",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/mes",
+        "cta": "Comenzar",
+        "benefits": [
+          "Funciones básicas de cámara virtual",
+          "Fondos virtuales y embellecimiento",
+          "Transmisión en vivo multiplataforma",
+          "Actualizaciones estándar"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "Anual",
+        "subtitle": "Mejor valor para uso a largo plazo",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/año",
+        "cta": "Comenzar",
+        "benefits": [
+          "Todo lo del plan Mensual",
+          "Todas las funciones premium durante un año",
+          "Actualizaciones prioritarias de funciones",
+          "Soporte dedicado para miembros"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "De por vida",
+        "subtitle": "Paga una vez, úsalo para siempre",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/de por vida",
+        "cta": "Comenzar",
+        "benefits": [
+          "Todo lo del plan Anual",
+          "Funciones premium para siempre",
+          "Actualizaciones a largo plazo",
+          "Canal de soporte exclusivo"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "Duración de la membresía",
+        "normal": "Gratis para siempre",
+        "month": "30 días",
+        "year": "365 días",
+        "life": "De por vida"
+      },
+      {
+        "feature": "Cámara virtual de escritorio",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "Fondos virtuales personalizados",
+        "normal": "1 conjunto",
+        "month": "Ilimitados",
+        "year": "Ilimitados",
+        "life": "Ilimitados"
+      },
+      {
+        "feature": "Ajustes preestablecidos de transmisión",
+        "normal": "No",
+        "month": "Ilimitados",
+        "year": "Ilimitados",
+        "life": "Ilimitados"
+      },
+      {
+        "feature": "Recursos oficiales",
+        "normal": "Limitados",
+        "month": "Ilimitados",
+        "year": "Ilimitados",
+        "life": "Ilimitados"
+      },
+      {
+        "feature": "Control remoto mediante controlador",
+        "normal": "Sí",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Modo de comparación de escenas",
+        "normal": "Sí",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Subtítulos de escena",
+        "normal": "Limitados",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Música de escena",
+        "normal": "Limitada",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Entrada de múltiples cámaras",
+        "normal": "No",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Filtros de belleza avanzados",
+        "normal": "Básicos",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Recorte de pantalla verde con IA",
+        "normal": "Sí",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Animaciones de seguimiento de movimiento",
+        "normal": "Limitadas",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Efectos de cámara de escena",
+        "normal": "Limitados",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Biblioteca de efectos VIP",
+        "normal": "Limitada",
+        "month": "Ilimitada",
+        "year": "Ilimitada",
+        "life": "Ilimitada"
+      },
+      {
+        "feature": "Transmisión a plataformas",
+        "normal": "Sí",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Salida 4K",
+        "normal": "No",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      },
+      {
+        "feature": "Comisión por referidos",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "Reembolso para subafiliados",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "Canal de soporte",
+        "normal": "Autoservicio comunitario",
+        "month": "Cola estándar",
+        "year": "Respuesta prioritaria",
+        "life": "Soporte dedicado"
+      },
+      {
+        "feature": "Acceso anticipado a nuevas funciones",
+        "normal": "No",
+        "month": "Sí",
+        "year": "Sí",
+        "life": "Sí"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "Canjear código",
+    "title": "Canjear Código",
+    "tip": "Introduce tu código de canje de membresía. Tu membresía se activará inmediatamente después del canje.",
+    "placeholder": "Introduce el código de canje",
+    "submitButton": "Canjear",
+    "agreementPrefix": "Al canjear, aceptas el",
+    "userProtocolText": "Acuerdo de Usuario",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "El canje falló. Verifica el código e inténtalo de nuevo."
+    }
+  }
+}

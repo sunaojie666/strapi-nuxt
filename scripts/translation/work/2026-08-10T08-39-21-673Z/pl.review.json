@@ -1,0 +1,167 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.features[0].feature_obj.features_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider a more idiomatic Polish phrasing: 'Kompletne rozwiązanie do transmisji na żywo' or 'Wszystko w jednym do transmisji na żywo' to better match the source's 'all-in-one' emphasis."
+    },
+    {
+      "path": "$.features[0].feature_obj.features_section.title_highlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'dla profesjonalnych mobilnych nadawców' to 'dla profesjonalnych nadawców mobilnych' for more natural Polish word order."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'screen casting' instead of 'Rzutowanie ekranu' to maintain consistency: 'Screen casting i wirtualna kamera'."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[0].desc",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'screen casting' in the description: 'Wykonaj screen casting ekranu telefonu na komputer...'"
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[1].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Rephrase 'aby uzyskać bogatsze perspektywy' to 'dla bogatszych perspektyw' or 'aby uzyskać szerszą perspektywę' for more natural Polish."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[2].desc",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'stworzyć dynamiczne i angażujące studio na żywo' to 'stworzyć dynamiczny i angażujący pokój na żywo' to match the source's 'live room' concept."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[3].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'multi-platform streaming' instead of 'Transmisja na wiele platform' to maintain consistency: 'Multi-platform streaming'."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[3].desc",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'multi-platform streaming' in the description: 'Streamuj na YouTube, Twitch, TikTok, Facebook Live i inne.'"
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'multi-platform streaming' in the title: 'Jednoczesny multi-platform streaming'."
+    },
+    {
+      "path": "$.features[0].feature_obj.feature_items[5].desc",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'multi-platform streaming' in the description: 'Nadawaj na żywo jednocześnie na TikTok, YouTube, Twitch i Instagram z poziomu komputera.'"
+    },
+    {
+      "path": "$.homes[0].hero_title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'screen casting' instead of 'rzutowanie ekranu': 'Mobilne efekty zielonego ekranu i screen casting'."
+    },
+    {
+      "path": "$.homes[0].hero_description_1",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use the approved glossary term 'AI matting' instead of 'wycinania tła': 'VicastCam wykorzystuje zaawansowane AI matting, umożliwiając płynną zmianę wirtualnych tłów podczas transmisji, co zapewnia'"
+    },
+    {
+      "path": "$.homes[0].hero_description_2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'wciągające doświadczenie' instead of 'immersyjne doświadczenie' for a more natural Polish term."
+    },
+    {
+      "path": "$.homes[0].app_store_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Shorten to 'Pobierz z App Store' (already done) or 'App Store' for a more concise CTA."
+    },
+    {
+      "path": "$.homes[0].google_play_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Shorten to 'Pobierz na Androida' (already done) or 'Android' for a more concise CTA."
+    },
+    {
+      "path": "$.homes[0].desktop_client_url",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Shorten to 'Pobierz na komputer' (already done) or 'Klient na komputer' for a more concise CTA."
+    }
+  ],
+  "revisedContent": {
+    "features": [
+      {
+        "feature_obj": {
+          "locale": "pl",
+          "features_section": {
+            "title_tag": "Funkcje",
+            "title_main": "Kompletne rozwiązanie do transmisji na żywo",
+            "title_highlight": "dla profesjonalnych nadawców mobilnych",
+            "description": "Zintegruj kluczowe funkcje transmisji na żywo, aby tworzyć angażujące sceny w dowolnym miejscu i zapewnić profesjonalny obraz."
+          },
+          "feature_items": [
+            {
+              "id": "chroma_key",
+              "title": "Screen casting i wirtualna kamera",
+              "desc": "Wykonaj screen casting ekranu telefonu na komputer i korzystaj z technologii wirtualnej kamery, aby tworzyć profesjonalne transmisje na żywo."
+            },
+            {
+              "id": "multi_cam",
+              "title": "Obsługa wielu kamer",
+              "desc": "Przełączaj się między wieloma kamerami jednym dotknięciem podczas transmisji, aby uzyskać bogatsze perspektywy."
+            },
+            {
+              "id": "2d3d_effects",
+              "title": "Efekty 2D/3D",
+              "desc": "Dodawaj efektowne warstwy 2D/3D, aby stworzyć dynamiczny i angażujący pokój na żywo."
+            },
+            {
+              "id": "multi_platform_push",
+              "title": "Multi-platform streaming",
+              "desc": "Streamuj na YouTube, Twitch, TikTok, Facebook Live i inne."
+            },
+            {
+              "id": "virtual_controller",
+              "title": "Wirtualny kontroler",
+              "desc": "Steruj transmisją zdalnie z dowolnego urządzenia: przełączaj sceny, wyciszaj dźwięk i dostosowuj efekty w czasie rzeczywistym."
+            },
+            {
+              "id": "multi_platform_live",
+              "title": "Jednoczesny multi-platform streaming",
+              "desc": "Nadawaj na żywo jednocześnie na TikTok, YouTube, Twitch i Instagram z poziomu komputera."
+            }
+          ]
+        }
+      }
+    ],
+    "homes": [
+      {
+        "hero_title": "Mobilne efekty zielonego ekranu i screen casting",
+        "top_badge": "Narzędzie do transmisji na żywo oparte na AI",
+        "hero_subtitle": "Napędzamy globalny ekosystem transmisji na żywo",
+        "hero_description_1": "VicastCam wykorzystuje zaawansowane AI matting, umożliwiając płynną zmianę wirtualnych tłów podczas transmisji, co zapewnia",
+        "hero_description_2": "wciągające doświadczenie podnoszące Twój profesjonalny wizerunek.",
+        "user_count_label": "Użytkownicy na świecie",
+        "rating_label": "Ocena w App Store",
+        "download_count_label": "Pobrania na świecie",
+        "app_store_url": "Pobierz z App Store",
+        "google_play_url": "Pobierz na Androida",
+        "desktop_client_url": "Pobierz na komputer",
+        "request_success": "Żądanie zakończone sukcesem",
+        "request_fail": "Żądanie nie powiodło się",
+        "request_loading": "Ładowanie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "컴퓨터 설정",
+      "count": "7개 강의",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "VicastCam 시작하기",
+          "description": "인터페이스와 핵심 기능에 대한 개요입니다.",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "유선 연결 – iPhone",
+          "description": "유선 연결을 사용하여 iPhone을 VicastCam에 연결합니다.",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "무선 연결 – iPhone",
+          "description": "Wi-Fi를 통해 iPhone을 VicastCam에 연결합니다.",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "유선 연결 – Android",
+          "description": "유선 연결을 사용하여 Android 기기를 VicastCam에 연결합니다.",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "무선 연결 – Android",
+          "description": "Wi-Fi를 통해 Android 기기를 VicastCam에 연결합니다.",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "로컬 미디어 추가 및 사용",
+          "description": "프로젝트에서 로컬 미디어 파일을 가져와 사용합니다.",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "연결 후 할 일",
+          "description": "기기가 연결되면 스트리밍을 시작하는 방법을 알아봅니다.",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

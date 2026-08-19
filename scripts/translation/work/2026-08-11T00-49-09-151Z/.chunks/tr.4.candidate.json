@@ -1,0 +1,48 @@
+{
+  "__chunk": [
+    {
+      "key": "agreement-section-3",
+      "title": "3 Hesap Yönetimi",
+      "paragraphs": [
+        "3.1 Kendiniz bir hesap oluşturabilir veya meşru bir üçüncü taraf platform hesabıyla giriş yapabilirsiniz. Üçüncü taraf hesapları gerçek kimlik bilgileriyle doğrulanmalı ve platform kurallarına uygun olmalıdır. Hesabınızın ve şifrenizin güvenliğinden ve hesabınız altında gerçekleştirilen tüm işlemlerden siz sorumlusunuz.",
+        "3.2 Dünya genelindeki ağ denetimi ve gerçek kimlikle kayıt gereklilikleri uyarınca, kayıt sırasında doğru, eksiksiz ve geçerli kimlik bilgileri ve iletişim bilgileri (e-posta gibi) sağlamalısınız. Bilgilerin yanlış veya şüpheli olması durumunda, Lisans Veren düzeltme talep etme, hizmetleri kısıtlama veya sonlandırma hakkına sahiptir. Güvenlik doğrulaması amacıyla bazı kayıt bilgileri değiştirilemez.",
+        "3.3 Bazı temel özellikler giriş yapmadan kullanılabilir. Tam işlevsellik ve ücretli hizmetler kayıt, giriş ve kimlik doğrulaması gerektirir.",
+        "3.4 Takma ad, profil fotoğrafı ve biyografi gibi hesap bilgileri başkalarının adlarını, ticari markalarını, portrelerini veya diğer yasal haklarını taklit etmemeli ve yasa dışı, kaba veya yanıltıcı içerik içermemelidir. Lisans Veren, hesap bilgilerini inceleme ve ihlaller için sıfırlama, işlevleri kısıtlama veya hesapları yasaklama gibi önlemler alma hakkına sahiptir.",
+        "3.5 Hesaplar yalnızca kişisel kullanım içindir ve yasal olarak kontrol ettiğiniz cihazlarda oturum açılabilir. Hesapların hediye edilmesi, ödünç verilmesi, kiralanması, devredilmesi veya satılması yasaktır. Kullanıcının kayıtlı kişiyle uyuşmadığı tespit edilirse, Lisans Veren hizmetleri askıya alma veya sonlandırma hakkına sahiptir.",
+        "3.6 Hesabınızın güvenliğinden ve gizliliğinden siz sorumlusunuz ve hesabınız altında gerçekleştirilen tüm işlemler, içerikler ve eylemler için tam yasal sorumluluk taşırsınız.",
+        "3.7 Hesabınız çalınırsa veya şifrenizi unutursanız, resmi itiraz kanalı üzerinden kurtarabilirsiniz.",
+        "3.7.1 Hesabınızın çalınması, bilgilerinizin sızması veya mülk kaybı, uygunsuz saklama, cihaz kaybı veya hesap bilgilerinizi gönüllü olarak ifşa etmeniz nedeniyle meydana gelirse, tüm sorumluluğu üstlenirsiniz.",
+        "3.7.2 Hesap kurtarma hizmetleri yalnızca sistemde saklanan bilgileri doğrular ve kullanıcının gerçek kimliğini belirleyemez. İlgili riskleri siz üstlenirsiniz. Hesabınızda olağandışı bir etkinlik fark ederseniz, lütfen derhal resmi müşteri hizmetleriyle iletişime geçin.",
+        "3.8 Hesap İptali ve Veri İşleme",
+        "3.8.1 Yazılımın \"Ben > Ayarlar > Hesap Yönetimi > Hesabı Sil\" bölümünden veya resmi e-posta yoluyla hesap silme başvurusunda bulunabilirsiniz. Silme işleminden önce sahiplik doğrulaması gereklidir.",
+        "3.8.2 Hesap silindikten sonra 30 günlük bir veri bekleme süresi ayrılır (yalnızca mali mutabakat, anlaşmazlık çözümü ve satış sonrası doğrulama için). Bu sürenin sonunda, yasaların saklanmasını zorunlu kıldığı işlem kayıtları hariç, kalıcı fiziksel silme işlemi gerçekleştirilir.",
+        "3.8.3 Hesap silindikten sonra hesap ve veriler kurtarılamaz. Kullanımınız sırasında doğan yükümlülükler ve sorumluluklar silme işlemiyle ortadan kalkmaz."
+      ]
+    },
+    {
+      "key": "agreement-section-4",
+      "title": "4 Kullanıcı Davranışları",
+      "paragraphs": [
+        "4.1 Bu Yazılımı kullanırken ağ güvenliği, fikri mülkiyet, portre hakları ve gizlilikle ilgili küresel yasalara uymayı ve başkalarının yasal haklarına saygı göstermeyi taahhüt edersiniz. Yasanın izin verdiği veya Lisans Veren tarafından yazılı olarak yetkilendirilmediği sürece aşağıdaki eylemler yasaktır:",
+        "4.1.1 Yetkisiz kişisel bilgilerin, ticari sırların veya hak ihlali yapan içeriklerin yüklenmesi veya yayılması.",
+        "4.1.2 Bu Yazılımın normal çalışmasına müdahale etmek veya bozmak için hileler, eklentiler veya üçüncü taraf araçları kullanmak.",
+        "4.1.3 Yasadışı ağ saldırıları, veri hırsızlığı, virüs yayma, güvenlik açığı taraması, sahte ağ veri paketleri oluşturma veya diğer siber saldırıları gerçekleştirmek.",
+        "4.1.4 Toplu kötü niyetli hesap kaydı yapmak.",
+        "4.1.5 Bu Yazılımın kaynak kodunu tersine mühendislik, derleme, ayrıştırma veya kırmaya çalışmak.",
+        "4.1.6 Pornografik, şiddet içeren, iftira niteliğinde veya yasa dışı içerik oluşturmak veya yaymak.",
+        "4.1.7 Tütün, alkol, kumar, silah veya yasaklı maddeleri tanıtmak.",
+        "4.1.8 Başkalarının görüntülerini, seslerini veya özel bilgilerini yetkisiz olarak gizlice fotoğraflamak, kaydetmek veya yaymak, portre veya gizlilik haklarını ihlal etmek.",
+        "4.1.9 Yerel yasalara, bu Sözleşmeye veya platform kurallarına aykırı diğer eylemler.",
+        "4.1.10 Bu Sözleşmeyi ihlal etmeniz durumunda, Lisans Veren ihlal eden içeriği bildirimde bulunmaksızın silme ve ciddiyetine göre uyarı, özellik yasağı, cihaz yasağı veya kalıcı hesap yasağı gibi yaptırımlar uygulama hakkına sahiptir. İhlal eden kullanıcılar resmi e-posta yoluyla itirazda bulunabilir ve Lisans Veren nihai inceleme yetkisine sahiptir.",
+        "4.2 Bu Yazılımla içerik oluştururken, yerleşik materyalleri, efektleri veya logoları üçüncü taraf ticari markaları, logoları veya ticari kimlikleri için kullanmanız yasaktır (kendi telif hakkına sahip olduğunuz içerikler hariç).",
+        "4.3 Bu Yazılımı şiddet, pornografi, iftira, doxxing, gizlilik ihlali, spam veya yasalara veya kamu düzenine ve genel ahlaka aykırı diğer içerikleri yayınlamak veya dağıtmak için kullanmamalısınız.",
+        "4.4 Lisans Veren, kullanıcı davranışlarını denetleme ve inceleme hakkına sahiptir ve ihlallerin tespit edilmesi durumunda düzeltme talep edebilir, içeriği silebilir, hizmetleri askıya alabilir veya sonlandırabilir.",
+        "4.5 Özel Özellik Kısıtlamaları",
+        "4.5.1 Kamera ve Canlı Yayın: Kamera, canlı yayın veya ekran kaydı özelliklerini kullanmadan önce, çekilen veya kaydedilen tüm kişilerin açık rızasını almalısınız. Bu Yazılımı gizli fotoğraf çekmek, gizli kayıt yapmak, yasa dışı canlı yayın yapmak veya diğer yasa dışı eylemler için kullanmak kesinlikle yasaktır. Tüm ilgili sorumlulukları üstlenirsiniz.",
+        "4.5.2 AI Özellikleri: Bu Yazılımdaki AI algoritmalarının, modellerin, efektlerin ve görsel materyallerin fikri mülkiyet hakları Lisans Verene veya işbirliği yapılan üçüncü taraflara aittir. Bunları yalnızca kişisel, ticari olmayan, yasal yaratıcılık için kullanabilirsiniz. Deepfake, sahte ses/video, dolandırıcılık veya yasa dışı içerik oluşturmanız yasaktır.",
+        "4.5.3 Bölgesel Uyumluluk: Ülkenizin/bölgenizin canlı yayın, biyometrik veri toplama ve AI içeriğiyle ilgili düzenleyici gerekliliklerine kesinlikle uymalısınız.",
+        "4.6 İhlaliniz Lisans Verene zarar verirse, ödenen ücretler iade edilmez ve Lisans Verenin tüm ekonomik ve itibar kayıplarını tamamen tazmin etmelisiniz."
+      ]
+    }
+  ]
+}

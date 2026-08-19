@@ -1,0 +1,234 @@
+{
+  "membership": {
+    "ariaLabel": "メンバーシップ",
+    "title": "マイメンバーシップ",
+    "badgeAlt": "メンバーシップバッジ",
+    "vipBadgeText": "VIP",
+    "defaultVipName": "無料ユーザー",
+    "activeVipName": "VIPメンバー",
+    "expirePrefix": "有効期限",
+    "emptyExpireDate": "未アクティブ",
+    "activeStatus": "有効",
+    "inactiveStatus": "無効",
+    "compareTitle": "プラン比較",
+    "compareHeaders": {
+      "feature": "機能",
+      "normal": "無料",
+      "month": "月額",
+      "year": "年額",
+      "life": "永久"
+    },
+    "plans": [
+      {
+        "id": "monthly-plan",
+        "type": "month",
+        "name": "月額",
+        "subtitle": "短期利用に最適",
+        "price": "$9.99",
+        "originalPrice": "",
+        "unit": "/月",
+        "cta": "始める",
+        "benefits": [
+          "コアな仮想カメラ機能",
+          "仮想背景＆美顔機能",
+          "マルチプラットフォーム配信",
+          "標準アップデート"
+        ]
+      },
+      {
+        "id": "yearly-plan",
+        "type": "year",
+        "name": "年額",
+        "subtitle": "長期利用にお得",
+        "price": "$69.99",
+        "originalPrice": "$119.88",
+        "unit": "/年",
+        "cta": "始める",
+        "benefits": [
+          "月額プランのすべて",
+          "1年間すべてのプレミアム機能",
+          "優先機能アップデート",
+          "専用メンバーサポート"
+        ]
+      },
+      {
+        "id": "lifetime-plan",
+        "type": "life",
+        "name": "永久",
+        "subtitle": "一度のお支払いでずっと使える",
+        "price": "$99.99",
+        "originalPrice": "",
+        "unit": "/永久",
+        "cta": "始める",
+        "benefits": [
+          "年額プランのすべて",
+          "永久にプレミアム機能",
+          "長期アップデート",
+          "専用サポートチャネル"
+        ]
+      }
+    ],
+    "compareRows": [
+      {
+        "feature": "メンバーシップ期間",
+        "normal": "永久無料",
+        "month": "30日",
+        "year": "365日",
+        "life": "永久"
+      },
+      {
+        "feature": "デスクトップ仮想カメラ",
+        "normal": "SD",
+        "month": "HD/UHD",
+        "year": "HD/UHD",
+        "life": "HD/UHD"
+      },
+      {
+        "feature": "カスタム仮想背景",
+        "normal": "1セット",
+        "month": "無制限",
+        "year": "無制限",
+        "life": "無制限"
+      },
+      {
+        "feature": "配信プリセット",
+        "normal": "なし",
+        "month": "無制限",
+        "year": "無制限",
+        "life": "無制限"
+      },
+      {
+        "feature": "公式アセット",
+        "normal": "限定",
+        "month": "無制限",
+        "year": "無制限",
+        "life": "無制限"
+      },
+      {
+        "feature": "コントローラーによるリモート操作",
+        "normal": "あり",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "シーン比較モード",
+        "normal": "あり",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "シーンキャプション",
+        "normal": "限定",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "シーン音楽",
+        "normal": "限定",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "マルチカメラ入力",
+        "normal": "なし",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "高度な美顔フィルター",
+        "normal": "基本",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "AIグリーンスクリーン合成",
+        "normal": "あり",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "モーショントラッキングアニメーション",
+        "normal": "限定",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "シーンカメラエフェクト",
+        "normal": "限定",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "VIPエフェクトライブラリ",
+        "normal": "限定",
+        "month": "無制限",
+        "year": "無制限",
+        "life": "無制限"
+      },
+      {
+        "feature": "プラットフォーム配信",
+        "normal": "あり",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "4K出力",
+        "normal": "なし",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      },
+      {
+        "feature": "紹介コミッション率",
+        "normal": "5%",
+        "month": "40%",
+        "year": "40%",
+        "life": "40%"
+      },
+      {
+        "feature": "サブアフィリエイトリベート",
+        "normal": "1%",
+        "month": "7%",
+        "year": "7%",
+        "life": "7%"
+      },
+      {
+        "feature": "サポートチャネル",
+        "normal": "コミュニティセルフサービス",
+        "month": "標準キュー",
+        "year": "優先対応",
+        "life": "専用サポート"
+      },
+      {
+        "feature": "新機能の早期アクセス",
+        "normal": "なし",
+        "month": "あり",
+        "year": "あり",
+        "life": "あり"
+      }
+    ]
+  },
+  "redeem": {
+    "ariaLabel": "コードを利用",
+    "title": "コードを利用",
+    "tip": "メンバーシップの引き換えコードを入力してください。引き換え後、すぐにメンバーシップが有効になります。",
+    "placeholder": "引き換えコードを入力",
+    "submitButton": "引き換える",
+    "agreementPrefix": "引き換えることで、以下に同意したことになります：",
+    "userProtocolText": "利用規約",
+    "userProtocolHref": "/terms",
+    "errors": {
+      "activateFail": "引き換えに失敗しました。コードを確認してもう一度お試しください。"
+    }
+  }
+}

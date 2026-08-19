@@ -51,6 +51,8 @@ async function main() {
     'Return exactly one JSON object with this schema:',
     '{"score": 0, "status": "approved|revise|needs-human-review", "issues": [{"path": "$.field", "category": "grammar|literal_translation|meaning_change|glossary|structure|style|seo", "severity": "critical|major|minor", "instruction": "specific correction"}], "revisedContent": {}}',
     'Use score 90 or higher only when there are no unresolved major or critical issues. Keep revisedContent structurally identical to the candidate and include it only when a rewrite is needed.',
+    'Do not report acceptable wording, optional preferences, or equally valid alternatives as issues. Use status approved and a score of at least 90 when the candidate has only stylistic choices that do not require correction.',
+    'Use status revise only when at least one listed issue requires a concrete change. If status is revise, revisedContent must apply every listed correction and must differ from the candidate.',
     'Source JSON:',
     JSON.stringify(source, null, 2),
     'Candidate JSON:',

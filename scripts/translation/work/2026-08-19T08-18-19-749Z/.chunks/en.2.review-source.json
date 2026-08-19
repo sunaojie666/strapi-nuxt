@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "购买记录",
+    "title": "购买记录",
+    "tabTitle": "购买记录",
+    "exchangeTabTitle": "兑换记录",
+    "tableHeaders": {
+      "title": "类型",
+      "date": "支付时间",
+      "price": "金额",
+      "paymentMethod": "支付方式",
+      "status": "状态",
+      "exchangeDate": "兑换时间",
+      "exchangeCode": "兑换码"
+    },
+    "exchangeTableHeaders": {
+      "date": "兑换时间",
+      "code": "兑换码"
+    },
+    "cardTypes": {
+      "month": "月卡",
+      "year": "年卡",
+      "life": "永久卡",
+      "default": "会员卡"
+    },
+    "orderStatuses": {
+      "pending": "待支付",
+      "paid": "已支付",
+      "closed": "已关闭",
+      "refunded": "已退款",
+      "unknown": "未知"
+    },
+    "secretLabels": {
+      "show": "查看密码",
+      "hide": "隐藏密码"
+    },
+    "secretMask": "******",
+    "emptyText": "暂无购买记录",
+    "exchangeEmptyText": "暂无兑换记录",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "银行卡",
+      "creditcard": "信用卡",
+      "alipay": "支付宝",
+      "wechat": "微信支付",
+      "wechatpay": "微信支付",
+      "usdt": "USDT",
+      "crypto": "加密货币",
+      "balance": "余额",
+      "free": "免费"
+    }
+  },
+  "team": {
+    "ariaLabel": "我的团队",
+    "title": "我的团队",
+    "referrerLabel": "我的上级",
+    "levelOne": "一级成员",
+    "levelTwo": "二级成员",
+    "tableHeaders": {
+      "name": "成员名称",
+      "status": "会员状态",
+      "joinedAt": "加入时间"
+    },
+    "memberStatus": {
+      "free": "普通用户",
+      "vip": "VIP用户"
+    },
+    "emptyMemberName": "未命名用户",
+    "emptyReferrer": "暂无上级",
+    "emptyTeam": "暂无团队成员",
+    "errors": {
+      "loadFail": "团队成员加载失败，请稍后重试"
+    }
+  },
+  "earnings": {
+    "ariaLabel": "收益中心",
+    "title": "收益概览",
+    "commissionTitle": "佣金明细",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "累计收益",
+        "desc": "历史累计佣金收入"
+      },
+      {
+        "key": "month",
+        "title": "本月收益",
+        "desc": "当前月份佣金收入"
+      },
+      {
+        "key": "settling",
+        "title": "结算中",
+        "value": "0.00",
+        "desc": "待结算金额"
+      },
+      {
+        "key": "withdrawable",
+        "title": "可提现",
+        "desc": "当前可申请提现金额",
+        "action": "提现"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "用户名",
+      "saleTime": "销售时间",
+      "goodsInfo": "商品信息",
+      "commission": "佣金"
+    },
+    "emptyCommission": "暂无佣金记录",
+    "errors": {
+      "loadFail": "佣金明细加载失败，请稍后重试"
+    },
+    "withdraw": {
+      "ariaLabel": "提现申请",
+      "title": "提现申请",
+      "closeLabel": "关闭提现弹窗",
+      "balanceLabel": "可提现余额",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "提现金额",
+      "amountPlaceholder": "请输入提现金额",
+      "allButton": "全部",
+      "allAmountValue": "0.00",
+      "amountTip": "请确认金额无误，提交后将进入人工审核。",
+      "methodLabel": "提现方式",
+      "methods": [
+        "银行卡",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "银行卡",
+      "nameLabel": "收款人姓名",
+      "namePlaceholder": "请输入收款人姓名",
+      "defaultName": "",
+      "bankCardLabel": "收款账号",
+      "bankCardPlaceholder": "请输入银行卡号、PayPal 邮箱或钱包地址",
+      "remarkLabel": "备注",
+      "remarkPlaceholder": "可填写补充说明",
+      "note": "提现申请提交后，工作人员会在 1-3 个工作日内处理。",
+      "cancelButton": "取消",
+      "submitButton": "提交申请"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "兑换成功",
+    "operationFailed": "兑换失败",
+    "invalidCard": "兑换码无效",
+    "cardNotFound": "兑换码不存在",
+    "cardDisabled": "兑换码已停用",
+    "cardExpired": "兑换码已过期"
+  },
+  "successMessage": "操作成功"
+}

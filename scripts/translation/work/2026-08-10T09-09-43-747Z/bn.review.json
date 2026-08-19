@@ -1,0 +1,248 @@
+{
+  "score": 85,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.cards[0].tag_1",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "Use 'মোবাইল' consistently; it is acceptable, but consider 'মোবাইল' as is."
+    },
+    {
+      "path": "$.cards[0].tag_2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "For 'Beginner Tutorial', 'শিক্ষানবিশ টিউটোরিয়াল' is fine, but 'শিক্ষানবিশের টিউটোরিয়াল' might be more natural."
+    },
+    {
+      "path": "$.cards[1].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam-এর ম্যাটিং মোড বোঝা' to 'VicastCam-এর ম্যাটিং মোড বোঝা' is acceptable, but 'VicastCam-এর ম্যাটিং মোডসমূহ বোঝা' could be more precise."
+    },
+    {
+      "path": "$.cards[2].title",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'VicastCam-এর লেয়ার ফিচার ব্যবহারের পদ্ধতি' is fine, but 'VicastCam-এর লেয়ার ফিচার কীভাবে ব্যবহার করবেন' might be more natural."
+    },
+    {
+      "path": "$.cards[3].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'ডেস্কটপে VicastCam-এর সাথে পরিচিতি' to 'ডেস্কটপে VicastCam-এর সাথে পরিচিত হওয়া' for better flow."
+    },
+    {
+      "path": "$.cards[4].title",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'কীভাবে iPhone-কে VicastCam-এর সাথে ওয়্যারলেসভাবে সংযুক্ত করবেন' to 'কীভাবে iPhone-কে VicastCam-এর সাথে ওয়্যারলেসভাবে সংযুক্ত করবেন' is fine, but 'কীভাবে iPhone-কে VicastCam-এর সাথে ওয়্যারলেসভাবে যুক্ত করবেন' might be more common."
+    },
+    {
+      "path": "$.cards[5].title",
+      "category": "glossary",
+      "severity": "minor",
+      "instruction": "For 'Local Media', 'লোকাল মিডিয়া' is acceptable, but 'স্থানীয় মিডিয়া' might be more natural in Bangla."
+    },
+    {
+      "path": "$.communitys[0].content.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'সব জায়গায় কাজ করে এমন লাইভ স্ট্রিমিং' is fine, but 'যেকোনো জায়গায় কাজ করে এমন লাইভ স্ট্রিমিং' might be more natural."
+    },
+    {
+      "path": "$.communitys[0].content.title_highlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change '১৫০+ দেশের স্ট্রিমারদের আস্থার জায়গা' to '১৫০+ দেশের স্ট্রিমারদের আস্থার স্থান' for better formality."
+    },
+    {
+      "path": "$.communitys[0].content.desc",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'সেবা দিয়ে' to 'সেবা প্রদান করে' for more formal tone."
+    },
+    {
+      "path": "$.communitys[0].content.data_list[2].name",
+      "category": "meaning_change",
+      "severity": "minor",
+      "instruction": "For 'Popularity Boost', 'জনপ্রিয়তা বৃদ্ধি' is literal; consider 'জনপ্রিয়তা বাড়ানোর সহায়তা' or 'জনপ্রিয়তা বৃদ্ধির সহায়তা' to convey the meaning better."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.title_highlight",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Change 'আমাদের কাছে উত্তর আছে।' to 'আমাদের কাছে উত্তর রয়েছে।' for more formal tone."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'নিচে VicastCam সম্পর্কিত সাধারণ প্রশ্নের উত্তর খুঁজুন।' to 'নিচে VicastCam সম্পর্কিত সাধারণ প্রশ্নের উত্তর খুঁজে নিন।' for better flow."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[0].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam YouTube, Twitch, TikTok, Facebook Live এবং Instagram-এর মতো প্রধান প্ল্যাটফর্মে স্ট্রিমিং সমর্থন করে।' to 'VicastCam YouTube, Twitch, TikTok, Facebook Live এবং Instagram-এর মতো প্রধান প্ল্যাটফর্মে স্ট্রিমিং সমর্থন করে।' is fine, but consider 'VicastCam YouTube, Twitch, TikTok, Facebook Live এবং Instagram-এর মতো প্রধান প্ল্যাটফর্মগুলোতে স্ট্রিমিং সমর্থন করে।'"
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[1].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam AI-চালিত ব্যাকগ্রাউন্ড রিমুভাল ব্যবহার করে' to 'VicastCam AI-চালিত ব্যাকগ্রাউন্ড রিমুভাল ব্যবহার করে' is fine, but 'VicastCam AI-চালিত ব্যাকগ্রাউন্ড অপসারণ ব্যবহার করে' might be more formal."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[2].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam iOS এবং Android-এ উপলব্ধ' to 'VicastCam iOS এবং Android-এ উপলব্ধ' is fine, but 'VicastCam iOS এবং Android-এ পাওয়া যায়' might be more natural."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[3].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'VicastCam 99.9% স্থিতিশীলতা প্রদান করে' to 'VicastCam 99.9% স্থিতিশীলতা প্রদান করে' is fine, but 'VicastCam 99.9% স্থিতিশীলতা নিশ্চিত করে' might be more direct."
+    },
+    {
+      "path": "$.faqs[0].faq_data.faq_section.questions[4].answer",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'লাইভ স্ট্রিমের সময় আপনি একাধিক ক্যামেরার মধ্যে নির্বিঘ্নে স্যুইচ করতে পারেন' to 'লাইভ স্ট্রিমের সময় আপনি একাধিক ক্যামেরার মধ্যে নির্বিঘ্নে স্যুইচ করতে পারেন' is fine, but 'লাইভ স্ট্রিমের সময় আপনি একাধিক ক্যামেরার মধ্যে নির্বিঘ্নে পরিবর্তন করতে পারেন' might be more natural."
+    },
+    {
+      "path": "$.tutorials[0].data.titleMain",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'আপনার VicastCam' to 'আপনার VicastCam যাত্রা' for better context."
+    },
+    {
+      "path": "$.tutorials[0].data.titleHighlight",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'শেখার যাত্রা শুরু করুন' to 'শেখার যাত্রা শুরু করুন' is fine, but 'শেখার যাত্রা শুরু হোক' might be more natural."
+    },
+    {
+      "path": "$.tutorials[0].data.description",
+      "category": "grammar",
+      "severity": "minor",
+      "instruction": "Change 'সফটওয়্যারটি আয়ত্ত করুন এবং দ্রুত গতি পান' to 'সফটওয়্যারটি আয়ত্ত করুন এবং দ্রুত গতি অর্জন করুন' for better formality."
+    }
+  ],
+  "revisedContent": {
+    "cards": [
+      {
+        "title": "কীভাবে নতুন লাইভ রুম তৈরি করবেন",
+        "tag_1": "মোবাইল",
+        "tag_2": "শিক্ষানবিশ টিউটোরিয়াল"
+      },
+      {
+        "title": "VicastCam-এর ম্যাটিং মোড বোঝা",
+        "tag_1": "মোবাইল",
+        "tag_2": "ফিচার টিউটোরিয়াল"
+      },
+      {
+        "title": "VicastCam-এর লেয়ার ফিচার ব্যবহারের পদ্ধতি",
+        "tag_1": "মোবাইল",
+        "tag_2": "মূল ফিচার"
+      },
+      {
+        "title": "ডেস্কটপে VicastCam-এর সাথে পরিচিত হওয়া",
+        "tag_1": "ডেস্কটপ",
+        "tag_2": "শিক্ষানবিশ টিউটোরিয়াল"
+      },
+      {
+        "title": "কীভাবে iPhone-কে VicastCam-এর সাথে ওয়্যারলেসভাবে যুক্ত করবেন",
+        "tag_1": "iOS",
+        "tag_2": "সংযোগ টিউটোরিয়াল"
+      },
+      {
+        "title": "কীভাবে স্থানীয় মিডিয়া যোগ ও ব্যবহার করবেন",
+        "tag_1": "ডেস্কটপ",
+        "tag_2": "ব্যবহার টিউটোরিয়াল"
+      }
+    ],
+    "communitys": [
+      {
+        "content": {
+          "tag": "গ্লোবাল কমিউনিটি",
+          "title_main": "যেকোনো জায়গায় কাজ করে এমন লাইভ স্ট্রিমিং",
+          "title_highlight": "১৫০+ দেশের স্ট্রিমারদের আস্থার স্থান",
+          "desc": "১৫০টিরও বেশি দেশ ও অঞ্চলে সেবা প্রদান করে, আমরা অসংখ্য স্ট্রিমারকে শিক্ষানবিশ থেকে পেশাদার লাইভ কনটেন্ট নির্মাতা হিসেবে গড়ে তুলতে সাহায্য করছি।",
+          "data_list": [
+            {
+              "number": "150+",
+              "name": "দেশ"
+            },
+            {
+              "number": "2000+",
+              "name": "সক্রিয় স্ট্রিমার"
+            },
+            {
+              "number": "5000+",
+              "name": "জনপ্রিয়তা বৃদ্ধির সহায়তা"
+            },
+            {
+              "number": "99.9%",
+              "name": "স্থিতিশীলতা"
+            }
+          ]
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "faq_data": {
+          "locale": "bn",
+          "faq_section": {
+            "tag": "FAQ",
+            "title_main": "প্রশ্ন আছে?",
+            "title_highlight": "আমাদের কাছে উত্তর রয়েছে।",
+            "description": "নিচে VicastCam সম্পর্কিত সাধারণ প্রশ্নের উত্তর খুঁজে নিন। যা খুঁজছেন তা পাননি? আমাদের টিমের সাথে যোগাযোগ করুন।",
+            "questions": [
+              {
+                "id": "q1",
+                "question": "VicastCam দিয়ে কোন প্ল্যাটফর্মে স্ট্রিম করতে পারব?",
+                "answer": "VicastCam YouTube, Twitch, TikTok, Facebook Live এবং Instagram-এর মতো প্রধান প্ল্যাটফর্মগুলোতে স্ট্রিমিং সমর্থন করে।"
+              },
+              {
+                "id": "q2",
+                "question": "VicastCam-এর ব্যাকগ্রাউন্ড রিমুভালের জন্য কি গ্রিন স্ক্রিন প্রয়োজন?",
+                "answer": "না। VicastCam AI-চালিত ব্যাকগ্রাউন্ড অপসারণ ব্যবহার করে, তাই গ্রিন স্ক্রিন ছাড়াই রিয়েল টাইমে আপনার ব্যাকগ্রাউন্ড পরিবর্তন করতে পারবেন।"
+              },
+              {
+                "id": "q3",
+                "question": "আমি কি আমার ফোনে VicastCam ব্যবহার করতে পারব?",
+                "answer": "হ্যাঁ। VicastCam iOS এবং Android-এ পাওয়া যায়, এবং মোবাইলে সমস্ত প্রফেশনাল ফিচার ব্যবহার করা যায়।"
+              },
+              {
+                "id": "q4",
+                "question": "VicastCam কতটা নির্ভরযোগ্য?",
+                "answer": "VicastCam 99.9% স্থিতিশীলতা নিশ্চিত করে, বিশ্বজুড়ে স্ট্রিমারদের 24/7 নিরবচ্ছিন্ন স্ট্রিমিংয়ে সহায়তা করে।"
+              },
+              {
+                "id": "q5",
+                "question": "VicastCam কি মাল্টি-ক্যামেরা স্ট্রিমিং সমর্থন করে?",
+                "answer": "হ্যাঁ। লাইভ স্ট্রিমের সময় আপনি একাধিক ক্যামেরার মধ্যে নির্বিঘ্নে পরিবর্তন করতে পারেন, যা একটি প্রফেশনাল প্রোডাকশন অর্জনে সহায়তা করে।"
+              }
+            ],
+            "view_more": {
+              "text": "আরও দেখুন"
+            }
+          }
+        }
+      }
+    ],
+    "tutorials": [
+      {
+        "data": {
+          "sectionTag": "টিউটোরিয়াল সেন্টার",
+          "titleMain": "আপনার VicastCam যাত্রা",
+          "titleHighlight": "শেখার যাত্রা শুরু হোক",
+          "description": "সফটওয়্যারটি আয়ত্ত করুন এবং দ্রুত গতি অর্জন করুন",
+          "buttonText": "আরও দেখুন"
+        }
+      }
+    ]
+  }
+}

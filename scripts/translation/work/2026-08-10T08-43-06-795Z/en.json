@@ -1,0 +1,195 @@
+{
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Pricing",
+          "titleMain": "Choose the plan",
+          "titleHighlight": "that fits you",
+          "description": "Try it free, or choose another plan",
+          "priceAltSuffix": "Price",
+          "freePlanMessage": "Free users don't need to purchase",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Free",
+              "description": "Free to download and register, with basic features available at no cost.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/month",
+              "priceNote": "",
+              "cta": "Get Started",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Create with a single scene",
+                "Arrange up to four layers freely",
+                "Access a variety of live background materials",
+                "Basic quality for PC screen casting",
+                "Built-in natural beauty effects"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Monthly",
+              "description": "Activate and enjoy a full month of access, a low-cost way to try.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/month",
+              "priceNote": "30-day access",
+              "cta": "Buy",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "All mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Exclusive live streaming effects"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Yearly",
+              "description": "Best value with annual savings.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/year",
+              "priceNote": "365-day access",
+              "cta": "Buy",
+              "badgeText": "Most Popular",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "All mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Exclusive live streaming effects"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Lifetime",
+              "description": "One-time purchase for lifetime access, ideal for long-term creators.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Lifetime access",
+              "cta": "Buy",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "All mobile features",
+                "PC screen casting live streaming",
+                "HD live streaming quality",
+                "Advanced beauty effects",
+                "Exclusive live streaming effects"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Monthly",
+                "subtitle": "Activate and enjoy a full month of access, a low-cost way to try.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/month",
+                "cta": "Buy",
+                "benefits": [
+                  "All mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Exclusive live streaming effects"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Yearly",
+                "subtitle": "Best value with annual savings.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/year",
+                "cta": "Buy",
+                "benefits": [
+                  "All mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Exclusive live streaming effects"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Lifetime",
+                "subtitle": "One-time purchase for lifetime access, ideal for long-term creators.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Buy",
+                "benefits": [
+                  "All mobile features",
+                  "PC screen casting live streaming",
+                  "HD live streaming quality",
+                  "Advanced beauty effects",
+                  "Exclusive live streaming effects"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, UAE"
+    }
+  ]
+}

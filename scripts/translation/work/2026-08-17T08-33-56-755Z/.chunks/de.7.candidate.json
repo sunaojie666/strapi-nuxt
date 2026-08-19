@@ -1,0 +1,70 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-screen-incomplete",
+      "title": "Was tun, wenn der Bildschirm beim Streamen vom Computer nicht vollständig angezeigt wird?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn der Bildschirm beim Streamen von Ihrem Telefon über eine Live-Streaming-Begleit-App oder andere Software nicht vollständig angezeigt wird, befolgen Sie diese Schritte zur Anpassung:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Öffnen Sie VicastCam, tippen Sie auf das Kamerasymbol unten, um zur Live-Streaming-Seite zu gelangen, und gehen Sie dann zu [Rechtes Menü - Weitere Einstellungen - Seitenverhältnis - 9:16].",
+            "Nach dem Übertragen an die Live-Streaming-Begleit-App skalieren Sie zuerst auf die passende Größe und ziehen Sie dann den Bildschirm nach oben oder unten, um den gesamten Bildschirm auszufüllen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Hinweis: Passen Sie vor dem Start Ihres Streams zuerst das Seitenverhältnis an und fügen Sie dann Ihre Assets hinzu."
+        }
+      ]
+    },
+    {
+      "id": "ios-network-failed",
+      "title": "Was tun, wenn eine Netzwerkanfrage fehlschlägt?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn Netzwerkanfragen fehlschlagen, versuchen Sie Folgendes:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Öffnen Sie die Einstellungen Ihres Telefons, gehen Sie zu [Berechtigungsverwaltung - VicastCam - Mobile Daten und WLAN verwenden] und aktivieren Sie den Netzwerkzugriff.",
+            "Deaktivieren Sie den Energiesparmodus und alle Hintergrundbeschränkungen auf Ihrem Telefon.",
+            "Wechseln Sie das Netzwerk, starten Sie Ihr Telefon neu, aktivieren Sie den Flugmodus oder aktualisieren Sie die App auf die neueste Version.",
+            "Wenn das Problem weiterhin besteht, machen Sie einen Screenshot des Fehlers und wenden Sie sich an den Kundensupport."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-asset-black-screen",
+      "title": "Warum flackern Netzwerk-Asset-Overlays während eines Live-Streams oder werden schwarz?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Wenn beim Hinzufügen von Netzwerk-Assets während eines Live-Streams Flackern oder schwarze Bildschirme auftreten, gehen Sie wie folgt vor:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Laden Sie alle Assets und Overlays, die Sie während des Streams verwenden möchten, im Voraus herunter und testen Sie sie. Stellen Sie sicher, dass sie einwandfrei funktionieren, bevor Sie live gehen.",
+            "Einige in der Software enthaltene Assets werden auf Servern gespeichert. Laden Sie sie vor dem Start Ihres Streams herunter, damit Sie sie während des Streams direkt verwenden können, ohne sie erneut laden zu müssen.",
+            "Das Laden von Assets während des Streams verbraucht Streaming-Ressourcen, Telefonspeicher und Leistung, was zu Verzögerungen führen kann. Auf schwächeren Telefonen kann dies sogar zu Abstürzen oder schwarzen Bildschirmen führen."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Wichtiger Hinweis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Planen und proben Sie Ihren Stream im Voraus. Üben Sie jeden Abschnitt, um sicherzustellen, dass alles reibungslos läuft, bevor Sie live gehen. Behandeln Sie jeden Stream mit Sorgfalt, und Ihr Stream wird es Ihnen danken."
+        }
+      ]
+    }
+  ]
+}

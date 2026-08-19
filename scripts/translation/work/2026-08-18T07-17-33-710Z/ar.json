@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "اختر طريقة الدفع",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "ادفع من رصيد PayPal أو بطاقة بنكية أو بطاقة ائتمان",
+            "secureBadge": "دفع آمن",
+            "methodLabel": "طريقة الدفع",
+            "accountLabel": "الحساب الحالي",
+            "signInRequired": "يرجى تسجيل الدخول للمتابعة مع عملية الشراء",
+            "signInAction": "تسجيل الدخول",
+            "summaryHint": "انقر على زر PayPal لإتمام الدفع",
+            "trustItems": [
+              "تتم معالجة المدفوعات بشكل آمن عبر PayPal",
+              "يدعم رصيد PayPal والبطاقات البنكية وبطاقات الائتمان",
+              "يتم تفعيل مزايا العضوية تلقائيًا بعد نجاح الدفع"
+            ],
+            "buttonPay": "ادفع عبر PayPal",
+            "buttonPending": "الطلب قيد الانتظار",
+            "buttonCreating": "جارٍ إنشاء الطلب...",
+            "sdkLoading": "جارٍ تحميل PayPal...",
+            "sdkError": "فشل تحميل PayPal. يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.",
+            "sdkIneligible": "الدفع عبر PayPal غير مدعوم في هذه البيئة",
+            "sdkMissingConfig": "PayPal غير مهيأ. يرجى الاتصال بالمسؤول.",
+            "orderCreating": "جارٍ إنشاء طلب الدفع...",
+            "orderCreateFailed": "فشل إنشاء الطلب. يرجى المحاولة مرة أخرى.",
+            "orderProcessing": "لا يزال يتم تأكيد نتيجة الدفع. يرجى التحقق لاحقًا.",
+            "orderSuccess": "تم الدفع بنجاح. تم تفعيل مزايا عضويتك.",
+            "orderFailed": "لم يتم الدفع بنجاح. يرجى المحاولة مرة أخرى.",
+            "orderPending": "لم يكتمل الدفع. يرجى إتمام الدفع والتحقق مرة أخرى.",
+            "orderExpired": "انتهت صلاحية طلب الدفع. يرجى المحاولة مرة أخرى.",
+            "statusQueryFailed": "فشل التحقق من حالة الدفع. يرجى المحاولة لاحقًا.",
+            "invalidPlan": "الخطة المحددة غير صالحة. يرجى الرجوع واختيار خطة أخرى.",
+            "popupBlocked": "تم حظر نافذة الدفع بواسطة المتصفح. يرجى السماح بالنوافذ المنبثقة لهذا الموقع والمحاولة مرة أخرى.",
+            "popupOpened": "تم فتح نافذة دفع PayPal. يرجى إتمام الدفع في النافذة.",
+            "popupClosedChecking": "تم إغلاق نافذة الدفع. جارٍ تأكيد نتيجة الدفع...",
+            "popupClosedFailed": "تم إغلاق نافذة الدفع، لكن الطلب لم يكتمل. يرجى المحاولة مرة أخرى."
+          },
+          "summary": {
+            "title": "ملخص الطلب",
+            "periodLabel": "فترة العضوية",
+            "paymentMethodLabel": "طريقة الدفع",
+            "amountLabel": "المبلغ المستحق",
+            "paymentMethod": "الدفع عبر PayPal",
+            "note": "بعد نجاح الدفع، سيتم منح مزايا العضوية تلقائيًا لحسابك الحالي.",
+            "periodMonth": "شهر واحد",
+            "periodYear": "سنة واحدة",
+            "periodLife": "مدى الحياة",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "جارٍ تأكيد نتيجة الدفع...",
+            "closeLabel": "إغلاق",
+            "iconAlt": "نتيجة الدفع",
+            "titlePrefix": "الدفع",
+            "successTitleHighlight": "ناجح!",
+            "failureTitleHighlight": "فشل!",
+            "successDescription": "شكرًا لشرائك. تم تفعيل عضويتك.",
+            "failureDescription": "تعذر إتمام الدفع. يرجى المحاولة مرة أخرى أو استخدام طريقة دفع مختلفة.",
+            "orderNumber": "رقم الطلب",
+            "membershipType": "نوع العضوية",
+            "expiry": "تاريخ الانتهاء",
+            "orderStatus": "حالة الطلب",
+            "successStatus": "مدفوع",
+            "failureStatus": "غير مدفوع",
+            "successPrimaryAction": "عرض في مركز العضوية",
+            "failurePrimaryAction": "تغيير طريقة الدفع",
+            "successSecondaryAction": "موافق",
+            "failureSecondaryAction": "العودة إلى الصفحة",
+            "copyOrderNumber": "نسخ رقم الطلب",
+            "copied": "تم النسخ",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "تأكيد الشراء | VicastCam",
+            "description": "قم بتأكيد خطة عضوية VicastCam الخاصة بك وأكمل الدفع عبر PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "عضوية شهرية",
+              "description": "استمتع بجميع مزايا عضوية VicastCam على أساس شهري",
+              "period": "شهر واحد"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "عضوية سنوية",
+              "description": "استمتع بجميع مزايا عضوية VicastCam لمدة عام كامل",
+              "period": "سنة واحدة"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "عضوية مدى الحياة",
+              "description": "شراء لمرة واحدة، ووصول طويل الأمد لمزايا عضوية VicastCam",
+              "period": "مدى الحياة"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

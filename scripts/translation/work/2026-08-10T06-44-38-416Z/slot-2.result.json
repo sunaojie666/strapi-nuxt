@@ -1,0 +1,34 @@
+{
+  "complete": true,
+  "slot": "2",
+  "results": [
+    {
+      "locale": "bn",
+      "approved": false,
+      "score": 88,
+      "reviewStatus": "revise",
+      "issueCount": 7,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-44-38-416Z\\bn.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    },
+    {
+      "locale": "fa",
+      "sourceLocale": "en",
+      "approved": false,
+      "error": "validate-localization.mjs exited with 2: "
+    },
+    {
+      "locale": "th",
+      "approved": true,
+      "score": 92,
+      "reviewStatus": "approved",
+      "issueCount": 0,
+      "validationStatus": "machine-reviewed",
+      "outputPath": "C:\\Users\\sunao\\Desktop\\前端\\strapi-nuxt\\scripts\\translation\\work\\2026-08-10T06-44-38-416Z\\th.json",
+      "referenceStatus": "missing-needs-native-review",
+      "sourceLocale": "en"
+    }
+  ]
+}

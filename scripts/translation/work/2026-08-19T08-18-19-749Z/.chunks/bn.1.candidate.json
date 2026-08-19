@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "অ্যাকাউন্ট সেন্টার",
+    "description": "VicastCam অ্যাকাউন্ট সেন্টার পেজ"
+  },
+  "common": {
+    "sidebarAriaLabel": "অ্যাকাউন্ট নেভিগেশন",
+    "defaultProfileName": "ব্যবহারকারী",
+    "emptyContent": "কোনো কন্টেন্ট নেই",
+    "copyButtonLabel": "কপি",
+    "monthSelectLabel": "মাস নির্বাচন করুন",
+    "yearSuffix": "",
+    "monthSuffix": "",
+    "userMissing": "ব্যবহারকারীর তথ্য পাওয়া যায়নি। অনুগ্রহ করে আবার লগ ইন করুন।",
+    "paginationLabel": "পেজিনেশন",
+    "previousPageLabel": "আগের পেজ",
+    "nextPageLabel": "পরের পেজ",
+    "vipBadgeText": "VIP",
+    "paginationJump": {
+      "label": "যান",
+      "unit": "পেজ",
+      "ariaLabel": "নির্দিষ্ট পেজে যান",
+      "buttonLabel": "যান"
+    }
+  },
+  "headerUserMenu": {
+    "profile": "অ্যাকাউন্ট সেন্টার",
+    "logout": "লগ আউট",
+    "profileAriaSuffix": "অ্যাকাউন্ট মেনু"
+  },
+  "sidebar": {
+    "ariaLabel": "অ্যাকাউন্ট নেভিগেশন",
+    "menus": {
+      "account": "অ্যাকাউন্ট তথ্য",
+      "membership": "মেম্বারশিপ",
+      "redeem": "কোড রিডিম করুন",
+      "purchaseHistory": "ক্রয়ের ইতিহাস",
+      "team": "আমার টিম",
+      "earnings": "আয়"
+    }
+  },
+  "account": {
+    "ariaLabel": "অ্যাকাউন্ট তথ্য",
+    "profileTitle": "অ্যাকাউন্ট তথ্য",
+    "usernameLabel": "ইউজারনেম",
+    "passwordLabel": "পাসওয়ার্ড",
+    "passwordMask": "********",
+    "defaultUsername": "কোনো ডাকনাম সেট করা নেই",
+    "emailLabel": "লিংকড ইমেইল",
+    "emailPlaceholder": "আপনার ইমেইল লিখুন",
+    "codePlaceholder": "ভেরিফিকেশন কোড লিখুন",
+    "sendCodeButton": "কোড পান",
+    "bindButton": "ইমেইল লিংক করুন",
+    "alreadyBound": "লিংক করা হয়েছে",
+    "unboundEmail": "লিংক করা হয়নি",
+    "emailBindTip": "একবার লিংক করলে ইমেইল পরিবর্তন করা যাবে না। অনুগ্রহ করে নিশ্চিত করুন ইমেইল ঠিকানা সঠিক।",
+    "emailRequired": "একটি বৈধ ইমেইল লিখুন",
+    "codeRequired": "ভেরিফিকেশন কোড লিখুন",
+    "codeSent": "ভেরিফিকেশন কোড পাঠানো হয়েছে। আপনার ইমেইল চেক করুন।",
+    "bindSuccess": "ইমেইল সফলভাবে লিংক হয়েছে",
+    "bindFailed": "ইমেইল লিংক করা ব্যর্থ হয়েছে। কোড চেক করে আবার চেষ্টা করুন।",
+    "requestFailed": "অনুরোধ ব্যর্থ হয়েছে। পরে আবার চেষ্টা করুন।",
+    "inviteTitle": "ইনভাইট লিংক",
+    "inviteDescription": "আপনার ব্যক্তিগত ইনভাইট লিংক কপি করুন। বন্ধুরা রেজিস্টার করে মেম্বারশিপ কিনলে আপনি পুরস্কার পাবেন।",
+    "emptyInviteLink": "কোনো ইনভাইট লিংক নেই"
+  }
+}

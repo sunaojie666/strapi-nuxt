@@ -83,8 +83,8 @@ function buildPrompt({ locale, sourceLocale, contentType, source, localeProfile,
   const protectedValues = findProtectedValues(source);
   const legalNotice =
     contentType === 'legal'
-      ? 'Set `needsHumanLegalReview` to true. This content must not be published automatically.'
-      : 'Set `needsHumanLegalReview` to false.';
+      ? 'This content requires human legal review. Preserve the input JSON schema exactly; do not add a `needsHumanLegalReview` field unless that field already exists in the input.'
+      : 'Preserve the input JSON schema exactly; do not add a `needsHumanLegalReview` field unless that field already exists in the input.';
 
   return [
     `You are a senior native ${locale.name} localization editor for ${locale.market}.`,
@@ -94,6 +94,7 @@ function buildPrompt({ locale, sourceLocale, contentType, source, localeProfile,
       ? 'This is the first translation stage. The Simplified Chinese source is the factual source of truth. Produce an English master suitable for reuse as the source for every later locale.'
       : 'This is the second translation stage. The approved English master is the only translation source. Do not infer wording, claims, or intent from Chinese or any other locale.',
     'Preserve all factual meaning, product limitations, numbers, dates, prices, currencies, URLs, email addresses, field keys, JSON value types, array order, and template variables exactly.',
+    `When an object contains a key named \`locale\`, set its string value to the target locale code \`${locale.code}\`.`,
     'Do not add, remove, weaken, broaden, narrow, or substitute a feature, use case, target audience, guarantee, comparison, condition, limitation, or commercial claim. When the source is ambiguous, preserve that ambiguity rather than inventing a more marketable claim.',
     'You may rewrite sentence order, syntax, headline length, idioms, and calls to action when needed so the result reads as original copy written by a native editor for the target market.',
     'Comparable English-language product websites may inform sentence rhythm, page hierarchy, CTA conventions, and terminology patterns only. They are never a source of product facts or claims, and their wording must never be copied.',
@@ -157,6 +158,7 @@ async function main() {
   const inputPath = getArgument('input');
   const outputPath = getArgument('output');
   const englishManifestPath = getArgument('english-manifest');
+  const allowMissingReferences = process.argv.includes('--allow-missing-references');
 
   if (!localeCode || !contentType || !inputPath) {
     showUsage('Missing --locale, --content-type, or --input.');
@@ -232,7 +234,11 @@ async function main() {
   } catch {
     // The downstream market-research gate below produces the user-facing error.
   }
-  if (localeCode !== localeConfig.intermediateLocale && workflow.marketResearch.requiredForEveryDownstreamLocale) {
+  if (
+    localeCode !== localeConfig.intermediateLocale &&
+    workflow.marketResearch.requiredForEveryDownstreamLocale &&
+    !allowMissingReferences
+  ) {
     const successfulPages = (collectedReferences?.pages || []).filter((page) => page.status >= 200 && page.status < 300).length;
     if (successfulPages < workflow.marketResearch.minimumSuccessfulPublicReferencePages) {
       showUsage(`Locale ${localeCode} needs at least ${workflow.marketResearch.minimumSuccessfulPublicReferencePages} successful public reference pages before translation. Run collect-locale-references.mjs first.`);

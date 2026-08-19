@@ -1,0 +1,499 @@
+{
+  "graphics": [
+    {
+      "data": {
+        "seo": {
+          "title": "VicastCam FAQ | Help voor Android en iOS",
+          "description": "Vind antwoorden op veelgestelde vragen over VicastCam voor Android en iOS, waaronder accountinstellingen, mediarechten, netwerkverbindingen en problemen met live streamen.",
+          "imageAlt": "VicastCam FAQ"
+        },
+        "hero": {
+          "eyebrow": "FAQ",
+          "titleMain": "VicastCam Help",
+          "titleHighlight": "Vind snel antwoorden",
+          "description": "Kies je platform (Android of iOS) om veelgestelde vragen en oplossingen voor jouw apparaat te zien."
+        },
+        "content": {
+          "sectionAriaLabel": "Veelgestelde vragen",
+          "catalogAriaLabel": "Vraagcategorieën",
+          "answerLabel": "Antwoord",
+          "questionProgressTemplate": "{group} · Vraag {current} van {total}"
+        },
+        "groups": [
+          {
+            "key": "android",
+            "title": "Android-handleidingen",
+            "count": "9 vragen",
+            "icon": "lucide:smartphone",
+            "questions": [
+              {
+                "id": "android-media-size",
+                "title": "Wat zijn de aanbevolen afmetingen voor live stream materialen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Aanbevolen afmetingen voor live stream materialen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Voor live stream achtergrondafbeeldingen raden we 1080 x 1920 pixels aan; voor video's raden we ook 1080 x 1920 pixels aan.",
+                      "Belangrijk: Full-screen overlays moeten een 9:16 beeldverhouding gebruiken om naadloos te kunnen schakelen tussen full-screen en 9:16 modus zonder verschuivingen, voor een perfect passend effect."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-stream-output-mode",
+                "title": "Welke uitvoermodi worden ondersteund voor streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Streaming ondersteunt twee uitvoermodi: 9:16 streaming en full-screen streaming. Volg deze stappen om er een te selecteren op je Android-apparaat:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, ga naar de live streaming pagina en tik op het menu-icoon aan de rechterkant."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-menu.png",
+                    "alt": "Menu-ingang aan de rechterkant van de Android live streaming pagina",
+                    "caption": "Stap 1: Tik op het menu-icoon aan de rechterkant van de live streaming pagina."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Zoek in 'Meer instellingen' naar 'Beeldverhouding' en kies 'Full Screen' of '9:16' indien nodig."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/android-stream-output-aspect-ratio.png",
+                    "alt": "Opties voor beeldverhouding in Meer instellingen op Android",
+                    "caption": "Stap 2: Selecteer 'Full Screen' of '9:16' bij 'Beeldverhouding'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Uitleg van de twee modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 streaming: De uitvoerbeeldverhouding is vastgesteld op 9:16, dus het live platform ontvangt een 9:16 beeld.",
+                      "Full-screen streaming: Streamt het volledige telefoonscherm zoals het is, met behoud van de oorspronkelijke inhoud zonder bijsnijden."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-delete-account",
+                "title": "Hoe verwijder ik mijn account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in op de VicastCam-app en ga naar [Account - pictogram rechtsboven - Accountbeheer - Account verwijderen - Verwijderingsverzoek indienen]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Accountgegevens"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Na het verwijderen van je account verwijderen we permanent je gekoppelde e-mailadres, apparaatgegevens en andere identiteitsinformatie, en trekken we je inlogautorisatie via Google- en Apple-accounts in. Na intrekking kun je die accounts niet meer gebruiken voor snel inloggen; om de app opnieuw te gebruiken, moet je opnieuw autoriseren en koppelen."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Inhoud en materialen"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Al je live stream materialen, video's, afbeeldingen en projectbestanden worden alleen op je apparaat opgeslagen; de cloud bewaart geen creatieve materialen. Na verwijdering werkt de functie voor materiaalbeheer in de app niet meer. Zorg daarom dat je van tevoren een back-up maakt via 'Materiaal exporteren'.",
+                      "Als je de app verwijdert en opnieuw installeert, van apparaat wisselt of geen back-up hebt geëxporteerd, zijn je materialen permanent onherstelbaar."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lidmaatschapsvoordelen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Na het verwijderen van je account vervallen je lidmaatschapsvoordelen onmiddellijk. Als je een actief Google Play-abonnement hebt, wordt het abonnement niet automatisch geannuleerd door het verwijderen van je app-account en kunnen er kosten blijven worden doorberekend. Ga naar 'Betalingen en abonnementen - Abonnementen' in Google Play om handmatig te annuleren."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Als je vragen hebt, neem dan contact op met ons klantenserviceteam."
+                  }
+                ]
+              },
+              {
+                "id": "android-media-permission",
+                "title": "Waarom kan ik geen toegang krijgen tot mijn foto's en video's bij het toevoegen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je fotoalbum leeg lijkt bij het toevoegen van materialen, kun je als volgt toegang tot foto's inschakelen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "iOS: Open de Instellingen van je telefoon, scrol omlaag naar VicastCam, tik op [Foto's - Alle foto's] om toegang in te schakelen.",
+                      "Android: Open de Instellingen van je telefoon, zoek VicastCam onder [Rechtenbeheer] of [Appbeheer], tik vervolgens op [Rechtenbeheer - Foto's - Alle foto's] om toegang in te schakelen.",
+                      "Als het probleem aanhoudt, probeer dan de app te verwijderen en opnieuw te installeren, of neem contact op met online ondersteuning via de feedbackfunctie."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-screen-incomplete",
+                "title": "Wat moet ik doen als het scherm niet volledig wordt weergegeven bij het streamen vanaf een computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als het scherm onvolledig wordt weergegeven bij het streamen vanaf je telefoon via een live streaming companion-app of andere software, volg dan deze stappen om het aan te passen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tik op het camera-icoon onderaan om naar de live streaming pagina te gaan, en ga vervolgens naar [Rechts menu - Meer instellingen - Beeldverhouding - 9:16].",
+                      "Pas na het casten naar de live streaming companion eerst het scherm aan het canvas aan en sleep vervolgens verticaal om het scherm te vullen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let op: Pas de beeldverhouding aan voordat je je stream start, en voeg daarna pas je materialen toe."
+                  }
+                ]
+              },
+              {
+                "id": "android-network-failed",
+                "title": "Wat moet ik doen als een netwerkverzoek mislukt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je netwerkverzoeken mislukken, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open de Instellingen van je telefoon, ga naar [Rechtenbeheer - VicastCam - Mobiele data en wifi] en schakel netwerktoegang in.",
+                      "Schakel de energiebesparingsmodus en eventuele achtergrondbeperkingen op je telefoon uit.",
+                      "Wissel van netwerk, herstart je telefoon, schakel de vliegtuigmodus in en uit, of update de app naar de nieuwste versie.",
+                      "Als het probleem aanhoudt, maak dan een screenshot van de fout en neem contact op met de klantenservice voor hulp."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "android-asset-black-screen",
+                "title": "Waarom flikkeren netwerkassets of overlays of worden ze zwart tijdens een livestream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je tijdens een livestream last hebt van flikkerende of zwarte schermen bij het toevoegen van netwerkassets, ga dan als volgt te werk:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download en bekijk alle assets of overlays die je tijdens de stream wilt gebruiken van tevoren en controleer of ze goed werken voordat je live gaat.",
+                      "Sommige assets die bij de software zijn inbegrepen, worden op servers opgeslagen. Als je ze vóór de livegang downloadt, kun je ze tijdens de stream direct gebruiken zonder ze opnieuw te laden.",
+                      "Het laden van assets midden in een stream verbruikt streamingbronnen, telefoongeheugen en prestaties, wat vertraging kan veroorzaken; op minder krachtige telefoons kan dit zelfs leiden tot crashes of zwarte schermen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Belangrijke opmerking"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan en oefen je stream vóór de livegang grondig om ervoor te zorgen dat elk onderdeel feilloos werkt voordat je begint."
+                  }
+                ]
+              },
+              {
+                "id": "android-keyboard-covered",
+                "title": "Wat moet ik doen als sommige toetsen op het toetsenbord bedekt zijn?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als sommige toetsen op het virtuele toetsenbord bedekt zijn, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Als je een oudere 16:9-telefoon als afstandsbediening gebruikt en sommige toetsen bedekt zijn, tik dan op de tweede knop linksboven op het toetsenbord om de volledige-schermmodus in te schakelen.",
+                      "Als de toetsenbordindeling niet goed staat, ga dan naar de instellingen van je telefoon en stel het lettertype in op normaal.",
+                      "Sommige telefoons hebben een seniorenmodus ingeschakeld; als je die uitschakelt, zou het toetsenbord weer normaal moeten worden weergegeven."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Weergaveproblemen worden meestal veroorzaakt door te grote lettertypen of een te grote thema-interface op de telefoon. Door deze terug te zetten naar de standaardmodus zou het probleem moeten worden opgelost."
+                  }
+                ]
+              },
+              {
+                "id": "android-huawei-disconnect",
+                "title": "Wat moet ik doen als mijn Huawei-telefoon steeds de verbinding verbreekt met meerdere camera's of het virtuele toetsenbord?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je Huawei-telefoon verbindingsproblemen heeft met meerdere camera's of het virtuele toetsenbord, volg dan deze stappen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Ga naar de instellingen van je telefoon.",
+                      "Typ in de zoekbalk bovenaan 'App-opstartbeheer'.",
+                      "Ga naar de pagina App-opstartbeheer en scrol omlaag om VicastCam te vinden.",
+                      "Zet de schakelaar aan de rechterkant uit zodat het pictogram grijs wordt; schakel tegelijkertijd alle drie de opties in het pop-upvenster in zodat ze blauw worden."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Je kunt ook de video-tutorial 'Hoe voorkom je verbindingsproblemen met meerdere camera's en het virtuele toetsenbord op Huawei-telefoons' raadplegen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "ios",
+            "title": "iOS-handleidingen",
+            "count": "8 vragen",
+            "icon": "lucide:apple",
+            "questions": [
+              {
+                "id": "ios-media-size",
+                "title": "Welke afmetingen worden aanbevolen voor live streaming materialen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Aanbevolen afmetingen voor live streaming materialen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Voor live achtergrondafbeeldingen raden we 1080 x 1920 pixels aan; voor video's raden we ook 1080 x 1920 pixels aan.",
+                      "Belangrijk: overlays op volledig scherm moeten een 9:16 beeldverhouding gebruiken om ervoor te zorgen dat ze perfect uitgelijnd zijn bij het wisselen tussen volledig scherm en 9:16 modus, voor een naadloze pasvorm."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-output-mode",
+                "title": "Welke uitvoermodi worden ondersteund voor streaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Streaming ondersteunt twee uitvoermodi: 9:16 streaming en streaming op volledig scherm. Volg deze stappen om de modus op je Apple-apparaat te selecteren:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, ga naar de live streamingpagina en tik op het menu-icoon aan de rechterkant."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-menu.png",
+                    "alt": "Menu-ingang aan de rechterkant van de Apple live streamingpagina",
+                    "caption": "Stap 1: Tik op het menu-icoon aan de rechterkant van de live streamingpagina."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Zoek in 'Meer instellingen' naar 'Beeldverhouding' en selecteer 'Volledig scherm' of '9:16' indien nodig."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+                    "alt": "Opties voor beeldverhouding in 'Meer instellingen' op Apple",
+                    "caption": "Stap 2: Selecteer bij 'Beeldverhouding' 'Volledig scherm' of '9:16'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Over de twee modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "9:16 streaming: De uitvoerbeeldverhouding is vastgesteld op 9:16, dus het live platform ontvangt een 9:16 beeld.",
+                      "Streaming op volledig scherm: Streamt het volledige telefoonscherm zoals het is, met behoud van de oorspronkelijke inhoud zonder bijsnijden."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-stream-capture-mode",
+                "title": "Wat is het verschil tussen systeemstreaming en softwarestreaming?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Apple-apparaten bieden twee streamingopnamemodi, die aanzienlijk verschillen in achtergrondwerkingsregels. Volg deze stappen om een streamingmodus te kiezen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, ga naar de live streamingpagina en tik op het menu-icoon aan de rechterkant."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-stream-capture-menu.png",
+                    "alt": "Menu-ingang aan de rechterkant van de Apple live streamingpagina",
+                    "caption": "Stap 1: Tik op het menu-icoon aan de rechterkant van de live streamingpagina."
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Zoek in 'Meer instellingen' naar 'Streamingmodus' en selecteer 'Systeemstreaming' of 'Softwarestreaming' indien nodig."
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "src": "/images/faq/ios-streaming-mode.png",
+                    "alt": "Opties voor streamingmodus in 'Meer instellingen' op Apple",
+                    "caption": "Stap 2: Selecteer bij 'Streamingmodus' 'Systeemstreaming' of 'Softwarestreaming'."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Over de twee modi"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Systeemstreaming (ReplayKit-schermopname): Gebruikt iOS-systeemschermopname om het scherm vast te leggen, waardoor continu gestreamd kan worden, zelfs wanneer de app op de achtergrond draait. Je kunt naar andere apps overschakelen en nog steeds elke scherminhoud vastleggen zonder de stream te onderbreken.",
+                      "Softwarestreaming (directe opname op de voorgrond): De app legt het scherm direct vast. Vanwege iOS-systeembeperkingen moet de app op de voorgrond blijven. Als je naar een andere app overschakelt of terugkeert naar het startscherm, stopt de streaming onmiddellijk."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-delete-account",
+                "title": "Hoe verwijder ik mijn account?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Log in op de VicastCam-app en ga vervolgens naar [Account - pictogram rechtsboven - Accountbeheer - Account verwijderen - Verwijderingsverzoek indienen]."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Accountgegevens"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Na het verwijderen van je account verwijderen we permanent je gekoppelde e-mailadres, apparaatrecords en andere identiteitsgegevens, en trekken we je inlogautorisatie via Google- en Apple-accounts in. Na intrekking kun je die accounts niet meer gebruiken om snel in te loggen op deze app. Om de app opnieuw te gebruiken, moet je opnieuw autoriseren en je account koppelen."
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Inhoud en materialen"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Al je live streamingmaterialen, video's, afbeeldingen en projectbestanden worden alleen op je apparaat opgeslagen. De platformcloud bewaart geen creatieve materialen. Na verwijdering is de functie voor materiaalbeheer niet meer beschikbaar. Zorg dat je je materialen van tevoren back-upt met 'Materiaal exporteren'.",
+                      "Als je de app verwijdert en opnieuw installeert, van apparaat wisselt of geen back-up exporteert, gaan je materialen permanent verloren."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Lidmaatschapsvoordelen"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Na het verwijderen van je account eindigen je lidmaatschapsvoordelen onmiddellijk. Omdat abonnementsdiensten door Apple worden beheerd, kan het platform geen restituties rechtstreeks verwerken. Om een restitutie aan te vragen, dien je een verzoek in via de officiële kanalen van Apple (aankoopgeschiedenis in de App Store). Zorg dat je vóór het verwijderen van je account handmatig automatische verlenging annuleert om toekomstige kosten te voorkomen."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Als je vragen hebt, neem dan contact op met de klantenservice."
+                  }
+                ]
+              },
+              {
+                "id": "ios-media-permission",
+                "title": "Waarom kan ik geen toegang krijgen tot mijn foto's en video's bij het toevoegen?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je fotobibliotheek leeg lijkt bij het toevoegen van materialen, ga dan naar Instellingen op je iPhone, scrol omlaag naar VicastCam en tik op [Foto's - Alle foto's] om toegang in te schakelen."
+                  }
+                ]
+              },
+              {
+                "id": "ios-screen-incomplete",
+                "title": "Wat moet ik doen als het beeld niet volledig wordt weergegeven bij het streamen vanaf een computer?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als het beeld niet volledig wordt weergegeven wanneer je streamt vanaf je telefoon via een live streaming companion-app of andere software, volg dan deze stappen om het aan te passen:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open VicastCam, tik op het camerapictogram onderaan om naar de live streaming-pagina te gaan, en ga vervolgens naar [Rechts menu - Meer instellingen - Beeldverhouding - 9:16].",
+                      "Schaal na het streamen naar de live streaming companion eerst naar passend formaat en sleep het beeld daarna omhoog of omlaag om het hele scherm te vullen."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Let op: stel de beeldverhouding eerst in voordat je je stream start en voeg daarna pas je assets toe."
+                  }
+                ]
+              },
+              {
+                "id": "ios-network-failed",
+                "title": "Wat moet ik doen als een netwerkverzoek mislukt?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je netwerkverzoeken mislukken, probeer dan het volgende:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Open de instellingen van je telefoon, ga naar [Rechtenbeheer - VicastCam - Mobiele data en wifi gebruiken] en schakel netwerktoegang in.",
+                      "Schakel de energiebesparingsmodus en eventuele achtergrondbeperkingen op je telefoon uit.",
+                      "Wissel van netwerk, herstart je telefoon, schakel de vliegtuigmodus in of uit, of update de app naar de nieuwste versie.",
+                      "Als het probleem aanhoudt, maak dan een screenshot van de foutmelding en neem contact op met de klantenservice voor hulp."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ios-asset-black-screen",
+                "title": "Waarom flikkeren netwerkasset-overlays of worden ze zwart tijdens een livestream?",
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Als je flikkeringen of zwarte schermen ervaart bij het toevoegen van netwerkassets tijdens een livestream, kun je dit als volgt aanpakken:"
+                  },
+                  {
+                    "type": "list",
+                    "items": [
+                      "Download en bekijk alle assets en overlays die je tijdens de stream wilt gebruiken van tevoren. Zorg ervoor dat ze goed werken voordat je live gaat.",
+                      "Sommige assets die bij de software worden geleverd, worden op servers opgeslagen. Download ze voordat je je stream start, zodat je ze tijdens de stream direct kunt gebruiken zonder ze opnieuw te laden.",
+                      "Het laden van assets tijdens de stream verbruikt streamingbronnen, telefoongeheugen en prestaties, wat vertraging kan veroorzaken. Op minder krachtige telefoons kan dit zelfs leiden tot crashes of zwarte schermen."
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "text": "Belangrijke opmerking"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Plan en oefen je stream van tevoren. Oefen elk onderdeel om ervoor te zorgen dat alles soepel verloopt voordat je live gaat. Behandel elke stream met zorg, en je stream zal je belonen."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

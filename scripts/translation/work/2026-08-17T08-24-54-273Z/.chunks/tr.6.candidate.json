@@ -1,0 +1,162 @@
+{
+  "__chunk": [
+    {
+      "id": "ios-media-size",
+      "title": "Canlı yayın varlıkları için önerilen boyutlar nelerdir?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Canlı yayın varlıkları için önerilen boyutlar:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Canlı yayın arka plan görselleri için 1080 x 1920 piksel öneriyoruz; videolar için de 1080 x 1920 piksel öneriyoruz.",
+            "Önemli: Tam ekran katmanlar 9:16 en-boy oranını kullanmalıdır. Böylece tam ekran ve 9:16 modları arasında geçiş yaparken kusursuz bir uyum sağlanır."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-output-mode",
+      "title": "Yayın için hangi çıkış modları destekleniyor?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Yayın iki çıkış modunu destekler: 9:16 yayın ve tam ekran yayın. Apple cihazınızda modu seçmek için şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "VicastCam'i açın, canlı yayın sayfasına gidin ve sağdaki menü simgesine dokunun."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-menu.png",
+          "alt": "Apple canlı yayın sayfasının sağındaki menü girişi",
+          "caption": "Adım 1: Canlı yayın sayfasının sağındaki menü simgesine dokunun."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Diğer Ayarlar'da 'En-Boy Oranı'nı bulun ve ihtiyaca göre 'Tam Ekran' veya '9:16' seçin."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-output-aspect-ratio.png",
+          "alt": "Apple'da Diğer Ayarlar'daki en-boy oranı seçenekleri",
+          "caption": "Adım 2: 'En-Boy Oranı'nda 'Tam Ekran' veya '9:16' seçin."
+        },
+        {
+          "type": "heading",
+          "text": "İki mod hakkında"
+        },
+        {
+          "type": "list",
+          "items": [
+            "9:16 yayın: Çıkış en-boy oranı sabit olarak 9:16'dır, böylece yayın platformu 9:16 görüntü alır.",
+            "Tam ekran yayın: Telefon ekranının tamamını olduğu gibi iletir, içeriği kırpmadan doğal haliyle korur."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-stream-capture-mode",
+      "title": "Sistem Yayını ile Yazılım Yayını arasındaki fark nedir?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Apple cihazlar, arka plan çalışma kuralları açısından önemli ölçüde farklılık gösteren iki yayın yakalama modu sunar. Bir yayın modu seçmek için şu adımları izleyin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "VicastCam'i açın, canlı yayın sayfasına gidin ve sağdaki menü simgesine dokunun."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-stream-capture-menu.png",
+          "alt": "Apple canlı yayın sayfasının sağındaki menü girişi",
+          "caption": "Adım 1: Canlı yayın sayfasının sağındaki menü simgesine dokunun."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Diğer Ayarlar'da 'Yayın Modu'nu bulun ve ihtiyaca göre 'Sistem Yayını' veya 'Yazılım Yayını' seçin."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/faq/ios-streaming-mode.png",
+          "alt": "Apple'da Diğer Ayarlar'daki yayın modu seçenekleri",
+          "caption": "Adım 2: 'Yayın Modu'nda 'Sistem Yayını' veya 'Yazılım Yayını' seçin."
+        },
+        {
+          "type": "heading",
+          "text": "İki mod hakkında"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sistem Yayını (ReplayKit ekran kaydı): Ekranı yakalamak için iOS sistem ekran kaydını kullanır ve uygulama arka planda olsa bile kesintisiz yayına devam eder. Diğer uygulamalara geçebilir ve yayını kesintiye uğratmadan herhangi bir ekran içeriğini yakalamaya devam edebilirsiniz.",
+            "Yazılım Yayını (ön planda doğrudan yakalama): Uygulama ekranı doğrudan yakalar. iOS sistem kısıtlamaları nedeniyle uygulamanın ön planda kalması gerekir. Başka bir uygulamaya geçerseniz veya ana ekrana dönerseniz yayın anında durur."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ios-delete-account",
+      "title": "Hesabımı nasıl silebilirim?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Lütfen VicastCam uygulamasına giriş yapın, ardından [Hesap - sağ üst simge - Hesap Yönetimi - Hesabı Sil - Silme Talebi Gönder] adımlarını izleyin."
+        },
+        {
+          "type": "heading",
+          "text": "Hesap bilgileri"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hesap silindikten sonra bağlı e-postanızı, cihaz kayıtlarınızı ve diğer kimlik bilgilerinizi kalıcı olarak sileceğiz ve Google ve Apple hesapları üzerinden üçüncü taraf giriş yetkilendirmenizi iptal edeceğiz. İptal sonrasında bu üçüncü taraf hesapları kullanarak bu uygulamaya hızlı giriş yapamazsınız. Uygulamayı tekrar kullanmak için yeniden yetkilendirme yapmanız ve hesabınızı bağlamanız gerekecektir."
+        },
+        {
+          "type": "heading",
+          "text": "İçerik ve varlıklar"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tüm canlı yayın varlıkları, videolar, görseller ve proje dosyaları yalnızca cihazınızda saklanır. Platform bulutu hiçbir yaratıcı varlığı saklamaz. Silme işleminden sonra varlık yönetimi özelliği artık kullanılamaz. Lütfen varlıklarınızı önceden 'Varlık Dışa Aktarma' ile yedekleyin.",
+            "Uygulamayı kaldırıp yeniden kurarsanız, cihaz değiştirirseniz veya önceden yedek almayı unutursanız varlıklarınız kalıcı olarak kaybolur."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Üyelik avantajları"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hesap silindikten sonra üyelik avantajlarınız anında sona erer. Abonelik hizmetleri Apple tarafından yönetildiğinden platform doğrudan geri ödeme işlemi yapamaz. Geri ödeme talebi için lütfen Apple'ın resmi kanallarından (App Store satın alma geçmişi) başvurun. Hesabınızı silmeden önce gelecekteki ücretleri önlemek için otomatik yenilemeyi manuel olarak iptal ettiğinizden emin olun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sorularınız varsa lütfen müşteri desteğiyle iletişime geçin."
+        }
+      ]
+    },
+    {
+      "id": "ios-media-permission",
+      "title": "Varlık eklerken telefonumdaki fotoğraf ve videolara neden erişemiyorum?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Varlık eklerken fotoğraf kitaplığınız boş görünüyorsa iPhone'unuzun Ayarlar bölümüne gidin, VicastCam'i bulmak için aşağı kaydırın ve erişimi etkinleştirmek için [Fotoğraflar - Tüm Fotoğraflar] seçeneğine dokunun."
+        }
+      ]
+    }
+  ]
+}

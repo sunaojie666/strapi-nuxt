@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "구매 내역",
+    "title": "구매 내역",
+    "tabTitle": "구매",
+    "exchangeTabTitle": "교환",
+    "tableHeaders": {
+      "title": "유형",
+      "date": "결제 시간",
+      "price": "금액",
+      "paymentMethod": "결제 수단",
+      "status": "상태",
+      "exchangeDate": "교환 시간",
+      "exchangeCode": "교환 코드"
+    },
+    "exchangeTableHeaders": {
+      "date": "교환 시간",
+      "code": "교환 코드"
+    },
+    "cardTypes": {
+      "month": "월간 카드",
+      "year": "연간 카드",
+      "life": "평생 카드",
+      "default": "멤버십 카드"
+    },
+    "orderStatuses": {
+      "pending": "결제 대기",
+      "paid": "결제 완료",
+      "closed": "마감",
+      "refunded": "환불됨",
+      "unknown": "알 수 없음"
+    },
+    "secretLabels": {
+      "show": "비밀번호 표시",
+      "hide": "비밀번호 숨기기"
+    },
+    "secretMask": "******",
+    "emptyText": "아직 구매 기록이 없습니다",
+    "exchangeEmptyText": "아직 교환 기록이 없습니다",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "은행 카드",
+      "creditcard": "신용 카드",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "암호화폐",
+      "balance": "잔액",
+      "free": "무료"
+    }
+  },
+  "team": {
+    "ariaLabel": "내 팀",
+    "title": "내 팀",
+    "referrerLabel": "내 추천인",
+    "levelOne": "1레벨 멤버",
+    "levelTwo": "2레벨 멤버",
+    "tableHeaders": {
+      "name": "멤버 이름",
+      "status": "멤버십 상태",
+      "joinedAt": "가입 시간"
+    },
+    "memberStatus": {
+      "free": "무료 사용자",
+      "vip": "VIP 사용자"
+    },
+    "emptyMemberName": "이름 없는 사용자",
+    "emptyReferrer": "추천인 없음",
+    "emptyTeam": "아직 팀 멤버가 없습니다",
+    "errors": {
+      "loadFail": "팀 멤버를 불러오지 못했습니다. 나중에 다시 시도해 주세요."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "수익 센터",
+    "title": "수익 개요",
+    "commissionTitle": "커미션 상세",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "총 수익",
+        "desc": "현재까지 적립된 총 커미션"
+      },
+      {
+        "key": "month",
+        "title": "이번 달",
+        "desc": "이번 달 적립된 커미션"
+      },
+      {
+        "key": "settling",
+        "title": "정산 대기",
+        "value": "0.00",
+        "desc": "정산 대기 중인 금액"
+      },
+      {
+        "key": "withdrawable",
+        "title": "출금 가능",
+        "desc": "현재 출금 가능한 금액",
+        "action": "출금"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "사용자 이름",
+      "saleTime": "판매 시간",
+      "goodsInfo": "상품",
+      "commission": "커미션"
+    },
+    "emptyCommission": "아직 커미션 기록이 없습니다",
+    "errors": {
+      "loadFail": "커미션 상세를 불러오지 못했습니다. 나중에 다시 시도해 주세요."
+    },
+    "withdraw": {
+      "ariaLabel": "출금 요청",
+      "title": "출금 요청",
+      "closeLabel": "출금 대화상자 닫기",
+      "balanceLabel": "출금 가능 잔액",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "출금 금액",
+      "amountPlaceholder": "출금 금액 입력",
+      "allButton": "전체",
+      "allAmountValue": "0.00",
+      "amountTip": "금액이 올바른지 확인해 주세요. 제출 후 요청은 수동으로 검토됩니다.",
+      "methodLabel": "출금 방법",
+      "methods": [
+        "은행 카드",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "은행 카드",
+      "nameLabel": "수취인 이름",
+      "namePlaceholder": "수취인 이름 입력",
+      "defaultName": "",
+      "bankCardLabel": "계좌 번호",
+      "bankCardPlaceholder": "은행 카드 번호, PayPal 이메일 또는 지갑 주소 입력",
+      "remarkLabel": "비고",
+      "remarkPlaceholder": "추가 메모 입력",
+      "note": "출금 요청은 1-3 영업일 내에 처리됩니다.",
+      "cancelButton": "취소",
+      "submitButton": "요청 제출"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "교환 성공",
+    "operationFailed": "교환 실패",
+    "invalidCard": "잘못된 교환 코드",
+    "cardNotFound": "교환 코드를 찾을 수 없음",
+    "cardDisabled": "교환 코드가 비활성화됨",
+    "cardExpired": "교환 코드가 만료됨"
+  },
+  "successMessage": "작업 성공"
+}

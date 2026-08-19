@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "tr",
+        "loginTitle1": "Sanal Arka Planını Anında Değiştir",
+        "loginTitle2": "Etkileyici Yayın Yap",
+        "loginDes1": "AI destekli profesyonel canlı yayın aracı",
+        "loginDes2": "Sanal arka planlar, canlı iyileştirmeler ve çoklu platform yayını artık çok kolay",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Gerçek zamanlı arka plan değiştirme",
+        "featureTitle2": "Çoklu Platform Yayını",
+        "featureSubTitle2": "Tek dokunuşla canlı yayına başla",
+        "featureTitle3": "Sanal Kamera",
+        "featureSubTitle3": "Telefonunu web kamerasına dönüştür",
+        "loginBox": {
+          "loginPageTitle": "Giriş Yap / Kayıt Ol",
+          "codeLoginTab": "Kod ile Giriş",
+          "pwdLoginTab": "Şifre ile Giriş",
+          "qrLoginTab": "QR Kod ile Giriş",
+          "emailInputPlaceholder": "Giriş yapmak için e-postanı gir",
+          "pwdInputPlaceholder": "Şifreni gir",
+          "verifyCodePlaceholder": "Doğrulama kodunu gir",
+          "getVerifyCodeText": "Kod Al",
+          "loginBtnText": "Giriş Yap",
+          "qrLoginTip": "Giriş yapmak için VicastCam uygulamasıyla tara",
+          "qrWaitingTip": "Tarama onayı bekleniyor",
+          "agreeProtocolText": "Gizlilik Politikası ve Kullanıcı Sözleşmesi'ni okudum ve kabul ediyorum",
+          "userProtocolText": "Kullanıcı Sözleşmesi",
+          "privacyPolicyText": "Gizlilik Politikası",
+          "agreeProtocolPrefix": "Okudum ve kabul ediyorum"
+        },
+        "toastBox": {
+          "closeToastLabel": "Bildirimi kapat",
+          "requestLoading": "Yükleniyor...",
+          "requestSuccess": "İstek başarılı",
+          "requestFail": "İstek başarısız",
+          "passwordLoginNotReady": "Şifre ile giriş henüz kullanılamıyor",
+          "passwordRequired": "Lütfen şifreni gir",
+          "emailRequired": "Giriş yapmak için e-postanı gir",
+          "verifyCodeRequired": "Lütfen doğrulama kodunu gir",
+          "agreeProtocolRequired": "Lütfen önce Gizlilik Politikası ve Kullanıcı Sözleşmesi'ni oku ve kabul et",
+          "qrcodeExpired": "QR kodun süresi doldu. Lütfen yeni bir tane iste."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "tr",
+        "hero_section": {
+          "tag": "AI destekli canlı yayın aracı",
+          "title_main": "Telefonundan yeşil ekran efektleri ve ekran yansıtma",
+          "title_highlight": "Dünya genelinde canlı yayınları güçlendiriyor",
+          "description": "VicastCam, gelişmiş AI matting ile yayının herhangi bir anında sanal arka plan değiştirmeni sağlar; her platformda profesyonel bir görünüm kazandıran sürükleyici efektler ekler.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "İndir"
+            },
+            {
+              "platform": "Google Play",
+              "text": "İndir"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam, içerik üreticilere sanal arka planlar, canlı yayın iyileştirmeleri ve çapraz platform araçları sunar."
+          },
+          "columns": [
+            {
+              "title": "Ürün",
+              "links": [
+                {
+                  "text": "Özellikler"
+                },
+                {
+                  "text": "Fiyatlandırma"
+                },
+                {
+                  "text": "İndirmeler"
+                }
+              ]
+            },
+            {
+              "title": "Geliştiriciler",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "API Dokümanları"
+                }
+              ]
+            },
+            {
+              "title": "Şirket",
+              "links": [
+                {
+                  "text": "Hakkımızda"
+                },
+                {
+                  "text": "Gizlilik Politikası"
+                },
+                {
+                  "text": "Kullanıcı Sözleşmesi"
+                },
+                {
+                  "text": "Üyelik Sözleşmesi"
+                }
+              ]
+            },
+            {
+              "title": "Destek",
+              "links": [
+                {
+                  "text": "Video Eğitimleri"
+                },
+                {
+                  "text": "SSS"
+                },
+                {
+                  "text": "Bize Ulaşın"
+                }
+              ]
+            },
+            {
+              "title": "Ortaklıklar",
+              "links": [
+                {
+                  "text": "Bayi Olun"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "İş Teklifleri"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Özellikler",
+      "nav_pricing": "Fiyatlandırma",
+      "nav_faq": "SSS",
+      "nav_auth": "Giriş Yap / Kayıt Ol",
+      "nav_team": "Ortaklıklar"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "pricings": [
+    {
+      "data": {
+        "pricingBox": {
+          "sectionTag": "Fiyatlandırma",
+          "titleMain": "Size uygun planı seçin",
+          "titleHighlight": "",
+          "description": "Ücretsiz deneyin veya başka bir plan seçin",
+          "priceAltSuffix": "Fiyat",
+          "freePlanMessage": "Ücretsiz kullanıcıların satın alması gerekmez",
+          "plans": [
+            {
+              "id": "free-plan",
+              "type": "free",
+              "name": "Ücretsiz",
+              "description": "Ücretsiz indirin ve kaydolun; temel özellikler ücretsiz sunulur.",
+              "price": "$0",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/ay",
+              "priceNote": "",
+              "cta": "Başlayın",
+              "badgeText": "",
+              "featured": false,
+              "delay": 0,
+              "benefits": [
+                "Tek sahne ile oluşturun",
+                "Dört katmanı serbestçe düzenleyin",
+                "Çeşitli canlı arka plan içeriklerine erişin",
+                "PC ekran yansıtma için temel kalite",
+                "Yerleşik doğal güzellik efektleri"
+              ]
+            },
+            {
+              "id": "monthly-plan",
+              "type": "month",
+              "name": "Aylık",
+              "description": "Bir ay boyunca tüm özelliklere erişin; düşük maliyetle deneyin.",
+              "price": "$9.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/ay",
+              "priceNote": "30 gün erişim",
+              "cta": "Satın Al",
+              "badgeText": "",
+              "featured": false,
+              "delay": 120,
+              "benefits": [
+                "Tüm mobil özellikler",
+                "PC ekran yansıtma canlı yayın",
+                "HD canlı yayın kalitesi",
+                "Gelişmiş güzellik efektleri",
+                "Özel canlı yayın efektleri"
+              ]
+            },
+            {
+              "id": "yearly-plan",
+              "type": "year",
+              "name": "Yıllık",
+              "description": "Yıllık ödemeyle en iyi değer.",
+              "price": "$69.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "/yıl",
+              "priceNote": "365 gün erişim",
+              "cta": "Satın Al",
+              "badgeText": "En Popüler",
+              "featured": true,
+              "delay": 240,
+              "benefits": [
+                "Tüm mobil özellikler",
+                "PC ekran yansıtma canlı yayın",
+                "HD canlı yayın kalitesi",
+                "Gelişmiş güzellik efektleri",
+                "Özel canlı yayın efektleri"
+              ]
+            },
+            {
+              "id": "lifetime-plan",
+              "type": "life",
+              "name": "Ömür Boyu",
+              "description": "Tek seferlik ödemeyle ömür boyu erişim; uzun vadeli içerik üreticileri için ideal.",
+              "price": "$89.99",
+              "priceImage": "",
+              "originalPrice": "",
+              "unit": "",
+              "priceNote": "Ömür boyu erişim",
+              "cta": "Satın Al",
+              "badgeText": "",
+              "featured": false,
+              "delay": 360,
+              "benefits": [
+                "Tüm mobil özellikler",
+                "PC ekran yansıtma canlı yayın",
+                "HD canlı yayın kalitesi",
+                "Gelişmiş güzellik efektleri",
+                "Özel canlı yayın efektleri"
+              ]
+            }
+          ]
+        },
+        "profileBox": {
+          "membership": {
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Aylık",
+                "subtitle": "Bir ay boyunca tüm özelliklere erişin; düşük maliyetle deneyin.",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/ay",
+                "cta": "Satın Al",
+                "benefits": [
+                  "Tüm mobil özellikler",
+                  "PC ekran yansıtma canlı yayın",
+                  "HD canlı yayın kalitesi",
+                  "Gelişmiş güzellik efektleri",
+                  "Özel canlı yayın efektleri"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Yıllık",
+                "subtitle": "Yıllık ödemeyle en iyi değer.",
+                "price": "$69.99",
+                "originalPrice": "",
+                "unit": "/yıl",
+                "cta": "Satın Al",
+                "benefits": [
+                  "Tüm mobil özellikler",
+                  "PC ekran yansıtma canlı yayın",
+                  "HD canlı yayın kalitesi",
+                  "Gelişmiş güzellik efektleri",
+                  "Özel canlı yayın efektleri"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Ömür Boyu",
+                "subtitle": "Tek seferlik ödemeyle ömür boyu erişim; uzun vadeli içerik üreticileri için ideal.",
+                "price": "$89.99",
+                "originalPrice": "",
+                "unit": "",
+                "cta": "Satın Al",
+                "benefits": [
+                  "Tüm mobil özellikler",
+                  "PC ekran yansıtma canlı yayın",
+                  "HD canlı yayın kalitesi",
+                  "Gelişmiş güzellik efektleri",
+                  "Özel canlı yayın efektleri"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "streamers": [
+    {
+      "name": "Marcus Johnson",
+      "username": "@Musk",
+      "followers": "100k",
+      "location": "Dubai, BAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, BAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "@marcusi",
+      "followers": "50k",
+      "location": "Dubai, BAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, BAE"
+    },
+    {
+      "name": "Marcus Johnson",
+      "username": "echo",
+      "followers": "100k",
+      "location": "Dubai, BAE"
+    }
+  ]
+}

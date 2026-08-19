@@ -1,0 +1,243 @@
+{
+  "score": 88,
+  "status": "revise",
+  "issues": [
+    {
+      "path": "$.logins[0].logins.loginTitle1",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "Consider 'เปลี่ยนพื้นหลังเสมือนจริงได้ในคลิกเดียว' -> 'เปลี่ยนพื้นหลังเสมือนจริงได้ในคลิกเดียว' is acceptable, but for more natural Thai, 'เปลี่ยนพื้นหลังเสมือนจริงได้ในคลิกเดียว' could be 'เปลี่ยนพื้นหลังเสมือนจริงได้ในคลิกเดียว' (no change needed)."
+    },
+    {
+      "path": "$.logins[0].logins.loginTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'สตรีมได้อย่างมีประสิทธิภาพมากขึ้น' is a bit literal. Consider 'สตรีมได้อย่างทรงพลังยิ่งขึ้น' or 'สตรีมได้อย่างมืออาชีพมากขึ้น' to match 'Stream with More Impact'."
+    },
+    {
+      "path": "$.logins[0].logins.loginDes2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'การเพิ่มประสิทธิภาพการถ่ายทอดสด' is a long noun chain. Consider 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' -> 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' is acceptable, but 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' could be 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' (no change)."
+    },
+    {
+      "path": "$.logins[0].logins.featureSubTitle2",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เริ่มสตรีมได้ด้วยการแตะเดียว' is fine, but 'เริ่มสตรีมได้ในคลิกเดียว' might be more consistent with 'one tap'."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.codeLoginTab",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เข้าสู่ระบบด้วยรหัสยืนยัน' is clear, but 'เข้าสู่ระบบด้วยรหัสยืนยัน' could be 'เข้าสู่ระบบด้วยรหัสยืนยัน' (no change)."
+    },
+    {
+      "path": "$.logins[0].logins.loginBox.agreeProtocolText",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้' is a bit long. Consider 'ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้' is acceptable, but for mobile UX, 'ฉันอ่านและยอมรับ...' might be more concise."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.requestFail",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เกิดข้อผิดพลาด' is fine, but 'การดำเนินการล้มเหลว' might be more formal. 'เกิดข้อผิดพลาด' is acceptable."
+    },
+    {
+      "path": "$.logins[0].logins.toastBox.qrcodeExpired",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'QR Code หมดอายุแล้ว กรุณาสร้างใหม่' is fine, but 'QR Code หมดอายุแล้ว กรุณาสร้างใหม่' could be 'QR Code หมดอายุแล้ว กรุณาสร้างใหม่' (no change)."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.title_main",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เอฟเฟกต์กรีนสกรีนและแชร์หน้าจอจากสมาร์ทโฟนของคุณ' is a bit literal. Consider 'เอฟเฟกต์กรีนสกรีนและแชร์หน้าจอจากสมาร์ทโฟนของคุณ' is acceptable, but 'แชร์หน้าจอ' could be 'แคสต์หน้าจอ' to match 'screen casting'."
+    },
+    {
+      "path": "$.footers[0].footerobj.hero_section.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เพิ่มเอฟเฟกต์ที่สมจริงและลุคแบบมืออาชีพ' is fine, but 'ลุค' is a loanword. Consider 'เพิ่มเอฟเฟกต์ที่สมจริงและรูปลักษณ์แบบมืออาชีพ'."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.brand.description",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'การเพิ่มประสิทธิภาพการถ่ายทอดสด' is a long noun chain. Consider 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' -> 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' is acceptable, but 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' could be 'การเพิ่มประสิทธิภาพการถ่ายทอดสด' (no change)."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[1].links[1].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'เอกสารอ้างอิง API' is fine, but 'เอกสาร API' might be more concise."
+    },
+    {
+      "path": "$.footers[0].footerobj.footer.columns[4].links[0].text",
+      "category": "style",
+      "severity": "minor",
+      "instruction": "'สมัครเป็นตัวแทนจำหน่าย' is fine, but 'เป็นตัวแทนจำหน่าย' could be 'เป็นตัวแทนจำหน่าย' (no change)."
+    }
+  ],
+  "revisedContent": {
+    "logins": [
+      {
+        "logins": {
+          "locale": "th",
+          "loginTitle1": "เปลี่ยนพื้นหลังเสมือนจริงได้ในคลิกเดียว",
+          "loginTitle2": "สตรีมได้อย่างทรงพลังยิ่งขึ้น",
+          "loginDes1": "เครื่องมือสตรีมมิงระดับมืออาชีพที่ขับเคลื่อนด้วย AI",
+          "loginDes2": "พื้นหลังเสมือนจริง การเพิ่มประสิทธิภาพการถ่ายทอดสด และการสตรีมหลายแพลตฟอร์มที่ง่ายดาย",
+          "featureTitle1": "AI Matting",
+          "featureSubTitle1": "เปลี่ยนพื้นหลังแบบเรียลไทม์",
+          "featureTitle2": "สตรีมหลายแพลตฟอร์ม",
+          "featureSubTitle2": "เริ่มสตรีมได้ในคลิกเดียว",
+          "featureTitle3": "กล้องเสมือน",
+          "featureSubTitle3": "เปลี่ยนสมาร์ทโฟนของคุณให้เป็นเว็บแคม",
+          "loginBox": {
+            "loginPageTitle": "เข้าสู่ระบบ / สมัครสมาชิก",
+            "codeLoginTab": "เข้าสู่ระบบด้วยรหัสยืนยัน",
+            "pwdLoginTab": "เข้าสู่ระบบด้วยรหัสผ่าน",
+            "qrLoginTab": "เข้าสู่ระบบด้วย QR Code",
+            "emailInputPlaceholder": "กรอกอีเมลเพื่อเข้าสู่ระบบ",
+            "pwdInputPlaceholder": "กรอกรหัสผ่านของคุณ",
+            "verifyCodePlaceholder": "กรอกรหัสยืนยัน",
+            "getVerifyCodeText": "รับรหัส",
+            "loginBtnText": "เข้าสู่ระบบ",
+            "qrLoginTip": "สแกนด้วยแอป VicastCam เพื่อเข้าสู่ระบบ",
+            "qrWaitingTip": "กำลังรอการยืนยันการสแกน",
+            "agreeProtocolText": "ฉันอ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้",
+            "userProtocolText": "ข้อตกลงผู้ใช้",
+            "privacyPolicyText": "นโยบายความเป็นส่วนตัว",
+            "agreeProtocolPrefix": "ฉันอ่านและยอมรับ"
+          },
+          "toastBox": {
+            "closeToastLabel": "ปิดการแจ้งเตือน",
+            "requestLoading": "กำลังโหลด",
+            "requestSuccess": "ดำเนินการสำเร็จ",
+            "requestFail": "เกิดข้อผิดพลาด",
+            "passwordLoginNotReady": "ยังไม่สามารถเข้าสู่ระบบด้วยรหัสผ่านได้",
+            "passwordRequired": "กรุณากรอกรหัสผ่าน",
+            "emailRequired": "กรุณากรอกอีเมลเพื่อเข้าสู่ระบบ",
+            "verifyCodeRequired": "กรุณากรอกรหัสยืนยัน",
+            "agreeProtocolRequired": "กรุณาอ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อตกลงผู้ใช้ก่อน",
+            "qrcodeExpired": "QR Code หมดอายุแล้ว กรุณาสร้างใหม่"
+          }
+        }
+      }
+    ],
+    "footers": [
+      {
+        "footerobj": {
+          "locale": "th",
+          "hero_section": {
+            "tag": "เครื่องมือสตรีมมิงที่ขับเคลื่อนด้วย AI",
+            "title_main": "เอฟเฟกต์กรีนสกรีนและแคสต์หน้าจอจากสมาร์ทโฟนของคุณ",
+            "title_highlight": "เสริมพลังการสตรีมมิงทั่วโลก",
+            "description": "VicastCam ใช้ AI Matting ขั้นสูงเพื่อให้คุณเปลี่ยนพื้นหลังเสมือนจริงได้ตลอดเวลาระหว่างการสตรีม เพิ่มเอฟเฟกต์ที่สมจริงและรูปลักษณ์แบบมืออาชีพให้กับการถ่ายทอดสดของคุณ",
+            "download_buttons": [
+              {
+                "platform": "App Store",
+                "text": "ดาวน์โหลด"
+              },
+              {
+                "platform": "Google Play",
+                "text": "ดาวน์โหลด"
+              }
+            ]
+          },
+          "footer": {
+            "brand": {
+              "name": "VicastCam",
+              "description": "VicastCam มอบพื้นหลังเสมือนจริง การเพิ่มประสิทธิภาพการถ่ายทอดสด และเครื่องมือข้ามแพลตฟอร์มให้กับครีเอเตอร์"
+            },
+            "columns": [
+              {
+                "title": "ผลิตภัณฑ์",
+                "links": [
+                  {
+                    "text": "ฟีเจอร์"
+                  },
+                  {
+                    "text": "ราคา"
+                  },
+                  {
+                    "text": "ดาวน์โหลด"
+                  }
+                ]
+              },
+              {
+                "title": "นักพัฒนา",
+                "links": [
+                  {
+                    "text": "SDK"
+                  },
+                  {
+                    "text": "เอกสาร API"
+                  }
+                ]
+              },
+              {
+                "title": "บริษัท",
+                "links": [
+                  {
+                    "text": "เกี่ยวกับเรา"
+                  },
+                  {
+                    "text": "นโยบายความเป็นส่วนตัว"
+                  },
+                  {
+                    "text": "ข้อตกลงผู้ใช้"
+                  },
+                  {
+                    "text": "ข้อตกลงสมาชิก"
+                  }
+                ]
+              },
+              {
+                "title": "การสนับสนุน",
+                "links": [
+                  {
+                    "text": "วิดีโอแนะนำ"
+                  },
+                  {
+                    "text": "คำถามที่พบบ่อย"
+                  },
+                  {
+                    "text": "ติดต่อเรา"
+                  }
+                ]
+              },
+              {
+                "title": "ความร่วมมือ",
+                "links": [
+                  {
+                    "text": "สมัครเป็นตัวแทนจำหน่าย"
+                  },
+                  {
+                    "text": "OEM"
+                  },
+                  {
+                    "text": "สอบถามธุรกิจ"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "navigations": [
+      {
+        "nav_client_download": "VicastCam",
+        "nav_features": "ฟีเจอร์",
+        "nav_pricing": "ราคา",
+        "nav_faq": "คำถามที่พบบ่อย",
+        "nav_auth": "เข้าสู่ระบบ / สมัครสมาชิก",
+        "nav_team": "ความร่วมมือ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "__chunk": [
+    {
+      "key": "agreement-section-5",
+      "title": "5 Personal Information Protection",
+      "paragraphs": [
+        "5.1 We strictly process your personal information in compliance with the EU GDPR, the UK Data Protection Act, the Hong Kong Personal Data (Privacy) Ordinance, and data protection regulations worldwide. In accordance with Article 27 of the GDPR, we have appointed local compliance representatives in the EU and the UK. For specific contact details, please refer to the \"GDPR and Data Protection\" document.",
+        "5.2 You agree that the Licensor may collect, use, and store personal information in accordance with this Agreement and the Privacy Policy. The Privacy Policy has the same legal effect as this Agreement.",
+        "5.3 We use security technologies such as encryption and anonymization to protect your personal information from leakage, tampering, and unauthorized access.",
+        "5.4 Without your explicit consent, we will not share your personal information with third parties, except in the following circumstances:",
+        "(1) You disclose it to third parties yourself;",
+        "(2) Required by national security, public safety, public health, and statutory judicial or administrative requirements;",
+        "(3) To protect the major legal rights and interests of this Software, other users, or third parties, and in compliance with legal provisions;",
+        "(4) Information obtained from legitimate public sources;",
+        "(5) Other circumstances stipulated by laws and regulations.",
+        "5.5 You have the legal right to inquire, correct, delete, and withdraw authorization regarding your personal information. For detailed rules on personal information, please refer to the Privacy Policy."
+      ]
+    },
+    {
+      "key": "agreement-section-6",
+      "title": "6 Complaints and Reports",
+      "paragraphs": [
+        "6.1 You may report violating content or complain about infringing acts through the client or the official contact email.",
+        "6.2 If your rights are infringed, you may submit proof of rights to file a complaint. The complained party may submit proof of ownership to appeal.",
+        "6.3 We generally complete the review and provide feedback within 15 working days. For complex cases, we will update you on the progress."
+      ]
+    },
+    {
+      "key": "agreement-section-7",
+      "title": "7 Handling of Breaches",
+      "paragraphs": [
+        "7.1 If you violate this Agreement, platform rules, or local laws and regulations, the Licensor may take measures such as warnings, feature restrictions, content deletion, service suspension, or permanent account bans. Any losses arising from such measures shall be borne by you, and deleted content and data will not be restored.",
+        "7.2 If suspected illegal or criminal activities are discovered, the Licensor will preserve evidence and report to law enforcement authorities and cooperate with investigations.",
+        "7.3 If your violation causes the Licensor to be claimed against by third parties, subject to administrative penalties, or suffer reputational or economic losses, you shall bear all losses of the Licensor."
+      ]
+    },
+    {
+      "key": "agreement-section-8",
+      "title": "8 Intellectual Property",
+      "paragraphs": [
+        "8.1 The intellectual property rights of the code, interface, text, images, audio/video, effects, trademarks, and logos of this Software belong to the Licensor.",
+        "8.2 The Licensor owns all rights to the legitimate data and information generated during the operation of the product.",
+        "8.3 Without explicit written authorization from the Licensor, you are prohibited from using, copying, imitating, or registering the \"VicastCam\" brand, trademarks, domain names, logos, etc. If you cause losses through unauthorized use, you shall bear full legal responsibility.",
+        "8.4 This Software includes software components distributed under open-source licenses and third-party licenses. You must strictly comply with the corresponding license terms when using such components."
+      ]
+    },
+    {
+      "key": "agreement-section-9",
+      "title": "9 Terms for Minors",
+      "paragraphs": [
+        "9.1 Minors must obtain explicit consent from their legal guardian before using this Software and must use it under the guardian's supervision. Guardians have the right to request restrictions on or cancellation of a minor user's account.",
+        "9.2 The Licensor carefully collects personal information of minor users. Guardians should guide minors to protect their personal privacy and network security.",
+        "9.3 Guardians should fulfill their guardianship duties in accordance with the law, guide minors to use the internet healthily, and prevent internet addiction.",
+        "9.4 Minors and their guardians are legally responsible for all actions and consequences of the minor's use.",
+        "9.5 Minors may not use the camera for live streaming or appear in videos alone, and may not publish illegal or vulgar content.",
+        "9.6 If the Licensor discovers that a minor is using the Software without guardian consent, it has the right to directly restrict or ban the corresponding account.",
+        "9.7 Guardians should properly keep payment accounts and passwords to avoid unauthorized charges by minors. If you have any questions, please contact official customer service."
+      ]
+    }
+  ]
+}

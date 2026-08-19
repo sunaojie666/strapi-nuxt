@@ -1,0 +1,517 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Ödeme henüz kullanılamıyor",
+          "payment": {
+            "providerName": "Çevrimiçi ödeme aktif değil",
+            "providerDescription": "Ödeme işleme kuruluyor. Bu sayfa yalnızca sipariş ayrıntılarını gösterir.",
+            "unavailableTitle": "Ödeme henüz kullanılamıyor",
+            "unavailableDescription": "Resmi ödeme ve sipariş onay sürecini entegre ediyoruz. Lansmana kadar bu sayfa sizden ücret talep etmeyecek veya gerçek bir sipariş oluşturmayacak.",
+            "unavailableItems": [
+              "Üçüncü taraf ödeme bileşenleri yüklenmeyecek",
+              "Hiçbir ödeme bilgisi gönderilmeyecek",
+              "Gerçek bir ödeme siparişi oluşturulmayacak"
+            ],
+            "feedback": "Üyelik satın almak veya etkinleştirmek için lütfen business@vicastcam.com adresiyle iletişime geçin."
+          },
+          "summary": {
+            "title": "Sipariş Özeti",
+            "periodLabel": "Üyelik Süresi",
+            "paymentMethodLabel": "Ödeme Yöntemi",
+            "amountLabel": "Ödenecek Tutar",
+            "submitLabel": "Henüz kullanılamıyor",
+            "note": "Ödeme henüz kullanılamıyor. Aşağıdaki sipariş ayrıntıları planınızı onaylamanız içindir.",
+            "unavailablePaymentMethod": "Henüz kullanılamıyor",
+            "fallbackProductName": "Plan seçilmedi",
+            "fallbackProductDescription": "Lütfen ana sayfaya dönün ve bir üyelik planı seçin.",
+            "periodMonth": "1 ay",
+            "periodYear": "1 yıl",
+            "periodLife": "Ömür boyu",
+            "emptyValue": "-"
+          },
+          "seo": {
+            "title": "Abonelik Ödeme",
+            "description": "VicastCam abonelik ödeme sayfası."
+          },
+          "plans": [
+            {
+              "type": "month",
+              "name": "Aylık Plan",
+              "description": "Etkinleştirmede tam bir ay erişim elde edin. Denemek için düşük maliyetli bir yol."
+            },
+            {
+              "type": "year",
+              "name": "Yıllık Plan",
+              "description": "Etkinleştirmede tam bir yıl erişim elde edin. Uzun vadeli, istikrarlı kullanım için idealdir."
+            },
+            {
+              "type": "life",
+              "name": "Ömür Boyu Plan",
+              "description": "Bir kez etkinleştirin ve uzun süre kullanın. Üyelik avantajlarından sürekli yararlanın."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "data": {
+        "locale": "tr",
+        "multi_platform_section": {
+          "tag": "Çoklu Platform Desteği",
+          "title_main": "Dünyanın Önde Gelen Canlı Yayın Platformlarına Ulaşın",
+          "title_highlight": "Tek Tıkla Küresel Bir Kitleye Ulaşın",
+          "description": "Küresel trafik kaynaklarına bağlanın ve yeni bir sınır ötesi canlı yayın ekosistemi oluşturun."
+        }
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "data": {
+        "profileBox": {
+          "seo": {
+            "title": "Hesap Merkezi",
+            "description": "VicastCam hesap merkezi sayfası"
+          },
+          "common": {
+            "sidebarAriaLabel": "Hesap merkezi gezinme",
+            "defaultProfileName": "Kullanıcı",
+            "emptyContent": "İçerik yok",
+            "copyButtonLabel": "Kopyala",
+            "monthSelectLabel": "Ay seçin",
+            "yearSuffix": "y",
+            "monthSuffix": "ay",
+            "userMissing": "Kullanıcı bilgisi bulunamadı. Lütfen tekrar giriş yapın.",
+            "paginationLabel": "Sayfalama",
+            "previousPageLabel": "Önceki sayfa",
+            "nextPageLabel": "Sonraki sayfa",
+            "vipBadgeText": "VIP",
+            "paginationJump": {
+              "label": "Git",
+              "unit": "sayfa",
+              "ariaLabel": "Belirli bir sayfaya git",
+              "buttonLabel": "Git"
+            }
+          },
+          "headerUserMenu": {
+            "profile": "Hesap Merkezi",
+            "logout": "Çıkış Yap",
+            "profileAriaSuffix": "Hesap merkezi menüsü"
+          },
+          "sidebar": {
+            "ariaLabel": "Hesap merkezi gezinme",
+            "menus": {
+              "account": "Hesap Bilgileri",
+              "membership": "Üyelik",
+              "redeem": "Kod Kullan",
+              "purchaseHistory": "Satın Alma Geçmişi",
+              "team": "Ekibim",
+              "earnings": "Kazançlar"
+            }
+          },
+          "account": {
+            "ariaLabel": "Hesap bilgileri",
+            "profileTitle": "Hesap Bilgileri",
+            "usernameLabel": "Kullanıcı Adı",
+            "passwordLabel": "Şifre",
+            "passwordMask": "********",
+            "defaultUsername": "Takma ad ayarlanmamış",
+            "inviteTitle": "Davet Bağlantısı",
+            "inviteDescription": "Kişisel davet bağlantınızı kopyalayın. Arkadaşlarınız kaydolup üyelik etkinleştirdiğinde ödüller kazanırsınız.",
+            "emptyInviteLink": "Henüz davet bağlantısı yok"
+          },
+          "membership": {
+            "ariaLabel": "Üyelik",
+            "title": "Üyeliğim",
+            "badgeAlt": "Üyelik rozeti",
+            "vipBadgeText": "VIP",
+            "defaultVipName": "Ücretsiz Kullanıcı",
+            "activeVipName": "VIP Üye",
+            "expirePrefix": "Bitiş",
+            "emptyExpireDate": "Etkinleştirilmedi",
+            "activeStatus": "Aktif",
+            "inactiveStatus": "Etkinleştirilmedi",
+            "compareTitle": "Üyelik Avantajlarını Karşılaştır",
+            "compareHeaders": {
+              "feature": "Özellik",
+              "normal": "Ücretsiz",
+              "month": "Aylık",
+              "year": "Yıllık",
+              "life": "Ömür Boyu"
+            },
+            "plans": [
+              {
+                "id": "monthly-plan",
+                "type": "month",
+                "name": "Aylık Üyelik",
+                "subtitle": "Kısa süreli kullanım için ideal",
+                "price": "$9.99",
+                "originalPrice": "",
+                "unit": "/ay",
+                "cta": "Başla",
+                "benefits": [
+                  "Temel sanal kamera özellikleri",
+                  "Sanal arka planlar ve güzelleştirme",
+                  "Çoklu platform canlı yayın desteği",
+                  "Standart güncellemeler"
+                ]
+              },
+              {
+                "id": "yearly-plan",
+                "type": "year",
+                "name": "Yıllık Üyelik",
+                "subtitle": "Uzun süreli kullanım için daha iyi değer",
+                "price": "$69.99",
+                "originalPrice": "$119.88",
+                "unit": "/yıl",
+                "cta": "Başla",
+                "benefits": [
+                  "Tüm Aylık avantajlar",
+                  "Bir yıl boyunca tüm gelişmiş özellikler",
+                  "Öncelikli özellik güncellemeleri",
+                  "Özel üye desteği"
+                ]
+              },
+              {
+                "id": "lifetime-plan",
+                "type": "life",
+                "name": "Ömür Boyu Üyelik",
+                "subtitle": "Bir kez öde, uzun süre kullan",
+                "price": "$99.99",
+                "originalPrice": "",
+                "unit": "/ömür boyu",
+                "cta": "Başla",
+                "benefits": [
+                  "Tüm Yıllık avantajlar",
+                  "Sonsuza kadar gelişmiş özellikler",
+                  "Uzun vadeli güncellemeler",
+                  "Özel destek kanalı"
+                ]
+              }
+            ],
+            "compareRows": [
+              {
+                "feature": "Üyelik süresi",
+                "normal": "Sonsuza kadar ücretsiz",
+                "month": "30 gün",
+                "year": "365 gün",
+                "life": "Ömür boyu"
+              },
+              {
+                "feature": "Masaüstü sanal kamera",
+                "normal": "SD",
+                "month": "HD/UHD",
+                "year": "HD/UHD",
+                "life": "HD/UHD"
+              },
+              {
+                "feature": "Özel sanal arka planlar",
+                "normal": "Tek set",
+                "month": "Sınırsız",
+                "year": "Sınırsız",
+                "life": "Sınırsız"
+              },
+              {
+                "feature": "Canlı yayın hazır ayarları",
+                "normal": "cross",
+                "month": "Sınırsız",
+                "year": "Sınırsız",
+                "life": "Sınırsız"
+              },
+              {
+                "feature": "Resmi web sitesi varlıkları",
+                "normal": "Sınırlı",
+                "month": "Sınırsız",
+                "year": "Sınırsız",
+                "life": "Sınırsız"
+              },
+              {
+                "feature": "Kumanda ile uzaktan kontrol",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Canlı sahne karşılaştırma modu",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Sahne altyazıları",
+                "normal": "Sınırlı",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Sahne müziği",
+                "normal": "Sınırlı",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Çoklu kamera girişi",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Gelişmiş güzelleştirme filtreleri",
+                "normal": "Temel",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "AI akıllı yeşil ekran matting",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Dinamik hareket izi animasyonları",
+                "normal": "Sınırlı",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Sahne kamerası hareket efektleri",
+                "normal": "Sınırlı",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "VIP efekt kütüphanesi",
+                "normal": "Sınırlı",
+                "month": "Sınırsız",
+                "year": "Sınırsız",
+                "life": "Sınırsız"
+              },
+              {
+                "feature": "Platform yayını",
+                "normal": "check",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "4K UHD çıkış",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              },
+              {
+                "feature": "Promosyon komisyon oranı",
+                "normal": "%5",
+                "month": "%40",
+                "year": "%40",
+                "life": "%40"
+              },
+              {
+                "feature": "Referans ödülleri",
+                "normal": "%1",
+                "month": "%7",
+                "year": "%7",
+                "life": "%7"
+              },
+              {
+                "feature": "Destek kanalı",
+                "normal": "Topluluk self-servis",
+                "month": "Standart kuyruk",
+                "year": "Öncelikli yanıt",
+                "life": "Özel destek"
+              },
+              {
+                "feature": "Yeni özelliklere erken erişim",
+                "normal": "cross",
+                "month": "check",
+                "year": "check",
+                "life": "check"
+              }
+            ]
+          },
+          "redeem": {
+            "ariaLabel": "Kod kullan",
+            "title": "Kod Kullan",
+            "tip": "Üyelik kodunuzu girin. Kullanım sonrasında avantajlarınız anında etkinleştirilecektir.",
+            "placeholder": "Kodu girin",
+            "submitButton": "Şimdi Kullan",
+            "agreementPrefix": "Kodu kullanarak",
+            "userProtocolText": "Kullanıcı Sözleşmesi'ni",
+            "userProtocolHref": "/terms",
+            "errors": {
+              "activateFail": "Kullanım başarısız oldu. Lütfen kodu kontrol edip tekrar deneyin."
+            }
+          },
+          "purchaseHistory": {
+            "ariaLabel": "Satın alma geçmişi",
+            "title": "Satın Alma Geçmişi",
+            "tabTitle": "Satın Alımlar",
+            "exchangeTabTitle": "Kullanımlar",
+            "tableHeaders": {
+              "title": "Tür",
+              "date": "Ödeme Tarihi",
+              "price": "Tutar",
+              "paymentMethod": "Ödeme Yöntemi",
+              "status": "Durum",
+              "exchangeDate": "Kullanım Tarihi",
+              "exchangeCode": "Kullanım Kodu"
+            },
+            "exchangeTableHeaders": {
+              "date": "Kullanım Tarihi",
+              "code": "Kullanım Kodu"
+            },
+            "cardTypes": {
+              "month": "Aylık Plan",
+              "year": "Yıllık Plan",
+              "life": "Ömür Boyu Plan",
+              "default": "Üyelik"
+            },
+            "orderStatuses": {
+              "pending": "Beklemede",
+              "paid": "Ödendi",
+              "closed": "Kapatıldı",
+              "refunded": "İade Edildi",
+              "unknown": "Bilinmiyor"
+            },
+            "secretLabels": {
+              "show": "Şifreyi göster",
+              "hide": "Şifreyi gizle"
+            },
+            "secretMask": "******",
+            "emptyText": "Satın alma geçmişi yok",
+            "exchangeEmptyText": "Kullanım geçmişi yok",
+            "emptyValue": "-",
+            "paymentMethods": {
+              "paypal": "PayPal",
+              "stripe": "Stripe",
+              "card": "Banka kartı",
+              "creditcard": "Kredi kartı",
+              "alipay": "Alipay",
+              "wechat": "WeChat Pay",
+              "wechatpay": "WeChat Pay",
+              "usdt": "USDT",
+              "crypto": "Kripto para",
+              "balance": "Bakiye",
+              "free": "Ücretsiz"
+            }
+          },
+          "team": {
+            "ariaLabel": "Ekibim",
+            "title": "Ekibim",
+            "referrerLabel": "Referansım",
+            "levelOne": "1. Seviye Üyeler",
+            "levelTwo": "2. Seviye Üyeler",
+            "tableHeaders": {
+              "name": "Üye Adı",
+              "status": "Üyelik Durumu",
+              "joinedAt": "Katılım"
+            },
+            "memberStatus": {
+              "free": "Ücretsiz Kullanıcı",
+              "vip": "VIP Kullanıcı"
+            },
+            "emptyMemberName": "Adsız Kullanıcı",
+            "emptyReferrer": "Referans yok",
+            "emptyTeam": "Henüz ekip üyesi yok",
+            "errors": {
+              "loadFail": "Ekip üyeleri yüklenemedi. Lütfen daha sonra tekrar deneyin."
+            }
+          },
+          "earnings": {
+            "ariaLabel": "Kazançlar",
+            "title": "Kazanç Genel Bakış",
+            "commissionTitle": "Komisyon Detayları",
+            "moneyPrefix": "$",
+            "moneySuffix": "",
+            "summaryCards": [
+              {
+                "key": "total",
+                "title": "Toplam Kazanç",
+                "desc": "Bugüne kadar kazanılan toplam komisyon"
+              },
+              {
+                "key": "month",
+                "title": "Bu Ay",
+                "desc": "Bu ay kazanılan komisyon"
+              },
+              {
+                "key": "settling",
+                "title": "Bekleyen Ödeme",
+                "value": "0.00",
+                "desc": "Ödemesi beklenen tutar"
+              },
+              {
+                "key": "withdrawable",
+                "title": "Çekilebilir",
+                "desc": "Şu anda çekilebilir tutar",
+                "action": "Çek"
+              }
+            ],
+            "commissionHeaders": {
+              "username": "Kullanıcı Adı",
+              "saleTime": "Satış Zamanı",
+              "goodsInfo": "Ürün",
+              "commission": "Komisyon"
+            },
+            "emptyCommission": "Komisyon kaydı yok",
+            "errors": {
+              "loadFail": "Komisyon detayları yüklenemedi. Lütfen daha sonra tekrar deneyin."
+            },
+            "withdraw": {
+              "ariaLabel": "Para çekme talebi",
+              "title": "Para Çekme Talebi",
+              "closeLabel": "Para çekme penceresini kapat",
+              "balanceLabel": "Çekilebilir Bakiye",
+              "balanceValue": "$ 0.00",
+              "amountLabel": "Çekilecek Tutar",
+              "amountPlaceholder": "Çekilecek tutarı girin",
+              "allButton": "Tümü",
+              "allAmountValue": "0.00",
+              "amountTip": "Lütfen tutarın doğru olduğundan emin olun. Talebiniz gönderildikten sonra manuel olarak incelenecektir.",
+              "methodLabel": "Para Çekme Yöntemi",
+              "methods": [
+                "Banka kartı",
+                "PayPal",
+                "USDT"
+              ],
+              "defaultMethod": "Banka kartı",
+              "nameLabel": "Alıcı Adı",
+              "namePlaceholder": "Alıcı adını girin",
+              "defaultName": "",
+              "bankCardLabel": "Hesap Numarası",
+              "bankCardPlaceholder": "Banka kartı numarası, PayPal e-postası veya cüzdan adresi girin",
+              "remarkLabel": "Not",
+              "remarkPlaceholder": "İsteğe bağlı ek bilgi",
+              "note": "Para çekme talepleri 1-3 iş günü içinde işleme alınır.",
+              "cancelButton": "İptal",
+              "submitButton": "Talebi Gönder"
+            }
+          },
+          "cardErrors": {
+            "operationSuccess": "Kullanım başarılı",
+            "operationFailed": "Kullanım başarısız",
+            "invalidCard": "Geçersiz kod",
+            "cardNotFound": "Kod bulunamadı",
+            "cardDisabled": "Kod devre dışı",
+            "cardExpired": "Kodun süresi dolmuş"
+          },
+          "successMessage": "İşlem başarılı"
+        }
+      }
+    }
+  ]
+}

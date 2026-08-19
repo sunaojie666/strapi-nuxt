@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "VicastCam FAQ | Android ও iOS-এর জন্য সহায়তা",
+    "description": "Android ও iOS-এর জন্য VicastCam সম্পর্কে সাধারণ প্রশ্নের উত্তর খুঁজুন, যার মধ্যে অ্যাকাউন্ট সেটআপ, মিডিয়া অনুমতি, নেটওয়ার্ক সংযোগ এবং লাইভ স্ট্রিমিং সমস্যা রয়েছে।",
+    "imageAlt": "VicastCam FAQ"
+  },
+  "hero": {
+    "eyebrow": "FAQ",
+    "titleMain": "VicastCam সহায়তা",
+    "titleHighlight": "দ্রুত উত্তর খুঁজুন",
+    "description": "আপনার ডিভাইসের জন্য সাধারণ প্রশ্ন ও সমাধান দেখতে আপনার প্ল্যাটফর্ম (Android বা iOS) বেছে নিন।"
+  },
+  "content": {
+    "sectionAriaLabel": "সাধারণ জিজ্ঞাসা",
+    "catalogAriaLabel": "প্রশ্নের বিভাগসমূহ",
+    "answerLabel": "উত্তর",
+    "questionProgressTemplate": "{group} · প্রশ্ন {current} / {total}"
+  }
+}

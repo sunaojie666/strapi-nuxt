@@ -1,0 +1,75 @@
+{
+  "__chunk": [
+    {
+      "id": "android-asset-black-screen",
+      "title": "Mengapa aset rangkaian atau hamparan berkelip atau menjadi hitam semasa strim langsung?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika anda mengalami kelipan atau skrin hitam apabila menambah aset rangkaian semasa strim langsung, berikut cara untuk mengatasinya:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Muat turun dan pratonton sebarang aset atau hamparan yang anda rancang untuk digunakan semasa strim lebih awal, dan sahkan ia berfungsi dengan betul sebelum memulakan siaran.",
+            "Sesetengah aset yang disertakan dengan perisian disimpan pada pelayan. Jika anda memuat turunnya sebelum memulakan siaran, anda boleh menggunakannya secara langsung semasa strim tanpa memuatkan semula.",
+            "Memuatkan aset di tengah-tengah strim menggunakan sumber penstriman, memori telefon, dan prestasi, yang boleh menyebabkan ketinggalan; pada telefon yang lebih rendah, ia mungkin menyebabkan ranap atau skrin hitam."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nota penting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sebelum memulakan siaran, rancang dan lakukan raptai strim anda dengan teliti untuk memastikan setiap elemen berfungsi dengan sempurna sebelum anda bermula."
+        }
+      ]
+    },
+    {
+      "id": "android-keyboard-covered",
+      "title": "Apa yang perlu saya lakukan jika sesetengah kekunci pada papan kekunci ditutup?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika sesetengah kekunci pada papan kekunci maya ditutup, cuba langkah berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Jika anda menggunakan telefon 16:9 yang lebih lama sebagai alat kawalan jauh, dan sesetengah kekunci ditutup, ketik butang kedua di sudut kiri atas papan kekunci untuk mengaktifkan mod operasi skrin penuh.",
+            "Jika susun atur papan kekunci tidak sejajar, pergi ke Tetapan telefon anda dan tetapkan saiz fon kepada normal.",
+            "Sesetengah telefon mempunyai mod warga emas yang diaktifkan; mematikannya sepatutnya memulihkan paparan papan kekunci kepada normal."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Isu paparan biasanya disebabkan oleh fon yang terlalu besar atau antara muka tema telefon yang terlalu besar. Menetapkan semula ini kepada mod standard sepatutnya menyelesaikan masalah."
+        }
+      ]
+    },
+    {
+      "id": "android-huawei-disconnect",
+      "title": "Apa yang perlu saya lakukan jika telefon Huawei saya sentiasa terputus sambungan daripada kamera berbilang atau papan kekunci maya?",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Jika telefon Huawei anda mengalami pemutusan sambungan dengan kamera berbilang atau papan kekunci maya, ikuti langkah berikut:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pergi ke Tetapan telefon anda.",
+            "Dalam bar carian di bahagian atas, taip 'Pengurusan pelancaran aplikasi'.",
+            "Pergi ke halaman Pengurusan pelancaran aplikasi, tatal ke bawah untuk mencari VicastCam.",
+            "Matikan togol di sebelah kanan supaya ikon menjadi kelabu; pada masa yang sama, aktifkan ketiga-tiga pilihan dalam pop timbul supaya ia menjadi biru."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Anda juga boleh merujuk tutorial video 'Cara mengelakkan pemutusan sambungan dengan kamera berbilang dan papan kekunci maya pada telefon Huawei'."
+        }
+      ]
+    }
+  ]
+}

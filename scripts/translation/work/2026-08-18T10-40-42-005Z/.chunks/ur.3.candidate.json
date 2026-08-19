@@ -1,0 +1,68 @@
+{
+  "__chunk": [
+    {
+      "key": "computer",
+      "title": "کمپیوٹر سیٹ اپ",
+      "count": "7 اسباق",
+      "icon": "lucide:monitor",
+      "lessons": [
+        {
+          "id": "computer-1",
+          "index": 1,
+          "title": "VicastCam کے ساتھ شروعات",
+          "description": "انٹرفیس اور بنیادی خصوصیات کا ایک جامع جائزہ۔",
+          "time": "1:46",
+          "video": "https://cdn.vicastcam.com/upload/article/ZXGTQXWFB32EJk7KBsKd8PjJ.mp4"
+        },
+        {
+          "id": "computer-2",
+          "index": 2,
+          "title": "وائرڈ کنکشن – آئی فون",
+          "description": "وائرڈ کنکشن کا استعمال کرتے ہوئے اپنے آئی فون کو VicastCam سے منسلک کریں۔",
+          "time": "0:41",
+          "video": "https://cdn.vicastcam.com/upload/article/4FTcAT84SKJHdmwkSxHAny2H.mp4"
+        },
+        {
+          "id": "computer-3",
+          "index": 3,
+          "title": "وائرلیس کنکشن – آئی فون",
+          "description": "وائی فائی کے ذریعے اپنے آئی فون کو VicastCam سے منسلک کریں۔",
+          "time": "0:29",
+          "video": "https://cdn.vicastcam.com/upload/article/preTiJYeCmyQt3nWcRRxRkA3.mp4"
+        },
+        {
+          "id": "computer-4",
+          "index": 4,
+          "title": "وائرڈ کنکشن – اینڈرائیڈ",
+          "description": "وائرڈ کنکشن کا استعمال کرتے ہوئے اپنے اینڈرائیڈ ڈیوائس کو VicastCam سے منسلک کریں۔",
+          "time": "0:45",
+          "video": "https://cdn.vicastcam.com/upload/article/TsYhirQaeE4wBdEy2T2DE7Gi.mp4"
+        },
+        {
+          "id": "computer-5",
+          "index": 5,
+          "title": "وائرلیس کنکشن – اینڈرائیڈ",
+          "description": "وائی فائی کے ذریعے اپنے اینڈرائیڈ ڈیوائس کو VicastCam سے منسلک کریں۔",
+          "time": "1:01",
+          "video": "https://cdn.vicastcam.com/upload/article/M4KZTJ4ibwJNkb3zwkTQsDt6.mp4"
+        },
+        {
+          "id": "computer-6",
+          "index": 6,
+          "title": "مقامی میڈیا شامل کرنا اور استعمال کرنا",
+          "description": "اپنے پروجیکٹس میں مقامی میڈیا فائلیں درآمد اور استعمال کریں۔",
+          "time": "1:18",
+          "video": "https://cdn.vicastcam.com/upload/article/kAmjFzAhHSbSMywEkH7Dmkwb.mp4"
+        },
+        {
+          "id": "computer-7",
+          "index": 7,
+          "title": "کنکشن کے بعد کیا کریں",
+          "description": "ڈیوائسز منسلک ہونے کے بعد اپنا اسٹریم شروع کریں۔",
+          "time": "1:36",
+          "video": "https://cdn.vicastcam.com/upload/article/ftp5TYGiD88npD5iXxJ2QZhy.mp4"
+        }
+      ]
+    }
+  ]
+}

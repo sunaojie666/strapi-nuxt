@@ -1,0 +1,159 @@
+{
+  "logins": [
+    {
+      "logins": {
+        "locale": "it",
+        "loginTitle1": "Cambia il tuo sfondo virtuale con un clic",
+        "loginTitle2": "Streaming con più impatto",
+        "loginDes1": "Uno strumento professionale per lo streaming live, potenziato dall'AI",
+        "loginDes2": "Sfondi virtuali, miglioramenti live e streaming multi-piattaforma resi semplici",
+        "featureTitle1": "AI Matting",
+        "featureSubTitle1": "Sostituzione dello sfondo in tempo reale",
+        "featureTitle2": "Streaming Multi-Piattaforma",
+        "featureSubTitle2": "Vai in diretta con un tocco",
+        "featureTitle3": "Videocamera Virtuale",
+        "featureSubTitle3": "Trasforma il tuo telefono in una webcam",
+        "loginBox": {
+          "loginPageTitle": "Accedi / Registrati",
+          "codeLoginTab": "Accesso con codice",
+          "pwdLoginTab": "Accesso con password",
+          "qrLoginTab": "Accesso con QR code",
+          "emailInputPlaceholder": "Inserisci la tua email per accedere",
+          "pwdInputPlaceholder": "Inserisci la tua password",
+          "verifyCodePlaceholder": "Inserisci il codice di verifica",
+          "getVerifyCodeText": "Ottieni codice",
+          "loginBtnText": "Accedi",
+          "qrLoginTip": "Scansiona con l'app VicastCam per accedere",
+          "qrWaitingTip": "In attesa della conferma della scansione",
+          "agreeProtocolText": "Ho letto e accetto l'Informativa sulla Privacy e i Termini di Servizio",
+          "userProtocolText": "Termini di Servizio",
+          "privacyPolicyText": "Informativa sulla Privacy",
+          "agreeProtocolPrefix": "Ho letto e accetto"
+        },
+        "toastBox": {
+          "closeToastLabel": "Chiudi notifica",
+          "requestLoading": "Caricamento",
+          "requestSuccess": "Richiesta completata",
+          "requestFail": "Richiesta non riuscita",
+          "passwordLoginNotReady": "L'accesso con password non è ancora disponibile",
+          "passwordRequired": "Inserisci la tua password",
+          "emailRequired": "Inserisci la tua email per accedere",
+          "verifyCodeRequired": "Inserisci il codice di verifica",
+          "agreeProtocolRequired": "Prima di continuare, leggi e accetta l'Informativa sulla Privacy e i Termini di Servizio",
+          "qrcodeExpired": "Il codice QR è scaduto. Generane uno nuovo."
+        }
+      }
+    }
+  ],
+  "footers": [
+    {
+      "footerobj": {
+        "locale": "it",
+        "hero_section": {
+          "tag": "Strumento di streaming live potenziato dall'AI",
+          "title_main": "Effetti green screen e screen casting dal tuo telefono",
+          "title_highlight": "Potenzia lo streaming live in tutto il mondo",
+          "description": "VicastCam utilizza l'AI matting avanzata per cambiare lo sfondo virtuale in qualsiasi momento durante lo streaming, aggiungendo effetti immersivi e un aspetto professionale alle tue dirette.",
+          "download_buttons": [
+            {
+              "platform": "App Store",
+              "text": "Scarica"
+            },
+            {
+              "platform": "Google Play",
+              "text": "Scarica"
+            }
+          ]
+        },
+        "footer": {
+          "brand": {
+            "name": "VicastCam",
+            "description": "VicastCam offre ai creator sfondi virtuali, miglioramenti live e strumenti multi-piattaforma."
+          },
+          "columns": [
+            {
+              "title": "Prodotto",
+              "links": [
+                {
+                  "text": "Funzionalità"
+                },
+                {
+                  "text": "Prezzi"
+                },
+                {
+                  "text": "Download"
+                }
+              ]
+            },
+            {
+              "title": "Sviluppatori",
+              "links": [
+                {
+                  "text": "SDK"
+                },
+                {
+                  "text": "Documentazione API"
+                }
+              ]
+            },
+            {
+              "title": "Azienda",
+              "links": [
+                {
+                  "text": "Chi Siamo"
+                },
+                {
+                  "text": "Informativa sulla Privacy"
+                },
+                {
+                  "text": "Termini di Servizio"
+                },
+                {
+                  "text": "Accordo di Iscrizione"
+                }
+              ]
+            },
+            {
+              "title": "Supporto",
+              "links": [
+                {
+                  "text": "Video Tutorial"
+                },
+                {
+                  "text": "FAQ"
+                },
+                {
+                  "text": "Contattaci"
+                }
+              ]
+            },
+            {
+              "title": "Partnership",
+              "links": [
+                {
+                  "text": "Diventa un Rivenditore"
+                },
+                {
+                  "text": "OEM"
+                },
+                {
+                  "text": "Richieste Commerciali"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "navigations": [
+    {
+      "nav_client_download": "VicastCam",
+      "nav_features": "Funzionalità",
+      "nav_pricing": "Prezzi",
+      "nav_faq": "FAQ",
+      "nav_auth": "Accedi / Registrati",
+      "nav_team": "Partnership"
+    }
+  ]
+}

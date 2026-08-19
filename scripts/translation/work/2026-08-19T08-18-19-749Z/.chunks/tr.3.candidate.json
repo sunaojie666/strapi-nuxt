@@ -1,0 +1,156 @@
+{
+  "purchaseHistory": {
+    "ariaLabel": "Satın alma geçmişi",
+    "title": "Satın alma geçmişi",
+    "tabTitle": "Satın alımlar",
+    "exchangeTabTitle": "Kullanımlar",
+    "tableHeaders": {
+      "title": "Tür",
+      "date": "Ödeme zamanı",
+      "price": "Tutar",
+      "paymentMethod": "Ödeme yöntemi",
+      "status": "Durum",
+      "exchangeDate": "Kullanım zamanı",
+      "exchangeCode": "Kullanım kodu"
+    },
+    "exchangeTableHeaders": {
+      "date": "Kullanım zamanı",
+      "code": "Kullanım kodu"
+    },
+    "cardTypes": {
+      "month": "Aylık kart",
+      "year": "Yıllık kart",
+      "life": "Ömür boyu kart",
+      "default": "Üyelik kartı"
+    },
+    "orderStatuses": {
+      "pending": "Ödeme bekleniyor",
+      "paid": "Ödendi",
+      "closed": "Kapatıldı",
+      "refunded": "İade edildi",
+      "unknown": "Bilinmiyor"
+    },
+    "secretLabels": {
+      "show": "Şifreyi göster",
+      "hide": "Şifreyi gizle"
+    },
+    "secretMask": "******",
+    "emptyText": "Henüz satın alma kaydı yok",
+    "exchangeEmptyText": "Henüz kullanım kaydı yok",
+    "emptyValue": "-",
+    "paymentMethods": {
+      "paypal": "PayPal",
+      "stripe": "Stripe",
+      "card": "Banka kartı",
+      "creditcard": "Kredi kartı",
+      "alipay": "Alipay",
+      "wechat": "WeChat Pay",
+      "wechatpay": "WeChat Pay",
+      "usdt": "USDT",
+      "crypto": "Kripto para",
+      "balance": "Bakiye",
+      "free": "Ücretsiz"
+    }
+  },
+  "team": {
+    "ariaLabel": "Ekibim",
+    "title": "Ekibim",
+    "referrerLabel": "Davet edenim",
+    "levelOne": "1. seviye üyeler",
+    "levelTwo": "2. seviye üyeler",
+    "tableHeaders": {
+      "name": "Üye adı",
+      "status": "Üyelik durumu",
+      "joinedAt": "Katılım zamanı"
+    },
+    "memberStatus": {
+      "free": "Ücretsiz kullanıcı",
+      "vip": "VIP kullanıcı"
+    },
+    "emptyMemberName": "Adsız kullanıcı",
+    "emptyReferrer": "Davet eden yok",
+    "emptyTeam": "Henüz ekip üyesi yok",
+    "errors": {
+      "loadFail": "Ekip üyeleri yüklenemedi. Lütfen daha sonra tekrar deneyin."
+    }
+  },
+  "earnings": {
+    "ariaLabel": "Kazanç merkezi",
+    "title": "Kazanç genel bakış",
+    "commissionTitle": "Komisyon detayları",
+    "moneyPrefix": "$",
+    "moneySuffix": "",
+    "summaryCards": [
+      {
+        "key": "total",
+        "title": "Toplam kazanç",
+        "desc": "Bugüne kadar kazanılan toplam komisyon"
+      },
+      {
+        "key": "month",
+        "title": "Bu ay",
+        "desc": "Bu ay kazanılan komisyon"
+      },
+      {
+        "key": "settling",
+        "title": "Ödemesi beklenen",
+        "value": "0.00",
+        "desc": "Ödemesi beklenen tutar"
+      },
+      {
+        "key": "withdrawable",
+        "title": "Çekilebilir",
+        "desc": "Şu anda çekilebilir tutar",
+        "action": "Çek"
+      }
+    ],
+    "commissionHeaders": {
+      "username": "Kullanıcı adı",
+      "saleTime": "Satış zamanı",
+      "goodsInfo": "Ürün",
+      "commission": "Komisyon"
+    },
+    "emptyCommission": "Henüz komisyon kaydı yok",
+    "errors": {
+      "loadFail": "Komisyon detayları yüklenemedi. Lütfen daha sonra tekrar deneyin."
+    },
+    "withdraw": {
+      "ariaLabel": "Para çekme talebi",
+      "title": "Para çekme talebi",
+      "closeLabel": "Para çekme penceresini kapat",
+      "balanceLabel": "Çekilebilir bakiye",
+      "balanceValue": "$ 0.00",
+      "amountLabel": "Çekilecek tutar",
+      "amountPlaceholder": "Çekilecek tutarı girin",
+      "allButton": "Tümü",
+      "allAmountValue": "0.00",
+      "amountTip": "Lütfen tutarın doğru olduğundan emin olun. Talebiniz gönderildikten sonra manuel olarak incelenecektir.",
+      "methodLabel": "Para çekme yöntemi",
+      "methods": [
+        "Banka kartı",
+        "PayPal",
+        "USDT"
+      ],
+      "defaultMethod": "Banka kartı",
+      "nameLabel": "Alıcı adı",
+      "namePlaceholder": "Alıcı adını girin",
+      "defaultName": "",
+      "bankCardLabel": "Hesap numarası",
+      "bankCardPlaceholder": "Banka kartı numarası, PayPal e-postası veya cüzdan adresi girin",
+      "remarkLabel": "Açıklama",
+      "remarkPlaceholder": "Ek notlar ekleyin",
+      "note": "Para çekme talepleri 1-3 iş günü içinde işleme alınır.",
+      "cancelButton": "İptal",
+      "submitButton": "Talebi gönder"
+    }
+  },
+  "cardErrors": {
+    "operationSuccess": "Kullanım başarılı",
+    "operationFailed": "Kullanım başarısız",
+    "invalidCard": "Geçersiz kullanım kodu",
+    "cardNotFound": "Kullanım kodu bulunamadı",
+    "cardDisabled": "Kullanım kodu devre dışı",
+    "cardExpired": "Kullanım kodunun süresi dolmuş"
+  },
+  "successMessage": "İşlem başarılı"
+}

@@ -1,0 +1,156 @@
+{
+  "__chunk": [
+    {
+      "key": "beginner",
+      "title": "شروع کار",
+      "count": "۱۱ درس",
+      "icon": "lucide:folder-open",
+      "lessons": [
+        {
+          "id": "beginner-1",
+          "index": 1,
+          "title": "ساخت اولین استودیوی مجازی",
+          "description": "از ابتدا استودیوی مجازی خود را راه‌اندازی و پیکربندی کنید.",
+          "time": "01:59",
+          "video": "https://cdn.vicastcam.com/upload/article/%E6%96%B0%E5%BB%BA%E7%9B%B4%E6%92%AD%E9%97%B4-en_x264.mp4"
+        },
+        {
+          "id": "beginner-2",
+          "index": 2,
+          "title": "آشنایی با ابزارهای تصویر",
+          "description": "مبانی ابزارهای تصویر و کاربردهای رایج آن‌ها را بررسی کنید.",
+          "time": "02:33",
+          "video": "https://cdn.vicastcam.com/upload/article/xEY8PAdHpYZY84j8jM84pBcf.mp4"
+        },
+        {
+          "id": "beginner-3",
+          "index": 3,
+          "title": "کار با لایه‌ها",
+          "description": "با پنل لایه‌ها و مدیریت مؤثر آن‌ها آشنا شوید.",
+          "time": "04:02",
+          "video": "https://cdn.vicastcam.com/upload/article/y3ZJ57XCb737P3SNa8RXsazB.mp4"
+        },
+        {
+          "id": "beginner-4",
+          "index": 4,
+          "title": "استفاده از لایه‌های پس‌زمینه",
+          "description": "نحوه افزودن و تنظیم لایه‌های پس‌زمینه برای صحنه خود را بیاموزید.",
+          "time": "05:17",
+          "video": "https://cdn.vicastcam.com/upload/article/df8fRwYWsYYRWXkahZTidcrk.mp4"
+        },
+        {
+          "id": "beginner-5",
+          "index": 5,
+          "title": "استفاده از لایه‌های پرتره",
+          "description": "برای بهبود تولید زنده خود، لایه‌های پرتره اضافه کنید.",
+          "time": "06:04",
+          "video": "https://cdn.vicastcam.com/upload/article/JfC8YZS2QGBxE7t84zzHS4px.mp4"
+        },
+        {
+          "id": "beginner-6",
+          "index": 6,
+          "title": "استفاده از لایه‌های تصویر",
+          "description": "در تنظیمات استودیوی خود، لایه‌های تصویر را اضافه و ویرایش کنید.",
+          "time": "03:11",
+          "video": "https://cdn.vicastcam.com/upload/article/GMkzbZGKTSSQWx6PeaGFjiie.mp4"
+        },
+        {
+          "id": "beginner-7",
+          "index": 7,
+          "title": "استفاده از لایه‌های ویدیو",
+          "description": "کلیپ‌های ویدیویی اضافه کنید و تنظیمات پخش را کنترل کنید.",
+          "time": "04:16",
+          "video": "https://cdn.vicastcam.com/upload/article/mJAMbszMjQtAs8k5jcPcQiFh.mp4"
+        },
+        {
+          "id": "beginner-8",
+          "index": 8,
+          "title": "استفاده از لایه‌های افکت",
+          "description": "با لایه‌های افکت، جلوه‌های بصری به استریم زنده خود اعمال کنید.",
+          "time": "05:37",
+          "video": "https://cdn.vicastcam.com/upload/article/pPjaASWxanfsA35jwH5sPsF7.mp4"
+        },
+        {
+          "id": "beginner-9",
+          "index": 9,
+          "title": "استفاده از لایه‌های زیرنویس",
+          "description": "زیرنویس بسازید و ظاهر آن‌ها را سفارشی کنید.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/kXh7PRsNb2dMRHXNwWF6wN57.mp4"
+        },
+        {
+          "id": "beginner-10",
+          "index": 10,
+          "title": "استفاده از آواتارهای مجازی",
+          "description": "با یکپارچه‌سازی آواتار مجازی، به استریم خود جان ببخشید.",
+          "time": "02:00",
+          "video": "https://cdn.vicastcam.com/upload/article/abeZCMnCXdtACXEiFcDh7Dy7.mp4"
+        },
+        {
+          "id": "beginner-11",
+          "index": 11,
+          "title": "استفاده از صحنه‌ها",
+          "description": "در طول استریم، به‌طور یکپارچه بین چیدمان‌های مختلف صحنه جابه‌جا شوید.",
+          "time": "02:30",
+          "video": "https://cdn.vicastcam.com/upload/article/JRQHzK8C8ETydWdZEz2KTxYd.mp4"
+        }
+      ]
+    },
+    {
+      "key": "advanced",
+      "title": "آموزش‌های پیشرفته",
+      "count": "۶ درس",
+      "icon": "lucide:folder",
+      "lessons": [
+        {
+          "id": "advanced-1",
+          "index": 1,
+          "title": "استفاده از لایه‌های حرکت دوربین",
+          "description": "با لایه‌های حرکت دوربین، نماهای پویا ایجاد کنید.",
+          "time": "06:51",
+          "video": "https://cdn.vicastcam.com/upload/article/jkeFh4fJFSFriSMsWBRsWr5h.mp4"
+        },
+        {
+          "id": "advanced-2",
+          "index": 2,
+          "title": "استفاده از انیمیشن مسیر",
+          "description": "با ویژگی مسیر حرکت، مسیر حرکت عناصر را کنترل کنید.",
+          "time": "08:27",
+          "video": "https://cdn.vicastcam.com/upload/article/pjNzBa7nJYTM6wS46j6PBRWj.mp4"
+        },
+        {
+          "id": "advanced-3",
+          "index": 3,
+          "title": "استفاده از لایه‌های چند دوربینه",
+          "description": "برای تعویض سریع زاویه دید، لایه‌های چند دوربینه تنظیم کنید.",
+          "time": "06:25",
+          "video": "https://cdn.vicastcam.com/upload/article/CWGkBbYfJQDteE3MA6wSYFHt.mp4"
+        },
+        {
+          "id": "advanced-4",
+          "index": 4,
+          "title": "استفاده از کنترلر",
+          "description": "کل پخش خود را از یک پنل کنترل واحد مدیریت کنید.",
+          "time": "04:39",
+          "video": "https://cdn.vicastcam.com/upload/article/67X3s43rX67Spn5jRQ4DReaW.mp4"
+        },
+        {
+          "id": "advanced-5",
+          "index": 5,
+          "title": "تنظیم و میکس صدا",
+          "description": "ورودی‌ها، خروجی‌ها و تنظیمات میکس صدا را پیکربندی کنید.",
+          "time": "03:56",
+          "video": "https://cdn.vicastcam.com/upload/article/Hp5nbzicWds3wSi5naEwjkjt.mp4"
+        },
+        {
+          "id": "advanced-6",
+          "index": 6,
+          "title": "پشتیبان‌گیری و بازیابی",
+          "description": "از تنظیمات استودیوی خود پشتیبان بگیرید و در صورت نیاز آن را بازیابی کنید.",
+          "time": "04:31",
+          "video": "https://cdn.vicastcam.com/upload/article/fCHSbraGPeScCA7ZfCxRjK4d.mp4"
+        }
+      ]
+    }
+  ]
+}

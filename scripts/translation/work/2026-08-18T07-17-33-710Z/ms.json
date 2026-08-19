@@ -1,0 +1,108 @@
+{
+  "checkouts": [
+    {
+      "data": {
+        "checkout": {
+          "title": "Pilih Kaedah Pembayaran",
+          "payment": {
+            "providerName": "PayPal",
+            "providerDescription": "Bayar dengan baki PayPal, kad bank, atau kad kredit anda",
+            "secureBadge": "Pembayaran Selamat",
+            "methodLabel": "Kaedah Pembayaran",
+            "accountLabel": "Akaun Semasa",
+            "signInRequired": "Sila log masuk untuk meneruskan pembelian anda",
+            "signInAction": "Log Masuk",
+            "summaryHint": "Klik butang PayPal untuk melengkapkan pembayaran anda",
+            "trustItems": [
+              "Pembayaran diproses dengan selamat oleh PayPal",
+              "Menyokong baki PayPal, kad bank, dan kad kredit",
+              "Faedah keahlian diaktifkan secara automatik selepas pembayaran berjaya"
+            ],
+            "buttonPay": "Bayar dengan PayPal",
+            "buttonPending": "Pesanan Dalam Proses",
+            "buttonCreating": "Mencipta Pesanan...",
+            "sdkLoading": "Memuatkan PayPal...",
+            "sdkError": "Gagal memuatkan PayPal. Sila semak rangkaian anda dan cuba lagi.",
+            "sdkIneligible": "Pembayaran PayPal tidak disokong dalam persekitaran ini",
+            "sdkMissingConfig": "PayPal tidak dikonfigurasikan. Sila hubungi pentadbir.",
+            "orderCreating": "Mencipta pesanan pembayaran...",
+            "orderCreateFailed": "Gagal mencipta pesanan. Sila cuba lagi.",
+            "orderProcessing": "Keputusan pembayaran masih disahkan. Sila semak semula kemudian.",
+            "orderSuccess": "Pembayaran berjaya. Faedah keahlian anda telah diaktifkan.",
+            "orderFailed": "Pembayaran tidak berjaya. Sila cuba lagi.",
+            "orderPending": "Pembayaran belum selesai. Sila lengkapkan pembayaran dan semak semula.",
+            "orderExpired": "Pesanan pembayaran telah tamat tempoh. Sila cuba lagi.",
+            "statusQueryFailed": "Gagal menyemak status pembayaran. Sila cuba lagi kemudian.",
+            "invalidPlan": "Pelan yang dipilih tidak sah. Sila kembali dan pilih semula.",
+            "popupBlocked": "Tetingkap pembayaran disekat oleh penyemak imbas anda. Sila benarkan pop timbul untuk laman ini dan cuba lagi.",
+            "popupOpened": "Tetingkap pembayaran PayPal telah dibuka. Sila lengkapkan pembayaran dalam tetingkap tersebut.",
+            "popupClosedChecking": "Tetingkap pembayaran telah ditutup. Mengesahkan keputusan pembayaran...",
+            "popupClosedFailed": "Tetingkap pembayaran telah ditutup, tetapi pesanan tidak lengkap. Sila cuba lagi."
+          },
+          "summary": {
+            "title": "Ringkasan Pesanan",
+            "periodLabel": "Tempoh Keahlian",
+            "paymentMethodLabel": "Kaedah Pembayaran",
+            "amountLabel": "Jumlah Perlu Dibayar",
+            "paymentMethod": "Pembayaran Dalam Talian PayPal",
+            "note": "Selepas pembayaran berjaya, faedah keahlian akan diberikan secara automatik kepada akaun semasa anda.",
+            "periodMonth": "1 Bulan",
+            "periodYear": "1 Tahun",
+            "periodLife": "Seumur Hidup",
+            "emptyValue": "—"
+          },
+          "result": {
+            "checking": "Mengesahkan keputusan pembayaran...",
+            "closeLabel": "Tutup",
+            "iconAlt": "Keputusan Pembayaran",
+            "titlePrefix": "Pembayaran",
+            "successTitleHighlight": "Berjaya!",
+            "failureTitleHighlight": "Gagal!",
+            "successDescription": "Terima kasih atas pembelian anda. Keahlian anda telah diaktifkan.",
+            "failureDescription": "Pembayaran anda tidak dapat diselesaikan. Sila cuba lagi atau gunakan kaedah pembayaran lain.",
+            "orderNumber": "Nombor Pesanan",
+            "membershipType": "Jenis Keahlian",
+            "expiry": "Tarikh Luput",
+            "orderStatus": "Status Pesanan",
+            "successStatus": "Dibayar",
+            "failureStatus": "Belum Dibayar",
+            "successPrimaryAction": "Lihat di Pusat Keahlian",
+            "failurePrimaryAction": "Tukar Kaedah Pembayaran",
+            "successSecondaryAction": "OK",
+            "failureSecondaryAction": "Kembali ke Halaman",
+            "copyOrderNumber": "Salin Nombor Pesanan",
+            "copied": "Disalin",
+            "emptyValue": "—"
+          },
+          "seo": {
+            "title": "Sahkan Pembelian | VicastCam",
+            "description": "Sahkan pelan keahlian VicastCam anda dan lengkapkan pembayaran melalui PayPal."
+          },
+          "plans": [
+            {
+              "id": "inapp_chips_month",
+              "type": "month",
+              "name": "Keahlian Bulanan",
+              "description": "Nikmati semua ciri keahlian VicastCam secara bulanan",
+              "period": "1 Bulan"
+            },
+            {
+              "id": "inapp_chips_year",
+              "type": "year",
+              "name": "Keahlian Tahunan",
+              "description": "Nikmati semua ciri keahlian VicastCam untuk setahun penuh",
+              "period": "1 Tahun"
+            },
+            {
+              "id": "inapp_lifetime_vip",
+              "type": "life",
+              "name": "Keahlian Seumur Hidup",
+              "description": "Pembelian sekali, akses jangka panjang kepada ciri keahlian VicastCam",
+              "period": "Seumur Hidup"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
